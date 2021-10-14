@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 12:29:24 +0000 2021",
+		"id": 1448619604020973600,
+		"id_str": "1448626996641206272",
+		"full_text": "[#고민시] 수만가지 서사 떠올리게 만드는 고민시 화보 촬영 비하인드📸\n\n▶ https://t.co/8JibwC3TQ5\n\n#GQ #10월호 #화보 #화보촬영 #비하인드 #네이버포스트 https://t.co/Bvxx3qLbS7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고민시",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "GQ",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "10월호",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "화보",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "화보촬영",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8JibwC3TQ5",
+					"expanded_url": "http://naver.me/Fk54j6yy",
+					"display_url": "naver.me/Fk54j6yy",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448584349989834800,
+					"id_str": "1448584349989834766",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpnyphVkA4dyhN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpnyphVkA4dyhN.jpg",
+					"url": "https://t.co/Bvxx3qLbS7",
+					"display_url": "pic.twitter.com/Bvxx3qLbS7",
+					"expanded_url": "https://twitter.com/themysticstory/status/1448619604020973575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448584349989834800,
+					"id_str": "1448584349989834766",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpnyphVkA4dyhN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpnyphVkA4dyhN.jpg",
+					"url": "https://t.co/Bvxx3qLbS7",
+					"display_url": "pic.twitter.com/Bvxx3qLbS7",
+					"expanded_url": "https://twitter.com/themysticstory/status/1448619604020973575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448584349968859100,
+					"id_str": "1448584349968859140",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpnypcVgAQp2IM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpnypcVgAQp2IM.jpg",
+					"url": "https://t.co/Bvxx3qLbS7",
+					"display_url": "pic.twitter.com/Bvxx3qLbS7",
+					"expanded_url": "https://twitter.com/themysticstory/status/1448619604020973575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448584410543001600,
+					"id_str": "1448584410543001600",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpn2LGVkAAgAXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpn2LGVkAAgAXH.jpg",
+					"url": "https://t.co/Bvxx3qLbS7",
+					"display_url": "pic.twitter.com/Bvxx3qLbS7",
+					"expanded_url": "https://twitter.com/themysticstory/status/1448619604020973575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448584410492649500,
+					"id_str": "1448584410492649483",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpn2K6VQAsN7Z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpn2K6VQAsN7Z9.jpg",
+					"url": "https://t.co/Bvxx3qLbS7",
+					"display_url": "pic.twitter.com/Bvxx3qLbS7",
+					"expanded_url": "https://twitter.com/themysticstory/status/1448619604020973575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23496,
+			"friends_count": 15,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고민시] 수만가지 서사 떠올리게 만드는 고민시 화보 촬영 비하인드📸\n\n▶ https://t.co/8JibwC3TQ5\n\n#GQ #10월호 #화보 #화보촬영 #비하인드 #네이버포스트 https://t.co/Bvxx3qLbS7"
+	},
+	{
 		"created_at": "Thu Oct 14 12:11:16 +0000 2021",
 		"id": 1448612649273495600,
 		"id_str": "1448622433439735814",
