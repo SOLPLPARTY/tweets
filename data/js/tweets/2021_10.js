@@ -1,6 +1,961 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 13:11:16 +0000 2021",
+		"id": 1448997082698641400,
+		"id_str": "1448999920925659136",
+		"full_text": "📢 10/16 공연 현장 안내\n\n&lt;YongYong : RED STATION #5&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : 용용 (YongYong) (게스트 : 우태운, 아이원(IONE), 다비(DAVII))\n\n#YongYong #용용\n#우태운 #아이원 #다비\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/1XQn6qZOvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YongYong",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "용용",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "우태운",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "아이원",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "다비",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448183290704253000,
+					"id_str": "1448183290704252929",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FBj7B7QVUAE45fp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBj7B7QVUAE45fp.jpg",
+					"url": "https://t.co/1XQn6qZOvC",
+					"display_url": "pic.twitter.com/1XQn6qZOvC",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1448997082698641412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448183290704253000,
+					"id_str": "1448183290704252929",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FBj7B7QVUAE45fp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBj7B7QVUAE45fp.jpg",
+					"url": "https://t.co/1XQn6qZOvC",
+					"display_url": "pic.twitter.com/1XQn6qZOvC",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1448997082698641412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448183320110506000,
+					"id_str": "1448183320110505988",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FBj7DozVIAQLCpl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBj7DozVIAQLCpl.jpg",
+					"url": "https://t.co/1XQn6qZOvC",
+					"display_url": "pic.twitter.com/1XQn6qZOvC",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1448997082698641412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448183353119690800,
+					"id_str": "1448183353119690752",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FBj7FjxVUAAwfun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBj7FjxVUAAwfun.jpg",
+					"url": "https://t.co/1XQn6qZOvC",
+					"display_url": "pic.twitter.com/1XQn6qZOvC",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1448997082698641412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448183353258037200,
+					"id_str": "1448183353258037248",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FBj7FkSUUAA0NwF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBj7FkSUUAA0NwF.jpg",
+					"url": "https://t.co/1XQn6qZOvC",
+					"display_url": "pic.twitter.com/1XQn6qZOvC",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1448997082698641412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 10/16 공연 현장 안내\n\n&lt;YongYong : RED STATION #5&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : 용용 (YongYong) (게스트 : 우태운, 아이원(IONE), 다비(DAVII))\n\n#YongYong #용용\n#우태운 #아이원 #다비\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/1XQn6qZOvC"
+	},
+	{
+		"created_at": "Fri Oct 15 12:58:15 +0000 2021",
+		"id": 1448991492270264300,
+		"id_str": "1448996641382486017",
+		"full_text": "🎤JUMF2021 1일차 종료🎤\n\n1일차 끝🎵 2일차도 기대해 주세요!! 감기 조심하시고 내일도 만나요✋🏻\n\n#JUMF2021 #전주얼티밋뮤직페스티벌 https://t.co/GaSgqorA1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF2021",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						71,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448991477019799600,
+					"id_str": "1448991477019799554",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvaEj5VcAIOQUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvaEj5VcAIOQUJ.jpg",
+					"url": "https://t.co/GaSgqorA1G",
+					"display_url": "pic.twitter.com/GaSgqorA1G",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448991492270264324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448991477019799600,
+					"id_str": "1448991477019799554",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvaEj5VcAIOQUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvaEj5VcAIOQUJ.jpg",
+					"url": "https://t.co/GaSgqorA1G",
+					"display_url": "pic.twitter.com/GaSgqorA1G",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448991492270264324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448991477024002000,
+					"id_str": "1448991477024002057",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvaEj6VkAkn04b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvaEj6VkAkn04b.jpg",
+					"url": "https://t.co/GaSgqorA1G",
+					"display_url": "pic.twitter.com/GaSgqorA1G",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448991492270264324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448991477028118500,
+					"id_str": "1448991477028118528",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvaEj7UYAA8IwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvaEj7UYAA8IwB.jpg",
+					"url": "https://t.co/GaSgqorA1G",
+					"display_url": "pic.twitter.com/GaSgqorA1G",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448991492270264324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448991476994625500,
+					"id_str": "1448991476994625541",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBvaEjzVUAUmILp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBvaEjzVUAUmILp.jpg",
+					"url": "https://t.co/GaSgqorA1G",
+					"display_url": "pic.twitter.com/GaSgqorA1G",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448991492270264324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 637,
+			"friends_count": 1195,
+			"listed_count": 6,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤JUMF2021 1일차 종료🎤\n\n1일차 끝🎵 2일차도 기대해 주세요!! 감기 조심하시고 내일도 만나요✋🏻\n\n#JUMF2021 #전주얼티밋뮤직페스티벌 https://t.co/GaSgqorA1G"
+	},
+	{
+		"created_at": "Fri Oct 15 12:29:33 +0000 2021",
+		"id": 1448982255305576400,
+		"id_str": "1448989419898290211",
+		"full_text": "레이든 무엇이든 Q&amp;A #1  Raiden Ask Anything Q&amp;A\n\nhttps://t.co/SFQlEAGzAm\n\n#Raiden #레이든 @raidenmusic #Love_Right_Back",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SFQlEAGzAm",
+					"expanded_url": "https://youtu.be/x7xBWu55bL4",
+					"display_url": "youtu.be/x7xBWu55bL4",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9977931,
+			"friends_count": 55,
+			"listed_count": 10752,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 2398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레이든 무엇이든 Q&amp;A #1  Raiden Ask Anything Q&amp;A\n\nhttps://t.co/SFQlEAGzAm\n\n#Raiden #레이든 @raidenmusic #Love_Right_Back"
+	},
+	{
+		"created_at": "Fri Oct 15 12:29:28 +0000 2021",
+		"id": 1448980165594259500,
+		"id_str": "1448989398398287877",
+		"full_text": "#이랑 #뮤직플로우페스티벌 #MUSICFLOWFESTIVAL #WHERETHEMUSICFLOWS #음악축제 #문화도시부평 #부평구문화재단",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "뮤직플로우페스티벌",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "MUSICFLOWFESTIVAL",
+					"indices": [
+						15,
+						33
+					]
+				},
+				{
+					"text": "WHERETHEMUSICFLOWS",
+					"indices": [
+						34,
+						53
+					]
+				},
+				{
+					"text": "음악축제",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "문화도시부평",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "부평구문화재단",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1448980082287022000,
+		"in_reply_to_status_id_str": "1448980082287022091",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#이랑 #뮤직플로우페스티벌 #MUSICFLOWFESTIVAL #WHERETHEMUSICFLOWS #음악축제 #문화도시부평 #부평구문화재단"
+	},
+	{
 		"created_at": "Fri Oct 15 11:29:37 +0000 2021",
 		"id": 1448973805808849000,
 		"id_str": "1448974338024263681",
