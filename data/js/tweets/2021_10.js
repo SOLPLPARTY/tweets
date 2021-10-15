@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 15:29:24 +0000 2021",
+		"id": 1449027283847680000,
+		"id_str": "1449034683069702147",
+		"full_text": "Raiden 레이든 'Love Right Back’ Highlight Medley \n\n ➫ 2021.10.18 6PM KST \n\n#Raiden #레이든 @raidenmusic\n #Love_Right_Back \n#최유정 #CHOIYOOJUNG #WekiMeki https://t.co/GtQ1EX4wOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"text": "최유정",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "CHOIYOOJUNG",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "WekiMeki",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448957991726715000,
+					"id_str": "1448957991726714881",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu7nddVkAEt8bc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu7nddVkAEt8bc.jpg",
+					"url": "https://t.co/GtQ1EX4wOC",
+					"display_url": "pic.twitter.com/GtQ1EX4wOC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1449027283847680018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1901,
+							"h": 1267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448957991726715000,
+					"id_str": "1448957991726714881",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu7nddVkAEt8bc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu7nddVkAEt8bc.jpg",
+					"url": "https://t.co/GtQ1EX4wOC",
+					"display_url": "pic.twitter.com/GtQ1EX4wOC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1449027283847680018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1901,
+							"h": 1267,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448957991714115600,
+					"id_str": "1448957991714115589",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu7ndaVUAUyilR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu7ndaVUAUyilR.jpg",
+					"url": "https://t.co/GtQ1EX4wOC",
+					"display_url": "pic.twitter.com/GtQ1EX4wOC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1449027283847680018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1258,
+							"h": 1886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448957991726715000,
+					"id_str": "1448957991726714886",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu7nddVkAYhTg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu7nddVkAYhTg7.jpg",
+					"url": "https://t.co/GtQ1EX4wOC",
+					"display_url": "pic.twitter.com/GtQ1EX4wOC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1449027283847680018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448957991726641200,
+					"id_str": "1448957991726641154",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu7nddUcAIzCXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu7nddUcAIzCXJ.jpg",
+					"url": "https://t.co/GtQ1EX4wOC",
+					"display_url": "pic.twitter.com/GtQ1EX4wOC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1449027283847680018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1922,
+							"h": 1282,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9978580,
+			"friends_count": 55,
+			"listed_count": 10751,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 582,
+		"favorite_count": 3640,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden 레이든 'Love Right Back’ Highlight Medley \n\n ➫ 2021.10.18 6PM KST \n\n#Raiden #레이든 @raidenmusic\n #Love_Right_Back \n#최유정 #CHOIYOOJUNG #WekiMeki https://t.co/GtQ1EX4wOC"
+	},
+	{
 		"created_at": "Fri Oct 15 13:11:16 +0000 2021",
 		"id": 1448997082698641400,
 		"id_str": "1448999920925659136",
