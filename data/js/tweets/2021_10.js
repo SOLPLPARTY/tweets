@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 01:29:24 +0000 2021",
+		"id": 1448810105907007500,
+		"id_str": "1448823290303287296",
+		"full_text": "[#News] #적재\n\n적재, 데뷔 첫 전국투어 ‘서로의 서로’ 서울 공연 티켓 3분만 매진\n\n(출처: 뉴스엔 | 네이버 TV연예)\n\n✔️https://t.co/5uIREx7vKe\n\n#Jukjae #서로의서로\n#전국투어 #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5uIREx7vKe",
+					"expanded_url": "http://naver.me/F7CfAnCK",
+					"display_url": "naver.me/F7CfAnCK",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37195,
+			"friends_count": 11,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #적재\n\n적재, 데뷔 첫 전국투어 ‘서로의 서로’ 서울 공연 티켓 3분만 매진\n\n(출처: 뉴스엔 | 네이버 TV연예)\n\n✔️https://t.co/5uIREx7vKe\n\n#Jukjae #서로의서로\n#전국투어 #콘서트"
+	},
+	{
 		"created_at": "Fri Oct 15 00:29:24 +0000 2021",
 		"id": 1448802371119714300,
 		"id_str": "1448808191102439436",
