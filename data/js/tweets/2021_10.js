@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 07:11:16 +0000 2021",
+		"id": 1448906491805814800,
+		"id_str": "1448909323837624336",
+		"full_text": "&lt;오버 더 레인보우&gt; 전시는 시각과 텍스트 중심이었던\n기존 전시에서 나아가 모든 인쇄물에 점자를 병행 표기하고,영상물에는 수어와 자막을 제공하여 배리어프리 공간을 지향합니다.\n-\n🌈 제4회 오버 더 레인보우\n🌈 10/14(목)-31(일) 12:00-18:00\n🌈 KT&amp;G 상상마당 홍대 갤러리 4-5F https://t.co/QrmcOjWHw9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448821776847294500,
+					"id_str": "1448821776847294464",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FBs_utfVUAAy06Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBs_utfVUAAy06Q.jpg",
+					"url": "https://t.co/QrmcOjWHw9",
+					"display_url": "pic.twitter.com/QrmcOjWHw9",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448906491805814789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448821776847294500,
+					"id_str": "1448821776847294464",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FBs_utfVUAAy06Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBs_utfVUAAy06Q.jpg",
+					"url": "https://t.co/QrmcOjWHw9",
+					"display_url": "pic.twitter.com/QrmcOjWHw9",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448906491805814789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448821776822145000,
+					"id_str": "1448821776822145055",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FBs_utZVkB82A8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBs_utZVkB82A8T.jpg",
+					"url": "https://t.co/QrmcOjWHw9",
+					"display_url": "pic.twitter.com/QrmcOjWHw9",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448906491805814789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448821776817950700,
+					"id_str": "1448821776817950723",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FBs_utYVkAM4-cK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBs_utYVkAM4-cK.jpg",
+					"url": "https://t.co/QrmcOjWHw9",
+					"display_url": "pic.twitter.com/QrmcOjWHw9",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448906491805814789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448821776817950700,
+					"id_str": "1448821776817950722",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FBs_utYVkAIw7kq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBs_utYVkAIw7kq.jpg",
+					"url": "https://t.co/QrmcOjWHw9",
+					"display_url": "pic.twitter.com/QrmcOjWHw9",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448906491805814789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17779,
+			"friends_count": 1880,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;오버 더 레인보우&gt; 전시는 시각과 텍스트 중심이었던\n기존 전시에서 나아가 모든 인쇄물에 점자를 병행 표기하고,영상물에는 수어와 자막을 제공하여 배리어프리 공간을 지향합니다.\n-\n🌈 제4회 오버 더 레인보우\n🌈 10/14(목)-31(일) 12:00-18:00\n🌈 KT&amp;G 상상마당 홍대 갤러리 4-5F https://t.co/QrmcOjWHw9"
+	},
+	{
+		"created_at": "Fri Oct 15 06:29:34 +0000 2021",
+		"id": 1448897108459724800,
+		"id_str": "1448898826820112385",
+		"full_text": "디깅 김밥 레코즈 - 김일두 편 입니다. https://t.co/t0B1cacTJF https://t.co/deyBIzph0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t0B1cacTJF",
+					"expanded_url": "https://m.youtube.com/watch?v=CsGQ2kvrhEE&feature=youtu.be",
+					"display_url": "m.youtube.com/watch?v=CsGQ2k…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448896876183359500,
+					"id_str": "1448896876183359490",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448896876183359490/pu/img/F65mzayw21b9Qh9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448896876183359490/pu/img/F65mzayw21b9Qh9U.jpg",
+					"url": "https://t.co/deyBIzph0S",
+					"display_url": "pic.twitter.com/deyBIzph0S",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1448897108459724802/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448896876183359500,
+					"id_str": "1448896876183359490",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448896876183359490/pu/img/F65mzayw21b9Qh9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448896876183359490/pu/img/F65mzayw21b9Qh9U.jpg",
+					"url": "https://t.co/deyBIzph0S",
+					"display_url": "pic.twitter.com/deyBIzph0S",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1448897108459724802/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60741,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448896876183359490/pu/vid/640x360/enZJ9fVF5rV4Ygll.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448896876183359490/pu/pl/oZVOf2FiPN8a6Wdp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448896876183359490/pu/vid/480x270/OGf_6n9p8b_Z4uPT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139,
+			"friends_count": 190,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디깅 김밥 레코즈 - 김일두 편 입니다. https://t.co/t0B1cacTJF https://t.co/deyBIzph0S"
+	},
+	{
+		"created_at": "Fri Oct 15 06:29:27 +0000 2021",
+		"id": 1448893142489436200,
+		"id_str": "1448898797023678464",
+		"full_text": "[Playlist]\n\n구만: 나에게 번뜩이는 새로운 영감을 준 음악\n\n더 좋은 음악을 만들기 위해 항상 새로운 것들에 목말라 있다는 레트로 포크 싱어송라이터 구만. 그에게 영감을 주었던 음악들과 싱글 ‘나 혼자 남은 지구’를 기념한 짧은 인터뷰를 확인해보세요.\n\nhttps://t.co/Ok0XFXIwoC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ok0XFXIwoC",
+					"expanded_url": "http://www.highjinkxmm.com/playlist/9-10000-playlist",
+					"display_url": "highjinkxmm.com/playlist/9-100…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 457,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\n구만: 나에게 번뜩이는 새로운 영감을 준 음악\n\n더 좋은 음악을 만들기 위해 항상 새로운 것들에 목말라 있다는 레트로 포크 싱어송라이터 구만. 그에게 영감을 주었던 음악들과 싱글 ‘나 혼자 남은 지구’를 기념한 짧은 인터뷰를 확인해보세요.\n\nhttps://t.co/Ok0XFXIwoC"
+	},
+	{
 		"created_at": "Fri Oct 15 05:58:17 +0000 2021",
 		"id": 1448876538628280300,
 		"id_str": "1448890957135503386",
