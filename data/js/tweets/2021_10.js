@@ -1,10 +1,676 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 11:29:37 +0000 2021",
+		"id": 1448973805808849000,
+		"id_str": "1448974338024263681",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n게맛도 울고 갈 개똥쑥맛 #shorts #벤자민쇼츠\n\n👉 https://t.co/aJolECdLCf\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "벤자민쇼츠",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aJolECdLCf",
+					"expanded_url": "https://youtu.be/y9eryJa1ywo",
+					"display_url": "youtu.be/y9eryJa1ywo",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n게맛도 울고 갈 개똥쑥맛 #shorts #벤자민쇼츠\n\n👉 https://t.co/aJolECdLCf\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV"
+	},
+	{
+		"created_at": "Fri Oct 15 11:29:33 +0000 2021",
+		"id": 1448969400422371300,
+		"id_str": "1448974320647213059",
+		"full_text": "아시아 대세로 자리 잡고 있는 래퍼 Ramengvrl과 한국 래퍼 pH-1의 “Ain’t No MF (feat. pH-1)” MV가 공개되었습니다! \n지금 바로 확인하세요😎\n\n🎞https://t.co/apzgPirRi4\n🎶https://t.co/QluDwhmKhQ\n\n#warnerkpop #warnermusic #Ramengvrl #pH1 https://t.co/2wIA3b8o7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "Ramengvrl",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "pH1",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/apzgPirRi4",
+					"expanded_url": "https://www.youtube.com/watch?v=OOM4j8HGrB0",
+					"display_url": "youtube.com/watch?v=OOM4j8…",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/QluDwhmKhQ",
+					"expanded_url": "https://wmk.lnk.to/7tzH6ORp",
+					"display_url": "wmk.lnk.to/7tzH6ORp",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448838969030938600,
+					"id_str": "1448838969030938624",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448838969030938624/pu/img/m9PuIKP1NWB8FRS2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448838969030938624/pu/img/m9PuIKP1NWB8FRS2.jpg",
+					"url": "https://t.co/2wIA3b8o7S",
+					"display_url": "pic.twitter.com/2wIA3b8o7S",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1448969400422371331/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448838969030938600,
+					"id_str": "1448838969030938624",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448838969030938624/pu/img/m9PuIKP1NWB8FRS2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448838969030938624/pu/img/m9PuIKP1NWB8FRS2.jpg",
+					"url": "https://t.co/2wIA3b8o7S",
+					"display_url": "pic.twitter.com/2wIA3b8o7S",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1448969400422371331/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18351,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448838969030938624/pu/vid/1280x720/pjHeDTqIzCSGbPxC.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448838969030938624/pu/vid/640x360/hiINxXHfKL9zbWDj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448838969030938624/pu/pl/pgGpiUVW7Xfn2cz_.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448838969030938624/pu/vid/480x270/ReRY0iw4djVR_1B6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52071,
+			"friends_count": 495,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아시아 대세로 자리 잡고 있는 래퍼 Ramengvrl과 한국 래퍼 pH-1의 “Ain’t No MF (feat. pH-1)” MV가 공개되었습니다! \n지금 바로 확인하세요😎\n\n🎞https://t.co/apzgPirRi4\n🎶https://t.co/QluDwhmKhQ\n\n#warnerkpop #warnermusic #Ramengvrl #pH1 https://t.co/2wIA3b8o7S"
+	},
+	{
+		"created_at": "Fri Oct 15 11:29:31 +0000 2021",
+		"id": 1448964803343442000,
+		"id_str": "1448974311679791104",
+		"full_text": "[#Video] #적재\n\n적재 ‘영월愛' 두 번째 영상, 청령포 영월관광센터에서 들려 드리는 ‘알아’가 공개되었습니다💙\n\n📽 https://t.co/nzARjMr0o4\n\n#Jukjae #알아 #강원도 #영월 #영월愛 https://t.co/gSWN6C7Rcs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "알아",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "강원도",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "영월",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "영월愛",
+					"indices": [
+						116,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nzARjMr0o4",
+					"expanded_url": "https://youtu.be/SGmyCZzXZA0",
+					"display_url": "youtu.be/SGmyCZzXZA0",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448964666361712600,
+					"id_str": "1448964666361712640",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448964666361712640/pu/img/Eh4WZ-1-Qy2LYogc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448964666361712640/pu/img/Eh4WZ-1-Qy2LYogc.jpg",
+					"url": "https://t.co/gSWN6C7Rcs",
+					"display_url": "pic.twitter.com/gSWN6C7Rcs",
+					"expanded_url": "https://twitter.com/antennamusic/status/1448964803343441921/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448964666361712600,
+					"id_str": "1448964666361712640",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448964666361712640/pu/img/Eh4WZ-1-Qy2LYogc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448964666361712640/pu/img/Eh4WZ-1-Qy2LYogc.jpg",
+					"url": "https://t.co/gSWN6C7Rcs",
+					"display_url": "pic.twitter.com/gSWN6C7Rcs",
+					"expanded_url": "https://twitter.com/antennamusic/status/1448964803343441921/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448964666361712640/pu/pl/A-51B13TWWSR2w_n.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448964666361712640/pu/vid/640x352/MinotdifM9Qqd7jg.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448964666361712640/pu/vid/490x270/aQqLoRA-wiswzp2U.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37203,
+			"friends_count": 12,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n적재 ‘영월愛' 두 번째 영상, 청령포 영월관광센터에서 들려 드리는 ‘알아’가 공개되었습니다💙\n\n📽 https://t.co/nzARjMr0o4\n\n#Jukjae #알아 #강원도 #영월 #영월愛 https://t.co/gSWN6C7Rcs"
+	},
+	{
 		"created_at": "Fri Oct 15 10:29:34 +0000 2021",
 		"id": 1448956444959654000,
 		"id_str": "1448959223992360982",
-		"full_text": "[#존박]\n런웨이2에 존쌤 등장 👨‍🏫🏫 \n미주의 영어 선생님이 된 존박을 1theK 오리지널 유튜브 채널에서 만나보세요!\n🔗 https://t.co/VIYj753pQm\n\n#존박 #JohnPark #런웨이2 https://t.co/b7qvHiSiCA",
+		"full_text": "[#존박]\n런웨이2에 존쌤 등장 👨🏫🏫 \n미주의 영어 선생님이 된 존박을 1theK 오리지널 유튜브 채널에서 만나보세요!\n🔗 https://t.co/VIYj753pQm\n\n#존박 #JohnPark #런웨이2 https://t.co/b7qvHiSiCA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -222,7 +888,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#존박]\n런웨이2에 존쌤 등장 👨‍🏫🏫 \n미주의 영어 선생님이 된 존박을 1theK 오리지널 유튜브 채널에서 만나보세요!\n🔗 https://t.co/VIYj753pQm\n\n#존박 #JohnPark #런웨이2 https://t.co/b7qvHiSiCA"
+		"text": "[#존박]\n런웨이2에 존쌤 등장 👨🏫🏫 \n미주의 영어 선생님이 된 존박을 1theK 오리지널 유튜브 채널에서 만나보세요!\n🔗 https://t.co/VIYj753pQm\n\n#존박 #JohnPark #런웨이2 https://t.co/b7qvHiSiCA"
 	},
 	{
 		"created_at": "Fri Oct 15 10:11:27 +0000 2021",
