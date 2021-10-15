@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 10:29:34 +0000 2021",
+		"id": 1448956444959654000,
+		"id_str": "1448959223992360982",
+		"full_text": "[#존박]\n런웨이2에 존쌤 등장 👨‍🏫🏫 \n미주의 영어 선생님이 된 존박을 1theK 오리지널 유튜브 채널에서 만나보세요!\n🔗 https://t.co/VIYj753pQm\n\n#존박 #JohnPark #런웨이2 https://t.co/b7qvHiSiCA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "런웨이2",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VIYj753pQm",
+					"expanded_url": "https://youtu.be/Vj35EyZ9Ms8",
+					"display_url": "youtu.be/Vj35EyZ9Ms8",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448956443009245200,
+					"id_str": "1448956443009245187",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu6NUCUYAMBYLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu6NUCUYAMBYLj.jpg",
+					"url": "https://t.co/b7qvHiSiCA",
+					"display_url": "pic.twitter.com/b7qvHiSiCA",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1448956444959653888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448956443009245200,
+					"id_str": "1448956443009245187",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FBu6NUCUYAMBYLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBu6NUCUYAMBYLj.jpg",
+					"url": "https://t.co/b7qvHiSiCA",
+					"display_url": "pic.twitter.com/b7qvHiSiCA",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1448956444959653888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9027,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박]\n런웨이2에 존쌤 등장 👨‍🏫🏫 \n미주의 영어 선생님이 된 존박을 1theK 오리지널 유튜브 채널에서 만나보세요!\n🔗 https://t.co/VIYj753pQm\n\n#존박 #JohnPark #런웨이2 https://t.co/b7qvHiSiCA"
+	},
+	{
 		"created_at": "Fri Oct 15 10:11:27 +0000 2021",
 		"id": 1448943942678896600,
 		"id_str": "1448954664771366915",
@@ -1756,7 +1980,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Fri Oct 15 09:29:41 +0000 2021",
 		"id": 1448939009690849300,
 		"id_str": "1448944154831097874",
-		"full_text": "HYNN(박혜원) ’To You’ Released!!\n❤️‍🔥 https://t.co/3yLzccMr8r https://t.co/F0De86bhiH",
+		"full_text": "HYNN(박혜원) ’To You’ Released!!\n❤️🔥 https://t.co/3yLzccMr8r https://t.co/F0De86bhiH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1935,7 +2159,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "HYNN(박혜원) ’To You’ Released!!\n❤️‍🔥 https://t.co/3yLzccMr8r https://t.co/F0De86bhiH"
+		"text": "HYNN(박혜원) ’To You’ Released!!\n❤️🔥 https://t.co/3yLzccMr8r https://t.co/F0De86bhiH"
 	},
 	{
 		"created_at": "Fri Oct 15 09:29:36 +0000 2021",
