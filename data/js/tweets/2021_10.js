@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 03:29:27 +0000 2021",
+		"id": 1448846094100676600,
+		"id_str": "1448853498796388395",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 211015 FRI\n⠀\n🔸 터치드 (Touched) [Back to you]\n🔸 Eisen, 정음 [Ocean Drive]\n🔸 전두희 (Jun Doohee) [잔상]\n🔸 남유선 [Things We Lost &amp; Found]\n\n#터치드 #Eisen #정음 #전두희 #남유선 #미러볼뮤직 #인디음악 \n⠀ https://t.co/t8NrMuYwzZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "터치드",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "Eisen",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "정음",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "전두희",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "남유선",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448269887411875800,
+					"id_str": "1448269887411875849",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448269887411875849/pu/img/KXZrQbInNhmf6izO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448269887411875849/pu/img/KXZrQbInNhmf6izO.jpg",
+					"url": "https://t.co/t8NrMuYwzZ",
+					"display_url": "pic.twitter.com/t8NrMuYwzZ",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1448846094100676610/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448269887411875800,
+					"id_str": "1448269887411875849",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448269887411875849/pu/img/KXZrQbInNhmf6izO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448269887411875849/pu/img/KXZrQbInNhmf6izO.jpg",
+					"url": "https://t.co/t8NrMuYwzZ",
+					"display_url": "pic.twitter.com/t8NrMuYwzZ",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1448846094100676610/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448269887411875849/pu/vid/720x720/V3GWif-Z-URapQjH.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448269887411875849/pu/vid/320x320/aLUfQkDJ9gHN1Wv_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448269887411875849/pu/pl/w81wwjkYJAZFEf1V.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448269887411875849/pu/vid/540x540/1QEPjTsLlM9_SATF.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/ejIyUUwHsO…",
+			"url": "https://t.co/TNuoTAkFOH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNuoTAkFOH",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ejIyUUwHsO",
+							"expanded_url": "http://youtube.com/mirrorballmusi",
+							"display_url": "youtube.com/mirrorballmusi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9476,
+			"friends_count": 2617,
+			"listed_count": 245,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1634261967",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 211015 FRI\n⠀\n🔸 터치드 (Touched) [Back to you]\n🔸 Eisen, 정음 [Ocean Drive]\n🔸 전두희 (Jun Doohee) [잔상]\n🔸 남유선 [Things We Lost &amp; Found]\n\n#터치드 #Eisen #정음 #전두희 #남유선 #미러볼뮤직 #인디음악 \n⠀ https://t.co/t8NrMuYwzZ"
+	},
+	{
 		"created_at": "Fri Oct 15 03:14:09 +0000 2021",
 		"id": 1448849650866401300,
 		"id_str": "1448849650866401296",
