@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 09:58:17 +0000 2021",
+		"id": 1449299381677543400,
+		"id_str": "1449313739791077380",
+		"full_text": "KCON:TACT HI 5 &lt;Backstage Behind&gt; VOD SHOW KWP 💥 \n🔗 FULL VOD : https://t.co/nTnsUtt0PQ  \n✅ Residents of Korea, please use TVING. \n✅ 한국 거주자는 티빙을 이용해 주세요.  #JO1 #OWV #ENJIN https://t.co/p0mwWzp3jY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JO1",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "ENJIN",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtt0PQ",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449299169026318300,
+					"id_str": "1449299169026318342",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449299169026318342/pu/img/2Bz2RQ7XzEARTCsY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449299169026318342/pu/img/2Bz2RQ7XzEARTCsY.jpg",
+					"url": "https://t.co/p0mwWzp3jY",
+					"display_url": "pic.twitter.com/p0mwWzp3jY",
+					"expanded_url": "https://twitter.com/KCON_official/status/1449299381677543425/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449299169026318300,
+					"id_str": "1449299169026318342",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449299169026318342/pu/img/2Bz2RQ7XzEARTCsY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449299169026318342/pu/img/2Bz2RQ7XzEARTCsY.jpg",
+					"url": "https://t.co/p0mwWzp3jY",
+					"display_url": "pic.twitter.com/p0mwWzp3jY",
+					"expanded_url": "https://twitter.com/KCON_official/status/1449299381677543425/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56725,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1449299169026318342/pu/vid/640x360/pMdgwtcE7Bpg8yA4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1449299169026318342/pu/pl/jWXdoOuoXZdD9uQs.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1449299169026318342/pu/vid/480x270/GkyIPqTMZVrXDwYh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416519,
+			"friends_count": 75,
+			"listed_count": 1030,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 488,
+		"favorite_count": 994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON:TACT HI 5 &lt;Backstage Behind&gt; VOD SHOW KWP 💥 \n🔗 FULL VOD : https://t.co/nTnsUtt0PQ  \n✅ Residents of Korea, please use TVING. \n✅ 한국 거주자는 티빙을 이용해 주세요.  #JO1 #OWV #ENJIN https://t.co/p0mwWzp3jY"
+	},
+	{
+		"created_at": "Sat Oct 16 09:58:15 +0000 2021",
+		"id": 1449299082862678000,
+		"id_str": "1449313730983047176",
+		"full_text": "KCON:TACT HI 5 &lt;Backstage Behind&gt; VOD SHOW KWP 💥\n🔗 FULL VOD : https://t.co/nTnsUtt0PQ\n\n✅ Residents of Korea, please use TVING.\n✅ 한국 거주자는 티빙을 이용해 주세요.\n\n#JO1 #OWV #ENJIN https://t.co/31Jr3q5Syh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JO1",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "ENJIN",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtt0PQ",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448532938425966600,
+					"id_str": "1448532938425966593",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo5CGhVIAEZDk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo5CGhVIAEZDk8.jpg",
+					"url": "https://t.co/31Jr3q5Syh",
+					"display_url": "pic.twitter.com/31Jr3q5Syh",
+					"expanded_url": "https://twitter.com/KCON_official/status/1449299082862678016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448532938425966600,
+					"id_str": "1448532938425966593",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo5CGhVIAEZDk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo5CGhVIAEZDk8.jpg",
+					"url": "https://t.co/31Jr3q5Syh",
+					"display_url": "pic.twitter.com/31Jr3q5Syh",
+					"expanded_url": "https://twitter.com/KCON_official/status/1449299082862678016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416519,
+			"friends_count": 75,
+			"listed_count": 1030,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 582,
+		"favorite_count": 1124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON:TACT HI 5 &lt;Backstage Behind&gt; VOD SHOW KWP 💥\n🔗 FULL VOD : https://t.co/nTnsUtt0PQ\n\n✅ Residents of Korea, please use TVING.\n✅ 한국 거주자는 티빙을 이용해 주세요.\n\n#JO1 #OWV #ENJIN https://t.co/31Jr3q5Syh"
+	},
+	{
 		"created_at": "Sat Oct 16 09:11:32 +0000 2021",
 		"id": 1449301976710369300,
 		"id_str": "1449301976710369282",
