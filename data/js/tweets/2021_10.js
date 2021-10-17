@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 05:11:16 +0000 2021",
+		"id": 1449589313713238000,
+		"id_str": "1449603900634501123",
+		"full_text": "[시공간집 4] 후일담 2\n\n김유림 시인에게서 새롭게 탄생할 &lt;점 섬: 재미공작소를 위한 한 가지 지도: 섬 점&gt;을 기다려주세요. \n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/KDBog0PXxI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "시공간집4",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "김승일",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "김유림",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "문보영",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "배수연",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "백은선",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "안미옥",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "이설빈",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "이소호",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이혜미",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "유이우",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "2021문래창작촌지원사업MEET",
+					"indices": [
+						151,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449588947923849200,
+					"id_str": "1449588947923849220",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449588947923849220/pu/img/aXRMqVxddneDBDN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449588947923849220/pu/img/aXRMqVxddneDBDN0.jpg",
+					"url": "https://t.co/KDBog0PXxI",
+					"display_url": "pic.twitter.com/KDBog0PXxI",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1449589313713238024/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449588947923849200,
+					"id_str": "1449588947923849220",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449588947923849220/pu/img/aXRMqVxddneDBDN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449588947923849220/pu/img/aXRMqVxddneDBDN0.jpg",
+					"url": "https://t.co/KDBog0PXxI",
+					"display_url": "pic.twitter.com/KDBog0PXxI",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1449589313713238024/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14500,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1449588947923849220/pu/vid/320x320/YdrRVJNGyA7vvsue.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1449588947923849220/pu/pl/7NABSOdxC87GAdKL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1449588947923849220/pu/vid/540x540/loFVFAymZR7b6Fk9.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1449588947923849220/pu/vid/640x640/DgWqqUnn_DdI6vuJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449234064704041000,
+		"in_reply_to_status_id_str": "1449234064704040964",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8383,
+			"friends_count": 554,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 4] 후일담 2\n\n김유림 시인에게서 새롭게 탄생할 &lt;점 섬: 재미공작소를 위한 한 가지 지도: 섬 점&gt;을 기다려주세요. \n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/KDBog0PXxI"
+	},
+	{
+		"created_at": "Sun Oct 17 04:58:14 +0000 2021",
+		"id": 1449586385032077300,
+		"id_str": "1449600620667805696",
+		"full_text": "☀️화창한 일요일☀️\n\nJUMF는 3일차 리허설중!\n\n오늘 전주 날씨는 🥶한파주의보 발효🥶로 공연이 진행되는 저녁에는 매우 춥습니다!\n\n🧦두꺼운 겉옷과 방한용품을 꼼꼼히 준비해서 공연 즐기러 와주세요🧣🧤\n\n그럼 공연장에서 만나요👋🏻\n\n#JUMF #전주얼티밋뮤직페스티벌 https://t.co/xym0MXDGfg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449586374194069500,
+					"id_str": "1449586374194069505",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FB33IIkVgAEBL2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB33IIkVgAEBL2t.jpg",
+					"url": "https://t.co/xym0MXDGfg",
+					"display_url": "pic.twitter.com/xym0MXDGfg",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1449586385032077315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449586374194069500,
+					"id_str": "1449586374194069505",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FB33IIkVgAEBL2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB33IIkVgAEBL2t.jpg",
+					"url": "https://t.co/xym0MXDGfg",
+					"display_url": "pic.twitter.com/xym0MXDGfg",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1449586385032077315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1190,
+			"listed_count": 6,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☀️화창한 일요일☀️\n\nJUMF는 3일차 리허설중!\n\n오늘 전주 날씨는 🥶한파주의보 발효🥶로 공연이 진행되는 저녁에는 매우 춥습니다!\n\n🧦두꺼운 겉옷과 방한용품을 꼼꼼히 준비해서 공연 즐기러 와주세요🧣🧤\n\n그럼 공연장에서 만나요👋🏻\n\n#JUMF #전주얼티밋뮤직페스티벌 https://t.co/xym0MXDGfg"
+	},
+	{
 		"created_at": "Sun Oct 17 03:58:15 +0000 2021",
 		"id": 1449570863553126400,
 		"id_str": "1449585522330984449",
