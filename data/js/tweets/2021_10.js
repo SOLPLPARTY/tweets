@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 09:29:24 +0000 2021",
+		"id": 1449661470820626400,
+		"id_str": "1449668862010593287",
+		"full_text": "남우현(Nam Woo Hyun)\n4th Mini Album [With]｜Album Cover\n\n2021.10.19 6PM (KST) Release\n\n#남우현 #NAMWOOHYUN\n#냉정과열정사이 #calmandpassion #With\n#INFINITE #인피니트 https://t.co/szKBYFrtTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "남우현",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "NAMWOOHYUN",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "냉정과열정사이",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "calmandpassion",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"text": "With",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449327990958030800,
+					"id_str": "1449327990958030848",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0MIQAVgAA_F3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0MIQAVgAA_F3I.jpg",
+					"url": "https://t.co/szKBYFrtTq",
+					"display_url": "pic.twitter.com/szKBYFrtTq",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1449661470820626439/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449327990958030800,
+					"id_str": "1449327990958030848",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0MIQAVgAA_F3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0MIQAVgAA_F3I.jpg",
+					"url": "https://t.co/szKBYFrtTq",
+					"display_url": "pic.twitter.com/szKBYFrtTq",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1449661470820626439/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449327991058694100,
+					"id_str": "1449327991058694153",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FB0MIQYVgAkcxXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB0MIQYVgAkcxXG.jpg",
+					"url": "https://t.co/szKBYFrtTq",
+					"display_url": "pic.twitter.com/szKBYFrtTq",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1449661470820626439/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430362,
+			"friends_count": 11,
+			"listed_count": 1919,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1633683713",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 490,
+		"favorite_count": 846,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "남우현(Nam Woo Hyun)\n4th Mini Album [With]｜Album Cover\n\n2021.10.19 6PM (KST) Release\n\n#남우현 #NAMWOOHYUN\n#냉정과열정사이 #calmandpassion #With\n#INFINITE #인피니트 https://t.co/szKBYFrtTq"
+	},
+	{
 		"created_at": "Sun Oct 17 09:12:38 +0000 2021",
 		"id": 1449664639059611600,
 		"id_str": "1449664639059611651",
