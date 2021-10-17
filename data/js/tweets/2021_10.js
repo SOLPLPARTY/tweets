@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 08:11:16 +0000 2021",
+		"id": 1449636032211656700,
+		"id_str": "1449649199117705222",
+		"full_text": "와주셔서 감사합니다. 저희도 그립네요🥲 https://t.co/1MfT0j9GS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1MfT0j9GS9",
+					"expanded_url": "https://twitter.com/fulsymphony/status/1449610137342070785",
+					"display_url": "twitter.com/fulsymphony/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8384,
+			"friends_count": 554,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1449610137342070800,
+		"quoted_status_id_str": "1449610137342070785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1MfT0j9GS9",
+			"expanded": "https://twitter.com/fulsymphony/status/1449610137342070785",
+			"display": "twitter.com/fulsymphony/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 17 05:36:03 +0000 2021",
+			"id": 1449610137342070800,
+			"id_str": "1449610137342070785",
+			"full_text": "드라이브 정리하다가 재미공작소 탐테ㅋㅋ\n이 날 하루종일 공연보고 친구집에서 자고 너무 재밌었는데 그립다 https://t.co/E7b6T2OZBU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1449610127141531600,
+						"id_str": "1449610127141531653",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FB4MuvMUcAU5pww.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FB4MuvMUcAU5pww.jpg",
+						"url": "https://t.co/E7b6T2OZBU",
+						"display_url": "pic.twitter.com/E7b6T2OZBU",
+						"expanded_url": "https://twitter.com/fulsymphony/status/1449610137342070785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 479,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 846,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1027,
+								"h": 1457,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1449610127141531600,
+						"id_str": "1449610127141531653",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FB4MuvMUcAU5pww.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FB4MuvMUcAU5pww.jpg",
+						"url": "https://t.co/E7b6T2OZBU",
+						"display_url": "pic.twitter.com/E7b6T2OZBU",
+						"expanded_url": "https://twitter.com/fulsymphony/status/1449610137342070785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 479,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 846,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1027,
+								"h": 1457,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 904355528683405300,
+				"id_str": "904355528683405313",
+				"name": "RR",
+				"screen_name": "fulsymphony",
+				"location": "",
+				"description": "다양하게",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9,
+				"friends_count": 187,
+				"listed_count": 0,
+				"created_at": "Sun Sep 03 14:48:54 +0000 2017",
+				"favourites_count": 495,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 694,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1427570251772796933/EjnjRr3W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427570251772796933/EjnjRr3W_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와주셔서 감사합니다. 저희도 그립네요🥲 https://t.co/1MfT0j9GS9"
+	},
+	{
 		"created_at": "Sun Oct 17 05:11:16 +0000 2021",
 		"id": 1449589313713238000,
 		"id_str": "1449603900634501123",
