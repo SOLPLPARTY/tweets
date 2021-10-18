@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 05:11:17 +0000 2021",
+		"id": 1449963451325976600,
+		"id_str": "1449966290135887872",
+		"full_text": "♥지친 일상에 작은 쉼표가 필요할 때,\n[RE:SPES ANDONG 2021 × ROLLINGHALL]\n올 가을, 안동으로 떠나볼까?\n\n📌\n공연도 즐기고!\n안동 문화관광단지 할인도 받고!\n\n관객 할인혜택 알아보기!\n\n※현장에서 입장 손목띠 혹은 예매내역링크(캡처본 확인 불가)를 보여주셔야 할인 혜택을 받을 수 있습니다. https://t.co/yXiLVW2YeD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449948402037387300,
+					"id_str": "1449948402037387267",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9AY7YVcAM9EvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9AY7YVcAM9EvB.jpg",
+					"url": "https://t.co/yXiLVW2YeD",
+					"display_url": "pic.twitter.com/yXiLVW2YeD",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1449963451325976576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449948402037387300,
+					"id_str": "1449948402037387267",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9AY7YVcAM9EvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9AY7YVcAM9EvB.jpg",
+					"url": "https://t.co/yXiLVW2YeD",
+					"display_url": "pic.twitter.com/yXiLVW2YeD",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1449963451325976576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449948422153277400,
+					"id_str": "1449948422153277446",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9AaGUVkAYCdwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9AaGUVkAYCdwl.jpg",
+					"url": "https://t.co/yXiLVW2YeD",
+					"display_url": "pic.twitter.com/yXiLVW2YeD",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1449963451325976576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449948471738310700,
+					"id_str": "1449948471738310658",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9Ac_CVIAIQw66.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9Ac_CVIAIQw66.jpg",
+					"url": "https://t.co/yXiLVW2YeD",
+					"display_url": "pic.twitter.com/yXiLVW2YeD",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1449963451325976576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449948505091440600,
+					"id_str": "1449948505091440642",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9Ae7SVgAIHUwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9Ae7SVgAIHUwP.jpg",
+					"url": "https://t.co/yXiLVW2YeD",
+					"display_url": "pic.twitter.com/yXiLVW2YeD",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1449963451325976576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "♥지친 일상에 작은 쉼표가 필요할 때,\n[RE:SPES ANDONG 2021 × ROLLINGHALL]\n올 가을, 안동으로 떠나볼까?\n\n📌\n공연도 즐기고!\n안동 문화관광단지 할인도 받고!\n\n관객 할인혜택 알아보기!\n\n※현장에서 입장 손목띠 혹은 예매내역링크(캡처본 확인 불가)를 보여주셔야 할인 혜택을 받을 수 있습니다. https://t.co/yXiLVW2YeD"
+	},
+	{
 		"created_at": "Mon Oct 18 03:29:38 +0000 2021",
 		"id": 1449938323561009200,
 		"id_str": "1449940709067341824",
