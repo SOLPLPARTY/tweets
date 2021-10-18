@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 03:29:38 +0000 2021",
+		"id": 1449938323561009200,
+		"id_str": "1449940709067341824",
+		"full_text": "🔥Out Now🔥\n우리같은사람들(Woogotsa) - '새집줄게 헌집다오' Give you a new house but Give me an old house 🏡\n\n앞만 보고 달려가다가 힘이 들면 가끔은 뒤를 돌아보고 웃음 짓는 날들도 여러분께 있었으면 좋겠습니다.\n\n🎧 Streaming 🎧\n#woogotsa #kband #kindie #kpop #우리같은사람들 #kballad https://t.co/uEbM0BzzCd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "woogotsa",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "kband",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "우리같은사람들",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "kballad",
+					"indices": [
+						203,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449938035663990800,
+					"id_str": "1449938035663990784",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FB829hoUcAAh_d_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB829hoUcAAh_d_.jpg",
+					"url": "https://t.co/uEbM0BzzCd",
+					"display_url": "pic.twitter.com/uEbM0BzzCd",
+					"expanded_url": "https://twitter.com/sugar_records/status/1449938323561009159/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449938035663990800,
+					"id_str": "1449938035663990784",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FB829hoUcAAh_d_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB829hoUcAAh_d_.jpg",
+					"url": "https://t.co/uEbM0BzzCd",
+					"display_url": "pic.twitter.com/uEbM0BzzCd",
+					"expanded_url": "https://twitter.com/sugar_records/status/1449938323561009159/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 37,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥Out Now🔥\n우리같은사람들(Woogotsa) - '새집줄게 헌집다오' Give you a new house but Give me an old house 🏡\n\n앞만 보고 달려가다가 힘이 들면 가끔은 뒤를 돌아보고 웃음 짓는 날들도 여러분께 있었으면 좋겠습니다.\n\n🎧 Streaming 🎧\n#woogotsa #kband #kindie #kpop #우리같은사람들 #kballad https://t.co/uEbM0BzzCd"
+	},
+	{
+		"created_at": "Mon Oct 18 03:29:29 +0000 2021",
+		"id": 1449936575714906000,
+		"id_str": "1449940670672740353",
+		"full_text": "‘이자람’의 새 앨범 [고고천변] 오피셜 티저 공개!\n\n🎧 이자람 트레디션 [고고천변]\n🗓 2021.10.26 (Tue) 6pm\n\n#이자람 #고고천변 #leejaram #gogocheonbyeon https://t.co/7M2VFyqbwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "고고천변",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "leejaram",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "gogocheonbyeon",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7M2VFyqbwl",
+					"expanded_url": "https://twitter.com/jjjjjam/status/1449919067247169539",
+					"display_url": "twitter.com/jjjjjam/status…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1287,
+			"friends_count": 185,
+			"listed_count": 0,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1449919067247169500,
+		"quoted_status_id_str": "1449919067247169539",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7M2VFyqbwl",
+			"expanded": "https://twitter.com/jjjjjam/status/1449919067247169539",
+			"display": "twitter.com/jjjjjam/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 18 02:03:38 +0000 2021",
+			"id": 1449919067247169500,
+			"id_str": "1449919067247169539",
+			"full_text": "이자람 트레디션 [고고천변]\nLee Jaram Tradition\n[Gogocheonbyeon]\n2021.10.26 (Tue) 6pm https://t.co/B6f8dmtMIQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1449919032828727300,
+						"id_str": "1449919032828727301",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449919032828727301/pu/img/fH0xNl2Ymx4YErNd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449919032828727301/pu/img/fH0xNl2Ymx4YErNd.jpg",
+						"url": "https://t.co/B6f8dmtMIQ",
+						"display_url": "pic.twitter.com/B6f8dmtMIQ",
+						"expanded_url": "https://twitter.com/jjjjjam/status/1449919067247169539/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1449919032828727300,
+						"id_str": "1449919032828727301",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1449919032828727301/pu/img/fH0xNl2Ymx4YErNd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1449919032828727301/pu/img/fH0xNl2Ymx4YErNd.jpg",
+						"url": "https://t.co/B6f8dmtMIQ",
+						"display_url": "pic.twitter.com/B6f8dmtMIQ",
+						"expanded_url": "https://twitter.com/jjjjjam/status/1449919067247169539/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 29738,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1449919032828727301/pu/pl/EJGSi4xNIGPHJA7T.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1449919032828727301/pu/vid/540x540/JjQ0vhikxQdsHf4O.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1449919032828727301/pu/vid/320x320/PAfSSD4TICHxBcoV.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1449919032828727301/pu/vid/640x640/D5SVmE8OINfRHiRY.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110053057,
+				"id_str": "110053057",
+				"name": "LeeJaram",
+				"screen_name": "jjjjjam",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12128,
+				"friends_count": 174,
+				"listed_count": 352,
+				"created_at": "Sun Jan 31 05:10:11 +0000 2010",
+				"favourites_count": 4825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6422,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831076716260962305/jVDYVNgs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831076716260962305/jVDYVNgs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110053057/1597380254",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘이자람’의 새 앨범 [고고천변] 오피셜 티저 공개!\n\n🎧 이자람 트레디션 [고고천변]\n🗓 2021.10.26 (Tue) 6pm\n\n#이자람 #고고천변 #leejaram #gogocheonbyeon https://t.co/7M2VFyqbwl"
+	},
+	{
+		"created_at": "Mon Oct 18 03:29:27 +0000 2021",
+		"id": 1449933315750838300,
+		"id_str": "1449940661843673089",
+		"full_text": "#너드커넥션 #nerdconnection #정규1집 #정규앨범 #발매 #artwork #new_century_masterpiece_cinema #NCMC #신곡 #신곡추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "nerdconnection",
+					"indices": [
+						7,
+						22
+					]
+				},
+				{
+					"text": "정규1집",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "정규앨범",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "artwork",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "new_century_masterpiece_cinema",
+					"indices": [
+						48,
+						79
+					]
+				},
+				{
+					"text": "NCMC",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "신곡추천",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449933290408870000,
+		"in_reply_to_status_id_str": "1449933290408869890",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2144,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#너드커넥션 #nerdconnection #정규1집 #정규앨범 #발매 #artwork #new_century_masterpiece_cinema #NCMC #신곡 #신곡추천"
+	},
+	{
 		"created_at": "Mon Oct 18 02:29:29 +0000 2021",
 		"id": 1449923579886243800,
 		"id_str": "1449925573665595393",
