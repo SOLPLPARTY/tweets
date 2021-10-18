@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 07:11:17 +0000 2021",
+		"id": 1449993307036156000,
+		"id_str": "1449996488361357315",
+		"full_text": "https://t.co/SH1saJ01Hg #2 모던다락방\n.\n✔공연 일시 : 10.29. 금 . PM 8\n✔공연 장소 : KT&amp;G상상마당 춘천 사운드홀\n✔예매 : 10.15 금 네이버 예약\nhttps://t.co/kOc6kt2XHo https://t.co/0Fc6ghbax6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SH1saJ01Hg",
+					"expanded_url": "http://SSHOW.BOX",
+					"display_url": "SSHOW.BOX",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/kOc6kt2XHo",
+					"expanded_url": "https://booking.naver.com/booking/5/bizes/196238",
+					"display_url": "booking.naver.com/booking/5/bize…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449993296248377300,
+					"id_str": "1449993296248377346",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9pOHWVEAIIgPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9pOHWVEAIIgPA.jpg",
+					"url": "https://t.co/0Fc6ghbax6",
+					"display_url": "pic.twitter.com/0Fc6ghbax6",
+					"expanded_url": "https://twitter.com/SSmadang/status/1449993307036155906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449993296248377300,
+					"id_str": "1449993296248377346",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FB9pOHWVEAIIgPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB9pOHWVEAIIgPA.jpg",
+					"url": "https://t.co/0Fc6ghbax6",
+					"display_url": "pic.twitter.com/0Fc6ghbax6",
+					"expanded_url": "https://twitter.com/SSmadang/status/1449993307036155906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17777,
+			"friends_count": 1879,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/SH1saJ01Hg #2 모던다락방\n.\n✔공연 일시 : 10.29. 금 . PM 8\n✔공연 장소 : KT&amp;G상상마당 춘천 사운드홀\n✔예매 : 10.15 금 네이버 예약\nhttps://t.co/kOc6kt2XHo https://t.co/0Fc6ghbax6"
+	},
+	{
 		"created_at": "Mon Oct 18 06:11:36 +0000 2021",
 		"id": 1449978550732345300,
 		"id_str": "1449981470274097157",
