@@ -1,6 +1,1098 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 09:29:54 +0000 2021",
+		"id": 1450393237802213400,
+		"id_str": "1450393761842860037",
+		"full_text": "[#Video] #안테나\n\n💥무편집 풀버전💥 우당탕탕 안테나 로고송 공개➰ 여러분의 원픽은?\n\n▶https://t.co/i0l7xqabyG\n\n매주 월, 금 오후 5시 공개!📡✨\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#Antenna #더듬이TV #우당탕탕안테나 #카카오TV https://t.co/9Zirw8FDIj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i0l7xqabyG",
+					"expanded_url": "https://youtu.be/Wm4nIzG679c",
+					"display_url": "youtu.be/Wm4nIzG679c",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450393226272067600,
+					"id_str": "1450393226272067588",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDU9GyUUAQYNH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCDU9GyUUAQYNH6.jpg",
+					"url": "https://t.co/9Zirw8FDIj",
+					"display_url": "pic.twitter.com/9Zirw8FDIj",
+					"expanded_url": "https://twitter.com/antennamusic/status/1450393237802213376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450393226272067600,
+					"id_str": "1450393226272067588",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDU9GyUUAQYNH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCDU9GyUUAQYNH6.jpg",
+					"url": "https://t.co/9Zirw8FDIj",
+					"display_url": "pic.twitter.com/9Zirw8FDIj",
+					"expanded_url": "https://twitter.com/antennamusic/status/1450393237802213376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37225,
+			"friends_count": 12,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #안테나\n\n💥무편집 풀버전💥 우당탕탕 안테나 로고송 공개➰ 여러분의 원픽은?\n\n▶https://t.co/i0l7xqabyG\n\n매주 월, 금 오후 5시 공개!📡✨\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#Antenna #더듬이TV #우당탕탕안테나 #카카오TV https://t.co/9Zirw8FDIj"
+	},
+	{
+		"created_at": "Tue Oct 19 09:29:48 +0000 2021",
+		"id": 1450393148056686600,
+		"id_str": "1450393736199000067",
+		"full_text": "#손님포차 #박소은 #박손님 #박손장 #일기 #손원들사연과함께 #유튜브라이브 #스트리밍 #생방송 #유어썸머",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손님포차",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "박손님",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "박손장",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "일기",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "손원들사연과함께",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "스트리밍",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "생방송",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						54,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450393113290162200,
+		"in_reply_to_status_id_str": "1450393113290162180",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#손님포차 #박소은 #박손님 #박손장 #일기 #손원들사연과함께 #유튜브라이브 #스트리밍 #생방송 #유어썸머"
+	},
+	{
+		"created_at": "Tue Oct 19 09:29:42 +0000 2021",
+		"id": 1450393113290162200,
+		"id_str": "1450393710584270854",
+		"full_text": "[#손님포차] '일기'편\n\n📢 아- 아- ! 손객 여러분께 알립니다!\n바로 내일-! 박손장의 열 아홉, 스물, 스물 하나의 기록을 가지고 찾아옵니다🙌🏻\n\n10월 20일 수요일 밤 9시! 유튜브 \"유어썸머\" 채널에서 함께 해요!👻\n\n▫️ 손님포차 '일기'편 사연은 19일(화)까지 받습니다. https://t.co/VRbFTrwFNf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손님포차",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450391232421580800,
+					"id_str": "1450391232421580804",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDTJDHUUAQLJ5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCDTJDHUUAQLJ5F.jpg",
+					"url": "https://t.co/VRbFTrwFNf",
+					"display_url": "pic.twitter.com/VRbFTrwFNf",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1450393113290162180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450391232421580800,
+					"id_str": "1450391232421580804",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDTJDHUUAQLJ5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCDTJDHUUAQLJ5F.jpg",
+					"url": "https://t.co/VRbFTrwFNf",
+					"display_url": "pic.twitter.com/VRbFTrwFNf",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1450393113290162180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450391243922366500,
+					"id_str": "1450391243922366468",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDTJt9UYAQkc0O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCDTJt9UYAQkc0O.jpg",
+					"url": "https://t.co/VRbFTrwFNf",
+					"display_url": "pic.twitter.com/VRbFTrwFNf",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1450393113290162180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손님포차] '일기'편\n\n📢 아- 아- ! 손객 여러분께 알립니다!\n바로 내일-! 박손장의 열 아홉, 스물, 스물 하나의 기록을 가지고 찾아옵니다🙌🏻\n\n10월 20일 수요일 밤 9시! 유튜브 \"유어썸머\" 채널에서 함께 해요!👻\n\n▫️ 손님포차 '일기'편 사연은 19일(화)까지 받습니다. https://t.co/VRbFTrwFNf"
+	},
+	{
+		"created_at": "Tue Oct 19 09:29:38 +0000 2021",
+		"id": 1450393079265960000,
+		"id_str": "1450393693341601794",
+		"full_text": "[김우주]\n10월 23일 토요일 히피토끼에서 김우주의 공연이 있습니다.\n프로필 링크를 통해 예매 가능합니다.\n✨공연 순서\n18:30 - 19:00 김우주\n19:30 - 20:00 우주문\n20:30 - 21:00 씩제프\n✨예매 금액\n18,000 원\n✨예매 링크\nhttps://t.co/hX2JFXNGHT\n#김우주 #music #음악 #노래 #인디 https://t.co/CrkaPl4NAr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						189,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hX2JFXNGHT",
+					"expanded_url": "https://bit.ly/3AJX3Je",
+					"display_url": "bit.ly/3AJX3Je",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450393035158679600,
+					"id_str": "1450393035158679556",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDUx-1VcAQ6CfW.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCDUx-1VcAQ6CfW.png",
+					"url": "https://t.co/CrkaPl4NAr",
+					"display_url": "pic.twitter.com/CrkaPl4NAr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1450393079265959937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 526,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 526,
+							"h": 526,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 526,
+							"h": 526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450393035158679600,
+					"id_str": "1450393035158679556",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDUx-1VcAQ6CfW.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCDUx-1VcAQ6CfW.png",
+					"url": "https://t.co/CrkaPl4NAr",
+					"display_url": "pic.twitter.com/CrkaPl4NAr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1450393079265959937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 526,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 526,
+							"h": 526,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 526,
+							"h": 526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n10월 23일 토요일 히피토끼에서 김우주의 공연이 있습니다.\n프로필 링크를 통해 예매 가능합니다.\n✨공연 순서\n18:30 - 19:00 김우주\n19:30 - 20:00 우주문\n20:30 - 21:00 씩제프\n✨예매 금액\n18,000 원\n✨예매 링크\nhttps://t.co/hX2JFXNGHT\n#김우주 #music #음악 #노래 #인디 https://t.co/CrkaPl4NAr"
+	},
+	{
+		"created_at": "Tue Oct 19 09:29:32 +0000 2021",
+		"id": 1450388803835752400,
+		"id_str": "1450393671686311942",
+		"full_text": "💿NEW MUSIC TODAY💿\n“Xydo(시도) - 아이(feat.민서)\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnermusic #시도 #Xydo #민서 #MINSEO #아이 #I #그루블린 #GROOVL1N https://t.co/WJPRmGRV09",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"text": "시도",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "Xydo",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "아이",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "I",
+					"indices": [
+						108,
+						110
+					]
+				},
+				{
+					"text": "그루블린",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "GROOVL1N",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450388662953209900,
+					"id_str": "1450388662953209858",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450388662953209858/pu/img/GSlmVDrmvdtj0Dd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450388662953209858/pu/img/GSlmVDrmvdtj0Dd-.jpg",
+					"url": "https://t.co/WJPRmGRV09",
+					"display_url": "pic.twitter.com/WJPRmGRV09",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1450388803835752454/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450388662953209900,
+					"id_str": "1450388662953209858",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450388662953209858/pu/img/GSlmVDrmvdtj0Dd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450388662953209858/pu/img/GSlmVDrmvdtj0Dd-.jpg",
+					"url": "https://t.co/WJPRmGRV09",
+					"display_url": "pic.twitter.com/WJPRmGRV09",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1450388803835752454/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 53586,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450388662953209858/pu/vid/320x320/_KCMgdPeFHe4rn9S.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450388662953209858/pu/vid/720x720/BZD9Ss7yCuFDOfG-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1450388662953209858/pu/pl/nbsCZvVx_i7v9jlF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450388662953209858/pu/vid/540x540/ICGg-YrgqiUmJTJ1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52083,
+			"friends_count": 495,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“Xydo(시도) - 아이(feat.민서)\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnermusic #시도 #Xydo #민서 #MINSEO #아이 #I #그루블린 #GROOVL1N https://t.co/WJPRmGRV09"
+	},
+	{
 		"created_at": "Tue Oct 19 09:09:42 +0000 2021",
 		"id": 1450388680305254400,
 		"id_str": "1450388680305254401",
