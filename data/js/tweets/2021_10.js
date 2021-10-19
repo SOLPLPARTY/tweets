@@ -1,6 +1,791 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 06:11:23 +0000 2021",
+		"id": 1450342247661146000,
+		"id_str": "1450343805442473984",
+		"full_text": "📌\n티켓링크 / 멜론 티켓 / 인터파크 티켓 / 예스24 티켓 / 네이버 예약\n멜론 티켓 : https://t.co/bNs9R39V9F\n인터파크 티켓 : https://t.co/5jMIO5eYr0\n예스24 티켓 : https://t.co/29aQHMmWeG\n티켓링크/네이버예약 : https://t.co/IsEqtY0s4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNs9R39V9F",
+					"expanded_url": "https://bit.ly/3FnJRxe",
+					"display_url": "bit.ly/3FnJRxe",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/5jMIO5eYr0",
+					"expanded_url": "https://bit.ly/3oCqnPp",
+					"display_url": "bit.ly/3oCqnPp",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/29aQHMmWeG",
+					"expanded_url": "https://bit.ly/3AitdLU",
+					"display_url": "bit.ly/3AitdLU",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/IsEqtY0s4V",
+					"expanded_url": "https://bit.ly/3Fs8rgk",
+					"display_url": "bit.ly/3Fs8rgk",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1450341333797769200,
+		"in_reply_to_status_id_str": "1450341333797769221",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌\n티켓링크 / 멜론 티켓 / 인터파크 티켓 / 예스24 티켓 / 네이버 예약\n멜론 티켓 : https://t.co/bNs9R39V9F\n인터파크 티켓 : https://t.co/5jMIO5eYr0\n예스24 티켓 : https://t.co/29aQHMmWeG\n티켓링크/네이버예약 : https://t.co/IsEqtY0s4V"
+	},
+	{
+		"created_at": "Tue Oct 19 06:11:16 +0000 2021",
+		"id": 1450341333797769200,
+		"id_str": "1450343775625269249",
+		"full_text": "[RE:SPES ANDONG 2021 × ROLLINGHALL]\n\n가을의 끝자락, 안동으로 떠나는 감성 음악여행!\nFrom #데이먼스이어 To #리스페스안동\n\n💌\n'데이먼스이어'가 보내는 스페셜 인사 영상을 공개합니다.\n11월 06일 토요일, 안동에서 만나요!\n\n#리스페스안동 #리스페스 #리스페스페스티벌\n#respesfestival #롤링홀 https://t.co/4HgFcv8e7x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "데이먼스이어",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "리스페스안동",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "리스페스안동",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "리스페스",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "리스페스페스티벌",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "respesfestival",
+					"indices": [
+						171,
+						186
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						187,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450341140826185700,
+					"id_str": "1450341140826185728",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450341140826185728/pu/img/4dX2ncWC5GX7ChLV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450341140826185728/pu/img/4dX2ncWC5GX7ChLV.jpg",
+					"url": "https://t.co/4HgFcv8e7x",
+					"display_url": "pic.twitter.com/4HgFcv8e7x",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1450341333797769221/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450341140826185700,
+					"id_str": "1450341140826185728",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450341140826185728/pu/img/4dX2ncWC5GX7ChLV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450341140826185728/pu/img/4dX2ncWC5GX7ChLV.jpg",
+					"url": "https://t.co/4HgFcv8e7x",
+					"display_url": "pic.twitter.com/4HgFcv8e7x",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1450341333797769221/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							134,
+							85
+						],
+						"duration_millis": 35894,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450341140826185728/pu/vid/1072x680/N-pHuKj778dUxHRK.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450341140826185728/pu/vid/566x360/XA9uh_RlfH28ugLi.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450341140826185728/pu/vid/424x270/nBvbIiyOefqbjjyh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1450341140826185728/pu/pl/3E4KcpQ35kL3hez3.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RE:SPES ANDONG 2021 × ROLLINGHALL]\n\n가을의 끝자락, 안동으로 떠나는 감성 음악여행!\nFrom #데이먼스이어 To #리스페스안동\n\n💌\n'데이먼스이어'가 보내는 스페셜 인사 영상을 공개합니다.\n11월 06일 토요일, 안동에서 만나요!\n\n#리스페스안동 #리스페스 #리스페스페스티벌\n#respesfestival #롤링홀 https://t.co/4HgFcv8e7x"
+	},
+	{
+		"created_at": "Tue Oct 19 05:29:43 +0000 2021",
+		"id": 1450325932087001000,
+		"id_str": "1450333317077905409",
+		"full_text": "다르게 지나온 우리, 함께 걸어갈 내일\n서로가 만나 온전하게 하나가 될 우리\n \n내 주위에, 너의 맘 속에\n언제까지나 곁에 머물러 있는 서로에게\n \n2021 적재 전국투어 ‘서로의 서로’\n\n#Jukjae #서로의서로\n#전국투어 #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jukjae",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450325930560262100,
+		"in_reply_to_status_id_str": "1450325930560262150",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37226,
+			"friends_count": 12,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다르게 지나온 우리, 함께 걸어갈 내일\n서로가 만나 온전하게 하나가 될 우리\n \n내 주위에, 너의 맘 속에\n언제까지나 곁에 머물러 있는 서로에게\n \n2021 적재 전국투어 ‘서로의 서로’\n\n#Jukjae #서로의서로\n#전국투어 #콘서트"
+	},
+	{
+		"created_at": "Tue Oct 19 05:29:36 +0000 2021",
+		"id": 1450325930560262100,
+		"id_str": "1450333287159934976",
+		"full_text": "2021 적재 전국투어 ‘서로의 서로’\n&lt;광주&gt;, &lt;부산&gt;, &lt;대구&gt; 티켓 오픈 안내\n\n&lt;대구&gt;\n▪️일시\n2021. 12. 18. (토) 6PM\n@ 대구 엑스코 오디토리움\n\n▪️티켓 오픈\n2021. 10. 22. (금) 4PM\n@ YES24 티켓, 인터파크 티켓, 티켓링크\n\n#Jukjae #서로의서로\n#전국투어 #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jukjae",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						199,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450325929079705600,
+		"in_reply_to_status_id_str": "1450325929079705603",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37226,
+			"friends_count": 12,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2021 적재 전국투어 ‘서로의 서로’\n&lt;광주&gt;, &lt;부산&gt;, &lt;대구&gt; 티켓 오픈 안내\n\n&lt;대구&gt;\n▪️일시\n2021. 12. 18. (토) 6PM\n@ 대구 엑스코 오디토리움\n\n▪️티켓 오픈\n2021. 10. 22. (금) 4PM\n@ YES24 티켓, 인터파크 티켓, 티켓링크\n\n#Jukjae #서로의서로\n#전국투어 #콘서트"
+	},
+	{
+		"created_at": "Tue Oct 19 05:29:28 +0000 2021",
+		"id": 1450325929079705600,
+		"id_str": "1450333253068525569",
+		"full_text": "2021 적재 전국투어 ‘서로의 서로’\n&lt;광주&gt;, &lt;부산&gt;, &lt;대구&gt; 티켓 오픈 안내\n\n&lt;부산&gt;\n▪️일시\n2021. 12. 05. (일) 5PM\n@ 부산문화회관 대극장\n\n▪️티켓 오픈\n2021. 10. 22. (금) 3PM\n@ YES24 티켓, 인터파크 티켓, 티켓링크\n\n#Jukjae #서로의서로\n#전국투어 #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jukjae",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						197,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450325925980082200,
+		"in_reply_to_status_id_str": "1450325925980082183",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37226,
+			"friends_count": 12,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2021 적재 전국투어 ‘서로의 서로’\n&lt;광주&gt;, &lt;부산&gt;, &lt;대구&gt; 티켓 오픈 안내\n\n&lt;부산&gt;\n▪️일시\n2021. 12. 05. (일) 5PM\n@ 부산문화회관 대극장\n\n▪️티켓 오픈\n2021. 10. 22. (금) 3PM\n@ YES24 티켓, 인터파크 티켓, 티켓링크\n\n#Jukjae #서로의서로\n#전국투어 #콘서트"
+	},
+	{
 		"created_at": "Tue Oct 19 04:29:44 +0000 2021",
 		"id": 1450316274878193700,
 		"id_str": "1450318221995876354",
