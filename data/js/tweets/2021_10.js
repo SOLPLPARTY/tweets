@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 19 10:29:24 +0000 2021",
+		"id": 1450401619028234200,
+		"id_str": "1450408737425002501",
+		"full_text": "[#Video] #이장원\n\n헨리코튼과 함께한 이장원의 광고 화보 촬영 현장 BEHIND! (With 김지석)\n\n🔗https://t.co/FvPGKRrSid\n\n@pptnzexpress \n#이장원 #LeeJangWon #페퍼톤스 #Peppertones #헨리코튼 https://t.co/03ErnyDWUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "헨리코튼",
+					"indices": [
+						139,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FvPGKRrSid",
+					"expanded_url": "https://youtu.be/jE0SrfUx5Rc",
+					"display_url": "youtu.be/jE0SrfUx5Rc",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450400079320281000,
+					"id_str": "1450400079320281090",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDbMAYVcAI119T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCDbMAYVcAI119T.jpg",
+					"url": "https://t.co/03ErnyDWUw",
+					"display_url": "pic.twitter.com/03ErnyDWUw",
+					"expanded_url": "https://twitter.com/antennamusic/status/1450401619028234240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450400079320281000,
+					"id_str": "1450400079320281090",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FCDbMAYVcAI119T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCDbMAYVcAI119T.jpg",
+					"url": "https://t.co/03ErnyDWUw",
+					"display_url": "pic.twitter.com/03ErnyDWUw",
+					"expanded_url": "https://twitter.com/antennamusic/status/1450401619028234240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37224,
+			"friends_count": 12,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #이장원\n\n헨리코튼과 함께한 이장원의 광고 화보 촬영 현장 BEHIND! (With 김지석)\n\n🔗https://t.co/FvPGKRrSid\n\n@pptnzexpress \n#이장원 #LeeJangWon #페퍼톤스 #Peppertones #헨리코튼 https://t.co/03ErnyDWUw"
+	},
+	{
 		"created_at": "Tue Oct 19 09:29:54 +0000 2021",
 		"id": 1450393237802213400,
 		"id_str": "1450393761842860037",
