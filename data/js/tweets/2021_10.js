@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 11:29:34 +0000 2021",
+		"id": 1450779014151377000,
+		"id_str": "1450786264584761345",
+		"full_text": "cott 단독 공연 &lt;cott’smos&gt;\n🔸공연 일시 : 2021년 10월 22일 금요일 오후 8시\n🔸공연 장소 : CJ아지트 광흥창\n🔸예매처 : 네이버 예약 https://t.co/5CwWceTcxe\n \n#cott #콧 #단독공연 #cottsmos #cj아지트광흥창 #cjazit #azit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						127,
+						129
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "cottsmos",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "cj아지트광흥창",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "cjazit",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "azit",
+					"indices": [
+						164,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CwWceTcxe",
+					"expanded_url": "http://bit.ly/3abQvs7",
+					"display_url": "bit.ly/3abQvs7",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450779010867220500,
+		"in_reply_to_status_id_str": "1450779010867220493",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "cott 단독 공연 &lt;cott’smos&gt;\n🔸공연 일시 : 2021년 10월 22일 금요일 오후 8시\n🔸공연 장소 : CJ아지트 광흥창\n🔸예매처 : 네이버 예약 https://t.co/5CwWceTcxe\n \n#cott #콧 #단독공연 #cottsmos #cj아지트광흥창 #cjazit #azit"
+	},
+	{
 		"created_at": "Wed Oct 20 10:58:14 +0000 2021",
 		"id": 1450764189408977000,
 		"id_str": "1450778380870291459",
