@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 10:58:14 +0000 2021",
+		"id": 1450764189408977000,
+		"id_str": "1450778380870291459",
+		"full_text": "[🕘 time table]\n\n2021.10.23 NAVER NOW LIVE STREAM\n\n🔉 21:00-21:45 DJ lemontune @playlemontune  \n🔉 21:45-22:30 DJ SORIN @sorinies\n\n🏨 Episode 23 호텔 눈물나\n🛎 토요일 저녁 9시 네이버 NOW에서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "playlemontune",
+					"name": "ᴅᴊ ʟᴇᴍᴏɴᴛᴜɴᴇ🍋🎧",
+					"id": 1094600271949312000,
+					"id_str": "1094600271949312001",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "sorinies",
+					"name": "SORIN",
+					"id": 8287752,
+					"id_str": "8287752",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1450762182388445200,
+		"in_reply_to_status_id_str": "1450762182388445186",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7756,
+			"friends_count": 36,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🕘 time table]\n\n2021.10.23 NAVER NOW LIVE STREAM\n\n🔉 21:00-21:45 DJ lemontune @playlemontune  \n🔉 21:45-22:30 DJ SORIN @sorinies\n\n🏨 Episode 23 호텔 눈물나\n🛎 토요일 저녁 9시 네이버 NOW에서"
+	},
+	{
+		"created_at": "Wed Oct 20 10:29:39 +0000 2021",
+		"id": 1450766392769142800,
+		"id_str": "1450771184937836547",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n게임 내내 O.B로 단체 집합하는 과녁수와 백돌이들\n감정 싸움 일어나기 일보직전 상황?!\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요~!\n\n👉 https://t.co/h0t0HarMEx\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #백돌이 #이지훈 #훈 #김시우 https://t.co/0Fj9UIMCM3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						146,
+						160
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "백돌이",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "이지훈",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "훈",
+					"indices": [
+						175,
+						177
+					]
+				},
+				{
+					"text": "김시우",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h0t0HarMEx",
+					"expanded_url": "https://youtu.be/FvWEUOXuXHY",
+					"display_url": "youtu.be/FvWEUOXuXHY",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450765985623859200,
+					"id_str": "1450765985623859210",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FCIn-jlUYAoJDe5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCIn-jlUYAoJDe5.jpg",
+					"url": "https://t.co/0Fj9UIMCM3",
+					"display_url": "pic.twitter.com/0Fj9UIMCM3",
+					"expanded_url": "https://twitter.com/humap_official/status/1450766392769142785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450765985623859200,
+					"id_str": "1450765985623859210",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FCIn-jlUYAoJDe5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCIn-jlUYAoJDe5.jpg",
+					"url": "https://t.co/0Fj9UIMCM3",
+					"display_url": "pic.twitter.com/0Fj9UIMCM3",
+					"expanded_url": "https://twitter.com/humap_official/status/1450766392769142785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n게임 내내 O.B로 단체 집합하는 과녁수와 백돌이들\n감정 싸움 일어나기 일보직전 상황?!\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요~!\n\n👉 https://t.co/h0t0HarMEx\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #백돌이 #이지훈 #훈 #김시우 https://t.co/0Fj9UIMCM3"
+	},
+	{
+		"created_at": "Wed Oct 20 10:29:30 +0000 2021",
+		"id": 1450763784281157600,
+		"id_str": "1450771146601861125",
+		"full_text": "[#권혁수] [#shorts]\n\nSNL크루들이 쉬는 시간에 노는 방법\n\n#권혁수감성 에 참가해보시겠습니까?\n\n👉 https://t.co/V1YsL1smpd\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쇼츠 #오징어게임 #정상훈 #김민교 #김민수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "오징어게임",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "정상훈",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "김민교",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "김민수",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V1YsL1smpd",
+					"expanded_url": "https://youtu.be/t-BokPlg0i4",
+					"display_url": "youtu.be/t-BokPlg0i4",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#shorts]\n\nSNL크루들이 쉬는 시간에 노는 방법\n\n#권혁수감성 에 참가해보시겠습니까?\n\n👉 https://t.co/V1YsL1smpd\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쇼츠 #오징어게임 #정상훈 #김민교 #김민수"
+	},
+	{
 		"created_at": "Wed Oct 20 10:13:47 +0000 2021",
 		"id": 1450767195282288600,
 		"id_str": "1450767195282288644",
