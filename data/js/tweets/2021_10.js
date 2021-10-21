@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 10:04:08 +0000 2021",
+		"id": 1451127153232334800,
+		"id_str": "1451127153232334854",
+		"full_text": "#민트페이퍼 #MINTPAPER\n누구나 따라 할 수 있는 https://t.co/qikqajGUsy.D 달고나 만들기(달고나, 오징어게임) | [암쏘큐 특별판] Ep.6 | 민트페이퍼\nhttps://t.co/NB52fwApQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qikqajGUsy",
+					"expanded_url": "http://H.AN",
+					"display_url": "H.AN",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/NB52fwApQU",
+					"expanded_url": "https://youtu.be/o4bB6M5E6Fo",
+					"display_url": "youtu.be/o4bB6M5E6Fo",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\n누구나 따라 할 수 있는 https://t.co/qikqajGUsy.D 달고나 만들기(달고나, 오징어게임) | [암쏘큐 특별판] Ep.6 | 민트페이퍼\nhttps://t.co/NB52fwApQU"
+	},
+	{
+		"created_at": "Thu Oct 21 09:29:37 +0000 2021",
+		"id": 1451116053057052700,
+		"id_str": "1451118464794509316",
+		"full_text": "✨#딜런프레이즈 #답변완료 #인터뷰✨\n#풀영상은워뮤코유튜브에서🙌\n🎞 https://t.co/JhF5alzoTm\n\n#DylanFraser #Nightmare https://t.co/Mk4fkIvvRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딜런프레이즈",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "답변완료",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "풀영상은워뮤코유튜브에서",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"text": "DylanFraser",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"text": "Nightmare",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JhF5alzoTm",
+					"expanded_url": "https://youtu.be/DQyzTtHSpOk",
+					"display_url": "youtu.be/DQyzTtHSpOk",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451115660382126000,
+					"id_str": "1451115660382126083",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451115660382126083/pu/img/dwZXeRrzOCBJ6jpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451115660382126083/pu/img/dwZXeRrzOCBJ6jpT.jpg",
+					"url": "https://t.co/Mk4fkIvvRG",
+					"display_url": "pic.twitter.com/Mk4fkIvvRG",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1451116053057052681/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451115660382126000,
+					"id_str": "1451115660382126083",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451115660382126083/pu/img/dwZXeRrzOCBJ6jpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451115660382126083/pu/img/dwZXeRrzOCBJ6jpT.jpg",
+					"url": "https://t.co/Mk4fkIvvRG",
+					"display_url": "pic.twitter.com/Mk4fkIvvRG",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1451116053057052681/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31573,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451115660382126083/pu/vid/540x540/rMsGYvOE4Ss-c7Yu.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451115660382126083/pu/vid/720x720/HgTqvXAmJvijVwgR.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451115660382126083/pu/pl/MFrPZtrwUpyOB6FB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451115660382126083/pu/vid/320x320/hUOjSW_ok4B0Rzoj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52047,
+			"friends_count": 495,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "✨#딜런프레이즈 #답변완료 #인터뷰✨\n#풀영상은워뮤코유튜브에서🙌\n🎞 https://t.co/JhF5alzoTm\n\n#DylanFraser #Nightmare https://t.co/Mk4fkIvvRG"
+	},
+	{
+		"created_at": "Thu Oct 21 09:29:30 +0000 2021",
+		"id": 1451112998165094400,
+		"id_str": "1451118439024807939",
+		"full_text": "[#윤종신] 2021 월간 윤종신 Repair 10월호 'Slow Starter (With 이승기)' 공개✅\n\n🔗https://t.co/IHuG7sOeyw \n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'Slow Starter' is out✅\nListen and watch now🎶\n\n#월간윤종신 #Repair #10월호 #SlowStarter #이승기 https://t.co/lp7HeaJFBY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "Repair",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "10월호",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "SlowStarter",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"text": "이승기",
+					"indices": [
+						207,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IHuG7sOeyw",
+					"expanded_url": "http://youtu.be/YqR6XjghZGM",
+					"display_url": "youtu.be/YqR6XjghZGM",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451112570509611000,
+					"id_str": "1451112570509611012",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451112570509611012/pu/img/6WA-P6q0iZuc7p5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451112570509611012/pu/img/6WA-P6q0iZuc7p5H.jpg",
+					"url": "https://t.co/lp7HeaJFBY",
+					"display_url": "pic.twitter.com/lp7HeaJFBY",
+					"expanded_url": "https://twitter.com/themysticstory/status/1451112998165094404/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451112570509611000,
+					"id_str": "1451112570509611012",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451112570509611012/pu/img/6WA-P6q0iZuc7p5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451112570509611012/pu/img/6WA-P6q0iZuc7p5H.jpg",
+					"url": "https://t.co/lp7HeaJFBY",
+					"display_url": "pic.twitter.com/lp7HeaJFBY",
+					"expanded_url": "https://twitter.com/themysticstory/status/1451112998165094404/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56966,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451112570509611012/pu/vid/640x360/llFKxsrXy8OFdGov.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451112570509611012/pu/vid/1280x720/EqToQMKoMknDlu-a.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1451112570509611012/pu/pl/u0MYLFzjvnm-d9n0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1451112570509611012/pu/vid/480x270/_rQ3ntA4v2Ewdzxp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23624,
+			"friends_count": 15,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 2021 월간 윤종신 Repair 10월호 'Slow Starter (With 이승기)' 공개✅\n\n🔗https://t.co/IHuG7sOeyw \n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'Slow Starter' is out✅\nListen and watch now🎶\n\n#월간윤종신 #Repair #10월호 #SlowStarter #이승기 https://t.co/lp7HeaJFBY"
+	},
+	{
 		"created_at": "Thu Oct 21 09:14:10 +0000 2021",
 		"id": 1451114577010307000,
 		"id_str": "1451114577010307079",
