@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 15:29:25 +0000 2021",
+		"id": 1451201622638354400,
+		"id_str": "1451209010976378885",
+		"full_text": "[#기안84] 2021.10.22 GIAN84 DAY🎉\n\nHappy Birthday to GIAN84🎂\n작가 기안84의 생일을 축하합니다🎁💛\n\n#GIAN84 #211022 #happybirthday #birthday #HBD https://t.co/PVPLyT0hTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "기안84",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "GIAN84",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "happybirthday",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "birthday",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "HBD",
+					"indices": [
+						121,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451197685113839600,
+					"id_str": "1451197685113839633",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FCOwmxgUYBELfTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCOwmxgUYBELfTW.jpg",
+					"url": "https://t.co/PVPLyT0hTs",
+					"display_url": "pic.twitter.com/PVPLyT0hTs",
+					"expanded_url": "https://twitter.com/themysticstory/status/1451201622638354436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451197685113839600,
+					"id_str": "1451197685113839633",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FCOwmxgUYBELfTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCOwmxgUYBELfTW.jpg",
+					"url": "https://t.co/PVPLyT0hTs",
+					"display_url": "pic.twitter.com/PVPLyT0hTs",
+					"expanded_url": "https://twitter.com/themysticstory/status/1451201622638354436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23633,
+			"friends_count": 15,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#기안84] 2021.10.22 GIAN84 DAY🎉\n\nHappy Birthday to GIAN84🎂\n작가 기안84의 생일을 축하합니다🎁💛\n\n#GIAN84 #211022 #happybirthday #birthday #HBD https://t.co/PVPLyT0hTs"
+	},
+	{
 		"created_at": "Thu Oct 21 14:29:27 +0000 2021",
 		"id": 1451186558795612200,
 		"id_str": "1451193922462445579",
