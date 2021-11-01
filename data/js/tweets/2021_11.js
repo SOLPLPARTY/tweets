@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 04:29:32 +0000 2021",
+		"id": 1455028773229711400,
+		"id_str": "1455029212851617792",
+		"full_text": "💙OH! 5! 五! - Moon Phase 5💜\n살롱 문보우에 그려진 오색선처럼, 각기 다른 개성을 가진 아티스트들을 멤버 구성에 따른 라인업을 통해 소개하는 시리즈 공연!\n\n11/28(Sun) 7PM 살롱문보우\n빅베이비드라이버, 김목인\n\nhttps://t.co/STMtv7u90W\n\n본 공연은 서울라이브 지원사업에 선정된 공연입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/STMtv7u90W",
+					"expanded_url": "https://booking.naver.com/booking/5/bizes/507781/items/4150943",
+					"display_url": "booking.naver.com/booking/5/bize…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3336,
+			"friends_count": 1296,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙OH! 5! 五! - Moon Phase 5💜\n살롱 문보우에 그려진 오색선처럼, 각기 다른 개성을 가진 아티스트들을 멤버 구성에 따른 라인업을 통해 소개하는 시리즈 공연!\n\n11/28(Sun) 7PM 살롱문보우\n빅베이비드라이버, 김목인\n\nhttps://t.co/STMtv7u90W\n\n본 공연은 서울라이브 지원사업에 선정된 공연입니다"
+	},
+	{
 		"created_at": "Mon Nov 01 03:29:52 +0000 2021",
 		"id": 1455006812751622100,
 		"id_str": "1455014199676096518",
