@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 09:30:04 +0000 2021",
+		"id": 1455100689470787600,
+		"id_str": "1455104847280287750",
+		"full_text": "모트/레인보우노트/우예린의 특별한 무대를 한 무대에서 같이 즐기고 싶다면 아래 티켓 오픈 예매 공지 링크를 확인해주세요 : )\n\n티켓 오픈 예매 공지 링크 바로가기 :\nhttps://t.co/qW0fc2GlLn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qW0fc2GlLn",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=5577",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1455100686899679200,
+		"in_reply_to_status_id_str": "1455100686899679234",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은 음악으로 빛나는 일상 💎 루비레코드\n#루비튜브 Rubytube #인천여관X루비살롱 rubysalon\n#모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhVO1VS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7657,
+			"friends_count": 8336,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모트/레인보우노트/우예린의 특별한 무대를 한 무대에서 같이 즐기고 싶다면 아래 티켓 오픈 예매 공지 링크를 확인해주세요 : )\n\n티켓 오픈 예매 공지 링크 바로가기 :\nhttps://t.co/qW0fc2GlLn"
+	},
+	{
+		"created_at": "Mon Nov 01 09:29:55 +0000 2021",
+		"id": 1455100686899679200,
+		"id_str": "1455104808990527490",
+		"full_text": "[ #모트 #레인보우노트 #우예린 ] 11월 24일 수요일, KT&amp;G 상상마당 홍대에서 열리는 Ruby Wednesday🎶\n\n드디어 내일 오후 5시! 멜론티켓에서 티켓이 오픈됩니다💖\n\n루비처럼 아름답고 영롱하게 빛나는 루비레코드의 레이블쇼! https://t.co/HO1jNJdw7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모트",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "레인보우노트",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"text": "우예린",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455100676733030400,
+					"id_str": "1455100676733030400",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FDGOWyUaUAAUztX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDGOWyUaUAAUztX.jpg",
+					"url": "https://t.co/HO1jNJdw7f",
+					"display_url": "pic.twitter.com/HO1jNJdw7f",
+					"expanded_url": "https://twitter.com/ruby_records/status/1455100686899679234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455100676733030400,
+					"id_str": "1455100676733030400",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FDGOWyUaUAAUztX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDGOWyUaUAAUztX.jpg",
+					"url": "https://t.co/HO1jNJdw7f",
+					"display_url": "pic.twitter.com/HO1jNJdw7f",
+					"expanded_url": "https://twitter.com/ruby_records/status/1455100686899679234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은 음악으로 빛나는 일상 💎 루비레코드\n#루비튜브 Rubytube #인천여관X루비살롱 rubysalon\n#모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhVO1VS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7657,
+			"friends_count": 8336,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ #모트 #레인보우노트 #우예린 ] 11월 24일 수요일, KT&amp;G 상상마당 홍대에서 열리는 Ruby Wednesday🎶\n\n드디어 내일 오후 5시! 멜론티켓에서 티켓이 오픈됩니다💖\n\n루비처럼 아름답고 영롱하게 빛나는 루비레코드의 레이블쇼! https://t.co/HO1jNJdw7f"
+	},
+	{
+		"created_at": "Mon Nov 01 09:29:46 +0000 2021",
+		"id": 1455099737061814300,
+		"id_str": "1455104770763632641",
+		"full_text": "Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' \n\n🎧Listen now on your favorite platform\nhttps://t.co/kEwq8BqOU0\n\n#ThePerfectRedVelvet\n#BadBoy #배드보이\n#레드벨벳 #RedVelvet \n#Remix\n#PREP \n#nomad\n#Slom \n#iScreaM\n#ScreaMRecords \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThePerfectRedVelvet",
+					"indices": [
+						104,
+						124
+					]
+				},
+				{
+					"text": "BadBoy",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "배드보이",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "PREP",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "nomad",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "Slom",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						194,
+						208
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						210,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kEwq8BqOU0",
+					"expanded_url": "https://smarturl.it/iScreaM_Vol12",
+					"display_url": "smarturl.it/iScreaM_Vol12",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10129523,
+			"friends_count": 55,
+			"listed_count": 2,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 616,
+		"favorite_count": 2789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' \n\n🎧Listen now on your favorite platform\nhttps://t.co/kEwq8BqOU0\n\n#ThePerfectRedVelvet\n#BadBoy #배드보이\n#레드벨벳 #RedVelvet \n#Remix\n#PREP \n#nomad\n#Slom \n#iScreaM\n#ScreaMRecords \n#SMTOWN"
+	},
+	{
+		"created_at": "Mon Nov 01 09:29:39 +0000 2021",
+		"id": 1455098198314213400,
+		"id_str": "1455104740740714499",
+		"full_text": "#RedVelvet #레드벨벳 'Bad Boy (PREP Remix)' \n\n🎧 Melon: https://t.co/8Q9G1zLmie\n🎧 FLO: https://t.co/NhkJV7Y65k\n🎧 genie: https://t.co/O6cyhmTjvJ\n🎧 NAVER VIBE: https://t.co/f5bo4oHlyh\n\n#ThePerfectRedVelvet\n#BadBoy #배드보이\n#Remix\n#PREP \n#nomad\n#Slom \n#iScreaM\n#ScreaMRecords",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "ThePerfectRedVelvet",
+					"indices": [
+						178,
+						198
+					]
+				},
+				{
+					"text": "BadBoy",
+					"indices": [
+						199,
+						206
+					]
+				},
+				{
+					"text": "배드보이",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "PREP",
+					"indices": [
+						220,
+						225
+					]
+				},
+				{
+					"text": "nomad",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "Slom",
+					"indices": [
+						234,
+						239
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						241,
+						249
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						250,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Q9G1zLmie",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10759626",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/NhkJV7Y65k",
+					"expanded_url": "https://www.music-flo.com/detail/album/edzhyzlyl/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/O6cyhmTjvJ",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82366145",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/f5bo4oHlyh",
+					"expanded_url": "https://vibe.naver.com/album/6626614",
+					"display_url": "vibe.naver.com/album/6626614",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10129523,
+			"friends_count": 55,
+			"listed_count": 2,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 646,
+		"favorite_count": 2602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#RedVelvet #레드벨벳 'Bad Boy (PREP Remix)' \n\n🎧 Melon: https://t.co/8Q9G1zLmie\n🎧 FLO: https://t.co/NhkJV7Y65k\n🎧 genie: https://t.co/O6cyhmTjvJ\n🎧 NAVER VIBE: https://t.co/f5bo4oHlyh\n\n#ThePerfectRedVelvet\n#BadBoy #배드보이\n#Remix\n#PREP \n#nomad\n#Slom \n#iScreaM\n#ScreaMRecords"
+	},
+	{
+		"created_at": "Mon Nov 01 09:29:34 +0000 2021",
+		"id": 1455097754556895200,
+		"id_str": "1455104719169413120",
+		"full_text": "Red Velvet 레드벨벳 'Bad Boy (Slom Remix)' Visualizer\n\nhttps://t.co/p6mkggDzPe\n\n#ThePerfectRedVelvet\n#BadBoy #배드보이\n#레드벨벳 #RedVelvet \n#Remix\n#PREP \n#nomad\n#Slom \n#iScreaM\n#ScreaMRecords \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThePerfectRedVelvet",
+					"indices": [
+						76,
+						96
+					]
+				},
+				{
+					"text": "BadBoy",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "배드보이",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "PREP",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "nomad",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "Slom",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						166,
+						180
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p6mkggDzPe",
+					"expanded_url": "https://youtu.be/z1fk9jOR93Y",
+					"display_url": "youtu.be/z1fk9jOR93Y",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10129523,
+			"friends_count": 55,
+			"listed_count": 2,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1673,
+		"favorite_count": 5678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet 레드벨벳 'Bad Boy (Slom Remix)' Visualizer\n\nhttps://t.co/p6mkggDzPe\n\n#ThePerfectRedVelvet\n#BadBoy #배드보이\n#레드벨벳 #RedVelvet \n#Remix\n#PREP \n#nomad\n#Slom \n#iScreaM\n#ScreaMRecords \n#SMTOWN"
+	},
+	{
 		"created_at": "Mon Nov 01 09:17:47 +0000 2021",
 		"id": 1455101756392804400,
 		"id_str": "1455101756392804355",
