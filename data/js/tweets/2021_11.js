@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 13:29:35 +0000 2021",
+		"id": 1455164218588557300,
+		"id_str": "1455165121181982727",
+		"full_text": "▫️KNOCK (With. 박문치)\n▫️Fly away\n▫️Lonely Night\n▫️이번 겨울\n▫️꽃말\n▫️나의 모양\n▫️스물\n▫️잘 가\n▫️(Encore 1) 운이 좋았지\n▫️(Encore 2) 여행가 https://t.co/aaZAPe3AtL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455164214302380000,
+					"id_str": "1455164214302380033",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIJKNakAETWgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIJKNakAETWgw.jpg",
+					"url": "https://t.co/aaZAPe3AtL",
+					"display_url": "pic.twitter.com/aaZAPe3AtL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164218588557316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455164214302380000,
+					"id_str": "1455164214302380033",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIJKNakAETWgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIJKNakAETWgw.jpg",
+					"url": "https://t.co/aaZAPe3AtL",
+					"display_url": "pic.twitter.com/aaZAPe3AtL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164218588557316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455164214491099100,
+					"id_str": "1455164214491099136",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIJK6aMAARcYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIJK6aMAARcYe.jpg",
+					"url": "https://t.co/aaZAPe3AtL",
+					"display_url": "pic.twitter.com/aaZAPe3AtL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164218588557316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1455164211198234600,
+		"in_reply_to_status_id_str": "1455164211198234625",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 권진아 단독공연 '우리의 방식' 2021. 10. 29. ~ 2021. 10. 31. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37315,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▫️KNOCK (With. 박문치)\n▫️Fly away\n▫️Lonely Night\n▫️이번 겨울\n▫️꽃말\n▫️나의 모양\n▫️스물\n▫️잘 가\n▫️(Encore 1) 운이 좋았지\n▫️(Encore 2) 여행가 https://t.co/aaZAPe3AtL"
+	},
+	{
+		"created_at": "Mon Nov 01 13:29:28 +0000 2021",
+		"id": 1455164211198234600,
+		"id_str": "1455165091326971910",
+		"full_text": "&lt;SET LIST&gt;\n\n▪️우리의 방식\n▪️뭔가 잘못됐어\n▪️숨바꼭질\n▪️그녀가 말했다\n▪️위로\n▪️이별 뒷면\n▪️그날 밤\n▪️멜로디\n▪️끝\n▪️시계 바늘\n▪️You already have\n▪️그녀가 되길 https://t.co/MjZrG1py9z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455164206429667300,
+					"id_str": "1455164206429667329",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIIs4agAEyuIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIIs4agAEyuIO.jpg",
+					"url": "https://t.co/MjZrG1py9z",
+					"display_url": "pic.twitter.com/MjZrG1py9z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164211198234625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455164206429667300,
+					"id_str": "1455164206429667329",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIIs4agAEyuIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIIs4agAEyuIO.jpg",
+					"url": "https://t.co/MjZrG1py9z",
+					"display_url": "pic.twitter.com/MjZrG1py9z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164211198234625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455164206660333600,
+					"id_str": "1455164206660333568",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIItvaMAANofM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIItvaMAANofM.jpg",
+					"url": "https://t.co/MjZrG1py9z",
+					"display_url": "pic.twitter.com/MjZrG1py9z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164211198234625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455164206719074300,
+					"id_str": "1455164206719074304",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIIt9agAA0J9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIIt9agAA0J9_.jpg",
+					"url": "https://t.co/MjZrG1py9z",
+					"display_url": "pic.twitter.com/MjZrG1py9z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164211198234625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455164206874259500,
+					"id_str": "1455164206874259457",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FDHIIuiacAEoT3R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDHIIuiacAEoT3R.jpg",
+					"url": "https://t.co/MjZrG1py9z",
+					"display_url": "pic.twitter.com/MjZrG1py9z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1455164211198234625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1455164202008469500,
+		"in_reply_to_status_id_str": "1455164202008469510",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 권진아 단독공연 '우리의 방식' 2021. 10. 29. ~ 2021. 10. 31. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37315,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;SET LIST&gt;\n\n▪️우리의 방식\n▪️뭔가 잘못됐어\n▪️숨바꼭질\n▪️그녀가 말했다\n▪️위로\n▪️이별 뒷면\n▪️그날 밤\n▪️멜로디\n▪️끝\n▪️시계 바늘\n▪️You already have\n▪️그녀가 되길 https://t.co/MjZrG1py9z"
+	},
+	{
 		"created_at": "Mon Nov 01 12:29:39 +0000 2021",
 		"id": 1455136835353469000,
 		"id_str": "1455150039425290243",
