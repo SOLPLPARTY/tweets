@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 12:29:39 +0000 2021",
+		"id": 1455136835353469000,
+		"id_str": "1455150039425290243",
+		"full_text": "지금 아임라이브 인스타그램에서 너드커넥션에게 궁금했던 점을 받고 있으니 인스타그램 imlive_arirang을 확인해보세요! \n\n#너드커넥션 #너컨 #nerdconnection #아임라이브 #imlive #arirangtv #아리랑티비 #라이브 #LIVE #온라인 #콘서트 #online #concert",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "nerdconnection",
+					"indices": [
+						83,
+						98
+					]
+				},
+				{
+					"text": "아임라이브",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "imlive",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "arirangtv",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "아리랑티비",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "온라인",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "online",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "concert",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455136833503780900,
+		"in_reply_to_status_id_str": "1455136833503780865",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금 아임라이브 인스타그램에서 너드커넥션에게 궁금했던 점을 받고 있으니 인스타그램 imlive_arirang을 확인해보세요! \n\n#너드커넥션 #너컨 #nerdconnection #아임라이브 #imlive #arirangtv #아리랑티비 #라이브 #LIVE #온라인 #콘서트 #online #concert"
+	},
+	{
+		"created_at": "Mon Nov 01 12:29:33 +0000 2021",
+		"id": 1455136833503780900,
+		"id_str": "1455150013470941185",
+		"full_text": "🔸유투브 채널 \"I'm LIVE 아임라이브\" : https://t.co/fr7CAGhVTZ\n🔸V LIVE 채널 \"ARIRANG K Pop\" 또는 아리랑케이팝\" : https://t.co/sFz8O0tTza\n🔸네이버TV \"I'm LIVE (아임라이브)\" : https://t.co/y8W7YyezY5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fr7CAGhVTZ",
+					"expanded_url": "https://bit.ly/3ExOkfr",
+					"display_url": "bit.ly/3ExOkfr",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/sFz8O0tTza",
+					"expanded_url": "https://bit.ly/3q18Jpv",
+					"display_url": "bit.ly/3q18Jpv",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/y8W7YyezY5",
+					"expanded_url": "https://bit.ly/3brphhT",
+					"display_url": "bit.ly/3brphhT",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455136831071084500,
+		"in_reply_to_status_id_str": "1455136831071084547",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔸유투브 채널 \"I'm LIVE 아임라이브\" : https://t.co/fr7CAGhVTZ\n🔸V LIVE 채널 \"ARIRANG K Pop\" 또는 아리랑케이팝\" : https://t.co/sFz8O0tTza\n🔸네이버TV \"I'm LIVE (아임라이브)\" : https://t.co/y8W7YyezY5"
+	},
+	{
 		"created_at": "Mon Nov 01 11:29:24 +0000 2021",
 		"id": 1455125707323895800,
 		"id_str": "1455134879235121156",
