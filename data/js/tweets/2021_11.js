@@ -1,6 +1,1099 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 01 10:29:44 +0000 2021",
+		"id": 1455113359209103400,
+		"id_str": "1455119862418841622",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n하루 만에 다른 행성 사람이 돼버린 과녁수와 리태리&amp;오일남\n드디어 부캐 골프 예능의 실체를 공개한다.\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/s8ZnrMY8Ty\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #이지훈 #남태현 #정현우 https://t.co/fPOncdRAmh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "이지훈",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "남태현",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "정현우",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s8ZnrMY8Ty",
+					"expanded_url": "https://youtu.be/nAy-13QO2MU",
+					"display_url": "youtu.be/nAy-13QO2MU",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455113221917261800,
+					"id_str": "1455113221917261824",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FDGZxAxaQAA9KJd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDGZxAxaQAA9KJd.jpg",
+					"url": "https://t.co/fPOncdRAmh",
+					"display_url": "pic.twitter.com/fPOncdRAmh",
+					"expanded_url": "https://twitter.com/humap_official/status/1455113359209103365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455113221917261800,
+					"id_str": "1455113221917261824",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FDGZxAxaQAA9KJd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDGZxAxaQAA9KJd.jpg",
+					"url": "https://t.co/fPOncdRAmh",
+					"display_url": "pic.twitter.com/fPOncdRAmh",
+					"expanded_url": "https://twitter.com/humap_official/status/1455113359209103365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n하루 만에 다른 행성 사람이 돼버린 과녁수와 리태리&amp;오일남\n드디어 부캐 골프 예능의 실체를 공개한다.\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/s8ZnrMY8Ty\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #이지훈 #남태현 #정현우 https://t.co/fPOncdRAmh"
+	},
+	{
+		"created_at": "Mon Nov 01 10:29:39 +0000 2021",
+		"id": 1455112380812300300,
+		"id_str": "1455119840910454784",
+		"full_text": "[naru(나루) | Special Clip]\n\nMPMG Office Special Clip 🏢\nnaru(나루)의 EP [Grayed Out]의 수록곡 '그런걸까'의 스페셜 클립이 공개되었습니다. \n\nFull ver. https://t.co/k3VOQe50zu\n\n#나루 #naru #그런걸까 #GrayedOut #솔루션스 https://t.co/tODFBMsdrI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나루",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "naru",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "그런걸까",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "GrayedOut",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						174,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k3VOQe50zu",
+					"expanded_url": "https://bit.ly/3CzOhzo",
+					"display_url": "bit.ly/3CzOhzo",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455050726158205000,
+					"id_str": "1455050726158204933",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FDFhHpNUYAQ7ysj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDFhHpNUYAQ7ysj.jpg",
+					"url": "https://t.co/tODFBMsdrI",
+					"display_url": "pic.twitter.com/tODFBMsdrI",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1455112380812300289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1731,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455050726158205000,
+					"id_str": "1455050726158204933",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FDFhHpNUYAQ7ysj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDFhHpNUYAQ7ysj.jpg",
+					"url": "https://t.co/tODFBMsdrI",
+					"display_url": "pic.twitter.com/tODFBMsdrI",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1455112380812300289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1731,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40917,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1455050726158204933/pl/VO5FfZ3Q8l9Uk_-F.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1455050726158204933/vid/640x360/bGjXCrUK7dTsq2lm.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1455050726158204933/vid/480x270/6T3WeeSUVcbUpWVA.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1455050726158204933/vid/1280x720/eyimt1T5CB07dasm.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13002,
+			"friends_count": 1936,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[naru(나루) | Special Clip]\n\nMPMG Office Special Clip 🏢\nnaru(나루)의 EP [Grayed Out]의 수록곡 '그런걸까'의 스페셜 클립이 공개되었습니다. \n\nFull ver. https://t.co/k3VOQe50zu\n\n#나루 #naru #그런걸까 #GrayedOut #솔루션스 https://t.co/tODFBMsdrI"
+	},
+	{
+		"created_at": "Mon Nov 01 10:29:36 +0000 2021",
+		"id": 1455109084709998600,
+		"id_str": "1455119827899756550",
+		"full_text": "#라일리 #Reiley🎲𝒀𝑶𝑼🎲\n새 EP [𝐛𝐫𝐛, 𝐡𝐚𝐯𝐢𝐧𝐠 𝐚𝐧 𝐢𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐜𝐫𝐢𝐬𝐢𝐬] 발매!\n\n🎧 https://t.co/F43wTGhJlh https://t.co/gKs3bE1kfl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라일리",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Reiley",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F43wTGhJlh",
+					"expanded_url": "https://wmk.lnk.to/75sJRCMh",
+					"display_url": "wmk.lnk.to/75sJRCMh",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455108755843338200,
+					"id_str": "1455108755843338240",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455108755843338240/pu/img/mYZJvraUU4agC-NY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455108755843338240/pu/img/mYZJvraUU4agC-NY.jpg",
+					"url": "https://t.co/gKs3bE1kfl",
+					"display_url": "pic.twitter.com/gKs3bE1kfl",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1455109084709998594/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455108755843338200,
+					"id_str": "1455108755843338240",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455108755843338240/pu/img/mYZJvraUU4agC-NY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455108755843338240/pu/img/mYZJvraUU4agC-NY.jpg",
+					"url": "https://t.co/gKs3bE1kfl",
+					"display_url": "pic.twitter.com/gKs3bE1kfl",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1455109084709998594/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36619,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455108755843338240/pu/vid/320x320/hekxxsLR-G8rdmBA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1455108755843338240/pu/pl/hPoZVwN-5wykYPPz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455108755843338240/pu/vid/720x720/dpeQdisDLBP8Amz3.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455108755843338240/pu/vid/540x540/RW6Tb-3H25xIMhMr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52021,
+			"friends_count": 495,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#라일리 #Reiley🎲𝒀𝑶𝑼🎲\n새 EP [𝐛𝐫𝐛, 𝐡𝐚𝐯𝐢𝐧𝐠 𝐚𝐧 𝐢𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐜𝐫𝐢𝐬𝐢𝐬] 발매!\n\n🎧 https://t.co/F43wTGhJlh https://t.co/gKs3bE1kfl"
+	},
+	{
+		"created_at": "Mon Nov 01 10:29:31 +0000 2021",
+		"id": 1455108500586053600,
+		"id_str": "1455119806286401544",
+		"full_text": "#너드커넥션 #너컨 #nerdconnection #KBS #KBS쿨FM #스테이션제트 #스테이션Z #STATIONZ #라디오 #radio #디제이 #DJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "nerdconnection",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "KBS쿨FM",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"text": "스테이션제트",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "스테이션Z",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "STATIONZ",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "radio",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "디제이",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455108498065277000,
+		"in_reply_to_status_id_str": "1455108498065276928",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#너드커넥션 #너컨 #nerdconnection #KBS #KBS쿨FM #스테이션제트 #스테이션Z #STATIONZ #라디오 #radio #디제이 #DJ"
+	},
+	{
+		"created_at": "Mon Nov 01 10:29:28 +0000 2021",
+		"id": 1455108498065277000,
+		"id_str": "1455119793162440712",
+		"full_text": "[#너드커넥션] KBS 쿨FM &lt;스테이션 제트&gt;\n\n‼️11월 6일 토요일 밤 12시‼️\nKBS 쿨FM &lt;스테이션 제트&gt;에 너드커넥션이 스페셜 DJ가 되어 라디오를 진행합니다. \n\n📻 KBS 쿨FM 89.1MHz\n📲 어플 콩, MyK \n🖥 유튜브 채널 \"STATION Z\" 실시간 스트리밍\n에서 11월 6일 밤 12시에 만나요🙌🏻 https://t.co/1Nkc4LHPJD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455106566248865800,
+					"id_str": "1455106566248865792",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FDGTtmeaIAA1CqK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDGTtmeaIAA1CqK.jpg",
+					"url": "https://t.co/1Nkc4LHPJD",
+					"display_url": "pic.twitter.com/1Nkc4LHPJD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1455108498065276928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455106566248865800,
+					"id_str": "1455106566248865792",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FDGTtmeaIAA1CqK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDGTtmeaIAA1CqK.jpg",
+					"url": "https://t.co/1Nkc4LHPJD",
+					"display_url": "pic.twitter.com/1Nkc4LHPJD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1455108498065276928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#너드커넥션] KBS 쿨FM &lt;스테이션 제트&gt;\n\n‼️11월 6일 토요일 밤 12시‼️\nKBS 쿨FM &lt;스테이션 제트&gt;에 너드커넥션이 스페셜 DJ가 되어 라디오를 진행합니다. \n\n📻 KBS 쿨FM 89.1MHz\n📲 어플 콩, MyK \n🖥 유튜브 채널 \"STATION Z\" 실시간 스트리밍\n에서 11월 6일 밤 12시에 만나요🙌🏻 https://t.co/1Nkc4LHPJD"
+	},
+	{
 		"created_at": "Mon Nov 01 09:30:04 +0000 2021",
 		"id": 1455100689470787600,
 		"id_str": "1455104847280287750",
