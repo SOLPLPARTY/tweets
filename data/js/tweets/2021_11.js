@@ -1,6 +1,920 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 02 09:29:56 +0000 2021",
+		"id": 1455465781492273200,
+		"id_str": "1455467200895197185",
+		"full_text": "One of the members of the celebrated R&amp;B group Monday Kiz, Onestar (임한별) puts out a remake single of Yang Jung Seung's song, Shiny Star (밤하늘의 별을)!\n\n#kpop #kpopnewmusic #krnb #kballad #onestar #임한별 https://t.co/WDYSokMjPM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kpop",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "kpopnewmusic",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"text": "krnb",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "kballad",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "onestar",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "임한별",
+					"indices": [
+						196,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455465416659452000,
+					"id_str": "1455465416659451904",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455465416659451904/pu/img/O3vsd5mfFYc-m2nj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455465416659451904/pu/img/O3vsd5mfFYc-m2nj.jpg",
+					"url": "https://t.co/WDYSokMjPM",
+					"display_url": "pic.twitter.com/WDYSokMjPM",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1455465781492273159/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455465416659452000,
+					"id_str": "1455465416659451904",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455465416659451904/pu/img/O3vsd5mfFYc-m2nj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455465416659451904/pu/img/O3vsd5mfFYc-m2nj.jpg",
+					"url": "https://t.co/WDYSokMjPM",
+					"display_url": "pic.twitter.com/WDYSokMjPM",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1455465781492273159/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455465416659451904/pu/vid/720x720/u_ThDGg91MTFQ3fg.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455465416659451904/pu/vid/320x320/GwgouzMOexNdlhCt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1455465416659451904/pu/pl/Amh5_SoEZv0IL8sU.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455465416659451904/pu/vid/540x540/lPU8gF07eTNtdw4w.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "FLUXUS / 🎧 bit MORE THAN K-POP 🎤",
+			"url": "https://t.co/nvQV1FbqAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nvQV1FbqAZ",
+							"expanded_url": "https://www.fluxus.co.kr/",
+							"display_url": "fluxus.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13319,
+			"friends_count": 13169,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the members of the celebrated R&amp;B group Monday Kiz, Onestar (임한별) puts out a remake single of Yang Jung Seung's song, Shiny Star (밤하늘의 별을)!\n\n#kpop #kpopnewmusic #krnb #kballad #onestar #임한별 https://t.co/WDYSokMjPM"
+	},
+	{
+		"created_at": "Tue Nov 02 09:29:47 +0000 2021",
+		"id": 1455463906223149000,
+		"id_str": "1455467162651533317",
+		"full_text": "[Official MV] 공기남(Airman) - 정리(Breakup)\nhttps://t.co/eLqrZ6ZC80\n#MV #공기남 #airman #오선지정규2집 #정리 #Breakup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MV",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "공기남",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "airman",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "오선지정규2집",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "정리",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "Breakup",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eLqrZ6ZC80",
+					"expanded_url": "https://youtu.be/IXLsEBzppNQ",
+					"display_url": "youtu.be/IXLsEBzppNQ",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back\n                         official home page ▶️https://t.co/NxkguOJb10",
+			"url": "https://t.co/8brmSk9idN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSk9idN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguOJb10",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 933,
+			"friends_count": 423,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1629690678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official MV] 공기남(Airman) - 정리(Breakup)\nhttps://t.co/eLqrZ6ZC80\n#MV #공기남 #airman #오선지정규2집 #정리 #Breakup"
+	},
+	{
+		"created_at": "Tue Nov 02 09:29:43 +0000 2021",
+		"id": 1455463723263426600,
+		"id_str": "1455467145324859395",
+		"full_text": "공기남(Airman) - 정리(Breakup)\nhttps://t.co/uHGGtUl1ir \n보다 깊은 울림을 담은, 공기남이 전하는 감성 에세이\n[오선지 정규 2집] 타이틀곡\n#공기남 #airman #오선지정규2집 #정리 #Breakup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공기남",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "airman",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "오선지정규2집",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "정리",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "Breakup",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uHGGtUl1ir",
+					"expanded_url": "https://youtu.be/wHpfFnDkj0o",
+					"display_url": "youtu.be/wHpfFnDkj0o",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back\n                         official home page ▶️https://t.co/NxkguOJb10",
+			"url": "https://t.co/8brmSk9idN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSk9idN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguOJb10",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 933,
+			"friends_count": 423,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1629690678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공기남(Airman) - 정리(Breakup)\nhttps://t.co/uHGGtUl1ir \n보다 깊은 울림을 담은, 공기남이 전하는 감성 에세이\n[오선지 정규 2집] 타이틀곡\n#공기남 #airman #오선지정규2집 #정리 #Breakup"
+	},
+	{
+		"created_at": "Tue Nov 02 09:29:37 +0000 2021",
+		"id": 1455459863010574300,
+		"id_str": "1455467119689273346",
+		"full_text": "👊 열쩡! 열쯩! 열쩡! 👊\n명성산은 므찐 사람만 올라갈 수 있다던데,,,\n신세경의 썩커립터에서\n명성산을 즐단내고 왔으니까\n같이 가보자고예🌄\n\n🗒 https://t.co/43FBCoKYtE https://t.co/o2Ur7q8TrD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/43FBCoKYtE",
+					"expanded_url": "https://youtu.be/sVxUqrquGR0",
+					"display_url": "youtu.be/sVxUqrquGR0",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455455026319863800,
+					"id_str": "1455455026319863808",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FDLQopZaMAA0wqq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDLQopZaMAA0wqq.jpg",
+					"url": "https://t.co/o2Ur7q8TrD",
+					"display_url": "pic.twitter.com/o2Ur7q8TrD",
+					"expanded_url": "https://twitter.com/edam_ent/status/1455459863010574341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455455026319863800,
+					"id_str": "1455455026319863808",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FDLQopZaMAA0wqq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDLQopZaMAA0wqq.jpg",
+					"url": "https://t.co/o2Ur7q8TrD",
+					"display_url": "pic.twitter.com/o2Ur7q8TrD",
+					"expanded_url": "https://twitter.com/edam_ent/status/1455459863010574341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55952,
+			"friends_count": 2,
+			"listed_count": 208,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 860,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👊 열쩡! 열쯩! 열쩡! 👊\n명성산은 므찐 사람만 올라갈 수 있다던데,,,\n신세경의 썩커립터에서\n명성산을 즐단내고 왔으니까\n같이 가보자고예🌄\n\n🗒 https://t.co/43FBCoKYtE https://t.co/o2Ur7q8TrD"
+	},
+	{
+		"created_at": "Tue Nov 02 09:29:34 +0000 2021",
+		"id": 1455459693275484200,
+		"id_str": "1455467106644992003",
+		"full_text": "#손님포차 #박소은 #박손님 #박손장 #고강동 #손원들사연과함께 #유튜브라이브 \n#스트리밍 #생방송 #유어썸머 #Live #youtube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손님포차",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "박손님",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "박손장",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "고강동",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "손원들사연과함께",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"text": "스트리밍",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "생방송",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "Live",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1455459673679696000,
+		"in_reply_to_status_id_str": "1455459673679695875",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#손님포차 #박소은 #박손님 #박손장 #고강동 #손원들사연과함께 #유튜브라이브 \n#스트리밍 #생방송 #유어썸머 #Live #youtube"
+	},
+	{
 		"created_at": "Tue Nov 02 09:13:13 +0000 2021",
 		"id": 1455462994498969600,
 		"id_str": "1455462994498969600",
