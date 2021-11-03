@@ -1,6 +1,1165 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 11:11:26 +0000 2021",
+		"id": 1455844349388877800,
+		"id_str": "1455855130180562956",
+		"full_text": "이번주 토요일 마포문화재단 유튜브채널과 네이버티비를 시청해주세요 https://t.co/Mtnj4pBf7A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455844343953375200,
+					"id_str": "1455844343953375233",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQyt6maQAEyBhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQyt6maQAEyBhh.jpg",
+					"url": "https://t.co/Mtnj4pBf7A",
+					"display_url": "pic.twitter.com/Mtnj4pBf7A",
+					"expanded_url": "https://twitter.com/club_bbang/status/1455844349388877829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1192,
+							"h": 1684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455844343953375200,
+					"id_str": "1455844343953375233",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQyt6maQAEyBhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQyt6maQAEyBhh.jpg",
+					"url": "https://t.co/Mtnj4pBf7A",
+					"display_url": "pic.twitter.com/Mtnj4pBf7A",
+					"expanded_url": "https://twitter.com/club_bbang/status/1455844349388877829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1192,
+							"h": 1684,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455844344083415000,
+					"id_str": "1455844344083415040",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQyt7FagAA7_Fz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQyt7FagAA7_Fz.jpg",
+					"url": "https://t.co/Mtnj4pBf7A",
+					"display_url": "pic.twitter.com/Mtnj4pBf7A",
+					"expanded_url": "https://twitter.com/club_bbang/status/1455844349388877829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455844344083382300,
+					"id_str": "1455844344083382272",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQyt7FaAAAhKEK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQyt7FaAAAhKEK.jpg",
+					"url": "https://t.co/Mtnj4pBf7A",
+					"display_url": "pic.twitter.com/Mtnj4pBf7A",
+					"expanded_url": "https://twitter.com/club_bbang/status/1455844349388877829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455844344112763000,
+					"id_str": "1455844344112762880",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQyt7MaUAACnRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQyt7MaUAACnRR.jpg",
+					"url": "https://t.co/Mtnj4pBf7A",
+					"display_url": "pic.twitter.com/Mtnj4pBf7A",
+					"expanded_url": "https://twitter.com/club_bbang/status/1455844349388877829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2486,
+			"friends_count": 876,
+			"listed_count": 36,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 토요일 마포문화재단 유튜브채널과 네이버티비를 시청해주세요 https://t.co/Mtnj4pBf7A"
+	},
+	{
+		"created_at": "Wed Nov 03 11:11:16 +0000 2021",
+		"id": 1455840649601716200,
+		"id_str": "1455855091630608384",
+		"full_text": "📣[2022 캘린더 갤러리] 개최 안내\n\n새해 달력 대잔치 재미공작소 캘린더 갤러리가 올해도 열립니다! 참가팀과 판매 달력 공개를 기다려주세요😉\n\n#재미공작소 #재미공작소캘린더갤러리 #캘린더갤러리 #2022캘린더갤러리 #새해달력은여기서 https://t.co/x9pnS8U2hu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "재미공작소캘린더갤러리",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"text": "캘린더갤러리",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "2022캘린더갤러리",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "새해달력은여기서",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455840633416220700,
+					"id_str": "1455840633416220672",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455840633416220672/pu/img/0KW4TqVJ1yLlcTcY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455840633416220672/pu/img/0KW4TqVJ1yLlcTcY.jpg",
+					"url": "https://t.co/x9pnS8U2hu",
+					"display_url": "pic.twitter.com/x9pnS8U2hu",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1455840649601716224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455840633416220700,
+					"id_str": "1455840633416220672",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455840633416220672/pu/img/0KW4TqVJ1yLlcTcY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455840633416220672/pu/img/0KW4TqVJ1yLlcTcY.jpg",
+					"url": "https://t.co/x9pnS8U2hu",
+					"display_url": "pic.twitter.com/x9pnS8U2hu",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1455840649601716224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 4566,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455840633416220672/pu/vid/320x320/82QyYds8nx7OK_-N.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455840633416220672/pu/vid/540x540/rXzSBMf5GfCXyKR4.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455840633416220672/pu/vid/720x720/tQVPAsi4R3smCPb_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1455840633416220672/pu/pl/2S4V8HK-pYJRYF8F.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8371,
+			"friends_count": 555,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣[2022 캘린더 갤러리] 개최 안내\n\n새해 달력 대잔치 재미공작소 캘린더 갤러리가 올해도 열립니다! 참가팀과 판매 달력 공개를 기다려주세요😉\n\n#재미공작소 #재미공작소캘린더갤러리 #캘린더갤러리 #2022캘린더갤러리 #새해달력은여기서 https://t.co/x9pnS8U2hu"
+	},
+	{
+		"created_at": "Wed Nov 03 10:58:48 +0000 2021",
+		"id": 1455851952575860700,
+		"id_str": "1455851952575860744",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n[be loved] 한국인이 가장 사랑하는 팝 음악 ep.16 I 조지 마이클, 왬 특집 George Michael, Wham!\nhttps://t.co/RvAiKTgxFL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RvAiKTgxFL",
+					"expanded_url": "https://youtu.be/AdDEwndZy5s",
+					"display_url": "youtu.be/AdDEwndZy5s",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n[be loved] 한국인이 가장 사랑하는 팝 음악 ep.16 I 조지 마이클, 왬 특집 George Michael, Wham!\nhttps://t.co/RvAiKTgxFL"
+	},
+	{
+		"created_at": "Wed Nov 03 10:29:36 +0000 2021",
+		"id": 1455840671835705300,
+		"id_str": "1455844603215720450",
+		"full_text": "#Wilcox\n\n❤️‍🩹\n윌콕스 (Wilcox) - 50/50 MV \nhttps://t.co/eHuJSgB5mV \n\n#윌콕스 #5050 #fiftyfifty https://t.co/WWZZkldbtQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "fiftyfifty",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eHuJSgB5mV",
+					"expanded_url": "https://youtu.be/UchtFPvtW54",
+					"display_url": "youtu.be/UchtFPvtW54",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455840503447289900,
+					"id_str": "1455840503447289857",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455840503447289857/pu/img/WezDKs-DTp1HmcVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455840503447289857/pu/img/WezDKs-DTp1HmcVg.jpg",
+					"url": "https://t.co/WWZZkldbtQ",
+					"display_url": "pic.twitter.com/WWZZkldbtQ",
+					"expanded_url": "https://twitter.com/inplanet/status/1455840671835705344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455840503447289900,
+					"id_str": "1455840503447289857",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1455840503447289857/pu/img/WezDKs-DTp1HmcVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1455840503447289857/pu/img/WezDKs-DTp1HmcVg.jpg",
+					"url": "https://t.co/WWZZkldbtQ",
+					"display_url": "pic.twitter.com/WWZZkldbtQ",
+					"expanded_url": "https://twitter.com/inplanet/status/1455840671835705344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 131949,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455840503447289857/pu/vid/640x360/p1plqduNB5grYDms.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455840503447289857/pu/vid/480x270/pzx1WlU8CORwJJ0q.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1455840503447289857/pu/pl/vGoP6oUutLZ5yF-8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1455840503447289857/pu/vid/1280x720/bXzvYSovKmwGFqeN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1448,
+			"friends_count": 774,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Wilcox\n\n❤️‍🩹\n윌콕스 (Wilcox) - 50/50 MV \nhttps://t.co/eHuJSgB5mV \n\n#윌콕스 #5050 #fiftyfifty https://t.co/WWZZkldbtQ"
+	},
+	{
+		"created_at": "Wed Nov 03 10:29:32 +0000 2021",
+		"id": 1455838789578866700,
+		"id_str": "1455844585985429506",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n원래 본인 실력에 매번 당황하는 과녁수&amp;리태리&amp;오일남\n부캐 골프 예능의 정신 없는 스크린 대결!😱😱\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/Uh0aMxMhIW\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #이지훈 #남태현 #강다나 https://t.co/hsdVpPC2kW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "이지훈",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "남태현",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "강다나",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uh0aMxMhIW",
+					"expanded_url": "https://youtu.be/_BSyxqURhPE",
+					"display_url": "youtu.be/_BSyxqURhPE",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455838386330439700,
+					"id_str": "1455838386330439680",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQtTIuakAA0zYF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQtTIuakAA0zYF.jpg",
+					"url": "https://t.co/hsdVpPC2kW",
+					"display_url": "pic.twitter.com/hsdVpPC2kW",
+					"expanded_url": "https://twitter.com/humap_official/status/1455838789578866695/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455838386330439700,
+					"id_str": "1455838386330439680",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQtTIuakAA0zYF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQtTIuakAA0zYF.jpg",
+					"url": "https://t.co/hsdVpPC2kW",
+					"display_url": "pic.twitter.com/hsdVpPC2kW",
+					"expanded_url": "https://twitter.com/humap_official/status/1455838789578866695/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n원래 본인 실력에 매번 당황하는 과녁수&amp;리태리&amp;오일남\n부캐 골프 예능의 정신 없는 스크린 대결!😱😱\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/Uh0aMxMhIW\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #이지훈 #남태현 #강다나 https://t.co/hsdVpPC2kW"
+	},
+	{
 		"created_at": "Wed Nov 03 09:29:45 +0000 2021",
 		"id": 1455826354042118100,
 		"id_str": "1455829543319744517",
@@ -401,7 +1560,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Wed Nov 03 09:29:34 +0000 2021",
 		"id": 1455822216856158200,
 		"id_str": "1455829496037249026",
-		"full_text": "#Wilcox\n\n❤️‍🩹\n첫 번째 고백보다 더 급박하고 간절한 상황이 있다면, 아마도 재회를 갈망하는 n번째 고백이 아닐까?\n\n팽팽한 긴장이 감도는 스코어,\n윌콕스 Wilcox [50/50] \n\n지금 모든 음원사이트에서 감상하실 수 있습니다. \n\n#윌콕스 #5050 #fiftyfifty https://t.co/Y7H1OeyM3o",
+		"full_text": "#Wilcox\n\n❤️🩹\n첫 번째 고백보다 더 급박하고 간절한 상황이 있다면, 아마도 재회를 갈망하는 n번째 고백이 아닐까?\n\n팽팽한 긴장이 감도는 스코어,\n윌콕스 Wilcox [50/50] \n\n지금 모든 음원사이트에서 감상하실 수 있습니다. \n\n#윌콕스 #5050 #fiftyfifty https://t.co/Y7H1OeyM3o",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -591,7 +1750,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#Wilcox\n\n❤️‍🩹\n첫 번째 고백보다 더 급박하고 간절한 상황이 있다면, 아마도 재회를 갈망하는 n번째 고백이 아닐까?\n\n팽팽한 긴장이 감도는 스코어,\n윌콕스 Wilcox [50/50] \n\n지금 모든 음원사이트에서 감상하실 수 있습니다. \n\n#윌콕스 #5050 #fiftyfifty https://t.co/Y7H1OeyM3o"
+		"text": "#Wilcox\n\n❤️🩹\n첫 번째 고백보다 더 급박하고 간절한 상황이 있다면, 아마도 재회를 갈망하는 n번째 고백이 아닐까?\n\n팽팽한 긴장이 감도는 스코어,\n윌콕스 Wilcox [50/50] \n\n지금 모든 음원사이트에서 감상하실 수 있습니다. \n\n#윌콕스 #5050 #fiftyfifty https://t.co/Y7H1OeyM3o"
 	},
 	{
 		"created_at": "Wed Nov 03 09:29:30 +0000 2021",
