@@ -1,6 +1,1996 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 03:11:40 +0000 2021",
+		"id": 1455731458841227300,
+		"id_str": "1455734395789324291",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;케빈오 단독 콘서트 : After Tonight&gt;\n· 일시 : 2021년 12월 11일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 케빈오 \n· 예매 :🍈멜론티켓  https://t.co/bReMK4b28i\n\n#케빈오 #KevinOh #단독콘서트\n#롤링홀 #홍대 #공연 #멜론티켓 https://t.co/DBvHrZogBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "케빈오",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "KevinOh",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						197,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bReMK4b28i",
+					"expanded_url": "https://bit.ly/3E9O9qv",
+					"display_url": "bit.ly/3E9O9qv",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1452839319870214100,
+					"id_str": "1452839319870214150",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1452839319870214150/pu/img/jdIIOucbaXpKg-n9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1452839319870214150/pu/img/jdIIOucbaXpKg-n9.jpg",
+					"url": "https://t.co/DBvHrZogBN",
+					"display_url": "pic.twitter.com/DBvHrZogBN",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1455731458841227265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1452839319870214100,
+					"id_str": "1452839319870214150",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1452839319870214150/pu/img/jdIIOucbaXpKg-n9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1452839319870214150/pu/img/jdIIOucbaXpKg-n9.jpg",
+					"url": "https://t.co/DBvHrZogBN",
+					"display_url": "pic.twitter.com/DBvHrZogBN",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1455731458841227265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1452839319870214150/pu/vid/540x540/Jz-kDvDAzxhPyE16.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1452839319870214150/pu/pl/Myfb2rPzehvI8KVj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1452839319870214150/pu/vid/320x320/pdXIMskLYu4SUrdB.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1452839319870214150/pu/vid/720x720/cixDAnmctaomavTZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;케빈오 단독 콘서트 : After Tonight&gt;\n· 일시 : 2021년 12월 11일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 케빈오 \n· 예매 :🍈멜론티켓  https://t.co/bReMK4b28i\n\n#케빈오 #KevinOh #단독콘서트\n#롤링홀 #홍대 #공연 #멜론티켓 https://t.co/DBvHrZogBN"
+	},
+	{
+		"created_at": "Wed Nov 03 03:11:34 +0000 2021",
+		"id": 1455730245974200300,
+		"id_str": "1455734370078179330",
+		"full_text": "➡️https://t.co/4MeH4W8sXg\n씬디 홈페이지를 통해서도\n예매링크로 가실 수 있습니다~ https://t.co/YKsgO0yk5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4MeH4W8sXg",
+					"expanded_url": "https://xindieticket.kr/",
+					"display_url": "xindieticket.kr",
+					"indices": [
+						2,
+						25
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455730158904955000,
+					"id_str": "1455730158904954880",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPK3eJaUAAzn19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPK3eJaUAAzn19.jpg",
+					"url": "https://t.co/YKsgO0yk5E",
+					"display_url": "pic.twitter.com/YKsgO0yk5E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730245974200329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455730158904955000,
+					"id_str": "1455730158904954880",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPK3eJaUAAzn19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPK3eJaUAAzn19.jpg",
+					"url": "https://t.co/YKsgO0yk5E",
+					"display_url": "pic.twitter.com/YKsgO0yk5E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730245974200329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455730239854690300,
+		"in_reply_to_status_id_str": "1455730239854690310",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2751,
+			"friends_count": 2578,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "➡️https://t.co/4MeH4W8sXg\n씬디 홈페이지를 통해서도\n예매링크로 가실 수 있습니다~ https://t.co/YKsgO0yk5E"
+	},
+	{
+		"created_at": "Wed Nov 03 03:11:28 +0000 2021",
+		"id": 1455730239854690300,
+		"id_str": "1455734344262225922",
+		"full_text": "13. Bender &lt;THE SOUND 단독 공연 「SEE YOU SOON!」&gt; 11월 7일 18시\n14. 살롱문보우 &lt;In Mate - &lt;IN_MATE_STAGE&gt;&gt; 11월 7일 19시\n-\n15. 제비다방 &lt;김재훈 with 다이브라인&gt; 11월 7일 20시 https://t.co/pl9LdnGcP3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455730059256672300,
+					"id_str": "1455730059256672257",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPKxq7aMAE-gFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPKxq7aMAE-gFp.jpg",
+					"url": "https://t.co/pl9LdnGcP3",
+					"display_url": "pic.twitter.com/pl9LdnGcP3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730239854690310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455730059256672300,
+					"id_str": "1455730059256672257",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPKxq7aMAE-gFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPKxq7aMAE-gFp.jpg",
+					"url": "https://t.co/pl9LdnGcP3",
+					"display_url": "pic.twitter.com/pl9LdnGcP3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730239854690310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455730059416080400,
+					"id_str": "1455730059416080384",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPKxrhakAAYUGD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPKxrhakAAYUGD.jpg",
+					"url": "https://t.co/pl9LdnGcP3",
+					"display_url": "pic.twitter.com/pl9LdnGcP3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730239854690310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455730233760313300,
+		"in_reply_to_status_id_str": "1455730233760313349",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2751,
+			"friends_count": 2578,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "13. Bender &lt;THE SOUND 단독 공연 「SEE YOU SOON!」&gt; 11월 7일 18시\n14. 살롱문보우 &lt;In Mate - &lt;IN_MATE_STAGE&gt;&gt; 11월 7일 19시\n-\n15. 제비다방 &lt;김재훈 with 다이브라인&gt; 11월 7일 20시 https://t.co/pl9LdnGcP3"
+	},
+	{
+		"created_at": "Wed Nov 03 03:11:25 +0000 2021",
+		"id": 1455730233760313300,
+		"id_str": "1455734331075440641",
+		"full_text": "09.  Prism Hall &lt;크럭스 2집 발매 단독 공연&gt; 11월 6일 19시\n10. A.O.R &lt;A.O.R Alice in Wonderland - 앨인원 - Vol. 3&gt; 11월 7일 15시\n-\n11. 살롱문보우 &lt;In Mate - &lt;최예지 단독라이브&gt;&gt; 11월 7일 15시\n12. Prism Hall &lt;PRISM BREAK vol.11 싱어송라이터특집&gt; 11월 7일 17시 https://t.co/usY0CIIoo2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455729918701375500,
+					"id_str": "1455729918701375488",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPKpfUakAAD-FJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPKpfUakAAD-FJ.jpg",
+					"url": "https://t.co/usY0CIIoo2",
+					"display_url": "pic.twitter.com/usY0CIIoo2",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730233760313349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455729918701375500,
+					"id_str": "1455729918701375488",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPKpfUakAAD-FJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPKpfUakAAD-FJ.jpg",
+					"url": "https://t.co/usY0CIIoo2",
+					"display_url": "pic.twitter.com/usY0CIIoo2",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730233760313349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455729918877499400,
+					"id_str": "1455729918877499394",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPKpf-aAAI4D6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPKpf-aAAI4D6k.jpg",
+					"url": "https://t.co/usY0CIIoo2",
+					"display_url": "pic.twitter.com/usY0CIIoo2",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730233760313349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455730227691155500,
+		"in_reply_to_status_id_str": "1455730227691155462",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2751,
+			"friends_count": 2578,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "09.  Prism Hall &lt;크럭스 2집 발매 단독 공연&gt; 11월 6일 19시\n10. A.O.R &lt;A.O.R Alice in Wonderland - 앨인원 - Vol. 3&gt; 11월 7일 15시\n-\n11. 살롱문보우 &lt;In Mate - &lt;최예지 단독라이브&gt;&gt; 11월 7일 15시\n12. Prism Hall &lt;PRISM BREAK vol.11 싱어송라이터특집&gt; 11월 7일 17시 https://t.co/usY0CIIoo2"
+	},
+	{
+		"created_at": "Wed Nov 03 03:11:21 +0000 2021",
+		"id": 1455730227691155500,
+		"id_str": "1455734313765462020",
+		"full_text": "05. Prism Hall &lt;In Mate - &lt;IN_MATE_STAGE&gt;&gt; 11월 6일 14시 30분\n06. Rolling Hall &lt;Synopsis ~climax~&gt; 11월 6일 / 7일 17시\n-\n07. Bender &lt;NOW or NEVER&gt; 11월 6일 18시\n08. 구름아래소극장 &lt;카더가든 단독 공연 &lt;2주의 가든 : 11&gt;&gt; 11월 6일 / 7일 18시 https://t.co/iJoNd9y0v5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455729106851893200,
+					"id_str": "1455729106851893249",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPJ6O8akAENILI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPJ6O8akAENILI.jpg",
+					"url": "https://t.co/iJoNd9y0v5",
+					"display_url": "pic.twitter.com/iJoNd9y0v5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730227691155462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455729106851893200,
+					"id_str": "1455729106851893249",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPJ6O8akAENILI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPJ6O8akAENILI.jpg",
+					"url": "https://t.co/iJoNd9y0v5",
+					"display_url": "pic.twitter.com/iJoNd9y0v5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730227691155462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455729106973491200,
+					"id_str": "1455729106973491201",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPJ6PZaAAEdAwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPJ6PZaAAEdAwo.jpg",
+					"url": "https://t.co/iJoNd9y0v5",
+					"display_url": "pic.twitter.com/iJoNd9y0v5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730227691155462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455730221127114800,
+		"in_reply_to_status_id_str": "1455730221127114754",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2751,
+			"friends_count": 2578,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "05. Prism Hall &lt;In Mate - &lt;IN_MATE_STAGE&gt;&gt; 11월 6일 14시 30분\n06. Rolling Hall &lt;Synopsis ~climax~&gt; 11월 6일 / 7일 17시\n-\n07. Bender &lt;NOW or NEVER&gt; 11월 6일 18시\n08. 구름아래소극장 &lt;카더가든 단독 공연 &lt;2주의 가든 : 11&gt;&gt; 11월 6일 / 7일 18시 https://t.co/iJoNd9y0v5"
+	},
+	{
+		"created_at": "Wed Nov 03 03:11:16 +0000 2021",
+		"id": 1455730221127114800,
+		"id_str": "1455734295356657668",
+		"full_text": "01. nest NADA &lt;\"NATOPIA\"&gt; 11월 5일 19시\n02. Rolling Hall &lt;이제 단독 콘서트 : 오두막&gt; 11월 5일 19시 30분\n-\n03. Prism Hall &lt;Connect : 트리스x펀시티x루아멜&gt; 11월 5일 19시 30분\n04. 구름아래소극장 &lt;5959 LIVE : 블루파프리카&gt; 11월 5일 19시 59분 https://t.co/NFqJH2PbHx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455728868560863200,
+					"id_str": "1455728868560863232",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPJsXPaAAAhDmw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPJsXPaAAAhDmw.jpg",
+					"url": "https://t.co/NFqJH2PbHx",
+					"display_url": "pic.twitter.com/NFqJH2PbHx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730221127114754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455728868560863200,
+					"id_str": "1455728868560863232",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPJsXPaAAAhDmw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPJsXPaAAAhDmw.jpg",
+					"url": "https://t.co/NFqJH2PbHx",
+					"display_url": "pic.twitter.com/NFqJH2PbHx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730221127114754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455728868699308000,
+					"id_str": "1455728868699308032",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPJsXwagAAw4PV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPJsXwagAAw4PV.jpg",
+					"url": "https://t.co/NFqJH2PbHx",
+					"display_url": "pic.twitter.com/NFqJH2PbHx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1455730221127114754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455730214994989000,
+		"in_reply_to_status_id_str": "1455730214994989059",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2751,
+			"friends_count": 2578,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "01. nest NADA &lt;\"NATOPIA\"&gt; 11월 5일 19시\n02. Rolling Hall &lt;이제 단독 콘서트 : 오두막&gt; 11월 5일 19시 30분\n-\n03. Prism Hall &lt;Connect : 트리스x펀시티x루아멜&gt; 11월 5일 19시 30분\n04. 구름아래소극장 &lt;5959 LIVE : 블루파프리카&gt; 11월 5일 19시 59분 https://t.co/NFqJH2PbHx"
+	},
+	{
+		"created_at": "Wed Nov 03 02:29:38 +0000 2021",
+		"id": 1455720179980136400,
+		"id_str": "1455723816957751305",
+		"full_text": "*회차별 예매 링크가 상이합니다. 티켓 예매 시 유의 바랍니다.\n*현장 관람에 방해가 되지 않는 선에서 한정적인 화면으로 ‘관객 캐릭터 참여형 온라인 생중계(라이블리)’를 통해 송출될 예정입니다.\n\n#nerdconnection #쇼케이스 #new_century_masterpiece_cinema #NCMC #온라인생중계 #라이블리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nerdconnection",
+					"indices": [
+						111,
+						126
+					]
+				},
+				{
+					"text": "쇼케이스",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "new_century_masterpiece_cinema",
+					"indices": [
+						133,
+						164
+					]
+				},
+				{
+					"text": "NCMC",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "온라인생중계",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "라이블리",
+					"indices": [
+						179,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455720178356920300,
+		"in_reply_to_status_id_str": "1455720178356920321",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*회차별 예매 링크가 상이합니다. 티켓 예매 시 유의 바랍니다.\n*현장 관람에 방해가 되지 않는 선에서 한정적인 화면으로 ‘관객 캐릭터 참여형 온라인 생중계(라이블리)’를 통해 송출될 예정입니다.\n\n#nerdconnection #쇼케이스 #new_century_masterpiece_cinema #NCMC #온라인생중계 #라이블리"
+	},
+	{
+		"created_at": "Wed Nov 03 02:29:33 +0000 2021",
+		"id": 1455720178356920300,
+		"id_str": "1455723795449360386",
+		"full_text": "🎬관객 캐릭터 참여형 온라인 생중계\n- 예매 및 송출 : 라이블리\n- 예매 링크(오후 3시 공연) https://t.co/rSzWWbg9LW\n- 예매 링크(저녁 7시 공연) https://t.co/kcY6Wk1d7C\n- 티켓 가격 : 9,900원\n- 공연 일시 : 2021년 11월 14일 일요일 오후 3시 / 저녁 7시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rSzWWbg9LW",
+					"expanded_url": "https://url.kr/sbk5nq",
+					"display_url": "url.kr/sbk5nq",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/kcY6Wk1d7C",
+					"expanded_url": "https://url.kr/rmah5k",
+					"display_url": "url.kr/rmah5k",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1455720174242328600,
+		"in_reply_to_status_id_str": "1455720174242328583",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎬관객 캐릭터 참여형 온라인 생중계\n- 예매 및 송출 : 라이블리\n- 예매 링크(오후 3시 공연) https://t.co/rSzWWbg9LW\n- 예매 링크(저녁 7시 공연) https://t.co/kcY6Wk1d7C\n- 티켓 가격 : 9,900원\n- 공연 일시 : 2021년 11월 14일 일요일 오후 3시 / 저녁 7시"
+	},
+	{
+		"created_at": "Wed Nov 03 02:29:30 +0000 2021",
+		"id": 1455720174242328600,
+		"id_str": "1455723782174384133",
+		"full_text": "[#너드커넥션] 쇼케이스 &lt;New Century Masterpiece Cinema&gt; 온라인 생중계 티켓 오픈 안내\n\n라이블리를 통해 송출되는\n너드커넥션 쇼케이스 &lt;New Century Masterpiece Cinema&gt;\n'관객 캐릭터 참여형 온라인 생중계' 티켓이 오픈되었습니다. https://t.co/dF1kod9VVp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455719810244169700,
+					"id_str": "1455719810244169728",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPBdGYaUAASyC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPBdGYaUAASyC9.jpg",
+					"url": "https://t.co/dF1kod9VVp",
+					"display_url": "pic.twitter.com/dF1kod9VVp",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1455720174242328583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455719810244169700,
+					"id_str": "1455719810244169728",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPBdGYaUAASyC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPBdGYaUAASyC9.jpg",
+					"url": "https://t.co/dF1kod9VVp",
+					"display_url": "pic.twitter.com/dF1kod9VVp",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1455720174242328583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455719810239967200,
+					"id_str": "1455719810239967232",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPBdGXaMAAJ9fg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPBdGXaMAAJ9fg.jpg",
+					"url": "https://t.co/dF1kod9VVp",
+					"display_url": "pic.twitter.com/dF1kod9VVp",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1455720174242328583/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#너드커넥션] 쇼케이스 &lt;New Century Masterpiece Cinema&gt; 온라인 생중계 티켓 오픈 안내\n\n라이블리를 통해 송출되는\n너드커넥션 쇼케이스 &lt;New Century Masterpiece Cinema&gt;\n'관객 캐릭터 참여형 온라인 생중계' 티켓이 오픈되었습니다. https://t.co/dF1kod9VVp"
+	},
+	{
+		"created_at": "Wed Nov 03 02:29:27 +0000 2021",
+		"id": 1455714203868668000,
+		"id_str": "1455723769054613506",
+		"full_text": "이디오테잎이 MBC 서바이벌 프로그램 &lt;피의 게임&gt;의 음악 감독으로 참여하였습니다. https://t.co/g4jBU1BBgZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455714180502540300,
+					"id_str": "1455714180502540288",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FDO8VZ9aUAAcBAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDO8VZ9aUAAcBAG.jpg",
+					"url": "https://t.co/g4jBU1BBgZ",
+					"display_url": "pic.twitter.com/g4jBU1BBgZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1455714203868667905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455714180502540300,
+					"id_str": "1455714180502540288",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FDO8VZ9aUAAcBAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDO8VZ9aUAAcBAG.jpg",
+					"url": "https://t.co/g4jBU1BBgZ",
+					"display_url": "pic.twitter.com/g4jBU1BBgZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1455714203868667905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455714190900207600,
+					"id_str": "1455714190900207616",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FDO8WAsaIAAc-vX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDO8WAsaIAAc-vX.jpg",
+					"url": "https://t.co/g4jBU1BBgZ",
+					"display_url": "pic.twitter.com/g4jBU1BBgZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1455714203868667905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3946,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이디오테잎이 MBC 서바이벌 프로그램 &lt;피의 게임&gt;의 음악 감독으로 참여하였습니다. https://t.co/g4jBU1BBgZ"
+	},
+	{
 		"created_at": "Wed Nov 03 01:29:25 +0000 2021",
 		"id": 1455697056459210800,
 		"id_str": "1455708661804900357",
