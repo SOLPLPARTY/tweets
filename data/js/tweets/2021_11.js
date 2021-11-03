@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 09:29:45 +0000 2021",
+		"id": 1455826354042118100,
+		"id_str": "1455829543319744517",
+		"full_text": "멜론: https://t.co/2wvpsHLpXP\n지니: https://t.co/8yvOqIW4HO\n벅스: https://t.co/2OH0q2XW23\nFLO: https://t.co/tX8eEF5C9y\nVIBE: https://t.co/5TiyqSdAGG\napple music: https://t.co/0iyHmBIdFT\nspotify: https://t.co/S0hhKyuz53\nyoutube music: https://t.co/28DlBckwvZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wvpsHLpXP",
+					"expanded_url": "http://kko.to/PeoonXg4M",
+					"display_url": "kko.to/PeoonXg4M",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/8yvOqIW4HO",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82366010",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/2OH0q2XW23",
+					"expanded_url": "https://music.bugs.co.kr/album/20429658",
+					"display_url": "music.bugs.co.kr/album/20429658",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/tX8eEF5C9y",
+					"expanded_url": "https://www.music-flo.com/detail/album/edzhyzlnd/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/5TiyqSdAGG",
+					"expanded_url": "https://vibe.naver.com/album/6627824",
+					"display_url": "vibe.naver.com/album/6627824",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/0iyHmBIdFT",
+					"expanded_url": "https://music.apple.com/us/album/50-50-single/1593117801",
+					"display_url": "music.apple.com/us/album/50-50…",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/S0hhKyuz53",
+					"expanded_url": "https://open.spotify.com/album/09ScT3t11w8877ITI914Tn?si=du_ba8WqQKSmjkE8EYszvg",
+					"display_url": "open.spotify.com/album/09ScT3t1…",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/28DlBckwvZ",
+					"expanded_url": "https://music.youtube.com/playlist?list=OLAK5uy_lv5m6dYCAxeB5uchv3COedZ5M6vAUK7TU&feature=share",
+					"display_url": "music.youtube.com/playlist?list=…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1455822216856158200,
+		"in_reply_to_status_id_str": "1455822216856158210",
+		"in_reply_to_user_id": 76964739,
+		"in_reply_to_user_id_str": "76964739",
+		"in_reply_to_screen_name": "inplanet",
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1448,
+			"friends_count": 774,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론: https://t.co/2wvpsHLpXP\n지니: https://t.co/8yvOqIW4HO\n벅스: https://t.co/2OH0q2XW23\nFLO: https://t.co/tX8eEF5C9y\nVIBE: https://t.co/5TiyqSdAGG\napple music: https://t.co/0iyHmBIdFT\nspotify: https://t.co/S0hhKyuz53\nyoutube music: https://t.co/28DlBckwvZ"
+	},
+	{
+		"created_at": "Wed Nov 03 09:29:41 +0000 2021",
+		"id": 1455822339828969500,
+		"id_str": "1455829526018146306",
+		"full_text": "[Playlist]\n⠀\n나의 작은 날갯짓이 네 맘을 뒤흔들고🦋\n(볼빨간사춘기 방구석 콘서트 Ver.)\n⠀\n▷ https://t.co/5OPHcWOCYG\n\n#볼빨간사춘기 #방구석콘서트 #PLAYLIST #BOL4 \n#ShofarPlaylist #쇼파르플레이리스트 https://t.co/EcWYYXWCAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "방구석콘서트",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "ShofarPlaylist",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"text": "쇼파르플레이리스트",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5OPHcWOCYG",
+					"expanded_url": "https://youtu.be/NuqiKO5mF98",
+					"display_url": "youtu.be/NuqiKO5mF98",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455822237379219500,
+					"id_str": "1455822237379219457",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQenJMaUAE641g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQenJMaUAE641g.jpg",
+					"url": "https://t.co/EcWYYXWCAY",
+					"display_url": "pic.twitter.com/EcWYYXWCAY",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1455822339828969478/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455822237379219500,
+					"id_str": "1455822237379219457",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQenJMaUAE641g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQenJMaUAE641g.jpg",
+					"url": "https://t.co/EcWYYXWCAY",
+					"display_url": "pic.twitter.com/EcWYYXWCAY",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1455822339828969478/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7766,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1634722473",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n⠀\n나의 작은 날갯짓이 네 맘을 뒤흔들고🦋\n(볼빨간사춘기 방구석 콘서트 Ver.)\n⠀\n▷ https://t.co/5OPHcWOCYG\n\n#볼빨간사춘기 #방구석콘서트 #PLAYLIST #BOL4 \n#ShofarPlaylist #쇼파르플레이리스트 https://t.co/EcWYYXWCAY"
+	},
+	{
+		"created_at": "Wed Nov 03 09:29:34 +0000 2021",
+		"id": 1455822216856158200,
+		"id_str": "1455829496037249026",
+		"full_text": "#Wilcox\n\n❤️‍🩹\n첫 번째 고백보다 더 급박하고 간절한 상황이 있다면, 아마도 재회를 갈망하는 n번째 고백이 아닐까?\n\n팽팽한 긴장이 감도는 스코어,\n윌콕스 Wilcox [50/50] \n\n지금 모든 음원사이트에서 감상하실 수 있습니다. \n\n#윌콕스 #5050 #fiftyfifty https://t.co/Y7H1OeyM3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "fiftyfifty",
+					"indices": [
+						149,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455822210002976800,
+					"id_str": "1455822210002976768",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQeljNaAAAWUC0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQeljNaAAAWUC0.jpg",
+					"url": "https://t.co/Y7H1OeyM3o",
+					"display_url": "pic.twitter.com/Y7H1OeyM3o",
+					"expanded_url": "https://twitter.com/inplanet/status/1455822216856158210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455822210002976800,
+					"id_str": "1455822210002976768",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQeljNaAAAWUC0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQeljNaAAAWUC0.jpg",
+					"url": "https://t.co/Y7H1OeyM3o",
+					"display_url": "pic.twitter.com/Y7H1OeyM3o",
+					"expanded_url": "https://twitter.com/inplanet/status/1455822216856158210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1448,
+			"friends_count": 774,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Wilcox\n\n❤️‍🩹\n첫 번째 고백보다 더 급박하고 간절한 상황이 있다면, 아마도 재회를 갈망하는 n번째 고백이 아닐까?\n\n팽팽한 긴장이 감도는 스코어,\n윌콕스 Wilcox [50/50] \n\n지금 모든 음원사이트에서 감상하실 수 있습니다. \n\n#윌콕스 #5050 #fiftyfifty https://t.co/Y7H1OeyM3o"
+	},
+	{
+		"created_at": "Wed Nov 03 09:29:30 +0000 2021",
+		"id": 1455822059993510000,
+		"id_str": "1455829478702211074",
+		"full_text": "[김우주]\n김'우주'의 '우주'라이브🌠☄\n싱어송라이터 로쿠님과 함께하는 이번 공연 예매링크는 아래 링크를 이용해주세요!\n\n▶ https://t.co/lHxsP2abYB\n\n- 공연명 : 우주라이브 로쿠&amp;김우주\n- 공연일시 : 2021년 11월 21일 일요일 오후 7시\n- 러닝타임 : 90분\n- 티켓가격 : 25,000원 / 현매 30,000원 https://t.co/1xxlOMFFdu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lHxsP2abYB",
+					"expanded_url": "https://bit.ly/3bzdpuf",
+					"display_url": "bit.ly/3bzdpuf",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455745371691708400,
+					"id_str": "1455745371691708416",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPYs-MacAA7yFO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPYs-MacAA7yFO.jpg",
+					"url": "https://t.co/1xxlOMFFdu",
+					"display_url": "pic.twitter.com/1xxlOMFFdu",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1455822059993509889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455745371691708400,
+					"id_str": "1455745371691708416",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPYs-MacAA7yFO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPYs-MacAA7yFO.jpg",
+					"url": "https://t.co/1xxlOMFFdu",
+					"display_url": "pic.twitter.com/1xxlOMFFdu",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1455822059993509889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 835,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n김'우주'의 '우주'라이브🌠☄\n싱어송라이터 로쿠님과 함께하는 이번 공연 예매링크는 아래 링크를 이용해주세요!\n\n▶ https://t.co/lHxsP2abYB\n\n- 공연명 : 우주라이브 로쿠&amp;김우주\n- 공연일시 : 2021년 11월 21일 일요일 오후 7시\n- 러닝타임 : 90분\n- 티켓가격 : 25,000원 / 현매 30,000원 https://t.co/1xxlOMFFdu"
+	},
+	{
 		"created_at": "Wed Nov 03 09:17:23 +0000 2021",
 		"id": 1455826428377895000,
 		"id_str": "1455826428377894919",
