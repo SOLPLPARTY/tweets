@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 15:58:14 +0000 2021",
+		"id": 1455921533390524400,
+		"id_str": "1455927308796182529",
+		"full_text": "슬픔의케이팝파티 Episode.25\n&lt;방과 후 스포츠클럽&gt;\n\n운동하기 좋은 계절 가을! 정정당당 스포츠 정신과 힘이 나는 응원이 가득한 케이팝쇼를 보여드립니다! 하이틴의 두 명의 건강한 DJ와 함께 하는 방과 후 스포츠 클럽으로 모여주세요!\n\n토요일 밤 9시 NAVER NOW에서\nhttps://t.co/34S2C5onzC https://t.co/7dLaGuCTZw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5onzC",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455921513757311000,
+					"id_str": "1455921513757310976",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FDR45yhagAACmPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDR45yhagAACmPk.jpg",
+					"url": "https://t.co/7dLaGuCTZw",
+					"display_url": "pic.twitter.com/7dLaGuCTZw",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1455921533390524420/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455921513757311000,
+					"id_str": "1455921513757310976",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FDR45yhagAACmPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDR45yhagAACmPk.jpg",
+					"url": "https://t.co/7dLaGuCTZw",
+					"display_url": "pic.twitter.com/7dLaGuCTZw",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1455921533390524420/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7752,
+			"friends_count": 37,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 Episode.25\n&lt;방과 후 스포츠클럽&gt;\n\n운동하기 좋은 계절 가을! 정정당당 스포츠 정신과 힘이 나는 응원이 가득한 케이팝쇼를 보여드립니다! 하이틴의 두 명의 건강한 DJ와 함께 하는 방과 후 스포츠 클럽으로 모여주세요!\n\n토요일 밤 9시 NAVER NOW에서\nhttps://t.co/34S2C5onzC https://t.co/7dLaGuCTZw"
+	},
+	{
 		"created_at": "Wed Nov 03 12:37:16 +0000 2021",
 		"id": 1455876731831730200,
 		"id_str": "1455876731831730177",
