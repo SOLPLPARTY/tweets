@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 05:29:39 +0000 2021",
+		"id": 1456130239726166000,
+		"id_str": "1456131505617575936",
+		"full_text": "Up in NYC &amp; LA, thanks so much to #YouTubeMusic for the support! Listen to Yaeji &amp; OHHYUK new song “29” now on @youtubemusic https://t.co/doe7Fv1wUP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouTubeMusic",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youtubemusic",
+					"name": "YouTube Music",
+					"id": 880142286176231400,
+					"id_str": "880142286176231425",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456127989574697000,
+					"id_str": "1456127989574696960",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FDU0sQ4agAAXsPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDU0sQ4agAAXsPZ.jpg",
+					"url": "https://t.co/doe7Fv1wUP",
+					"display_url": "pic.twitter.com/doe7Fv1wUP",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1456130239726166020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456127989574697000,
+					"id_str": "1456127989574696960",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FDU0sQ4agAAXsPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDU0sQ4agAAXsPZ.jpg",
+					"url": "https://t.co/doe7Fv1wUP",
+					"display_url": "pic.twitter.com/doe7Fv1wUP",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1456130239726166020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456128001431961600,
+					"id_str": "1456128001431961600",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FDU0s9DaAAApPBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDU0s9DaAAApPBB.jpg",
+					"url": "https://t.co/doe7Fv1wUP",
+					"display_url": "pic.twitter.com/doe7Fv1wUP",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1456130239726166020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456128011116617700,
+					"id_str": "1456128011116617728",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FDU0thIaIAAkD03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDU0thIaIAAkD03.jpg",
+					"url": "https://t.co/doe7Fv1wUP",
+					"display_url": "pic.twitter.com/doe7Fv1wUP",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1456130239726166020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3946,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Up in NYC &amp; LA, thanks so much to #YouTubeMusic for the support! Listen to Yaeji &amp; OHHYUK new song “29” now on @youtubemusic https://t.co/doe7Fv1wUP"
+	},
+	{
+		"created_at": "Thu Nov 04 05:29:32 +0000 2021",
+		"id": 1456123557491069000,
+		"id_str": "1456131475766661123",
+		"full_text": "•CEO SUNGSOO LEE of SM said, “The MV is SM's asset and K-pop's history\"\n•YouTube Originals content will also be released! Preview of 'Dreams Come True' to be reinterpreted by aespa!\n\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						207,
+						218
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						220,
+						230
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						231,
+						241
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456123553900753000,
+		"in_reply_to_status_id_str": "1456123553900752898",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10138009,
+			"friends_count": 55,
+			"listed_count": 11171,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 395,
+		"favorite_count": 1947,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "•CEO SUNGSOO LEE of SM said, “The MV is SM's asset and K-pop's history\"\n•YouTube Originals content will also be released! Preview of 'Dreams Come True' to be reinterpreted by aespa!\n\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#SMTOWN"
+	},
+	{
+		"created_at": "Thu Nov 04 05:29:27 +0000 2021",
+		"id": 1456123553900753000,
+		"id_str": "1456131458523975680",
+		"full_text": "SM X YouTube announce the 'Remastering Project'! \nMeet K-pop’s legendary MVs in high definition!\n\nhttps://t.co/D9PawafD5A\n\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#SMTOWN https://t.co/1Y3t0zBM6e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						183,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D9PawafD5A",
+					"expanded_url": "https://entertain.naver.com/read?oid=015&aid=0004624535",
+					"display_url": "entertain.naver.com/read?oid=015&a…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456123544702976000,
+					"id_str": "1456123544702976000",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUwpicagAAt68m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUwpicagAAt68m.jpg",
+					"url": "https://t.co/1Y3t0zBM6e",
+					"display_url": "pic.twitter.com/1Y3t0zBM6e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456123553900752898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1940,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456123544702976000,
+					"id_str": "1456123544702976000",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUwpicagAAt68m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUwpicagAAt68m.jpg",
+					"url": "https://t.co/1Y3t0zBM6e",
+					"display_url": "pic.twitter.com/1Y3t0zBM6e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456123553900752898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1940,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456123544682008600,
+					"id_str": "1456123544682008576",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUwpiXakAAk7AU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUwpiXakAAk7AU.jpg",
+					"url": "https://t.co/1Y3t0zBM6e",
+					"display_url": "pic.twitter.com/1Y3t0zBM6e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456123553900752898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1996,
+							"h": 1331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456123544686182400,
+					"id_str": "1456123544686182400",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUwpiYaQAAPjyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUwpiYaQAAPjyX.jpg",
+					"url": "https://t.co/1Y3t0zBM6e",
+					"display_url": "pic.twitter.com/1Y3t0zBM6e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456123553900752898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1996,
+							"h": 1331,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456123544690368500,
+					"id_str": "1456123544690368512",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUwpiZaIAAa1pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUwpiZaIAAa1pk.jpg",
+					"url": "https://t.co/1Y3t0zBM6e",
+					"display_url": "pic.twitter.com/1Y3t0zBM6e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456123553900752898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10138009,
+			"friends_count": 55,
+			"listed_count": 11171,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2736,
+		"favorite_count": 8797,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM X YouTube announce the 'Remastering Project'! \nMeet K-pop’s legendary MVs in high definition!\n\nhttps://t.co/D9PawafD5A\n\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#SMTOWN https://t.co/1Y3t0zBM6e"
+	},
+	{
 		"created_at": "Thu Nov 04 04:29:52 +0000 2021",
 		"id": 1456114209482166300,
 		"id_str": "1456116462607867904",
