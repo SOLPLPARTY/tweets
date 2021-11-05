@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 03:06:20 +0000 2021",
+		"id": 1456457827346751500,
+		"id_str": "1456457827346751492",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 김가온 (Gahohn Kim) - Fathers' Buffalo / Official Music Video\nhttps://t.co/jdQOn9wVOA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jdQOn9wVOA",
+					"expanded_url": "https://youtu.be/nhD_ar0dDdc",
+					"display_url": "youtu.be/nhD_ar0dDdc",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 김가온 (Gahohn Kim) - Fathers' Buffalo / Official Music Video\nhttps://t.co/jdQOn9wVOA"
+	},
+	{
+		"created_at": "Fri Nov 05 02:29:36 +0000 2021",
+		"id": 1456448036293337000,
+		"id_str": "1456448584149262343",
+		"full_text": "[News]\n\n톰 미쉬의 판데믹 홈 라이브 앨범 [Quarantine Sessions]를 이제 국내 음원 플랫폼에서도 감상할 수 있습니다. 톰 미쉬는 작년 3월부터 너바나, 솔린지 등의 곡을 집에서 커버해 유튜브에 업로드했으며 이 때 커버한 다섯 곡과 새로 만든 세 곡을 앨범에 담았습니다.\nhttps://t.co/o4VsZ4CrAQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o4VsZ4CrAQ",
+					"expanded_url": "https://www.highjinkxmm.com/news/tom-misch-quarantine-sessions",
+					"display_url": "highjinkxmm.com/news/tom-misch…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 463,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n톰 미쉬의 판데믹 홈 라이브 앨범 [Quarantine Sessions]를 이제 국내 음원 플랫폼에서도 감상할 수 있습니다. 톰 미쉬는 작년 3월부터 너바나, 솔린지 등의 곡을 집에서 커버해 유튜브에 업로드했으며 이 때 커버한 다섯 곡과 새로 만든 세 곡을 앨범에 담았습니다.\nhttps://t.co/o4VsZ4CrAQ"
+	},
+	{
+		"created_at": "Fri Nov 05 02:29:31 +0000 2021",
+		"id": 1456443753145589800,
+		"id_str": "1456448562720649218",
+		"full_text": "캠페인 더 알아보기 \nLearn more about the campaign\n\n➫https://t.co/dgv5ft1hdY\n\n#세상을바꾸는작은변화 #보호종료아동 #자립준비청년\n#SUPERJUNIOR #SHINee #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세상을바꾸는작은변화",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "보호종료아동",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "자립준비청년",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dgv5ft1hdY",
+					"expanded_url": "https://beautifulfund.org/eighteen-season3/",
+					"display_url": "beautifulfund.org/eighteen-seaso…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1456443749655990300,
+		"in_reply_to_status_id_str": "1456443749655990277",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10142882,
+			"friends_count": 55,
+			"listed_count": 11172,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 2412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캠페인 더 알아보기 \nLearn more about the campaign\n\n➫https://t.co/dgv5ft1hdY\n\n#세상을바꾸는작은변화 #보호종료아동 #자립준비청년\n#SUPERJUNIOR #SHINee #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa"
+	},
+	{
+		"created_at": "Fri Nov 05 02:29:29 +0000 2021",
+		"id": 1456443749655990300,
+		"id_str": "1456448553845469185",
+		"full_text": "💗기부금은 보호종료아동의 건강한 자립을 돕는 일에 쓰일 예정입니다.\n\nDonations will be used to support expenses needed by youth transitioning out of foster care.\n\n에스파 #GISELLE, NCT #TAEYONG &amp; #JUNGWOO, 레드벨벳 #YERI, NCT #TEN https://t.co/7ldQXzyXO0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "TAEYONG",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "JUNGWOO",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						192,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456431280728711200,
+					"id_str": "1456431280728711168",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZIiIeaIAAUVq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZIiIeaIAAUVq6.jpg",
+					"url": "https://t.co/7ldQXzyXO0",
+					"display_url": "pic.twitter.com/7ldQXzyXO0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456443749655990277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456431280728711200,
+					"id_str": "1456431280728711168",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZIiIeaIAAUVq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZIiIeaIAAUVq6.jpg",
+					"url": "https://t.co/7ldQXzyXO0",
+					"display_url": "pic.twitter.com/7ldQXzyXO0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456443749655990277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456431324680827000,
+					"id_str": "1456431324680826880",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZIksNaMAAVrTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZIksNaMAAVrTe.jpg",
+					"url": "https://t.co/7ldQXzyXO0",
+					"display_url": "pic.twitter.com/7ldQXzyXO0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456443749655990277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456431353944481800,
+					"id_str": "1456431353944481793",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZImZOaIAE400h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZImZOaIAE400h.jpg",
+					"url": "https://t.co/7ldQXzyXO0",
+					"display_url": "pic.twitter.com/7ldQXzyXO0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456443749655990277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456431422768824300,
+					"id_str": "1456431422768824321",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZIqZnaQAEGKXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZIqZnaQAEGKXB.jpg",
+					"url": "https://t.co/7ldQXzyXO0",
+					"display_url": "pic.twitter.com/7ldQXzyXO0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1456443749655990277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1456443741078577200,
+		"in_reply_to_status_id_str": "1456443741078577154",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10142882,
+			"friends_count": 55,
+			"listed_count": 11172,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9351,
+		"favorite_count": 15934,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗기부금은 보호종료아동의 건강한 자립을 돕는 일에 쓰일 예정입니다.\n\nDonations will be used to support expenses needed by youth transitioning out of foster care.\n\n에스파 #GISELLE, NCT #TAEYONG &amp; #JUNGWOO, 레드벨벳 #YERI, NCT #TEN https://t.co/7ldQXzyXO0"
+	},
+	{
 		"created_at": "Thu Nov 04 22:09:22 +0000 2021",
 		"id": 1456383094345375700,
 		"id_str": "1456383094345375744",
