@@ -1,6 +1,1247 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 14:11:16 +0000 2021",
+		"id": 1456607238114611200,
+		"id_str": "1456625165832499207",
+		"full_text": "📢 11/6 공연 현장 안내\n⠀\n&lt;Synopsis ~climax~&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장  : 4시 30분  \n· 공연시작 : 5시\n· 출연 : 9001\n\n#9001 #NINETYOONE #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/74E8RJWbM0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINETYOONE",
+					"indices": [
+						114,
+						125
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455532741462790100,
+					"id_str": "1455532741462790151",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDMXUQ3XEAcsQjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDMXUQ3XEAcsQjZ.jpg",
+					"url": "https://t.co/74E8RJWbM0",
+					"display_url": "pic.twitter.com/74E8RJWbM0",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456607238114611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455532741462790100,
+					"id_str": "1455532741462790151",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDMXUQ3XEAcsQjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDMXUQ3XEAcsQjZ.jpg",
+					"url": "https://t.co/74E8RJWbM0",
+					"display_url": "pic.twitter.com/74E8RJWbM0",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456607238114611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455532762862076000,
+					"id_str": "1455532762862075914",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDMXVglWQAoY9te.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDMXVglWQAoY9te.jpg",
+					"url": "https://t.co/74E8RJWbM0",
+					"display_url": "pic.twitter.com/74E8RJWbM0",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456607238114611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455532799021232000,
+					"id_str": "1455532799021232149",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDMXXnSXMBUkpLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDMXXnSXMBUkpLh.jpg",
+					"url": "https://t.co/74E8RJWbM0",
+					"display_url": "pic.twitter.com/74E8RJWbM0",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456607238114611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455532799184842800,
+					"id_str": "1455532799184842757",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FDMXXn5XsAUQDkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDMXXn5XsAUQDkx.jpg",
+					"url": "https://t.co/74E8RJWbM0",
+					"display_url": "pic.twitter.com/74E8RJWbM0",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456607238114611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 11/6 공연 현장 안내\n⠀\n&lt;Synopsis ~climax~&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장  : 4시 30분  \n· 공연시작 : 5시\n· 출연 : 9001\n\n#9001 #NINETYOONE #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/74E8RJWbM0"
+	},
+	{
+		"created_at": "Fri Nov 05 13:59:19 +0000 2021",
+		"id": 1456622156104745000,
+		"id_str": "1456622156104744963",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n매직스트로베리사운드 X 비보 '잘 먹고 잘 사는 법' 비하인드 포토 모아보기\nhttps://t.co/fgAcjMCyVP\n#Behind_Story #매스사 https://t.co/DwpywxMQmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fgAcjMCyVP",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=32689876&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456622154519400400,
+					"id_str": "1456622154519400451",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FDb2IcwX0AMpGbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDb2IcwX0AMpGbf.jpg",
+					"url": "https://t.co/DwpywxMQmc",
+					"display_url": "pic.twitter.com/DwpywxMQmc",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1456622156104744963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456622154519400400,
+					"id_str": "1456622154519400451",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FDb2IcwX0AMpGbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDb2IcwX0AMpGbf.jpg",
+					"url": "https://t.co/DwpywxMQmc",
+					"display_url": "pic.twitter.com/DwpywxMQmc",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1456622156104744963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n매직스트로베리사운드 X 비보 '잘 먹고 잘 사는 법' 비하인드 포토 모아보기\nhttps://t.co/fgAcjMCyVP\n#Behind_Story #매스사 https://t.co/DwpywxMQmc"
+	},
+	{
+		"created_at": "Fri Nov 05 13:29:36 +0000 2021",
+		"id": 1456610857035522000,
+		"id_str": "1456614677128093702",
+		"full_text": "#박소은 #공연 #콘서트 #온라인콘서트 #오프라인콘서트 #아티스츠카드 #아티스츠카드스튜디오 #온스타인웨이 #글로벌콘서트 #라이브 #concert #live #artistscard #online #offline #global https://t.co/Aw90ZkAA8w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "온라인콘서트",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "오프라인콘서트",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "아티스츠카드",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "아티스츠카드스튜디오",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"text": "온스타인웨이",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "글로벌콘서트",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "concert",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "artistscard",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "online",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "offline",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "global",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456609952253243400,
+					"id_str": "1456609952253243392",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbrCLxacAAEVe6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbrCLxacAAEVe6.jpg",
+					"url": "https://t.co/Aw90ZkAA8w",
+					"display_url": "pic.twitter.com/Aw90ZkAA8w",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610857035522051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456609952253243400,
+					"id_str": "1456609952253243392",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbrCLxacAAEVe6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbrCLxacAAEVe6.jpg",
+					"url": "https://t.co/Aw90ZkAA8w",
+					"display_url": "pic.twitter.com/Aw90ZkAA8w",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610857035522051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456610598683553800,
+					"id_str": "1456610598683553793",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbrnz6aMAEjLuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbrnz6aMAEjLuv.jpg",
+					"url": "https://t.co/Aw90ZkAA8w",
+					"display_url": "pic.twitter.com/Aw90ZkAA8w",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610857035522051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456610622444306400,
+					"id_str": "1456610622444306434",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbrpMbagAIR9PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbrpMbagAIR9PM.jpg",
+					"url": "https://t.co/Aw90ZkAA8w",
+					"display_url": "pic.twitter.com/Aw90ZkAA8w",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610857035522051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1456610847149604900,
+		"in_reply_to_status_id_str": "1456610847149604869",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#박소은 #공연 #콘서트 #온라인콘서트 #오프라인콘서트 #아티스츠카드 #아티스츠카드스튜디오 #온스타인웨이 #글로벌콘서트 #라이브 #concert #live #artistscard #online #offline #global https://t.co/Aw90ZkAA8w"
+	},
+	{
+		"created_at": "Fri Nov 05 13:29:29 +0000 2021",
+		"id": 1456610847149604900,
+		"id_str": "1456614647117778956",
+		"full_text": "[#박소은] 온스타인웨이 Vol.8 &lt;박소은&gt;\n\n오늘 공연 재밌게 즐기셨나요?\n오늘도 함께해주신 모든 분들께 감사드립니다!\n\n가시는 길 조심히 돌아가시고, 다음에 또 만나요✨ https://t.co/jwqNwT5NJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456609908112380000,
+					"id_str": "1456609908112379904",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbq_nVaUAAvNsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbq_nVaUAAvNsX.jpg",
+					"url": "https://t.co/jwqNwT5NJN",
+					"display_url": "pic.twitter.com/jwqNwT5NJN",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610847149604869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456609908112380000,
+					"id_str": "1456609908112379904",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbq_nVaUAAvNsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbq_nVaUAAvNsX.jpg",
+					"url": "https://t.co/jwqNwT5NJN",
+					"display_url": "pic.twitter.com/jwqNwT5NJN",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610847149604869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456609908108177400,
+					"id_str": "1456609908108177409",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbq_nUaMAENdtL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbq_nUaMAENdtL.jpg",
+					"url": "https://t.co/jwqNwT5NJN",
+					"display_url": "pic.twitter.com/jwqNwT5NJN",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610847149604869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456609908112359400,
+					"id_str": "1456609908112359424",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbq_nVaAAAyT8B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbq_nVaAAAyT8B.jpg",
+					"url": "https://t.co/jwqNwT5NJN",
+					"display_url": "pic.twitter.com/jwqNwT5NJN",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610847149604869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456609908116553700,
+					"id_str": "1456609908116553728",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FDbq_nWaAAApCln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDbq_nWaAAApCln.jpg",
+					"url": "https://t.co/jwqNwT5NJN",
+					"display_url": "pic.twitter.com/jwqNwT5NJN",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1456610847149604869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#박소은] 온스타인웨이 Vol.8 &lt;박소은&gt;\n\n오늘 공연 재밌게 즐기셨나요?\n오늘도 함께해주신 모든 분들께 감사드립니다!\n\n가시는 길 조심히 돌아가시고, 다음에 또 만나요✨ https://t.co/jwqNwT5NJN"
+	},
+	{
 		"created_at": "Fri Nov 05 12:29:35 +0000 2021",
 		"id": 1456595004495839200,
 		"id_str": "1456599573120552970",
