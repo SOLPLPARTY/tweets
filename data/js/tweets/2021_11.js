@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 04:29:24 +0000 2021",
+		"id": 1456471474030579700,
+		"id_str": "1456478734115028997",
+		"full_text": "[Official Audio] David Guetta - Family (feat. JAMIE, Ty Dolla $ign &amp; A Boogie Wit da Hoodie)\n\n▶https://t.co/GXjpflU0e6\n\n#warnermusic #DavidGuetta #Family #JAMIE #TyDollaSign #ABoogieWitdaHoodie\n\n@davidguetta @jiminpark07 @tydollasign @artisthbtl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "DavidGuetta",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "Family",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "JAMIE",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "TyDollaSign",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "ABoogieWitdaHoodie",
+					"indices": [
+						178,
+						197
+					]
+				}
+			],
+			"symbols": [
+				{
+					"text": "ign",
+					"indices": [
+						62,
+						66
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "davidguetta",
+					"name": "David Guetta",
+					"id": 23976386,
+					"id_str": "23976386",
+					"indices": [
+						199,
+						211
+					]
+				},
+				{
+					"screen_name": "jiminpark07",
+					"name": "JIMINxJAMIE",
+					"id": 220195175,
+					"id_str": "220195175",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"screen_name": "tydollasign",
+					"name": "Ty Dolla $ign",
+					"id": 25932445,
+					"id_str": "25932445",
+					"indices": [
+						225,
+						237
+					]
+				},
+				{
+					"screen_name": "ArtistHBTL",
+					"name": "ABOOGIEWITDAHOODIE",
+					"id": 714883158731268100,
+					"id_str": "714883158731268096",
+					"indices": [
+						238,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GXjpflU0e6",
+					"expanded_url": "https://youtu.be/b-eU2J7mGaY",
+					"display_url": "youtu.be/b-eU2J7mGaY",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51998,
+			"friends_count": 496,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Official Audio] David Guetta - Family (feat. JAMIE, Ty Dolla $ign &amp; A Boogie Wit da Hoodie)\n\n▶https://t.co/GXjpflU0e6\n\n#warnermusic #DavidGuetta #Family #JAMIE #TyDollaSign #ABoogieWitdaHoodie\n\n@davidguetta @jiminpark07 @tydollasign @artisthbtl"
+	},
+	{
 		"created_at": "Fri Nov 05 04:11:16 +0000 2021",
 		"id": 1456471335471833000,
 		"id_str": "1456474170259296257",
@@ -310,7 +496,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Fri Nov 05 03:29:52 +0000 2021",
 		"id": 1456463626236141600,
 		"id_str": "1456463752090562599",
-		"full_text": "#Wilcox @wilcoxroom \n\n❤️‍🩹\n윌콕스 [50/50] 잘 듣고 계신가요? \n컨셉에 대한 자세한 비하인드 스토리는 지니매거진을 통해 확인해보세요! \n\nhttps://t.co/ekJ0ZAgabF\n\n#윌콕스 #5050 #fiftyfifty https://t.co/aDJsm3Kfs6",
+		"full_text": "#Wilcox @wilcoxroom \n\n❤️🩹\n윌콕스 [50/50] 잘 듣고 계신가요? \n컨셉에 대한 자세한 비하인드 스토리는 지니매거진을 통해 확인해보세요! \n\nhttps://t.co/ekJ0ZAgabF\n\n#윌콕스 #5050 #fiftyfifty https://t.co/aDJsm3Kfs6",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -629,7 +815,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#Wilcox @wilcoxroom \n\n❤️‍🩹\n윌콕스 [50/50] 잘 듣고 계신가요? \n컨셉에 대한 자세한 비하인드 스토리는 지니매거진을 통해 확인해보세요! \n\nhttps://t.co/ekJ0ZAgabF\n\n#윌콕스 #5050 #fiftyfifty https://t.co/aDJsm3Kfs6"
+		"text": "#Wilcox @wilcoxroom \n\n❤️🩹\n윌콕스 [50/50] 잘 듣고 계신가요? \n컨셉에 대한 자세한 비하인드 스토리는 지니매거진을 통해 확인해보세요! \n\nhttps://t.co/ekJ0ZAgabF\n\n#윌콕스 #5050 #fiftyfifty https://t.co/aDJsm3Kfs6"
 	},
 	{
 		"created_at": "Fri Nov 05 03:29:49 +0000 2021",
