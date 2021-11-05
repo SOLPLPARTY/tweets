@@ -1,6 +1,1669 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 04:11:16 +0000 2021",
+		"id": 1456471335471833000,
+		"id_str": "1456474170259296257",
+		"full_text": "𝗗𝗔𝗬-𝟭\n&lt;RE：SPES ANDONG 2021x롤링홀&gt; 현장 안내\n\n⏰\n· 티켓 교환부스 및 검역센터 운영 : 오전 10시 ~ 오후 8시\n· 스테이지 오픈(입장) : 오전 11시 \n\n#리스페스안동 #리스페스 #respesfestival #롤링홀\n#페스티벌 #너드커넥션 #녹두 #데이먼스이어 #윤딴딴 #조문근밴드 #케빈오 #프루던스 https://t.co/SQgwJYqkem",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리스페스안동",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "리스페스",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "respesfestival",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "녹두",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "데이먼스이어",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "윤딴딴",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "조문근밴드",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "케빈오",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "프루던스",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455398525534359600,
+					"id_str": "1455398525534359552",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FDKdP3kaUAAU2Rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDKdP3kaUAAU2Rw.jpg",
+					"url": "https://t.co/SQgwJYqkem",
+					"display_url": "pic.twitter.com/SQgwJYqkem",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456471335471833092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455398525534359600,
+					"id_str": "1455398525534359552",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FDKdP3kaUAAU2Rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDKdP3kaUAAU2Rw.jpg",
+					"url": "https://t.co/SQgwJYqkem",
+					"display_url": "pic.twitter.com/SQgwJYqkem",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456471335471833092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455398540990378000,
+					"id_str": "1455398540990377985",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FDKdQxJacAEcKyL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDKdQxJacAEcKyL.jpg",
+					"url": "https://t.co/SQgwJYqkem",
+					"display_url": "pic.twitter.com/SQgwJYqkem",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1456471335471833092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗗𝗔𝗬-𝟭\n&lt;RE：SPES ANDONG 2021x롤링홀&gt; 현장 안내\n\n⏰\n· 티켓 교환부스 및 검역센터 운영 : 오전 10시 ~ 오후 8시\n· 스테이지 오픈(입장) : 오전 11시 \n\n#리스페스안동 #리스페스 #respesfestival #롤링홀\n#페스티벌 #너드커넥션 #녹두 #데이먼스이어 #윤딴딴 #조문근밴드 #케빈오 #프루던스 https://t.co/SQgwJYqkem"
+	},
+	{
+		"created_at": "Fri Nov 05 03:29:52 +0000 2021",
+		"id": 1456463626236141600,
+		"id_str": "1456463752090562599",
+		"full_text": "#Wilcox @wilcoxroom \n\n❤️‍🩹\n윌콕스 [50/50] 잘 듣고 계신가요? \n컨셉에 대한 자세한 비하인드 스토리는 지니매거진을 통해 확인해보세요! \n\nhttps://t.co/ekJ0ZAgabF\n\n#윌콕스 #5050 #fiftyfifty https://t.co/aDJsm3Kfs6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "fiftyfifty",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wilcoxroom",
+					"name": "wilcox",
+					"id": 2997382472,
+					"id_str": "2997382472",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ekJ0ZAgabF",
+					"expanded_url": "http://genie.co.kr/0BVWM4",
+					"display_url": "genie.co.kr/0BVWM4",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456463514206613500,
+					"id_str": "1456463514206613504",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZl2XiaMAAfdws.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZl2XiaMAAfdws.jpg",
+					"url": "https://t.co/aDJsm3Kfs6",
+					"display_url": "pic.twitter.com/aDJsm3Kfs6",
+					"expanded_url": "https://twitter.com/inplanet/status/1456463626236141572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456463514206613500,
+					"id_str": "1456463514206613504",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZl2XiaMAAfdws.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZl2XiaMAAfdws.jpg",
+					"url": "https://t.co/aDJsm3Kfs6",
+					"display_url": "pic.twitter.com/aDJsm3Kfs6",
+					"expanded_url": "https://twitter.com/inplanet/status/1456463626236141572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456463514206621700,
+					"id_str": "1456463514206621696",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZl2XiaUAAel8g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZl2XiaUAAel8g.jpg",
+					"url": "https://t.co/aDJsm3Kfs6",
+					"display_url": "pic.twitter.com/aDJsm3Kfs6",
+					"expanded_url": "https://twitter.com/inplanet/status/1456463626236141572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456463514206634000,
+					"id_str": "1456463514206633985",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZl2XiagAENC6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZl2XiagAENC6B.jpg",
+					"url": "https://t.co/aDJsm3Kfs6",
+					"display_url": "pic.twitter.com/aDJsm3Kfs6",
+					"expanded_url": "https://twitter.com/inplanet/status/1456463626236141572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456463514210824200,
+					"id_str": "1456463514210824192",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZl2XjacAAtwyQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZl2XjacAAtwyQ.jpg",
+					"url": "https://t.co/aDJsm3Kfs6",
+					"display_url": "pic.twitter.com/aDJsm3Kfs6",
+					"expanded_url": "https://twitter.com/inplanet/status/1456463626236141572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1450,
+			"friends_count": 774,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Wilcox @wilcoxroom \n\n❤️‍🩹\n윌콕스 [50/50] 잘 듣고 계신가요? \n컨셉에 대한 자세한 비하인드 스토리는 지니매거진을 통해 확인해보세요! \n\nhttps://t.co/ekJ0ZAgabF\n\n#윌콕스 #5050 #fiftyfifty https://t.co/aDJsm3Kfs6"
+	},
+	{
+		"created_at": "Fri Nov 05 03:29:49 +0000 2021",
+		"id": 1456462475935686700,
+		"id_str": "1456463738891079680",
+		"full_text": "9. Jflow - Yellow\n10. marginchoi, Chaboom - Nag Champa\n#kpop #newmusicfridaykorea #krnp #khiphop #kdramaost https://t.co/qcbcia0ZMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kpop",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "newmusicfridaykorea",
+					"indices": [
+						61,
+						81
+					]
+				},
+				{
+					"text": "krnp",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "khiphop",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "kdramaost",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456462463428612000,
+					"id_str": "1456462463428612096",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZk5NFaUAA_jxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZk5NFaUAA_jxm.jpg",
+					"url": "https://t.co/qcbcia0ZMt",
+					"display_url": "pic.twitter.com/qcbcia0ZMt",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462475935686661/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456462463428612000,
+					"id_str": "1456462463428612096",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZk5NFaUAA_jxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZk5NFaUAA_jxm.jpg",
+					"url": "https://t.co/qcbcia0ZMt",
+					"display_url": "pic.twitter.com/qcbcia0ZMt",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462475935686661/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462463466348500,
+					"id_str": "1456462463466348545",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZk5NOaIAE38DH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZk5NOaIAE38DH.jpg",
+					"url": "https://t.co/qcbcia0ZMt",
+					"display_url": "pic.twitter.com/qcbcia0ZMt",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462475935686661/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462463462166500,
+					"id_str": "1456462463462166528",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZk5NNaUAAFPXi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZk5NNaUAAFPXi.jpg",
+					"url": "https://t.co/qcbcia0ZMt",
+					"display_url": "pic.twitter.com/qcbcia0ZMt",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462475935686661/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456462341202079700,
+		"in_reply_to_status_id_str": "1456462341202079747",
+		"in_reply_to_user_id": 174146592,
+		"in_reply_to_user_id_str": "174146592",
+		"in_reply_to_screen_name": "FLUXUSMUSIC",
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13320,
+			"friends_count": 13029,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9. Jflow - Yellow\n10. marginchoi, Chaboom - Nag Champa\n#kpop #newmusicfridaykorea #krnp #khiphop #kdramaost https://t.co/qcbcia0ZMt"
+	},
+	{
+		"created_at": "Fri Nov 05 03:29:41 +0000 2021",
+		"id": 1456462341202079700,
+		"id_str": "1456463704741064722",
+		"full_text": "5. Rico - R&amp;B Boy EP\n6. SHIRT - I’m drawn to you\n7. The Poles (@Studio_thepoles) - Find Me!\n8. NECTA - fvck art let’s dance https://t.co/mYHdCw4L8f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Studio_thepoles",
+					"name": "ThePoles(더폴스)",
+					"id": 827545035855929300,
+					"id_str": "827545035855929345",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456462329001185300,
+					"id_str": "1456462329001185281",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkxYTakAEj07M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkxYTakAEj07M.jpg",
+					"url": "https://t.co/mYHdCw4L8f",
+					"display_url": "pic.twitter.com/mYHdCw4L8f",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462341202079747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456462329001185300,
+					"id_str": "1456462329001185281",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkxYTakAEj07M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkxYTakAEj07M.jpg",
+					"url": "https://t.co/mYHdCw4L8f",
+					"display_url": "pic.twitter.com/mYHdCw4L8f",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462341202079747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462329005379600,
+					"id_str": "1456462329005379588",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkxYUakAQeexe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkxYUakAQeexe.jpg",
+					"url": "https://t.co/mYHdCw4L8f",
+					"display_url": "pic.twitter.com/mYHdCw4L8f",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462341202079747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1916,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1123,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462329001177000,
+					"id_str": "1456462329001177089",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkxYTacAExkvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkxYTacAExkvz.jpg",
+					"url": "https://t.co/mYHdCw4L8f",
+					"display_url": "pic.twitter.com/mYHdCw4L8f",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462341202079747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1374,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462329034723300,
+					"id_str": "1456462329034723329",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkxYbaUAEM7CL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkxYbaUAEM7CL.jpg",
+					"url": "https://t.co/mYHdCw4L8f",
+					"display_url": "pic.twitter.com/mYHdCw4L8f",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462341202079747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456462183643029500,
+		"in_reply_to_status_id_str": "1456462183643029511",
+		"in_reply_to_user_id": 174146592,
+		"in_reply_to_user_id_str": "174146592",
+		"in_reply_to_screen_name": "FLUXUSMUSIC",
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13320,
+			"friends_count": 13029,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5. Rico - R&amp;B Boy EP\n6. SHIRT - I’m drawn to you\n7. The Poles (@Studio_thepoles) - Find Me!\n8. NECTA - fvck art let’s dance https://t.co/mYHdCw4L8f"
+	},
+	{
+		"created_at": "Fri Nov 05 03:29:37 +0000 2021",
+		"id": 1456462183643029500,
+		"id_str": "1456463687473115161",
+		"full_text": "Check out what album’s featured on this week’s #toppicksoftheweek !\n\nFull 🎬 https://t.co/UHvpWA92Mw\n\n1. EOH - Fungus &amp; Ecdysis\n2. Kidd King - Trespassing (feat. Creed)\n3. KIRARA (@stqpkiraradj) - 4-1\n4. CHAI - Dali and Cocky Prince (Original Television Soundtrack), Pt.8 https://t.co/muSpdwWr1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "toppicksoftheweek",
+					"indices": [
+						47,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stqpkiraradj",
+					"name": "키라라 KIRARA",
+					"id": 1417147997977137200,
+					"id_str": "1417147997977137158",
+					"indices": [
+						183,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UHvpWA92Mw",
+					"expanded_url": "https://bit.ly/31n9n6a",
+					"display_url": "bit.ly/31n9n6a",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456462173501558800,
+					"id_str": "1456462173501558784",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkoVBakAA373y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkoVBakAA373y.jpg",
+					"url": "https://t.co/muSpdwWr1p",
+					"display_url": "pic.twitter.com/muSpdwWr1p",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462183643029511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456462173501558800,
+					"id_str": "1456462173501558784",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkoVBakAA373y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkoVBakAA373y.jpg",
+					"url": "https://t.co/muSpdwWr1p",
+					"display_url": "pic.twitter.com/muSpdwWr1p",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462183643029511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462173493162000,
+					"id_str": "1456462173493161984",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkoU_acAADA9t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkoU_acAADA9t.jpg",
+					"url": "https://t.co/muSpdwWr1p",
+					"display_url": "pic.twitter.com/muSpdwWr1p",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462183643029511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462173501530000,
+					"id_str": "1456462173501530112",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkoVBaIAAK0J3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkoVBaIAAK0J3.jpg",
+					"url": "https://t.co/muSpdwWr1p",
+					"display_url": "pic.twitter.com/muSpdwWr1p",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462183643029511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456462173501534200,
+					"id_str": "1456462173501534208",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FDZkoVBaMAAEsZn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDZkoVBaMAAEsZn.jpg",
+					"url": "https://t.co/muSpdwWr1p",
+					"display_url": "pic.twitter.com/muSpdwWr1p",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1456462183643029511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1445,
+							"h": 1445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13320,
+			"friends_count": 13029,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out what album’s featured on this week’s #toppicksoftheweek !\n\nFull 🎬 https://t.co/UHvpWA92Mw\n\n1. EOH - Fungus &amp; Ecdysis\n2. Kidd King - Trespassing (feat. Creed)\n3. KIRARA (@stqpkiraradj) - 4-1\n4. CHAI - Dali and Cocky Prince (Original Television Soundtrack), Pt.8 https://t.co/muSpdwWr1p"
+	},
+	{
+		"created_at": "Fri Nov 05 03:29:32 +0000 2021",
+		"id": 1456459227833065500,
+		"id_str": "1456463664949645312",
+		"full_text": "✔️일시\n2021. 12. 11. (토) 7pm\n2021. 12. 12. (일) 5pm\n\n✔️장소\n블루스퀘어 마스터카드홀\n\n✔️티켓 오픈\n2021. 11. 9. (화) 8pm @ 인터파크 티켓\n\n@pptnzexpress #Peppertones\n#신재평 #이장원\n#TRAVELERS #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Peppertones",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "TRAVELERS",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456459223143837700,
+		"in_reply_to_status_id_str": "1456459223143837697",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37349,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️일시\n2021. 12. 11. (토) 7pm\n2021. 12. 12. (일) 5pm\n\n✔️장소\n블루스퀘어 마스터카드홀\n\n✔️티켓 오픈\n2021. 11. 9. (화) 8pm @ 인터파크 티켓\n\n@pptnzexpress #Peppertones\n#신재평 #이장원\n#TRAVELERS #콘서트"
+	},
+	{
 		"created_at": "Fri Nov 05 03:06:20 +0000 2021",
 		"id": 1456457827346751500,
 		"id_str": "1456457827346751492",
