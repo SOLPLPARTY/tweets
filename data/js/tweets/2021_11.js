@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 06 10:58:14 +0000 2021",
+		"id": 1456934466090274800,
+		"id_str": "1456938974899998721",
+		"full_text": "잠시 후 치어리더와 럭비부 쿼터백의 하이틴 믹스를 들을 수 있는 슬케파로 오세요! 슬케파! 방과 후 스포츠 클럽! \n👉https://t.co/34S2C5onzC https://t.co/zP9tmUgqF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5onzC",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456934456351400000,
+					"id_str": "1456934456351399936",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FDgSKzvaIAAXIiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDgSKzvaIAAXIiD.jpg",
+					"url": "https://t.co/zP9tmUgqF8",
+					"display_url": "pic.twitter.com/zP9tmUgqF8",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1456934466090274816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456934456351400000,
+					"id_str": "1456934456351399936",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FDgSKzvaIAAXIiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDgSKzvaIAAXIiD.jpg",
+					"url": "https://t.co/zP9tmUgqF8",
+					"display_url": "pic.twitter.com/zP9tmUgqF8",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1456934466090274816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456934456351428600,
+					"id_str": "1456934456351428608",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FDgSKzvakAAZW52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDgSKzvakAAZW52.jpg",
+					"url": "https://t.co/zP9tmUgqF8",
+					"display_url": "pic.twitter.com/zP9tmUgqF8",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1456934466090274816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7751,
+			"friends_count": 39,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 치어리더와 럭비부 쿼터백의 하이틴 믹스를 들을 수 있는 슬케파로 오세요! 슬케파! 방과 후 스포츠 클럽! \n👉https://t.co/34S2C5onzC https://t.co/zP9tmUgqF8"
+	},
+	{
 		"created_at": "Sat Nov 06 09:09:55 +0000 2021",
 		"id": 1456911713434054700,
 		"id_str": "1456911713434054659",
