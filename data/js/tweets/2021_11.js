@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 07 21:29:24 +0000 2021",
+		"id": 1457450369705922600,
+		"id_str": "1457460201112625162",
+		"full_text": "[#동표사신보] 태히언(Tehiun)- People Are The Country (Single)\n\n멜론 https://t.co/gDhLCYnqlK\n벅스 https://t.co/SyH9zE0fOX\n지니 https://t.co/Qg3zDx9jcW\nFLO https://t.co/CBDHiXTAZi\nVIBE https://t.co/pE002ewjz3\nYoutube Music https://t.co/S93VMo3DM8\nBandcamp https://t.co/E9UBY7NBZO https://t.co/qGCoyyIoYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동표사신보",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gDhLCYnqlK",
+					"expanded_url": "https://bit.ly/3ECWzHh",
+					"display_url": "bit.ly/3ECWzHh",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/SyH9zE0fOX",
+					"expanded_url": "https://bit.ly/3wnYrRv",
+					"display_url": "bit.ly/3wnYrRv",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/Qg3zDx9jcW",
+					"expanded_url": "https://bit.ly/3bxMgrD",
+					"display_url": "bit.ly/3bxMgrD",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/CBDHiXTAZi",
+					"expanded_url": "https://bit.ly/3mGDxK8",
+					"display_url": "bit.ly/3mGDxK8",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/pE002ewjz3",
+					"expanded_url": "https://bit.ly/3w7zIAE",
+					"display_url": "bit.ly/3w7zIAE",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/S93VMo3DM8",
+					"expanded_url": "https://bit.ly/2ZLTS7G",
+					"display_url": "bit.ly/2ZLTS7G",
+					"indices": [
+						207,
+						230
+					]
+				},
+				{
+					"url": "https://t.co/E9UBY7NBZO",
+					"expanded_url": "https://bit.ly/3CKUYi4",
+					"display_url": "bit.ly/3CKUYi4",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457450319324266500,
+					"id_str": "1457450319324266496",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457450319324266496/pu/img/YBUwm9gslbgWX-DT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457450319324266496/pu/img/YBUwm9gslbgWX-DT.jpg",
+					"url": "https://t.co/qGCoyyIoYA",
+					"display_url": "pic.twitter.com/qGCoyyIoYA",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1457450369705922560/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 981,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457450319324266500,
+					"id_str": "1457450319324266496",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457450319324266496/pu/img/YBUwm9gslbgWX-DT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457450319324266496/pu/img/YBUwm9gslbgWX-DT.jpg",
+					"url": "https://t.co/qGCoyyIoYA",
+					"display_url": "pic.twitter.com/qGCoyyIoYA",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1457450369705922560/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 981,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							256,
+							313
+						],
+						"duration_millis": 30700,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457450319324266496/pu/vid/720x880/qHjGRz64YVXHQ5iF.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457450319324266496/pu/vid/320x390/qqpMm2MRGNa9zoJx.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457450319324266496/pu/vid/480x586/GuZRnhoIWBP-X9d5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1457450319324266496/pu/pl/gi0cbvO3YvtjFS82.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6Mhbnr1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6Mhbnr1",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 1767,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1636318054",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#동표사신보] 태히언(Tehiun)- People Are The Country (Single)\n\n멜론 https://t.co/gDhLCYnqlK\n벅스 https://t.co/SyH9zE0fOX\n지니 https://t.co/Qg3zDx9jcW\nFLO https://t.co/CBDHiXTAZi\nVIBE https://t.co/pE002ewjz3\nYoutube Music https://t.co/S93VMo3DM8\nBandcamp https://t.co/E9UBY7NBZO https://t.co/qGCoyyIoYA"
+	},
+	{
 		"created_at": "Sun Nov 07 15:29:25 +0000 2021",
 		"id": 1457362283063955500,
 		"id_str": "1457369607593938945",
