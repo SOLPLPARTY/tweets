@@ -1,6 +1,845 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 05:11:33 +0000 2021",
+		"id": 1457573091681263600,
+		"id_str": "1457576502074257409",
+		"full_text": "✧커버 아티스트의 숨겨둔 취미를 소개하는 ‘덕밍아웃’\n✧10월 11월 신보소식!\n✧최근에 떠오르는 아티스트의 미니 인터뷰가 실린\n‘Rising Artists’까지!\n\n다양한 정보가 가득한 씬디매거진을 구독해 보세요!\n\n#장희원 #민트페이퍼 #비스킷타운 #스튜디오빌리빈 #씬디매거진 https://t.co/txfIUcFcsb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장희원",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "비스킷타운",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "스튜디오빌리빈",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "씬디매거진",
+					"indices": [
+						150,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457573047930867700,
+					"id_str": "1457573047930867712",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpW9uwaUAAqmag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpW9uwaUAAqmag.jpg",
+					"url": "https://t.co/txfIUcFcsb",
+					"display_url": "pic.twitter.com/txfIUcFcsb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573091681263617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457573047930867700,
+					"id_str": "1457573047930867712",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpW9uwaUAAqmag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpW9uwaUAAqmag.jpg",
+					"url": "https://t.co/txfIUcFcsb",
+					"display_url": "pic.twitter.com/txfIUcFcsb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573091681263617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457573082579669000,
+		"in_reply_to_status_id_str": "1457573082579668992",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752,
+			"friends_count": 2577,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✧커버 아티스트의 숨겨둔 취미를 소개하는 ‘덕밍아웃’\n✧10월 11월 신보소식!\n✧최근에 떠오르는 아티스트의 미니 인터뷰가 실린\n‘Rising Artists’까지!\n\n다양한 정보가 가득한 씬디매거진을 구독해 보세요!\n\n#장희원 #민트페이퍼 #비스킷타운 #스튜디오빌리빈 #씬디매거진 https://t.co/txfIUcFcsb"
+	},
+	{
+		"created_at": "Mon Nov 08 05:11:28 +0000 2021",
+		"id": 1457573082579669000,
+		"id_str": "1457576480582557704",
+		"full_text": "[CREDIT]\n◼ 인터뷰 : 임희윤 @heeyun_lim ㅣ 동아일보\n◼ 사진 : 스튜디오 빌리빈 @studiobillybean ㅣ 지운 @hereiscloudland\n◼ 디자인 : 이솔이 @iamsolei\n◼ 기획 : 비스킷타운 @bscttown\n◼ 에디터 : 오상훈 @sanghoonoh_dike\n◼ 발행 : 씬디 티켓라운지 @xindieticket https://t.co/sCpu06AABi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamsolei",
+					"name": "Solei 🤍",
+					"id": 1286515140058181600,
+					"id_str": "1286515140058181632",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"screen_name": "xindieticket",
+					"name": "씬디 티켓라운지",
+					"id": 1220731080,
+					"id_str": "1220731080",
+					"indices": [
+						185,
+						198
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457573015668293600,
+					"id_str": "1457573015668293633",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpW72kagAEPWgk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpW72kagAEPWgk.jpg",
+					"url": "https://t.co/sCpu06AABi",
+					"display_url": "pic.twitter.com/sCpu06AABi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573082579668992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457573015668293600,
+					"id_str": "1457573015668293633",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpW72kagAEPWgk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpW72kagAEPWgk.jpg",
+					"url": "https://t.co/sCpu06AABi",
+					"display_url": "pic.twitter.com/sCpu06AABi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573082579668992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457573015672492000,
+					"id_str": "1457573015672492032",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpW72lakAARIdc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpW72lakAARIdc.jpg",
+					"url": "https://t.co/sCpu06AABi",
+					"display_url": "pic.twitter.com/sCpu06AABi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573082579668992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457573072056160300,
+		"in_reply_to_status_id_str": "1457573072056160264",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752,
+			"friends_count": 2577,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CREDIT]\n◼ 인터뷰 : 임희윤 @heeyun_lim ㅣ 동아일보\n◼ 사진 : 스튜디오 빌리빈 @studiobillybean ㅣ 지운 @hereiscloudland\n◼ 디자인 : 이솔이 @iamsolei\n◼ 기획 : 비스킷타운 @bscttown\n◼ 에디터 : 오상훈 @sanghoonoh_dike\n◼ 발행 : 씬디 티켓라운지 @xindieticket https://t.co/sCpu06AABi"
+	},
+	{
+		"created_at": "Mon Nov 08 05:11:21 +0000 2021",
+		"id": 1457573072056160300,
+		"id_str": "1457576454896734208",
+		"full_text": "장희원의 새 앨범이야기,\n근황과 어디서도 볼 수 없던 덕밍아웃\n그리고 직접 초이스한 띵곡까지!\n\n'씬디매거진'에서 함께 보아요!\n@xindiemagazine\n📎바로보기 링크: https://t.co/wXzpVF088Y (프로필링크 클릭) https://t.co/zM5Ibpp1Eh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wXzpVF088Y",
+					"expanded_url": "http://www.xindiemagazine.co.kr/",
+					"display_url": "xindiemagazine.co.kr",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457572802467614700,
+					"id_str": "1457572802467614720",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpWvcVaUAAOajo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpWvcVaUAAOajo.jpg",
+					"url": "https://t.co/zM5Ibpp1Eh",
+					"display_url": "pic.twitter.com/zM5Ibpp1Eh",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573072056160264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457572802467614700,
+					"id_str": "1457572802467614720",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpWvcVaUAAOajo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpWvcVaUAAOajo.jpg",
+					"url": "https://t.co/zM5Ibpp1Eh",
+					"display_url": "pic.twitter.com/zM5Ibpp1Eh",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573072056160264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457572802471821300,
+					"id_str": "1457572802471821313",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpWvcWagAEnBwu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpWvcWagAEnBwu.jpg",
+					"url": "https://t.co/zM5Ibpp1Eh",
+					"display_url": "pic.twitter.com/zM5Ibpp1Eh",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573072056160264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457573060974813200,
+		"in_reply_to_status_id_str": "1457573060974813188",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752,
+			"friends_count": 2577,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장희원의 새 앨범이야기,\n근황과 어디서도 볼 수 없던 덕밍아웃\n그리고 직접 초이스한 띵곡까지!\n\n'씬디매거진'에서 함께 보아요!\n@xindiemagazine\n📎바로보기 링크: https://t.co/wXzpVF088Y (프로필링크 클릭) https://t.co/zM5Ibpp1Eh"
+	},
+	{
+		"created_at": "Mon Nov 08 05:11:16 +0000 2021",
+		"id": 1457573060974813200,
+		"id_str": "1457576433413468164",
+		"full_text": "[씬디매거진 2021년 11월호]\n\n씬디매거진 구독자여러분들~\n많이 기다리셨죠?\n따끈 따끈한 씬디매거진 11월호가 도착했습니다! ꒰(๑´•.̫•`๑)꒱\n\n이번 11월호와 함께한 아티스트는\n바로,,!\n새로운 EP와 함께 돌아온\n\n'장희원'입니다! ⁽⁽◝( ˙ ꒳ ˙ )◜⁾⁾\n@heeeewon_ https://t.co/jYGN5njXDB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457572664848285700,
+					"id_str": "1457572664848285698",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpWnbqaAAI3Xwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpWnbqaAAI3Xwb.jpg",
+					"url": "https://t.co/jYGN5njXDB",
+					"display_url": "pic.twitter.com/jYGN5njXDB",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573060974813188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457572664848285700,
+					"id_str": "1457572664848285698",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpWnbqaAAI3Xwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpWnbqaAAI3Xwb.jpg",
+					"url": "https://t.co/jYGN5njXDB",
+					"display_url": "pic.twitter.com/jYGN5njXDB",
+					"expanded_url": "https://twitter.com/xindieticket/status/1457573060974813188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752,
+			"friends_count": 2577,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디매거진 2021년 11월호]\n\n씬디매거진 구독자여러분들~\n많이 기다리셨죠?\n따끈 따끈한 씬디매거진 11월호가 도착했습니다! ꒰(๑´•.̫•`๑)꒱\n\n이번 11월호와 함께한 아티스트는\n바로,,!\n새로운 EP와 함께 돌아온\n\n'장희원'입니다! ⁽⁽◝( ˙ ꒳ ˙ )◜⁾⁾\n@heeeewon_ https://t.co/jYGN5njXDB"
+	},
+	{
 		"created_at": "Mon Nov 08 03:29:44 +0000 2021",
 		"id": 1457544655306989600,
 		"id_str": "1457550880300011522",
