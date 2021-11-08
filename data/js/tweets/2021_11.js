@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 00:11:16 +0000 2021",
+		"id": 1457493759961165800,
+		"id_str": "1457500935584952325",
+		"full_text": "시리즈 김오키, vol.5 [스트레인지 트루 뷰티].\n\n느와르로맨스 장편영화 '스트레인지, 트루 뷰티' 의 OST이기도 한 김오키의 정규앨범. 진수영(피아노), 브라이언신(트럼펫,플루겔혼), 전제곤/정수민(베이스)이 함께하여 괴상하고 아름다운 사랑의 빛을 연주합니다.\n\n예매: https://t.co/Lffe70k43E https://t.co/EtEemKgnKa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lffe70k43E",
+					"expanded_url": "https://url.kr/iquhxe",
+					"display_url": "url.kr/iquhxe",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457493735999443000,
+					"id_str": "1457493735999442944",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FDoO1KyakAApxi9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDoO1KyakAApxi9.jpg",
+					"url": "https://t.co/EtEemKgnKa",
+					"display_url": "pic.twitter.com/EtEemKgnKa",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1457493759961165824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457493735999443000,
+					"id_str": "1457493735999442944",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FDoO1KyakAApxi9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDoO1KyakAApxi9.jpg",
+					"url": "https://t.co/EtEemKgnKa",
+					"display_url": "pic.twitter.com/EtEemKgnKa",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1457493759961165824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598,
+			"friends_count": 154,
+			"listed_count": 133,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시리즈 김오키, vol.5 [스트레인지 트루 뷰티].\n\n느와르로맨스 장편영화 '스트레인지, 트루 뷰티' 의 OST이기도 한 김오키의 정규앨범. 진수영(피아노), 브라이언신(트럼펫,플루겔혼), 전제곤/정수민(베이스)이 함께하여 괴상하고 아름다운 사랑의 빛을 연주합니다.\n\n예매: https://t.co/Lffe70k43E https://t.co/EtEemKgnKa"
+	},
+	{
 		"created_at": "Sun Nov 07 21:29:24 +0000 2021",
 		"id": 1457450369705922600,
 		"id_str": "1457460201112625162",
