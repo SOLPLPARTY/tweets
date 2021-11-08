@@ -1,6 +1,771 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 11:29:41 +0000 2021",
+		"id": 1457671556839055400,
+		"id_str": "1457671662808207370",
+		"full_text": "[#손태진] SBS 파워FM '웬디의 영스트리트' 출연 📻\n\n최초 공개❗ 손태진과 웬디의 '깊어지네 (Duet With 웬디)' LIVE &amp; 유쾌한 수다는 링크에서 확인🎵\n\n🔗 https://t.co/5DnttnwXfi\n\n#SONTAEJIN #TJSON #레드벨벳 #웬디 #SBS #파워FM #웬디의영스트리트 https://t.co/izYbiLxtA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "파워FM",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						167,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5DnttnwXfi",
+					"expanded_url": "https://bit.ly/3D2EFNW",
+					"display_url": "bit.ly/3D2EFNW",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457671417081008000,
+					"id_str": "1457671417081008129",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FDqwbkZakAEM3Df.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDqwbkZakAEM3Df.jpg",
+					"url": "https://t.co/izYbiLxtA5",
+					"display_url": "pic.twitter.com/izYbiLxtA5",
+					"expanded_url": "https://twitter.com/themysticstory/status/1457671556839055369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457671417081008000,
+					"id_str": "1457671417081008129",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FDqwbkZakAEM3Df.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDqwbkZakAEM3Df.jpg",
+					"url": "https://t.co/izYbiLxtA5",
+					"display_url": "pic.twitter.com/izYbiLxtA5",
+					"expanded_url": "https://twitter.com/themysticstory/status/1457671556839055369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26751,
+			"friends_count": 15,
+			"listed_count": 254,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] SBS 파워FM '웬디의 영스트리트' 출연 📻\n\n최초 공개❗ 손태진과 웬디의 '깊어지네 (Duet With 웬디)' LIVE &amp; 유쾌한 수다는 링크에서 확인🎵\n\n🔗 https://t.co/5DnttnwXfi\n\n#SONTAEJIN #TJSON #레드벨벳 #웬디 #SBS #파워FM #웬디의영스트리트 https://t.co/izYbiLxtA5"
+	},
+	{
+		"created_at": "Mon Nov 08 11:29:38 +0000 2021",
+		"id": 1457669601983033300,
+		"id_str": "1457671649742966786",
+		"full_text": "[#이랑] Neo Music Communication &lt;IZM&gt; 인터뷰 공개\n\n&lt;IZM&gt;과 함께한 이랑의 인터뷰가 공개되었습니다.\n\n이랑의 인터뷰를 지금 바로 확인해보세요!\n👉 https://t.co/HShLutXFwJ\n\n#이랑 #이랑인터뷰 #Langlee #늑대가나타났다 #환란의세대 #신의놀이 #IZM #인터뷰 https://t.co/EtYn0VTmOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "이랑인터뷰",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "Langlee",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "늑대가나타났다",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "환란의세대",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "신의놀이",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "IZM",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HShLutXFwJ",
+					"expanded_url": "https://bit.ly/3BZzWLf",
+					"display_url": "bit.ly/3BZzWLf",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457668886900658200,
+					"id_str": "1457668886900658176",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDquISvaUAARNoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDquISvaUAARNoa.jpg",
+					"url": "https://t.co/EtYn0VTmOv",
+					"display_url": "pic.twitter.com/EtYn0VTmOv",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457669601983033344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457668886900658200,
+					"id_str": "1457668886900658176",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDquISvaUAARNoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDquISvaUAARNoa.jpg",
+					"url": "https://t.co/EtYn0VTmOv",
+					"display_url": "pic.twitter.com/EtYn0VTmOv",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457669601983033344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457668886904864800,
+					"id_str": "1457668886904864768",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDquISwagAArNHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDquISwagAArNHz.jpg",
+					"url": "https://t.co/EtYn0VTmOv",
+					"display_url": "pic.twitter.com/EtYn0VTmOv",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457669601983033344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1071,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1354,
+							"h": 1208,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457669300870054000,
+					"id_str": "1457669300870053888",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FDqugY5aAAA6HGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDqugY5aAAA6HGZ.jpg",
+					"url": "https://t.co/EtYn0VTmOv",
+					"display_url": "pic.twitter.com/EtYn0VTmOv",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457669601983033344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1311,
+							"h": 1305,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이랑] Neo Music Communication &lt;IZM&gt; 인터뷰 공개\n\n&lt;IZM&gt;과 함께한 이랑의 인터뷰가 공개되었습니다.\n\n이랑의 인터뷰를 지금 바로 확인해보세요!\n👉 https://t.co/HShLutXFwJ\n\n#이랑 #이랑인터뷰 #Langlee #늑대가나타났다 #환란의세대 #신의놀이 #IZM #인터뷰 https://t.co/EtYn0VTmOv"
+	},
+	{
+		"created_at": "Mon Nov 08 11:29:32 +0000 2021",
+		"id": 1457662766823530500,
+		"id_str": "1457671623981649920",
+		"full_text": "* 트위터\n@_popbcorn_\n \n당첨되신 분들은 @yoursummerkr DM으로 성함/ 연락처/ 주소(우편번호) 를 보내주세요!\n\n#너드커넥션 #너컨 #정규앨범 #정규1집 #앨범 #발매 #NEW_CENTURY_MASTERPIECE_CINEMA #우린노래가될까 #너드커넥션 #신곡추천 #스트리밍이벤트 #당첨자발표",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "정규앨범",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "정규1집",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "NEW_CENTURY_MASTERPIECE_CINEMA",
+					"indices": [
+						107,
+						138
+					]
+				},
+				{
+					"text": "우린노래가될까",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "신곡추천",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "스트리밍이벤트",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "당첨자발표",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_popbcorn_",
+					"name": "펑",
+					"id": 988255517297459200,
+					"id_str": "988255517297459200",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"screen_name": "YoursummerKR",
+					"name": "유어썸머 Your Summer",
+					"id": 404720294,
+					"id_str": "404720294",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457662763010912300,
+		"in_reply_to_status_id_str": "1457662763010912257",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 트위터\n@_popbcorn_\n \n당첨되신 분들은 @yoursummerkr DM으로 성함/ 연락처/ 주소(우편번호) 를 보내주세요!\n\n#너드커넥션 #너컨 #정규앨범 #정규1집 #앨범 #발매 #NEW_CENTURY_MASTERPIECE_CINEMA #우린노래가될까 #너드커넥션 #신곡추천 #스트리밍이벤트 #당첨자발표"
+	},
+	{
 		"created_at": "Mon Nov 08 11:10:48 +0000 2021",
 		"id": 1457666911802626000,
 		"id_str": "1457666911802626052",
