@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 12:29:42 +0000 2021",
+		"id": 1457678635775643600,
+		"id_str": "1457686766094278663",
+		"full_text": "11/14(일) 오후 3시, 저녁 7시\n[#너드커넥션] 쇼케이스 &lt;New Century Masterpiece Cinema&gt; @웨스트브릿지(오프라인), 라이블리(온라인)\n-\n#박소은 #이랑 #오지은 #랄라스윗 #계피 #너드커넥션 #우주히피 #유어썸머 #주간스케줄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "주간스케줄",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457678632608886800,
+		"in_reply_to_status_id_str": "1457678632608886791",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "11/14(일) 오후 3시, 저녁 7시\n[#너드커넥션] 쇼케이스 &lt;New Century Masterpiece Cinema&gt; @웨스트브릿지(오프라인), 라이블리(온라인)\n-\n#박소은 #이랑 #오지은 #랄라스윗 #계피 #너드커넥션 #우주히피 #유어썸머 #주간스케줄"
+	},
+	{
+		"created_at": "Mon Nov 08 12:29:33 +0000 2021",
+		"id": 1457678632608886800,
+		"id_str": "1457686727825428482",
+		"full_text": "11/10 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n11/11 (목)\n[#계피] EBS 오디오e지식 &lt;무루와 계피의 이로운 이야기&gt;\n-\n11/11 (목) 오후 1시\n[#너드커넥션] I'm LIVE 방송 @ arirang TV\n-\n11/12 (금) 오후 3시\n[#우주히피] 남북주민 문화데이 “모두다” 우리동네 콘서트 @대전하나센터",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457678628636954600,
+		"in_reply_to_status_id_str": "1457678628636954630",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "11/10 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n11/11 (목)\n[#계피] EBS 오디오e지식 &lt;무루와 계피의 이로운 이야기&gt;\n-\n11/11 (목) 오후 1시\n[#너드커넥션] I'm LIVE 방송 @ arirang TV\n-\n11/12 (금) 오후 3시\n[#우주히피] 남북주민 문화데이 “모두다” 우리동네 콘서트 @대전하나센터"
+	},
+	{
+		"created_at": "Mon Nov 08 12:29:26 +0000 2021",
+		"id": 1457678628636954600,
+		"id_str": "1457686702198300677",
+		"full_text": "[#유어썸머] 11월 둘째 주 스케줄💌\n\n11/9 (화) 오전 10시\n[#박소은] TBS eFM &lt;UNCODED&gt; @유튜브 'TBS eFM 101.3MHz' 채널\n-\n11/9 (화) 저녁 7시\n[#이랑] 12회 광주여성영화제 개막식 공연 @광주극장\n-\n11/9 (화) 저녁 8시\n[#오지은] 문화정원아트홀 &lt;가을의 만남&gt; 티켓 오픈 @멜론티켓 https://t.co/cuRpjmxrlu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457678425519698000,
+					"id_str": "1457678425519697920",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FDq2zg3aMAAOLK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDq2zg3aMAAOLK2.jpg",
+					"url": "https://t.co/cuRpjmxrlu",
+					"display_url": "pic.twitter.com/cuRpjmxrlu",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457678628636954630/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457678425519698000,
+					"id_str": "1457678425519697920",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FDq2zg3aMAAOLK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDq2zg3aMAAOLK2.jpg",
+					"url": "https://t.co/cuRpjmxrlu",
+					"display_url": "pic.twitter.com/cuRpjmxrlu",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457678628636954630/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457678425515511800,
+					"id_str": "1457678425515511809",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FDq2zg2aUAEVkKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDq2zg2aUAEVkKR.jpg",
+					"url": "https://t.co/cuRpjmxrlu",
+					"display_url": "pic.twitter.com/cuRpjmxrlu",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457678628636954630/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457678425721041000,
+					"id_str": "1457678425721040897",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FDq2zhnacAE9V6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDq2zhnacAE9V6e.jpg",
+					"url": "https://t.co/cuRpjmxrlu",
+					"display_url": "pic.twitter.com/cuRpjmxrlu",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1457678628636954630/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#유어썸머] 11월 둘째 주 스케줄💌\n\n11/9 (화) 오전 10시\n[#박소은] TBS eFM &lt;UNCODED&gt; @유튜브 'TBS eFM 101.3MHz' 채널\n-\n11/9 (화) 저녁 7시\n[#이랑] 12회 광주여성영화제 개막식 공연 @광주극장\n-\n11/9 (화) 저녁 8시\n[#오지은] 문화정원아트홀 &lt;가을의 만남&gt; 티켓 오픈 @멜론티켓 https://t.co/cuRpjmxrlu"
+	},
+	{
 		"created_at": "Mon Nov 08 11:29:41 +0000 2021",
 		"id": 1457671556839055400,
 		"id_str": "1457671662808207370",
