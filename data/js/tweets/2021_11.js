@@ -1,6 +1,656 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 03:29:44 +0000 2021",
+		"id": 1457544655306989600,
+		"id_str": "1457550880300011522",
+		"full_text": "𝗛𝗕𝗗\n11월 8일은 OurR(아월) 홍다혜의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #OurR #아월 #홍다혜 https://t.co/BP4tokJtBK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "OurR",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "아월",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "홍다혜",
+					"indices": [
+						61,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457529923363831800,
+					"id_str": "1457529923363831808",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FDovvjOagAAPyla.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDovvjOagAAPyla.jpg",
+					"url": "https://t.co/BP4tokJtBK",
+					"display_url": "pic.twitter.com/BP4tokJtBK",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1457544655306989568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457529923363831800,
+					"id_str": "1457529923363831808",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FDovvjOagAAPyla.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDovvjOagAAPyla.jpg",
+					"url": "https://t.co/BP4tokJtBK",
+					"display_url": "pic.twitter.com/BP4tokJtBK",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1457544655306989568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12998,
+			"friends_count": 1937,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗛𝗕𝗗\n11월 8일은 OurR(아월) 홍다혜의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #OurR #아월 #홍다혜 https://t.co/BP4tokJtBK"
+	},
+	{
+		"created_at": "Mon Nov 08 03:29:40 +0000 2021",
+		"id": 1457543402250064000,
+		"id_str": "1457550862826496005",
+		"full_text": "[#손태진] The Present [At The Time] | Audio Teaser #1 '이 세상 끝까지'\n\n🎵 1st EP The Present [At The Time]\n🔔 2021.11.15 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent_AtTheTime #AtTheTime #이세상끝까지 https://t.co/mcziRBzLTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "ThePresent_AtTheTime",
+					"indices": [
+						143,
+						164
+					]
+				},
+				{
+					"text": "AtTheTime",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "이세상끝까지",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457506425903943700,
+					"id_str": "1457506425903943681",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457506425903943681/pu/img/WOj0j8DAO-QbI17M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457506425903943681/pu/img/WOj0j8DAO-QbI17M.jpg",
+					"url": "https://t.co/mcziRBzLTE",
+					"display_url": "pic.twitter.com/mcziRBzLTE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1457543402250063876/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457506425903943700,
+					"id_str": "1457506425903943681",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457506425903943681/pu/img/WOj0j8DAO-QbI17M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457506425903943681/pu/img/WOj0j8DAO-QbI17M.jpg",
+					"url": "https://t.co/mcziRBzLTE",
+					"display_url": "pic.twitter.com/mcziRBzLTE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1457543402250063876/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29029,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457506425903943681/pu/vid/320x320/cNZ1pNd3BhkVfzGE.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457506425903943681/pu/vid/720x720/Q60oX-tcl2wz-03I.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1457506425903943681/pu/pl/bvVguT9spn-N22qf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457506425903943681/pu/vid/540x540/mBX8CHKEF4hEiXuT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26737,
+			"friends_count": 15,
+			"listed_count": 251,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#손태진] The Present [At The Time] | Audio Teaser #1 '이 세상 끝까지'\n\n🎵 1st EP The Present [At The Time]\n🔔 2021.11.15 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent_AtTheTime #AtTheTime #이세상끝까지 https://t.co/mcziRBzLTE"
+	},
+	{
+		"created_at": "Mon Nov 08 03:29:34 +0000 2021",
+		"id": 1457543400157188000,
+		"id_str": "1457550837077708801",
+		"full_text": "[TUNE | 발매]\n\n#TUNE New Single with 영등포문화재단\n'문래동'\nJust Released!\n\n설치미술가 엄아롱 작가가 기획한 영등포문화재단의  '모뉴먼트 빌리지 프로젝트'는 문래동을 아카이브하는 프로젝트입니다. 이에 음악으로 함께한 정욱재[TUNE]의 새 싱글 '문래동'이 지금 발매되었습니다.\n\n#문래동 https://t.co/8EupS7jgBh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TUNE",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "문래동",
+					"indices": [
+						179,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457529700642074600,
+					"id_str": "1457529700642074625",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FDovilhaMAE8v7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDovilhaMAE8v7w.jpg",
+					"url": "https://t.co/8EupS7jgBh",
+					"display_url": "pic.twitter.com/8EupS7jgBh",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1457543400157188105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457529700642074600,
+					"id_str": "1457529700642074625",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FDovilhaMAE8v7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDovilhaMAE8v7w.jpg",
+					"url": "https://t.co/8EupS7jgBh",
+					"display_url": "pic.twitter.com/8EupS7jgBh",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1457543400157188105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12998,
+			"friends_count": 1937,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TUNE | 발매]\n\n#TUNE New Single with 영등포문화재단\n'문래동'\nJust Released!\n\n설치미술가 엄아롱 작가가 기획한 영등포문화재단의  '모뉴먼트 빌리지 프로젝트'는 문래동을 아카이브하는 프로젝트입니다. 이에 음악으로 함께한 정욱재[TUNE]의 새 싱글 '문래동'이 지금 발매되었습니다.\n\n#문래동 https://t.co/8EupS7jgBh"
+	},
+	{
 		"created_at": "Mon Nov 08 03:11:16 +0000 2021",
 		"id": 1457543400916283400,
 		"id_str": "1457546234470731779",
