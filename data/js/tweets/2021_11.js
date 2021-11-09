@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 13:29:34 +0000 2021",
+		"id": 1458058758324560000,
+		"id_str": "1458064219593662464",
+		"full_text": "[#김수연] 안녕하세요 김수연입니다!\n오랜만에 인사드려요 💜💜\n모두들 잘 지내고 계신가요?!\n저는 방송이 끝난 이후로 계속 열심히 연습하며 지내고 있어요.\n빨리 여러분들을 뵐 수 있도록 더 노력할 테니 조금만 기다려주세요!\n너무너무 보고 싶어요…😭💜\n\n#KIMSUYEON https://t.co/hArrNPaG3y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김수연",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KIMSUYEON",
+					"indices": [
+						141,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458058748195643400,
+					"id_str": "1458058748195643392",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FDwQtNPaIAAzokd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDwQtNPaIAAzokd.jpg",
+					"url": "https://t.co/hArrNPaG3y",
+					"display_url": "pic.twitter.com/hArrNPaG3y",
+					"expanded_url": "https://twitter.com/themysticstory/status/1458058758324559875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458058748195643400,
+					"id_str": "1458058748195643392",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FDwQtNPaIAAzokd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDwQtNPaIAAzokd.jpg",
+					"url": "https://t.co/hArrNPaG3y",
+					"display_url": "pic.twitter.com/hArrNPaG3y",
+					"expanded_url": "https://twitter.com/themysticstory/status/1458058758324559875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458058748195668000,
+					"id_str": "1458058748195667968",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FDwQtNPagAA2AhS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDwQtNPagAA2AhS.jpg",
+					"url": "https://t.co/hArrNPaG3y",
+					"display_url": "pic.twitter.com/hArrNPaG3y",
+					"expanded_url": "https://twitter.com/themysticstory/status/1458058758324559875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27259,
+			"friends_count": 15,
+			"listed_count": 258,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2726,
+		"favorite_count": 6515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김수연] 안녕하세요 김수연입니다!\n오랜만에 인사드려요 💜💜\n모두들 잘 지내고 계신가요?!\n저는 방송이 끝난 이후로 계속 열심히 연습하며 지내고 있어요.\n빨리 여러분들을 뵐 수 있도록 더 노력할 테니 조금만 기다려주세요!\n너무너무 보고 싶어요…😭💜\n\n#KIMSUYEON https://t.co/hArrNPaG3y"
+	},
+	{
 		"created_at": "Tue Nov 09 11:29:37 +0000 2021",
 		"id": 1458026585106256000,
 		"id_str": "1458034033401729032",
