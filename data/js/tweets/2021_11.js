@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 11:29:37 +0000 2021",
+		"id": 1458026585106256000,
+		"id_str": "1458034033401729032",
+		"full_text": "[#Video] #적재\n\n적재 Single ‘서로의 서로’\nJukjae Single ‘One Another’\n⠀\n▪️Intro\n⠀\n2021. 11. 16. 6PM Release\n\n#Jukjae #서로의서로 #OneAnother\n#20211116_6PM https://t.co/l9lbZiwlLj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "OneAnother",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "20211116_6PM",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458017627713187800,
+					"id_str": "1458017627713187840",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458017627713187840/pu/img/g0Ovf_ZPja82ddyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458017627713187840/pu/img/g0Ovf_ZPja82ddyz.jpg",
+					"url": "https://t.co/l9lbZiwlLj",
+					"display_url": "pic.twitter.com/l9lbZiwlLj",
+					"expanded_url": "https://twitter.com/antennamusic/status/1458026585106255875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458017627713187800,
+					"id_str": "1458017627713187840",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458017627713187840/pu/img/g0Ovf_ZPja82ddyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458017627713187840/pu/img/g0Ovf_ZPja82ddyz.jpg",
+					"url": "https://t.co/l9lbZiwlLj",
+					"display_url": "pic.twitter.com/l9lbZiwlLj",
+					"expanded_url": "https://twitter.com/antennamusic/status/1458026585106255875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30458,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1458017627713187840/pu/pl/Mf1tLTJLn8DeOrD5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458017627713187840/pu/vid/640x360/aB-C-zar8DVETLKE.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458017627713187840/pu/vid/480x270/ekokX5fLaSRgz2wZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458017627713187840/pu/vid/1280x720/liiJanbMoEQSyvxO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37394,
+			"friends_count": 11,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n적재 Single ‘서로의 서로’\nJukjae Single ‘One Another’\n⠀\n▪️Intro\n⠀\n2021. 11. 16. 6PM Release\n\n#Jukjae #서로의서로 #OneAnother\n#20211116_6PM https://t.co/l9lbZiwlLj"
+	},
+	{
+		"created_at": "Tue Nov 09 11:29:29 +0000 2021",
+		"id": 1458020062246232000,
+		"id_str": "1458033999343984640",
+		"full_text": "Boramiyu (보라미유) is a singer/Youtuber who is loved for her sweet voice. Check out Boramiyu's new single which features her melodic vocals and sweet charms!\n\n🍎 https://t.co/8SC1Fj9IXx\n🔊 https://t.co/6yzq11xClR\n🎬 https://t.co/cJwmqSyTZF https://t.co/N9xXDTDMMw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8SC1Fj9IXx",
+					"expanded_url": "https://apple.co/3F2nRXY",
+					"display_url": "apple.co/3F2nRXY",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/6yzq11xClR",
+					"expanded_url": "https://spoti.fi/3EThd62",
+					"display_url": "spoti.fi/3EThd62",
+					"indices": [
+						184,
+						207
+					]
+				},
+				{
+					"url": "https://t.co/cJwmqSyTZF",
+					"expanded_url": "https://bit.ly/3bZmf4o",
+					"display_url": "bit.ly/3bZmf4o",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458018561444958200,
+					"id_str": "1458018561444958208",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458018561444958208/pu/img/3WtTa2kx03mvuRUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458018561444958208/pu/img/3WtTa2kx03mvuRUw.jpg",
+					"url": "https://t.co/N9xXDTDMMw",
+					"display_url": "pic.twitter.com/N9xXDTDMMw",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1458020062246232066/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458018561444958200,
+					"id_str": "1458018561444958208",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458018561444958208/pu/img/3WtTa2kx03mvuRUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458018561444958208/pu/img/3WtTa2kx03mvuRUw.jpg",
+					"url": "https://t.co/N9xXDTDMMw",
+					"display_url": "pic.twitter.com/N9xXDTDMMw",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1458020062246232066/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58992,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458018561444958208/pu/vid/720x720/3-QD-ixuDgk_NthR.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458018561444958208/pu/vid/540x540/mlOmC6U8VNV_jzqd.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458018561444958208/pu/vid/320x320/33u5LQugaT0r1HJw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1458018561444958208/pu/pl/QyAOWp6ZmGL_J5Nx.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13316,
+			"friends_count": 13006,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boramiyu (보라미유) is a singer/Youtuber who is loved for her sweet voice. Check out Boramiyu's new single which features her melodic vocals and sweet charms!\n\n🍎 https://t.co/8SC1Fj9IXx\n🔊 https://t.co/6yzq11xClR\n🎬 https://t.co/cJwmqSyTZF https://t.co/N9xXDTDMMw"
+	},
+	{
 		"created_at": "Tue Nov 09 10:59:34 +0000 2021",
 		"id": 1458026474418712600,
 		"id_str": "1458026474418712580",
