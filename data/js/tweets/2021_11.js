@@ -1,6 +1,850 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 09:29:46 +0000 2021",
+		"id": 1458003631647592400,
+		"id_str": "1458003871670968322",
+		"full_text": "원어스 (ONEUS) ‘BLOOD MOON’ Released!!\n❤️‍🔥 https://t.co/n4kwTAmZvc https://t.co/TSguT2feYM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n4kwTAmZvc",
+					"expanded_url": "https://www.instagram.com/p/CWDM4rwraHH/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CWDM4rwraHH/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458003623229948000,
+					"id_str": "1458003623229947904",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvekgvagAA1BLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvekgvagAA1BLX.jpg",
+					"url": "https://t.co/TSguT2feYM",
+					"display_url": "pic.twitter.com/TSguT2feYM",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1458003631647592449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458003623229948000,
+					"id_str": "1458003623229947904",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvekgvagAA1BLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvekgvagAA1BLX.jpg",
+					"url": "https://t.co/TSguT2feYM",
+					"display_url": "pic.twitter.com/TSguT2feYM",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1458003631647592449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7188,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원어스 (ONEUS) ‘BLOOD MOON’ Released!!\n❤️‍🔥 https://t.co/n4kwTAmZvc https://t.co/TSguT2feYM"
+	},
+	{
+		"created_at": "Tue Nov 09 09:29:39 +0000 2021",
+		"id": 1458000379493306400,
+		"id_str": "1458003845997543428",
+		"full_text": "[보라미유 - '가끔 내가 생각나는지' 바로 듣기]\n\n벅스 https://t.co/6mLbe2keAS\n멜론 https://t.co/KYZGUN8ijp\n지니 https://t.co/CnTiDNzBDe\n플로 https://t.co/JmbF09zF0f\n바이브 https://t.co/n4aYyJUlIZ\n\n#보라미유 #BORAMIYU\n#가끔_내가_생각나는지 #Once_in_a_while",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "가끔_내가_생각나는지",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"text": "Once_in_a_while",
+					"indices": [
+						196,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6mLbe2keAS",
+					"expanded_url": "https://bit.ly/3H1bpJE",
+					"display_url": "bit.ly/3H1bpJE",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/KYZGUN8ijp",
+					"expanded_url": "https://bit.ly/3mUeeEm",
+					"display_url": "bit.ly/3mUeeEm",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/CnTiDNzBDe",
+					"expanded_url": "https://bit.ly/3CZICCS",
+					"display_url": "bit.ly/3CZICCS",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/JmbF09zF0f",
+					"expanded_url": "https://bit.ly/3wvwib5",
+					"display_url": "bit.ly/3wvwib5",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/n4aYyJUlIZ",
+					"expanded_url": "https://bit.ly/3D1j0p1",
+					"display_url": "bit.ly/3D1j0p1",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457996381226864600,
+		"in_reply_to_status_id_str": "1457996381226864640",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7762,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1636423956",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[보라미유 - '가끔 내가 생각나는지' 바로 듣기]\n\n벅스 https://t.co/6mLbe2keAS\n멜론 https://t.co/KYZGUN8ijp\n지니 https://t.co/CnTiDNzBDe\n플로 https://t.co/JmbF09zF0f\n바이브 https://t.co/n4aYyJUlIZ\n\n#보라미유 #BORAMIYU\n#가끔_내가_생각나는지 #Once_in_a_while"
+	},
+	{
+		"created_at": "Tue Nov 09 09:29:31 +0000 2021",
+		"id": 1457998898140782600,
+		"id_str": "1458003811725975552",
+		"full_text": "💿NEW MUSIC TODAY💿\n니브(Nive)(@thisisnive)의 “party without u”를 지금 바로 음원 사이트에서 만나보세요! \n\n🎶https://t.co/By1lbC8XlE\n🎬https://t.co/3n26HTIrh4\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #NIve #니브 #partywithoutu #PWU https://t.co/sr2qFtN1Nn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"text": "워너뮤직케이팝",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "NIve",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "니브",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "partywithoutu",
+					"indices": [
+						179,
+						193
+					]
+				},
+				{
+					"text": "PWU",
+					"indices": [
+						194,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisisnive",
+					"name": "NIve (니브)",
+					"id": 1037827348970664000,
+					"id_str": "1037827348970663936",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/By1lbC8XlE",
+					"expanded_url": "http://WMK.lnk.to/pwu",
+					"display_url": "WMK.lnk.to/pwu",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/3n26HTIrh4",
+					"expanded_url": "https://www.youtube.com/watch?v=opGEiOs2DtA",
+					"display_url": "youtube.com/watch?v=opGEiO…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457979052363772000,
+					"id_str": "1457979052363771904",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457979052363771904/pu/img/u_9qLocyA9OIWOhy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457979052363771904/pu/img/u_9qLocyA9OIWOhy.jpg",
+					"url": "https://t.co/sr2qFtN1Nn",
+					"display_url": "pic.twitter.com/sr2qFtN1Nn",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1457998898140782593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457979052363772000,
+					"id_str": "1457979052363771904",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457979052363771904/pu/img/u_9qLocyA9OIWOhy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457979052363771904/pu/img/u_9qLocyA9OIWOhy.jpg",
+					"url": "https://t.co/sr2qFtN1Nn",
+					"display_url": "pic.twitter.com/sr2qFtN1Nn",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1457998898140782593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31131,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457979052363771904/pu/vid/540x540/fVhOrobxzob2jZQs.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1457979052363771904/pu/pl/y7O0QEvP5TQf1ISG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457979052363771904/pu/vid/720x720/Nz1MeCiPPP2rprWV.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1457979052363771904/pu/vid/320x320/a7WV8xhI4uChl9At.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51975,
+			"friends_count": 496,
+			"listed_count": 197,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n니브(Nive)(@thisisnive)의 “party without u”를 지금 바로 음원 사이트에서 만나보세요! \n\n🎶https://t.co/By1lbC8XlE\n🎬https://t.co/3n26HTIrh4\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #NIve #니브 #partywithoutu #PWU https://t.co/sr2qFtN1Nn"
+	},
+	{
+		"created_at": "Tue Nov 09 09:29:29 +0000 2021",
+		"id": 1457996382430707700,
+		"id_str": "1458003802867572738",
+		"full_text": "[Special Clip]\n⠀\n보라미유 - '가끔 내가 생각나는지'\n▷ https://t.co/oWP0PUBFtc\n⠀\n//\n⠀\n보라미유 Digital Single '가끔 내가 생각나는지'\n2021.11.09. 6PM Release\n\n#보라미유 #BORAMIYU\n#가끔_내가_생각나는지 #Once_in_a_while https://t.co/C7vzZIlTev",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "가끔_내가_생각나는지",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"text": "Once_in_a_while",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oWP0PUBFtc",
+					"expanded_url": "https://youtu.be/Ca18VaUlMq0",
+					"display_url": "youtu.be/Ca18VaUlMq0",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457982541018075100,
+					"id_str": "1457982541018075136",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvLZXYakAARla4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvLZXYakAARla4.jpg",
+					"url": "https://t.co/C7vzZIlTev",
+					"display_url": "pic.twitter.com/C7vzZIlTev",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1457996382430707713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457982541018075100,
+					"id_str": "1457982541018075136",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvLZXYakAARla4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvLZXYakAARla4.jpg",
+					"url": "https://t.co/C7vzZIlTev",
+					"display_url": "pic.twitter.com/C7vzZIlTev",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1457996382430707713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7762,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1636423956",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Special Clip]\n⠀\n보라미유 - '가끔 내가 생각나는지'\n▷ https://t.co/oWP0PUBFtc\n⠀\n//\n⠀\n보라미유 Digital Single '가끔 내가 생각나는지'\n2021.11.09. 6PM Release\n\n#보라미유 #BORAMIYU\n#가끔_내가_생각나는지 #Once_in_a_while https://t.co/C7vzZIlTev"
+	},
+	{
 		"created_at": "Tue Nov 09 09:11:13 +0000 2021",
 		"id": 1457999204668870700,
 		"id_str": "1457999204668870657",
