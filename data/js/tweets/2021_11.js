@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 07:29:40 +0000 2021",
+		"id": 1457971614188904400,
+		"id_str": "1457973649068208130",
+		"full_text": "[#이적]\nMBC &lt;오프 더 레코드&gt;\n11월 10일, 17일 수요일 밤 9시 방송!\n\n침묵금지! 수요일 밤의 본인등판 토크쇼🗣\n&lt;오프 더 레코드&gt; MC 이적이 함께 합니다🤫\n🔗 https://t.co/Y71OgPcvZe\n\n@jucklee #이적 #LeeJuck\n#시사교양 #오프더레코드 #김숙 #최유정 https://t.co/bgF9ga2WX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이적",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "LeeJuck",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "시사교양",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "오프더레코드",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "김숙",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "최유정",
+					"indices": [
+						176,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y71OgPcvZe",
+					"expanded_url": "http://tv.naver.com/v/23193931",
+					"display_url": "tv.naver.com/v/23193931",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457971610540195800,
+					"id_str": "1457971610540195840",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvBdILaQAAfoWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvBdILaQAAfoWa.jpg",
+					"url": "https://t.co/bgF9ga2WX7",
+					"display_url": "pic.twitter.com/bgF9ga2WX7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1457971614188904450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 330,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 584,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457971610540195800,
+					"id_str": "1457971610540195840",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvBdILaQAAfoWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvBdILaQAAfoWa.jpg",
+					"url": "https://t.co/bgF9ga2WX7",
+					"display_url": "pic.twitter.com/bgF9ga2WX7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1457971614188904450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 330,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 584,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9018,
+			"friends_count": 5,
+			"listed_count": 107,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1635239046",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이적]\nMBC &lt;오프 더 레코드&gt;\n11월 10일, 17일 수요일 밤 9시 방송!\n\n침묵금지! 수요일 밤의 본인등판 토크쇼🗣\n&lt;오프 더 레코드&gt; MC 이적이 함께 합니다🤫\n🔗 https://t.co/Y71OgPcvZe\n\n@jucklee #이적 #LeeJuck\n#시사교양 #오프더레코드 #김숙 #최유정 https://t.co/bgF9ga2WX7"
+	},
+	{
+		"created_at": "Tue Nov 09 07:29:37 +0000 2021",
+		"id": 1457970549506785300,
+		"id_str": "1457973635981918211",
+		"full_text": "CHOILB’s third album, ‘Independent Music’, is being featured on the front page of @AppleMusicKR ! Listen to CHOILB’s new album on Apple Music!\n\n🍎https://t.co/oBNxMPUnDl\n\n#AppleMusic #choilb #independentmusic #최엘비 #독립음악 #khh https://t.co/q7jOtGHOGn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppleMusic",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"text": "choilb",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "independentmusic",
+					"indices": [
+						190,
+						207
+					]
+				},
+				{
+					"text": "최엘비",
+					"indices": [
+						208,
+						212
+					]
+				},
+				{
+					"text": "독립음악",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "khh",
+					"indices": [
+						219,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusicKR",
+					"name": "Apple Music Korea",
+					"id": 761426750072946700,
+					"id_str": "761426750072946688",
+					"indices": [
+						82,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oBNxMPUnDl",
+					"expanded_url": "https://apple.co/3qkNYoF",
+					"display_url": "apple.co/3qkNYoF",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457970527407321000,
+					"id_str": "1457970527407321089",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvAeFMaMAE105j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvAeFMaMAE105j.jpg",
+					"url": "https://t.co/q7jOtGHOGn",
+					"display_url": "pic.twitter.com/q7jOtGHOGn",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1457970549506785280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1133,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1133,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457970527407321000,
+					"id_str": "1457970527407321089",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvAeFMaMAE105j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvAeFMaMAE105j.jpg",
+					"url": "https://t.co/q7jOtGHOGn",
+					"display_url": "pic.twitter.com/q7jOtGHOGn",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1457970549506785280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1133,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1133,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457970539293999000,
+					"id_str": "1457970539293999104",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FDvAexeagAAxPck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDvAexeagAAxPck.jpg",
+					"url": "https://t.co/q7jOtGHOGn",
+					"display_url": "pic.twitter.com/q7jOtGHOGn",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1457970549506785280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13315,
+			"friends_count": 13006,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHOILB’s third album, ‘Independent Music’, is being featured on the front page of @AppleMusicKR ! Listen to CHOILB’s new album on Apple Music!\n\n🍎https://t.co/oBNxMPUnDl\n\n#AppleMusic #choilb #independentmusic #최엘비 #독립음악 #khh https://t.co/q7jOtGHOGn"
+	},
+	{
+		"created_at": "Tue Nov 09 07:29:32 +0000 2021",
+		"id": 1457964439877996500,
+		"id_str": "1457973614423203845",
+		"full_text": "[News]\n\n전자음악가이자 미디어 아티스트인 박승순이 5곡의 음원과 작업노트, 아티스트 메시지를 수록한 음반 [Rhythm in time and space]를 NFT로 공개했습니다. \n\nhttps://t.co/KW6DVyAD6h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KW6DVyAD6h",
+					"expanded_url": "http://www.highjinkxmm.com/news/nft-music-pss",
+					"display_url": "highjinkxmm.com/news/nft-music…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 468,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n전자음악가이자 미디어 아티스트인 박승순이 5곡의 음원과 작업노트, 아티스트 메시지를 수록한 음반 [Rhythm in time and space]를 NFT로 공개했습니다. \n\nhttps://t.co/KW6DVyAD6h"
+	},
+	{
+		"created_at": "Tue Nov 09 07:29:30 +0000 2021",
+		"id": 1457958733028360200,
+		"id_str": "1457973605506195456",
+		"full_text": "📍유튜브 [대전하나센터채널] 에서 실시간 방송도 함께 합니다.\n📍 사전접수링크 : https://t.co/CH1xQ1rPgv\n\n*현장참여는 사전 접수 20명으로 한정됩니다.\n*자세한 사항은 카카오톡 채널 '대전하나센터' 에서 확인해주세요! \n\n#대전공연 #대전하나센터 #남북주민문화데이 #모두다 #우리동네콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대전공연",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "대전하나센터",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "남북주민문화데이",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "모두다",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "우리동네콘서트",
+					"indices": [
+						165,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CH1xQ1rPgv",
+					"expanded_url": "http://naver.me/FCbQ8HLg",
+					"display_url": "naver.me/FCbQ8HLg",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457958730453057500,
+		"in_reply_to_status_id_str": "1457958730453057540",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍유튜브 [대전하나센터채널] 에서 실시간 방송도 함께 합니다.\n📍 사전접수링크 : https://t.co/CH1xQ1rPgv\n\n*현장참여는 사전 접수 20명으로 한정됩니다.\n*자세한 사항은 카카오톡 채널 '대전하나센터' 에서 확인해주세요! \n\n#대전공연 #대전하나센터 #남북주민문화데이 #모두다 #우리동네콘서트"
+	},
+	{
 		"created_at": "Tue Nov 09 06:29:28 +0000 2021",
 		"id": 1457955975550292000,
 		"id_str": "1457958501586776067",
