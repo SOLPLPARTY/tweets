@@ -1,6 +1,760 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 03:29:51 +0000 2021",
+		"id": 1458269291904569300,
+		"id_str": "1458275684925726722",
+		"full_text": "The remastered MV of the 1998 hit ‘Dreams Come True’ by S.E.S to be released on 11/11 10AM KST through the SM 'Remastering Project'! \n\n#SES \n#Dreams_Come_True\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#SMTOWN https://t.co/hKY7hVzJGK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SES",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "Dreams_Come_True",
+					"indices": [
+						141,
+						158
+					]
+				},
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						159,
+						182
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						183,
+						194
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						207,
+						217
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						219,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458268940434808800,
+					"id_str": "1458268940434808833",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzP4AWaIAECyrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzP4AWaIAECyrc.jpg",
+					"url": "https://t.co/hKY7hVzJGK",
+					"display_url": "pic.twitter.com/hKY7hVzJGK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458269291904569344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458268940434808800,
+					"id_str": "1458268940434808833",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzP4AWaIAECyrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzP4AWaIAECyrc.jpg",
+					"url": "https://t.co/hKY7hVzJGK",
+					"display_url": "pic.twitter.com/hKY7hVzJGK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458269291904569344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10169638,
+			"friends_count": 55,
+			"listed_count": 11167,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2090,
+		"favorite_count": 8225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The remastered MV of the 1998 hit ‘Dreams Come True’ by S.E.S to be released on 11/11 10AM KST through the SM 'Remastering Project'! \n\n#SES \n#Dreams_Come_True\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#SMTOWN https://t.co/hKY7hVzJGK"
+	},
+	{
+		"created_at": "Wed Nov 10 03:29:46 +0000 2021",
+		"id": 1458268819143544800,
+		"id_str": "1458275663404732421",
+		"full_text": "[유라]\n\n제임슨 뮤직 라이브 토크쇼 &lt;J STREAM&gt;\n일곱 번째 에피소드에 유라가 출연합니다!\n\n유라의 뮤직 테마는 \n&lt;눈 떠보니 겨울, 순삭된 계절 가을🍂을 붙잡을 플레이리스트&gt;입니다.\n\n🏡 라이브 방송 일정 : 2021. 11. 12 (금) 21:00 – 22:00\n📡 참여 방법 : @jameson_korea 인스타 라이브 https://t.co/JHJ8PwKMTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458268809354412000,
+					"id_str": "1458268809354412032",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzPwYCaAAAAjZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzPwYCaAAAAjZU.jpg",
+					"url": "https://t.co/JHJ8PwKMTN",
+					"display_url": "pic.twitter.com/JHJ8PwKMTN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1458268819143544834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458268809354412000,
+					"id_str": "1458268809354412032",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FDzPwYCaAAAAjZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDzPwYCaAAAAjZU.jpg",
+					"url": "https://t.co/JHJ8PwKMTN",
+					"display_url": "pic.twitter.com/JHJ8PwKMTN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1458268819143544834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 835,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n\n제임슨 뮤직 라이브 토크쇼 &lt;J STREAM&gt;\n일곱 번째 에피소드에 유라가 출연합니다!\n\n유라의 뮤직 테마는 \n&lt;눈 떠보니 겨울, 순삭된 계절 가을🍂을 붙잡을 플레이리스트&gt;입니다.\n\n🏡 라이브 방송 일정 : 2021. 11. 12 (금) 21:00 – 22:00\n📡 참여 방법 : @jameson_korea 인스타 라이브 https://t.co/JHJ8PwKMTN"
+	},
+	{
+		"created_at": "Wed Nov 10 03:29:40 +0000 2021",
+		"id": 1458268742043926500,
+		"id_str": "1458275637748244480",
+		"full_text": "SOHLHEE 솔희 '수선화(水仙花)' MV Teaser\n \nhttps://t.co/st9QlumoZq\n \nSOHLHEE 솔희 The 1st Mini Album [사랑하면 닳는 것들]\n \n➫ 2021.11.11 12PM KST\n \n#솔희 #SOHLHEE\n#사랑하면_닳는_것들\n#When_you_love_someone_Worn_Ver\n#수선화_水仙花 #freakin_flower\n#ALL_I_KNOW_MUSIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔희",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "SOHLHEE",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "사랑하면_닳는_것들",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "When_you_love_someone_Worn_Ver",
+					"indices": [
+						154,
+						185
+					]
+				},
+				{
+					"text": "수선화_水仙花",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "freakin_flower",
+					"indices": [
+						195,
+						210
+					]
+				},
+				{
+					"text": "ALL_I_KNOW_MUSIC",
+					"indices": [
+						211,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/st9QlumoZq",
+					"expanded_url": "https://youtu.be/OBfYw5UFq2w",
+					"display_url": "youtu.be/OBfYw5UFq2w",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10169638,
+			"friends_count": 55,
+			"listed_count": 11167,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 395,
+		"favorite_count": 2682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SOHLHEE 솔희 '수선화(水仙花)' MV Teaser\n \nhttps://t.co/st9QlumoZq\n \nSOHLHEE 솔희 The 1st Mini Album [사랑하면 닳는 것들]\n \n➫ 2021.11.11 12PM KST\n \n#솔희 #SOHLHEE\n#사랑하면_닳는_것들\n#When_you_love_someone_Worn_Ver\n#수선화_水仙花 #freakin_flower\n#ALL_I_KNOW_MUSIC"
+	},
+	{
+		"created_at": "Wed Nov 10 03:29:33 +0000 2021",
+		"id": 1458268182507135000,
+		"id_str": "1458275607859630080",
+		"full_text": "𝗛𝗕𝗗\n11월 10일은 쏜애플 방요셉의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #쏜애플 #방요셉 https://t.co/fyUDIlrvmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "쏜애플",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "방요셉",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1452962135785443300,
+					"id_str": "1452962135785443338",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FCn1XUeVkAoFdqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCn1XUeVkAoFdqL.jpg",
+					"url": "https://t.co/fyUDIlrvmU",
+					"display_url": "pic.twitter.com/fyUDIlrvmU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1458268182507134980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1452962135785443300,
+					"id_str": "1452962135785443338",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FCn1XUeVkAoFdqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCn1XUeVkAoFdqL.jpg",
+					"url": "https://t.co/fyUDIlrvmU",
+					"display_url": "pic.twitter.com/fyUDIlrvmU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1458268182507134980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12993,
+			"friends_count": 1937,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗛𝗕𝗗\n11월 10일은 쏜애플 방요셉의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #쏜애플 #방요셉 https://t.co/fyUDIlrvmU"
+	},
+	{
 		"created_at": "Wed Nov 10 03:08:52 +0000 2021",
 		"id": 1458270404305473500,
 		"id_str": "1458270404305473538",
