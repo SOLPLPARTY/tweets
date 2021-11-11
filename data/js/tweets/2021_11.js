@@ -1,6 +1,1005 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 04:11:21 +0000 2021",
+		"id": 1458646912400523300,
+		"id_str": "1458648516851605508",
+		"full_text": "모든 것은 비로소 사랑이라 말하는 다린의 새로운 EP &lt; 갈래 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고 되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3 https://t.co/RE5UjMYEba",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458646907086323700,
+					"id_str": "1458646907086323712",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FD4noj2aQAAOpOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD4noj2aQAAOpOC.jpg",
+					"url": "https://t.co/RE5UjMYEba",
+					"display_url": "pic.twitter.com/RE5UjMYEba",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1458646912400523264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458646907086323700,
+					"id_str": "1458646907086323712",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FD4noj2aQAAOpOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD4noj2aQAAOpOC.jpg",
+					"url": "https://t.co/RE5UjMYEba",
+					"display_url": "pic.twitter.com/RE5UjMYEba",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1458646912400523264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 213,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 것은 비로소 사랑이라 말하는 다린의 새로운 EP &lt; 갈래 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고 되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3 https://t.co/RE5UjMYEba"
+	},
+	{
+		"created_at": "Thu Nov 11 04:11:17 +0000 2021",
+		"id": 1458643098158846000,
+		"id_str": "1458648499411734530",
+		"full_text": "🍹스틸페이스 바 영업시간🍺\n목~토요일 오후 7시~오전 2시\n\n🥃STEEL FACE BAR - Opening Hours🥂\nThursday~Saturday 7PM~2AM\n\n서울 마포구 잔다리로 10, 5층\n5F, 10, Jandari-ro, Mapo-gu, Seoul, Korea\n\n#clubsteelface #steelface #seoul @CLUB STEEL FACE https://t.co/PxY77JWEri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clubsteelface",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						182,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Club",
+					"name": "Ntl. Bloggers Club",
+					"id": 466950015,
+					"id_str": "466950015",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PxY77JWEri",
+					"expanded_url": "https://www.instagram.com/p/CWHv8cIFR0N/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CWHv8cIFR0N/…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55086105,
+				126.92203617
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92203617,
+				37.55086105
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍹스틸페이스 바 영업시간🍺\n목~토요일 오후 7시~오전 2시\n\n🥃STEEL FACE BAR - Opening Hours🥂\nThursday~Saturday 7PM~2AM\n\n서울 마포구 잔다리로 10, 5층\n5F, 10, Jandari-ro, Mapo-gu, Seoul, Korea\n\n#clubsteelface #steelface #seoul @CLUB STEEL FACE https://t.co/PxY77JWEri"
+	},
+	{
+		"created_at": "Thu Nov 11 03:29:38 +0000 2021",
+		"id": 1458637037234704400,
+		"id_str": "1458638017636311041",
+		"full_text": "Yellow String Boys (옐로우스트링보이즈) - 젓가락 https://t.co/OzctEm44jP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OzctEm44jP",
+					"expanded_url": "http://blog.naver.com/chili7272/222564955083",
+					"display_url": "blog.naver.com/chili7272/2225…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2082,
+			"friends_count": 2364,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yellow String Boys (옐로우스트링보이즈) - 젓가락 https://t.co/OzctEm44jP"
+	},
+	{
+		"created_at": "Thu Nov 11 03:29:32 +0000 2021",
+		"id": 1458636870426845200,
+		"id_str": "1458637991962890243",
+		"full_text": "SOHLHEE 솔희 ‘수선화 (水仙花)’\n[사랑하면 닳는 것들]\n\n🎧Listen now on your favorite platform\nhttps://t.co/Y9MwTBCIT7\n\n#솔희 #SOHLHEE\n#사랑하면_닳는_것들\n#수선화_水仙花 #freakin_flower\n#ALL_I_KNOW_MUSIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔희",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "SOHLHEE",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "사랑하면_닳는_것들",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "수선화_水仙花",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "freakin_flower",
+					"indices": [
+						134,
+						149
+					]
+				},
+				{
+					"text": "ALL_I_KNOW_MUSIC",
+					"indices": [
+						150,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y9MwTBCIT7",
+					"expanded_url": "https://smarturl.it/SOHLHEE_WYLS",
+					"display_url": "smarturl.it/SOHLHEE_WYLS",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10174038,
+			"friends_count": 55,
+			"listed_count": 11166,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 1842,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SOHLHEE 솔희 ‘수선화 (水仙花)’\n[사랑하면 닳는 것들]\n\n🎧Listen now on your favorite platform\nhttps://t.co/Y9MwTBCIT7\n\n#솔희 #SOHLHEE\n#사랑하면_닳는_것들\n#수선화_水仙花 #freakin_flower\n#ALL_I_KNOW_MUSIC"
+	},
+	{
+		"created_at": "Thu Nov 11 03:29:30 +0000 2021",
+		"id": 1458632616127524900,
+		"id_str": "1458637983075258373",
+		"full_text": "SOHLHEE 솔희 ‘수선화 (水仙花)’\n[사랑하면 닳는 것들]\n \nMelon : https://t.co/cACZwEVfwz \nFLO : https://t.co/6C9TcxkGo7 \ngenie : https://t.co/aVTwyQ9ntR \nNAVER VIBE: https://t.co/rcEohERJKy \n \n#솔희 #SOHLHEE\n#사랑하면_닳는_것들\n#수선화_水仙花 #freakin_flower\n#ALL_I_KNOW_MUSIC https://t.co/IwXHiblf1e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔희",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "SOHLHEE",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "사랑하면_닳는_것들",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "수선화_水仙花",
+					"indices": [
+						199,
+						207
+					]
+				},
+				{
+					"text": "freakin_flower",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"text": "ALL_I_KNOW_MUSIC",
+					"indices": [
+						224,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cACZwEVfwz",
+					"expanded_url": "http://kko.to/84q9zcx4T",
+					"display_url": "kko.to/84q9zcx4T",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/6C9TcxkGo7",
+					"expanded_url": "http://flomuz.io/s/a.BHJvG",
+					"display_url": "flomuz.io/s/a.BHJvG",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/aVTwyQ9ntR",
+					"expanded_url": "http://genie.co.kr/NS4EA1",
+					"display_url": "genie.co.kr/NS4EA1",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/rcEohERJKy",
+					"expanded_url": "http://naver.me/xXxl36v9",
+					"display_url": "naver.me/xXxl36v9",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458632567314579500,
+					"id_str": "1458632567314579458",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FD4al4CaAAIL4QG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD4al4CaAAIL4QG.jpg",
+					"url": "https://t.co/IwXHiblf1e",
+					"display_url": "pic.twitter.com/IwXHiblf1e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458632616127524868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458632567314579500,
+					"id_str": "1458632567314579458",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FD4al4CaAAIL4QG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD4al4CaAAIL4QG.jpg",
+					"url": "https://t.co/IwXHiblf1e",
+					"display_url": "pic.twitter.com/IwXHiblf1e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458632616127524868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458632567310418000,
+					"id_str": "1458632567310417921",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FD4al4BagAE55Nw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD4al4BagAE55Nw.jpg",
+					"url": "https://t.co/IwXHiblf1e",
+					"display_url": "pic.twitter.com/IwXHiblf1e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458632616127524868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458632567310385200,
+					"id_str": "1458632567310385154",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FD4al4BaAAIgHaH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD4al4BaAAIgHaH.jpg",
+					"url": "https://t.co/IwXHiblf1e",
+					"display_url": "pic.twitter.com/IwXHiblf1e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458632616127524868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458632567302029300,
+					"id_str": "1458632567302029312",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FD4al3_agAAf6pm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD4al3_agAAf6pm.jpg",
+					"url": "https://t.co/IwXHiblf1e",
+					"display_url": "pic.twitter.com/IwXHiblf1e",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458632616127524868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10174038,
+			"friends_count": 55,
+			"listed_count": 11166,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 430,
+		"favorite_count": 3308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SOHLHEE 솔희 ‘수선화 (水仙花)’\n[사랑하면 닳는 것들]\n \nMelon : https://t.co/cACZwEVfwz \nFLO : https://t.co/6C9TcxkGo7 \ngenie : https://t.co/aVTwyQ9ntR \nNAVER VIBE: https://t.co/rcEohERJKy \n \n#솔희 #SOHLHEE\n#사랑하면_닳는_것들\n#수선화_水仙花 #freakin_flower\n#ALL_I_KNOW_MUSIC https://t.co/IwXHiblf1e"
+	},
+	{
 		"created_at": "Thu Nov 11 03:11:58 +0000 2021",
 		"id": 1458633572412178400,
 		"id_str": "1458633572412178433",
