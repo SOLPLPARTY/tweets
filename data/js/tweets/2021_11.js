@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 11:29:25 +0000 2021",
+		"id": 1458751357762949000,
+		"id_str": "1458758758436331526",
+		"full_text": "[#Photo] #적재\n\n적재 Single ‘서로의 서로’\nJukjae Single ‘One Another’\n⠀\n▪Concept Photo 2\n⠀\n2021. 11. 16. 6PM Release\n\n#Jukjae #서로의서로 #OneAnother\n#20211116_6PM https://t.co/nJSQ0kUKWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "OneAnother",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"text": "20211116_6PM",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458748426674655200,
+					"id_str": "1458748426674655233",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6D9xyaUAE0DvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6D9xyaUAE0DvP.jpg",
+					"url": "https://t.co/nJSQ0kUKWm",
+					"display_url": "pic.twitter.com/nJSQ0kUKWm",
+					"expanded_url": "https://twitter.com/antennamusic/status/1458751357762949121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458748426674655200,
+					"id_str": "1458748426674655233",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FD6D9xyaUAE0DvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD6D9xyaUAE0DvP.jpg",
+					"url": "https://t.co/nJSQ0kUKWm",
+					"display_url": "pic.twitter.com/nJSQ0kUKWm",
+					"expanded_url": "https://twitter.com/antennamusic/status/1458751357762949121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37444,
+			"friends_count": 11,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Photo] #적재\n\n적재 Single ‘서로의 서로’\nJukjae Single ‘One Another’\n⠀\n▪Concept Photo 2\n⠀\n2021. 11. 16. 6PM Release\n\n#Jukjae #서로의서로 #OneAnother\n#20211116_6PM https://t.co/nJSQ0kUKWm"
+	},
+	{
 		"created_at": "Thu Nov 11 11:11:16 +0000 2021",
 		"id": 1458725273927491600,
 		"id_str": "1458754194425495552",
