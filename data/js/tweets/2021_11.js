@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 04:29:36 +0000 2021",
+		"id": 1459012465467949000,
+		"id_str": "1459015496108552199",
+		"full_text": "[Playlist]\n\nAURORA: Daydreaming\n\n일상의 삶에 마법을 더하는 오로라의 플레이리스트와 인터뷰를 하이징크스 매거진에서 확인해보세요.\n\n\"한국 팬들을 만나서 정말 좋았어요! 제가 입을 한복을 선물해주기도 했어요. 지금도 옷장에 보관하고 있답니다.\"\n\n@AURORAmusic \n\nhttps://t.co/FI8OjtbT54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AURORAmusic",
+					"name": "AURORA",
+					"id": 1372552416,
+					"id_str": "1372552416",
+					"indices": [
+						151,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FI8OjtbT54",
+					"expanded_url": "http://www.highjinkxmm.com/playlist/aurora",
+					"display_url": "highjinkxmm.com/playlist/aurora",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 481,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\nAURORA: Daydreaming\n\n일상의 삶에 마법을 더하는 오로라의 플레이리스트와 인터뷰를 하이징크스 매거진에서 확인해보세요.\n\n\"한국 팬들을 만나서 정말 좋았어요! 제가 입을 한복을 선물해주기도 했어요. 지금도 옷장에 보관하고 있답니다.\"\n\n@AURORAmusic \n\nhttps://t.co/FI8OjtbT54"
+	},
+	{
+		"created_at": "Fri Nov 12 04:29:32 +0000 2021",
+		"id": 1459000498883907600,
+		"id_str": "1459015478823825445",
+		"full_text": "#에이브릴라빈 🎂𝐁𝐢𝐭𝐞 𝐌𝐞💥\n새 컴백 싱글 발매!✨🙌\n\n🎧https://t.co/PSAVCDeRRy https://t.co/IkXfYNaUFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에이브릴라빈",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PSAVCDeRRy",
+					"expanded_url": "https://wmk.lnk.to/NWY0tbPI",
+					"display_url": "wmk.lnk.to/NWY0tbPI",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458995952711536600,
+					"id_str": "1458995952711536640",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458995952711536640/pu/img/yz9-pLjVO9pbAQ-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458995952711536640/pu/img/yz9-pLjVO9pbAQ-F.jpg",
+					"url": "https://t.co/IkXfYNaUFR",
+					"display_url": "pic.twitter.com/IkXfYNaUFR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1459000498883907584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458995952711536600,
+					"id_str": "1458995952711536640",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458995952711536640/pu/img/yz9-pLjVO9pbAQ-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458995952711536640/pu/img/yz9-pLjVO9pbAQ-F.jpg",
+					"url": "https://t.co/IkXfYNaUFR",
+					"display_url": "pic.twitter.com/IkXfYNaUFR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1459000498883907584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23898,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1458995952711536640/pu/pl/d0X-x6w7recixeJE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458995952711536640/pu/vid/540x540/euCSIyF57h8w36G4.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458995952711536640/pu/vid/320x320/v7cp9soOhTnCLhF4.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458995952711536640/pu/vid/720x720/ak8CHDloSRINEFGy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51967,
+			"friends_count": 496,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#에이브릴라빈 🎂𝐁𝐢𝐭𝐞 𝐌𝐞💥\n새 컴백 싱글 발매!✨🙌\n\n🎧https://t.co/PSAVCDeRRy https://t.co/IkXfYNaUFR"
+	},
+	{
 		"created_at": "Fri Nov 12 03:52:24 +0000 2021",
 		"id": 1459006136707915800,
 		"id_str": "1459006136707915779",
