@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 14:29:24 +0000 2021",
+		"id": 1459159616361615400,
+		"id_str": "1459166444265091076",
+		"full_text": "[#Video] #샘김\n\nRaisa ‘Someday (feat. Sam Kim)’ M/V Behind The Scene 공개! 영상은 유튜브 ‘Sam Kim’ 채널에서 만나보실 수 있습니다🧡✨\n\n🔗 https://t.co/sqA3QabdLD\n\n@LeegitItsSam \n#SamKim #Raisa #Someday #BehindTheScene https://t.co/uk0oriphGH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "Raisa",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "Someday",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "BehindTheScene",
+					"indices": [
+						175,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sqA3QabdLD",
+					"expanded_url": "https://youtu.be/g1tiPZVsQEM",
+					"display_url": "youtu.be/g1tiPZVsQEM",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459159610456416300,
+					"id_str": "1459159610456416260",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_570vaIAQxImH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_570vaIAQxImH.jpg",
+					"url": "https://t.co/uk0oriphGH",
+					"display_url": "pic.twitter.com/uk0oriphGH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1459159616361615368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459159610456416300,
+					"id_str": "1459159610456416260",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_570vaIAQxImH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_570vaIAQxImH.jpg",
+					"url": "https://t.co/uk0oriphGH",
+					"display_url": "pic.twitter.com/uk0oriphGH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1459159616361615368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459159610452242400,
+					"id_str": "1459159610452242434",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_570uacAIYx7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_570uacAIYx7M.jpg",
+					"url": "https://t.co/uk0oriphGH",
+					"display_url": "pic.twitter.com/uk0oriphGH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1459159616361615368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459159610464813000,
+					"id_str": "1459159610464813064",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_570xaQAge-2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_570xaQAge-2f.jpg",
+					"url": "https://t.co/uk0oriphGH",
+					"display_url": "pic.twitter.com/uk0oriphGH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1459159616361615368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1171,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37495,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636722168",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #샘김\n\nRaisa ‘Someday (feat. Sam Kim)’ M/V Behind The Scene 공개! 영상은 유튜브 ‘Sam Kim’ 채널에서 만나보실 수 있습니다🧡✨\n\n🔗 https://t.co/sqA3QabdLD\n\n@LeegitItsSam \n#SamKim #Raisa #Someday #BehindTheScene https://t.co/uk0oriphGH"
+	},
+	{
 		"created_at": "Fri Nov 12 13:29:25 +0000 2021",
 		"id": 1459141019698561000,
 		"id_str": "1459151345278230554",
