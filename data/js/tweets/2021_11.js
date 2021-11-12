@@ -1,6 +1,765 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 06:15:40 +0000 2021",
+		"id": 1459042192257867800,
+		"id_str": "1459042192257867801",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n캐롤 천재 아리, 고전 캐롤도 접수 완료🎄 | 아리아나 그란데(Ariana Grande) - Last Christmas (가사/한글/해석)\nhttps://t.co/vCsTwC9Iwc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vCsTwC9Iwc",
+					"expanded_url": "https://youtu.be/lPsb1ISv8qI",
+					"display_url": "youtu.be/lPsb1ISv8qI",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n캐롤 천재 아리, 고전 캐롤도 접수 완료🎄 | 아리아나 그란데(Ariana Grande) - Last Christmas (가사/한글/해석)\nhttps://t.co/vCsTwC9Iwc"
+	},
+	{
+		"created_at": "Fri Nov 12 05:29:54 +0000 2021",
+		"id": 1459024320882086000,
+		"id_str": "1459030672144801793",
+		"full_text": "☑️일반예매\n\n[서울] 2021. 11. 19. (금) 20:00 @ 멜론티켓 \n[부산] 2021. 11. 22. (월) 17:00 @ 멜론티켓, 인터파크, 네이버티켓, YES24티켓\n[대구] 2021. 11. 22. (월) 18:00 @ 멜론티켓\n\n#JungSeungHwan #안녕겨울 #다시여기우리 #전국투어 #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "안녕겨울",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "다시여기우리",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1459024032859259000,
+		"in_reply_to_status_id_str": "1459024032859258883",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37474,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "☑️일반예매\n\n[서울] 2021. 11. 19. (금) 20:00 @ 멜론티켓 \n[부산] 2021. 11. 22. (월) 17:00 @ 멜론티켓, 인터파크, 네이버티켓, YES24티켓\n[대구] 2021. 11. 22. (월) 18:00 @ 멜론티켓\n\n#JungSeungHwan #안녕겨울 #다시여기우리 #전국투어 #콘서트"
+	},
+	{
+		"created_at": "Fri Nov 12 05:29:46 +0000 2021",
+		"id": 1459024032859259000,
+		"id_str": "1459030638120644608",
+		"full_text": "☑️팬클럽 선오픈\n\n[서울] 2021. 11. 17. (수) 20:00 ~ 23:59\n[부산] 2021. 11. 18. (목) 17:00 ~ 23:59\n[대구] 2021. 11. 18. (목) 18:00 ~ 23:59\n\n* 팬클럽 선오픈 예매처 : 멜론티켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1459024028765622300,
+		"in_reply_to_status_id_str": "1459024028765622276",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37474,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "☑️팬클럽 선오픈\n\n[서울] 2021. 11. 17. (수) 20:00 ~ 23:59\n[부산] 2021. 11. 18. (목) 17:00 ~ 23:59\n[대구] 2021. 11. 18. (목) 18:00 ~ 23:59\n\n* 팬클럽 선오픈 예매처 : 멜론티켓"
+	},
+	{
+		"created_at": "Fri Nov 12 05:29:37 +0000 2021",
+		"id": 1459024028765622300,
+		"id_str": "1459030599851819008",
+		"full_text": "[#Notice] #정승환\n\n2021 정승환의 안녕 겨울 : 다시 여기, 우리 Teaser Poster❄️\n\n[서울]\n2021. 12. 17. (금)\n2021. 12. 18. (토)\n2021. 12. 19. (일)\n@ 올림픽공원 SK올림픽핸드볼경기장\n\n[부산]\n2021. 12. 26. (일)\n@ 벡스코 오디토리움\n\n[대구]\n2021. 12. 31. (금)\n@ 엑스코 오디토리움 https://t.co/xIXkBpV7KI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459023986562842600,
+					"id_str": "1459023986562842624",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9-leXaQAAZm3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9-leXaQAAZm3d.jpg",
+					"url": "https://t.co/xIXkBpV7KI",
+					"display_url": "pic.twitter.com/xIXkBpV7KI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1459024028765622276/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459023986562842600,
+					"id_str": "1459023986562842624",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9-leXaQAAZm3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9-leXaQAAZm3d.jpg",
+					"url": "https://t.co/xIXkBpV7KI",
+					"display_url": "pic.twitter.com/xIXkBpV7KI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1459024028765622276/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37474,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #정승환\n\n2021 정승환의 안녕 겨울 : 다시 여기, 우리 Teaser Poster❄️\n\n[서울]\n2021. 12. 17. (금)\n2021. 12. 18. (토)\n2021. 12. 19. (일)\n@ 올림픽공원 SK올림픽핸드볼경기장\n\n[부산]\n2021. 12. 26. (일)\n@ 벡스코 오디토리움\n\n[대구]\n2021. 12. 31. (금)\n@ 엑스코 오디토리움 https://t.co/xIXkBpV7KI"
+	},
+	{
+		"created_at": "Fri Nov 12 05:29:32 +0000 2021",
+		"id": 1459023241473757200,
+		"id_str": "1459030578356002817",
+		"full_text": "신세경 2022 Season's Greetings Preview\n세경씨의 첫 시즌그리팅📅\n2022년에도 신세경과 함께 해요💛\n\n🎥 https://t.co/9Ybv3qNbLH\n\n#신세경 #ShinSaeKyeong\n#시즌그리팅 #Seasons_Greetings https://t.co/923olaRZIs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "Seasons_Greetings",
+					"indices": [
+						125,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Ybv3qNbLH",
+					"expanded_url": "https://youtu.be/u3cs-6tU5OQ",
+					"display_url": "youtu.be/u3cs-6tU5OQ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458986135926243300,
+					"id_str": "1458986135926243329",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"url": "https://t.co/923olaRZIs",
+					"display_url": "pic.twitter.com/923olaRZIs",
+					"expanded_url": "https://twitter.com/edam_ent/status/1459023241473757193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458986135926243300,
+					"id_str": "1458986135926243329",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9cKRwagAE9j1v.jpg",
+					"url": "https://t.co/923olaRZIs",
+					"display_url": "pic.twitter.com/923olaRZIs",
+					"expanded_url": "https://twitter.com/edam_ent/status/1459023241473757193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56669,
+			"friends_count": 2,
+			"listed_count": 211,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 650,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신세경 2022 Season's Greetings Preview\n세경씨의 첫 시즌그리팅📅\n2022년에도 신세경과 함께 해요💛\n\n🎥 https://t.co/9Ybv3qNbLH\n\n#신세경 #ShinSaeKyeong\n#시즌그리팅 #Seasons_Greetings https://t.co/923olaRZIs"
+	},
+	{
 		"created_at": "Fri Nov 12 04:29:36 +0000 2021",
 		"id": 1459012465467949000,
 		"id_str": "1459015496108552199",
