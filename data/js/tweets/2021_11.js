@@ -1,6 +1,878 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 03:52:24 +0000 2021",
+		"id": 1459006136707915800,
+		"id_str": "1459006136707915779",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n양지은, 홍지윤, 김다현, 김태연 - 방아요 [Teaser]\nhttps://t.co/UJqiX15bwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UJqiX15bwx",
+					"expanded_url": "https://youtu.be/4VK_8QnEMTY",
+					"display_url": "youtu.be/4VK_8QnEMTY",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n양지은, 홍지윤, 김다현, 김태연 - 방아요 [Teaser]\nhttps://t.co/UJqiX15bwx"
+	},
+	{
+		"created_at": "Fri Nov 12 03:29:43 +0000 2021",
+		"id": 1458992954870091800,
+		"id_str": "1459000428700516352",
+		"full_text": "[#손태진] The Present [At The Time] | Audio Teaser #3 '깊어지네 (Solo Ver.)'\n\n🎵 1st EP The Present [At The Time]\n🔔 2021.11.15 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent_AtTheTime #AtTheTime #깊어지네 #BeDeep https://t.co/F7MtkNaKUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "ThePresent_AtTheTime",
+					"indices": [
+						151,
+						172
+					]
+				},
+				{
+					"text": "AtTheTime",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "깊어지네",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "BeDeep",
+					"indices": [
+						190,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458678432897060900,
+					"id_str": "1458678432897060864",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458678432897060864/pu/img/RFD-aORLBFRchW6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458678432897060864/pu/img/RFD-aORLBFRchW6W.jpg",
+					"url": "https://t.co/F7MtkNaKUq",
+					"display_url": "pic.twitter.com/F7MtkNaKUq",
+					"expanded_url": "https://twitter.com/themysticstory/status/1458992954870091779/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458678432897060900,
+					"id_str": "1458678432897060864",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458678432897060864/pu/img/RFD-aORLBFRchW6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458678432897060864/pu/img/RFD-aORLBFRchW6W.jpg",
+					"url": "https://t.co/F7MtkNaKUq",
+					"display_url": "pic.twitter.com/F7MtkNaKUq",
+					"expanded_url": "https://twitter.com/themysticstory/status/1458992954870091779/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 28028,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1458678432897060864/pu/pl/t8-jPaqBGGkOoPgm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458678432897060864/pu/vid/320x320/PK-RUQiW9mgleFaj.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458678432897060864/pu/vid/540x540/kVFUgnwOhvb-oDuN.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458678432897060864/pu/vid/720x720/SrzEMhZmNGFPFXkj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29702,
+			"friends_count": 15,
+			"listed_count": 264,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#손태진] The Present [At The Time] | Audio Teaser #3 '깊어지네 (Solo Ver.)'\n\n🎵 1st EP The Present [At The Time]\n🔔 2021.11.15 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent_AtTheTime #AtTheTime #깊어지네 #BeDeep https://t.co/F7MtkNaKUq"
+	},
+	{
+		"created_at": "Fri Nov 12 03:29:35 +0000 2021",
+		"id": 1458989931674542000,
+		"id_str": "1459000394688995333",
+		"full_text": "#CHOISIWON’s behind photos capturing his passion and responsibility for the TVING drama #술꾼도시여자들 have been released, showing moments of enthusiastic participations in rehearsals + various idea suggestions + superb acting! \n \n#최시원\n#시원 #SIWON \n#슈퍼주니어 #SUPERJUNIOR https://t.co/iBCt3nXp2u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "술꾼도시여자들",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						225,
+						229
+					]
+				},
+				{
+					"text": "시원",
+					"indices": [
+						230,
+						233
+					]
+				},
+				{
+					"text": "SIWON",
+					"indices": [
+						234,
+						240
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						242,
+						248
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						249,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458989481986752500,
+					"id_str": "1458989481986752512",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9fNCzaAAAIGJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9fNCzaAAAIGJB.jpg",
+					"url": "https://t.co/iBCt3nXp2u",
+					"display_url": "pic.twitter.com/iBCt3nXp2u",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458989931674542082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458989481986752500,
+					"id_str": "1458989481986752512",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9fNCzaAAAIGJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9fNCzaAAAIGJB.jpg",
+					"url": "https://t.co/iBCt3nXp2u",
+					"display_url": "pic.twitter.com/iBCt3nXp2u",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458989931674542082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458989481982578700,
+					"id_str": "1458989481982578688",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9fNCyaUAAH-os.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9fNCyaUAAH-os.jpg",
+					"url": "https://t.co/iBCt3nXp2u",
+					"display_url": "pic.twitter.com/iBCt3nXp2u",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458989931674542082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1458989481995149300,
+					"id_str": "1458989481995149312",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9fNC1aIAALrtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9fNC1aIAALrtZ.jpg",
+					"url": "https://t.co/iBCt3nXp2u",
+					"display_url": "pic.twitter.com/iBCt3nXp2u",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1458989931674542082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10178386,
+			"friends_count": 55,
+			"listed_count": 11171,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1047,
+		"favorite_count": 5136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#CHOISIWON’s behind photos capturing his passion and responsibility for the TVING drama #술꾼도시여자들 have been released, showing moments of enthusiastic participations in rehearsals + various idea suggestions + superb acting! \n \n#최시원\n#시원 #SIWON \n#슈퍼주니어 #SUPERJUNIOR https://t.co/iBCt3nXp2u"
+	},
+	{
+		"created_at": "Fri Nov 12 03:29:27 +0000 2021",
+		"id": 1458989310900727800,
+		"id_str": "1459000358349455361",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n문과 vs 이과 #shorts #벤자민쇼츠\n\n👉 https://t.co/3KcML9gO20\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "벤자민쇼츠",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "소상공인",
+					"indices": [
+						128,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3KcML9gO20",
+					"expanded_url": "https://youtu.be/BKKf46QK_Ow",
+					"display_url": "youtu.be/BKKf46QK_Ow",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n문과 vs 이과 #shorts #벤자민쇼츠\n\n👉 https://t.co/3KcML9gO20\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인"
+	},
+	{
 		"created_at": "Fri Nov 12 02:29:24 +0000 2021",
 		"id": 1458982459014480000,
 		"id_str": "1458985250315513857",
