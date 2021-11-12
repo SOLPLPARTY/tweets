@@ -1,6 +1,842 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 11:15:07 +0000 2021",
+		"id": 1459117547912110000,
+		"id_str": "1459117547912110080",
+		"full_text": "#딩고뮤직 #dingo_music\n나 오늘 이별했네… #shorts\nhttps://t.co/9ISvyMdLZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						30,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ISvyMdLZ0",
+					"expanded_url": "https://youtu.be/FM6uwzMJg74",
+					"display_url": "youtu.be/FM6uwzMJg74",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n나 오늘 이별했네… #shorts\nhttps://t.co/9ISvyMdLZ0"
+	},
+	{
+		"created_at": "Fri Nov 12 10:32:31 +0000 2021",
+		"id": 1459106828172861400,
+		"id_str": "1459106828172861460",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n이벤트 장인 바리톤 정 경의 🕊비둘기 성악가🕊 [Teaser]\nhttps://t.co/cla0ffvlhY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cla0ffvlhY",
+					"expanded_url": "https://youtu.be/xmvJEDvQJiM",
+					"display_url": "youtu.be/xmvJEDvQJiM",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n이벤트 장인 바리톤 정 경의 🕊비둘기 성악가🕊 [Teaser]\nhttps://t.co/cla0ffvlhY"
+	},
+	{
+		"created_at": "Fri Nov 12 10:29:34 +0000 2021",
+		"id": 1459097302086213600,
+		"id_str": "1459106084501790749",
+		"full_text": "9. Lee Na Rae - GOOD NIGHT! ♥︎\n10. TUNE - Mullae-dong\n\n#kpop #newmusicfridaykorea #krnp #khiphop #electronic #techno https://t.co/yXVteEkZBw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kpop",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "newmusicfridaykorea",
+					"indices": [
+						61,
+						81
+					]
+				},
+				{
+					"text": "krnp",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "khiphop",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "electronic",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "techno",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459096897650847700,
+					"id_str": "1459096897650847744",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_A5dVacAAmBEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_A5dVacAAmBEY.jpg",
+					"url": "https://t.co/yXVteEkZBw",
+					"display_url": "pic.twitter.com/yXVteEkZBw",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097302086213635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459096897650847700,
+					"id_str": "1459096897650847744",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_A5dVacAAmBEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_A5dVacAAmBEY.jpg",
+					"url": "https://t.co/yXVteEkZBw",
+					"display_url": "pic.twitter.com/yXVteEkZBw",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097302086213635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459096899148185600,
+					"id_str": "1459096899148185600",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_A5i6aAAAsula.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_A5i6aAAAsula.jpg",
+					"url": "https://t.co/yXVteEkZBw",
+					"display_url": "pic.twitter.com/yXVteEkZBw",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097302086213635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1459097287511052300,
+		"in_reply_to_status_id_str": "1459097287511052293",
+		"in_reply_to_user_id": 174146592,
+		"in_reply_to_user_id_str": "174146592",
+		"in_reply_to_screen_name": "FLUXUSMUSIC",
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13319,
+			"friends_count": 13004,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9. Lee Na Rae - GOOD NIGHT! ♥︎\n10. TUNE - Mullae-dong\n\n#kpop #newmusicfridaykorea #krnp #khiphop #electronic #techno https://t.co/yXVteEkZBw"
+	},
+	{
+		"created_at": "Fri Nov 12 10:29:28 +0000 2021",
+		"id": 1459097287511052300,
+		"id_str": "1459106063043772417",
+		"full_text": "5. https://t.co/5KswfQwwZX - Difficult\n6. Bangminhyeok - Tech:No.1\n7. PAIIEK - :) :) :) (Feat. Nah)\n8. Taehun Lee - A Sentence For You, Little Love https://t.co/n44D4HPeuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5KswfQwwZX",
+					"expanded_url": "http://D.no",
+					"display_url": "D.no",
+					"indices": [
+						3,
+						26
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459097044317278200,
+					"id_str": "1459097044317278209",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_BB_takAEgH1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_BB_takAEgH1E.jpg",
+					"url": "https://t.co/n44D4HPeuE",
+					"display_url": "pic.twitter.com/n44D4HPeuE",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097287511052293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1358,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459097044317278200,
+					"id_str": "1459097044317278209",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_BB_takAEgH1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_BB_takAEgH1E.jpg",
+					"url": "https://t.co/n44D4HPeuE",
+					"display_url": "pic.twitter.com/n44D4HPeuE",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097287511052293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1358,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459097044896063500,
+					"id_str": "1459097044896063490",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_BCB3aIAIws1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_BCB3aIAIws1G.jpg",
+					"url": "https://t.co/n44D4HPeuE",
+					"display_url": "pic.twitter.com/n44D4HPeuE",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097287511052293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459097045349060600,
+					"id_str": "1459097045349060609",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_BCDjaUAELkao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_BCDjaUAELkao.jpg",
+					"url": "https://t.co/n44D4HPeuE",
+					"display_url": "pic.twitter.com/n44D4HPeuE",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097287511052293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459097045831385000,
+					"id_str": "1459097045831385088",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_BCFWaAAAg6gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_BCFWaAAAg6gp.jpg",
+					"url": "https://t.co/n44D4HPeuE",
+					"display_url": "pic.twitter.com/n44D4HPeuE",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1459097287511052293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1459097265792897000,
+		"in_reply_to_status_id_str": "1459097265792897024",
+		"in_reply_to_user_id": 174146592,
+		"in_reply_to_user_id_str": "174146592",
+		"in_reply_to_screen_name": "FLUXUSMUSIC",
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13319,
+			"friends_count": 13004,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5. https://t.co/5KswfQwwZX - Difficult\n6. Bangminhyeok - Tech:No.1\n7. PAIIEK - :) :) :) (Feat. Nah)\n8. Taehun Lee - A Sentence For You, Little Love https://t.co/n44D4HPeuE"
+	},
+	{
 		"created_at": "Fri Nov 12 10:11:17 +0000 2021",
 		"id": 1459099903204860000,
 		"id_str": "1459101483052507172",
@@ -1042,7 +1878,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Fri Nov 12 09:29:27 +0000 2021",
 		"id": 1459084900477198300,
 		"id_str": "1459090955554988033",
-		"full_text": "[VIDEO] [#권혁수] #백돌이대탈출\n\n티샷이 뭐죠? 애플워치요? 라운딩 처음 해보는 골린이 채경이 프로 선수와 붙었다!🏌️‍♀️[백돌이대탈출] EP.5\n\n👉 https://t.co/mjmewJRZyW\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #라이프타임 #Lifetime",
+		"full_text": "[VIDEO] [#권혁수] #백돌이대탈출\n\n티샷이 뭐죠? 애플워치요? 라운딩 처음 해보는 골린이 채경이 프로 선수와 붙었다!🏌️♀️[백돌이대탈출] EP.5\n\n👉 https://t.co/mjmewJRZyW\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #라이프타임 #Lifetime",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1193,7 +2029,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[VIDEO] [#권혁수] #백돌이대탈출\n\n티샷이 뭐죠? 애플워치요? 라운딩 처음 해보는 골린이 채경이 프로 선수와 붙었다!🏌️‍♀️[백돌이대탈출] EP.5\n\n👉 https://t.co/mjmewJRZyW\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #라이프타임 #Lifetime"
+		"text": "[VIDEO] [#권혁수] #백돌이대탈출\n\n티샷이 뭐죠? 애플워치요? 라운딩 처음 해보는 골린이 채경이 프로 선수와 붙었다!🏌️♀️[백돌이대탈출] EP.5\n\n👉 https://t.co/mjmewJRZyW\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #라이프타임 #Lifetime"
 	},
 	{
 		"created_at": "Fri Nov 12 09:15:07 +0000 2021",
