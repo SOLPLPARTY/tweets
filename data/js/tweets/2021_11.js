@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 05:29:25 +0000 2021",
+		"id": 1459745520860024800,
+		"id_str": "1459755324685045771",
+		"full_text": "노들섬 2주년 기획공연\n&lt;The Wonder Weeks&gt;\n팀들이 속속 도착해 리허설 중입니다☺️\n오늘 날씨도 좋으니 시간 되시는 분들은 현매 하세요💕\n검잎  하고 구숫 리허설 중! 홍크는 대기하고 있어요 😉\n일시. 2021. 11. 14. 5pm.\n장소. 노들섬라이브하우스 \n티켓. 33,000원\n문의.  070-7729-6568 https://t.co/GobGx9LThk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459745507954552800,
+					"id_str": "1459745507954552832",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEIOzjAacAAtDGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEIOzjAacAAtDGj.jpg",
+					"url": "https://t.co/GobGx9LThk",
+					"display_url": "pic.twitter.com/GobGx9LThk",
+					"expanded_url": "https://twitter.com/orm_ent/status/1459745520860024835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459745507954552800,
+					"id_str": "1459745507954552832",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEIOzjAacAAtDGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEIOzjAacAAtDGj.jpg",
+					"url": "https://t.co/GobGx9LThk",
+					"display_url": "pic.twitter.com/GobGx9LThk",
+					"expanded_url": "https://twitter.com/orm_ent/status/1459745520860024835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459745507962912800,
+					"id_str": "1459745507962912770",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEIOzjCaAAIMRH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEIOzjCaAAIMRH6.jpg",
+					"url": "https://t.co/GobGx9LThk",
+					"display_url": "pic.twitter.com/GobGx9LThk",
+					"expanded_url": "https://twitter.com/orm_ent/status/1459745520860024835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459745507988111400,
+					"id_str": "1459745507988111361",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEIOzjIagAErvI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEIOzjIagAErvI4.jpg",
+					"url": "https://t.co/GobGx9LThk",
+					"display_url": "pic.twitter.com/GobGx9LThk",
+					"expanded_url": "https://twitter.com/orm_ent/status/1459745520860024835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459745507983900700,
+					"id_str": "1459745507983900672",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FEIOzjHaQAAxHay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEIOzjHaQAAxHay.jpg",
+					"url": "https://t.co/GobGx9LThk",
+					"display_url": "pic.twitter.com/GobGx9LThk",
+					"expanded_url": "https://twitter.com/orm_ent/status/1459745520860024835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 324,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1633404326",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노들섬 2주년 기획공연\n&lt;The Wonder Weeks&gt;\n팀들이 속속 도착해 리허설 중입니다☺️\n오늘 날씨도 좋으니 시간 되시는 분들은 현매 하세요💕\n검잎  하고 구숫 리허설 중! 홍크는 대기하고 있어요 😉\n일시. 2021. 11. 14. 5pm.\n장소. 노들섬라이브하우스 \n티켓. 33,000원\n문의.  070-7729-6568 https://t.co/GobGx9LThk"
+	},
+	{
 		"created_at": "Sun Nov 14 03:29:24 +0000 2021",
 		"id": 1459717730496618500,
 		"id_str": "1459725125323001858",
