@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 07:11:16 +0000 2021",
+		"id": 1459772081776693200,
+		"id_str": "1459780959277039623",
+		"full_text": "폴립의 세번째 EP &lt; The Cinema &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ \n#TheCinema #폴립 #polyp #음반 #ep #인디음악 #공상온도스토어\n\n#독립서적 #독립서점 #공상온도스토어 https://t.co/c4bXqQPNkQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheCinema",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "폴립",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "polyp",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "ep",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "공상온도스토어",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "독립서적",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "독립서점",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "공상온도스토어",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459772075389128700,
+					"id_str": "1459772075389128706",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FEIm9-aakAI9fdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEIm9-aakAI9fdD.jpg",
+					"url": "https://t.co/c4bXqQPNkQ",
+					"display_url": "pic.twitter.com/c4bXqQPNkQ",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1459772081776693251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459772075389128700,
+					"id_str": "1459772075389128706",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FEIm9-aakAI9fdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEIm9-aakAI9fdD.jpg",
+					"url": "https://t.co/c4bXqQPNkQ",
+					"display_url": "pic.twitter.com/c4bXqQPNkQ",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1459772081776693251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 213,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "폴립의 세번째 EP &lt; The Cinema &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ \n#TheCinema #폴립 #polyp #음반 #ep #인디음악 #공상온도스토어\n\n#독립서적 #독립서점 #공상온도스토어 https://t.co/c4bXqQPNkQ"
+	},
+	{
 		"created_at": "Sun Nov 14 05:29:25 +0000 2021",
 		"id": 1459745520860024800,
 		"id_str": "1459755324685045771",
