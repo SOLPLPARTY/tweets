@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 12:29:32 +0000 2021",
+		"id": 1459853620699177000,
+		"id_str": "1459861051206418432",
+		"full_text": "[#하림] KBS 2TV &lt;다큐멘터리 3일&gt; 700회 '달마가 땅끝으로 간 까닭은- 해남 미황사' 내레이션 참여🎤\n\n하림의 부드러운 목소리로 전해 듣는 미황사의 72시간은 오늘 밤🌙 10시 45분 &lt;다큐멘터리 3일&gt;에서📺\n\n#Hareem #KBS2 #다큐멘터리3일 #해남미황사 https://t.co/s16DyvJfz0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하림",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Hareem",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "KBS2",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "다큐멘터리3일",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "해남미황사",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459839106335543300,
+					"id_str": "1459839106335543299",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJj7sJakAM_zX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJj7sJakAM_zX3.jpg",
+					"url": "https://t.co/s16DyvJfz0",
+					"display_url": "pic.twitter.com/s16DyvJfz0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1459853620699176961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 723,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459839106335543300,
+					"id_str": "1459839106335543299",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJj7sJakAM_zX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJj7sJakAM_zX3.jpg",
+					"url": "https://t.co/s16DyvJfz0",
+					"display_url": "pic.twitter.com/s16DyvJfz0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1459853620699176961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 723,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29989,
+			"friends_count": 15,
+			"listed_count": 265,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하림] KBS 2TV &lt;다큐멘터리 3일&gt; 700회 '달마가 땅끝으로 간 까닭은- 해남 미황사' 내레이션 참여🎤\n\n하림의 부드러운 목소리로 전해 듣는 미황사의 72시간은 오늘 밤🌙 10시 45분 &lt;다큐멘터리 3일&gt;에서📺\n\n#Hareem #KBS2 #다큐멘터리3일 #해남미황사 https://t.co/s16DyvJfz0"
+	},
+	{
+		"created_at": "Sun Nov 14 12:29:29 +0000 2021",
+		"id": 1459847114465284000,
+		"id_str": "1459861038162235399",
+		"full_text": "' 두루미 흥업 '의 새식구 ' eurasia ' 의 앨범 ' ㅇ '  타이틀 수록곡인 ' I ' 들어보세요:)\nhttps://t.co/Ullqfcfi6g https://t.co/ElA2fl0sya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ullqfcfi6g",
+					"expanded_url": "https://bandeurasia.bandcamp.com/track/i",
+					"display_url": "bandeurasia.bandcamp.com/track/i",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459847109155635200,
+					"id_str": "1459847109155635202",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJrNg-aQAIPROa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJrNg-aQAIPROa.jpg",
+					"url": "https://t.co/ElA2fl0sya",
+					"display_url": "pic.twitter.com/ElA2fl0sya",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1459847114465284097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459847109155635200,
+					"id_str": "1459847109155635202",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJrNg-aQAIPROa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJrNg-aQAIPROa.jpg",
+					"url": "https://t.co/ElA2fl0sya",
+					"display_url": "pic.twitter.com/ElA2fl0sya",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1459847114465284097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 190,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "' 두루미 흥업 '의 새식구 ' eurasia ' 의 앨범 ' ㅇ '  타이틀 수록곡인 ' I ' 들어보세요:)\nhttps://t.co/Ullqfcfi6g https://t.co/ElA2fl0sya"
+	},
+	{
 		"created_at": "Sun Nov 14 12:11:16 +0000 2021",
 		"id": 1459855967370322000,
 		"id_str": "1459856457290207235",
