@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 09:29:30 +0000 2021",
+		"id": 1459809214369452000,
+		"id_str": "1459815744183623681",
+		"full_text": "#너드커넥션 #너컨 #NerdConnection #New_Century_Masterpiece_Cinema #NCMC #정규앨범 #정규1집 #쇼케이스 #공연 #라이브 #performance #concert #showcase #live #online #offline https://t.co/elDPmAcOWz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "NerdConnection",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"text": "New_Century_Masterpiece_Cinema",
+					"indices": [
+						27,
+						58
+					]
+				},
+				{
+					"text": "NCMC",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "정규앨범",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "정규1집",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "쇼케이스",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "performance",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "concert",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "showcase",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "online",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "offline",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459808676106375200,
+					"id_str": "1459808676106375169",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIQatakAEpqRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIQatakAEpqRb.jpg",
+					"url": "https://t.co/elDPmAcOWz",
+					"display_url": "pic.twitter.com/elDPmAcOWz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809214369452036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459808676106375200,
+					"id_str": "1459808676106375169",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIQatakAEpqRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIQatakAEpqRb.jpg",
+					"url": "https://t.co/elDPmAcOWz",
+					"display_url": "pic.twitter.com/elDPmAcOWz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809214369452036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459808676106367000,
+					"id_str": "1459808676106366978",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIQatacAIdxpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIQatacAIdxpW.jpg",
+					"url": "https://t.co/elDPmAcOWz",
+					"display_url": "pic.twitter.com/elDPmAcOWz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809214369452036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459808676227989500,
+					"id_str": "1459808676227989509",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIQbKaQAU2jDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIQbKaQAU2jDd.jpg",
+					"url": "https://t.co/elDPmAcOWz",
+					"display_url": "pic.twitter.com/elDPmAcOWz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809214369452036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459808939965821000,
+					"id_str": "1459808939965820928",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIfxqaMAAD-Oj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIfxqaMAAD-Oj.jpg",
+					"url": "https://t.co/elDPmAcOWz",
+					"display_url": "pic.twitter.com/elDPmAcOWz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809214369452036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1459809209210458000,
+		"in_reply_to_status_id_str": "1459809209210458117",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#너드커넥션 #너컨 #NerdConnection #New_Century_Masterpiece_Cinema #NCMC #정규앨범 #정규1집 #쇼케이스 #공연 #라이브 #performance #concert #showcase #live #online #offline https://t.co/elDPmAcOWz"
+	},
+	{
+		"created_at": "Sun Nov 14 09:29:27 +0000 2021",
+		"id": 1459809209210458000,
+		"id_str": "1459815731122561026",
+		"full_text": "[#너드커넥션] 쇼케이스 &lt;New Century Masterpiece Cinema&gt;\n\n너드커넥션은 1회차 공연을 무사히 마치고, 2회차 공연을 준비하고 있습니다!\n1회차 관객여러분, 너드커넥션의 정규앨범 쇼케이스 재미있으셨나요? \n\n곧이어 7시 공연의 막이 오릅니다!\n마지막까지 달려보아요🔥 https://t.co/ys87ovzL87",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459808602785738800,
+					"id_str": "1459808602785738753",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIMJkacAE94LV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIMJkacAE94LV.jpg",
+					"url": "https://t.co/ys87ovzL87",
+					"display_url": "pic.twitter.com/ys87ovzL87",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809209210458117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459808602785738800,
+					"id_str": "1459808602785738753",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIMJkacAE94LV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIMJkacAE94LV.jpg",
+					"url": "https://t.co/ys87ovzL87",
+					"display_url": "pic.twitter.com/ys87ovzL87",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809209210458117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459808602727006200,
+					"id_str": "1459808602727006208",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIMJWaQAApcaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIMJWaQAApcaa.jpg",
+					"url": "https://t.co/ys87ovzL87",
+					"display_url": "pic.twitter.com/ys87ovzL87",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809209210458117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459808602731200500,
+					"id_str": "1459808602731200513",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIMJXaQAEXTXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIMJXaQAEXTXy.jpg",
+					"url": "https://t.co/ys87ovzL87",
+					"display_url": "pic.twitter.com/ys87ovzL87",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809209210458117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1459808602722807800,
+					"id_str": "1459808602722807816",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FEJIMJVaMAg0RYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEJIMJVaMAg0RYM.jpg",
+					"url": "https://t.co/ys87ovzL87",
+					"display_url": "pic.twitter.com/ys87ovzL87",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1459809209210458117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#너드커넥션] 쇼케이스 &lt;New Century Masterpiece Cinema&gt;\n\n너드커넥션은 1회차 공연을 무사히 마치고, 2회차 공연을 준비하고 있습니다!\n1회차 관객여러분, 너드커넥션의 정규앨범 쇼케이스 재미있으셨나요? \n\n곧이어 7시 공연의 막이 오릅니다!\n마지막까지 달려보아요🔥 https://t.co/ys87ovzL87"
+	},
+	{
 		"created_at": "Sun Nov 14 09:03:19 +0000 2021",
 		"id": 1459809155628339200,
 		"id_str": "1459809155628339204",
