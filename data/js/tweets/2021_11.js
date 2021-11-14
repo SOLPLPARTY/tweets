@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 03:29:24 +0000 2021",
+		"id": 1459717730496618500,
+		"id_str": "1459725125323001858",
+		"full_text": "[#손태진] The Present [At The Time] | Track List\n\n🎵 1st EP The Present [At The Time]\n🔔 2021.11.15 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent_AtTheTime #AtTheTime #깊어지네 #BeDeep https://t.co/DKHBDpbu1e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "ThePresent_AtTheTime",
+					"indices": [
+						127,
+						148
+					]
+				},
+				{
+					"text": "AtTheTime",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "깊어지네",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "BeDeep",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459025038724956200,
+					"id_str": "1459025038724956160",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9_it-aAAAgKYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9_it-aAAAgKYt.jpg",
+					"url": "https://t.co/DKHBDpbu1e",
+					"display_url": "pic.twitter.com/DKHBDpbu1e",
+					"expanded_url": "https://twitter.com/themysticstory/status/1459717730496618499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459025038724956200,
+					"id_str": "1459025038724956160",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9_it-aAAAgKYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9_it-aAAAgKYt.jpg",
+					"url": "https://t.co/DKHBDpbu1e",
+					"display_url": "pic.twitter.com/DKHBDpbu1e",
+					"expanded_url": "https://twitter.com/themysticstory/status/1459717730496618499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29954,
+			"friends_count": 15,
+			"listed_count": 266,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#손태진] The Present [At The Time] | Track List\n\n🎵 1st EP The Present [At The Time]\n🔔 2021.11.15 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent_AtTheTime #AtTheTime #깊어지네 #BeDeep https://t.co/DKHBDpbu1e"
+	},
+	{
 		"created_at": "Sun Nov 14 03:13:12 +0000 2021",
 		"id": 1459721046802768000,
 		"id_str": "1459721046802767875",
