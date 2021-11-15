@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 11:29:39 +0000 2021",
+		"id": 1460201319608635400,
+		"id_str": "1460208370334543872",
+		"full_text": "[#Photo] #적재\n\n적재 Single ‘서로의 서로’\nJukjae Single ‘One Another’\n⠀\n▪️D-1\n⠀\n2021. 11. 16. 6PM Release\n\n#Jukjae #서로의서로 #OneAnother #꿈 #SkyDream\n#20211116_6PM https://t.co/TrZFUxp0Fx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "OneAnother",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "꿈",
+					"indices": [
+						125,
+						127
+					]
+				},
+				{
+					"text": "SkyDream",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "20211116_6PM",
+					"indices": [
+						138,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460201309110698000,
+					"id_str": "1460201309110697984",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FEOtWqoagAAKa_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEOtWqoagAAKa_i.jpg",
+					"url": "https://t.co/TrZFUxp0Fx",
+					"display_url": "pic.twitter.com/TrZFUxp0Fx",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460201319608635392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460201309110698000,
+					"id_str": "1460201309110697984",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FEOtWqoagAAKa_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEOtWqoagAAKa_i.jpg",
+					"url": "https://t.co/TrZFUxp0Fx",
+					"display_url": "pic.twitter.com/TrZFUxp0Fx",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460201319608635392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37510,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Photo] #적재\n\n적재 Single ‘서로의 서로’\nJukjae Single ‘One Another’\n⠀\n▪️D-1\n⠀\n2021. 11. 16. 6PM Release\n\n#Jukjae #서로의서로 #OneAnother #꿈 #SkyDream\n#20211116_6PM https://t.co/TrZFUxp0Fx"
+	},
+	{
+		"created_at": "Mon Nov 15 11:29:33 +0000 2021",
+		"id": 1460201009272082400,
+		"id_str": "1460208344724086786",
+		"full_text": "#영화 #너에게가는길 #영화너에게가는길 #개봉 #영화개봉 #개봉작 #시네마톡 #CGV #CGV압구정 #압구정 #알고싶어_너의세상 #전주국제영화제_다큐멘터리상 #성소수자 #커밍아웃 #한결 #예준 #성소수자부모모임 #나비 #비비안 #변규리감독 #제작기간4년 #연분홍치마_10번째작품 #평등길1110 #이혁상PD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "영화",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "너에게가는길",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "영화너에게가는길",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "개봉",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "영화개봉",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "개봉작",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "시네마톡",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "CGV",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "CGV압구정",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "압구정",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "알고싶어_너의세상",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "전주국제영화제_다큐멘터리상",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"text": "성소수자",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "커밍아웃",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "한결",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "예준",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "성소수자부모모임",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "나비",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "비비안",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "변규리감독",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "제작기간4년",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "연분홍치마_10번째작품",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "평등길1110",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "이혁상PD",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460201006940110800,
+		"in_reply_to_status_id_str": "1460201006940110857",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#영화 #너에게가는길 #영화너에게가는길 #개봉 #영화개봉 #개봉작 #시네마톡 #CGV #CGV압구정 #압구정 #알고싶어_너의세상 #전주국제영화제_다큐멘터리상 #성소수자 #커밍아웃 #한결 #예준 #성소수자부모모임 #나비 #비비안 #변규리감독 #제작기간4년 #연분홍치마_10번째작품 #평등길1110 #이혁상PD"
+	},
+	{
+		"created_at": "Mon Nov 15 11:29:27 +0000 2021",
+		"id": 1460201006940110800,
+		"id_str": "1460208319034007562",
+		"full_text": "🔹진행일시 : 11월 17일 수요일 오후 7시 30분\n🔹 장소 : CGV 압구정\n🔹 참석자 : 슬릭, 변규리감독, 나비 &amp; 비비안 \n🔹 진행자 : 이혁상 PD\n\n📍CGV #시네마톡 예매 및 자세한 내용은 영화사 엣나인필름 공식 계정 (@at9film) 또는 아래 홈페이지에서 확인하실 수 있습니다. \nhttps://t.co/YyJLZvqtR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시네마톡",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "at9film",
+					"name": "ATNINE FILM",
+					"id": 119295834,
+					"id_str": "119295834",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YyJLZvqtR5",
+					"expanded_url": "https://bit.ly/3Hp5bDG",
+					"display_url": "bit.ly/3Hp5bDG",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460201003936993300,
+		"in_reply_to_status_id_str": "1460201003936993286",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔹진행일시 : 11월 17일 수요일 오후 7시 30분\n🔹 장소 : CGV 압구정\n🔹 참석자 : 슬릭, 변규리감독, 나비 &amp; 비비안 \n🔹 진행자 : 이혁상 PD\n\n📍CGV #시네마톡 예매 및 자세한 내용은 영화사 엣나인필름 공식 계정 (@at9film) 또는 아래 홈페이지에서 확인하실 수 있습니다. \nhttps://t.co/YyJLZvqtR5"
+	},
+	{
 		"created_at": "Mon Nov 15 10:29:42 +0000 2021",
 		"id": 1460191480987807700,
 		"id_str": "1460193284060495873",
