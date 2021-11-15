@@ -1,6 +1,940 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 10:29:42 +0000 2021",
+		"id": 1460191480987807700,
+		"id_str": "1460193284060495873",
+		"full_text": "Highly anticipated drama &lt;Now, We Are Breaking Up&gt; which stars Song Hye-kyo and Jang Ki-yong will start airing on SBS. Lee Hi who joined AOMG last year, participated in the OST for the show.\n\n🍎https://t.co/4QOznm9MCL\n🔊https://t.co/MTBKbpXKMm\n🎶https://t.co/1PKjtYtaFr https://t.co/UoRqEqwFOp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4QOznm9MCL",
+					"expanded_url": "https://apple.co/3wOrvBu",
+					"display_url": "apple.co/3wOrvBu",
+					"indices": [
+						199,
+						222
+					]
+				},
+				{
+					"url": "https://t.co/MTBKbpXKMm",
+					"expanded_url": "https://spoti.fi/3HjCyI5",
+					"display_url": "spoti.fi/3HjCyI5",
+					"indices": [
+						224,
+						247
+					]
+				},
+				{
+					"url": "https://t.co/1PKjtYtaFr",
+					"expanded_url": "https://amzn.to/3owmY2V",
+					"display_url": "amzn.to/3owmY2V",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460191449967100000,
+					"id_str": "1460191449967099911",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460191449967099911/pu/img/9xgFWndZ4zTqSe7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460191449967099911/pu/img/9xgFWndZ4zTqSe7i.jpg",
+					"url": "https://t.co/UoRqEqwFOp",
+					"display_url": "pic.twitter.com/UoRqEqwFOp",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460191480987807746/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460191449967100000,
+					"id_str": "1460191449967099911",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460191449967099911/pu/img/9xgFWndZ4zTqSe7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460191449967099911/pu/img/9xgFWndZ4zTqSe7i.jpg",
+					"url": "https://t.co/UoRqEqwFOp",
+					"display_url": "pic.twitter.com/UoRqEqwFOp",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460191480987807746/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59008,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460191449967099911/pu/vid/720x720/It39nGG2GIIpqGaC.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460191449967099911/pu/vid/320x320/WH6yYGr01Hstm-jw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460191449967099911/pu/pl/6dmdfvNowBcLoKJU.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460191449967099911/pu/vid/540x540/cSI1vgq8QkGMopXN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13320,
+			"friends_count": 13004,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Highly anticipated drama &lt;Now, We Are Breaking Up&gt; which stars Song Hye-kyo and Jang Ki-yong will start airing on SBS. Lee Hi who joined AOMG last year, participated in the OST for the show.\n\n🍎https://t.co/4QOznm9MCL\n🔊https://t.co/MTBKbpXKMm\n🎶https://t.co/1PKjtYtaFr https://t.co/UoRqEqwFOp"
+	},
+	{
+		"created_at": "Mon Nov 15 10:29:36 +0000 2021",
+		"id": 1460188978565451800,
+		"id_str": "1460193258450083840",
+		"full_text": "#너드커넥션 #너컨 #NerdConnection #2021변신술 #변신술 #byunshinsul #유튜브 #YOUTUBE #풀영상 #공연영상 #360도영상 #업로드 #한옥마을 #남산골한옥마을 #충무로",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "NerdConnection",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"text": "2021변신술",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "변신술",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "byunshinsul",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "풀영상",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "공연영상",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "360도영상",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "업로드",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "한옥마을",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "남산골한옥마을",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "충무로",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460188976774402000,
+		"in_reply_to_status_id_str": "1460188976774402051",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#너드커넥션 #너컨 #NerdConnection #2021변신술 #변신술 #byunshinsul #유튜브 #YOUTUBE #풀영상 #공연영상 #360도영상 #업로드 #한옥마을 #남산골한옥마을 #충무로"
+	},
+	{
+		"created_at": "Mon Nov 15 10:29:34 +0000 2021",
+		"id": 1460188976774402000,
+		"id_str": "1460193249633648642",
+		"full_text": "[#너드커넥션]  &lt;2021 변신술&gt; 영상 공개\n\n10월 4일 진행되었던 너드커넥션의 변신술 풀영상이 공개되었습니다!\n\n지금 바로 유튜브 채널 '남산골한옥마을'에서 감상해보세요!\n🔹풀영상 : https://t.co/EaiJsAtzDb\n🔹'좋은 밤 좋은 꿈' 360˚영상 : https://t.co/tgRocPaCQ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EaiJsAtzDb",
+					"expanded_url": "http://bit.ly/3cbdWmj",
+					"display_url": "bit.ly/3cbdWmj",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/tgRocPaCQ5",
+					"expanded_url": "http://bit.ly/30oq8xi",
+					"display_url": "bit.ly/30oq8xi",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#너드커넥션]  &lt;2021 변신술&gt; 영상 공개\n\n10월 4일 진행되었던 너드커넥션의 변신술 풀영상이 공개되었습니다!\n\n지금 바로 유튜브 채널 '남산골한옥마을'에서 감상해보세요!\n🔹풀영상 : https://t.co/EaiJsAtzDb\n🔹'좋은 밤 좋은 꿈' 360˚영상 : https://t.co/tgRocPaCQ5"
+	},
+	{
+		"created_at": "Mon Nov 15 10:29:31 +0000 2021",
+		"id": 1460186309490659300,
+		"id_str": "1460193236593655811",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n골프 클럽도 없이 골프 촬영하는 백돌이가 있다?\n정신 혼미한 와중에 2홀을 승리로 이끈 과녁수...\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/1MWbwcnyYa\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #윤채경 #김태림 https://t.co/e6kBEDh9e6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						131,
+						143
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "윤채경",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "김태림",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1MWbwcnyYa",
+					"expanded_url": "https://youtu.be/RqTrMZca1QQ",
+					"display_url": "youtu.be/RqTrMZca1QQ",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460186303103119400,
+					"id_str": "1460186303103119361",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FEOftM5aMAEr9GV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEOftM5aMAEr9GV.jpg",
+					"url": "https://t.co/e6kBEDh9e6",
+					"display_url": "pic.twitter.com/e6kBEDh9e6",
+					"expanded_url": "https://twitter.com/humap_official/status/1460186309490659329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460186303103119400,
+					"id_str": "1460186303103119361",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FEOftM5aMAEr9GV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEOftM5aMAEr9GV.jpg",
+					"url": "https://t.co/e6kBEDh9e6",
+					"display_url": "pic.twitter.com/e6kBEDh9e6",
+					"expanded_url": "https://twitter.com/humap_official/status/1460186309490659329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n골프 클럽도 없이 골프 촬영하는 백돌이가 있다?\n정신 혼미한 와중에 2홀을 승리로 이끈 과녁수...\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/1MWbwcnyYa\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #윤채경 #김태림 https://t.co/e6kBEDh9e6"
+	},
+	{
+		"created_at": "Mon Nov 15 10:29:27 +0000 2021",
+		"id": 1460178714470142000,
+		"id_str": "1460193219313123328",
+		"full_text": "-\n11/20 (토) 오후 6시\n[#김사월] 2021 밴드데이 &lt;오늘의 우리&gt; @인천문화예술회관 소공연장\n-\n11/20 (토) 저녁 8시\n[#김사월] Radio KISS 특집 오디오 다큐멘터리 &lt;세대소통 프로젝트, 인생 O.S.T.&gt;\n-\n#유어썸머 #주간스케줄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "주간스케줄",
+					"indices": [
+						151,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460178712859611100,
+		"in_reply_to_status_id_str": "1460178712859611138",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "-\n11/20 (토) 오후 6시\n[#김사월] 2021 밴드데이 &lt;오늘의 우리&gt; @인천문화예술회관 소공연장\n-\n11/20 (토) 저녁 8시\n[#김사월] Radio KISS 특집 오디오 다큐멘터리 &lt;세대소통 프로젝트, 인생 O.S.T.&gt;\n-\n#유어썸머 #주간스케줄"
+	},
+	{
 		"created_at": "Mon Nov 15 10:11:32 +0000 2021",
 		"id": 1460170720130920400,
 		"id_str": "1460188711270899716",
