@@ -1,6 +1,969 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 03:30:00 +0000 2021",
+		"id": 1460443816775729200,
+		"id_str": "1460450050589474817",
+		"full_text": "🎞 https://t.co/lzmJ2wgfSQ https://t.co/NYZpDd8RMn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lzmJ2wgfSQ",
+					"expanded_url": "https://youtu.be/LU5eIGEMgnk",
+					"display_url": "youtu.be/LU5eIGEMgnk",
+					"indices": [
+						2,
+						25
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460443619404685300,
+					"id_str": "1460443619404685313",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460443619404685313/pu/img/GZHWt0flNqpCDnQV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460443619404685313/pu/img/GZHWt0flNqpCDnQV.jpg",
+					"url": "https://t.co/NYZpDd8RMn",
+					"display_url": "pic.twitter.com/NYZpDd8RMn",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1460443816775729156/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460443619404685300,
+					"id_str": "1460443619404685313",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460443619404685313/pu/img/GZHWt0flNqpCDnQV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460443619404685313/pu/img/GZHWt0flNqpCDnQV.jpg",
+					"url": "https://t.co/NYZpDd8RMn",
+					"display_url": "pic.twitter.com/NYZpDd8RMn",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1460443816775729156/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34993,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460443619404685313/pu/vid/720x720/y0HFfL0KIlBq9r5u.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460443619404685313/pu/vid/540x540/1fh3iTLpN_cTh7Kd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460443619404685313/pu/pl/nodpKXM0A4a3NQ9d.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460443619404685313/pu/vid/320x320/Ru2_8jXbi7am5nQ5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460443129165664300,
+		"in_reply_to_status_id_str": "1460443129165664260",
+		"in_reply_to_user_id": 206117108,
+		"in_reply_to_user_id_str": "206117108",
+		"in_reply_to_screen_name": "Warner_Music_Kr",
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51951,
+			"friends_count": 496,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎞 https://t.co/lzmJ2wgfSQ https://t.co/NYZpDd8RMn"
+	},
+	{
+		"created_at": "Tue Nov 16 03:29:51 +0000 2021",
+		"id": 1460443300234612700,
+		"id_str": "1460450012316512261",
+		"full_text": "▪️ 참여 기간\n- 2021. 11. 16 (화) ~ 2020. 11. 23 (화)\n\n▪️ 당첨자 발표\n- 2021. 11. 26 (금) / 총 5명 랜덤 추첨\n- 안테나 공식 인스타그램 및 트위터 계정에 안내 예정\n\n▪️ 당첨자 경품\n- 사인 폴라로이드\n\n#Jukjae #서로의서로 #OneAnother\n#꿈 #SkyDream\n#20211116_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jukjae",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "OneAnother",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "꿈",
+					"indices": [
+						171,
+						173
+					]
+				},
+				{
+					"text": "SkyDream",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "20211116_6PM",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460443296061296600,
+		"in_reply_to_status_id_str": "1460443296061296644",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37523,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪️ 참여 기간\n- 2021. 11. 16 (화) ~ 2020. 11. 23 (화)\n\n▪️ 당첨자 발표\n- 2021. 11. 26 (금) / 총 5명 랜덤 추첨\n- 안테나 공식 인스타그램 및 트위터 계정에 안내 예정\n\n▪️ 당첨자 경품\n- 사인 폴라로이드\n\n#Jukjae #서로의서로 #OneAnother\n#꿈 #SkyDream\n#20211116_6PM"
+	},
+	{
+		"created_at": "Tue Nov 16 03:29:48 +0000 2021",
+		"id": 1460443296061296600,
+		"id_str": "1460449999213453315",
+		"full_text": "[#Notice] #적재\n\n적재 Single ‘서로의 서로’ 스트리밍 이벤트 안내\n⠀\n오늘 오후 6시에 공개되는 적재 Single ‘서로의 서로’ 발매 기념 스트리밍 이벤트가 진행됩니다.\n참여 방법 등 자세한 사항은 게시된 이미지를 통해 확인하실 수 있습니다.\n많은 관심과 참여 부탁드립니다🖤\n\n#적재 #서로의서로 https://t.co/FsZzxSODle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						169,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460443221348466700,
+					"id_str": "1460443221348466688",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FESJXz8aQAAn0uk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESJXz8aQAAn0uk.jpg",
+					"url": "https://t.co/FsZzxSODle",
+					"display_url": "pic.twitter.com/FsZzxSODle",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460443296061296644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460443221348466700,
+					"id_str": "1460443221348466688",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FESJXz8aQAAn0uk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESJXz8aQAAn0uk.jpg",
+					"url": "https://t.co/FsZzxSODle",
+					"display_url": "pic.twitter.com/FsZzxSODle",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460443296061296644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460443245365043200,
+					"id_str": "1460443245365043200",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FESJZNaaIAAVUmq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESJZNaaIAAVUmq.jpg",
+					"url": "https://t.co/FsZzxSODle",
+					"display_url": "pic.twitter.com/FsZzxSODle",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460443296061296644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460443265518678000,
+					"id_str": "1460443265518678016",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FESJaYfaMAAN4Rn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESJaYfaMAAN4Rn.jpg",
+					"url": "https://t.co/FsZzxSODle",
+					"display_url": "pic.twitter.com/FsZzxSODle",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460443296061296644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 적재 전국투어 '서로의 서로' - 서울       2021. 11. 19. ~ 2021. 11. 21. @ YES24 라이브홀",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37523,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #적재\n\n적재 Single ‘서로의 서로’ 스트리밍 이벤트 안내\n⠀\n오늘 오후 6시에 공개되는 적재 Single ‘서로의 서로’ 발매 기념 스트리밍 이벤트가 진행됩니다.\n참여 방법 등 자세한 사항은 게시된 이미지를 통해 확인하실 수 있습니다.\n많은 관심과 참여 부탁드립니다🖤\n\n#적재 #서로의서로 https://t.co/FsZzxSODle"
+	},
+	{
+		"created_at": "Tue Nov 16 03:29:41 +0000 2021",
+		"id": 1460443129165664300,
+		"id_str": "1460449969207488513",
+		"full_text": "💥#Team워너 Live : 베넷 (BENNETT) - Buzzed\n\n🎞 https://t.co/lzmJ2wgfSQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Team워너",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lzmJ2wgfSQ",
+					"expanded_url": "https://youtu.be/LU5eIGEMgnk",
+					"display_url": "youtu.be/LU5eIGEMgnk",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51951,
+			"friends_count": 496,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💥#Team워너 Live : 베넷 (BENNETT) - Buzzed\n\n🎞 https://t.co/lzmJ2wgfSQ"
+	},
+	{
+		"created_at": "Tue Nov 16 03:29:33 +0000 2021",
+		"id": 1460443025486672000,
+		"id_str": "1460449935145455617",
+		"full_text": "You can vote for Worldwide Fans' Choice TOP 10 by listening to the music of the artist you support on Apple Music's \"2021 MAMA - Worldwide Fans' Choice TOP 10 Playlist\"! Stream SF9's Tear Drop and vote on Apple Music!\n\n🍎https://t.co/w2f5wxUpMI\n\n#applemusic #kpopnews #mama2021 https://t.co/qD9JI9o7LB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "applemusic",
+					"indices": [
+						245,
+						256
+					]
+				},
+				{
+					"text": "kpopnews",
+					"indices": [
+						257,
+						266
+					]
+				},
+				{
+					"text": "mama2021",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2f5wxUpMI",
+					"expanded_url": "https://apple.co/3Fbk3Ue",
+					"display_url": "apple.co/3Fbk3Ue",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460442673345888300,
+					"id_str": "1460442673345888256",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FESI36eagAA31QW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESI36eagAA31QW.jpg",
+					"url": "https://t.co/qD9JI9o7LB",
+					"display_url": "pic.twitter.com/qD9JI9o7LB",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460443025486671874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460442673345888300,
+					"id_str": "1460442673345888256",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FESI36eagAA31QW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESI36eagAA31QW.jpg",
+					"url": "https://t.co/qD9JI9o7LB",
+					"display_url": "pic.twitter.com/qD9JI9o7LB",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460443025486671874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460442673345892400,
+					"id_str": "1460442673345892362",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FESI36eakAoyry7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FESI36eakAoyry7.jpg",
+					"url": "https://t.co/qD9JI9o7LB",
+					"display_url": "pic.twitter.com/qD9JI9o7LB",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460443025486671874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13320,
+			"friends_count": 13004,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can vote for Worldwide Fans' Choice TOP 10 by listening to the music of the artist you support on Apple Music's \"2021 MAMA - Worldwide Fans' Choice TOP 10 Playlist\"! Stream SF9's Tear Drop and vote on Apple Music!\n\n🍎https://t.co/w2f5wxUpMI\n\n#applemusic #kpopnews #mama2021 https://t.co/qD9JI9o7LB"
+	},
+	{
 		"created_at": "Tue Nov 16 03:11:16 +0000 2021",
 		"id": 1460436674240938000,
 		"id_str": "1460445337534017539",
