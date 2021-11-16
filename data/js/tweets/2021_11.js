@@ -1,6 +1,1418 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 03:11:16 +0000 2021",
+		"id": 1460436674240938000,
+		"id_str": "1460445337534017539",
+		"full_text": "오늘(11/16화)은 촬영대관으로 약 오후 2시 이후 오픈합니다! 🙏\n-\n#공상온도 #공상온도일정 @공상온도 https://t.co/NmQnA77NHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공상온도",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "공상온도일정",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NmQnA77NHJ",
+					"expanded_url": "https://www.instagram.com/p/CWUfkXvPC2c/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CWUfkXvPC2c/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 383,
+			"friends_count": 213,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘(11/16화)은 촬영대관으로 약 오후 2시 이후 오픈합니다! 🙏\n-\n#공상온도 #공상온도일정 @공상온도 https://t.co/NmQnA77NHJ"
+	},
+	{
+		"created_at": "Tue Nov 16 03:05:55 +0000 2021",
+		"id": 1460443990910775300,
+		"id_str": "1460443990910775296",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] Kohway - On My Way / Official Music Video\nhttps://t.co/bKG0S1AiGX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bKG0S1AiGX",
+					"expanded_url": "https://youtu.be/LeF6WJeGhio",
+					"display_url": "youtu.be/LeF6WJeGhio",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] Kohway - On My Way / Official Music Video\nhttps://t.co/bKG0S1AiGX"
+	},
+	{
+		"created_at": "Tue Nov 16 03:04:04 +0000 2021",
+		"id": 1460443524910960600,
+		"id_str": "1460443524910960641",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n두번째 별 - 그때우리 (feat. 진혁, 12月) [Music Video]\nhttps://t.co/b4pXhgYJPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b4pXhgYJPq",
+					"expanded_url": "https://youtu.be/OQ4T1CTL2W8",
+					"display_url": "youtu.be/OQ4T1CTL2W8",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n두번째 별 - 그때우리 (feat. 진혁, 12月) [Music Video]\nhttps://t.co/b4pXhgYJPq"
+	},
+	{
+		"created_at": "Tue Nov 16 02:30:21 +0000 2021",
+		"id": 1460432473850990600,
+		"id_str": "1460435039913664513",
+		"full_text": "CHOILB is now featured on the cover of 'TrenChill K-Hip Hop' on @Spotify Korea! Go Stream CHOILB's new album 'Independent Music' on Spotify and other platforms! \n\n#Spotifykr #choilb #independentmusic #최엘비 #독립음악 #khh https://t.co/8hwQuaXnmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Spotifykr",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "choilb",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "independentmusic",
+					"indices": [
+						182,
+						199
+					]
+				},
+				{
+					"text": "최엘비",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "독립음악",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "khh",
+					"indices": [
+						211,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460432464300904400,
+					"id_str": "1460432464300904452",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FER_lq0akAQt5w2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FER_lq0akAQt5w2.jpg",
+					"url": "https://t.co/8hwQuaXnmx",
+					"display_url": "pic.twitter.com/8hwQuaXnmx",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460432473850990594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460432464300904400,
+					"id_str": "1460432464300904452",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FER_lq0akAQt5w2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FER_lq0akAQt5w2.jpg",
+					"url": "https://t.co/8hwQuaXnmx",
+					"display_url": "pic.twitter.com/8hwQuaXnmx",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460432473850990594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13320,
+			"friends_count": 13004,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHOILB is now featured on the cover of 'TrenChill K-Hip Hop' on @Spotify Korea! Go Stream CHOILB's new album 'Independent Music' on Spotify and other platforms! \n\n#Spotifykr #choilb #independentmusic #최엘비 #독립음악 #khh https://t.co/8hwQuaXnmx"
+	},
+	{
+		"created_at": "Tue Nov 16 02:30:18 +0000 2021",
+		"id": 1460432441756110800,
+		"id_str": "1460435026844213250",
+		"full_text": "[VIDEO] [#인순이] #헬로트로트 \n\n[예고] 헬로트로트 2회 팀 지명전 MBN 211116 방송\n\n👉 https://t.co/f0E9tBiO3A\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "헬로트로트",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f0E9tBiO3A",
+					"expanded_url": "https://youtu.be/G1KVhqy9Phs",
+					"display_url": "youtu.be/G1KVhqy9Phs",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 2,
+			"listed_count": 3,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #헬로트로트 \n\n[예고] 헬로트로트 2회 팀 지명전 MBN 211116 방송\n\n👉 https://t.co/f0E9tBiO3A\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN"
+	},
+	{
+		"created_at": "Tue Nov 16 02:30:14 +0000 2021",
+		"id": 1460432399255277600,
+		"id_str": "1460435009517535237",
+		"full_text": "PARKJIHOON @Park_Jihoon_twt is featured on the cover of @tidal ‘s K-POP HITS playlist! Go Listen to PARKJIHOON's title track #Serious on TIDAL Now!!\n\n🎧 https://t.co/TC19Xb60Er\n\n#kpop #kpopidol #wannaone #parkjihoon #jihoonmay #serious https://t.co/bJsogvmHIt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Serious",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "kpopidol",
+					"indices": [
+						183,
+						192
+					]
+				},
+				{
+					"text": "wannaone",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "parkjihoon",
+					"indices": [
+						203,
+						214
+					]
+				},
+				{
+					"text": "jihoonmay",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "serious",
+					"indices": [
+						226,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						56,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TC19Xb60Er",
+					"expanded_url": "https://bit.ly/3wRbXwQ",
+					"display_url": "bit.ly/3wRbXwQ",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460432242921341000,
+					"id_str": "1460432242921340928",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FER_YyHagAAZFhL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FER_YyHagAAZFhL.jpg",
+					"url": "https://t.co/bJsogvmHIt",
+					"display_url": "pic.twitter.com/bJsogvmHIt",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460432399255277574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460432242921341000,
+					"id_str": "1460432242921340928",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FER_YyHagAAZFhL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FER_YyHagAAZFhL.jpg",
+					"url": "https://t.co/bJsogvmHIt",
+					"display_url": "pic.twitter.com/bJsogvmHIt",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1460432399255277574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13320,
+			"friends_count": 13004,
+			"listed_count": 231,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250703165588033537/wv6xoo2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PARKJIHOON @Park_Jihoon_twt is featured on the cover of @tidal ‘s K-POP HITS playlist! Go Listen to PARKJIHOON's title track #Serious on TIDAL Now!!\n\n🎧 https://t.co/TC19Xb60Er\n\n#kpop #kpopidol #wannaone #parkjihoon #jihoonmay #serious https://t.co/bJsogvmHIt"
+	},
+	{
+		"created_at": "Tue Nov 16 02:30:10 +0000 2021",
+		"id": 1460427981394890800,
+		"id_str": "1460434992220319745",
+		"full_text": "[NEWS] [투데이TV]'헬로트로트' 설운도→#인순이, 치열한 스카우트 전쟁 2차전 돌입\n\n👉 https://t.co/WsjwHEQBKH \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #헬로트로트 #MBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "헬로트로트",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						118,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WsjwHEQBKH",
+					"expanded_url": "http://naver.me/xrtUiNX9",
+					"display_url": "naver.me/xrtUiNX9",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 2,
+			"listed_count": 3,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] [투데이TV]'헬로트로트' 설운도→#인순이, 치열한 스카우트 전쟁 2차전 돌입\n\n👉 https://t.co/WsjwHEQBKH \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #헬로트로트 #MBN"
+	},
+	{
+		"created_at": "Tue Nov 16 02:30:00 +0000 2021",
+		"id": 1460427700644892700,
+		"id_str": "1460434950092644357",
+		"full_text": "[VIDEO] [#권혁수] #전효성의꿈꾸는라디오\n\n원조 앞에서 오또케송 부르는 이회장(feat. #효정 시범💛) #Shorts\n\n👉 https://t.co/j80OVhpwHt\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #MBC #꿈꾸라 #오마이걸",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "전효성의꿈꾸는라디오",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "꿈꾸라",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						144,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j80OVhpwHt",
+					"expanded_url": "https://www.youtube.com/watch?v=dj2wulAeMu4",
+					"display_url": "youtube.com/watch?v=dj2wul…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 2,
+			"listed_count": 3,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #전효성의꿈꾸는라디오\n\n원조 앞에서 오또케송 부르는 이회장(feat. #효정 시범💛) #Shorts\n\n👉 https://t.co/j80OVhpwHt\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #MBC #꿈꾸라 #오마이걸"
+	},
+	{
 		"created_at": "Tue Nov 16 01:29:31 +0000 2021",
 		"id": 1460417125097431000,
 		"id_str": "1460419727763853320",
