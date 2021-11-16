@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 11:29:41 +0000 2021",
+		"id": 1460563349205254100,
+		"id_str": "1460570765024272389",
+		"full_text": "[📽] [좋아하면 울림🔔] 드리밍이 뽑은 드리핀 착붙 컨셉 TOP 5🖐 | DRIPPIN\n\n▶ https://t.co/eu4jBWdmFI\n\n#DRIPPIN #드리핀 https://t.co/205Q0EdWNs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eu4jBWdmFI",
+					"expanded_url": "https://youtu.be/axrgRh1xwuo",
+					"display_url": "youtu.be/axrgRh1xwuo",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460563339478966300,
+					"id_str": "1460563339478966272",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FET2nm2aIAA8qBZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FET2nm2aIAA8qBZ.jpg",
+					"url": "https://t.co/205Q0EdWNs",
+					"display_url": "pic.twitter.com/205Q0EdWNs",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1460563349205254144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460563339478966300,
+					"id_str": "1460563339478966272",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FET2nm2aIAA8qBZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FET2nm2aIAA8qBZ.jpg",
+					"url": "https://t.co/205Q0EdWNs",
+					"display_url": "pic.twitter.com/205Q0EdWNs",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1460563349205254144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429551,
+			"friends_count": 11,
+			"listed_count": 1914,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1633683713",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 878,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] [좋아하면 울림🔔] 드리밍이 뽑은 드리핀 착붙 컨셉 TOP 5🖐 | DRIPPIN\n\n▶ https://t.co/eu4jBWdmFI\n\n#DRIPPIN #드리핀 https://t.co/205Q0EdWNs"
+	},
+	{
+		"created_at": "Tue Nov 16 11:29:34 +0000 2021",
+		"id": 1460563305202798600,
+		"id_str": "1460570735219462150",
+		"full_text": "[SURL | 싱글 [내 옆] 7인치 바이닐 발매]\n\nSURL(설)의 싱글 [내 옆]이 바이닐로 발매되었습니다. 11월 17일(수) 정오, MPMG MUSIC 스토어와 카페 리카르도에서 구매할 수 있습니다.\n\nMPMG MUSIC 스토어 구매 시, 선착순 96장은 사인반으로 배송됩니다.\n\n#SURL #설 #내옆 #Beside #Colors #바이닐 #LP https://t.co/o6dGoxFODV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SURL",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						167,
+						169
+					]
+				},
+				{
+					"text": "내옆",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "Beside",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "Colors",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "바이닐",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						195,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460555205108703200,
+					"id_str": "1460555205108703233",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FETvOH9aIAE4R6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETvOH9aIAE4R6p.jpg",
+					"url": "https://t.co/o6dGoxFODV",
+					"display_url": "pic.twitter.com/o6dGoxFODV",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1460563305202798599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460555205108703200,
+					"id_str": "1460555205108703233",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FETvOH9aIAE4R6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETvOH9aIAE4R6p.jpg",
+					"url": "https://t.co/o6dGoxFODV",
+					"display_url": "pic.twitter.com/o6dGoxFODV",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1460563305202798599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460555205117096000,
+					"id_str": "1460555205117095936",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FETvOH_aMAAB1G_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETvOH_aMAAB1G_.jpg",
+					"url": "https://t.co/o6dGoxFODV",
+					"display_url": "pic.twitter.com/o6dGoxFODV",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1460563305202798599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460555205112901600,
+					"id_str": "1460555205112901633",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FETvOH-aMAEAJ6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETvOH-aMAEAJ6I.jpg",
+					"url": "https://t.co/o6dGoxFODV",
+					"display_url": "pic.twitter.com/o6dGoxFODV",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1460563305202798599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12989,
+			"friends_count": 1937,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SURL | 싱글 [내 옆] 7인치 바이닐 발매]\n\nSURL(설)의 싱글 [내 옆]이 바이닐로 발매되었습니다. 11월 17일(수) 정오, MPMG MUSIC 스토어와 카페 리카르도에서 구매할 수 있습니다.\n\nMPMG MUSIC 스토어 구매 시, 선착순 96장은 사인반으로 배송됩니다.\n\n#SURL #설 #내옆 #Beside #Colors #바이닐 #LP https://t.co/o6dGoxFODV"
+	},
+	{
+		"created_at": "Tue Nov 16 11:29:24 +0000 2021",
+		"id": 1460563297460228000,
+		"id_str": "1460570696996855815",
+		"full_text": "[📽] [좋아하면 울림🔔] 골드니스가 뽑은 골든차일드 청량곡 TOP 5🖐 | Golden Child\n\n▶ https://t.co/Nc7Hn44ujq\n\n#GoldenChild #골든차일드 https://t.co/VdDbU2JhqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nc7Hn44ujq",
+					"expanded_url": "https://youtu.be/bEPM42puIbM",
+					"display_url": "youtu.be/bEPM42puIbM",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460544964631593000,
+					"id_str": "1460544964631592964",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FETl6DNaAAQg4y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETl6DNaAAQg4y6.jpg",
+					"url": "https://t.co/VdDbU2JhqT",
+					"display_url": "pic.twitter.com/VdDbU2JhqT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1460563297460228103/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460544964631593000,
+					"id_str": "1460544964631592964",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FETl6DNaAAQg4y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETl6DNaAAQg4y6.jpg",
+					"url": "https://t.co/VdDbU2JhqT",
+					"display_url": "pic.twitter.com/VdDbU2JhqT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1460563297460228103/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429551,
+			"friends_count": 11,
+			"listed_count": 1914,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1633683713",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 682,
+		"favorite_count": 1360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] [좋아하면 울림🔔] 골드니스가 뽑은 골든차일드 청량곡 TOP 5🖐 | Golden Child\n\n▶ https://t.co/Nc7Hn44ujq\n\n#GoldenChild #골든차일드 https://t.co/VdDbU2JhqT"
+	},
+	{
 		"created_at": "Tue Nov 16 11:07:14 +0000 2021",
 		"id": 1460565114873159700,
 		"id_str": "1460565114873159683",
