@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 13:58:14 +0000 2021",
+		"id": 1460969084087009300,
+		"id_str": "1460970539829407757",
+		"full_text": "슬케파 대선특집 선택2021! \n중간 결과를 엠넷 스타일로 발표합니다!\n\n현재 투표 2일차 3,4위 7,8위 순위는 아래와 같습니다! 당신의 한표가 파티의 무드를 바꾼다! 후보간의 차이가 크지 않으니 11월  22일 0시까지 많은 투표를 바랍니다! \n\n🗳 https://t.co/6r2Gk1vTRe https://t.co/QdUgjL8Ki9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6r2Gk1vTRe",
+					"expanded_url": "https://forms.gle/aLKNJn9ksU1J1qeXA",
+					"display_url": "forms.gle/aLKNJn9ksU1J1q…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460968329221648400,
+					"id_str": "1460968329221648385",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZm9HNaMAEQcI_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEZm9HNaMAEQcI_.png",
+					"url": "https://t.co/QdUgjL8Ki9",
+					"display_url": "pic.twitter.com/QdUgjL8Ki9",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1460969084087009280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460968329221648400,
+					"id_str": "1460968329221648385",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FEZm9HNaMAEQcI_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEZm9HNaMAEQcI_.png",
+					"url": "https://t.co/QdUgjL8Ki9",
+					"display_url": "pic.twitter.com/QdUgjL8Ki9",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1460969084087009280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460258253464477700,
+		"in_reply_to_status_id_str": "1460258253464477698",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7740,
+			"friends_count": 39,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬케파 대선특집 선택2021! \n중간 결과를 엠넷 스타일로 발표합니다!\n\n현재 투표 2일차 3,4위 7,8위 순위는 아래와 같습니다! 당신의 한표가 파티의 무드를 바꾼다! 후보간의 차이가 크지 않으니 11월  22일 0시까지 많은 투표를 바랍니다! \n\n🗳 https://t.co/6r2Gk1vTRe https://t.co/QdUgjL8Ki9"
+	},
+	{
 		"created_at": "Wed Nov 17 11:29:51 +0000 2021",
 		"id": 1460926404812427300,
 		"id_str": "1460933196720263170",
