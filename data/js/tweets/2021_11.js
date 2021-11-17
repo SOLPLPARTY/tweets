@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 07:29:46 +0000 2021",
+		"id": 1460866608314806300,
+		"id_str": "1460872777678962690",
+		"full_text": "최유리의 마리끌레르 11월호 B컷을 공개합니다😊 B컷 전체는 쇼파르 공식 네이버 포스트에서, 최유리의 인터뷰 전문은 마리끌레르 11월호 및 웹사이트에서 만나보실 수 있습니다.\n⠀\n▷ https://t.co/WC4CU4rZdK\n\n#최유리 #마리끌레르\n#choiyuree #marieclaire #b컷 https://t.co/cxcke5uv8E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "choiyuree",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "marieclaire",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "b컷",
+					"indices": [
+						163,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WC4CU4rZdK",
+					"expanded_url": "http://naver.me/5NLTClBA",
+					"display_url": "naver.me/5NLTClBA",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460866458247123000,
+					"id_str": "1460866458247122944",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYKTcQaUAA10dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYKTcQaUAA10dV.jpg",
+					"url": "https://t.co/cxcke5uv8E",
+					"display_url": "pic.twitter.com/cxcke5uv8E",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1460866608314806274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 948,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460866458247123000,
+					"id_str": "1460866458247122944",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYKTcQaUAA10dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYKTcQaUAA10dV.jpg",
+					"url": "https://t.co/cxcke5uv8E",
+					"display_url": "pic.twitter.com/cxcke5uv8E",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1460866608314806274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 948,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7763,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1636423956",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최유리의 마리끌레르 11월호 B컷을 공개합니다😊 B컷 전체는 쇼파르 공식 네이버 포스트에서, 최유리의 인터뷰 전문은 마리끌레르 11월호 및 웹사이트에서 만나보실 수 있습니다.\n⠀\n▷ https://t.co/WC4CU4rZdK\n\n#최유리 #마리끌레르\n#choiyuree #marieclaire #b컷 https://t.co/cxcke5uv8E"
+	},
+	{
+		"created_at": "Wed Nov 17 07:29:41 +0000 2021",
+		"id": 1460863856209633300,
+		"id_str": "1460872756216664064",
+		"full_text": "오름 레이블 공연 와주신 모든 분들 또 오시진 못했지만 항상 응원해 주시는 분들 감사합니다! \n올해 마지막까지 열심히 하고 내년엔 더 힘차게 뛰어 볼게요! 🙏🙏💕💕💕💕\n\n#9와숫자들 #검은잎들 #홍크 https://t.co/rfnk7uDXbi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "검은잎들",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "홍크",
+					"indices": [
+						108,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460863844361060400,
+					"id_str": "1460863844361060353",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYH7SxaQAEkAel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYH7SxaQAEkAel.jpg",
+					"url": "https://t.co/rfnk7uDXbi",
+					"display_url": "pic.twitter.com/rfnk7uDXbi",
+					"expanded_url": "https://twitter.com/orm_ent/status/1460863856209633290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460863844361060400,
+					"id_str": "1460863844361060353",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYH7SxaQAEkAel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYH7SxaQAEkAel.jpg",
+					"url": "https://t.co/rfnk7uDXbi",
+					"display_url": "pic.twitter.com/rfnk7uDXbi",
+					"expanded_url": "https://twitter.com/orm_ent/status/1460863856209633290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460863844356857900,
+					"id_str": "1460863844356857856",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYH7SwaIAAQEyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYH7SwaIAAQEyn.jpg",
+					"url": "https://t.co/rfnk7uDXbi",
+					"display_url": "pic.twitter.com/rfnk7uDXbi",
+					"expanded_url": "https://twitter.com/orm_ent/status/1460863856209633290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460863844998615000,
+					"id_str": "1460863844998615040",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYH7VJakAAy7rH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYH7VJakAAy7rH.jpg",
+					"url": "https://t.co/rfnk7uDXbi",
+					"display_url": "pic.twitter.com/rfnk7uDXbi",
+					"expanded_url": "https://twitter.com/orm_ent/status/1460863856209633290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460863844994396200,
+					"id_str": "1460863844994396162",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYH7VIaMAIaQiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYH7VIaMAIaQiG.jpg",
+					"url": "https://t.co/rfnk7uDXbi",
+					"display_url": "pic.twitter.com/rfnk7uDXbi",
+					"expanded_url": "https://twitter.com/orm_ent/status/1460863856209633290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1633404326",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오름 레이블 공연 와주신 모든 분들 또 오시진 못했지만 항상 응원해 주시는 분들 감사합니다! \n올해 마지막까지 열심히 하고 내년엔 더 힘차게 뛰어 볼게요! 🙏🙏💕💕💕💕\n\n#9와숫자들 #검은잎들 #홍크 https://t.co/rfnk7uDXbi"
+	},
+	{
 		"created_at": "Wed Nov 17 06:29:34 +0000 2021",
 		"id": 1460855538531520500,
 		"id_str": "1460857626124853250",
