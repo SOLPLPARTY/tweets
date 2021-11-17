@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 04:29:24 +0000 2021",
+		"id": 1460818069194895400,
+		"id_str": "1460827388011548673",
+		"full_text": "#bobae \n\nbobae - GROW UP MV\nhttps://t.co/nkoFivao28\n\n#GROWUP https://t.co/Rb5br4RXJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bobae",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "GROWUP",
+					"indices": [
+						53,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nkoFivao28",
+					"expanded_url": "https://youtu.be/WtzeRCKR2-U",
+					"display_url": "youtu.be/WtzeRCKR2-U",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460817922470072300,
+					"id_str": "1460817922470072322",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460817922470072322/pu/img/UV53Tn0aFihU81cm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460817922470072322/pu/img/UV53Tn0aFihU81cm.jpg",
+					"url": "https://t.co/Rb5br4RXJB",
+					"display_url": "pic.twitter.com/Rb5br4RXJB",
+					"expanded_url": "https://twitter.com/inplanet/status/1460818069194895362/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460817922470072300,
+					"id_str": "1460817922470072322",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460817922470072322/pu/img/UV53Tn0aFihU81cm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460817922470072322/pu/img/UV53Tn0aFihU81cm.jpg",
+					"url": "https://t.co/Rb5br4RXJB",
+					"display_url": "pic.twitter.com/Rb5br4RXJB",
+					"expanded_url": "https://twitter.com/inplanet/status/1460818069194895362/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55741,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460817922470072322/pu/vid/1280x720/znBGj5L228pl5IFK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460817922470072322/pu/pl/qAlE7mhE67_D03e9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460817922470072322/pu/vid/640x360/MV0QAwJ0xBIL5wqG.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460817922470072322/pu/vid/480x270/wNr_16QRqc_PT3Xu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 774,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#bobae \n\nbobae - GROW UP MV\nhttps://t.co/nkoFivao28\n\n#GROWUP https://t.co/Rb5br4RXJB"
+	},
+	{
 		"created_at": "Wed Nov 17 04:11:54 +0000 2021",
 		"id": 1460817149069463600,
 		"id_str": "1460822982218158086",
