@@ -1,6 +1,1094 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 10:29:50 +0000 2021",
+		"id": 1460916627466186800,
+		"id_str": "1460918092712849410",
+		"full_text": "#우주왕복선싸이드미러 #우싸미 #페스티벌 #공연 #라이브 #live #festival #문화가있는날 #매달마지막주간 #청춘마이크 #페스티벌 #위로 #청년예술가 #지역문화진흥원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "우싸미",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "festival",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"text": "문화가있는날",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "매달마지막주간",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "청춘마이크",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "위로",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "청년예술가",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "지역문화진흥원",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460916626149150700,
+		"in_reply_to_status_id_str": "1460916626149150720",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#우주왕복선싸이드미러 #우싸미 #페스티벌 #공연 #라이브 #live #festival #문화가있는날 #매달마지막주간 #청춘마이크 #페스티벌 #위로 #청년예술가 #지역문화진흥원"
+	},
+	{
+		"created_at": "Wed Nov 17 10:29:45 +0000 2021",
+		"id": 1460916626149150700,
+		"id_str": "1460918071288336388",
+		"full_text": "🔹일시 : 2021년 11월 20일 토요일 오전 11시 - 오후 6시\n(우주왕복선싸이드미러는 오후 1시에 출연합니다.)\n🔹장소 : 반포 한강공원 세빛섬 예빛무대 (서울특별시 서초구 올림픽대로 2085-14 반포동))",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460916623687123000,
+		"in_reply_to_status_id_str": "1460916623687122944",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🔹일시 : 2021년 11월 20일 토요일 오전 11시 - 오후 6시\n(우주왕복선싸이드미러는 오후 1시에 출연합니다.)\n🔹장소 : 반포 한강공원 세빛섬 예빛무대 (서울특별시 서초구 올림픽대로 2085-14 반포동))"
+	},
+	{
+		"created_at": "Wed Nov 17 10:29:40 +0000 2021",
+		"id": 1460916623687123000,
+		"id_str": "1460918049750589442",
+		"full_text": "🔹예매 : 네이버 예약 (https://t.co/O2ocZYpPqe)\n사전예약자에 한해 참여 가능하다고 하니, 함께하고자 하시는 분들은 링크를 통해 꼭 사전예약 신청 해 주세요! https://t.co/HAGBql0FFp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O2ocZYpPqe",
+					"expanded_url": "https://bit.ly/3nopFVd",
+					"display_url": "bit.ly/3nopFVd",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460916469639037000,
+					"id_str": "1460916469639036933",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3yfNaQAU6idC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3yfNaQAU6idC.png",
+					"url": "https://t.co/HAGBql0FFp",
+					"display_url": "pic.twitter.com/HAGBql0FFp",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916623687122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460916469639037000,
+					"id_str": "1460916469639036933",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3yfNaQAU6idC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3yfNaQAU6idC.png",
+					"url": "https://t.co/HAGBql0FFp",
+					"display_url": "pic.twitter.com/HAGBql0FFp",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916623687122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1460916469710352400,
+					"id_str": "1460916469710352389",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3yfeacAUjfLJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3yfeacAUjfLJ.png",
+					"url": "https://t.co/HAGBql0FFp",
+					"display_url": "pic.twitter.com/HAGBql0FFp",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916623687122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460916469764870100,
+					"id_str": "1460916469764870144",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3yfraUAArVoo.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3yfraUAArVoo.png",
+					"url": "https://t.co/HAGBql0FFp",
+					"display_url": "pic.twitter.com/HAGBql0FFp",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916623687122944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460916618494574600,
+		"in_reply_to_status_id_str": "1460916618494574598",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔹예매 : 네이버 예약 (https://t.co/O2ocZYpPqe)\n사전예약자에 한해 참여 가능하다고 하니, 함께하고자 하시는 분들은 링크를 통해 꼭 사전예약 신청 해 주세요! https://t.co/HAGBql0FFp"
+	},
+	{
+		"created_at": "Wed Nov 17 10:29:34 +0000 2021",
+		"id": 1460916618494574600,
+		"id_str": "1460918024052129797",
+		"full_text": "[#우주왕복선싸이드미러] &lt;2021 청춘마이크 페스티벌 - 청춘! 빛나는 무대 위로&gt;\n\n밴드부터 전통예술, 댄스 등 다양한 장르를 대표하는 청년예술가들이 함께하는 &lt;2021 청춘마이크 페스티벌&gt;에 우주왕복선싸이드미러가 함께합니다‼️ https://t.co/7monMJVxeh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460916426815185000,
+					"id_str": "1460916426815184896",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3v_raIAA9min.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3v_raIAA9min.png",
+					"url": "https://t.co/7monMJVxeh",
+					"display_url": "pic.twitter.com/7monMJVxeh",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916618494574598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460916426815185000,
+					"id_str": "1460916426815184896",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3v_raIAA9min.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3v_raIAA9min.png",
+					"url": "https://t.co/7monMJVxeh",
+					"display_url": "pic.twitter.com/7monMJVxeh",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916618494574598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1460916426819387400,
+					"id_str": "1460916426819387392",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3v_saQAACDSf.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3v_saQAACDSf.png",
+					"url": "https://t.co/7monMJVxeh",
+					"display_url": "pic.twitter.com/7monMJVxeh",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916618494574598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460916426811003000,
+					"id_str": "1460916426811002884",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3v_qaUAQHSbY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3v_qaUAQHSbY.png",
+					"url": "https://t.co/7monMJVxeh",
+					"display_url": "pic.twitter.com/7monMJVxeh",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916618494574598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1460916426811003000,
+					"id_str": "1460916426811002886",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FEY3v_qaUAYmGUO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEY3v_qaUAYmGUO.png",
+					"url": "https://t.co/7monMJVxeh",
+					"display_url": "pic.twitter.com/7monMJVxeh",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1460916618494574598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#우주왕복선싸이드미러] &lt;2021 청춘마이크 페스티벌 - 청춘! 빛나는 무대 위로&gt;\n\n밴드부터 전통예술, 댄스 등 다양한 장르를 대표하는 청년예술가들이 함께하는 &lt;2021 청춘마이크 페스티벌&gt;에 우주왕복선싸이드미러가 함께합니다‼️ https://t.co/7monMJVxeh"
+	},
+	{
+		"created_at": "Wed Nov 17 10:29:29 +0000 2021",
+		"id": 1460911132240007200,
+		"id_str": "1460918002564665350",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n라운딩 내내 공 찾느라 바쁜 과녁수와\n작정하고 레슨받는 빈채로\n어느새 대결은 저 멀리로...\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/1F6J4pw1Jb\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #윤채경 #김태림 https://t.co/W0L8FfYXf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						71,
+						85
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "윤채경",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "김태림",
+					"indices": [
+						171,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1F6J4pw1Jb",
+					"expanded_url": "https://youtu.be/g-e4bu4FESM",
+					"display_url": "youtu.be/g-e4bu4FESM",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460908077482676200,
+					"id_str": "1460908077482676225",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYwJ__akAEfehA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYwJ__akAEfehA.jpg",
+					"url": "https://t.co/W0L8FfYXf3",
+					"display_url": "pic.twitter.com/W0L8FfYXf3",
+					"expanded_url": "https://twitter.com/humap_official/status/1460911132240007172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460908077482676200,
+					"id_str": "1460908077482676225",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYwJ__akAEfehA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYwJ__akAEfehA.jpg",
+					"url": "https://t.co/W0L8FfYXf3",
+					"display_url": "pic.twitter.com/W0L8FfYXf3",
+					"expanded_url": "https://twitter.com/humap_official/status/1460911132240007172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n라운딩 내내 공 찾느라 바쁜 과녁수와\n작정하고 레슨받는 빈채로\n어느새 대결은 저 멀리로...\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/1F6J4pw1Jb\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #윤채경 #김태림 https://t.co/W0L8FfYXf3"
+	},
+	{
 		"created_at": "Wed Nov 17 10:12:28 +0000 2021",
 		"id": 1460913723204329500,
 		"id_str": "1460913723204329477",
