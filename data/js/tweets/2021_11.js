@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 11:29:51 +0000 2021",
+		"id": 1460926404812427300,
+		"id_str": "1460933196720263170",
+		"full_text": "* M/V는 11월 26일(금)에 공개됩니다.\n\n#안테나 #Antenna #SamKim #Jukjae #KwonJinAh #Closer\n#2021서울유엔평화유지장관회의 #2021SeoulUNPeacekeepingMinisterial\n#UN #세계평화",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안테나",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"text": "Closer",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "2021서울유엔평화유지장관회의",
+					"indices": [
+						76,
+						93
+					]
+				},
+				{
+					"text": "2021SeoulUNPeacekeepingMinisterial",
+					"indices": [
+						94,
+						129
+					]
+				},
+				{
+					"text": "UN",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "세계평화",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460926400794284000,
+		"in_reply_to_status_id_str": "1460926400794284033",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38681,
+			"friends_count": 10,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* M/V는 11월 26일(금)에 공개됩니다.\n\n#안테나 #Antenna #SamKim #Jukjae #KwonJinAh #Closer\n#2021서울유엔평화유지장관회의 #2021SeoulUNPeacekeepingMinisterial\n#UN #세계평화"
+	},
+	{
+		"created_at": "Wed Nov 17 11:29:43 +0000 2021",
+		"id": 1460926400794284000,
+		"id_str": "1460933162700357639",
+		"full_text": "[#Video] #샘김 #적재 #권진아 \n\n2021 서울 유엔 평화유지 장관회의 테마송\n샘김, 적재, 권진아 'Closer'\n\n2021 Seoul UN Peacekeeping Ministerial Theme Song\nSam Kim, Jukjae, Kwon Jin Ah 'Closer'\n\n🕊 M/V Teaser\nhttps://t.co/hSsYQMYBbP https://t.co/9WtSQzOwOS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hSsYQMYBbP",
+					"expanded_url": "https://youtu.be/ZIO6QV_ro90",
+					"display_url": "youtu.be/ZIO6QV_ro90",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460926083893985300,
+					"id_str": "1460926083893985281",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460926083893985281/pu/img/tKD_H5bptB-TTstf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460926083893985281/pu/img/tKD_H5bptB-TTstf.jpg",
+					"url": "https://t.co/9WtSQzOwOS",
+					"display_url": "pic.twitter.com/9WtSQzOwOS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460926400794284033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460926083893985300,
+					"id_str": "1460926083893985281",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460926083893985281/pu/img/tKD_H5bptB-TTstf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460926083893985281/pu/img/tKD_H5bptB-TTstf.jpg",
+					"url": "https://t.co/9WtSQzOwOS",
+					"display_url": "pic.twitter.com/9WtSQzOwOS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1460926400794284033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54869,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460926083893985281/pu/vid/480x270/7VeiaiisCdkZPljB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1460926083893985281/pu/pl/klMtMONa1TpXNwoY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460926083893985281/pu/vid/1280x720/SF4H8K1TItS7U0Yq.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1460926083893985281/pu/vid/640x360/xvtMc1wUaHtxYrrj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38681,
+			"friends_count": 10,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #샘김 #적재 #권진아 \n\n2021 서울 유엔 평화유지 장관회의 테마송\n샘김, 적재, 권진아 'Closer'\n\n2021 Seoul UN Peacekeeping Ministerial Theme Song\nSam Kim, Jukjae, Kwon Jin Ah 'Closer'\n\n🕊 M/V Teaser\nhttps://t.co/hSsYQMYBbP https://t.co/9WtSQzOwOS"
+	},
+	{
+		"created_at": "Wed Nov 17 11:29:41 +0000 2021",
+		"id": 1460922958432465000,
+		"id_str": "1460933153795751946",
+		"full_text": "#너드커넥션 #너컨 #NerdConnection #네이버나우 #네이버NOW #라이브 #야간작업실 #야간합주실 #합주 #노래커버 #적재 #본암 #준현 #승호 #밴드 #band #live",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "NerdConnection",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "야간작업실",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "야간합주실",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "합주",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "노래커버",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "본암",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "준현",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "승호",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "밴드",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "band",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460922956796760000,
+		"in_reply_to_status_id_str": "1460922956796760071",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#너드커넥션 #너컨 #NerdConnection #네이버나우 #네이버NOW #라이브 #야간작업실 #야간합주실 #합주 #노래커버 #적재 #본암 #준현 #승호 #밴드 #band #live"
+	},
+	{
+		"created_at": "Wed Nov 17 11:29:33 +0000 2021",
+		"id": 1460922956796760000,
+		"id_str": "1460933119662563330",
+		"full_text": "💙 네이버 NOW. 홈페이지 : https://t.co/GOj7iK31EG\n💙 문자번호 #7117 (정보이용료 100원)로 말머리 [야간작업실]을 달아 너드커넥션에게 하고 싶은 말을 보내주세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOj7iK31EG",
+					"expanded_url": "https://now.naver.com/player/614",
+					"display_url": "now.naver.com/player/614",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460922953596432400,
+		"in_reply_to_status_id_str": "1460922953596432386",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙 네이버 NOW. 홈페이지 : https://t.co/GOj7iK31EG\n💙 문자번호 #7117 (정보이용료 100원)로 말머리 [야간작업실]을 달아 너드커넥션에게 하고 싶은 말을 보내주세요!"
+	},
+	{
 		"created_at": "Wed Nov 17 10:29:50 +0000 2021",
 		"id": 1460916627466186800,
 		"id_str": "1460918092712849410",
