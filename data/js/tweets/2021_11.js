@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 06:29:24 +0000 2021",
+		"id": 1461207967802413000,
+		"id_str": "1461219975402864643",
+		"full_text": "[#국카스텐] 발매 소식👋 https://t.co/4pCwKDM139",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국카스텐",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4pCwKDM139",
+					"expanded_url": "https://twitter.com/guckkastens/status/1460796240778514436",
+					"display_url": "twitter.com/guckkastens/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1867,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1460796240778514400,
+		"quoted_status_id_str": "1460796240778514436",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4pCwKDM139",
+			"expanded": "https://twitter.com/guckkastens/status/1460796240778514436",
+			"display": "twitter.com/guckkastens/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 17 02:25:38 +0000 2021",
+			"id": 1460796240778514400,
+			"id_str": "1460796240778514436",
+			"full_text": "깃털 (Dolby Atmos Ver.)\n11월 18일 오후 6시 공개\n\n* 애플뮤직의 경우 음원 서비스 오픈 일시의 변동 가능성 있습니다.\n\n#국카스텐 #guckkasten #하현우 #전규호 #이정길 #김기범 #돌비애트모스 #깃털 #DolbyAtmos #feather #바이브 #애플뮤직 https://t.co/VLOTDwWlYh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "국카스텐",
+						"indices": [
+							79,
+							84
+						]
+					},
+					{
+						"text": "guckkasten",
+						"indices": [
+							85,
+							96
+						]
+					},
+					{
+						"text": "하현우",
+						"indices": [
+							97,
+							101
+						]
+					},
+					{
+						"text": "전규호",
+						"indices": [
+							102,
+							106
+						]
+					},
+					{
+						"text": "이정길",
+						"indices": [
+							107,
+							111
+						]
+					},
+					{
+						"text": "김기범",
+						"indices": [
+							112,
+							116
+						]
+					},
+					{
+						"text": "돌비애트모스",
+						"indices": [
+							117,
+							124
+						]
+					},
+					{
+						"text": "깃털",
+						"indices": [
+							125,
+							128
+						]
+					},
+					{
+						"text": "DolbyAtmos",
+						"indices": [
+							129,
+							140
+						]
+					},
+					{
+						"text": "feather",
+						"indices": [
+							141,
+							149
+						]
+					},
+					{
+						"text": "바이브",
+						"indices": [
+							150,
+							154
+						]
+					},
+					{
+						"text": "애플뮤직",
+						"indices": [
+							155,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1460796229143888000,
+						"id_str": "1460796229143887874",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/FEXKbkdaAAIQ8Tw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEXKbkdaAAIQ8Tw.jpg",
+						"url": "https://t.co/VLOTDwWlYh",
+						"display_url": "pic.twitter.com/VLOTDwWlYh",
+						"expanded_url": "https://twitter.com/Guckkastens/status/1460796240778514436/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1460796229143888000,
+						"id_str": "1460796229143887874",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/FEXKbkdaAAIQ8Tw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEXKbkdaAAIQ8Tw.jpg",
+						"url": "https://t.co/VLOTDwWlYh",
+						"display_url": "pic.twitter.com/VLOTDwWlYh",
+						"expanded_url": "https://twitter.com/Guckkastens/status/1460796240778514436/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 361966230,
+				"id_str": "361966230",
+				"name": "국카스텐(Guckkasten)",
+				"screen_name": "Guckkastens",
+				"location": "Republic of Korea",
+				"description": "국카스텐(Guckkasten)의 공식 트위터입니다. 출연섭외 문의 : 02-6004-6864",
+				"url": "https://t.co/Dtc2pFBRHW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dtc2pFBRHW",
+								"expanded_url": "http://guckkasten.kr",
+								"display_url": "guckkasten.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36113,
+				"friends_count": 10813,
+				"listed_count": 294,
+				"created_at": "Thu Aug 25 16:41:05 +0000 2011",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2556,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097703828802007040/7U4Dh9rD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097703828802007040/7U4Dh9rD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/361966230/1550547963",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 203,
+			"favorite_count": 310,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 20,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#국카스텐] 발매 소식👋 https://t.co/4pCwKDM139"
+	},
+	{
 		"created_at": "Thu Nov 18 05:29:36 +0000 2021",
 		"id": 1461196743408717800,
 		"id_str": "1461204924163833858",
