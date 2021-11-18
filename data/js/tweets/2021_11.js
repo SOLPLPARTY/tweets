@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 12:29:24 +0000 2021",
+		"id": 1461304169302683600,
+		"id_str": "1461310572046204934",
+		"full_text": "[#AD] #샘김\n\n샘김이 가창에 참여한 '[NEXO] 콧구멍의 탄생' 영상이 공개되었습니다👀\n\n🔗https://t.co/7gRiisEMYv\n\n@LeegitItsSam \n#SamKim\n#넥쏘 #NEXO #어바웃현대 #현대자동차 #현대차 https://t.co/D7mcgZwvor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AD",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "넥쏘",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "NEXO",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "어바웃현대",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "현대자동차",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "현대차",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						80,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7gRiisEMYv",
+					"expanded_url": "https://youtu.be/DSIeOIEuEl0",
+					"display_url": "youtu.be/DSIeOIEuEl0",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461303362209874000,
+					"id_str": "1461303362209873926",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461303362209873926/pu/img/OuyWW-WQgHbTIUlI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461303362209873926/pu/img/OuyWW-WQgHbTIUlI.jpg",
+					"url": "https://t.co/D7mcgZwvor",
+					"display_url": "pic.twitter.com/D7mcgZwvor",
+					"expanded_url": "https://twitter.com/antennamusic/status/1461304169302683648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461303362209874000,
+					"id_str": "1461303362209873926",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461303362209873926/pu/img/OuyWW-WQgHbTIUlI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461303362209873926/pu/img/OuyWW-WQgHbTIUlI.jpg",
+					"url": "https://t.co/D7mcgZwvor",
+					"display_url": "pic.twitter.com/D7mcgZwvor",
+					"expanded_url": "https://twitter.com/antennamusic/status/1461304169302683648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1461303362209873926/pu/pl/2fK5mK3Lbg-Hurgw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461303362209873926/pu/vid/480x270/6nD79ReqW8B_wG_h.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461303362209873926/pu/vid/640x360/ed47-7mq3juBmhji.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461303362209873926/pu/vid/1280x720/u_oCQzn_kCaJhgCd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38848,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#AD] #샘김\n\n샘김이 가창에 참여한 '[NEXO] 콧구멍의 탄생' 영상이 공개되었습니다👀\n\n🔗https://t.co/7gRiisEMYv\n\n@LeegitItsSam \n#SamKim\n#넥쏘 #NEXO #어바웃현대 #현대자동차 #현대차 https://t.co/D7mcgZwvor"
+	},
+	{
 		"created_at": "Thu Nov 18 10:29:26 +0000 2021",
 		"id": 1461271989440565200,
 		"id_str": "1461280381920071683",
