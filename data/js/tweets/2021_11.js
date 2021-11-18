@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 03:14:42 +0000 2021",
+		"id": 1461170973714137000,
+		"id_str": "1461170973714137096",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\nUntell (언텔) - 'Wake up (feat. DJ Wegun)' MV\nhttps://t.co/kYQLrXxOP4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kYQLrXxOP4",
+					"expanded_url": "https://youtu.be/zcy40g-kZxc",
+					"display_url": "youtu.be/zcy40g-kZxc",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\nUntell (언텔) - 'Wake up (feat. DJ Wegun)' MV\nhttps://t.co/kYQLrXxOP4"
+	},
+	{
+		"created_at": "Thu Nov 18 02:29:32 +0000 2021",
+		"id": 1461157125011370000,
+		"id_str": "1461159607569637378",
+		"full_text": "[2021 서울인디뮤직페스타] 공식 포스터 공개‼️\n\n국내 인디 레이블과 뮤지션을 소개하는 타운형 뮤직페스티벌 '서울인디뮤직페스타'가 올해도 찾아옵니다.\n\n다양한 마켓과 무대에 많은 관심 부탁드립니다.\n\n​◇ 행사일정 : 2021. 11. 27(토)~28(일) 양일간 \n◇ ​행사장소 : 서울생활문화센터 서교 https://t.co/Aoq4QXUDvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461157093634117600,
+					"id_str": "1461157093634117632",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcSopcakAAP6PA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcSopcakAAP6PA.jpg",
+					"url": "https://t.co/Aoq4QXUDvh",
+					"display_url": "pic.twitter.com/Aoq4QXUDvh",
+					"expanded_url": "https://twitter.com/record_liak/status/1461157125011369991/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 905,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461157093634117600,
+					"id_str": "1461157093634117632",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcSopcakAAP6PA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcSopcakAAP6PA.jpg",
+					"url": "https://t.co/Aoq4QXUDvh",
+					"display_url": "pic.twitter.com/Aoq4QXUDvh",
+					"expanded_url": "https://twitter.com/record_liak/status/1461157125011369991/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 905,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2018,
+			"friends_count": 1987,
+			"listed_count": 35,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2021 서울인디뮤직페스타] 공식 포스터 공개‼️\n\n국내 인디 레이블과 뮤지션을 소개하는 타운형 뮤직페스티벌 '서울인디뮤직페스타'가 올해도 찾아옵니다.\n\n다양한 마켓과 무대에 많은 관심 부탁드립니다.\n\n​◇ 행사일정 : 2021. 11. 27(토)~28(일) 양일간 \n◇ ​행사장소 : 서울생활문화센터 서교 https://t.co/Aoq4QXUDvh"
+	},
+	{
+		"created_at": "Thu Nov 18 02:29:25 +0000 2021",
+		"id": 1461147051811426300,
+		"id_str": "1461159577727156226",
+		"full_text": "Preview photos of CHOI SIWON's drama ‘술꾼도시여자들’ have been revealed, hinting an intense story towards the end with his sorrowful expression and beardless visual!\n\n#최시원 #CHOISIWON \n#시원 #SIWON \n#슈퍼주니어 #SUPERJUNIOR\n#술꾼도시여자들 https://t.co/s7wMHrhsBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최시원",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "시원",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "SIWON",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"text": "술꾼도시여자들",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461143733454672000,
+					"id_str": "1461143733454671874",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcGe-5akAIpoxo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcGe-5akAIpoxo.jpg",
+					"url": "https://t.co/s7wMHrhsBq",
+					"display_url": "pic.twitter.com/s7wMHrhsBq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1461147051811426306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461143733454672000,
+					"id_str": "1461143733454671874",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcGe-5akAIpoxo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcGe-5akAIpoxo.jpg",
+					"url": "https://t.co/s7wMHrhsBq",
+					"display_url": "pic.twitter.com/s7wMHrhsBq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1461147051811426306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461143733458829300,
+					"id_str": "1461143733458829314",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcGe-6aAAIXWw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcGe-6aAAIXWw2.jpg",
+					"url": "https://t.co/s7wMHrhsBq",
+					"display_url": "pic.twitter.com/s7wMHrhsBq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1461147051811426306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461143733450473500,
+					"id_str": "1461143733450473474",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FEcGe-4agAI5jLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEcGe-4agAI5jLo.jpg",
+					"url": "https://t.co/s7wMHrhsBq",
+					"display_url": "pic.twitter.com/s7wMHrhsBq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1461147051811426306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10215272,
+			"friends_count": 55,
+			"listed_count": 11201,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1185,
+		"favorite_count": 5083,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Preview photos of CHOI SIWON's drama ‘술꾼도시여자들’ have been revealed, hinting an intense story towards the end with his sorrowful expression and beardless visual!\n\n#최시원 #CHOISIWON \n#시원 #SIWON \n#슈퍼주니어 #SUPERJUNIOR\n#술꾼도시여자들 https://t.co/s7wMHrhsBq"
+	},
+	{
 		"created_at": "Thu Nov 18 02:11:24 +0000 2021",
 		"id": 1461144618439884800,
 		"id_str": "1461155047614656512",
