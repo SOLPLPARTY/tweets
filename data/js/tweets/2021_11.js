@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 03:29:30 +0000 2021",
+		"id": 1461167283221381000,
+		"id_str": "1461174698184785927",
+		"full_text": "혁오 이인우가 속한 프로듀서팀 outsocial이 오늘 저녁 6시 신곡을 공개합니다. 혁오 임동건이 작곡 및 기타로 참여하였습니다. https://t.co/Dgi86VXCL4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461156599909986300,
+					"id_str": "1461156599909986304",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461156599909986304/pu/img/DcvVwpsJlAaH5dfH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461156599909986304/pu/img/DcvVwpsJlAaH5dfH.jpg",
+					"url": "https://t.co/Dgi86VXCL4",
+					"display_url": "pic.twitter.com/Dgi86VXCL4",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461167283221381122/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461156599909986300,
+					"id_str": "1461156599909986304",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461156599909986304/pu/img/DcvVwpsJlAaH5dfH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461156599909986304/pu/img/DcvVwpsJlAaH5dfH.jpg",
+					"url": "https://t.co/Dgi86VXCL4",
+					"display_url": "pic.twitter.com/Dgi86VXCL4",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461167283221381122/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24524,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1461156599909986304/pu/pl/EcFWxI_xltLHDvru.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461156599909986304/pu/vid/640x360/kRiyGCHNj4VQ45st.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461156599909986304/pu/vid/480x270/PfdmAIFcFIheu0w8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461156599909986304/pu/vid/1280x720/MBEkxEyhZi2EYKEO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3967,
+			"friends_count": 9,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혁오 이인우가 속한 프로듀서팀 outsocial이 오늘 저녁 6시 신곡을 공개합니다. 혁오 임동건이 작곡 및 기타로 참여하였습니다. https://t.co/Dgi86VXCL4"
+	},
+	{
 		"created_at": "Thu Nov 18 03:14:42 +0000 2021",
 		"id": 1461170973714137000,
 		"id_str": "1461170973714137096",
@@ -145,7 +351,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Thu Nov 18 02:29:32 +0000 2021",
 		"id": 1461157125011370000,
 		"id_str": "1461159607569637378",
-		"full_text": "[2021 서울인디뮤직페스타] 공식 포스터 공개‼️\n\n국내 인디 레이블과 뮤지션을 소개하는 타운형 뮤직페스티벌 '서울인디뮤직페스타'가 올해도 찾아옵니다.\n\n다양한 마켓과 무대에 많은 관심 부탁드립니다.\n\n​◇ 행사일정 : 2021. 11. 27(토)~28(일) 양일간 \n◇ ​행사장소 : 서울생활문화센터 서교 https://t.co/Aoq4QXUDvh",
+		"full_text": "[2021 서울인디뮤직페스타] 공식 포스터 공개‼️\n\n국내 인디 레이블과 뮤지션을 소개하는 타운형 뮤직페스티벌 '서울인디뮤직페스타'가 올해도 찾아옵니다.\n\n다양한 마켓과 무대에 많은 관심 부탁드립니다.\n\n◇ 행사일정 : 2021. 11. 27(토)~28(일) 양일간 \n◇ 행사장소 : 서울생활문화센터 서교 https://t.co/Aoq4QXUDvh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -313,7 +519,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2021 서울인디뮤직페스타] 공식 포스터 공개‼️\n\n국내 인디 레이블과 뮤지션을 소개하는 타운형 뮤직페스티벌 '서울인디뮤직페스타'가 올해도 찾아옵니다.\n\n다양한 마켓과 무대에 많은 관심 부탁드립니다.\n\n​◇ 행사일정 : 2021. 11. 27(토)~28(일) 양일간 \n◇ ​행사장소 : 서울생활문화센터 서교 https://t.co/Aoq4QXUDvh"
+		"text": "[2021 서울인디뮤직페스타] 공식 포스터 공개‼️\n\n국내 인디 레이블과 뮤지션을 소개하는 타운형 뮤직페스티벌 '서울인디뮤직페스타'가 올해도 찾아옵니다.\n\n다양한 마켓과 무대에 많은 관심 부탁드립니다.\n\n◇ 행사일정 : 2021. 11. 27(토)~28(일) 양일간 \n◇ 행사장소 : 서울생활문화센터 서교 https://t.co/Aoq4QXUDvh"
 	},
 	{
 		"created_at": "Thu Nov 18 02:29:25 +0000 2021",
