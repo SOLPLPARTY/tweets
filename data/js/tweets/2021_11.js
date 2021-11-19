@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 06:29:28 +0000 2021",
+		"id": 1461570927188086800,
+		"id_str": "1461582380238524418",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n평가단인가요? #shorts #벤자민쇼츠\n\n👉 https://t.co/vIcPZzmGv1\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "벤자민쇼츠",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "소상공인",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vIcPZzmGv1",
+					"expanded_url": "https://youtu.be/9U0euly92vA",
+					"display_url": "youtu.be/9U0euly92vA",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n평가단인가요? #shorts #벤자민쇼츠\n\n👉 https://t.co/vIcPZzmGv1\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인"
+	},
+	{
 		"created_at": "Fri Nov 19 06:11:16 +0000 2021",
 		"id": 1461553535124791300,
 		"id_str": "1461577799454674944",
