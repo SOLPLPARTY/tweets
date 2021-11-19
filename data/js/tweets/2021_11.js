@@ -1,6 +1,1052 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 11:08:22 +0000 2021",
+		"id": 1461652567289643000,
+		"id_str": "1461652567289643011",
+		"full_text": "#딩고뮤직 #dingo_music\n조회수 100만 돌파🎉아도라(ADORA)&amp;은하 ❤️‍🔥MAKE U DANCE❤️‍🔥필름 촬영 비하인드ㅣ[띵곡가들]ㅣ딩고뮤직ㅣDingo Music\"\nhttps://t.co/hEktkze5o8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hEktkze5o8",
+					"expanded_url": "https://youtu.be/6Y7d3ua5oR8",
+					"display_url": "youtu.be/6Y7d3ua5oR8",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n조회수 100만 돌파🎉아도라(ADORA)&amp;은하 ❤️‍🔥MAKE U DANCE❤️‍🔥필름 촬영 비하인드ㅣ[띵곡가들]ㅣ딩고뮤직ㅣDingo Music\"\nhttps://t.co/hEktkze5o8"
+	},
+	{
+		"created_at": "Fri Nov 19 10:48:22 +0000 2021",
+		"id": 1461647531868311600,
+		"id_str": "1461647531868311557",
+		"full_text": "#딩고뮤직 #dingo_music\n[Lyric Video] 로꼬 (Loco) - Moonlightㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/Rns991vm8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rns991vm8h",
+					"expanded_url": "https://youtu.be/lB8c97aVztg",
+					"display_url": "youtu.be/lB8c97aVztg",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[Lyric Video] 로꼬 (Loco) - Moonlightㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/Rns991vm8h"
+	},
+	{
+		"created_at": "Fri Nov 19 10:29:37 +0000 2021",
+		"id": 1461635798420263000,
+		"id_str": "1461642813192478723",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n이기지도 못하고~ 백돌이 탈출도 못하고~\n그래도 또 하나의 백돌이 탄생❤\n본격 대한민국에서 제일 정신없는 골프 예능\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/6Nr0usdsFj\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #윤채경 #김태림 https://t.co/zS26xQofvB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						84,
+						98
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						160,
+						174
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "윤채경",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "김태림",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Nr0usdsFj",
+					"expanded_url": "https://youtu.be/bW-dZVWHSA0",
+					"display_url": "youtu.be/bW-dZVWHSA0",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461635791311224800,
+					"id_str": "1461635791311224835",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjGAhQaQAMpLiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjGAhQaQAMpLiH.jpg",
+					"url": "https://t.co/zS26xQofvB",
+					"display_url": "pic.twitter.com/zS26xQofvB",
+					"expanded_url": "https://twitter.com/humap_official/status/1461635798420262914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461635791311224800,
+					"id_str": "1461635791311224835",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjGAhQaQAMpLiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjGAhQaQAMpLiH.jpg",
+					"url": "https://t.co/zS26xQofvB",
+					"display_url": "pic.twitter.com/zS26xQofvB",
+					"expanded_url": "https://twitter.com/humap_official/status/1461635798420262914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n이기지도 못하고~ 백돌이 탈출도 못하고~\n그래도 또 하나의 백돌이 탄생❤\n본격 대한민국에서 제일 정신없는 골프 예능\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/6Nr0usdsFj\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #윤채경 #김태림 https://t.co/zS26xQofvB"
+	},
+	{
+		"created_at": "Fri Nov 19 10:29:34 +0000 2021",
+		"id": 1461635655901933600,
+		"id_str": "1461642799942668294",
+		"full_text": "9 Hoons - The moment we shine\n10 BADLAMB - Noon Moment https://t.co/8rtXNzawHh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461635612713578500,
+					"id_str": "1461635612713578496",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjF2H7acAA4Ph5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjF2H7acAA4Ph5.jpg",
+					"url": "https://t.co/8rtXNzawHh",
+					"display_url": "pic.twitter.com/8rtXNzawHh",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635655901933573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461635612713578500,
+					"id_str": "1461635612713578496",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjF2H7acAA4Ph5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjF2H7acAA4Ph5.jpg",
+					"url": "https://t.co/8rtXNzawHh",
+					"display_url": "pic.twitter.com/8rtXNzawHh",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635655901933573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461635612742942700,
+					"id_str": "1461635612742942720",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjF2ICagAAl9zR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjF2ICagAAl9zR.jpg",
+					"url": "https://t.co/8rtXNzawHh",
+					"display_url": "pic.twitter.com/8rtXNzawHh",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635655901933573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1461635645433004000,
+		"in_reply_to_status_id_str": "1461635645433004035",
+		"in_reply_to_user_id": 174146592,
+		"in_reply_to_user_id_str": "174146592",
+		"in_reply_to_screen_name": "FLUXUSMUSIC",
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13317,
+			"friends_count": 12662,
+			"listed_count": 232,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460520305458561024/B2-F4RdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460520305458561024/B2-F4RdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9 Hoons - The moment we shine\n10 BADLAMB - Noon Moment https://t.co/8rtXNzawHh"
+	},
+	{
+		"created_at": "Fri Nov 19 10:29:29 +0000 2021",
+		"id": 1461635645433004000,
+		"id_str": "1461642778400722948",
+		"full_text": "5 Huh Gak - THE M\n6 Electron Sheep @ElectronSheep - White socks\n7 ZAYSTIN - Still With You (feat. Horim)\n8 OVCOCO @ovcoco3 - CHECKERBOARD https://t.co/aXInUqaCZR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElectronSheep",
+					"name": "전자양",
+					"id": 3070177712,
+					"id_str": "3070177712",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "ovcoco3",
+					"name": "ovcoco 오브코코",
+					"id": 1152864502125232100,
+					"id_str": "1152864502125232128",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461635373105561600,
+					"id_str": "1461635373105561601",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjFoLUaQAEa29G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjFoLUaQAEa29G.jpg",
+					"url": "https://t.co/aXInUqaCZR",
+					"display_url": "pic.twitter.com/aXInUqaCZR",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635645433004035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461635373105561600,
+					"id_str": "1461635373105561601",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjFoLUaQAEa29G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjFoLUaQAEa29G.jpg",
+					"url": "https://t.co/aXInUqaCZR",
+					"display_url": "pic.twitter.com/aXInUqaCZR",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635645433004035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461635373130731500,
+					"id_str": "1461635373130731520",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjFoLaaUAABMol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjFoLaaUAABMol.jpg",
+					"url": "https://t.co/aXInUqaCZR",
+					"display_url": "pic.twitter.com/aXInUqaCZR",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635645433004035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461635373214634000,
+					"id_str": "1461635373214633985",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjFoLuakAEBde3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjFoLuakAEBde3.jpg",
+					"url": "https://t.co/aXInUqaCZR",
+					"display_url": "pic.twitter.com/aXInUqaCZR",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635645433004035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1661,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 973,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461635373273325600,
+					"id_str": "1461635373273325568",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjFoL8aIAAkT_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjFoL8aIAAkT_P.jpg",
+					"url": "https://t.co/aXInUqaCZR",
+					"display_url": "pic.twitter.com/aXInUqaCZR",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1461635645433004035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1362,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1461635631612715000,
+		"in_reply_to_status_id_str": "1461635631612715009",
+		"in_reply_to_user_id": 174146592,
+		"in_reply_to_user_id_str": "174146592",
+		"in_reply_to_screen_name": "FLUXUSMUSIC",
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13317,
+			"friends_count": 12662,
+			"listed_count": 232,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460520305458561024/B2-F4RdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460520305458561024/B2-F4RdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 Huh Gak - THE M\n6 Electron Sheep @ElectronSheep - White socks\n7 ZAYSTIN - Still With You (feat. Horim)\n8 OVCOCO @ovcoco3 - CHECKERBOARD https://t.co/aXInUqaCZR"
+	},
+	{
 		"created_at": "Fri Nov 19 09:40:24 +0000 2021",
 		"id": 1461630426158674000,
 		"id_str": "1461630426158673922",
@@ -327,7 +1373,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Fri Nov 19 09:29:30 +0000 2021",
 		"id": 1461623810386321400,
 		"id_str": "1461627684585451522",
-		"full_text": "자세한 사항은 예매사이트를 참고해주세요❤️‍🔥\n\n#아마도이자람밴드 #아이밴 #연말공연 #연말단독공연 #단독공연 #concert #live #벨로주 #벨로주홍대 #홍대벨로주 #HONGDAE #네이버 #네이버예약 #티켓 #예매 #공연안내 #2021연말공연 https://t.co/cGsJfdwPJL",
+		"full_text": "자세한 사항은 예매사이트를 참고해주세요❤️🔥\n\n#아마도이자람밴드 #아이밴 #연말공연 #연말단독공연 #단독공연 #concert #live #벨로주 #벨로주홍대 #홍대벨로주 #HONGDAE #네이버 #네이버예약 #티켓 #예매 #공연안내 #2021연말공연 https://t.co/cGsJfdwPJL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -616,7 +1662,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "자세한 사항은 예매사이트를 참고해주세요❤️‍🔥\n\n#아마도이자람밴드 #아이밴 #연말공연 #연말단독공연 #단독공연 #concert #live #벨로주 #벨로주홍대 #홍대벨로주 #HONGDAE #네이버 #네이버예약 #티켓 #예매 #공연안내 #2021연말공연 https://t.co/cGsJfdwPJL"
+		"text": "자세한 사항은 예매사이트를 참고해주세요❤️🔥\n\n#아마도이자람밴드 #아이밴 #연말공연 #연말단독공연 #단독공연 #concert #live #벨로주 #벨로주홍대 #홍대벨로주 #HONGDAE #네이버 #네이버예약 #티켓 #예매 #공연안내 #2021연말공연 https://t.co/cGsJfdwPJL"
 	},
 	{
 		"created_at": "Fri Nov 19 09:29:28 +0000 2021",
