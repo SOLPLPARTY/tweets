@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 03:58:14 +0000 2021",
+		"id": 1461543560709214200,
+		"id_str": "1461544320738148353",
+		"full_text": "슬케파 대선특집 선택2021! \n두번째 중간 결과를 발표합니다!\n\n현재 투표 4일차 4,5위는 아래와 같습니다! 여전히 격차는 크지 않습니다! 11월  22일 0시까지 당신의 소신을 보여주세요!\n\n🗳 https://t.co/6r2Gk1vTRe https://t.co/9DhONQSmSB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6r2Gk1vTRe",
+					"expanded_url": "https://forms.gle/aLKNJn9ksU1J1qeXA",
+					"display_url": "forms.gle/aLKNJn9ksU1J1q…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461543515834687500,
+					"id_str": "1461543515834687489",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhyFYUaIAExLUa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEhyFYUaIAExLUa.png",
+					"url": "https://t.co/9DhONQSmSB",
+					"display_url": "pic.twitter.com/9DhONQSmSB",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1461543560709214208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461543515834687500,
+					"id_str": "1461543515834687489",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FEhyFYUaIAExLUa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEhyFYUaIAExLUa.png",
+					"url": "https://t.co/9DhONQSmSB",
+					"display_url": "pic.twitter.com/9DhONQSmSB",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1461543560709214208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1460969084087009300,
+		"in_reply_to_status_id_str": "1460969084087009280",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7738,
+			"friends_count": 39,
+			"listed_count": 23,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬케파 대선특집 선택2021! \n두번째 중간 결과를 발표합니다!\n\n현재 투표 4일차 4,5위는 아래와 같습니다! 여전히 격차는 크지 않습니다! 11월  22일 0시까지 당신의 소신을 보여주세요!\n\n🗳 https://t.co/6r2Gk1vTRe https://t.co/9DhONQSmSB"
+	},
+	{
+		"created_at": "Fri Nov 19 03:29:30 +0000 2021",
+		"id": 1461531538332340200,
+		"id_str": "1461537086528446467",
+		"full_text": "[News]\n\n류이치 사카모토가 옐로우 매직 오케스트라(YMO)의 히트곡인 ‘Tong Poo’를 일본의 패션 디자이너 준야 와타나베와의 콜라보로 새롭게 편곡해 다시 발매합니다. 음원은 [Tong Poo for JUNYA WATANABE]라는 제목으로 바이닐로도 발매될 예정입니다. \nhttps://t.co/ihfhZKkdf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ihfhZKkdf3",
+					"expanded_url": "https://www.highjinkxmm.com/news/tong-poo-again",
+					"display_url": "highjinkxmm.com/news/tong-poo-…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n류이치 사카모토가 옐로우 매직 오케스트라(YMO)의 히트곡인 ‘Tong Poo’를 일본의 패션 디자이너 준야 와타나베와의 콜라보로 새롭게 편곡해 다시 발매합니다. 음원은 [Tong Poo for JUNYA WATANABE]라는 제목으로 바이닐로도 발매될 예정입니다. \nhttps://t.co/ihfhZKkdf3"
+	},
+	{
 		"created_at": "Fri Nov 19 03:15:18 +0000 2021",
 		"id": 1461533513782595600,
 		"id_str": "1461533513782595594",
