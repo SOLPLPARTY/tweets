@@ -1,10 +1,536 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 12:13:24 +0000 2021",
+		"id": 1461668930838319000,
+		"id_str": "1461668930838319113",
+		"full_text": "#딩고뮤직 #dingo_music\n극락 체험하는 어반자카파 화음 #shorts\nhttps://t.co/uaL2ihUIiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uaL2ihUIiH",
+					"expanded_url": "https://youtu.be/aMqBv2Vp8lc",
+					"display_url": "youtu.be/aMqBv2Vp8lc",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n극락 체험하는 어반자카파 화음 #shorts\nhttps://t.co/uaL2ihUIiH"
+	},
+	{
+		"created_at": "Fri Nov 19 11:29:39 +0000 2021",
+		"id": 1461650886174724000,
+		"id_str": "1461657921616494592",
+		"full_text": "#너드커넥션 #너컨 #덕콘 #TFactory #FLO #홍대 #플로 #콘서트 #단독공연 #단독콘서트 #concert #hongdae #live #offline",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "덕콘",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "TFactory",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "플로",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "concert",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "hongdae",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "offline",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1461650882831925200,
+		"in_reply_to_status_id_str": "1461650882831925250",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#너드커넥션 #너컨 #덕콘 #TFactory #FLO #홍대 #플로 #콘서트 #단독공연 #단독콘서트 #concert #hongdae #live #offline"
+	},
+	{
+		"created_at": "Fri Nov 19 11:29:33 +0000 2021",
+		"id": 1461650882831925200,
+		"id_str": "1461657895888723969",
+		"full_text": "[#너드커넥션] &lt;T Factory X FLO&gt; 덕콘 22. 너드커넥션 \n\n잠시 후 홍대 T Factory에 펼쳐질 너드커넥션이 다시 그려낸 명작들의 향연🎞\n\n모두가 즐길 수 있도록 열심히 준비했으니,\n많은 기대와 관심 부탁드려요✨\n\n오시는 발걸음 조심하시고, \n잠시 후 8시에 만나요🙌🏻 https://t.co/jI39zf9Erz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461650876171698200,
+					"id_str": "1461650876171698178",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjTukvaQAIRhzg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjTukvaQAIRhzg.jpg",
+					"url": "https://t.co/jI39zf9Erz",
+					"display_url": "pic.twitter.com/jI39zf9Erz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1461650882831925250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461650876171698200,
+					"id_str": "1461650876171698178",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjTukvaQAIRhzg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjTukvaQAIRhzg.jpg",
+					"url": "https://t.co/jI39zf9Erz",
+					"display_url": "pic.twitter.com/jI39zf9Erz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1461650882831925250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#너드커넥션] &lt;T Factory X FLO&gt; 덕콘 22. 너드커넥션 \n\n잠시 후 홍대 T Factory에 펼쳐질 너드커넥션이 다시 그려낸 명작들의 향연🎞\n\n모두가 즐길 수 있도록 열심히 준비했으니,\n많은 기대와 관심 부탁드려요✨\n\n오시는 발걸음 조심하시고, \n잠시 후 8시에 만나요🙌🏻 https://t.co/jI39zf9Erz"
+	},
+	{
 		"created_at": "Fri Nov 19 11:08:22 +0000 2021",
 		"id": 1461652567289643000,
 		"id_str": "1461652567289643011",
-		"full_text": "#딩고뮤직 #dingo_music\n조회수 100만 돌파🎉아도라(ADORA)&amp;은하 ❤️‍🔥MAKE U DANCE❤️‍🔥필름 촬영 비하인드ㅣ[띵곡가들]ㅣ딩고뮤직ㅣDingo Music\"\nhttps://t.co/hEktkze5o8",
+		"full_text": "#딩고뮤직 #dingo_music\n조회수 100만 돌파🎉아도라(ADORA)&amp;은하 ❤️🔥MAKE U DANCE❤️🔥필름 촬영 비하인드ㅣ[띵곡가들]ㅣ딩고뮤직ㅣDingo Music\"\nhttps://t.co/hEktkze5o8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -139,7 +665,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n조회수 100만 돌파🎉아도라(ADORA)&amp;은하 ❤️‍🔥MAKE U DANCE❤️‍🔥필름 촬영 비하인드ㅣ[띵곡가들]ㅣ딩고뮤직ㅣDingo Music\"\nhttps://t.co/hEktkze5o8"
+		"text": "#딩고뮤직 #dingo_music\n조회수 100만 돌파🎉아도라(ADORA)&amp;은하 ❤️🔥MAKE U DANCE❤️🔥필름 촬영 비하인드ㅣ[띵곡가들]ㅣ딩고뮤직ㅣDingo Music\"\nhttps://t.co/hEktkze5o8"
 	},
 	{
 		"created_at": "Fri Nov 19 10:48:22 +0000 2021",
