@@ -1,6 +1,904 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 07:29:47 +0000 2021",
+		"id": 1461594150592147500,
+		"id_str": "1461597557000491015",
+		"full_text": "https://t.co/gLOFnUpwNC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461594074784612400,
+					"id_str": "1461594074784612353",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEigETFaQAEGUSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEigETFaQAEGUSV.jpg",
+					"url": "https://t.co/gLOFnUpwNC",
+					"display_url": "pic.twitter.com/gLOFnUpwNC",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594150592147458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1186,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461594074784612400,
+					"id_str": "1461594074784612353",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEigETFaQAEGUSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEigETFaQAEGUSV.jpg",
+					"url": "https://t.co/gLOFnUpwNC",
+					"display_url": "pic.twitter.com/gLOFnUpwNC",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594150592147458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1186,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461594096435605500,
+					"id_str": "1461594096435605504",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEigFjvaMAAS6xC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEigFjvaMAAS6xC.jpg",
+					"url": "https://t.co/gLOFnUpwNC",
+					"display_url": "pic.twitter.com/gLOFnUpwNC",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594150592147458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1189,
+							"h": 661,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1189,
+							"h": 661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461594117646209000,
+					"id_str": "1461594117646209024",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEigGywaUAAYAPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEigGywaUAAYAPh.jpg",
+					"url": "https://t.co/gLOFnUpwNC",
+					"display_url": "pic.twitter.com/gLOFnUpwNC",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594150592147458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1188,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1188,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461594141486645200,
+					"id_str": "1461594141486645248",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEigILkagAAIOvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEigILkagAAIOvz.jpg",
+					"url": "https://t.co/gLOFnUpwNC",
+					"display_url": "pic.twitter.com/gLOFnUpwNC",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594150592147458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1191,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1461593820643037200,
+		"in_reply_to_status_id_str": "1461593820643037190",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3972,
+			"friends_count": 9,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/gLOFnUpwNC"
+	},
+	{
+		"created_at": "Fri Nov 19 07:29:39 +0000 2021",
+		"id": 1461594006811385900,
+		"id_str": "1461597522934251524",
+		"full_text": "https://t.co/wGMvXdWO17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461593887899009000,
+					"id_str": "1461593887899009025",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEif5a4aQAEo6AB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEif5a4aQAEo6AB.jpg",
+					"url": "https://t.co/wGMvXdWO17",
+					"display_url": "pic.twitter.com/wGMvXdWO17",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594006811385858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1191,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461593887899009000,
+					"id_str": "1461593887899009025",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEif5a4aQAEo6AB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEif5a4aQAEo6AB.jpg",
+					"url": "https://t.co/wGMvXdWO17",
+					"display_url": "pic.twitter.com/wGMvXdWO17",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594006811385858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1191,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461593924431409200,
+					"id_str": "1461593924431409152",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEif7i-acAAK2vF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEif7i-acAAK2vF.jpg",
+					"url": "https://t.co/wGMvXdWO17",
+					"display_url": "pic.twitter.com/wGMvXdWO17",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594006811385858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1192,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461593951543369700,
+					"id_str": "1461593951543369729",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEif9H-aIAEszvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEif9H-aIAEszvL.jpg",
+					"url": "https://t.co/wGMvXdWO17",
+					"display_url": "pic.twitter.com/wGMvXdWO17",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594006811385858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1187,
+							"h": 660,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461593970849763300,
+					"id_str": "1461593970849763328",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FEif-P5aUAAsl40.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEif-P5aUAAsl40.jpg",
+					"url": "https://t.co/wGMvXdWO17",
+					"display_url": "pic.twitter.com/wGMvXdWO17",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461594006811385858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1190,
+							"h": 663,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1190,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1461593820643037200,
+		"in_reply_to_status_id_str": "1461593820643037190",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3972,
+			"friends_count": 9,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wGMvXdWO17"
+	},
+	{
+		"created_at": "Fri Nov 19 07:29:36 +0000 2021",
+		"id": 1461593820643037200,
+		"id_str": "1461597509822857218",
+		"full_text": "DQM이 연출한 윤지영의 뮤직비디오 &lt;My Luv&gt;가 오늘 릴리즈되었습니다. VFX는 Pic.의 노상호 작가가 함께했습니다.\n\n작사 작곡: 윤지영 \n뮤직비디오 연출: DQM \nVFX: Pic https://t.co/OojBt0prrt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461593570520219600,
+					"id_str": "1461593570520219652",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461593570520219652/pu/img/yWbm6yXeD3P1erJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461593570520219652/pu/img/yWbm6yXeD3P1erJ-.jpg",
+					"url": "https://t.co/OojBt0prrt",
+					"display_url": "pic.twitter.com/OojBt0prrt",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461593820643037190/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461593570520219600,
+					"id_str": "1461593570520219652",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461593570520219652/pu/img/yWbm6yXeD3P1erJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461593570520219652/pu/img/yWbm6yXeD3P1erJ-.jpg",
+					"url": "https://t.co/OojBt0prrt",
+					"display_url": "pic.twitter.com/OojBt0prrt",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1461593820643037190/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1461593570520219652/pu/pl/_iAJdTPRGzoK47no.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461593570520219652/pu/vid/1280x720/_pupsiwGx95CUS89.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461593570520219652/pu/vid/480x270/IkLiRdJChOL2GTtz.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461593570520219652/pu/vid/640x360/t9PDOQxQ38YTFRnW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3972,
+			"friends_count": 9,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DQM이 연출한 윤지영의 뮤직비디오 &lt;My Luv&gt;가 오늘 릴리즈되었습니다. VFX는 Pic.의 노상호 작가가 함께했습니다.\n\n작사 작곡: 윤지영 \n뮤직비디오 연출: DQM \nVFX: Pic https://t.co/OojBt0prrt"
+	},
+	{
+		"created_at": "Fri Nov 19 07:29:27 +0000 2021",
+		"id": 1461587852437774300,
+		"id_str": "1461597471516372993",
+		"full_text": "[News]\n\n케로 케로 보니토(Kero Kero Bonito)가 디자이너 커윈 프로스트, 아디다스와의 콜라보로 스니커즈에 대한 사랑을 노래하는 상쾌한 싱글 'The Sneaker Dance'를 공개했습니다.\nhttps://t.co/ZP1NP9uI3V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZP1NP9uI3V",
+					"expanded_url": "https://www.youtube.com/watch?v=Bp9octRklXM",
+					"display_url": "youtube.com/watch?v=Bp9oct…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n케로 케로 보니토(Kero Kero Bonito)가 디자이너 커윈 프로스트, 아디다스와의 콜라보로 스니커즈에 대한 사랑을 노래하는 상쾌한 싱글 'The Sneaker Dance'를 공개했습니다.\nhttps://t.co/ZP1NP9uI3V"
+	},
+	{
 		"created_at": "Fri Nov 19 06:29:28 +0000 2021",
 		"id": 1461570927188086800,
 		"id_str": "1461582380238524418",
