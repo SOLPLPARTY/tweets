@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 06:29:24 +0000 2021",
+		"id": 1461937349210869800,
+		"id_str": "1461944750559399940",
+		"full_text": "[2021 서울인디뮤직페스타 SIMF(Seoul Indie Music Festa)]\n\n✨레이블 마켓 세부 일정 안내\n\n타운형 페스티벌 'SIMF'의 마켓 진행 일정 및 참여 업체를 공개합니다. 다양한 볼거리가 준비되어 있으니 함께해 주세요 🙏\n\n#서울인디뮤직페스타 #SIMF #seoulindiemusicfesta https://t.co/usARz0QZcj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "SIMF",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "seoulindiemusicfesta",
+					"indices": [
+						154,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461933968396210200,
+					"id_str": "1461933968396210177",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnVMtdVUAE3WHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnVMtdVUAE3WHz.jpg",
+					"url": "https://t.co/usARz0QZcj",
+					"display_url": "pic.twitter.com/usARz0QZcj",
+					"expanded_url": "https://twitter.com/record_liak/status/1461937349210869769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461933968396210200,
+					"id_str": "1461933968396210177",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnVMtdVUAE3WHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnVMtdVUAE3WHz.jpg",
+					"url": "https://t.co/usARz0QZcj",
+					"display_url": "pic.twitter.com/usARz0QZcj",
+					"expanded_url": "https://twitter.com/record_liak/status/1461937349210869769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461933968551563300,
+					"id_str": "1461933968551563270",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnVMuCX0AYDKK4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnVMuCX0AYDKK4.jpg",
+					"url": "https://t.co/usARz0QZcj",
+					"display_url": "pic.twitter.com/usARz0QZcj",
+					"expanded_url": "https://twitter.com/record_liak/status/1461937349210869769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461933968396206000,
+					"id_str": "1461933968396206082",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnVMtdVQAIAem_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnVMtdVQAIAem_.jpg",
+					"url": "https://t.co/usARz0QZcj",
+					"display_url": "pic.twitter.com/usARz0QZcj",
+					"expanded_url": "https://twitter.com/record_liak/status/1461937349210869769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2018,
+			"friends_count": 1987,
+			"listed_count": 35,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2021 서울인디뮤직페스타 SIMF(Seoul Indie Music Festa)]\n\n✨레이블 마켓 세부 일정 안내\n\n타운형 페스티벌 'SIMF'의 마켓 진행 일정 및 참여 업체를 공개합니다. 다양한 볼거리가 준비되어 있으니 함께해 주세요 🙏\n\n#서울인디뮤직페스타 #SIMF #seoulindiemusicfesta https://t.co/usARz0QZcj"
+	},
+	{
 		"created_at": "Sat Nov 20 05:29:24 +0000 2021",
 		"id": 1461921155909042200,
 		"id_str": "1461929651648049155",
