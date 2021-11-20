@@ -1,6 +1,796 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 07:58:24 +0000 2021",
+		"id": 1461958395674591200,
+		"id_str": "1461967146095886338",
+		"full_text": "2021 서울인디뮤직페스타 SIMF(Seoul Indie Music Festa)\n[레이블 마켓 세부 일정 안내]\n\n타운형 페스티벌 'SIMF'의 마켓 진행 일정 및 참여 업체를 공개합니다.\n\n아티스트들의 음반 및 MD 그리고 LP까지 다양한 볼거리가 준비되어 있으니 함께해 주세요 🙏 https://t.co/G3LU4oHodf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461958387218976800,
+					"id_str": "1461958387218976773",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnraEqXEAUzrFB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnraEqXEAUzrFB.jpg",
+					"url": "https://t.co/G3LU4oHodf",
+					"display_url": "pic.twitter.com/G3LU4oHodf",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958395674591233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461958387218976800,
+					"id_str": "1461958387218976773",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnraEqXEAUzrFB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnraEqXEAUzrFB.jpg",
+					"url": "https://t.co/G3LU4oHodf",
+					"display_url": "pic.twitter.com/G3LU4oHodf",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958395674591233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461958387248283600,
+					"id_str": "1461958387248283652",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnraExWQAQBLKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnraExWQAQBLKQ.jpg",
+					"url": "https://t.co/G3LU4oHodf",
+					"display_url": "pic.twitter.com/G3LU4oHodf",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958395674591233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461958387122335700,
+					"id_str": "1461958387122335749",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnraETUcAUIQDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnraETUcAUIQDb.jpg",
+					"url": "https://t.co/G3LU4oHodf",
+					"display_url": "pic.twitter.com/G3LU4oHodf",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958395674591233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365,
+			"friends_count": 279,
+			"listed_count": 4,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 서울인디뮤직페스타 SIMF(Seoul Indie Music Festa)\n[레이블 마켓 세부 일정 안내]\n\n타운형 페스티벌 'SIMF'의 마켓 진행 일정 및 참여 업체를 공개합니다.\n\n아티스트들의 음반 및 MD 그리고 LP까지 다양한 볼거리가 준비되어 있으니 함께해 주세요 🙏 https://t.co/G3LU4oHodf"
+	},
+	{
+		"created_at": "Sat Nov 20 07:58:15 +0000 2021",
+		"id": 1461958020565328000,
+		"id_str": "1461967107877482497",
+		"full_text": "2021 서울인디뮤직페스타 SIMF(Seoul Indie Music Festa)\n[쇼케이스 타임테이블 공개]\n\n11월 27일부터 28일까지 총 20팀이 펼치는 'SIMF' 쇼케이스 많은 관람 부탁드립니다 😁 https://t.co/vt3yXKhpCp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461957932678066200,
+					"id_str": "1461957932678066178",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnq_nXXMAIo0aM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnq_nXXMAIo0aM.jpg",
+					"url": "https://t.co/vt3yXKhpCp",
+					"display_url": "pic.twitter.com/vt3yXKhpCp",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958020565327876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461957932678066200,
+					"id_str": "1461957932678066178",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnq_nXXMAIo0aM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnq_nXXMAIo0aM.jpg",
+					"url": "https://t.co/vt3yXKhpCp",
+					"display_url": "pic.twitter.com/vt3yXKhpCp",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958020565327876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461957932698984400,
+					"id_str": "1461957932698984451",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnq_ncWYAMk6hz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnq_ncWYAMk6hz.jpg",
+					"url": "https://t.co/vt3yXKhpCp",
+					"display_url": "pic.twitter.com/vt3yXKhpCp",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958020565327876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461957932661235700,
+					"id_str": "1461957932661235713",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnq_nTWYAEVdJJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnq_nTWYAEVdJJ.jpg",
+					"url": "https://t.co/vt3yXKhpCp",
+					"display_url": "pic.twitter.com/vt3yXKhpCp",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958020565327876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461957932552122400,
+					"id_str": "1461957932552122370",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnq_m5VcAIhxzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnq_m5VcAIhxzU.jpg",
+					"url": "https://t.co/vt3yXKhpCp",
+					"display_url": "pic.twitter.com/vt3yXKhpCp",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1461958020565327876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365,
+			"friends_count": 279,
+			"listed_count": 4,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 서울인디뮤직페스타 SIMF(Seoul Indie Music Festa)\n[쇼케이스 타임테이블 공개]\n\n11월 27일부터 28일까지 총 20팀이 펼치는 'SIMF' 쇼케이스 많은 관람 부탁드립니다 😁 https://t.co/vt3yXKhpCp"
+	},
+	{
+		"created_at": "Sat Nov 20 07:29:29 +0000 2021",
+		"id": 1461959501775474700,
+		"id_str": "1461959867674021889",
+		"full_text": "#나인NINE9 #디어클라우드\n오늘은 #온스타인웨이 공연\n오랜만에 #나인 솔로 단독 콘서트\n#아티스츠카드 \n\n#NINE9 #DearCloud https://t.co/IcwJD8FduC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인NINE9",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "온스타인웨이",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "아티스츠카드",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "NINE9",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "DearCloud",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461959494271848400,
+					"id_str": "1461959494271848449",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnsagwVUAEQNlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnsagwVUAEQNlO.jpg",
+					"url": "https://t.co/IcwJD8FduC",
+					"display_url": "pic.twitter.com/IcwJD8FduC",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1461959501775474689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461959494271848400,
+					"id_str": "1461959494271848449",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnsagwVUAEQNlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnsagwVUAEQNlO.jpg",
+					"url": "https://t.co/IcwJD8FduC",
+					"display_url": "pic.twitter.com/IcwJD8FduC",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1461959501775474689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461959499263185000,
+					"id_str": "1461959499263184902",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FEnsazWXEAYhXYf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEnsazWXEAYhXYf.jpg",
+					"url": "https://t.co/IcwJD8FduC",
+					"display_url": "pic.twitter.com/IcwJD8FduC",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1461959501775474689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2643,
+			"friends_count": 334,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 20841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#나인NINE9 #디어클라우드\n오늘은 #온스타인웨이 공연\n오랜만에 #나인 솔로 단독 콘서트\n#아티스츠카드 \n\n#NINE9 #DearCloud https://t.co/IcwJD8FduC"
+	},
+	{
 		"created_at": "Sat Nov 20 06:29:24 +0000 2021",
 		"id": 1461937349210869800,
 		"id_str": "1461944750559399940",
