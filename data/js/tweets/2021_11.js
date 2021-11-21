@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 11:29:25 +0000 2021",
+		"id": 1462370960200257500,
+		"id_str": "1462382639541899266",
+		"full_text": "[#Video] #정승환\n\nSBS ‘지금, 헤어지는 중입니다’ OST Part.4 정승환 ‘푸르른 계절도 내겐 의미 없어요’ 스페셜 클립이 공개되었습니다💛💚💙\n\n🔗https://t.co/CrQpq0WDiM\n\n#JungSeungHwan #푸르른계절도내겐의미없어요\n#SBS #지금헤어지는중입니다 https://t.co/y76Zhn9t9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						116,
+						130
+					]
+				},
+				{
+					"text": "푸르른계절도내겐의미없어요",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "지금헤어지는중입니다",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CrQpq0WDiM",
+					"expanded_url": "https://youtu.be/t90MOgHtQlw",
+					"display_url": "youtu.be/t90MOgHtQlw",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462370890944225300,
+					"id_str": "1462370890944225282",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462370890944225282/pu/img/ynZS1D_bXsmYL9GK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462370890944225282/pu/img/ynZS1D_bXsmYL9GK.jpg",
+					"url": "https://t.co/y76Zhn9t9P",
+					"display_url": "pic.twitter.com/y76Zhn9t9P",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462370960200257537/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462370890944225300,
+					"id_str": "1462370890944225282",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462370890944225282/pu/img/ynZS1D_bXsmYL9GK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462370890944225282/pu/img/ynZS1D_bXsmYL9GK.jpg",
+					"url": "https://t.co/y76Zhn9t9P",
+					"display_url": "pic.twitter.com/y76Zhn9t9P",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462370960200257537/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60185,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462370890944225282/pu/pl/zrRJOacgd25ujBz8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462370890944225282/pu/vid/1280x720/QU3R3Xd8Wq6OQsJz.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462370890944225282/pu/vid/640x360/yD-9ioDBu2ufbU9I.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462370890944225282/pu/vid/480x270/Y7jRPFbvopWt6xpy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38916,
+			"friends_count": 11,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\nSBS ‘지금, 헤어지는 중입니다’ OST Part.4 정승환 ‘푸르른 계절도 내겐 의미 없어요’ 스페셜 클립이 공개되었습니다💛💚💙\n\n🔗https://t.co/CrQpq0WDiM\n\n#JungSeungHwan #푸르른계절도내겐의미없어요\n#SBS #지금헤어지는중입니다 https://t.co/y76Zhn9t9P"
+	},
+	{
 		"created_at": "Sun Nov 21 10:29:25 +0000 2021",
 		"id": 1462352729188102100,
 		"id_str": "1462367537379827712",
