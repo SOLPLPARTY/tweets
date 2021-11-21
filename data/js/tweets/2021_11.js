@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 10:29:25 +0000 2021",
+		"id": 1462352729188102100,
+		"id_str": "1462367537379827712",
+		"full_text": "🌊 2021 INCHEON CITY POP Vol.1 발매 🌊\n\n올해 처음으로 시작된 인천시티팝! 예선과 본선 공연을 거쳐 ‘도시의 밤을 수놓는 BGM’으로 선정된 수상곡들중 두곡이 발매되었습니다. 많이 들어주세요! \n\n📍1. I’m Alright - QUDO X 홍세환\n📍2. West City – TENOCLK\n\nhttps://t.co/GP9XQKRlNL https://t.co/oJu1kjD18z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GP9XQKRlNL",
+					"expanded_url": "https://linktr.ee/newrubymusic",
+					"display_url": "linktr.ee/newrubymusic",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462352726327963600,
+					"id_str": "1462352726327963650",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtSDoUaMAIlw_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtSDoUaMAIlw_s.jpg",
+					"url": "https://t.co/oJu1kjD18z",
+					"display_url": "pic.twitter.com/oJu1kjD18z",
+					"expanded_url": "https://twitter.com/ruby_records/status/1462352729188102149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462352726327963600,
+					"id_str": "1462352726327963650",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtSDoUaMAIlw_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtSDoUaMAIlw_s.jpg",
+					"url": "https://t.co/oJu1kjD18z",
+					"display_url": "pic.twitter.com/oJu1kjD18z",
+					"expanded_url": "https://twitter.com/ruby_records/status/1462352729188102149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은 음악으로 빛나는 일상 💎 루비레코드\n#루비튜브 Rubytube #인천여관X루비살롱 rubysalon\n#모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhVO1VS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7652,
+			"friends_count": 8326,
+			"listed_count": 199,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00b495bc329e5fa3",
+			"url": "https://api.twitter.com/1.1/geo/id/00b495bc329e5fa3.json",
+			"place_type": "city",
+			"name": "양천구",
+			"full_name": "대한민국 양천구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.812683456152,
+							37.4966165621025
+						],
+						[
+							126.894242521306,
+							37.4966165621025
+						],
+						[
+							126.894242521306,
+							37.541314945456
+						],
+						[
+							126.812683456152,
+							37.541314945456
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌊 2021 INCHEON CITY POP Vol.1 발매 🌊\n\n올해 처음으로 시작된 인천시티팝! 예선과 본선 공연을 거쳐 ‘도시의 밤을 수놓는 BGM’으로 선정된 수상곡들중 두곡이 발매되었습니다. 많이 들어주세요! \n\n📍1. I’m Alright - QUDO X 홍세환\n📍2. West City – TENOCLK\n\nhttps://t.co/GP9XQKRlNL https://t.co/oJu1kjD18z"
+	},
+	{
 		"created_at": "Sun Nov 21 10:18:21 +0000 2021",
 		"id": 1462364660498591700,
 		"id_str": "1462364754132226051",
@@ -88,7 +306,7 @@ Grailbird.data.tweets_2021_11 =
 			"name": "Ambler",
 			"screen_name": "AmblerKR",
 			"location": "ambler@ambler.kr",
-			"description": "Marketer & Creator \n@SOLPLPARTY @KPOP_CORD @MOVIE_CORD \n​\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
+			"description": "Marketer & Creator \n@SOLPLPARTY @KPOP_CORD @MOVIE_CORD \n\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
 			"url": "https://t.co/EwhnenK69K",
 			"entities": {
 				"url": {
@@ -213,7 +431,7 @@ Grailbird.data.tweets_2021_11 =
 				"name": "티빙(TVING)",
 				"screen_name": "tvingdotcom",
 				"location": "37.5781711,126.894616",
-				"description": "#해피니스 🧟‍♀️  #술꾼도시여자들 🍻 #이머전시 🏥 #가상세계지만스타가되고싶어 👩‍🎤 지금 바로 티빙에서 스트리밍! 티빙앱 다운 받기▶ https://t.co/DSZRVWlswH",
+				"description": "#해피니스 🧟♀️  #술꾼도시여자들 🍻 #이머전시 🏥 #가상세계지만스타가되고싶어 👩🎤 지금 바로 티빙에서 스트리밍! 티빙앱 다운 받기▶ https://t.co/DSZRVWlswH",
 				"url": "https://t.co/dVg95K6dLT",
 				"entities": {
 					"url": {
