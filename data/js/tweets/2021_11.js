@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 12:29:25 +0000 2021",
+		"id": 1462383872587427800,
+		"id_str": "1462397736918081543",
+		"full_text": "[#Photo] #권진아 #정승환\n\n매물 구하러 온 권진아 &amp; 정승환 인턴코디👼🏻\n오늘 밤 10시 40분, MBC '구해줘 홈즈' 본방 사수!🏠\n  \n#KwonJinAh #JungSeungHwan \n#MBC #구해줘홈즈 https://t.co/GyiMkW1Ubl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "구해줘홈즈",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462383859564449800,
+					"id_str": "1462383859564449792",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtuX0qakAAMfOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtuX0qakAAMfOz.jpg",
+					"url": "https://t.co/GyiMkW1Ubl",
+					"display_url": "pic.twitter.com/GyiMkW1Ubl",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462383872587427840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462383859564449800,
+					"id_str": "1462383859564449792",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtuX0qakAAMfOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtuX0qakAAMfOz.jpg",
+					"url": "https://t.co/GyiMkW1Ubl",
+					"display_url": "pic.twitter.com/GyiMkW1Ubl",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462383872587427840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462383859564433400,
+					"id_str": "1462383859564433411",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtuX0qaUAMwBYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtuX0qaUAMwBYq.jpg",
+					"url": "https://t.co/GyiMkW1Ubl",
+					"display_url": "pic.twitter.com/GyiMkW1Ubl",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462383872587427840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462383859564429300,
+					"id_str": "1462383859564429313",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtuX0qaQAE3LTT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtuX0qaQAE3LTT.jpg",
+					"url": "https://t.co/GyiMkW1Ubl",
+					"display_url": "pic.twitter.com/GyiMkW1Ubl",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462383872587427840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38915,
+			"friends_count": 11,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Photo] #권진아 #정승환\n\n매물 구하러 온 권진아 &amp; 정승환 인턴코디👼🏻\n오늘 밤 10시 40분, MBC '구해줘 홈즈' 본방 사수!🏠\n  \n#KwonJinAh #JungSeungHwan \n#MBC #구해줘홈즈 https://t.co/GyiMkW1Ubl"
+	},
+	{
 		"created_at": "Sun Nov 21 11:29:25 +0000 2021",
 		"id": 1462370960200257500,
 		"id_str": "1462382639541899266",
