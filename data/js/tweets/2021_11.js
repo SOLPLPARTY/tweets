@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 07:29:43 +0000 2021",
+		"id": 1462312012118036500,
+		"id_str": "1462322315480477699",
+		"full_text": "*자세한 사항은 링크를 통해 확인해주세요!\n*판매되는 'Nov. MD 패키지'는 '쇼케이스 기념 Nov. MD 패키지'와 구성이 다르니 구매시 참고 부탁드립니다.\n\n#너드커넥션 #너컨 #nerdconnection #월간md #월간굿즈 #온라인구매 #동구밭 #미공개포토 #md #굿즈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "nerdconnection",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"text": "월간md",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "월간굿즈",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "온라인구매",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "동구밭",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "미공개포토",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "md",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "굿즈",
+					"indices": [
+						154,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462311610358263800,
+		"in_reply_to_status_id_str": "1462311610358263808",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*자세한 사항은 링크를 통해 확인해주세요!\n*판매되는 'Nov. MD 패키지'는 '쇼케이스 기념 Nov. MD 패키지'와 구성이 다르니 구매시 참고 부탁드립니다.\n\n#너드커넥션 #너컨 #nerdconnection #월간md #월간굿즈 #온라인구매 #동구밭 #미공개포토 #md #굿즈"
+	},
+	{
+		"created_at": "Sun Nov 21 07:29:35 +0000 2021",
+		"id": 1462311870388310000,
+		"id_str": "1462322281405947904",
+		"full_text": "여러분의 성원에 힘입어 '쇼케이스 기념 Nov. MD 패키지'가 완판되었습니다! 🎉\n\n'쇼케이스 기념 Nov. MD 패키지(한정판)'를 놓치신 분들은 지금 바로 ! 쇼케이스에서 판매되었던 11월 월간 굿즈 'Nov. MD'를 만나보실 수 있으니 많은 관심 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462311610358263800,
+		"in_reply_to_status_id_str": "1462311610358263808",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분의 성원에 힘입어 '쇼케이스 기념 Nov. MD 패키지'가 완판되었습니다! 🎉\n\n'쇼케이스 기념 Nov. MD 패키지(한정판)'를 놓치신 분들은 지금 바로 ! 쇼케이스에서 판매되었던 11월 월간 굿즈 'Nov. MD'를 만나보실 수 있으니 많은 관심 부탁드립니다."
+	},
+	{
+		"created_at": "Sun Nov 21 07:29:27 +0000 2021",
+		"id": 1462311749256839200,
+		"id_str": "1462322247348232192",
+		"full_text": "📍구매 기간\n2021년 11월 21일 일요일 ~ 11월 25일 목요일\n\n📍배송일\n2021년 11월 26일 금요일 (일괄 배송)\n\n📍판매 링크\nhttps://t.co/c01EnOFlYI (구글폼)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c01EnOFlYI",
+					"expanded_url": "http://bit.ly/3kYaPDb",
+					"display_url": "bit.ly/3kYaPDb",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462311610358263800,
+		"in_reply_to_status_id_str": "1462311610358263808",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍구매 기간\n2021년 11월 21일 일요일 ~ 11월 25일 목요일\n\n📍배송일\n2021년 11월 26일 금요일 (일괄 배송)\n\n📍판매 링크\nhttps://t.co/c01EnOFlYI (구글폼)"
+	},
+	{
 		"created_at": "Sun Nov 21 03:06:05 +0000 2021",
 		"id": 1462255969765924900,
 		"id_str": "1462255969765924871",
