@@ -1,6 +1,1324 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 21 10:18:21 +0000 2021",
+		"id": 1462364660498591700,
+		"id_str": "1462364754132226051",
+		"full_text": "스트릿우먼파이터 'ON THE STAGE 서울' 콘서트가 티빙 앱에서 생중계 되고 있습니다. \n\n#TVING #티빙 \n#온라인공연 #라이브스트리밍 \n#스우파 #스우파콘서트 #스트릿우먼파이터 https://t.co/T7IKMkb9Ge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TVING",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "티빙",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "라이브스트리밍",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "스우파",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "스우파콘서트",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "스트릿우먼파이터",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T7IKMkb9Ge",
+					"expanded_url": "https://twitter.com/tvingdotcom/status/1461253210023215107",
+					"display_url": "twitter.com/tvingdotcom/st…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Marketer & Creator \n@SOLPLPARTY @KPOP_CORD @MOVIE_CORD \n​\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
+			"url": "https://t.co/EwhnenK69K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EwhnenK69K",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 46,
+			"listed_count": 3,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 3299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461253210023215000,
+		"quoted_status_id_str": "1461253210023215107",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T7IKMkb9Ge",
+			"expanded": "https://twitter.com/tvingdotcom/status/1461253210023215107",
+			"display": "twitter.com/tvingdotcom/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 18 08:41:28 +0000 2021",
+			"id": 1461253210023215000,
+			"id_str": "1461253210023215107",
+			"full_text": "🔊))오늘밤 7시 집에서 스우파 콘서트 보자\n스트릿우먼파이터 &lt;ON THE STAGE 서울&gt;\n생중계부터 대기실까지, 티빙이 준비했다🎉\n티켓이 없는 사람도, 집에 누워있는 사람도\n뜨거운 공연 현장 즐기러 티빙 COME ON🔥\n#스우파콘서트 #스우파콘서트생중계\n#티빙 #스트릿우먼파이터",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "스우파콘서트",
+						"indices": [
+							131,
+							138
+						]
+					},
+					{
+						"text": "스우파콘서트생중계",
+						"indices": [
+							139,
+							149
+						]
+					},
+					{
+						"text": "티빙",
+						"indices": [
+							150,
+							153
+						]
+					},
+					{
+						"text": "스트릿우먼파이터",
+						"indices": [
+							154,
+							163
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130116468,
+				"id_str": "130116468",
+				"name": "티빙(TVING)",
+				"screen_name": "tvingdotcom",
+				"location": "37.5781711,126.894616",
+				"description": "#해피니스 🧟‍♀️  #술꾼도시여자들 🍻 #이머전시 🏥 #가상세계지만스타가되고싶어 👩‍🎤 지금 바로 티빙에서 스트리밍! 티빙앱 다운 받기▶ https://t.co/DSZRVWlswH",
+				"url": "https://t.co/dVg95K6dLT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dVg95K6dLT",
+								"expanded_url": "http://www.tving.com/",
+								"display_url": "tving.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DSZRVWlswH",
+								"expanded_url": "http://goo.gl/iWG8ra",
+								"display_url": "goo.gl/iWG8ra",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22143,
+				"friends_count": 2579,
+				"listed_count": 291,
+				"created_at": "Tue Apr 06 10:42:12 +0000 2010",
+				"favourites_count": 667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12180,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184388536234991616/1SHnJvhn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184388536234991616/1SHnJvhn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130116468/1636335348",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스트릿우먼파이터 'ON THE STAGE 서울' 콘서트가 티빙 앱에서 생중계 되고 있습니다. \n\n#TVING #티빙 \n#온라인공연 #라이브스트리밍 \n#스우파 #스우파콘서트 #스트릿우먼파이터 https://t.co/T7IKMkb9Ge"
+	},
+	{
+		"created_at": "Sun Nov 21 09:29:41 +0000 2021",
+		"id": 1462347555614847000,
+		"id_str": "1462352507364159488",
+		"full_text": "[#자우림] 트랙리스트 공개❤️ https://t.co/HGZEKI9zT7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGZEKI9zT7",
+					"expanded_url": "https://twitter.com/jaurimofficial/status/1462345439177367557",
+					"display_url": "twitter.com/jaurimofficial…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1890,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462345439177367600,
+		"quoted_status_id_str": "1462345439177367557",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HGZEKI9zT7",
+			"expanded": "https://twitter.com/jaurimofficial/status/1462345439177367557",
+			"display": "twitter.com/jaurimofficial…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 21 09:01:36 +0000 2021",
+			"id": 1462345439177367600,
+			"id_str": "1462345439177367557",
+			"full_text": "TRACK LIST\n자우림 11 영원한 사랑\nJAURIM 11 LOVE FOREVER\n\n📌JAURIM 11 LOVE FOREVER\n2021. 11. 26. 6PM\n\n📌CONCERT LOVE FOREVER\nOLYMPIC HALL\n2021. 11. 26 - 28.\n\n#자우림 #JAURIM\n#자우림11영원한사랑\n#자우림스테이위드미\n#자우림나랑있어줘\n#JAURIM11LOVEFOREVER\n#JAURIM_STAY_WITH_ME https://t.co/lVr7EalNSH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "자우림",
+						"indices": [
+							147,
+							151
+						]
+					},
+					{
+						"text": "JAURIM",
+						"indices": [
+							152,
+							159
+						]
+					},
+					{
+						"text": "자우림11영원한사랑",
+						"indices": [
+							160,
+							171
+						]
+					},
+					{
+						"text": "자우림스테이위드미",
+						"indices": [
+							172,
+							182
+						]
+					},
+					{
+						"text": "자우림나랑있어줘",
+						"indices": [
+							183,
+							192
+						]
+					},
+					{
+						"text": "JAURIM11LOVEFOREVER",
+						"indices": [
+							193,
+							213
+						]
+					},
+					{
+						"text": "JAURIM_STAY_WITH_ME",
+						"indices": [
+							214,
+							234
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1462345430206140400,
+						"id_str": "1462345430206140420",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FEtLa8JaUAQUTAC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEtLa8JaUAQUTAC.jpg",
+						"url": "https://t.co/lVr7EalNSH",
+						"display_url": "pic.twitter.com/lVr7EalNSH",
+						"expanded_url": "https://twitter.com/JaurimOfficial/status/1462345439177367557/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1195,
+								"h": 1493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1462345430206140400,
+						"id_str": "1462345430206140420",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FEtLa8JaUAQUTAC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEtLa8JaUAQUTAC.jpg",
+						"url": "https://t.co/lVr7EalNSH",
+						"display_url": "pic.twitter.com/lVr7EalNSH",
+						"expanded_url": "https://twitter.com/JaurimOfficial/status/1462345439177367557/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1195,
+								"h": 1493,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 923507155860299800,
+				"id_str": "923507155860299776",
+				"name": "Jaurim",
+				"screen_name": "JaurimOfficial",
+				"location": "",
+				"description": "밴드 자우림의 공식 트위터입니다.",
+				"url": "https://t.co/2YZGVkZey0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2YZGVkZey0",
+								"expanded_url": "https://www.jaurim.com",
+								"display_url": "jaurim.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2818,
+				"friends_count": 5,
+				"listed_count": 20,
+				"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 210,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#자우림] 트랙리스트 공개❤️ https://t.co/HGZEKI9zT7"
+	},
+	{
+		"created_at": "Sun Nov 21 09:29:37 +0000 2021",
+		"id": 1462346312272076800,
+		"id_str": "1462352490012319746",
+		"full_text": "지금, 헤어지는 중입니다 OST Part.4\n정승환 ‘푸르른 계절도 내겐 의미 없어요’\n\nMelon https://t.co/o51hr1znA5\nGenie https://t.co/Tnm6TNVjHq\nBugs https://t.co/vDfM6s0HWc\nFLO https://t.co/cKEFiRDV3v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o51hr1znA5",
+					"expanded_url": "http://bit.ly/3cAU64i",
+					"display_url": "bit.ly/3cAU64i",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/Tnm6TNVjHq",
+					"expanded_url": "http://bit.ly/3kVpuis",
+					"display_url": "bit.ly/3kVpuis",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/vDfM6s0HWc",
+					"expanded_url": "http://bit.ly/3cOL4Rn",
+					"display_url": "bit.ly/3cOL4Rn",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/cKEFiRDV3v",
+					"expanded_url": "http://bit.ly/30IHF3J",
+					"display_url": "bit.ly/30IHF3J",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462346310539878400,
+		"in_reply_to_status_id_str": "1462346310539878407",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38909,
+			"friends_count": 11,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금, 헤어지는 중입니다 OST Part.4\n정승환 ‘푸르른 계절도 내겐 의미 없어요’\n\nMelon https://t.co/o51hr1znA5\nGenie https://t.co/Tnm6TNVjHq\nBugs https://t.co/vDfM6s0HWc\nFLO https://t.co/cKEFiRDV3v"
+	},
+	{
+		"created_at": "Sun Nov 21 09:29:35 +0000 2021",
+		"id": 1462346310539878400,
+		"id_str": "1462352481095196678",
+		"full_text": "정승환이 참여한 SBS 드라마 ‘지금, 헤어지는 중입니다’ OST Part.4 ‘푸르른 계절도 내겐 의미 없어요’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🌿",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462346307297636400,
+		"in_reply_to_status_id_str": "1462346307297636360",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38909,
+			"friends_count": 11,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정승환이 참여한 SBS 드라마 ‘지금, 헤어지는 중입니다’ OST Part.4 ‘푸르른 계절도 내겐 의미 없어요’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🌿"
+	},
+	{
+		"created_at": "Sun Nov 21 09:29:33 +0000 2021",
+		"id": 1462346307297636400,
+		"id_str": "1462352472257839108",
+		"full_text": "[#Release] #정승환\n\n지금, 헤어지는 중입니다 OST Part.4\n정승환 ‘푸르른 계절도 내겐 의미 없어요’\n\nLyrics by 한경수 \nComposed by 한경수, 이도형(Lohi) \nArranged by 이도형(Lohi), 정수완\n\n#JungSeungHwan #푸르른계절도내겐의미없어요 #SBS #지금헤어지는중입니다 https://t.co/JbMBTJYXWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"text": "푸르른계절도내겐의미없어요",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "지금헤어지는중입니다",
+					"indices": [
+						173,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462346300553568300,
+					"id_str": "1462346300553568258",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtMNmcaIAIee0q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtMNmcaIAIee0q.jpg",
+					"url": "https://t.co/JbMBTJYXWR",
+					"display_url": "pic.twitter.com/JbMBTJYXWR",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462346307297636360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462346300553568300,
+					"id_str": "1462346300553568258",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FEtMNmcaIAIee0q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEtMNmcaIAIee0q.jpg",
+					"url": "https://t.co/JbMBTJYXWR",
+					"display_url": "pic.twitter.com/JbMBTJYXWR",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462346307297636360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(이장원&신재평), 박새별, 권진아, 샘김, 정승환, 이진아, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38909,
+			"friends_count": 11,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #정승환\n\n지금, 헤어지는 중입니다 OST Part.4\n정승환 ‘푸르른 계절도 내겐 의미 없어요’\n\nLyrics by 한경수 \nComposed by 한경수, 이도형(Lohi) \nArranged by 이도형(Lohi), 정수완\n\n#JungSeungHwan #푸르른계절도내겐의미없어요 #SBS #지금헤어지는중입니다 https://t.co/JbMBTJYXWR"
+	},
+	{
+		"created_at": "Sun Nov 21 09:29:29 +0000 2021",
+		"id": 1462345286987096000,
+		"id_str": "1462352455036030987",
+		"full_text": "[#민서] 🗓2021년 11월 22일 월요일\n민서 작가님의 &lt;애정하는 사람&gt;이 출간됩니다.\n\n작가 민서가 말하는\n스스로를 사랑하는 방법들\n&lt;애정하는 사람&gt;✨\n\n내일 꼭 확인해주세요✔\n\n#MINSEO #애정하는사람 https://t.co/8i2DuVjchg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "애정하는사람",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462345221459837000,
+					"id_str": "1462345221459836928",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462345221459836928/pu/img/BBaGIfxbHwbNmrv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462345221459836928/pu/img/BBaGIfxbHwbNmrv7.jpg",
+					"url": "https://t.co/8i2DuVjchg",
+					"display_url": "pic.twitter.com/8i2DuVjchg",
+					"expanded_url": "https://twitter.com/themysticstory/status/1462345286987096075/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462345221459837000,
+					"id_str": "1462345221459836928",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462345221459836928/pu/img/BBaGIfxbHwbNmrv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462345221459836928/pu/img/BBaGIfxbHwbNmrv7.jpg",
+					"url": "https://t.co/8i2DuVjchg",
+					"display_url": "pic.twitter.com/8i2DuVjchg",
+					"expanded_url": "https://twitter.com/themysticstory/status/1462345286987096075/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 60067,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462345221459836928/pu/pl/PSMiie_fxOikrrt-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462345221459836928/pu/vid/720x404/JFWgWfMD3X_A2otJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462345221459836928/pu/vid/480x270/nHViLgzxfe9aEhD-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31024,
+			"friends_count": 15,
+			"listed_count": 267,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 🗓2021년 11월 22일 월요일\n민서 작가님의 &lt;애정하는 사람&gt;이 출간됩니다.\n\n작가 민서가 말하는\n스스로를 사랑하는 방법들\n&lt;애정하는 사람&gt;✨\n\n내일 꼭 확인해주세요✔\n\n#MINSEO #애정하는사람 https://t.co/8i2DuVjchg"
+	},
+	{
 		"created_at": "Sun Nov 21 09:11:17 +0000 2021",
 		"id": 1462346539829850000,
 		"id_str": "1462347875044761603",
