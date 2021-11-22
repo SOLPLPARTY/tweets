@@ -1,6 +1,1884 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 13:11:41 +0000 2021",
+		"id": 1462743812015415300,
+		"id_str": "1462770763379920900",
+		"full_text": "클럽FF 이번주 목금일  공연 일정입니다. https://t.co/rdShwv2yBk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462743803547504600,
+					"id_str": "1462743803547504642",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FEy1vUfaUAIQZPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEy1vUfaUAIQZPE.jpg",
+					"url": "https://t.co/rdShwv2yBk",
+					"display_url": "pic.twitter.com/rdShwv2yBk",
+					"expanded_url": "https://twitter.com/clubFF_/status/1462743812015415300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462743803547504600,
+					"id_str": "1462743803547504642",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FEy1vUfaUAIQZPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEy1vUfaUAIQZPE.jpg",
+					"url": "https://t.co/rdShwv2yBk",
+					"display_url": "pic.twitter.com/rdShwv2yBk",
+					"expanded_url": "https://twitter.com/clubFF_/status/1462743812015415300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462743803560075300,
+					"id_str": "1462743803560075270",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FEy1vUiaIAYYqW8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEy1vUiaIAYYqW8.jpg",
+					"url": "https://t.co/rdShwv2yBk",
+					"display_url": "pic.twitter.com/rdShwv2yBk",
+					"expanded_url": "https://twitter.com/clubFF_/status/1462743812015415300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462743803564277800,
+					"id_str": "1462743803564277760",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FEy1vUjaQAA4ayV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEy1vUjaQAA4ayV.jpg",
+					"url": "https://t.co/rdShwv2yBk",
+					"display_url": "pic.twitter.com/rdShwv2yBk",
+					"expanded_url": "https://twitter.com/clubFF_/status/1462743812015415300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6118,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클럽FF 이번주 목금일  공연 일정입니다. https://t.co/rdShwv2yBk"
+	},
+	{
+		"created_at": "Mon Nov 22 13:11:39 +0000 2021",
+		"id": 1462720797089284000,
+		"id_str": "1462770754454446085",
+		"full_text": "#김태인 #윾 #콘트라젤리 #행간소음 #윈터폴 #밀실 #반말 #비컨 #황인경 #하늘과바람과날개의끝 #전다인 #리켄즈 #원버튼 #소매 #문희뫼 #크램 #아이언호그 #피스쿼드 #소매 #란다 #클럽빵 #clubbbang #k-indie #indie #인디 https://t.co/M4N7or1jn2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김태인",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "윾",
+					"indices": [
+						5,
+						7
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "행간소음",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "윈터폴",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "밀실",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "반말",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "비컨",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "황인경",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "하늘과바람과날개의끝",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"text": "전다인",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "리켄즈",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "원버튼",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "소매",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "문희뫼",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "크램",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "아이언호그",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "피스쿼드",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "소매",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "란다",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "clubbbang",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "k",
+					"indices": [
+						120,
+						122
+					]
+				},
+				{
+					"text": "indie",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						136,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462720782589923300,
+					"id_str": "1462720782589923329",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FEygzUvakAENloa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEygzUvakAENloa.jpg",
+					"url": "https://t.co/M4N7or1jn2",
+					"display_url": "pic.twitter.com/M4N7or1jn2",
+					"expanded_url": "https://twitter.com/club_bbang/status/1462720797089284100/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462720782589923300,
+					"id_str": "1462720782589923329",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FEygzUvakAENloa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEygzUvakAENloa.jpg",
+					"url": "https://t.co/M4N7or1jn2",
+					"display_url": "pic.twitter.com/M4N7or1jn2",
+					"expanded_url": "https://twitter.com/club_bbang/status/1462720797089284100/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2492,
+			"friends_count": 876,
+			"listed_count": 36,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#김태인 #윾 #콘트라젤리 #행간소음 #윈터폴 #밀실 #반말 #비컨 #황인경 #하늘과바람과날개의끝 #전다인 #리켄즈 #원버튼 #소매 #문희뫼 #크램 #아이언호그 #피스쿼드 #소매 #란다 #클럽빵 #clubbbang #k-indie #indie #인디 https://t.co/M4N7or1jn2"
+	},
+	{
+		"created_at": "Mon Nov 22 13:11:31 +0000 2021",
+		"id": 1462705382728429600,
+		"id_str": "1462770720346419205",
+		"full_text": "'LIVE. ON'은 문화체육관광부가 후원하고, 한국음악레이블산업협회와 아리랑TV가 함께 추진합니다. \n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462705380761374700,
+		"in_reply_to_status_id_str": "1462705380761374722",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2754,
+			"friends_count": 2573,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'LIVE. ON'은 문화체육관광부가 후원하고, 한국음악레이블산업협회와 아리랑TV가 함께 추진합니다. \n⠀"
+	},
+	{
+		"created_at": "Mon Nov 22 13:11:25 +0000 2021",
+		"id": 1462705380761374700,
+		"id_str": "1462770694580801539",
+		"full_text": "✨ 따뜻한 위로와 치유의 메시지를 전하는 재즈보컬 조정희 (Cho Jung-hee)\nhttps://t.co/IMhU40KXml\n✨ 질펀한 가사와 달콤한 멜로디로 대중을 사로잡은 십센치 (10CM)\nhttps://t.co/DJhSp3lOWI\n⠀ \n- \n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IMhU40KXml",
+					"expanded_url": "https://www.instagram.com/cho.jung.hee/",
+					"display_url": "instagram.com/cho.jung.hee/",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/DJhSp3lOWI",
+					"expanded_url": "https://www.instagram.com/hi990103/",
+					"display_url": "instagram.com/hi990103/",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462705378953625600,
+		"in_reply_to_status_id_str": "1462705378953625600",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2754,
+			"friends_count": 2573,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨ 따뜻한 위로와 치유의 메시지를 전하는 재즈보컬 조정희 (Cho Jung-hee)\nhttps://t.co/IMhU40KXml\n✨ 질펀한 가사와 달콤한 멜로디로 대중을 사로잡은 십센치 (10CM)\nhttps://t.co/DJhSp3lOWI\n⠀ \n- \n⠀"
+	},
+	{
+		"created_at": "Mon Nov 22 13:11:21 +0000 2021",
+		"id": 1462705378953625600,
+		"id_str": "1462770677182779398",
+		"full_text": "- \n⠀ \n🎸 오늘의 아티스트 \n⠀ \n✨ 상상을 자극하는 연주곡, 퓨전 재즈 밴드 빅타이거그룹 (Bigtiger Group)\nhttps://t.co/RHMOPLqBDj\n⠀ \n✨ 한국의 독보적인 소리를 전하는 퓨전 국악 밴드 경지 (Kyong JI)\nhttps://t.co/jvpYtaz2o8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHMOPLqBDj",
+					"expanded_url": "https://www.instagram.com/bigtigergroup_official/",
+					"display_url": "instagram.com/bigtigergroup_…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/jvpYtaz2o8",
+					"expanded_url": "https://www.instagram.com/band_kyongji/",
+					"display_url": "instagram.com/band_kyongji/",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462705376831234000,
+		"in_reply_to_status_id_str": "1462705376831234053",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2754,
+			"friends_count": 2573,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- \n⠀ \n🎸 오늘의 아티스트 \n⠀ \n✨ 상상을 자극하는 연주곡, 퓨전 재즈 밴드 빅타이거그룹 (Bigtiger Group)\nhttps://t.co/RHMOPLqBDj\n⠀ \n✨ 한국의 독보적인 소리를 전하는 퓨전 국악 밴드 경지 (Kyong JI)\nhttps://t.co/jvpYtaz2o8"
+	},
+	{
+		"created_at": "Mon Nov 22 13:11:16 +0000 2021",
+		"id": 1462705376831234000,
+		"id_str": "1462770659856109575",
+		"full_text": "[LIVE. ON / 11월 22일 공연 소개] \n⠀ \n소규모 대중음악공연 지원 사업 'LIVE. ON' 오늘의 공연을 소개합니다. 오후 6시부터 2시간 동안 공연이 펼쳐집니다! \n⠀ \n'LIVE. ON' 공식 유튜브 채널을 통해 온라인 생중계됩니다. \n많은 시청 바랍니다 🤟 \n⠀ \n▶ 공연 보러가기 :  https://t.co/jj3bOABjKp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jj3bOABjKp",
+					"expanded_url": "https://c11.kr/u1nk",
+					"display_url": "c11.kr/u1nk",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2754,
+			"friends_count": 2573,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE. ON / 11월 22일 공연 소개] \n⠀ \n소규모 대중음악공연 지원 사업 'LIVE. ON' 오늘의 공연을 소개합니다. 오후 6시부터 2시간 동안 공연이 펼쳐집니다! \n⠀ \n'LIVE. ON' 공식 유튜브 채널을 통해 온라인 생중계됩니다. \n많은 시청 바랍니다 🤟 \n⠀ \n▶ 공연 보러가기 :  https://t.co/jj3bOABjKp"
+	},
+	{
+		"created_at": "Mon Nov 22 11:30:02 +0000 2021",
+		"id": 1462737744279392300,
+		"id_str": "1462745182646984704",
+		"full_text": "#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "박새별",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "서동환",
+					"indices": [
+						75,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462737628990779400,
+		"in_reply_to_status_id_str": "1462737628990779395",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/pZXTSlfqCF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pZXTSlfqCF",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38967,
+			"friends_count": 10,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환"
+	},
+	{
+		"created_at": "Mon Nov 22 11:29:57 +0000 2021",
+		"id": 1462737628990779400,
+		"id_str": "1462745161159655424",
+		"full_text": "[#Teaser] #안테나\n\n&lt; INVITATION💌 &gt;\n\n2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n\n2021. 12. 01. 6PM Release🎄\n\n#Antenna #다음겨울에도여기서만나\n#HelloAntenna_HelloChristmas\n#20211201_6PM https://t.co/2PZZPtivva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "다음겨울에도여기서만나",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"text": "HelloAntenna_HelloChristmas",
+					"indices": [
+						188,
+						216
+					]
+				},
+				{
+					"text": "20211201_6PM",
+					"indices": [
+						217,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462712335391686700,
+					"id_str": "1462712335391686656",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FEyaEwDaQAAPsZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEyaEwDaQAAPsZA.jpg",
+					"url": "https://t.co/2PZZPtivva",
+					"display_url": "pic.twitter.com/2PZZPtivva",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462737628990779395/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462712335391686700,
+					"id_str": "1462712335391686656",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FEyaEwDaQAAPsZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEyaEwDaQAAPsZA.jpg",
+					"url": "https://t.co/2PZZPtivva",
+					"display_url": "pic.twitter.com/2PZZPtivva",
+					"expanded_url": "https://twitter.com/antennamusic/status/1462737628990779395/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33813,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1462712335391686656/vid/480x270/RB4Huqt3KCj5s3gf.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1462712335391686656/vid/1280x720/15hXsV3-jsCbMBS6.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1462712335391686656/vid/640x360/zW8k08cwtseCQLJY.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1462712335391686656/pl/DTV6eynmpDTFvlAj.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[INVITATION💌] 2021 안테나 크리스마스 캐럴 ‘다음 겨울에도 여기서 만나’",
+						"description": "2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n\n2021. 12. 01. 6PM Release🎄",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/zbe6M7nM4Ko"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/pZXTSlfqCF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pZXTSlfqCF",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38967,
+			"friends_count": 10,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 604,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #안테나\n\n&lt; INVITATION💌 &gt;\n\n2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n\n2021. 12. 01. 6PM Release🎄\n\n#Antenna #다음겨울에도여기서만나\n#HelloAntenna_HelloChristmas\n#20211201_6PM https://t.co/2PZZPtivva"
+	},
+	{
+		"created_at": "Mon Nov 22 11:29:50 +0000 2021",
+		"id": 1462731464202600400,
+		"id_str": "1462745131300360193",
+		"full_text": "11/27 (토) 오후 5시\n[#너드커넥션] 2021 누리락 페스티벌 @ 세종음악창작소 누리락 공연장\n-\n11/29 (월) 오후 12시 반\n[#cott] PLAY PLANET @ KT&amp;G 상상플래닛 1층 커넥트홀\n-\n#유어썸머 #주간스케줄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "주간스케줄",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462731462398996500,
+		"in_reply_to_status_id_str": "1462731462398996481",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "11/27 (토) 오후 5시\n[#너드커넥션] 2021 누리락 페스티벌 @ 세종음악창작소 누리락 공연장\n-\n11/29 (월) 오후 12시 반\n[#cott] PLAY PLANET @ KT&amp;G 상상플래닛 1층 커넥트홀\n-\n#유어썸머 #주간스케줄"
+	},
+	{
+		"created_at": "Mon Nov 22 11:29:41 +0000 2021",
+		"id": 1462731462398996500,
+		"id_str": "1462745093069283335",
+		"full_text": "11/25 (목) 저녁 8시\n[#박소은] 2021 박소은 연말 단독 콘서트 &lt;일기&gt; 티켓 오픈 @ 네이버 예약\n-\n11/26 (금) 저녁 7시\n[#우주왕복선싸이드미러] 2021 누리락 페스티벌 @ 세종음악창작소 누리락 공연장\n-",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462731460696162300,
+		"in_reply_to_status_id_str": "1462731460696162307",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "11/25 (목) 저녁 8시\n[#박소은] 2021 박소은 연말 단독 콘서트 &lt;일기&gt; 티켓 오픈 @ 네이버 예약\n-\n11/26 (금) 저녁 7시\n[#우주왕복선싸이드미러] 2021 누리락 페스티벌 @ 세종음악창작소 누리락 공연장\n-"
+	},
+	{
+		"created_at": "Mon Nov 22 11:29:33 +0000 2021",
+		"id": 1462731460696162300,
+		"id_str": "1462745058965344270",
+		"full_text": "11/25 (목)\n[#계피] EBS 오디오e지식 &lt;무루와 계피의 이로운 이야기&gt;\n-\n11/25 (목) 저녁 8시\n[#너드커넥션] 너드커넥션 연말 콘서트 &lt;신세기 명화 극장&gt; 티켓 오픈 @ YES24 티켓\n-",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462731459282702300,
+		"in_reply_to_status_id_str": "1462731459282702336",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "11/25 (목)\n[#계피] EBS 오디오e지식 &lt;무루와 계피의 이로운 이야기&gt;\n-\n11/25 (목) 저녁 8시\n[#너드커넥션] 너드커넥션 연말 콘서트 &lt;신세기 명화 극장&gt; 티켓 오픈 @ YES24 티켓\n-"
+	},
+	{
 		"created_at": "Mon Nov 22 10:29:51 +0000 2021",
 		"id": 1462727586778255400,
 		"id_str": "1462730036914667521",
