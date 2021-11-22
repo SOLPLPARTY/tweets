@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 07:29:45 +0000 2021",
+		"id": 1462680430247760000,
+		"id_str": "1462684712196059137",
+		"full_text": "[#손태진 #민서] '손태진, 케빈오, 김바울 콘서트 &lt;스윗 랑데부&gt;' 공연 안내\n\n🎵특별 출연 : 민서\n\n📌티켓오픈\n2021. 11. 22 (MON) 2PM\n\n📌예매링크\nhttps://t.co/DoB99QqUb5\n\n📌공연일시\n2021. 12. 15 (WED) 8PM\n2021. 12. 16 (THU) 8PM\n\n📌공연장소\n롯데 콘서트 홀\n\n#SONTAEJIN #MINSEO #스윗랑데부 https://t.co/0LOzVxrjYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"text": "스윗랑데부",
+					"indices": [
+						215,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DoB99QqUb5",
+					"expanded_url": "https://bit.ly/3nCwySD",
+					"display_url": "bit.ly/3nCwySD",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462680026735079400,
+					"id_str": "1462680026735079424",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FEx7vBWacAAG1Sl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEx7vBWacAAG1Sl.png",
+					"url": "https://t.co/0LOzVxrjYX",
+					"display_url": "pic.twitter.com/0LOzVxrjYX",
+					"expanded_url": "https://twitter.com/themysticstory/status/1462680430247759874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462680026735079400,
+					"id_str": "1462680026735079424",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FEx7vBWacAAG1Sl.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEx7vBWacAAG1Sl.png",
+					"url": "https://t.co/0LOzVxrjYX",
+					"display_url": "pic.twitter.com/0LOzVxrjYX",
+					"expanded_url": "https://twitter.com/themysticstory/status/1462680430247759874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31100,
+			"friends_count": 15,
+			"listed_count": 267,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진 #민서] '손태진, 케빈오, 김바울 콘서트 &lt;스윗 랑데부&gt;' 공연 안내\n\n🎵특별 출연 : 민서\n\n📌티켓오픈\n2021. 11. 22 (MON) 2PM\n\n📌예매링크\nhttps://t.co/DoB99QqUb5\n\n📌공연일시\n2021. 12. 15 (WED) 8PM\n2021. 12. 16 (THU) 8PM\n\n📌공연장소\n롯데 콘서트 홀\n\n#SONTAEJIN #MINSEO #스윗랑데부 https://t.co/0LOzVxrjYX"
+	},
+	{
+		"created_at": "Mon Nov 22 07:29:38 +0000 2021",
+		"id": 1462679025868886000,
+		"id_str": "1462684682366111749",
+		"full_text": "#박소은 #박손장 #손님 #연말공연 #단독공연 #2021연말공연 #롤링홀 #홍대 #홍대롤링홀 #HONGDAE #라이브 #LIVE #네이버예약 #네이버 #예약 #티켓 #예매 #일기 #Diary #journal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "박손장",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "2021연말공연",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "홍대롤링홀",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "HONGDAE",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "네이버예약",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "예약",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "예매",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "일기",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "Diary",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "journal",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462679024510013400,
+		"in_reply_to_status_id_str": "1462679024510013447",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#박소은 #박손장 #손님 #연말공연 #단독공연 #2021연말공연 #롤링홀 #홍대 #홍대롤링홀 #HONGDAE #라이브 #LIVE #네이버예약 #네이버 #예약 #티켓 #예매 #일기 #Diary #journal"
+	},
+	{
+		"created_at": "Mon Nov 22 07:29:34 +0000 2021",
+		"id": 1462679024510013400,
+		"id_str": "1462684665064603653",
+		"full_text": "📔공연 정보\n- 일시 : 2021년 12월 24일 금요일 오후 8시\n: 2021년 12월 25일 토요일 오후 6시\n- 장소 : 홍대 롤링홀\n- 티켓가격 : 60,000원\n\n*자세한 내용은 예매페이지를 참고해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462679021573972000,
+		"in_reply_to_status_id_str": "1462679021573971968",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📔공연 정보\n- 일시 : 2021년 12월 24일 금요일 오후 8시\n: 2021년 12월 25일 토요일 오후 6시\n- 장소 : 홍대 롤링홀\n- 티켓가격 : 60,000원\n\n*자세한 내용은 예매페이지를 참고해주세요."
+	},
+	{
 		"created_at": "Mon Nov 22 07:09:22 +0000 2021",
 		"id": 1462679581333274600,
 		"id_str": "1462679581333274629",
