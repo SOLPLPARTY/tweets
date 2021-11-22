@@ -1,6 +1,1050 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 09:30:02 +0000 2021",
+		"id": 1462709057584652300,
+		"id_str": "1462714983792398337",
+		"full_text": "검은잎들\n겨울냄새 가득한 싱글 \n[철교 위에서 본 나] \n2021.12.01.\n정오 발매\n\n@Leavesblack  #검은잎들 #철교위에서본나 #겨울싱글 #12월_1일_정오발매 https://t.co/yysvVPbaEp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "검은잎들",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "철교위에서본나",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "겨울싱글",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "12월_1일_정오발매",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Leavesblack",
+					"name": "검은잎들",
+					"id": 3432037692,
+					"id_str": "3432037692",
+					"indices": [
+						51,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462708991902257200,
+					"id_str": "1462708991902257154",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462708991902257154/pu/img/3Kon6guFKQkcVBC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462708991902257154/pu/img/3Kon6guFKQkcVBC3.jpg",
+					"url": "https://t.co/yysvVPbaEp",
+					"display_url": "pic.twitter.com/yysvVPbaEp",
+					"expanded_url": "https://twitter.com/orm_ent/status/1462709057584652296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462708991902257200,
+					"id_str": "1462708991902257154",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462708991902257154/pu/img/3Kon6guFKQkcVBC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462708991902257154/pu/img/3Kon6guFKQkcVBC3.jpg",
+					"url": "https://t.co/yysvVPbaEp",
+					"display_url": "pic.twitter.com/yysvVPbaEp",
+					"expanded_url": "https://twitter.com/orm_ent/status/1462709057584652296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 51625,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462708991902257154/pu/vid/480x360/0yIw4F2qt4mFwlhk.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462708991902257154/pu/vid/360x270/dX2L2zYztZ-wEuFg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462708991902257154/pu/vid/960x720/CMwU96ra0y7eCaS4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462708991902257154/pu/pl/NyFZTr7QJZQzEOVq.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 323,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1633404326",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검은잎들\n겨울냄새 가득한 싱글 \n[철교 위에서 본 나] \n2021.12.01.\n정오 발매\n\n@Leavesblack  #검은잎들 #철교위에서본나 #겨울싱글 #12월_1일_정오발매 https://t.co/yysvVPbaEp"
+	},
+	{
+		"created_at": "Mon Nov 22 09:29:58 +0000 2021",
+		"id": 1462708768462884900,
+		"id_str": "1462714966558052352",
+		"full_text": "[mmddyy]\n\nmmddyy(맨디)의 '논픽션' 라이브 클립이 공식 유튜브 채널에 업로드되었습니다.\nmmddyy's 'nonfiction' Live Clip Video has uploaded on PAKTORY COMPANY's official youtube channel.\n\nyoutube : https://t.co/yHGlDXvJ1L\n\n#mmddyy #맨디\n#논픽션 #nonfiction\n#LiveClip #Live #라이브클립",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mmddyy",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "맨디",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "논픽션",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "nonfiction",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"text": "LiveClip",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"text": "Live",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "라이브클립",
+					"indices": [
+						236,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yHGlDXvJ1L",
+					"expanded_url": "https://youtu.be/3HV-U-O7eT8",
+					"display_url": "youtu.be/3HV-U-O7eT8",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[mmddyy]\n\nmmddyy(맨디)의 '논픽션' 라이브 클립이 공식 유튜브 채널에 업로드되었습니다.\nmmddyy's 'nonfiction' Live Clip Video has uploaded on PAKTORY COMPANY's official youtube channel.\n\nyoutube : https://t.co/yHGlDXvJ1L\n\n#mmddyy #맨디\n#논픽션 #nonfiction\n#LiveClip #Live #라이브클립"
+	},
+	{
+		"created_at": "Mon Nov 22 09:29:50 +0000 2021",
+		"id": 1462707609442545700,
+		"id_str": "1462714932500250626",
+		"full_text": "#전기뱀장어 #전뱀 #연말공연 #공연 #어쿠스틱 #콘서트 #공연 #단독공연 #LIVE #라이브 #공상온도 #카페공상온도 #네이버예약 #네이버 #예약 #티켓 #예매",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "전뱀",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "어쿠스틱",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "공상온도",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "카페공상온도",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "네이버예약",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "예약",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "예매",
+					"indices": [
+						87,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462707606795874300,
+		"in_reply_to_status_id_str": "1462707606795874304",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#전기뱀장어 #전뱀 #연말공연 #공연 #어쿠스틱 #콘서트 #공연 #단독공연 #LIVE #라이브 #공상온도 #카페공상온도 #네이버예약 #네이버 #예약 #티켓 #예매"
+	},
+	{
+		"created_at": "Mon Nov 22 09:29:42 +0000 2021",
+		"id": 1462707606795874300,
+		"id_str": "1462714898429972480",
+		"full_text": "쌀쌀한 저녁, 울창한 숲 속에서 \n캠프파이어에 불을 놓고 여러분을 기다릴거에요!\n\n🪵공연 정보\n- 일시 : 2021년 12월 11일 토요일 오후 3시 / 오후 7시\n- 장소 : 공상온도\n- 티켓가격 : 55,000원\n\n*자세한 내용은 예매페이지를 참고해주세요. https://t.co/SkEYig68pg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462704985159139300,
+					"id_str": "1462704985159139331",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FEySbyuagAMz8H-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEySbyuagAMz8H-.jpg",
+					"url": "https://t.co/SkEYig68pg",
+					"display_url": "pic.twitter.com/SkEYig68pg",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1462707606795874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462704985159139300,
+					"id_str": "1462704985159139331",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FEySbyuagAMz8H-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEySbyuagAMz8H-.jpg",
+					"url": "https://t.co/SkEYig68pg",
+					"display_url": "pic.twitter.com/SkEYig68pg",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1462707606795874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462704985159135200,
+					"id_str": "1462704985159135233",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FEySbyuacAEQXpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEySbyuacAEQXpR.jpg",
+					"url": "https://t.co/SkEYig68pg",
+					"display_url": "pic.twitter.com/SkEYig68pg",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1462707606795874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462704985163309000,
+					"id_str": "1462704985163309061",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FEySbyvaIAUWQts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEySbyvaIAUWQts.jpg",
+					"url": "https://t.co/SkEYig68pg",
+					"display_url": "pic.twitter.com/SkEYig68pg",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1462707606795874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462707602140266500,
+		"in_reply_to_status_id_str": "1462707602140266497",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쌀쌀한 저녁, 울창한 숲 속에서 \n캠프파이어에 불을 놓고 여러분을 기다릴거에요!\n\n🪵공연 정보\n- 일시 : 2021년 12월 11일 토요일 오후 3시 / 오후 7시\n- 장소 : 공상온도\n- 티켓가격 : 55,000원\n\n*자세한 내용은 예매페이지를 참고해주세요. https://t.co/SkEYig68pg"
+	},
+	{
+		"created_at": "Mon Nov 22 09:29:33 +0000 2021",
+		"id": 1462707602140266500,
+		"id_str": "1462714860198895616",
+		"full_text": "토끼, 다람쥐, 부엉이처럼 모여앉아 서로의 체온을 빌려, 등 뒤에서 불어오는 바람을 이겨내면 어떨까요.\n평소와는 다르게 둥그렇게 둘러앉은 멤버들이 둥그런 소리들을 연주할 예정입니다. \n집으로 돌아갈 때 주머니 안에 넣어갈 수 있는 따뜻한 불씨같은 노래들을 들려드리려 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462707600236048400,
+		"in_reply_to_status_id_str": "1462707600236048386",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "토끼, 다람쥐, 부엉이처럼 모여앉아 서로의 체온을 빌려, 등 뒤에서 불어오는 바람을 이겨내면 어떨까요.\n평소와는 다르게 둥그렇게 둘러앉은 멤버들이 둥그런 소리들을 연주할 예정입니다. \n집으로 돌아갈 때 주머니 안에 넣어갈 수 있는 따뜻한 불씨같은 노래들을 들려드리려 합니다."
+	},
+	{
+		"created_at": "Mon Nov 22 09:29:25 +0000 2021",
+		"id": 1462707600236048400,
+		"id_str": "1462714825759469577",
+		"full_text": "어쩐지 유난히 추울 것만 같은 겨울의 어귀에서 밴드 전기뱀장어가 작은 모닥불을 피울 예정입니다. \n동그랗게 모여 앉아 군소리도 하고 군고구마도 까먹고, 내키면 노래도 한 곡 부르고 싶습니다.\n모닥불을 핑계 삼아 우리가 옹기종기 모인다면 어떨까요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462707597736235000,
+		"in_reply_to_status_id_str": "1462707597736235010",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어쩐지 유난히 추울 것만 같은 겨울의 어귀에서 밴드 전기뱀장어가 작은 모닥불을 피울 예정입니다. \n동그랗게 모여 앉아 군소리도 하고 군고구마도 까먹고, 내키면 노래도 한 곡 부르고 싶습니다.\n모닥불을 핑계 삼아 우리가 옹기종기 모인다면 어떨까요."
+	},
+	{
 		"created_at": "Mon Nov 22 09:14:25 +0000 2021",
 		"id": 1462711051892535300,
 		"id_str": "1462711051892535298",
