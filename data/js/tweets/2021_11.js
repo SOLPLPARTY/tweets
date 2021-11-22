@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 05:11:17 +0000 2021",
+		"id": 1462635490721468400,
+		"id_str": "1462649865524199429",
+		"full_text": "재미공작소 작가와의 만남 [무엇이든(은 아니지만) 물어보세요] - 김현 시인 편- 2021.12.10(금) PM 7:30 https://t.co/k3r94HYBLO https://t.co/PZAlMDriiW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k3r94HYBLO",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222570806280",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462635485520892000,
+					"id_str": "1462635485520891905",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FExTOYZakAEhhea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FExTOYZakAEhhea.jpg",
+					"url": "https://t.co/PZAlMDriiW",
+					"display_url": "pic.twitter.com/PZAlMDriiW",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1462635490721468416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462635485520892000,
+					"id_str": "1462635485520891905",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FExTOYZakAEhhea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FExTOYZakAEhhea.jpg",
+					"url": "https://t.co/PZAlMDriiW",
+					"display_url": "pic.twitter.com/PZAlMDriiW",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1462635490721468416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8366,
+			"friends_count": 554,
+			"listed_count": 85,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미공작소 작가와의 만남 [무엇이든(은 아니지만) 물어보세요] - 김현 시인 편- 2021.12.10(금) PM 7:30 https://t.co/k3r94HYBLO https://t.co/PZAlMDriiW"
+	},
+	{
+		"created_at": "Mon Nov 22 04:39:34 +0000 2021",
+		"id": 1462641883486818300,
+		"id_str": "1462641883486818305",
+		"full_text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] 미공개 영상 10CM - 스토커\nhttps://t.co/hwB5O3NuKB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						19,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hwB5O3NuKB",
+					"expanded_url": "https://youtu.be/ft8gdeCqZWA",
+					"display_url": "youtu.be/ft8gdeCqZWA",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] 미공개 영상 10CM - 스토커\nhttps://t.co/hwB5O3NuKB"
+	},
+	{
+		"created_at": "Mon Nov 22 04:29:36 +0000 2021",
+		"id": 1462633545361334300,
+		"id_str": "1462639374668111872",
+		"full_text": "💥오!데빌킹💥\n라이브씬 최강 에너자이저 밴드들의 “우정의 무대” 🙌🙌\n\n2021년 12월 11일(토) PM7\n클럽 샤프\n\n오칠\n데드버튼즈\n빌리카터\n드링킹소년소녀합창단\n\n예매\nhttps://t.co/ImIpwCqoBY\n\n#오칠 #데드버튼즈 #빌리카터 #드링킹소년소녀합창단 #서울인디뮤직페스타 #잔다리라이브투어 #클럽샤프 https://t.co/RvVtzLB6VB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오칠",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "데드버튼즈",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "빌리카터",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "드링킹소년소녀합창단",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "잔다리라이브투어",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "클럽샤프",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ImIpwCqoBY",
+					"expanded_url": "https://bit.ly/3xae9jo",
+					"display_url": "bit.ly/3xae9jo",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462633516676808700,
+					"id_str": "1462633516676808704",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FExRbx4aAAAC6p2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FExRbx4aAAAC6p2.jpg",
+					"url": "https://t.co/RvVtzLB6VB",
+					"display_url": "pic.twitter.com/RvVtzLB6VB",
+					"expanded_url": "https://twitter.com/electric_muse/status/1462633545361334282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462633516676808700,
+					"id_str": "1462633516676808704",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FExRbx4aAAAC6p2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FExRbx4aAAAC6p2.jpg",
+					"url": "https://t.co/RvVtzLB6VB",
+					"display_url": "pic.twitter.com/RvVtzLB6VB",
+					"expanded_url": "https://twitter.com/electric_muse/status/1462633545361334282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462633516689391600,
+					"id_str": "1462633516689391617",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FExRbx7aAAEa4we.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FExRbx7aAAEa4we.jpg",
+					"url": "https://t.co/RvVtzLB6VB",
+					"display_url": "pic.twitter.com/RvVtzLB6VB",
+					"expanded_url": "https://twitter.com/electric_muse/status/1462633545361334282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3336,
+			"friends_count": 1296,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💥오!데빌킹💥\n라이브씬 최강 에너자이저 밴드들의 “우정의 무대” 🙌🙌\n\n2021년 12월 11일(토) PM7\n클럽 샤프\n\n오칠\n데드버튼즈\n빌리카터\n드링킹소년소녀합창단\n\n예매\nhttps://t.co/ImIpwCqoBY\n\n#오칠 #데드버튼즈 #빌리카터 #드링킹소년소녀합창단 #서울인디뮤직페스타 #잔다리라이브투어 #클럽샤프 https://t.co/RvVtzLB6VB"
+	},
+	{
 		"created_at": "Mon Nov 22 03:29:43 +0000 2021",
 		"id": 1462615671301230600,
 		"id_str": "1462624304697335812",
