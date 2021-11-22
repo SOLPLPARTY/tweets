@@ -1,6 +1,1018 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 10:29:51 +0000 2021",
+		"id": 1462727586778255400,
+		"id_str": "1462730036914667521",
+		"full_text": "SF9's 10th album [RUMINATION] is out now! Go stream their title song 'Trauma' on Apple Music!\n\n🍎https://t.co/FAyCMN5hWB\n\n#SF9_RUMINATION_RELEASE\n#SF9 #에스에프나인 \n@SF9official https://t.co/prdY55T0Jd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SF9_RUMINATION_RELEASE",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "에스에프나인",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SF9official",
+					"name": "SF9official",
+					"id": 765763153728835600,
+					"id_str": "765763153728835584",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FAyCMN5hWB",
+					"expanded_url": "https://apple.co/3DGdiJL",
+					"display_url": "apple.co/3DGdiJL",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462727546320355300,
+					"id_str": "1462727546320355329",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462727546320355329/pu/img/1litYCp1ApFduBGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462727546320355329/pu/img/1litYCp1ApFduBGY.jpg",
+					"url": "https://t.co/prdY55T0Jd",
+					"display_url": "pic.twitter.com/prdY55T0Jd",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1462727586778255361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462727546320355300,
+					"id_str": "1462727546320355329",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462727546320355329/pu/img/1litYCp1ApFduBGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462727546320355329/pu/img/1litYCp1ApFduBGY.jpg",
+					"url": "https://t.co/prdY55T0Jd",
+					"display_url": "pic.twitter.com/prdY55T0Jd",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1462727586778255361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59072,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462727546320355329/pu/vid/720x720/TBbsdeRF1gn18YTf.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462727546320355329/pu/pl/JgWNsFaOCC60fmnu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462727546320355329/pu/vid/320x320/Uyoi_m5H6aM6bgeg.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462727546320355329/pu/vid/540x540/mZPM3K_JzHtKyd0b.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "FLUXUS | bit MORE THAN K-POP",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "Global Music Distribution Service for Labels & Artists",
+			"url": "https://t.co/ruX1z5LXi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ruX1z5LXi1",
+							"expanded_url": "https://instagram.com/bitmorethankpop",
+							"display_url": "instagram.com/bitmorethankpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13315,
+			"friends_count": 12660,
+			"listed_count": 232,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460520305458561024/B2-F4RdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460520305458561024/B2-F4RdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1587025850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SF9's 10th album [RUMINATION] is out now! Go stream their title song 'Trauma' on Apple Music!\n\n🍎https://t.co/FAyCMN5hWB\n\n#SF9_RUMINATION_RELEASE\n#SF9 #에스에프나인 \n@SF9official https://t.co/prdY55T0Jd"
+	},
+	{
+		"created_at": "Mon Nov 22 10:29:43 +0000 2021",
+		"id": 1462724640430715000,
+		"id_str": "1462730002823270400",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n백돌이 부캐족들 싸움에 지구인 등 터지는 날\n편집자 PTSD 씨게오는 편집 고증 골프예능 백돌이대탈출\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/5MrEQmPjp9\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #고우리 #최수임 #양영현 https://t.co/lJiM6fcYfD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "고우리",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "최수임",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "양영현",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5MrEQmPjp9",
+					"expanded_url": "https://youtu.be/ffYr-0F0ThI",
+					"display_url": "youtu.be/ffYr-0F0ThI",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462724630981247000,
+					"id_str": "1462724630981246977",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FEykTVHaAAEkj_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEykTVHaAAEkj_c.jpg",
+					"url": "https://t.co/lJiM6fcYfD",
+					"display_url": "pic.twitter.com/lJiM6fcYfD",
+					"expanded_url": "https://twitter.com/humap_official/status/1462724640430714880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462724630981247000,
+					"id_str": "1462724630981246977",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FEykTVHaAAEkj_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEykTVHaAAEkj_c.jpg",
+					"url": "https://t.co/lJiM6fcYfD",
+					"display_url": "pic.twitter.com/lJiM6fcYfD",
+					"expanded_url": "https://twitter.com/humap_official/status/1462724640430714880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n백돌이 부캐족들 싸움에 지구인 등 터지는 날\n편집자 PTSD 씨게오는 편집 고증 골프예능 백돌이대탈출\n\n#백돌이대탈출_부캐골프시대 에서 확인하고 가세요!\n\n👉 https://t.co/5MrEQmPjp9\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #고우리 #최수임 #양영현 https://t.co/lJiM6fcYfD"
+	},
+	{
+		"created_at": "Mon Nov 22 10:29:39 +0000 2021",
+		"id": 1462724156978385000,
+		"id_str": "1462729985546985478",
+		"full_text": "[#News] #적재\n\n적재, 첫 전국투어 서울 공연 성료…140분 꽉 채운 '웰메이드 공연'\n\n(출처: 스타뉴스 | 네이버 TV연예)\n\n✔️ https://t.co/wQUprFcMme\n\n#Jukjae #서로의서로 #전국투어 #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wQUprFcMme",
+					"expanded_url": "http://naver.me/Gh7ZZx3t",
+					"display_url": "naver.me/Gh7ZZx3t",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 적재 Single ‘서로의 서로’ 2021. 11. 16 Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38941,
+			"friends_count": 10,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1636948067",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #적재\n\n적재, 첫 전국투어 서울 공연 성료…140분 꽉 채운 '웰메이드 공연'\n\n(출처: 스타뉴스 | 네이버 TV연예)\n\n✔️ https://t.co/wQUprFcMme\n\n#Jukjae #서로의서로 #전국투어 #콘서트"
+	},
+	{
+		"created_at": "Mon Nov 22 10:29:36 +0000 2021",
+		"id": 1462722618914578400,
+		"id_str": "1462729972439830529",
+		"full_text": "🪐일시 : 2021년 11월 29일 월요일 오후 12시 30분\n🪐장소 : KT&amp;G 상상플래닛 1층 커넥트홀\n\n*자세한 사항은 상상플래닛 인스타그램 공식 계정 (@ sangsangplanet) 에서 확인해주세요!\n\n#cott #콧 #상상플래닛 #playplanet #버스킹 #공연 #라이브 #성수동 #라이브공연 #live #busking",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						129,
+						131
+					]
+				},
+				{
+					"text": "상상플래닛",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "playplanet",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "버스킹",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "성수동",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "라이브공연",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "busking",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1462722616800596000,
+		"in_reply_to_status_id_str": "1462722616800595970",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🪐일시 : 2021년 11월 29일 월요일 오후 12시 30분\n🪐장소 : KT&amp;G 상상플래닛 1층 커넥트홀\n\n*자세한 사항은 상상플래닛 인스타그램 공식 계정 (@ sangsangplanet) 에서 확인해주세요!\n\n#cott #콧 #상상플래닛 #playplanet #버스킹 #공연 #라이브 #성수동 #라이브공연 #live #busking"
+	},
+	{
+		"created_at": "Mon Nov 22 10:29:30 +0000 2021",
+		"id": 1462722616800596000,
+		"id_str": "1462729946766401542",
+		"full_text": "[#cott] &lt;PLAY PLANET&gt;\n\n감각적인 그루브와 세련된 멜로디로 대중성과 음악성을 모두 사로잡은 밴드 'cott'이 상상플래닛에서 버스킹을 진행합니다. 성수동 감성과 잘 어울리는 cott의 음악을 상상플래닛에서 즐겨 보세요. https://t.co/dgvIeWmWtX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462722609624526800,
+					"id_str": "1462722609624526850",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FEyidq-aMAIB0JG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEyidq-aMAIB0JG.jpg",
+					"url": "https://t.co/dgvIeWmWtX",
+					"display_url": "pic.twitter.com/dgvIeWmWtX",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1462722616800595970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462722609624526800,
+					"id_str": "1462722609624526850",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FEyidq-aMAIB0JG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEyidq-aMAIB0JG.jpg",
+					"url": "https://t.co/dgvIeWmWtX",
+					"display_url": "pic.twitter.com/dgvIeWmWtX",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1462722616800595970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#cott] &lt;PLAY PLANET&gt;\n\n감각적인 그루브와 세련된 멜로디로 대중성과 음악성을 모두 사로잡은 밴드 'cott'이 상상플래닛에서 버스킹을 진행합니다. 성수동 감성과 잘 어울리는 cott의 음악을 상상플래닛에서 즐겨 보세요. https://t.co/dgvIeWmWtX"
+	},
+	{
 		"created_at": "Mon Nov 22 09:30:02 +0000 2021",
 		"id": 1462709057584652300,
 		"id_str": "1462714983792398337",
