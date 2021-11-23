@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 03:29:25 +0000 2021",
+		"id": 1462983149625831400,
+		"id_str": "1462986617568862211",
+		"full_text": "🌺𝑭𝒍𝒐𝒘𝒆𝒓🌺 피아노 버전이 추가된\n#조니스팀슨 EP [Flower] 발매! ₊·*◟(⌯ˇ- ˇ⌯)◜‧*・\n\n🎧 https://t.co/jjCcR5NBNS https://t.co/xHr0cHrnfX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조니스팀슨",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jjCcR5NBNS",
+					"expanded_url": "https://WMK.lnk.to/a3JMzGPh",
+					"display_url": "WMK.lnk.to/a3JMzGPh",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462980822303404000,
+					"id_str": "1462980822303404035",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462980822303404035/pu/img/DXudOPoQK0nsNEoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462980822303404035/pu/img/DXudOPoQK0nsNEoZ.jpg",
+					"url": "https://t.co/xHr0cHrnfX",
+					"display_url": "pic.twitter.com/xHr0cHrnfX",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1462983149625831424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462980822303404000,
+					"id_str": "1462980822303404035",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462980822303404035/pu/img/DXudOPoQK0nsNEoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462980822303404035/pu/img/DXudOPoQK0nsNEoZ.jpg",
+					"url": "https://t.co/xHr0cHrnfX",
+					"display_url": "pic.twitter.com/xHr0cHrnfX",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1462983149625831424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30238,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462980822303404035/pu/vid/540x540/Kc9sknPzkRefKb9C.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462980822303404035/pu/vid/320x320/vKegVmtmsTBwkGSO.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462980822303404035/pu/vid/720x720/C4o8Z7TFV6iSxW6U.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462980822303404035/pu/pl/xe7eL-pKjPXYoHyy.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51946,
+			"friends_count": 495,
+			"listed_count": 197,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌺𝑭𝒍𝒐𝒘𝒆𝒓🌺 피아노 버전이 추가된\n#조니스팀슨 EP [Flower] 발매! ₊·*◟(⌯ˇ- ˇ⌯)◜‧*・\n\n🎧 https://t.co/jjCcR5NBNS https://t.co/xHr0cHrnfX"
+	},
+	{
 		"created_at": "Tue Nov 23 03:02:02 +0000 2021",
 		"id": 1462979728080576500,
 		"id_str": "1462979728080576514",
