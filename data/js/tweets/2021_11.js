@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 01:29:33 +0000 2021",
+		"id": 1462949089495056400,
+		"id_str": "1462956451949907980",
+		"full_text": "[#윤종신] 콘서트 'BIRDMAN' 티켓 예매 안내✔\n\n📌티켓오픈\n부산 : 11. 25 (THU) 2PM\n서울 : 11. 26 (FRI) 2PM\n대구 : 11. 29 (MON) 2PM \n\n📌예매처 및 문의\n인터파크\n\n#YoonJongshin #콘서트 #BIRDMAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "BIRDMAN",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462949017831108600,
+		"in_reply_to_status_id_str": "1462949017831108612",
+		"in_reply_to_user_id": 486655058,
+		"in_reply_to_user_id_str": "486655058",
+		"in_reply_to_screen_name": "themysticstory",
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31119,
+			"friends_count": 15,
+			"listed_count": 268,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#윤종신] 콘서트 'BIRDMAN' 티켓 예매 안내✔\n\n📌티켓오픈\n부산 : 11. 25 (THU) 2PM\n서울 : 11. 26 (FRI) 2PM\n대구 : 11. 29 (MON) 2PM \n\n📌예매처 및 문의\n인터파크\n\n#YoonJongshin #콘서트 #BIRDMAN"
+	},
+	{
 		"created_at": "Mon Nov 22 15:29:25 +0000 2021",
 		"id": 1462798031246565400,
 		"id_str": "1462805422558093316",
