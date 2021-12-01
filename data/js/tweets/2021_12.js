@@ -1,10 +1,446 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 13:29:37 +0000 2021",
+		"id": 1466029755732398000,
+		"id_str": "1466036766935298049",
+		"full_text": "CHO JUNYOUNG at the press conference of his first movie 'Happy New Year’! 📸\nMovie ‘Happy New Year’ coming to cinemas &amp; TVING this December! \n\n#조준영 #CHOJUNYOUNG \n#해피뉴이어 #HappyNewYear https://t.co/x8fYnBVhwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조준영",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "CHOJUNYOUNG",
+					"indices": [
+						151,
+						163
+					]
+				},
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "HappyNewYear",
+					"indices": [
+						172,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466029601948196900,
+					"id_str": "1466029601948196867",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhiJ9ZUYAMicH9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhiJ9ZUYAMicH9.jpg",
+					"url": "https://t.co/x8fYnBVhwJ",
+					"display_url": "pic.twitter.com/x8fYnBVhwJ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466029755732398083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1905,
+							"h": 1905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466029601948196900,
+					"id_str": "1466029601948196867",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhiJ9ZUYAMicH9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhiJ9ZUYAMicH9.jpg",
+					"url": "https://t.co/x8fYnBVhwJ",
+					"display_url": "pic.twitter.com/x8fYnBVhwJ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466029755732398083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1905,
+							"h": 1905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10258229,
+			"friends_count": 55,
+			"listed_count": 11203,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 3648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHO JUNYOUNG at the press conference of his first movie 'Happy New Year’! 📸\nMovie ‘Happy New Year’ coming to cinemas &amp; TVING this December! \n\n#조준영 #CHOJUNYOUNG \n#해피뉴이어 #HappyNewYear https://t.co/x8fYnBVhwJ"
+	},
+	{
+		"created_at": "Wed Dec 01 13:29:29 +0000 2021",
+		"id": 1466029496662777900,
+		"id_str": "1466036732894326788",
+		"full_text": "LIM YOONA at the press conference of the movie 'Happy New Year’! 📸\nMovie ‘Happy New Year’ coming to cinemas &amp; TVING this December! \n\n#임윤아 #LIMYOONA\n#윤아 #YOONA\n#해피뉴이어 #happynewyear \n#소녀시대 #GirlsGeneration https://t.co/ILz1e6b9Ut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "happynewyear",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						191,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466029441654481000,
+					"id_str": "1466029441654480901",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhiAoQUYAUANF3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhiAoQUYAUANF3.jpg",
+					"url": "https://t.co/ILz1e6b9Ut",
+					"display_url": "pic.twitter.com/ILz1e6b9Ut",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466029496662777861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466029441654481000,
+					"id_str": "1466029441654480901",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhiAoQUYAUANF3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhiAoQUYAUANF3.jpg",
+					"url": "https://t.co/ILz1e6b9Ut",
+					"display_url": "pic.twitter.com/ILz1e6b9Ut",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466029496662777861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10258229,
+			"friends_count": 55,
+			"listed_count": 11203,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1130,
+		"favorite_count": 4219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIM YOONA at the press conference of the movie 'Happy New Year’! 📸\nMovie ‘Happy New Year’ coming to cinemas &amp; TVING this December! \n\n#임윤아 #LIMYOONA\n#윤아 #YOONA\n#해피뉴이어 #happynewyear \n#소녀시대 #GirlsGeneration https://t.co/ILz1e6b9Ut"
+	},
+	{
 		"created_at": "Wed Dec 01 13:15:42 +0000 2021",
 		"id": 1466033265777721300,
 		"id_str": "1466033265777721351",
-		"full_text": "#딩고뮤직 #dingo_music\n미쳤다…🧚‍♀️ #Shorts\nhttps://t.co/r0QzQMjLw5",
+		"full_text": "#딩고뮤직 #dingo_music\n미쳤다…🧚♀️ #Shorts\nhttps://t.co/r0QzQMjLw5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -146,7 +582,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n미쳤다…🧚‍♀️ #Shorts\nhttps://t.co/r0QzQMjLw5"
+		"text": "#딩고뮤직 #dingo_music\n미쳤다…🧚♀️ #Shorts\nhttps://t.co/r0QzQMjLw5"
 	},
 	{
 		"created_at": "Wed Dec 01 12:38:41 +0000 2021",
