@@ -1,6 +1,810 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 06:29:49 +0000 2021",
+		"id": 1465925714813718500,
+		"id_str": "1465931120495796229",
+		"full_text": "포천시청에서 진행하는 유튜브 라이브 방송 '신읍페스타'\n진아님이 12/1  6시에 출연합니다. 📻📻 🎙🎙🍓🍎🍊🍒🍑🍈🍋🍌🍇🥑🍏🍅🥝🥥🍍🍉🥭🫐🍐\n\n유큐브에서 신읍페스타를 검색!! ☺\n6시 잊지 마세요~~🙏💗💗💗 https://t.co/6DfD40bXk1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465925709302739000,
+					"id_str": "1465925709302738947",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgDqnIaMAMDZfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgDqnIaMAMDZfo.jpg",
+					"url": "https://t.co/6DfD40bXk1",
+					"display_url": "pic.twitter.com/6DfD40bXk1",
+					"expanded_url": "https://twitter.com/orm_ent/status/1465925714813718531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465925709302739000,
+					"id_str": "1465925709302738947",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgDqnIaMAMDZfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgDqnIaMAMDZfo.jpg",
+					"url": "https://t.co/6DfD40bXk1",
+					"display_url": "pic.twitter.com/6DfD40bXk1",
+					"expanded_url": "https://twitter.com/orm_ent/status/1465925714813718531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465925709311152000,
+					"id_str": "1465925709311152130",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgDqnKakAIBA4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgDqnKakAIBA4p.jpg",
+					"url": "https://t.co/6DfD40bXk1",
+					"display_url": "pic.twitter.com/6DfD40bXk1",
+					"expanded_url": "https://twitter.com/orm_ent/status/1465925714813718531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724,
+			"friends_count": 323,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1638329097",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포천시청에서 진행하는 유튜브 라이브 방송 '신읍페스타'\n진아님이 12/1  6시에 출연합니다. 📻📻 🎙🎙🍓🍎🍊🍒🍑🍈🍋🍌🍇🥑🍏🍅🥝🥥🍍🍉🥭🫐🍐\n\n유큐브에서 신읍페스타를 검색!! ☺\n6시 잊지 마세요~~🙏💗💗💗 https://t.co/6DfD40bXk1"
+	},
+	{
+		"created_at": "Wed Dec 01 06:29:45 +0000 2021",
+		"id": 1465923399914442800,
+		"id_str": "1465931103089442816",
+		"full_text": "&lt;김목인 겨울콘서트&gt;\n\n겨울을 따듯하게 녹여줄\n김목인의 사운드와 감성속으로.. \n\n- 공연명 : 김목인 겨울콘서트\n- 일시 : 2021.12.11.(토) 1회 15:00/ 2회 19:00 \n- 권장 관람연령 : 8세 이상\n- 예 매 : 인터파크 https://t.co/suTjggCmz6\n\n#김목인 #겨울콘서트 #부평문화사랑방 #부평구문화재단 https://t.co/ZdKCucCyZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김목인",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "겨울콘서트",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "부평문화사랑방",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "부평구문화재단",
+					"indices": [
+						189,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/suTjggCmz6",
+					"expanded_url": "https://tickets.interpark.com/goods/21012119",
+					"display_url": "tickets.interpark.com/goods/21012119",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465923280129331200,
+					"id_str": "1465923280129331201",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgBdNwVkAE7p71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgBdNwVkAE7p71.jpg",
+					"url": "https://t.co/ZdKCucCyZY",
+					"display_url": "pic.twitter.com/ZdKCucCyZY",
+					"expanded_url": "https://twitter.com/electric_muse/status/1465923399914442758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 804,
+							"h": 1133,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465923280129331200,
+					"id_str": "1465923280129331201",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgBdNwVkAE7p71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgBdNwVkAE7p71.jpg",
+					"url": "https://t.co/ZdKCucCyZY",
+					"display_url": "pic.twitter.com/ZdKCucCyZY",
+					"expanded_url": "https://twitter.com/electric_muse/status/1465923399914442758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 804,
+							"h": 1133,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3336,
+			"friends_count": 1298,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;김목인 겨울콘서트&gt;\n\n겨울을 따듯하게 녹여줄\n김목인의 사운드와 감성속으로.. \n\n- 공연명 : 김목인 겨울콘서트\n- 일시 : 2021.12.11.(토) 1회 15:00/ 2회 19:00 \n- 권장 관람연령 : 8세 이상\n- 예 매 : 인터파크 https://t.co/suTjggCmz6\n\n#김목인 #겨울콘서트 #부평문화사랑방 #부평구문화재단 https://t.co/ZdKCucCyZY"
+	},
+	{
+		"created_at": "Wed Dec 01 06:29:38 +0000 2021",
+		"id": 1465922544028975000,
+		"id_str": "1465931073251074050",
+		"full_text": "[#정인] MBC FM4U '정오의 희망곡 김신영입니다' 완료✔️\n\n처음으로 선보인 정인의 값 LIVE 함께하셨나요? 📻\n과몰입 유발하는💦 정인의 '값' 한번 더 듣고, 수요팅하세요!\n\n#JUNGIN #값 #MBCFM4U #정오의희망곡김신영입니다 #정오의희망곡 https://t.co/E86Dx4rfAp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						112,
+						114
+					]
+				},
+				{
+					"text": "MBCFM4U",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "정오의희망곡김신영입니다",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465922414207180800,
+					"id_str": "1465922414207180801",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgAqz8aIAE_L0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgAqz8aIAE_L0_.jpg",
+					"url": "https://t.co/E86Dx4rfAp",
+					"display_url": "pic.twitter.com/E86Dx4rfAp",
+					"expanded_url": "https://twitter.com/themysticstory/status/1465922544028975107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465922414207180800,
+					"id_str": "1465922414207180801",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgAqz8aIAE_L0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgAqz8aIAE_L0_.jpg",
+					"url": "https://t.co/E86Dx4rfAp",
+					"display_url": "pic.twitter.com/E86Dx4rfAp",
+					"expanded_url": "https://twitter.com/themysticstory/status/1465922544028975107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31883,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] MBC FM4U '정오의 희망곡 김신영입니다' 완료✔️\n\n처음으로 선보인 정인의 값 LIVE 함께하셨나요? 📻\n과몰입 유발하는💦 정인의 '값' 한번 더 듣고, 수요팅하세요!\n\n#JUNGIN #값 #MBCFM4U #정오의희망곡김신영입니다 #정오의희망곡 https://t.co/E86Dx4rfAp"
+	},
+	{
+		"created_at": "Wed Dec 01 06:29:32 +0000 2021",
+		"id": 1465921618941595600,
+		"id_str": "1465931047649091588",
+		"full_text": "검은잎들 [철교 위에서 본 나] Official M/V를 감상해 주세요.\n유튜브 및 모든 음원사이트에서도 보실 수 있습니다!! \n\n바로가기: https://t.co/u6iGIJYj8e\n.\n@Leavesblack  \n#검은잎들 #철교위에서본나 #뮤직비디오 #새음원 #겨울싱글 #부산앞바다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "검은잎들",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "철교위에서본나",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "새음원",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "겨울싱글",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "부산앞바다",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Leavesblack",
+					"name": "검은잎들",
+					"id": 3432037692,
+					"id_str": "3432037692",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u6iGIJYj8e",
+					"expanded_url": "https://youtu.be/SOZLLBQ9H_A",
+					"display_url": "youtu.be/SOZLLBQ9H_A",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724,
+			"friends_count": 323,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1638329097",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검은잎들 [철교 위에서 본 나] Official M/V를 감상해 주세요.\n유튜브 및 모든 음원사이트에서도 보실 수 있습니다!! \n\n바로가기: https://t.co/u6iGIJYj8e\n.\n@Leavesblack  \n#검은잎들 #철교위에서본나 #뮤직비디오 #새음원 #겨울싱글 #부산앞바다"
+	},
+	{
 		"created_at": "Wed Dec 01 06:17:25 +0000 2021",
 		"id": 1465928001783312400,
 		"id_str": "1465928001783312387",
