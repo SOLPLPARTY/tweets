@@ -1,6 +1,1121 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 10:29:46 +0000 2021",
+		"id": 1465989502602662000,
+		"id_str": "1465991506402197510",
+		"full_text": "[#안녕하신가영] 트랙리스트 공개📻\n\n안녕하신가영 The 4th EP\n가장( )자리에서 #트랙리스트\n\n1. 사랑 없이는 안돼요\n2. 울 거라면 울어\n3. 슬픔의 가운데에서 (Title*)\n4. 괜찮아야 해요\n5. 마지막은 나지막하게\n\n2021. 12. 7. 12pm. D-6 https://t.co/0FNOvcemwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안녕하신가영",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "트랙리스트",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465989497385287700,
+					"id_str": "1465989497385287681",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg9rkQagAEXeqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg9rkQagAEXeqO.jpg",
+					"url": "https://t.co/0FNOvcemwW",
+					"display_url": "pic.twitter.com/0FNOvcemwW",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1465989502602661890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465989497385287700,
+					"id_str": "1465989497385287681",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg9rkQagAEXeqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg9rkQagAEXeqO.jpg",
+					"url": "https://t.co/0FNOvcemwW",
+					"display_url": "pic.twitter.com/0FNOvcemwW",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1465989502602661890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1948,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#안녕하신가영] 트랙리스트 공개📻\n\n안녕하신가영 The 4th EP\n가장( )자리에서 #트랙리스트\n\n1. 사랑 없이는 안돼요\n2. 울 거라면 울어\n3. 슬픔의 가운데에서 (Title*)\n4. 괜찮아야 해요\n5. 마지막은 나지막하게\n\n2021. 12. 7. 12pm. D-6 https://t.co/0FNOvcemwW"
+	},
+	{
+		"created_at": "Wed Dec 01 10:29:38 +0000 2021",
+		"id": 1465984646550724600,
+		"id_str": "1465991472357031938",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n컨디션 왔다갔다하는 과녁수와\n진짜 첫 라운딩 의심되는 '몸시나'의 실력\n두 남자의 케미에 흔들리기 시작하는 '김민 프로'\n\n#백돌이대탈출_부캐골프시대 에서 확인!\n\n👉 https://t.co/QWi0cXs2ge\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #프니엘 #최수임 #김민 https://t.co/WzT45ZwGHj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "프니엘",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "최수임",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "김민",
+					"indices": [
+						186,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QWi0cXs2ge",
+					"expanded_url": "https://youtu.be/WWF3gjH7xpo",
+					"display_url": "youtu.be/WWF3gjH7xpo",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465984480183652400,
+					"id_str": "1465984480183652353",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg5HhuVEAEpUoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg5HhuVEAEpUoC.jpg",
+					"url": "https://t.co/WzT45ZwGHj",
+					"display_url": "pic.twitter.com/WzT45ZwGHj",
+					"expanded_url": "https://twitter.com/humap_official/status/1465984646550724608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465984480183652400,
+					"id_str": "1465984480183652353",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg5HhuVEAEpUoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg5HhuVEAEpUoC.jpg",
+					"url": "https://t.co/WzT45ZwGHj",
+					"display_url": "pic.twitter.com/WzT45ZwGHj",
+					"expanded_url": "https://twitter.com/humap_official/status/1465984646550724608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n컨디션 왔다갔다하는 과녁수와\n진짜 첫 라운딩 의심되는 '몸시나'의 실력\n두 남자의 케미에 흔들리기 시작하는 '김민 프로'\n\n#백돌이대탈출_부캐골프시대 에서 확인!\n\n👉 https://t.co/QWi0cXs2ge\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #프니엘 #최수임 #김민 https://t.co/WzT45ZwGHj"
+	},
+	{
+		"created_at": "Wed Dec 01 10:29:33 +0000 2021",
+		"id": 1465980732552089600,
+		"id_str": "1465991450647220227",
+		"full_text": "[#Release] #안테나\n\n2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n\n❄OUT NOW ❄\nhttps://t.co/uVzLpkpSQJ\n\n2021. 12. 01. 6PM Release🎄\n\n#Antenna #다음겨울에도여기서만나\n#HelloAntenna_HelloChristmas https://t.co/rqVeiVONwC https://t.co/8RANnSsqNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "다음겨울에도여기서만나",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "HelloAntenna_HelloChristmas",
+					"indices": [
+						202,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uVzLpkpSQJ",
+					"expanded_url": "https://youtu.be/-3iBYJVjvzo",
+					"display_url": "youtu.be/-3iBYJVjvzo",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/rqVeiVONwC",
+					"expanded_url": "https://twitter.com/antennamusic/status/1465970669376528387",
+					"display_url": "twitter.com/antennamusic/s…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465980559201828900,
+					"id_str": "1465980559201828870",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1465980559201828870/pu/img/Z8OpwoFo4_-apcBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1465980559201828870/pu/img/Z8OpwoFo4_-apcBs.jpg",
+					"url": "https://t.co/8RANnSsqNb",
+					"display_url": "pic.twitter.com/8RANnSsqNb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1465980732552089600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465980559201828900,
+					"id_str": "1465980559201828870",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1465980559201828870/pu/img/Z8OpwoFo4_-apcBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1465980559201828870/pu/img/Z8OpwoFo4_-apcBs.jpg",
+					"url": "https://t.co/8RANnSsqNb",
+					"display_url": "pic.twitter.com/8RANnSsqNb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1465980732552089600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13680,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1465980559201828870/pu/vid/1280x720/yErHCu97LRAxp9CC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1465980559201828870/pu/pl/uZrwshWlNhuTPGv2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1465980559201828870/pu/vid/640x360/ytk8Dfdp2ZVQgaNX.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1465980559201828870/pu/vid/480x270/AddLR6wP17g3PnNM.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39267,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465970669376528400,
+		"quoted_status_id_str": "1465970669376528387",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rqVeiVONwC",
+			"expanded": "https://twitter.com/antennamusic/status/1465970669376528387",
+			"display": "twitter.com/antennamusic/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 01 09:06:58 +0000 2021",
+			"id": 1465970669376528400,
+			"id_str": "1465970669376528387",
+			"full_text": "[#Release] #안테나\n \n2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n \n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n \n❄M/V ❄\nhttps://t.co/uVzLpkpSQJ\n \nLyrics by 권진아\nComposed by 서동환\nArranged by 서동환 https://t.co/cRFTqjo4CC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Release",
+						"indices": [
+							1,
+							9
+						]
+					},
+					{
+						"text": "안테나",
+						"indices": [
+							11,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uVzLpkpSQJ",
+						"expanded_url": "https://youtu.be/-3iBYJVjvzo",
+						"display_url": "youtu.be/-3iBYJVjvzo",
+						"indices": [
+							126,
+							149
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1465970281043095600,
+						"id_str": "1465970281043095552",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/FFg0sGlaIAAB4JM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFg0sGlaIAAB4JM.jpg",
+						"url": "https://t.co/cRFTqjo4CC",
+						"display_url": "pic.twitter.com/cRFTqjo4CC",
+						"expanded_url": "https://twitter.com/antennamusic/status/1465970669376528387/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1465970281043095600,
+						"id_str": "1465970281043095552",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/FFg0sGlaIAAB4JM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFg0sGlaIAAB4JM.jpg",
+						"url": "https://t.co/cRFTqjo4CC",
+						"display_url": "pic.twitter.com/cRFTqjo4CC",
+						"expanded_url": "https://twitter.com/antennamusic/status/1465970669376528387/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1465970281043095552/pu/pl/cOqj78CvCe1ZcMXY.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1465970281043095552/pu/vid/720x360/dvs_Hv3qowObV5DM.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1465970281043095552/pu/vid/540x270/q6JkJTw7BSVlHumI.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1465970281043095552/pu/vid/1280x640/T4Y3omk77hbiMEMr.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266004552,
+				"id_str": "266004552",
+				"name": "안테나 Antenna",
+				"screen_name": "antennamusic",
+				"location": "대한민국 서울",
+				"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+				"url": "https://t.co/XSWWwEPbf8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XSWWwEPbf8",
+								"expanded_url": "http://www.antenna.co.kr",
+								"display_url": "antenna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39267,
+				"friends_count": 10,
+				"listed_count": 381,
+				"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4261,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 608,
+			"favorite_count": 497,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 216,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #안테나\n\n2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n\n❄OUT NOW ❄\nhttps://t.co/uVzLpkpSQJ\n\n2021. 12. 01. 6PM Release🎄\n\n#Antenna #다음겨울에도여기서만나\n#HelloAntenna_HelloChristmas https://t.co/rqVeiVONwC https://t.co/8RANnSsqNb"
+	},
+	{
+		"created_at": "Wed Dec 01 10:29:28 +0000 2021",
+		"id": 1465979466480455700,
+		"id_str": "1465991429164044293",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n엘레강스 #shorts #벤자민쇼츠\n\n👉 https://t.co/izFBGi9Dos\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "벤자민쇼츠",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "소상공인",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/izFBGi9Dos",
+					"expanded_url": "https://youtu.be/Wg-LBFXBGgY",
+					"display_url": "youtu.be/Wg-LBFXBGgY",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n엘레강스 #shorts #벤자민쇼츠\n\n👉 https://t.co/izFBGi9Dos\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인"
+	},
+	{
 		"created_at": "Wed Dec 01 10:10:38 +0000 2021",
 		"id": 1465986692809212000,
 		"id_str": "1465986692809211908",
