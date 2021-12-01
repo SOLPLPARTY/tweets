@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 13:15:42 +0000 2021",
+		"id": 1466033265777721300,
+		"id_str": "1466033265777721351",
+		"full_text": "#딩고뮤직 #dingo_music\n미쳤다…🧚‍♀️ #Shorts\nhttps://t.co/r0QzQMjLw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r0QzQMjLw5",
+					"expanded_url": "https://youtu.be/mjf4O4nk8dQ",
+					"display_url": "youtu.be/mjf4O4nk8dQ",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n미쳤다…🧚‍♀️ #Shorts\nhttps://t.co/r0QzQMjLw5"
+	},
+	{
+		"created_at": "Wed Dec 01 12:38:41 +0000 2021",
+		"id": 1465952036663398400,
+		"id_str": "1466023950618480640",
+		"full_text": "[❣]\n아쉬움을 채워줄 가장 특별한 어느 날\nSOMEDAY PLEROMA 2021\n\n▪티켓오픈: 12.01(수) 8PM\n🖇 예매하기 :https://t.co/YTaD4zmTHb\n\n12.11(SAT) - 규현, 강승윤, 정세운, 라비, 비비\n12.12(SUN) - 이석훈, 하동균, 하성운, 이무진, 카디\n\n📌장충체육관\n\n #썸데이 #썸데이플레로마 #SOMEDAY https://t.co/9vUKs8bQKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "썸데이",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "썸데이플레로마",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "SOMEDAY",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTaD4zmTHb",
+					"expanded_url": "http://inpk.kr/rOtF",
+					"display_url": "inpk.kr/rOtF",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465951913392808000,
+					"id_str": "1465951913392807936",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgbf4-VIAAvt59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgbf4-VIAAvt59.jpg",
+					"url": "https://t.co/9vUKs8bQKH",
+					"display_url": "pic.twitter.com/9vUKs8bQKH",
+					"expanded_url": "https://twitter.com/InterparkTicket/status/1465952036663398402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465951913392808000,
+					"id_str": "1465951913392807936",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FFgbf4-VIAAvt59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFgbf4-VIAAvt59.jpg",
+					"url": "https://t.co/9vUKs8bQKH",
+					"display_url": "pic.twitter.com/9vUKs8bQKH",
+					"expanded_url": "https://twitter.com/InterparkTicket/status/1465952036663398402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154062335,
+			"id_str": "154062335",
+			"name": "인터파크 티켓",
+			"screen_name": "InterparkTicket",
+			"location": "",
+			"description": "공연과 문화를 사랑하는 인터파크 티켓 공식 트위터입니다❣",
+			"url": "https://t.co/HvzizGRGxu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HvzizGRGxu",
+							"expanded_url": "http://ticket.interpark.com",
+							"display_url": "ticket.interpark.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48851,
+			"friends_count": 10740,
+			"listed_count": 684,
+			"created_at": "Thu Jun 10 07:52:12 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250973733440811010/amJqD0Ew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250973733440811010/amJqD0Ew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154062335/1635723620",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 356,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[❣]\n아쉬움을 채워줄 가장 특별한 어느 날\nSOMEDAY PLEROMA 2021\n\n▪티켓오픈: 12.01(수) 8PM\n🖇 예매하기 :https://t.co/YTaD4zmTHb\n\n12.11(SAT) - 규현, 강승윤, 정세운, 라비, 비비\n12.12(SUN) - 이석훈, 하동균, 하성운, 이무진, 카디\n\n📌장충체육관\n\n #썸데이 #썸데이플레로마 #SOMEDAY https://t.co/9vUKs8bQKH"
+	},
+	{
+		"created_at": "Wed Dec 01 12:29:30 +0000 2021",
+		"id": 1466014216364560400,
+		"id_str": "1466021636772188166",
+		"full_text": "[#손태진] 잘생김이 손끝부터 느껴지는 손태진의 &lt;LISTEN STAGE&gt; 비하인드 네이버 포스트 OPEN ✅\n\n▶ https://t.co/hBZDyKLrPR\n\n#네이버포스트 #SONTAEJIN #TJSON #깊어지네 #BeDeep #LISTENSTAGE #리슨스테이지 #비하인드 https://t.co/SXRe3g5FAi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "깊어지네",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "BeDeep",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "LISTENSTAGE",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "리슨스테이지",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						157,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hBZDyKLrPR",
+					"expanded_url": "http://naver.me/5SFrekY9",
+					"display_url": "naver.me/5SFrekY9",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466009223326990300,
+					"id_str": "1466009223326990338",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhPnxHaAAIZa9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhPnxHaAAIZa9M.jpg",
+					"url": "https://t.co/SXRe3g5FAi",
+					"display_url": "pic.twitter.com/SXRe3g5FAi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1466014216364560389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466009223326990300,
+					"id_str": "1466009223326990338",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhPnxHaAAIZa9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhPnxHaAAIZa9M.jpg",
+					"url": "https://t.co/SXRe3g5FAi",
+					"display_url": "pic.twitter.com/SXRe3g5FAi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1466014216364560389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466009223339593700,
+					"id_str": "1466009223339593728",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhPnxKaUAAoPzi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhPnxKaUAAoPzi.jpg",
+					"url": "https://t.co/SXRe3g5FAi",
+					"display_url": "pic.twitter.com/SXRe3g5FAi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1466014216364560389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1700,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466009223331221500,
+					"id_str": "1466009223331221505",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhPnxIakAERJ2D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhPnxIakAERJ2D.jpg",
+					"url": "https://t.co/SXRe3g5FAi",
+					"display_url": "pic.twitter.com/SXRe3g5FAi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1466014216364560389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31891,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] 잘생김이 손끝부터 느껴지는 손태진의 &lt;LISTEN STAGE&gt; 비하인드 네이버 포스트 OPEN ✅\n\n▶ https://t.co/hBZDyKLrPR\n\n#네이버포스트 #SONTAEJIN #TJSON #깊어지네 #BeDeep #LISTENSTAGE #리슨스테이지 #비하인드 https://t.co/SXRe3g5FAi"
+	},
+	{
 		"created_at": "Wed Dec 01 11:29:24 +0000 2021",
 		"id": 1466003239560642600,
 		"id_str": "1466006514884399107",
