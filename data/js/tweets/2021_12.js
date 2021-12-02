@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 09:11:26 +0000 2021",
+		"id": 1466332560808681500,
+		"id_str": "1466334178761453570",
+		"full_text": "한 해 동안 고생 많았던 우리,\n진심을 가득 담아 노래하는 뮤지션 이정권과 함께\n올해를 가득 채워 마무리하는 시간.\n\nThumbs UP! with 이정권\n\n티켓오픈\n12.07(화) 6PM 멜론티켓\n\n공연일시\n12.31(금) 8PM\n\n티켓가격\n전석 77,000원\n\n📍 공연장소\nKT&amp;G 상상마당 라이브홀 https://t.co/tiYERtypYW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466317182787547100,
+					"id_str": "1466317182787547138",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlntXgacAIkUPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlntXgacAIkUPb.jpg",
+					"url": "https://t.co/tiYERtypYW",
+					"display_url": "pic.twitter.com/tiYERtypYW",
+					"expanded_url": "https://twitter.com/SSmadang/status/1466332560808681473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1130,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466317182787547100,
+					"id_str": "1466317182787547138",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlntXgacAIkUPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlntXgacAIkUPb.jpg",
+					"url": "https://t.co/tiYERtypYW",
+					"display_url": "pic.twitter.com/tiYERtypYW",
+					"expanded_url": "https://twitter.com/SSmadang/status/1466332560808681473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1130,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17743,
+			"friends_count": 1873,
+			"listed_count": 0,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 해 동안 고생 많았던 우리,\n진심을 가득 담아 노래하는 뮤지션 이정권과 함께\n올해를 가득 채워 마무리하는 시간.\n\nThumbs UP! with 이정권\n\n티켓오픈\n12.07(화) 6PM 멜론티켓\n\n공연일시\n12.31(금) 8PM\n\n티켓가격\n전석 77,000원\n\n📍 공연장소\nKT&amp;G 상상마당 라이브홀 https://t.co/tiYERtypYW"
+	},
+	{
+		"created_at": "Thu Dec 02 09:11:16 +0000 2021",
+		"id": 1466319393147654100,
+		"id_str": "1466334140484235268",
+		"full_text": "남궁선 감독과 함께 영화의 음악을 담당한 모임 별이 만든 곡들을 수록하고 있는 &lt; 십개월의 미래 Ten Months &gt; OST음반+시나리오집이 공상온도 온라인스토어와 오프라인에 모두 입고 되었어요! https://t.co/Mfxx0iPKF0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466319386852339700,
+					"id_str": "1466319386852339713",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlptqSaMAEa912.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlptqSaMAEa912.jpg",
+					"url": "https://t.co/Mfxx0iPKF0",
+					"display_url": "pic.twitter.com/Mfxx0iPKF0",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1466319393147654144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466319386852339700,
+					"id_str": "1466319386852339713",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlptqSaMAEa912.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlptqSaMAEa912.jpg",
+					"url": "https://t.co/Mfxx0iPKF0",
+					"display_url": "pic.twitter.com/Mfxx0iPKF0",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1466319393147654144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 212,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남궁선 감독과 함께 영화의 음악을 담당한 모임 별이 만든 곡들을 수록하고 있는 &lt; 십개월의 미래 Ten Months &gt; OST음반+시나리오집이 공상온도 온라인스토어와 오프라인에 모두 입고 되었어요! https://t.co/Mfxx0iPKF0"
+	},
+	{
+		"created_at": "Thu Dec 02 09:09:50 +0000 2021",
+		"id": 1466333779040084000,
+		"id_str": "1466333779040083968",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nGSoul (지소울) - Natural (Official Audio)\nhttps://t.co/uhUmpP8Qq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uhUmpP8Qq7",
+					"expanded_url": "https://youtu.be/NWAIe6QLioM",
+					"display_url": "youtu.be/NWAIe6QLioM",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nGSoul (지소울) - Natural (Official Audio)\nhttps://t.co/uhUmpP8Qq7"
+	},
+	{
+		"created_at": "Thu Dec 02 08:29:34 +0000 2021",
+		"id": 1466317604939731000,
+		"id_str": "1466323642854350854",
+		"full_text": "그 시절, 그 때를 노래하는 것 같은 밴드.\n'극동아시아타이거즈'의 신곡 '아무것도' 발매!💯💯\n\n모든 음원 사이트에서 감상하실 수 있습니다!👀\n\n\"'아무것도'라는 노래를 소개하자면!\nㅇ...ㅇㅏ....아무것도...! 아닙니다!\"\n\nhttps://t.co/01O5HIYH5R\n\n#극동아시아타이거즈 #극아타 #미러볼뮤직 https://t.co/vLn5OmE88v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "극동아시아타이거즈",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "극아타",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/01O5HIYH5R",
+					"expanded_url": "https://youtu.be/93j1VDGvnLc",
+					"display_url": "youtu.be/93j1VDGvnLc",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466316788741066800,
+					"id_str": "1466316788741066753",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlnWbkaUAEvCi7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlnWbkaUAEvCi7.jpg",
+					"url": "https://t.co/vLn5OmE88v",
+					"display_url": "pic.twitter.com/vLn5OmE88v",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1466317604939730945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466316788741066800,
+					"id_str": "1466316788741066753",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FFlnWbkaUAEvCi7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFlnWbkaUAEvCi7.jpg",
+					"url": "https://t.co/vLn5OmE88v",
+					"display_url": "pic.twitter.com/vLn5OmE88v",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1466317604939730945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/ejIyUUOQGW…",
+			"url": "https://t.co/TNuoTACP2P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNuoTACP2P",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ejIyUUOQGW",
+							"expanded_url": "http://youtube.com/mirrorballmusi",
+							"display_url": "youtube.com/mirrorballmusi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9474,
+			"friends_count": 2611,
+			"listed_count": 244,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1635482605",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 시절, 그 때를 노래하는 것 같은 밴드.\n'극동아시아타이거즈'의 신곡 '아무것도' 발매!💯💯\n\n모든 음원 사이트에서 감상하실 수 있습니다!👀\n\n\"'아무것도'라는 노래를 소개하자면!\nㅇ...ㅇㅏ....아무것도...! 아닙니다!\"\n\nhttps://t.co/01O5HIYH5R\n\n#극동아시아타이거즈 #극아타 #미러볼뮤직 https://t.co/vLn5OmE88v"
+	},
+	{
 		"created_at": "Thu Dec 02 08:09:40 +0000 2021",
 		"id": 1466318636721840000,
 		"id_str": "1466318636721840131",
