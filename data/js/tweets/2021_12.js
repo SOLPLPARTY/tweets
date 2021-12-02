@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 13:01:46 +0000 2021",
+		"id": 1466392144940126200,
+		"id_str": "1466392144940126210",
+		"full_text": "웨이스티드쟈니스 이번 미니앨범 활동을 끝으로 활동종료 발표 \nhttps://t.co/FKpx2ECy26 \n\n#웨이스티드쟈니스 #WastedJohnnys #활동종료 https://t.co/njFLx1JgEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웨이스티드쟈니스",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "WastedJohnnys",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"text": "활동종료",
+					"indices": [
+						85,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FKpx2ECy26",
+					"expanded_url": "https://www.facebook.com/wastedangie1204/posts/4594989140614673",
+					"display_url": "facebook.com/wastedangie120…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466391890866016300,
+					"id_str": "1466391890866016257",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmrp8yVEAEqo2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmrp8yVEAEqo2Y.jpg",
+					"url": "https://t.co/njFLx1JgEJ",
+					"display_url": "pic.twitter.com/njFLx1JgEJ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1466392144940126210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 305,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 173,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 521,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466391890866016300,
+					"id_str": "1466391890866016257",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmrp8yVEAEqo2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmrp8yVEAEqo2Y.jpg",
+					"url": "https://t.co/njFLx1JgEJ",
+					"display_url": "pic.twitter.com/njFLx1JgEJ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1466392144940126210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 305,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 173,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 521,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웨이스티드쟈니스 이번 미니앨범 활동을 끝으로 활동종료 발표 \nhttps://t.co/FKpx2ECy26 \n\n#웨이스티드쟈니스 #WastedJohnnys #활동종료 https://t.co/njFLx1JgEJ"
+	},
+	{
+		"created_at": "Thu Dec 02 12:58:17 +0000 2021",
+		"id": 1466382935506915300,
+		"id_str": "1466391267609350149",
+		"full_text": "[🕘 time table]\n⠀\n2021.12.04 NAVER NOW LIVE STREAM\n⠀\n🔉 21:00-21:30 dydsu @Dydsu \n🔉 21:30-22:00 mondaystudio @mondaystudio\n🔉 22:00-22:30 QUIBBIE @yangquibbie\n⠀\n🇰🇷 Episode 29 &lt;우리의 소리를 찾아서&gt;\n🐲 토요일 저녁 9시 네이버 NOW에서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dydsu",
+					"name": "Hoon Cho",
+					"id": 130521971,
+					"id_str": "130521971",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"screen_name": "mondaystudio",
+					"name": "mondaystudio",
+					"id": 44290664,
+					"id_str": "44290664",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"screen_name": "yangquibbie",
+					"name": "퀴비/QUIBBIE",
+					"id": 1256907573355147300,
+					"id_str": "1256907573355147269",
+					"indices": [
+						143,
+						155
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1466382170377781200,
+		"in_reply_to_status_id_str": "1466382170377781255",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7728,
+			"friends_count": 40,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🕘 time table]\n⠀\n2021.12.04 NAVER NOW LIVE STREAM\n⠀\n🔉 21:00-21:30 dydsu @Dydsu \n🔉 21:30-22:00 mondaystudio @mondaystudio\n🔉 22:00-22:30 QUIBBIE @yangquibbie\n⠀\n🇰🇷 Episode 29 &lt;우리의 소리를 찾아서&gt;\n🐲 토요일 저녁 9시 네이버 NOW에서"
+	},
+	{
+		"created_at": "Thu Dec 02 12:58:14 +0000 2021",
+		"id": 1466382170377781200,
+		"id_str": "1466391258763509764",
+		"full_text": "Episode 29 슬픔의케이팝파티\n&lt;우리의 소리를 찾아서&gt;\n\n민요, 디스코, 뉴잭스윙, 테크노, 힙합...! 지금의 케이팝이 걸어온 길을 거슬러 dydsu, mondaystudio, QUIBBIE 와 함께 그 뿌리를 찾아봅니다!\n\n진정한 케이팝을 듣고 싶다면? 이번주!!\n토요일 저녁 9시 네이버 NOW\n\nhttps://t.co/34S2C5onzC https://t.co/3N2ZE6AV5r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5onzC",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466382159753609200,
+					"id_str": "1466382159753609218",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmizhkVgAIBYAr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmizhkVgAIBYAr.jpg",
+					"url": "https://t.co/3N2ZE6AV5r",
+					"display_url": "pic.twitter.com/3N2ZE6AV5r",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1466382170377781255/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1907,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466382159753609200,
+					"id_str": "1466382159753609218",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmizhkVgAIBYAr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmizhkVgAIBYAr.jpg",
+					"url": "https://t.co/3N2ZE6AV5r",
+					"display_url": "pic.twitter.com/3N2ZE6AV5r",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1466382170377781255/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1907,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7728,
+			"friends_count": 40,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Episode 29 슬픔의케이팝파티\n&lt;우리의 소리를 찾아서&gt;\n\n민요, 디스코, 뉴잭스윙, 테크노, 힙합...! 지금의 케이팝이 걸어온 길을 거슬러 dydsu, mondaystudio, QUIBBIE 와 함께 그 뿌리를 찾아봅니다!\n\n진정한 케이팝을 듣고 싶다면? 이번주!!\n토요일 저녁 9시 네이버 NOW\n\nhttps://t.co/34S2C5onzC https://t.co/3N2ZE6AV5r"
+	},
+	{
+		"created_at": "Thu Dec 02 12:29:29 +0000 2021",
+		"id": 1466382779243921400,
+		"id_str": "1466384020355305486",
+		"full_text": "[#조민규]  공연 소식🌿\n\n조민규 첫 단독 콘서트\n[신세계 : PARANA]\n\n🌱공연 일시 : \n2022년 1월 8일(토) 오후 6시\n2022년 1월 9일(일) 오후 6시\n\n🌱공연 장소 :\n블루스퀘어 마스터카드홀\n\n🌱티켓 오픈 : \n2021년 12월 8일(수) 오후 4시 \n@인터파크 티켓 https://t.co/WgmiA1brik",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조민규",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466382774022336500,
+					"id_str": "1466382774022336512",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmjXR5acAAK8Tc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmjXR5acAAK8Tc.jpg",
+					"url": "https://t.co/WgmiA1brik",
+					"display_url": "pic.twitter.com/WgmiA1brik",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1466382779243921416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466382774022336500,
+					"id_str": "1466382774022336512",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FFmjXR5acAAK8Tc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFmjXR5acAAK8Tc.jpg",
+					"url": "https://t.co/WgmiA1brik",
+					"display_url": "pic.twitter.com/WgmiA1brik",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1466382779243921416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1955,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#조민규]  공연 소식🌿\n\n조민규 첫 단독 콘서트\n[신세계 : PARANA]\n\n🌱공연 일시 : \n2022년 1월 8일(토) 오후 6시\n2022년 1월 9일(일) 오후 6시\n\n🌱공연 장소 :\n블루스퀘어 마스터카드홀\n\n🌱티켓 오픈 : \n2021년 12월 8일(수) 오후 4시 \n@인터파크 티켓 https://t.co/WgmiA1brik"
+	},
+	{
 		"created_at": "Thu Dec 02 11:29:31 +0000 2021",
 		"id": 1466361964322431000,
 		"id_str": "1466368928570130437",
