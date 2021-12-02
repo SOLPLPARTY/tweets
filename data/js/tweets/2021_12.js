@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 03:29:25 +0000 2021",
+		"id": 1466241467358199800,
+		"id_str": "1466248107860049920",
+		"full_text": "[#조민규] 티저 공개🎬\n\n'Will' Teaser Video 2\n\nI’ll find my way \n\n조민규 첫 번째 미니 앨범\n[신세계 : PARANA]\n2021.12.03. 12PM RELEASE \n\n#조민규 #신세계 #파라나 #PARANA  #Will #20211203 https://t.co/R7mhZtKrvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조민규",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "조민규",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "신세계",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "파라나",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "PARANA",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "Will",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466241408927670300,
+					"id_str": "1466241408927670273",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466241408927670273/pu/img/pQFD6QYvywGuHsQ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466241408927670273/pu/img/pQFD6QYvywGuHsQ2.jpg",
+					"url": "https://t.co/R7mhZtKrvy",
+					"display_url": "pic.twitter.com/R7mhZtKrvy",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1466241467358199812/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466241408927670300,
+					"id_str": "1466241408927670273",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1466241408927670273/pu/img/pQFD6QYvywGuHsQ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1466241408927670273/pu/img/pQFD6QYvywGuHsQ2.jpg",
+					"url": "https://t.co/R7mhZtKrvy",
+					"display_url": "pic.twitter.com/R7mhZtKrvy",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1466241467358199812/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28570,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466241408927670273/pu/vid/1280x720/j9VMUXn2-3mAILvQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466241408927670273/pu/vid/480x270/iLdLg8IH7qjKqzxB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1466241408927670273/pu/vid/640x360/GV8-6Lqc7fXCQ6aF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1466241408927670273/pu/pl/Q70RKaXFwG4dpyPA.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1948,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#조민규] 티저 공개🎬\n\n'Will' Teaser Video 2\n\nI’ll find my way \n\n조민규 첫 번째 미니 앨범\n[신세계 : PARANA]\n2021.12.03. 12PM RELEASE \n\n#조민규 #신세계 #파라나 #PARANA  #Will #20211203 https://t.co/R7mhZtKrvy"
+	},
+	{
 		"created_at": "Thu Dec 02 03:11:16 +0000 2021",
 		"id": 1466240705232314400,
 		"id_str": "1466243543043870725",
