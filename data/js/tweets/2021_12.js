@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 06:58:14 +0000 2021",
+		"id": 1466654583523266600,
+		"id_str": "1466663048958160897",
+		"full_text": "[1203 라이브클럽데이 생중계 채널 변경 안내]\n안녕하세요. 오늘(12/3) CJ 아지트 광흥창에서 진행하는 공연 생중계 채널이 “서울인디뮤직페스타 네이버TV”로 변경되었습니다. \n✔️채널 주소: https://t.co/YteBoeV8HS\n번거롭게 해 드려 죄송하며 많은 양해 바랍니다🙏 https://t.co/zK3eTcUgLJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YteBoeV8HS",
+					"expanded_url": "https://tv.naver.com/l/93492",
+					"display_url": "tv.naver.com/l/93492",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466654575549575200,
+					"id_str": "1466654575549575174",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFqakNfVcAYZ3PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFqakNfVcAYZ3PM.jpg",
+					"url": "https://t.co/zK3eTcUgLJ",
+					"display_url": "pic.twitter.com/zK3eTcUgLJ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1466654583523266560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466654575549575200,
+					"id_str": "1466654575549575174",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFqakNfVcAYZ3PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFqakNfVcAYZ3PM.jpg",
+					"url": "https://t.co/zK3eTcUgLJ",
+					"display_url": "pic.twitter.com/zK3eTcUgLJ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1466654583523266560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366,
+			"friends_count": 279,
+			"listed_count": 4,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1203 라이브클럽데이 생중계 채널 변경 안내]\n안녕하세요. 오늘(12/3) CJ 아지트 광흥창에서 진행하는 공연 생중계 채널이 “서울인디뮤직페스타 네이버TV”로 변경되었습니다. \n✔️채널 주소: https://t.co/YteBoeV8HS\n번거롭게 해 드려 죄송하며 많은 양해 바랍니다🙏 https://t.co/zK3eTcUgLJ"
+	},
+	{
 		"created_at": "Fri Dec 03 05:11:17 +0000 2021",
 		"id": 1466629794356150300,
 		"id_str": "1466636130875494403",
