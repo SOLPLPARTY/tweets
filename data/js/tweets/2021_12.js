@@ -1,6 +1,1156 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 04:11:21 +0000 2021",
+		"id": 1466618196547412000,
+		"id_str": "1466621051706744836",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;체리필터 연말 단독 콘서트 : Cherry Christmas&gt;\n· 일시 : 2021년 12월 23일 (목) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 체리필터\n· 예매 :🥝멜론티켓 https://t.co/fYJ87wPeG4\n\n#체리필터 #크리스마스 #공연\n#롤링홀 #멜론티켓 https://t.co/vJAleJ7HT5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "체리필터",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						194,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fYJ87wPeG4",
+					"expanded_url": "https://bit.ly/2ZyMEDS",
+					"display_url": "bit.ly/2ZyMEDS",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1464571516683960300,
+					"id_str": "1464571516683960322",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1464571516683960322/pu/img/TBCRQGOUSh4q6Xoh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1464571516683960322/pu/img/TBCRQGOUSh4q6Xoh.jpg",
+					"url": "https://t.co/vJAleJ7HT5",
+					"display_url": "pic.twitter.com/vJAleJ7HT5",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1466618196547411972/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1464571516683960300,
+					"id_str": "1464571516683960322",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1464571516683960322/pu/img/TBCRQGOUSh4q6Xoh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1464571516683960322/pu/img/TBCRQGOUSh4q6Xoh.jpg",
+					"url": "https://t.co/vJAleJ7HT5",
+					"display_url": "pic.twitter.com/vJAleJ7HT5",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1466618196547411972/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1464571516683960322/pu/vid/540x540/ZHm3AOGMcNxgPlr9.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1464571516683960322/pu/vid/320x320/SZ0KMutOUIDvJofm.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1464571516683960322/pu/vid/720x720/92xkX-NzkBUmgsrk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1464571516683960322/pu/pl/eacBiMkkoax284Z8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;체리필터 연말 단독 콘서트 : Cherry Christmas&gt;\n· 일시 : 2021년 12월 23일 (목) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 체리필터\n· 예매 :🥝멜론티켓 https://t.co/fYJ87wPeG4\n\n#체리필터 #크리스마스 #공연\n#롤링홀 #멜론티켓 https://t.co/vJAleJ7HT5"
+	},
+	{
+		"created_at": "Fri Dec 03 04:11:16 +0000 2021",
+		"id": 1466605953693155300,
+		"id_str": "1466621030219276289",
+		"full_text": "✦ 1차 라인업의 개별 일정은 추후 순차적으로 공개됩니다.\n✦ ... and more\n✦ 롤링홀은 코로나19에 대한 정부의 방역지침을 준수하고 협조 하에 운영 중에 있습니다. 코로나19 관련 안내는 롤링홀 홈페이지와 각 공연의 상세페이지 참고 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1466603597165121500,
+		"in_reply_to_status_id_str": "1466603597165121541",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✦ 1차 라인업의 개별 일정은 추후 순차적으로 공개됩니다.\n✦ ... and more\n✦ 롤링홀은 코로나19에 대한 정부의 방역지침을 준수하고 협조 하에 운영 중에 있습니다. 코로나19 관련 안내는 롤링홀 홈페이지와 각 공연의 상세페이지 참고 부탁드립니다."
+	},
+	{
+		"created_at": "Fri Dec 03 03:29:47 +0000 2021",
+		"id": 1466606870882558000,
+		"id_str": "1466610590445674498",
+		"full_text": "[#조민규] 발매 안내🌿\n\n조민규 첫 번째 미니 앨범\n[신세계 : PARANA] 발매됐습니다\n\n멜론- https://t.co/4Ea05WFY9X\n지니- https://t.co/6NaccFA1HX\n플로- https://t.co/qWaIDLWti3\n바이브- https://t.co/G7LXU6dMU5\n벅스- https://t.co/WhbNQgu86H\n\n#조민규 #신세계 #파라나 #PARANA #Will #20211203 https://t.co/zTrmP8s7z7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조민규",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "조민규",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "신세계",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "파라나",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "PARANA",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "Will",
+					"indices": [
+						218,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Ea05WFY9X",
+					"expanded_url": "https://url.kr/ina17z",
+					"display_url": "url.kr/ina17z",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/6NaccFA1HX",
+					"expanded_url": "https://url.kr/z7j4c3",
+					"display_url": "url.kr/z7j4c3",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/qWaIDLWti3",
+					"expanded_url": "https://url.kr/s5qctv",
+					"display_url": "url.kr/s5qctv",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/G7LXU6dMU5",
+					"expanded_url": "https://url.kr/m17loe",
+					"display_url": "url.kr/m17loe",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/WhbNQgu86H",
+					"expanded_url": "https://url.kr/2cmpa4",
+					"display_url": "url.kr/2cmpa4",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466606865782308900,
+					"id_str": "1466606865782308869",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FFpvLIwagAUsc_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFpvLIwagAUsc_D.jpg",
+					"url": "https://t.co/zTrmP8s7z7",
+					"display_url": "pic.twitter.com/zTrmP8s7z7",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1466606870882557953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466606865782308900,
+					"id_str": "1466606865782308869",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FFpvLIwagAUsc_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFpvLIwagAUsc_D.jpg",
+					"url": "https://t.co/zTrmP8s7z7",
+					"display_url": "pic.twitter.com/zTrmP8s7z7",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1466606870882557953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#조민규] 발매 안내🌿\n\n조민규 첫 번째 미니 앨범\n[신세계 : PARANA] 발매됐습니다\n\n멜론- https://t.co/4Ea05WFY9X\n지니- https://t.co/6NaccFA1HX\n플로- https://t.co/qWaIDLWti3\n바이브- https://t.co/G7LXU6dMU5\n벅스- https://t.co/WhbNQgu86H\n\n#조민규 #신세계 #파라나 #PARANA #Will #20211203 https://t.co/zTrmP8s7z7"
+	},
+	{
+		"created_at": "Fri Dec 03 03:29:39 +0000 2021",
+		"id": 1466603094284845000,
+		"id_str": "1466610556278870017",
+		"full_text": "존박, 전미도 ‘밤새 서로 미루다’\nDuet Teaser Image #2\n\n🌙 2021. 12. 09 6PM (KST) Release\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#20211209_6PM https://t.co/DV6EFMh7UB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "JeonMido",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "Stay",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "20211209_6PM",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466591500926550000,
+					"id_str": "1466591500926550019",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FFphMyNVgAMqRCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFphMyNVgAMqRCa.jpg",
+					"url": "https://t.co/DV6EFMh7UB",
+					"display_url": "pic.twitter.com/DV6EFMh7UB",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1466603094284845067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466591500926550000,
+					"id_str": "1466591500926550019",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FFphMyNVgAMqRCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFphMyNVgAMqRCa.jpg",
+					"url": "https://t.co/DV6EFMh7UB",
+					"display_url": "pic.twitter.com/DV6EFMh7UB",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1466603094284845067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9037,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "존박, 전미도 ‘밤새 서로 미루다’\nDuet Teaser Image #2\n\n🌙 2021. 12. 09 6PM (KST) Release\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#20211209_6PM https://t.co/DV6EFMh7UB"
+	},
+	{
+		"created_at": "Fri Dec 03 03:29:33 +0000 2021",
+		"id": 1466602421707489300,
+		"id_str": "1466610530605576192",
+		"full_text": "Photos of OH SEHUN as the confident, delightful mood maker ‘황치형’ for the drama ‘Now we are breaking up’ have been revealed!\n‘Now we are breaking up’ airing every Friday &amp; Saturday at 10PM KST on SBS! \n\n#OHSEHUN #오세훈 \n#EXO #엑소 \n#지금헤어지는중입니다 https://t.co/bxxChneHQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHSEHUN",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "오세훈",
+					"indices": [
+						215,
+						219
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						221,
+						225
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						226,
+						229
+					]
+				},
+				{
+					"text": "지금헤어지는중입니다",
+					"indices": [
+						231,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466600834850955300,
+					"id_str": "1466600834850955266",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FFppsFyVIAIpSfH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFppsFyVIAIpSfH.jpg",
+					"url": "https://t.co/bxxChneHQq",
+					"display_url": "pic.twitter.com/bxxChneHQq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466602421707489285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466600834850955300,
+					"id_str": "1466600834850955266",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FFppsFyVIAIpSfH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFppsFyVIAIpSfH.jpg",
+					"url": "https://t.co/bxxChneHQq",
+					"display_url": "pic.twitter.com/bxxChneHQq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466602421707489285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466600834846781400,
+					"id_str": "1466600834846781443",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FFppsFxVcAMnqz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFppsFxVcAMnqz9.jpg",
+					"url": "https://t.co/bxxChneHQq",
+					"display_url": "pic.twitter.com/bxxChneHQq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466602421707489285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466600834846785500,
+					"id_str": "1466600834846785540",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FFppsFxVgAQp-oR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFppsFxVgAQp-oR.jpg",
+					"url": "https://t.co/bxxChneHQq",
+					"display_url": "pic.twitter.com/bxxChneHQq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1466602421707489285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10261322,
+			"friends_count": 55,
+			"listed_count": 11197,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4685,
+		"favorite_count": 10742,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Photos of OH SEHUN as the confident, delightful mood maker ‘황치형’ for the drama ‘Now we are breaking up’ have been revealed!\n‘Now we are breaking up’ airing every Friday &amp; Saturday at 10PM KST on SBS! \n\n#OHSEHUN #오세훈 \n#EXO #엑소 \n#지금헤어지는중입니다 https://t.co/bxxChneHQq"
+	},
+	{
 		"created_at": "Fri Dec 03 03:11:16 +0000 2021",
 		"id": 1466603597165121500,
 		"id_str": "1466605931274375170",
