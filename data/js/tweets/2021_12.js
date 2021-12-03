@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 13:29:30 +0000 2021",
+		"id": 1466761287522984000,
+		"id_str": "1466761514237444097",
+		"full_text": "남은 공연도 화이팅하겠습니다!\n내일 저녁 6시에 만나요🙌🏻\n\n#이랑 #Langlee #단독공연 #연말공연 #공연 #단독콘서트 #콘서트 #라이브 #벨로주홍대 \n#홍대벨로주 #벨로주 #홍대 #hongdae https://t.co/OU8p6QBPNl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "Langlee",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "벨로주홍대",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "홍대벨로주",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "벨로주",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "hongdae",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466761248373350400,
+					"id_str": "1466761248373350405",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFr7lYuaIAUTx9n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFr7lYuaIAUTx9n.jpg",
+					"url": "https://t.co/OU8p6QBPNl",
+					"display_url": "pic.twitter.com/OU8p6QBPNl",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1466761287522983938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466761248373350400,
+					"id_str": "1466761248373350405",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFr7lYuaIAUTx9n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFr7lYuaIAUTx9n.jpg",
+					"url": "https://t.co/OU8p6QBPNl",
+					"display_url": "pic.twitter.com/OU8p6QBPNl",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1466761287522983938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466761259932876800,
+					"id_str": "1466761259932876806",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFr7mDyagAY0iK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFr7mDyagAY0iK8.jpg",
+					"url": "https://t.co/OU8p6QBPNl",
+					"display_url": "pic.twitter.com/OU8p6QBPNl",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1466761287522983938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466761270095655000,
+					"id_str": "1466761270095654919",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFr7mppaMAcd36b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFr7mppaMAcd36b.jpg",
+					"url": "https://t.co/OU8p6QBPNl",
+					"display_url": "pic.twitter.com/OU8p6QBPNl",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1466761287522983938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466761280564633600,
+					"id_str": "1466761280564633600",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FFr7nQpaIAA7D7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFr7nQpaIAA7D7C.jpg",
+					"url": "https://t.co/OU8p6QBPNl",
+					"display_url": "pic.twitter.com/OU8p6QBPNl",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1466761287522983938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1466761242824294400,
+		"in_reply_to_status_id_str": "1466761242824294400",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남은 공연도 화이팅하겠습니다!\n내일 저녁 6시에 만나요🙌🏻\n\n#이랑 #Langlee #단독공연 #연말공연 #공연 #단독콘서트 #콘서트 #라이브 #벨로주홍대 \n#홍대벨로주 #벨로주 #홍대 #hongdae https://t.co/OU8p6QBPNl"
+	},
+	{
 		"created_at": "Fri Dec 03 13:11:17 +0000 2021",
 		"id": 1466754093607645200,
 		"id_str": "1466756927719944201",
