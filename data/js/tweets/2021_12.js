@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 10:58:23 +0000 2021",
+		"id": 1467081143539597300,
+		"id_str": "1467085872810102788",
+		"full_text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/8(수)티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n구독, 알림 하셔서 놓치지 말고 꼭 시청하세요🤘\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f https://t.co/s3HEK9WZZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467081134861213700,
+					"id_str": "1467081134861213696",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwehOwUYAAwfaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwehOwUYAAwfaf.jpg",
+					"url": "https://t.co/s3HEK9WZZ0",
+					"display_url": "pic.twitter.com/s3HEK9WZZ0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467081143539597315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467081134861213700,
+					"id_str": "1467081134861213696",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwehOwUYAAwfaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwehOwUYAAwfaf.jpg",
+					"url": "https://t.co/s3HEK9WZZ0",
+					"display_url": "pic.twitter.com/s3HEK9WZZ0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467081143539597315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467081134852874200,
+					"id_str": "1467081134852874240",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwehOuVIAAOR3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwehOuVIAAOR3H.jpg",
+					"url": "https://t.co/s3HEK9WZZ0",
+					"display_url": "pic.twitter.com/s3HEK9WZZ0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467081143539597315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467081134991298600,
+					"id_str": "1467081134991298560",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwehPPVUAAxT3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwehPPVUAAxT3r.jpg",
+					"url": "https://t.co/s3HEK9WZZ0",
+					"display_url": "pic.twitter.com/s3HEK9WZZ0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467081143539597315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467081134861217800,
+					"id_str": "1467081134861217792",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwehOwUcAAoaIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwehOwUcAAoaIQ.jpg",
+					"url": "https://t.co/s3HEK9WZZ0",
+					"display_url": "pic.twitter.com/s3HEK9WZZ0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467081143539597315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366,
+			"friends_count": 279,
+			"listed_count": 4,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/8(수)티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n구독, 알림 하셔서 놓치지 말고 꼭 시청하세요🤘\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f https://t.co/s3HEK9WZZ0"
+	},
+	{
 		"created_at": "Sat Dec 04 09:29:24 +0000 2021",
 		"id": 1467056113359396900,
 		"id_str": "1467063479546916864",
