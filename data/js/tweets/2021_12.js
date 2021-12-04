@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 06:29:48 +0000 2021",
+		"id": 1467017222673801200,
+		"id_str": "1467018279558565890",
+		"full_text": "[#News] #이미주\n\n이미주, 안테나 이적 후 첫 프로필…싱그러운 미모 [N컷]\n\n(출처: 뉴스1 | 네이버 TV연예)\n\n✔️ https://t.co/WtrBLBUkf3\n\n#LeeMiJoo #NewProfile",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "LeeMiJoo",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "NewProfile",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WtrBLBUkf3",
+					"expanded_url": "http://naver.me/GFTlZfcw",
+					"display_url": "naver.me/GFTlZfcw",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39408,
+			"friends_count": 10,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #이미주\n\n이미주, 안테나 이적 후 첫 프로필…싱그러운 미모 [N컷]\n\n(출처: 뉴스1 | 네이버 TV연예)\n\n✔️ https://t.co/WtrBLBUkf3\n\n#LeeMiJoo #NewProfile"
+	},
+	{
+		"created_at": "Sat Dec 04 06:29:40 +0000 2021",
+		"id": 1467014886320668700,
+		"id_str": "1467018245425311745",
+		"full_text": "보이디 노들버스킹 시작했어요🎙🎙\n오랜만에 솔로 공연이라 더 두근💗\n🎹🎹\n.\n#보이디 #보이_디 #BOY_D #노들섬 #뮤직라운지류 #노들버스커 #공연 https://t.co/MLHdak28XU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보이디",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "보이_디",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "BOY_D",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "노들섬",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "뮤직라운지류",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "노들버스커",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467014873574174700,
+					"id_str": "1467014873574174721",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FFviQUOacAEd4AF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFviQUOacAEd4AF.jpg",
+					"url": "https://t.co/MLHdak28XU",
+					"display_url": "pic.twitter.com/MLHdak28XU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1467014886320668672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467014873574174700,
+					"id_str": "1467014873574174721",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FFviQUOacAEd4AF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFviQUOacAEd4AF.jpg",
+					"url": "https://t.co/MLHdak28XU",
+					"display_url": "pic.twitter.com/MLHdak28XU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1467014886320668672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467014873439940600,
+					"id_str": "1467014873439940609",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FFviQTuaMAECc0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFviQTuaMAECc0f.jpg",
+					"url": "https://t.co/MLHdak28XU",
+					"display_url": "pic.twitter.com/MLHdak28XU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1467014886320668672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1794,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467014873431568400,
+					"id_str": "1467014873431568389",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FFviQTsacAUo7D7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFviQTsacAUo7D7.jpg",
+					"url": "https://t.co/MLHdak28XU",
+					"display_url": "pic.twitter.com/MLHdak28XU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1467014886320668672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 323,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1638329097",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보이디 노들버스킹 시작했어요🎙🎙\n오랜만에 솔로 공연이라 더 두근💗\n🎹🎹\n.\n#보이디 #보이_디 #BOY_D #노들섬 #뮤직라운지류 #노들버스커 #공연 https://t.co/MLHdak28XU"
+	},
+	{
+		"created_at": "Sat Dec 04 06:29:34 +0000 2021",
+		"id": 1467003905498579000,
+		"id_str": "1467018219751882762",
+		"full_text": "유희열의 스케치북 With you : 일흔 여덟번째 목소리 '유스케 X 샘김' Vol.118 샘김 ‘바라봐줘요’는 지금 모든 음원사이트에서 감상하실 수 있습니다💙\n\nMelon https://t.co/Jijp92zdzC\nGenie https://t.co/5MyNAxGG5n\nBugs https://t.co/dtaHTnN11U\nFLO https://t.co/8dFA7IwyVc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jijp92zdzC",
+					"expanded_url": "http://bit.ly/3IgzuNb",
+					"display_url": "bit.ly/3IgzuNb",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/5MyNAxGG5n",
+					"expanded_url": "http://bit.ly/3lwGD20",
+					"display_url": "bit.ly/3lwGD20",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/dtaHTnN11U",
+					"expanded_url": "http://bit.ly/3EqnZAi",
+					"display_url": "bit.ly/3EqnZAi",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/8dFA7IwyVc",
+					"expanded_url": "http://bit.ly/3rypOaU",
+					"display_url": "bit.ly/3rypOaU",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1467003902541578200,
+		"in_reply_to_status_id_str": "1467003902541578241",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39408,
+			"friends_count": 10,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유희열의 스케치북 With you : 일흔 여덟번째 목소리 '유스케 X 샘김' Vol.118 샘김 ‘바라봐줘요’는 지금 모든 음원사이트에서 감상하실 수 있습니다💙\n\nMelon https://t.co/Jijp92zdzC\nGenie https://t.co/5MyNAxGG5n\nBugs https://t.co/dtaHTnN11U\nFLO https://t.co/8dFA7IwyVc"
+	},
+	{
 		"created_at": "Sat Dec 04 05:29:25 +0000 2021",
 		"id": 1466999084905279500,
 		"id_str": "1467003082534002688",
