@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 09:29:24 +0000 2021",
+		"id": 1467056113359396900,
+		"id_str": "1467063479546916864",
+		"full_text": "존박, 전미도 ‘밤새 서로 미루다’\nLyric Teaser Image #1\n\n🌙 2021. 12. 09 6PM (KST) Release\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#20211209_6PM https://t.co/FK79dh2lC7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "JeonMido",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "Stay",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "20211209_6PM",
+					"indices": [
+						121,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467056110485991400,
+					"id_str": "1467056110485991426",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwHwnsVcAIiO-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwHwnsVcAIiO-Q.jpg",
+					"url": "https://t.co/FK79dh2lC7",
+					"display_url": "pic.twitter.com/FK79dh2lC7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1467056113359396869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467056110485991400,
+					"id_str": "1467056110485991426",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwHwnsVcAIiO-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwHwnsVcAIiO-Q.jpg",
+					"url": "https://t.co/FK79dh2lC7",
+					"display_url": "pic.twitter.com/FK79dh2lC7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1467056113359396869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9044,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "존박, 전미도 ‘밤새 서로 미루다’\nLyric Teaser Image #1\n\n🌙 2021. 12. 09 6PM (KST) Release\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#20211209_6PM https://t.co/FK79dh2lC7"
+	},
+	{
 		"created_at": "Sat Dec 04 08:58:14 +0000 2021",
 		"id": 1467045860198711300,
 		"id_str": "1467055635573481473",
