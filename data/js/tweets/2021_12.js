@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 08:58:14 +0000 2021",
+		"id": 1467045860198711300,
+		"id_str": "1467055635573481473",
+		"full_text": "오늘 라이브클럽데이는 라이브클럽 빵에서 진행합니다!\n예매를 못하신 분들은 LIVECLUBDAY 유튜브에서 공연을 시청할 수 있습니다😉\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f\n구독과 알림 설정으로 생중계 놓치지 말고 재밌게 시청하세요👏\n곧 만나요🤘 https://t.co/0iyuvXW73w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467045853105770500,
+					"id_str": "1467045853105770497",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFv-bj-UUAE_Qzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFv-bj-UUAE_Qzm.jpg",
+					"url": "https://t.co/0iyuvXW73w",
+					"display_url": "pic.twitter.com/0iyuvXW73w",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467045860198711296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467045853105770500,
+					"id_str": "1467045853105770497",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFv-bj-UUAE_Qzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFv-bj-UUAE_Qzm.jpg",
+					"url": "https://t.co/0iyuvXW73w",
+					"display_url": "pic.twitter.com/0iyuvXW73w",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467045860198711296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467045853432934400,
+					"id_str": "1467045853432934405",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFv-blMUcAUbnH9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFv-blMUcAUbnH9.jpg",
+					"url": "https://t.co/0iyuvXW73w",
+					"display_url": "pic.twitter.com/0iyuvXW73w",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467045860198711296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467045853474947000,
+					"id_str": "1467045853474947076",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFv-blWVgAQFUnj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFv-blWVgAQFUnj.jpg",
+					"url": "https://t.co/0iyuvXW73w",
+					"display_url": "pic.twitter.com/0iyuvXW73w",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1467045860198711296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366,
+			"friends_count": 279,
+			"listed_count": 4,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 라이브클럽데이는 라이브클럽 빵에서 진행합니다!\n예매를 못하신 분들은 LIVECLUBDAY 유튜브에서 공연을 시청할 수 있습니다😉\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f\n구독과 알림 설정으로 생중계 놓치지 말고 재밌게 시청하세요👏\n곧 만나요🤘 https://t.co/0iyuvXW73w"
+	},
+	{
 		"created_at": "Sat Dec 04 07:29:24 +0000 2021",
 		"id": 1467028470803091500,
 		"id_str": "1467033280365174787",
