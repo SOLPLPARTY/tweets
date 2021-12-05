@@ -1,6 +1,839 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 09:29:47 +0000 2021",
+		"id": 1467423157535805400,
+		"id_str": "1467425961709023237",
+		"full_text": "위아영(WeAreYoung)\n서울인디뮤직페스타-라이브클럽데이 \nhttps://t.co/iJwkjMXp7M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iJwkjMXp7M",
+					"expanded_url": "https://youtu.be/jNf7Gr2ovU8",
+					"display_url": "youtu.be/jNf7Gr2ovU8",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2640,
+			"friends_count": 334,
+			"listed_count": 0,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 20988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "위아영(WeAreYoung)\n서울인디뮤직페스타-라이브클럽데이 \nhttps://t.co/iJwkjMXp7M"
+	},
+	{
+		"created_at": "Sun Dec 05 09:29:43 +0000 2021",
+		"id": 1467422468155781000,
+		"id_str": "1467425944281485317",
+		"full_text": "[#cott] MPMG ACADEMY 기획공연 &lt;WeekenDream&gt; \n\ncott과 함께한 주말, 꿈같은 시간 되셨나요🌌 \n\n모두 조심히 들어가시고,\n남은 2021년도 cott의 음악과 함께해요🙌🏻 \n\n#cott #콧 #공연 #콘서트 #MPMG #MPMG기획공연 #라이브 #상상마당라이브홀 #홍대 #hongdae #라이브홀 #상상마당 https://t.co/e6DAORnouG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						126,
+						128
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "MPMG",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "MPMG기획공연",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "상상마당라이브홀",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "hongdae",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						188,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467422380889116700,
+					"id_str": "1467422380889116673",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1U4XRakAEyA_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1U4XRakAEyA_P.jpg",
+					"url": "https://t.co/e6DAORnouG",
+					"display_url": "pic.twitter.com/e6DAORnouG",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467422468155781127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467422380889116700,
+					"id_str": "1467422380889116673",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1U4XRakAEyA_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1U4XRakAEyA_P.jpg",
+					"url": "https://t.co/e6DAORnouG",
+					"display_url": "pic.twitter.com/e6DAORnouG",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467422468155781127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467422420588200000,
+					"id_str": "1467422420588199941",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1U6rKagAUHHQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1U6rKagAUHHQY.jpg",
+					"url": "https://t.co/e6DAORnouG",
+					"display_url": "pic.twitter.com/e6DAORnouG",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467422468155781127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467422450845876200,
+					"id_str": "1467422450845876224",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1U8b4aAAAmGbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1U8b4aAAAmGbb.jpg",
+					"url": "https://t.co/e6DAORnouG",
+					"display_url": "pic.twitter.com/e6DAORnouG",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467422468155781127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467422464682901500,
+					"id_str": "1467422464682901505",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1U9PbaQAEFfPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1U9PbaQAEFfPc.jpg",
+					"url": "https://t.co/e6DAORnouG",
+					"display_url": "pic.twitter.com/e6DAORnouG",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467422468155781127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#cott] MPMG ACADEMY 기획공연 &lt;WeekenDream&gt; \n\ncott과 함께한 주말, 꿈같은 시간 되셨나요🌌 \n\n모두 조심히 들어가시고,\n남은 2021년도 cott의 음악과 함께해요🙌🏻 \n\n#cott #콧 #공연 #콘서트 #MPMG #MPMG기획공연 #라이브 #상상마당라이브홀 #홍대 #hongdae #라이브홀 #상상마당 https://t.co/e6DAORnouG"
+	},
+	{
+		"created_at": "Sun Dec 05 09:29:37 +0000 2021",
+		"id": 1467419991960334300,
+		"id_str": "1467425918637461509",
+		"full_text": "지리산 OST Part.10\n적재 ‘I’m Coming Home’\n\nMelon https://t.co/BIlb1BQIgp\nGenie https://t.co/QUcEfBd1jH\nBugs https://t.co/74YNIbtA0V\nFLO https://t.co/bzcK8bZTzp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BIlb1BQIgp",
+					"expanded_url": "http://bit.ly/3djRVCv",
+					"display_url": "bit.ly/3djRVCv",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/QUcEfBd1jH",
+					"expanded_url": "http://bit.ly/3djr9dl",
+					"display_url": "bit.ly/3djr9dl",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/74YNIbtA0V",
+					"expanded_url": "http://bit.ly/3Et1ivp",
+					"display_url": "bit.ly/3Et1ivp",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/bzcK8bZTzp",
+					"expanded_url": "http://bit.ly/3GclNNx",
+					"display_url": "bit.ly/3GclNNx",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1467419988885913600,
+		"in_reply_to_status_id_str": "1467419988885913601",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39439,
+			"friends_count": 10,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지리산 OST Part.10\n적재 ‘I’m Coming Home’\n\nMelon https://t.co/BIlb1BQIgp\nGenie https://t.co/QUcEfBd1jH\nBugs https://t.co/74YNIbtA0V\nFLO https://t.co/bzcK8bZTzp"
+	},
+	{
+		"created_at": "Sun Dec 05 09:29:30 +0000 2021",
+		"id": 1467419988885913600,
+		"id_str": "1467425892960022530",
+		"full_text": "[#Release] #적재\n\n지리산 OST Part.10\n적재 ‘I’m Coming Home’\n⠀\nLyrics by 개미, 가들 \nComposed by 개미 \nArranged by 개미, 한밤(midnight)\n\n적재가 참여한 tvN ‘지리산’ OST Part.10 ‘I’m Coming Home’은 지금 모든 음원 사이트에서 감상하실 수 있습니다✨\n\n#Jukjae #ImComingHome\n#지리산 #OST https://t.co/yStnfca5Vo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						197,
+						204
+					]
+				},
+				{
+					"text": "ImComingHome",
+					"indices": [
+						205,
+						218
+					]
+				},
+				{
+					"text": "지리산",
+					"indices": [
+						219,
+						223
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						224,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467419978555363300,
+					"id_str": "1467419978555363335",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1Ssh4akAcdjPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1Ssh4akAcdjPj.jpg",
+					"url": "https://t.co/yStnfca5Vo",
+					"display_url": "pic.twitter.com/yStnfca5Vo",
+					"expanded_url": "https://twitter.com/antennamusic/status/1467419988885913601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467419978555363300,
+					"id_str": "1467419978555363335",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FF1Ssh4akAcdjPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF1Ssh4akAcdjPj.jpg",
+					"url": "https://t.co/yStnfca5Vo",
+					"display_url": "pic.twitter.com/yStnfca5Vo",
+					"expanded_url": "https://twitter.com/antennamusic/status/1467419988885913601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39439,
+			"friends_count": 10,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #적재\n\n지리산 OST Part.10\n적재 ‘I’m Coming Home’\n⠀\nLyrics by 개미, 가들 \nComposed by 개미 \nArranged by 개미, 한밤(midnight)\n\n적재가 참여한 tvN ‘지리산’ OST Part.10 ‘I’m Coming Home’은 지금 모든 음원 사이트에서 감상하실 수 있습니다✨\n\n#Jukjae #ImComingHome\n#지리산 #OST https://t.co/yStnfca5Vo"
+	},
+	{
 		"created_at": "Sun Dec 05 09:04:43 +0000 2021",
 		"id": 1467419652267683800,
 		"id_str": "1467419652267683840",
