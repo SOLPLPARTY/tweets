@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 14:11:17 +0000 2021",
+		"id": 1467491405358841900,
+		"id_str": "1467496802064769029",
+		"full_text": "12월 3일부터 5일까지 3일 동안 열린 재미공작소 [2022 캘린더 갤러리]가 무사히 마무리되었습니다. \n\n올해로 6회째를 맞은, 재미공작소의 대표 연례행사 중 하나인 [캘린더 갤러리]에 참여해주신 창작자분들, 찾아주시고 구매해주신 모든 분들께 진심으로 감사드립니다. \n\n내년에 또 만나요! https://t.co/TR50DoPIyL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467491392700432400,
+					"id_str": "1467491392700432384",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FF2TpYTaQAArR2W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF2TpYTaQAArR2W.jpg",
+					"url": "https://t.co/TR50DoPIyL",
+					"display_url": "pic.twitter.com/TR50DoPIyL",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1467491405358841863/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467491392700432400,
+					"id_str": "1467491392700432384",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FF2TpYTaQAArR2W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF2TpYTaQAArR2W.jpg",
+					"url": "https://t.co/TR50DoPIyL",
+					"display_url": "pic.twitter.com/TR50DoPIyL",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1467491405358841863/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467491392696242200,
+					"id_str": "1467491392696242176",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FF2TpYSaUAAFWpD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF2TpYSaUAAFWpD.jpg",
+					"url": "https://t.co/TR50DoPIyL",
+					"display_url": "pic.twitter.com/TR50DoPIyL",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1467491405358841863/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467491392700424200,
+					"id_str": "1467491392700424192",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FF2TpYTaIAAt1vf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF2TpYTaIAAt1vf.jpg",
+					"url": "https://t.co/TR50DoPIyL",
+					"display_url": "pic.twitter.com/TR50DoPIyL",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1467491405358841863/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467491392713015300,
+					"id_str": "1467491392713015296",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FF2TpYWaQAAoIpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF2TpYWaQAAoIpo.jpg",
+					"url": "https://t.co/TR50DoPIyL",
+					"display_url": "pic.twitter.com/TR50DoPIyL",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1467491405358841863/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1466629794356150300,
+		"in_reply_to_status_id_str": "1466629794356150275",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8375,
+			"friends_count": 554,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12월 3일부터 5일까지 3일 동안 열린 재미공작소 [2022 캘린더 갤러리]가 무사히 마무리되었습니다. \n\n올해로 6회째를 맞은, 재미공작소의 대표 연례행사 중 하나인 [캘린더 갤러리]에 참여해주신 창작자분들, 찾아주시고 구매해주신 모든 분들께 진심으로 감사드립니다. \n\n내년에 또 만나요! https://t.co/TR50DoPIyL"
+	},
+	{
 		"created_at": "Sun Dec 05 12:07:37 +0000 2021",
 		"id": 1467465683139285000,
 		"id_str": "1467465683139284997",
