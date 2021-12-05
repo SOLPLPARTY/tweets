@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 07:29:24 +0000 2021",
+		"id": 1467394759895679000,
+		"id_str": "1467395668356616194",
+		"full_text": "[#cott] MPMG 기획공연 &lt;Weekendream&gt;\n\ncott과 함께하는 꿈같은 주말,\n즐길 준비되셨나요?\n\n잠시 후 5시 KT&amp;G 상상마당에서 만나요🙌🏻\n\n#cott #콧 #공연 #콘서트 #MPMG #MPMG기획공연 #라이브 #홍대 #hongdae #라이브홀 #상상마당 https://t.co/HNJxCEUqj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						107,
+						109
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "MPMG",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MPMG기획공연",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "hongdae",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						159,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467394723824676900,
+					"id_str": "1467394723824676866",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FF07ugraMAIaNqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF07ugraMAIaNqO.jpg",
+					"url": "https://t.co/HNJxCEUqj2",
+					"display_url": "pic.twitter.com/HNJxCEUqj2",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467394759895678978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467394723824676900,
+					"id_str": "1467394723824676866",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FF07ugraMAIaNqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF07ugraMAIaNqO.jpg",
+					"url": "https://t.co/HNJxCEUqj2",
+					"display_url": "pic.twitter.com/HNJxCEUqj2",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467394759895678978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467394740396396500,
+					"id_str": "1467394740396396547",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FF07veaakAMMHXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF07veaakAMMHXI.jpg",
+					"url": "https://t.co/HNJxCEUqj2",
+					"display_url": "pic.twitter.com/HNJxCEUqj2",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467394759895678978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467394745958023200,
+					"id_str": "1467394745958023168",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FF07vzIaQAADrqx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF07vzIaQAADrqx.jpg",
+					"url": "https://t.co/HNJxCEUqj2",
+					"display_url": "pic.twitter.com/HNJxCEUqj2",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467394759895678978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467394755856601000,
+					"id_str": "1467394755856601089",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FF07wYAakAEgA5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF07wYAakAEgA5a.jpg",
+					"url": "https://t.co/HNJxCEUqj2",
+					"display_url": "pic.twitter.com/HNJxCEUqj2",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1467394759895678978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#cott] MPMG 기획공연 &lt;Weekendream&gt;\n\ncott과 함께하는 꿈같은 주말,\n즐길 준비되셨나요?\n\n잠시 후 5시 KT&amp;G 상상마당에서 만나요🙌🏻\n\n#cott #콧 #공연 #콘서트 #MPMG #MPMG기획공연 #라이브 #홍대 #hongdae #라이브홀 #상상마당 https://t.co/HNJxCEUqj2"
+	},
+	{
 		"created_at": "Sun Dec 05 03:10:38 +0000 2021",
 		"id": 1467330545063547000,
 		"id_str": "1467330545063546890",
