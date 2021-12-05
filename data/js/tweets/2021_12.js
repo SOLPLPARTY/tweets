@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 10:29:24 +0000 2021",
+		"id": 1467428069426495500,
+		"id_str": "1467440966860775426",
+		"full_text": "[#Video] #적재\n\n적재가 참여한 tvN ‘지리산’ OST Part.10 ‘I’m Coming Home’의 Studio Live 영상이 공개되었습니다💛\n\n🔗https://t.co/0g10ezmrk3\n\n#Jukjae #ImComingHome\n#지리산 #OST https://t.co/GNMFV3sYX8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "ImComingHome",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"text": "지리산",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0g10ezmrk3",
+					"expanded_url": "https://youtu.be/tFNCb6mJNZM",
+					"display_url": "youtu.be/tFNCb6mJNZM",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467427834411237400,
+					"id_str": "1467427834411237376",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467427834411237376/pu/img/9GQtpb906oOQMtuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467427834411237376/pu/img/9GQtpb906oOQMtuc.jpg",
+					"url": "https://t.co/GNMFV3sYX8",
+					"display_url": "pic.twitter.com/GNMFV3sYX8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1467428069426495488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467427834411237400,
+					"id_str": "1467427834411237376",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467427834411237376/pu/img/9GQtpb906oOQMtuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467427834411237376/pu/img/9GQtpb906oOQMtuc.jpg",
+					"url": "https://t.co/GNMFV3sYX8",
+					"display_url": "pic.twitter.com/GNMFV3sYX8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1467428069426495488/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58850,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1467427834411237376/pu/pl/88U_47-uluDB9t1n.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467427834411237376/pu/vid/480x270/gXvgGoKdwqps51mc.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467427834411237376/pu/vid/640x360/loZkWvyupQtpHT4H.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467427834411237376/pu/vid/1280x720/HaUmm226P6cCMv9v.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39439,
+			"friends_count": 10,
+			"listed_count": 380,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n적재가 참여한 tvN ‘지리산’ OST Part.10 ‘I’m Coming Home’의 Studio Live 영상이 공개되었습니다💛\n\n🔗https://t.co/0g10ezmrk3\n\n#Jukjae #ImComingHome\n#지리산 #OST https://t.co/GNMFV3sYX8"
+	},
+	{
 		"created_at": "Sun Dec 05 09:29:47 +0000 2021",
 		"id": 1467423157535805400,
 		"id_str": "1467425961709023237",
