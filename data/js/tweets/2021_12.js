@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 11:29:25 +0000 2021",
+		"id": 1467811110472814600,
+		"id_str": "1467818455214796802",
+		"full_text": "[#Video] #안테나\n\n2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n￼\n📝Lyric Video\nhttps://t.co/wRnlqeHVxh\n\n#Antenna #다음겨울에도여기서만나\n#HelloAntenna_HelloChristmas https://t.co/TGjbcq2fYt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "다음겨울에도여기서만나",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "HelloAntenna_HelloChristmas",
+					"indices": [
+						175,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wRnlqeHVxh",
+					"expanded_url": "https://youtu.be/rRrmhpBPA_Q",
+					"display_url": "youtu.be/rRrmhpBPA_Q",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467809737790005200,
+					"id_str": "1467809737790005248",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FF61UTfacAIPkUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF61UTfacAIPkUW.jpg",
+					"url": "https://t.co/TGjbcq2fYt",
+					"display_url": "pic.twitter.com/TGjbcq2fYt",
+					"expanded_url": "https://twitter.com/antennamusic/status/1467811110472814592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467809737790005200,
+					"id_str": "1467809737790005248",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FF61UTfacAIPkUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF61UTfacAIPkUW.jpg",
+					"url": "https://t.co/TGjbcq2fYt",
+					"display_url": "pic.twitter.com/TGjbcq2fYt",
+					"expanded_url": "https://twitter.com/antennamusic/status/1467811110472814592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60518,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467809737790005248/vid/640x360/AfKvPOu8cL38Lr86.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467809737790005248/vid/1280x720/4Qa9-1Vc6Dxle5SQ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1467809737790005248/pl/w5xcamEJp_7JQdxk.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467809737790005248/vid/480x270/MdhRSOt2PtE9gbXL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' Lyric Video",
+						"description": "2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n￼\n📝Lyric Video",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/rRrmhpBPA_Q"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39598,
+			"friends_count": 10,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #안테나\n\n2021 안테나 크리스마스 캐럴\n'다음 겨울에도 여기서 만나'\n\n2021 Antenna Christmas Carol\n'Hello Antenna, Hello Christmas'\n￼\n📝Lyric Video\nhttps://t.co/wRnlqeHVxh\n\n#Antenna #다음겨울에도여기서만나\n#HelloAntenna_HelloChristmas https://t.co/TGjbcq2fYt"
+	},
+	{
 		"created_at": "Mon Dec 06 10:29:49 +0000 2021",
 		"id": 1467796445097263000,
 		"id_str": "1467803457050525699",
