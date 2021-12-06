@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 02:11:16 +0000 2021",
+		"id": 1467676264425463800,
+		"id_str": "1467677995536162821",
+		"full_text": "[새해의 포크 10주년]\n2022.1/1(토)-1/2(일) 벨로주 홍대\n\n1월1일(토) 김사월 / 황푸하 / 김제형 / 다정\n예매 : https://t.co/An3PNxIHst\n\n1월2일(일) 이랑 / 김목인 / 천용성 / 오소영\n예매 : https://t.co/Hlqrkwvxva https://t.co/bXdSZABDut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/An3PNxIHst",
+					"expanded_url": "https://c11.kr/uff9",
+					"display_url": "c11.kr/uff9",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/Hlqrkwvxva",
+					"expanded_url": "https://c11.kr/uffa",
+					"display_url": "c11.kr/uffa",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467676169395126300,
+					"id_str": "1467676169395126273",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FF47szIaQAEM-tU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF47szIaQAEM-tU.jpg",
+					"url": "https://t.co/bXdSZABDut",
+					"display_url": "pic.twitter.com/bXdSZABDut",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1467676264425463809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467676169395126300,
+					"id_str": "1467676169395126273",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FF47szIaQAEM-tU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF47szIaQAEM-tU.jpg",
+					"url": "https://t.co/bXdSZABDut",
+					"display_url": "pic.twitter.com/bXdSZABDut",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1467676264425463809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8587,
+			"friends_count": 154,
+			"listed_count": 130,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[새해의 포크 10주년]\n2022.1/1(토)-1/2(일) 벨로주 홍대\n\n1월1일(토) 김사월 / 황푸하 / 김제형 / 다정\n예매 : https://t.co/An3PNxIHst\n\n1월2일(일) 이랑 / 김목인 / 천용성 / 오소영\n예매 : https://t.co/Hlqrkwvxva https://t.co/bXdSZABDut"
+	},
+	{
 		"created_at": "Sun Dec 05 16:29:25 +0000 2021",
 		"id": 1467526455227994000,
 		"id_str": "1467531564988964866",
