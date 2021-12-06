@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 06:11:17 +0000 2021",
+		"id": 1467730303326498800,
+		"id_str": "1467738397594824705",
+		"full_text": "[KT&amp;G 상상마당 코로나 방역패스 운영 안내]\n\nKT&amp;G 상상마당은 \n정부 방역 정책에 따라 12월 6일(월)부터 \n방문객 대상 방역패스 인증 확인을 진행하오니,\n고객 여러분의 많은 협조를 바랍니다.\n\nKT&amp;G 상상마당은 앞으로도 고객 여러분의 위생 안전을 위하여, 최선을 다 하겠습니다. \n감사합니다. https://t.co/AGmrIChdF5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467730234615410700,
+					"id_str": "1467730234615410691",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5s3zxaMAMn3KU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5s3zxaMAMn3KU.jpg",
+					"url": "https://t.co/AGmrIChdF5",
+					"display_url": "pic.twitter.com/AGmrIChdF5",
+					"expanded_url": "https://twitter.com/SSmadang/status/1467730303326498818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1182,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1182,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467730234615410700,
+					"id_str": "1467730234615410691",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5s3zxaMAMn3KU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5s3zxaMAMn3KU.jpg",
+					"url": "https://t.co/AGmrIChdF5",
+					"display_url": "pic.twitter.com/AGmrIChdF5",
+					"expanded_url": "https://twitter.com/SSmadang/status/1467730303326498818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1182,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1182,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467730234623807500,
+					"id_str": "1467730234623807488",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5s3zzaUAAG4D3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5s3zzaUAAG4D3.jpg",
+					"url": "https://t.co/AGmrIChdF5",
+					"display_url": "pic.twitter.com/AGmrIChdF5",
+					"expanded_url": "https://twitter.com/SSmadang/status/1467730303326498818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1182,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1182,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17738,
+			"friends_count": 1871,
+			"listed_count": 288,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KT&amp;G 상상마당 코로나 방역패스 운영 안내]\n\nKT&amp;G 상상마당은 \n정부 방역 정책에 따라 12월 6일(월)부터 \n방문객 대상 방역패스 인증 확인을 진행하오니,\n고객 여러분의 많은 협조를 바랍니다.\n\nKT&amp;G 상상마당은 앞으로도 고객 여러분의 위생 안전을 위하여, 최선을 다 하겠습니다. \n감사합니다. https://t.co/AGmrIChdF5"
+	},
+	{
+		"created_at": "Mon Dec 06 05:29:35 +0000 2021",
+		"id": 1467723882522353700,
+		"id_str": "1467727903429476355",
+		"full_text": "[#정인] 네이버 NOW. &lt;너에게 음악&gt; 완료✔\n\n윤상과 함께한 음악 얘기부터 완벽한 라이브까지🎤 \n남은 한 주도 정인과 함께 에너지 UP❗\n\n#JUNGIN #값 #네이버NOW #윤상 #너에게음악 https://t.co/TF7lqQAd17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						95,
+						97
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "윤상",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "너에게음악",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467723766235279400,
+					"id_str": "1467723766235279360",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5m_TLaMAAbGOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5m_TLaMAAbGOA.jpg",
+					"url": "https://t.co/TF7lqQAd17",
+					"display_url": "pic.twitter.com/TF7lqQAd17",
+					"expanded_url": "https://twitter.com/themysticstory/status/1467723882522353664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467723766235279400,
+					"id_str": "1467723766235279360",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5m_TLaMAAbGOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF5m_TLaMAAbGOA.jpg",
+					"url": "https://t.co/TF7lqQAd17",
+					"display_url": "pic.twitter.com/TF7lqQAd17",
+					"expanded_url": "https://twitter.com/themysticstory/status/1467723882522353664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32077,
+			"friends_count": 15,
+			"listed_count": 270,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] 네이버 NOW. &lt;너에게 음악&gt; 완료✔\n\n윤상과 함께한 음악 얘기부터 완벽한 라이브까지🎤 \n남은 한 주도 정인과 함께 에너지 UP❗\n\n#JUNGIN #값 #네이버NOW #윤상 #너에게음악 https://t.co/TF7lqQAd17"
+	},
+	{
+		"created_at": "Mon Dec 06 05:29:31 +0000 2021",
+		"id": 1467722446010990600,
+		"id_str": "1467727886178267140",
+		"full_text": "📍공연 정보\n- 일시 : 2021년 12월 24일 금요일 오후 8시\n: 2021년 12월 25일 토요일 오후 6시\n- 장소 : 벨로주 홍대\n- 예매처 : 네이버 예약(https://t.co/phvqs9lVv7)\n\n#오지은 #연말단독공연 #겨울의공연 #2021연말공연 #단독공연 #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "연말단독공연",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "겨울의공연",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "2021연말공연",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						155,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/phvqs9lVv7",
+					"expanded_url": "https://bit.ly/3CutTic",
+					"display_url": "bit.ly/3CutTic",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1467722444056182800,
+		"in_reply_to_status_id_str": "1467722444056182785",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍공연 정보\n- 일시 : 2021년 12월 24일 금요일 오후 8시\n: 2021년 12월 25일 토요일 오후 6시\n- 장소 : 벨로주 홍대\n- 예매처 : 네이버 예약(https://t.co/phvqs9lVv7)\n\n#오지은 #연말단독공연 #겨울의공연 #2021연말공연 #단독공연 #콘서트"
+	},
+	{
+		"created_at": "Mon Dec 06 05:29:29 +0000 2021",
+		"id": 1467722444056182800,
+		"id_str": "1467727877273788420",
+		"full_text": "[#오지은] 오지은 2021년 겨울의 공연 예습 플레이리스트\n\n2021 오지은 연말 단독 공연 [겨울의 공연]을 앞두고,\n한 해를 보내며 듣기 좋은 음악들을 준비했습니다 :)\n\n지금 바로 유튜브 채널 \"유어썸머\"에서 만나보세요!\n➡️ https://t.co/A1NmRlAEl6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A1NmRlAEl6",
+					"expanded_url": "http://bit.ly/31q0dXc",
+					"display_url": "bit.ly/31q0dXc",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오지은] 오지은 2021년 겨울의 공연 예습 플레이리스트\n\n2021 오지은 연말 단독 공연 [겨울의 공연]을 앞두고,\n한 해를 보내며 듣기 좋은 음악들을 준비했습니다 :)\n\n지금 바로 유튜브 채널 \"유어썸머\"에서 만나보세요!\n➡️ https://t.co/A1NmRlAEl6"
+	},
+	{
 		"created_at": "Mon Dec 06 04:11:35 +0000 2021",
 		"id": 1467697644521029600,
 		"id_str": "1467708271071006723",
@@ -1069,7 +1763,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Mon Dec 06 03:29:56 +0000 2021",
 		"id": 1467693674972983300,
 		"id_str": "1467697790230876161",
-		"full_text": "[#정진운] &lt;미드나잇 스릴러 | 친절한 경찰&gt; 포스터 공개✔\n\n모두에게 신뢰를 받는 훈남 사이코 친절한 '김순경' 역할을 맡아 열연을 펼칠 예정👮‍♂️\n&lt;미스터리 스릴러 | 친절한 경찰&gt;은\n올레 tv 초이스와 seezn에서\n12월 9일 8AM 첫 공개됩니다🔔\n\n#MIDNIGHT_THRILLER #친절한경찰 https://t.co/IzH72dgL1C",
+		"full_text": "[#정진운] &lt;미드나잇 스릴러 | 친절한 경찰&gt; 포스터 공개✔\n\n모두에게 신뢰를 받는 훈남 사이코 친절한 '김순경' 역할을 맡아 열연을 펼칠 예정👮♂️\n&lt;미스터리 스릴러 | 친절한 경찰&gt;은\n올레 tv 초이스와 seezn에서\n12월 9일 8AM 첫 공개됩니다🔔\n\n#MIDNIGHT_THRILLER #친절한경찰 https://t.co/IzH72dgL1C",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1260,7 +1954,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#정진운] &lt;미드나잇 스릴러 | 친절한 경찰&gt; 포스터 공개✔\n\n모두에게 신뢰를 받는 훈남 사이코 친절한 '김순경' 역할을 맡아 열연을 펼칠 예정👮‍♂️\n&lt;미스터리 스릴러 | 친절한 경찰&gt;은\n올레 tv 초이스와 seezn에서\n12월 9일 8AM 첫 공개됩니다🔔\n\n#MIDNIGHT_THRILLER #친절한경찰 https://t.co/IzH72dgL1C"
+		"text": "[#정진운] &lt;미드나잇 스릴러 | 친절한 경찰&gt; 포스터 공개✔\n\n모두에게 신뢰를 받는 훈남 사이코 친절한 '김순경' 역할을 맡아 열연을 펼칠 예정👮♂️\n&lt;미스터리 스릴러 | 친절한 경찰&gt;은\n올레 tv 초이스와 seezn에서\n12월 9일 8AM 첫 공개됩니다🔔\n\n#MIDNIGHT_THRILLER #친절한경찰 https://t.co/IzH72dgL1C"
 	},
 	{
 		"created_at": "Mon Dec 06 03:29:47 +0000 2021",
