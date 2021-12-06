@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 10:29:49 +0000 2021",
+		"id": 1467796445097263000,
+		"id_str": "1467803457050525699",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n백돌이들 오늘 단체로 실력 검사 받는 날\n그리고 옆에는 지구도 모르고 골프도 모르는 이름이 모르고..?\n\n#백돌이대탈출_부캐골프시대 에서 확인하세요!\n\n👉 https://t.co/YnAW4hlHKb\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #마르코 #최수임 #조현 #안수빈 https://t.co/5UQHNhxZra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						150,
+						164
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "마르코",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "최수임",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "조현",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "안수빈",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YnAW4hlHKb",
+					"expanded_url": "https://youtu.be/q4tzrR8yXNU",
+					"display_url": "youtu.be/q4tzrR8yXNU",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467796434569203700,
+					"id_str": "1467796434569203712",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6pFJ0VEAA9nXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6pFJ0VEAA9nXy.jpg",
+					"url": "https://t.co/5UQHNhxZra",
+					"display_url": "pic.twitter.com/5UQHNhxZra",
+					"expanded_url": "https://twitter.com/humap_official/status/1467796445097263105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467796434569203700,
+					"id_str": "1467796434569203712",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6pFJ0VEAA9nXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6pFJ0VEAA9nXy.jpg",
+					"url": "https://t.co/5UQHNhxZra",
+					"display_url": "pic.twitter.com/5UQHNhxZra",
+					"expanded_url": "https://twitter.com/humap_official/status/1467796445097263105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n백돌이들 오늘 단체로 실력 검사 받는 날\n그리고 옆에는 지구도 모르고 골프도 모르는 이름이 모르고..?\n\n#백돌이대탈출_부캐골프시대 에서 확인하세요!\n\n👉 https://t.co/YnAW4hlHKb\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #마르코 #최수임 #조현 #안수빈 https://t.co/5UQHNhxZra"
+	},
+	{
+		"created_at": "Mon Dec 06 10:29:41 +0000 2021",
+		"id": 1467795961489477600,
+		"id_str": "1467803423005450241",
+		"full_text": "[Behind]\n⠀\n최유리 EP앨범 발매기념 콘서트 '여정'의 비하인드가 공개되었습니다.\n더 많은 사진은 쇼파르 공식 포스트에서 확인해주세요!\n⠀\n▷ https://t.co/gcs15xE7qU\n\n#최유리 #콘서트 #여정 #비하인드\n#Choiyuree #Behind https://t.co/KKepNT8y3l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "여정",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "Choiyuree",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gcs15xE7qU",
+					"expanded_url": "http://naver.me/xKYg7hPv",
+					"display_url": "naver.me/xKYg7hPv",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467793491354808300,
+					"id_str": "1467793491354808326",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6mZ1fVcAYxEVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6mZ1fVcAYxEVu.jpg",
+					"url": "https://t.co/KKepNT8y3l",
+					"display_url": "pic.twitter.com/KKepNT8y3l",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1467795961489477632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467793491354808300,
+					"id_str": "1467793491354808326",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6mZ1fVcAYxEVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6mZ1fVcAYxEVu.jpg",
+					"url": "https://t.co/KKepNT8y3l",
+					"display_url": "pic.twitter.com/KKepNT8y3l",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1467795961489477632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/nimqr6dMG6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nimqr6dMG6",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7759,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1637651590",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Behind]\n⠀\n최유리 EP앨범 발매기념 콘서트 '여정'의 비하인드가 공개되었습니다.\n더 많은 사진은 쇼파르 공식 포스트에서 확인해주세요!\n⠀\n▷ https://t.co/gcs15xE7qU\n\n#최유리 #콘서트 #여정 #비하인드\n#Choiyuree #Behind https://t.co/KKepNT8y3l"
+	},
+	{
+		"created_at": "Mon Dec 06 10:29:32 +0000 2021",
+		"id": 1467795956976570400,
+		"id_str": "1467803384723951625",
+		"full_text": "[#김이나] JTBC &lt;싱어게인2&gt; 출연✔\n\n김이나가 심사위원으로 출연하는 JTBC &lt;싱어게인2&gt;는 오늘 밤 9시 JTBC에서📺 본방사수 잊지마세요😘\n\n#JTBC #싱어게인2 https://t.co/GmTlhjp1W2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김이나",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "싱어게인2",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467762664311255000,
+					"id_str": "1467762664311255040",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6KXdzacAAISy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6KXdzacAAISy7.jpg",
+					"url": "https://t.co/GmTlhjp1W2",
+					"display_url": "pic.twitter.com/GmTlhjp1W2",
+					"expanded_url": "https://twitter.com/themysticstory/status/1467795956976570371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467762664311255000,
+					"id_str": "1467762664311255040",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6KXdzacAAISy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6KXdzacAAISy7.jpg",
+					"url": "https://t.co/GmTlhjp1W2",
+					"display_url": "pic.twitter.com/GmTlhjp1W2",
+					"expanded_url": "https://twitter.com/themysticstory/status/1467795956976570371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32089,
+			"friends_count": 15,
+			"listed_count": 270,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김이나] JTBC &lt;싱어게인2&gt; 출연✔\n\n김이나가 심사위원으로 출연하는 JTBC &lt;싱어게인2&gt;는 오늘 밤 9시 JTBC에서📺 본방사수 잊지마세요😘\n\n#JTBC #싱어게인2 https://t.co/GmTlhjp1W2"
+	},
+	{
 		"created_at": "Mon Dec 06 10:11:40 +0000 2021",
 		"id": 1467779603142180900,
 		"id_str": "1467798890934157318",
