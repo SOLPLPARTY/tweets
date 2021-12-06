@@ -1,6 +1,1680 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 10:11:40 +0000 2021",
+		"id": 1467779603142180900,
+		"id_str": "1467798890934157318",
+		"full_text": "'LIVE. ON'은 문화체육관광부가 후원하고, 한국음악레이블산업협회와 아리랑TV가 함께 추진합니다. \n⠀ https://t.co/WPLN9OqZ4w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467779589652902000,
+					"id_str": "1467779589652901896",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6ZwpnUcAgKxRc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6ZwpnUcAgKxRc.jpg",
+					"url": "https://t.co/WPLN9OqZ4w",
+					"display_url": "pic.twitter.com/WPLN9OqZ4w",
+					"expanded_url": "https://twitter.com/xindieticket/status/1467779603142180865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467779589652902000,
+					"id_str": "1467779589652901896",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6ZwpnUcAgKxRc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6ZwpnUcAgKxRc.jpg",
+					"url": "https://t.co/WPLN9OqZ4w",
+					"display_url": "pic.twitter.com/WPLN9OqZ4w",
+					"expanded_url": "https://twitter.com/xindieticket/status/1467779603142180865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1467779597815390200,
+		"in_reply_to_status_id_str": "1467779597815390208",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 2571,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'LIVE. ON'은 문화체육관광부가 후원하고, 한국음악레이블산업협회와 아리랑TV가 함께 추진합니다. \n⠀ https://t.co/WPLN9OqZ4w"
+	},
+	{
+		"created_at": "Mon Dec 06 10:11:33 +0000 2021",
+		"id": 1467779597815390200,
+		"id_str": "1467798861120950282",
+		"full_text": "✨ 단단한 사운드를 만드는 개러지 록 밴드 투 데이 올드 스니커즈 (2 Day Old Sneakers)\nhttps://t.co/JDfWkpbJIt\n✨ 러블리한 목소리와 깊이 있는 가사가 돋보이는 뮤지션 스텔라장 (Stella Jang)\nhttps://t.co/Lt9TddPk8d\n- \n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JDfWkpbJIt",
+					"expanded_url": "https://www.instagram.com/2dayoldsneakers/",
+					"display_url": "instagram.com/2dayoldsneaker…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/Lt9TddPk8d",
+					"expanded_url": "https://www.instagram.com/interstellajang/",
+					"display_url": "instagram.com/interstellajan…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1467779595684704300,
+		"in_reply_to_status_id_str": "1467779595684704258",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 2571,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨ 단단한 사운드를 만드는 개러지 록 밴드 투 데이 올드 스니커즈 (2 Day Old Sneakers)\nhttps://t.co/JDfWkpbJIt\n✨ 러블리한 목소리와 깊이 있는 가사가 돋보이는 뮤지션 스텔라장 (Stella Jang)\nhttps://t.co/Lt9TddPk8d\n- \n⠀"
+	},
+	{
+		"created_at": "Mon Dec 06 10:11:31 +0000 2021",
+		"id": 1467779595684704300,
+		"id_str": "1467798852229074944",
+		"full_text": "- \n⠀ \n🎸 오늘의 아티스트 \n⠀ \n✨ 시간과 공간을 노래하는 밴드 이상의 날개 (Wings of the ISANG)\nhttps://t.co/829TzO93V0\n⠀ \n✨ 친숙하게 재즈를 풀어내는 싱어송라이터 허지영 (HEO Jee-young)\nhttps://t.co/XsfQCtLei8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/829TzO93V0",
+					"expanded_url": "https://www.facebook.com/wingsoftheisang",
+					"display_url": "facebook.com/wingsoftheisang",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/XsfQCtLei8",
+					"expanded_url": "https://www.instagram.com/heojeeyoung/",
+					"display_url": "instagram.com/heojeeyoung/",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1467779593369264000,
+		"in_reply_to_status_id_str": "1467779593369264129",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 2571,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- \n⠀ \n🎸 오늘의 아티스트 \n⠀ \n✨ 시간과 공간을 노래하는 밴드 이상의 날개 (Wings of the ISANG)\nhttps://t.co/829TzO93V0\n⠀ \n✨ 친숙하게 재즈를 풀어내는 싱어송라이터 허지영 (HEO Jee-young)\nhttps://t.co/XsfQCtLei8"
+	},
+	{
+		"created_at": "Mon Dec 06 10:11:23 +0000 2021",
+		"id": 1467779593369264000,
+		"id_str": "1467798818188054535",
+		"full_text": "[LIVE. ON / 12월 6일 공연 소개] \n⠀ \n소규모 대중음악공연 지원 사업 'LIVE. ON' 오늘의 공연을 소개합니다. 오후 6시부터 2시간 동안 공연이 펼쳐집니다! \n⠀ \n'LIVE. ON' 공식 유튜브 채널을 통해 온라인 생중계됩니다. \n많은 시청 바랍니다 🤟 \n⠀ \n▶ 공연 보러가기 :  https://t.co/LONVZejY8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LONVZejY8l",
+					"expanded_url": "https://c11.kr/ufwo",
+					"display_url": "c11.kr/ufwo",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 2571,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE. ON / 12월 6일 공연 소개] \n⠀ \n소규모 대중음악공연 지원 사업 'LIVE. ON' 오늘의 공연을 소개합니다. 오후 6시부터 2시간 동안 공연이 펼쳐집니다! \n⠀ \n'LIVE. ON' 공식 유튜브 채널을 통해 온라인 생중계됩니다. \n많은 시청 바랍니다 🤟 \n⠀ \n▶ 공연 보러가기 :  https://t.co/LONVZejY8l"
+	},
+	{
+		"created_at": "Mon Dec 06 10:11:17 +0000 2021",
+		"id": 1467774861183709200,
+		"id_str": "1467798792560906241",
+		"full_text": "&lt;이러고들 놀고 있다&gt; 4부 예고 &amp; 사연 공모\n\n“당당이 여러분이 올 해 가장 잘 한 일은?” \nDM으로 사연을 보내주세요!\n선물을 드립니다. (~12.22까지)\n\n✔️ DM은 아래 채널로~!\n→ https://t.co/izoAJyFUH2\n\n사연소개와 당첨자발표는\n12월 29일 (수) 저녁 8:30\n&lt;이러고들 놀고 있다&gt; 4부 카카오 음에서! https://t.co/dsEoUBkmUo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/izoAJyFUH2",
+					"expanded_url": "https://bit.ly/31ERsIA",
+					"display_url": "bit.ly/31ERsIA",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467774818498285600,
+					"id_str": "1467774818498285568",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6Va7rakAAXCgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6Va7rakAAXCgy.jpg",
+					"url": "https://t.co/dsEoUBkmUo",
+					"display_url": "pic.twitter.com/dsEoUBkmUo",
+					"expanded_url": "https://twitter.com/SSmadang/status/1467774861183709185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467774818498285600,
+					"id_str": "1467774818498285568",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6Va7rakAAXCgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6Va7rakAAXCgy.jpg",
+					"url": "https://t.co/dsEoUBkmUo",
+					"display_url": "pic.twitter.com/dsEoUBkmUo",
+					"expanded_url": "https://twitter.com/SSmadang/status/1467774861183709185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467774818489888800,
+					"id_str": "1467774818489888769",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6Va7pacAEGuzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6Va7pacAEGuzk.jpg",
+					"url": "https://t.co/dsEoUBkmUo",
+					"display_url": "pic.twitter.com/dsEoUBkmUo",
+					"expanded_url": "https://twitter.com/SSmadang/status/1467774861183709185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1467774818494091300,
+					"id_str": "1467774818494091265",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6Va7qakAEnyiO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6Va7qakAEnyiO.jpg",
+					"url": "https://t.co/dsEoUBkmUo",
+					"display_url": "pic.twitter.com/dsEoUBkmUo",
+					"expanded_url": "https://twitter.com/SSmadang/status/1467774861183709185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17738,
+			"friends_count": 1871,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;이러고들 놀고 있다&gt; 4부 예고 &amp; 사연 공모\n\n“당당이 여러분이 올 해 가장 잘 한 일은?” \nDM으로 사연을 보내주세요!\n선물을 드립니다. (~12.22까지)\n\n✔️ DM은 아래 채널로~!\n→ https://t.co/izoAJyFUH2\n\n사연소개와 당첨자발표는\n12월 29일 (수) 저녁 8:30\n&lt;이러고들 놀고 있다&gt; 4부 카카오 음에서! https://t.co/dsEoUBkmUo"
+	},
+	{
+		"created_at": "Mon Dec 06 09:59:10 +0000 2021",
+		"id": 1467795746044973000,
+		"id_str": "1467795746044973058",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n수연이(Soo-Yeony) – Selfish [Music Video]\nhttps://t.co/WyBv5je6N6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WyBv5je6N6",
+					"expanded_url": "https://youtu.be/s4KI4tDmiWs",
+					"display_url": "youtu.be/s4KI4tDmiWs",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n수연이(Soo-Yeony) – Selfish [Music Video]\nhttps://t.co/WyBv5je6N6"
+	},
+	{
+		"created_at": "Mon Dec 06 09:29:49 +0000 2021",
+		"id": 1467787287258108000,
+		"id_str": "1467788358114070531",
+		"full_text": "[Ayul (이아율)]\n\nAyul (이아율)의 신곡 'Communication'이 모든 음원 사이트를 통해 발매되었습니다.\nAyul's new single 'Communication' released on online music streaming platform.\n\nhttps://t.co/UrhfgByok5\n\n#Ayul #이아율\n#Communication \n#stopmotion #video \n#PAKTORY #팩토리컴퍼니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ayul",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "이아율",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "Communication",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"text": "stopmotion",
+					"indices": [
+						201,
+						212
+					]
+				},
+				{
+					"text": "video",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "PAKTORY",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						230,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UrhfgByok5",
+					"expanded_url": "https://youtu.be/6GEaPm-TLec",
+					"display_url": "youtu.be/6GEaPm-TLec",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Ayul (이아율)]\n\nAyul (이아율)의 신곡 'Communication'이 모든 음원 사이트를 통해 발매되었습니다.\nAyul's new single 'Communication' released on online music streaming platform.\n\nhttps://t.co/UrhfgByok5\n\n#Ayul #이아율\n#Communication \n#stopmotion #video \n#PAKTORY #팩토리컴퍼니"
+	},
+	{
+		"created_at": "Mon Dec 06 09:29:46 +0000 2021",
+		"id": 1467783410081210400,
+		"id_str": "1467788345090707457",
+		"full_text": "[SM STATION] 온유 X 펀치 '별 하나 (Way)'\n\nhttps://t.co/jWEN8nDtv9\n\n#별하나 #Way\n#ONEW #온유 \n#SHINee #샤이니 @SHINee\n#펀치 #Punch\n#SMSTATION #SMTOWN #STATION",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "별하나",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "Way",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "펀치",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "Punch",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jWEN8nDtv9",
+					"expanded_url": "http://naver.me/F1FAsxBj",
+					"display_url": "naver.me/F1FAsxBj",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10269367,
+			"friends_count": 55,
+			"listed_count": 11214,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 955,
+		"favorite_count": 2967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SM STATION] 온유 X 펀치 '별 하나 (Way)'\n\nhttps://t.co/jWEN8nDtv9\n\n#별하나 #Way\n#ONEW #온유 \n#SHINee #샤이니 @SHINee\n#펀치 #Punch\n#SMSTATION #SMTOWN #STATION"
+	},
+	{
+		"created_at": "Mon Dec 06 09:29:37 +0000 2021",
+		"id": 1467781725896192000,
+		"id_str": "1467788306859577348",
+		"full_text": "[#STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' \n\nListen now on your favorite platform\n➫https://t.co/togKek5ISA\n\n#별하나 #Way\n#ONEW #온유 \n#SHINee #샤이니 @SHINee\n#펀치 #Punch\n#SMSTATION #SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "별하나",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "Way",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "펀치",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "Punch",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/togKek5ISA",
+					"expanded_url": "https://smarturl.it/Way_SMSTATION",
+					"display_url": "smarturl.it/Way_SMSTATION",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10269367,
+			"friends_count": 55,
+			"listed_count": 11214,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2054,
+		"favorite_count": 4468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' \n\nListen now on your favorite platform\n➫https://t.co/togKek5ISA\n\n#별하나 #Way\n#ONEW #온유 \n#SHINee #샤이니 @SHINee\n#펀치 #Punch\n#SMSTATION #SMTOWN"
+	},
+	{
+		"created_at": "Mon Dec 06 09:29:31 +0000 2021",
+		"id": 1467781322630660000,
+		"id_str": "1467788281265983493",
+		"full_text": "최첼로(Choi Cello)✨\n\n2021.12.07 TUE 12PM\nMERRY CHRISTMAS🎄\n최첼로(Choi Cello), 싱글 'Dream'\n\n#최첼로 #ChoiCello #Dream https://t.co/gBPbvSNW4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최첼로",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "ChoiCello",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "Dream",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467781276602372000,
+					"id_str": "1467781276602372097",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467781276602372097/pu/img/bCieeDlA7vdwtafg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467781276602372097/pu/img/bCieeDlA7vdwtafg.jpg",
+					"url": "https://t.co/gBPbvSNW4n",
+					"display_url": "pic.twitter.com/gBPbvSNW4n",
+					"expanded_url": "https://twitter.com/inplanet/status/1467781322630660096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467781276602372000,
+					"id_str": "1467781276602372097",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467781276602372097/pu/img/bCieeDlA7vdwtafg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467781276602372097/pu/img/bCieeDlA7vdwtafg.jpg",
+					"url": "https://t.co/gBPbvSNW4n",
+					"display_url": "pic.twitter.com/gBPbvSNW4n",
+					"expanded_url": "https://twitter.com/inplanet/status/1467781322630660096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18885,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467781276602372097/pu/vid/480x270/8ZD1X98a7MylfAP0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467781276602372097/pu/vid/640x360/ne71virVZvA3jwME.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467781276602372097/pu/vid/1280x720/7cbcTAJLKzxv2ASt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1467781276602372097/pu/pl/iUYrz1neRJF19SbT.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1446,
+			"friends_count": 773,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최첼로(Choi Cello)✨\n\n2021.12.07 TUE 12PM\nMERRY CHRISTMAS🎄\n최첼로(Choi Cello), 싱글 'Dream'\n\n#최첼로 #ChoiCello #Dream https://t.co/gBPbvSNW4n"
+	},
+	{
 		"created_at": "Mon Dec 06 09:11:52 +0000 2021",
 		"id": 1467783841326719000,
 		"id_str": "1467783841326718978",
