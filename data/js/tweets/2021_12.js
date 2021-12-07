@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 01:29:25 +0000 2021",
+		"id": 1468022450273206300,
+		"id_str": "1468029848199258116",
+		"full_text": "해피 뉴 이어 티저 예고편 공개!\n\nThe preview teaser of the movie 'A YEAR-END MEDLEY, 2021' has been released! \n\n#임윤아 #LIMYOONA\n#윤아 #YOONA\n#해피뉴이어 #HappyNewYear \n#A_YEAR_END_MEDLEY_2021\n#소녀시대 #GirlsGeneration https://t.co/oXqRFoWbnH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "HappyNewYear",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "A_YEAR_END_MEDLEY_2021",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						177,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467764257660223500,
+					"id_str": "1467764257660223490",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6M3JgaUAEtOX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6M3JgaUAEtOX1.jpg",
+					"url": "https://t.co/oXqRFoWbnH",
+					"display_url": "pic.twitter.com/oXqRFoWbnH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468022450273206273/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467764257660223500,
+					"id_str": "1467764257660223490",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FF6M3JgaUAEtOX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF6M3JgaUAEtOX1.jpg",
+					"url": "https://t.co/oXqRFoWbnH",
+					"display_url": "pic.twitter.com/oXqRFoWbnH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468022450273206273/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53720,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467764257660223490/vid/1280x720/l3pIepVnjZVIKUKi.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467764257660223490/vid/480x270/r0rve-uMh7rB2ovB.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1467764257660223490/vid/640x360/uuY6mTdIYPbe9HAP.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1467764257660223490/pl/QVGVDfdk-CzRSo3h.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10271163,
+			"friends_count": 55,
+			"listed_count": 11217,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1012,
+		"favorite_count": 3956,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해피 뉴 이어 티저 예고편 공개!\n\nThe preview teaser of the movie 'A YEAR-END MEDLEY, 2021' has been released! \n\n#임윤아 #LIMYOONA\n#윤아 #YOONA\n#해피뉴이어 #HappyNewYear \n#A_YEAR_END_MEDLEY_2021\n#소녀시대 #GirlsGeneration https://t.co/oXqRFoWbnH"
+	},
+	{
 		"created_at": "Tue Dec 07 00:29:24 +0000 2021",
 		"id": 1468007346785833000,
 		"id_str": "1468014747996069890",
