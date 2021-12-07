@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 03:32:17 +0000 2021",
+		"id": 1468056406553428000,
+		"id_str": "1468060772131651588",
+		"full_text": "[#안녕하신가영] 발매 안내 ☺️\n\n안녕하신가영 네 번째 미니앨범\n[가장(     )자리에서] 발매됐습니다!\n\n멜론- https://t.co/5bZTtTjXyi\n지니- https://t.co/z5PsCQAB0Z\n플로- https://t.co/HKuMUMAB77\n바이브- https://t.co/TGEgrLjkWd\n벅스- https://t.co/Yi0qGIUS6i https://t.co/zgHeoVzWf4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안녕하신가영",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5bZTtTjXyi",
+					"expanded_url": "https://url.kr/6itywl",
+					"display_url": "url.kr/6itywl",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/z5PsCQAB0Z",
+					"expanded_url": "https://url.kr/dzco9u",
+					"display_url": "url.kr/dzco9u",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/HKuMUMAB77",
+					"expanded_url": "https://url.kr/oyh84v",
+					"display_url": "url.kr/oyh84v",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/TGEgrLjkWd",
+					"expanded_url": "https://url.kr/cjm89p",
+					"display_url": "url.kr/cjm89p",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/Yi0qGIUS6i",
+					"expanded_url": "https://url.kr/rfgn34",
+					"display_url": "url.kr/rfgn34",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468056401826447400,
+					"id_str": "1468056401826447361",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-VhPUagAE-aZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-VhPUagAE-aZt.jpg",
+					"url": "https://t.co/zgHeoVzWf4",
+					"display_url": "pic.twitter.com/zgHeoVzWf4",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1468056406553427972/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468056401826447400,
+					"id_str": "1468056401826447361",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-VhPUagAE-aZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-VhPUagAE-aZt.jpg",
+					"url": "https://t.co/zgHeoVzWf4",
+					"display_url": "pic.twitter.com/zgHeoVzWf4",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1468056406553427972/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1968,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#안녕하신가영] 발매 안내 ☺️\n\n안녕하신가영 네 번째 미니앨범\n[가장(     )자리에서] 발매됐습니다!\n\n멜론- https://t.co/5bZTtTjXyi\n지니- https://t.co/z5PsCQAB0Z\n플로- https://t.co/HKuMUMAB77\n바이브- https://t.co/TGEgrLjkWd\n벅스- https://t.co/Yi0qGIUS6i https://t.co/zgHeoVzWf4"
+	},
+	{
+		"created_at": "Tue Dec 07 03:32:11 +0000 2021",
+		"id": 1468055012198981600,
+		"id_str": "1468060746365952006",
+		"full_text": "Melon https://t.co/bOJC6tY3IS\nGenie https://t.co/Z2BNIfHAyK\nBugs https://t.co/MLCtsb3zcF\nFLO https://t.co/IuvuJTY5QV\n\n@SCJAZZY \n#YunSeokCheol #안녕하신가영 #사랑없이는안돼요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "안녕하신가영",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "사랑없이는안돼요",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bOJC6tY3IS",
+					"expanded_url": "http://bit.ly/3lH1ZtD",
+					"display_url": "bit.ly/3lH1ZtD",
+					"indices": [
+						6,
+						29
+					]
+				},
+				{
+					"url": "https://t.co/Z2BNIfHAyK",
+					"expanded_url": "http://bit.ly/3DCaRHq",
+					"display_url": "bit.ly/3DCaRHq",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/MLCtsb3zcF",
+					"expanded_url": "http://bit.ly/3EvncOE",
+					"display_url": "bit.ly/3EvncOE",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/IuvuJTY5QV",
+					"expanded_url": "http://bit.ly/3drgZHD",
+					"display_url": "bit.ly/3drgZHD",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468055009627893800,
+		"in_reply_to_status_id_str": "1468055009627893764",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39638,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon https://t.co/bOJC6tY3IS\nGenie https://t.co/Z2BNIfHAyK\nBugs https://t.co/MLCtsb3zcF\nFLO https://t.co/IuvuJTY5QV\n\n@SCJAZZY \n#YunSeokCheol #안녕하신가영 #사랑없이는안돼요"
+	},
+	{
+		"created_at": "Tue Dec 07 03:29:31 +0000 2021",
+		"id": 1468052653854789600,
+		"id_str": "1468060071930339329",
+		"full_text": "[권유리] 옹주자가 'AAA' 뒤집어 놓으셨다!\n\n포스트 보러 가기👉🏻 https://t.co/HWoTgPKcpR\n\n\n#권유리 #KWONYURI \n#소녀시대 #GirlsGeneration \n#베스트연기상 \n#2021AAA #AAA\n#2021AsiaArtistAwards",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "베스트연기상",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "2021AAA",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "AAA",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "2021AsiaArtistAwards",
+					"indices": [
+						129,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HWoTgPKcpR",
+					"expanded_url": "http://naver.me/GCU4XxJT",
+					"display_url": "naver.me/GCU4XxJT",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10271558,
+			"friends_count": 55,
+			"listed_count": 11219,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 2421,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[권유리] 옹주자가 'AAA' 뒤집어 놓으셨다!\n\n포스트 보러 가기👉🏻 https://t.co/HWoTgPKcpR\n\n\n#권유리 #KWONYURI \n#소녀시대 #GirlsGeneration \n#베스트연기상 \n#2021AAA #AAA\n#2021AsiaArtistAwards"
+	},
+	{
 		"created_at": "Tue Dec 07 03:11:17 +0000 2021",
 		"id": 1468052653556990000,
 		"id_str": "1468055483806330880",
