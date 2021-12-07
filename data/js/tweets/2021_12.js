@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 15:29:25 +0000 2021",
+		"id": 1468233839961002000,
+		"id_str": "1468241241561350148",
+		"full_text": "[#STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video Teaser\n\nhttps://t.co/GCg32mcPkW\n\n[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video \n\n➫ 2021.12.8. 6PM KST\n\n#별하나 #Way\n#ONEW #온유\n#SHINee #샤이니 @SHINee\n#펀치 #Punch\n#SMSTATION #SMTOWN https://t.co/0va97ZSwsy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "별하나",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "Way",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "펀치",
+					"indices": [
+						213,
+						216
+					]
+				},
+				{
+					"text": "Punch",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						224,
+						234
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						235,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						205,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GCg32mcPkW",
+					"expanded_url": "https://youtu.be/4AQXUJScO3s",
+					"display_url": "youtu.be/4AQXUJScO3s",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468220627483910100,
+					"id_str": "1468220627483910152",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1468220627483910152/img/v5U-V3rc3AzyfWKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1468220627483910152/img/v5U-V3rc3AzyfWKe.jpg",
+					"url": "https://t.co/0va97ZSwsy",
+					"display_url": "pic.twitter.com/0va97ZSwsy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468233839961001984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468220627483910100,
+					"id_str": "1468220627483910152",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1468220627483910152/img/v5U-V3rc3AzyfWKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1468220627483910152/img/v5U-V3rc3AzyfWKe.jpg",
+					"url": "https://t.co/0va97ZSwsy",
+					"display_url": "pic.twitter.com/0va97ZSwsy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468233839961001984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29504,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468220627483910152/vid/1280x720/Koo003qSs9yNKhHa.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468220627483910152/vid/480x270/yG2xELj5-hMsN90m.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1468220627483910152/pl/g5FtxR8KqoetfjTB.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468220627483910152/vid/640x360/sYexw0Uosl28Opqu.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10273630,
+			"friends_count": 55,
+			"listed_count": 11219,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4130,
+		"favorite_count": 10098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video Teaser\n\nhttps://t.co/GCg32mcPkW\n\n[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video \n\n➫ 2021.12.8. 6PM KST\n\n#별하나 #Way\n#ONEW #온유\n#SHINee #샤이니 @SHINee\n#펀치 #Punch\n#SMSTATION #SMTOWN https://t.co/0va97ZSwsy"
+	},
+	{
 		"created_at": "Tue Dec 07 14:29:24 +0000 2021",
 		"id": 1468219342735040500,
 		"id_str": "1468226140779261955",
