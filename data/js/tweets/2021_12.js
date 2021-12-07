@@ -1,6 +1,624 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 10:58:14 +0000 2021",
+		"id": 1468172207889449000,
+		"id_str": "1468172998276440069",
+		"full_text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/15(수) 라쿠나 x 아디오스 오디오 x 맥거핀, 훌륭한 세 밴드의 공연을 프리즘홀에서 만나게 되는데요! 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f https://t.co/bnsB8ussVl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468172199110480000,
+					"id_str": "1468172199110479877",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_-1h0VkAUOl8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_-1h0VkAUOl8W.jpg",
+					"url": "https://t.co/bnsB8ussVl",
+					"display_url": "pic.twitter.com/bnsB8ussVl",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468172207889448966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468172199110480000,
+					"id_str": "1468172199110479877",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_-1h0VkAUOl8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_-1h0VkAUOl8W.jpg",
+					"url": "https://t.co/bnsB8ussVl",
+					"display_url": "pic.twitter.com/bnsB8ussVl",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468172207889448966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468172199131443200,
+					"id_str": "1468172199131443200",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_-1h5VcAAk21N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_-1h5VcAAk21N.jpg",
+					"url": "https://t.co/bnsB8ussVl",
+					"display_url": "pic.twitter.com/bnsB8ussVl",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468172207889448966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468172199114653700,
+					"id_str": "1468172199114653696",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_-1h1VQAA8_ol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_-1h1VQAA8_ol.jpg",
+					"url": "https://t.co/bnsB8ussVl",
+					"display_url": "pic.twitter.com/bnsB8ussVl",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468172207889448966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468172199118790700,
+					"id_str": "1468172199118790656",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_-1h2UYAALXnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_-1h2UYAALXnR.jpg",
+					"url": "https://t.co/bnsB8ussVl",
+					"display_url": "pic.twitter.com/bnsB8ussVl",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468172207889448966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/15(수) 라쿠나 x 아디오스 오디오 x 맥거핀, 훌륭한 세 밴드의 공연을 프리즘홀에서 만나게 되는데요! 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f https://t.co/bnsB8ussVl"
+	},
+	{
+		"created_at": "Tue Dec 07 10:29:38 +0000 2021",
+		"id": 1468150957158834200,
+		"id_str": "1468165798531371008",
+		"full_text": "#박소은 #손님 #박손장 #연말공연 #단독공연 #2021연말공연 #일기 #홍대롤링홀 #롤링홀 #홍대 #hongdae #rollinghall #diary #journal #concert #live",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "박손장",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "2021연말공연",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "일기",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "홍대롤링홀",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "hongdae",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "rollinghall",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"text": "diary",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "journal",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "concert",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468150955527270400,
+		"in_reply_to_status_id_str": "1468150955527270402",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#박소은 #손님 #박손장 #연말공연 #단독공연 #2021연말공연 #일기 #홍대롤링홀 #롤링홀 #홍대 #hongdae #rollinghall #diary #journal #concert #live"
+	},
+	{
+		"created_at": "Tue Dec 07 10:29:33 +0000 2021",
+		"id": 1468150955527270400,
+		"id_str": "1468165777106874370",
+		"full_text": "지금 바로 유튜브 채널 “유어썸머”에서 만나보세요:)\n➡️ https://t.co/5l2QFEGOQa\n\n📔공연 정보\n- 일시 : 2021년 12월 24일 금요일 오후 8시\n: 2021년 12월 25일 토요일 오후 6시\n- 장소 : 홍대 롤링홀\n- 예매처 : 네이버 예약(https://t.co/89up2uiGJ2)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5l2QFEGOQa",
+					"expanded_url": "https://bit.ly/3ouRADn",
+					"display_url": "bit.ly/3ouRADn",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/89up2uiGJ2",
+					"expanded_url": "http://bit.ly/3l7csP4",
+					"display_url": "bit.ly/3l7csP4",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468150954034102300,
+		"in_reply_to_status_id_str": "1468150954034102273",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 바로 유튜브 채널 “유어썸머”에서 만나보세요:)\n➡️ https://t.co/5l2QFEGOQa\n\n📔공연 정보\n- 일시 : 2021년 12월 24일 금요일 오후 8시\n: 2021년 12월 25일 토요일 오후 6시\n- 장소 : 홍대 롤링홀\n- 예매처 : 네이버 예약(https://t.co/89up2uiGJ2)"
+	},
+	{
 		"created_at": "Tue Dec 07 10:09:18 +0000 2021",
 		"id": 1468160683359576000,
 		"id_str": "1468160683359576066",
