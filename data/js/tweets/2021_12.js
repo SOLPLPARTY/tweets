@@ -1,6 +1,1386 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 10:09:18 +0000 2021",
+		"id": 1468160683359576000,
+		"id_str": "1468160683359576066",
+		"full_text": "#민트페이퍼 #MINTPAPER\nbright # LIVE / 이준형 (Lee Jun Hyung) – UTOPIA, 나의사랑 | bright #10\nhttps://t.co/RoMVSVga46",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RoMVSVga46",
+					"expanded_url": "https://youtu.be/hUxr-C6zb2Q",
+					"display_url": "youtu.be/hUxr-C6zb2Q",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\nbright # LIVE / 이준형 (Lee Jun Hyung) – UTOPIA, 나의사랑 | bright #10\nhttps://t.co/RoMVSVga46"
+	},
+	{
+		"created_at": "Tue Dec 07 09:58:15 +0000 2021",
+		"id": 1468150685342761000,
+		"id_str": "1468157900275302401",
+		"full_text": "벨로주 홍대에서는 라이브클럽데이 리허설이 한창입니다!\n오늘 오후 7시 30분 LIVECLUBDAY 유튜브에서도 만날 수 있습니다🤞\n✨벨로주 홍대: 서울시 마포구 서교동 372-6 지하\n✨LIVECLUBDAY 유튜브: https://t.co/jVb3Sjp36f https://t.co/7DdR69rSni",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468150678291812400,
+					"id_str": "1468150678291812354",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_rQ2hVEAIwwIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_rQ2hVEAIwwIk.jpg",
+					"url": "https://t.co/7DdR69rSni",
+					"display_url": "pic.twitter.com/7DdR69rSni",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468150685342760964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468150678291812400,
+					"id_str": "1468150678291812354",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_rQ2hVEAIwwIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_rQ2hVEAIwwIk.jpg",
+					"url": "https://t.co/7DdR69rSni",
+					"display_url": "pic.twitter.com/7DdR69rSni",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468150685342760964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468150678316994600,
+					"id_str": "1468150678316994560",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_rQ2nVUAA7jQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_rQ2nVUAA7jQy.jpg",
+					"url": "https://t.co/7DdR69rSni",
+					"display_url": "pic.twitter.com/7DdR69rSni",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468150685342760964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468150678405075000,
+					"id_str": "1468150678405074944",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_rQ28VUAA04Wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_rQ28VUAA04Wc.jpg",
+					"url": "https://t.co/7DdR69rSni",
+					"display_url": "pic.twitter.com/7DdR69rSni",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468150685342760964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벨로주 홍대에서는 라이브클럽데이 리허설이 한창입니다!\n오늘 오후 7시 30분 LIVECLUBDAY 유튜브에서도 만날 수 있습니다🤞\n✨벨로주 홍대: 서울시 마포구 서교동 372-6 지하\n✨LIVECLUBDAY 유튜브: https://t.co/jVb3Sjp36f https://t.co/7DdR69rSni"
+	},
+	{
+		"created_at": "Tue Dec 07 09:29:49 +0000 2021",
+		"id": 1468143489318023200,
+		"id_str": "1468150748064194561",
+		"full_text": "바다를 보면 오션뷰🌅\n도시를 보면 시티뷰🌃\n세경씨를 보면 알러뷰💛\n어나더레코드를 보고 나서는\n사진 인터뷰📸도 봐야죠!\n\n🎞 https://t.co/xkWEaY8NDY\n\n#신세경 #ShinSaeKyeong\n#어나더레코드 https://t.co/llRBWaHuq8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"text": "어나더레코드",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xkWEaY8NDY",
+					"expanded_url": "https://youtu.be/0rs_pbiR4Us",
+					"display_url": "youtu.be/0rs_pbiR4Us",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468143397437206500,
+					"id_str": "1468143397437206528",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"url": "https://t.co/llRBWaHuq8",
+					"display_url": "pic.twitter.com/llRBWaHuq8",
+					"expanded_url": "https://twitter.com/edam_ent/status/1468143489318023171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468143397437206500,
+					"id_str": "1468143397437206528",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_kpDOUcAAMuWZ.jpg",
+					"url": "https://t.co/llRBWaHuq8",
+					"display_url": "pic.twitter.com/llRBWaHuq8",
+					"expanded_url": "https://twitter.com/edam_ent/status/1468143489318023171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58190,
+			"friends_count": 2,
+			"listed_count": 216,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 647,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바다를 보면 오션뷰🌅\n도시를 보면 시티뷰🌃\n세경씨를 보면 알러뷰💛\n어나더레코드를 보고 나서는\n사진 인터뷰📸도 봐야죠!\n\n🎞 https://t.co/xkWEaY8NDY\n\n#신세경 #ShinSaeKyeong\n#어나더레코드 https://t.co/llRBWaHuq8"
+	},
+	{
+		"created_at": "Tue Dec 07 09:29:44 +0000 2021",
+		"id": 1468143351337685000,
+		"id_str": "1468150726606131202",
+		"full_text": "#김사월 #연말공연 #엉엉콘 #단독공연 #연말콘서트 #콘서트 #밖은너무추워나는 #노들섬라이브하우스 #노들섬 #겨울공연 #티켓예매 #티켓 #예스24티켓 #특별손님 #게스트 #마지막게스트는 #누구일까요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "엉엉콘",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "연말콘서트",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "밖은너무추워나는",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"text": "노들섬라이브하우스",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "노들섬",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "겨울공연",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "티켓예매",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "예스24티켓",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "특별손님",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "게스트",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "마지막게스트는",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "누구일까요",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468143349471539200,
+		"in_reply_to_status_id_str": "1468143349471539203",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#김사월 #연말공연 #엉엉콘 #단독공연 #연말콘서트 #콘서트 #밖은너무추워나는 #노들섬라이브하우스 #노들섬 #겨울공연 #티켓예매 #티켓 #예스24티켓 #특별손님 #게스트 #마지막게스트는 #누구일까요"
+	},
+	{
+		"created_at": "Tue Dec 07 09:29:38 +0000 2021",
+		"id": 1468143349471539200,
+		"id_str": "1468150701016723458",
+		"full_text": "-\n2021 김사월 연말 단독 공연 &lt;밖은 너무 추워 나는&gt;\n\n📍일시\n2021년 12월 17일 금요일 8PM  \n2021년 12월 18일 토요일 6PM  \n2021년 12월 19일 일요일 6PM \n\n📍장소\n노들섬 라이브하우스\n\n📍예매처\nYES24 티켓 (https://t.co/yFZSn5mduD)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yFZSn5mduD",
+					"expanded_url": "https://bit.ly/3HKyLna",
+					"display_url": "bit.ly/3HKyLna",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468143345226891300,
+		"in_reply_to_status_id_str": "1468143345226891264",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "-\n2021 김사월 연말 단독 공연 &lt;밖은 너무 추워 나는&gt;\n\n📍일시\n2021년 12월 17일 금요일 8PM  \n2021년 12월 18일 토요일 6PM  \n2021년 12월 19일 일요일 6PM \n\n📍장소\n노들섬 라이브하우스\n\n📍예매처\nYES24 티켓 (https://t.co/yFZSn5mduD)"
+	},
+	{
+		"created_at": "Tue Dec 07 09:29:34 +0000 2021",
+		"id": 1468143345226891300,
+		"id_str": "1468150683744538630",
+		"full_text": "[#김사월] 2021 연말 단독 공연 &lt;밖은 너무 추워 나는&gt; 특별 게스트 소개❣️\n\n12월 18일 토요일 공연의 특별 손님으로 '오소영'님이 함께하실 예정이에요!👋\n\n📍2021년 12월 18일 토요일 6PM\nGuest : #오소영 @ osoyoung0 https://t.co/PklQpjko89",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "오소영",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468135116933591000,
+					"id_str": "1468135116933591048",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_dHD8acAgMMfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_dHD8acAgMMfs.jpg",
+					"url": "https://t.co/PklQpjko89",
+					"display_url": "pic.twitter.com/PklQpjko89",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1468143345226891264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468135116933591000,
+					"id_str": "1468135116933591048",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FF_dHD8acAgMMfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF_dHD8acAgMMfs.jpg",
+					"url": "https://t.co/PklQpjko89",
+					"display_url": "pic.twitter.com/PklQpjko89",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1468143345226891264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2166,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월] 2021 연말 단독 공연 &lt;밖은 너무 추워 나는&gt; 특별 게스트 소개❣️\n\n12월 18일 토요일 공연의 특별 손님으로 '오소영'님이 함께하실 예정이에요!👋\n\n📍2021년 12월 18일 토요일 6PM\nGuest : #오소영 @ osoyoung0 https://t.co/PklQpjko89"
+	},
+	{
+		"created_at": "Tue Dec 07 09:29:31 +0000 2021",
+		"id": 1468143244030709800,
+		"id_str": "1468150670708682760",
+		"full_text": "존박, 전미도 ‘밤새 서로 미루다’ \nM/V Teaser #1\n🔗https://t.co/cpKJhtS9YA\n\n🌙 2021. 12. 09 6PM (KST) Release\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#20211209_6PM https://t.co/KiZsD0T3F3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "JeonMido",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "Stay",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "20211209_6PM",
+					"indices": [
+						139,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cpKJhtS9YA",
+					"expanded_url": "https://youtu.be/3HguQoF5lEI",
+					"display_url": "youtu.be/3HguQoF5lEI",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468130389713571800,
+					"id_str": "1468130389713571840",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468130389713571840/pu/img/e2gtX1N1Jmz0YuYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468130389713571840/pu/img/e2gtX1N1Jmz0YuYt.jpg",
+					"url": "https://t.co/KiZsD0T3F3",
+					"display_url": "pic.twitter.com/KiZsD0T3F3",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1468143244030709769/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468130389713571800,
+					"id_str": "1468130389713571840",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468130389713571840/pu/img/e2gtX1N1Jmz0YuYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468130389713571840/pu/img/e2gtX1N1Jmz0YuYt.jpg",
+					"url": "https://t.co/KiZsD0T3F3",
+					"display_url": "pic.twitter.com/KiZsD0T3F3",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1468143244030709769/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29988,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468130389713571840/pu/pl/YwEFofTRwwV7VI4R.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468130389713571840/pu/vid/1280x720/IngZ5FwpTKeZSqva.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468130389713571840/pu/vid/640x360/br5uGWt5za9QX41D.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468130389713571840/pu/vid/480x270/7fyke4W6BPSEZLCJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9072,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "존박, 전미도 ‘밤새 서로 미루다’ \nM/V Teaser #1\n🔗https://t.co/cpKJhtS9YA\n\n🌙 2021. 12. 09 6PM (KST) Release\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#20211209_6PM https://t.co/KiZsD0T3F3"
+	},
+	{
 		"created_at": "Tue Dec 07 09:11:25 +0000 2021",
 		"id": 1468141266110414800,
 		"id_str": "1468146114633379844",
