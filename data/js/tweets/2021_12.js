@@ -1,6 +1,831 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 03:11:41 +0000 2021",
+		"id": 1468417975464120300,
+		"id_str": "1468417975464120328",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n새벽 (Saebyuk) - 바다 Sea [Music Video]\nhttps://t.co/ngPyC3fhj7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ngPyC3fhj7",
+					"expanded_url": "https://youtu.be/7OR_D53qmWc",
+					"display_url": "youtu.be/7OR_D53qmWc",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n새벽 (Saebyuk) - 바다 Sea [Music Video]\nhttps://t.co/ngPyC3fhj7"
+	},
+	{
+		"created_at": "Wed Dec 08 02:29:46 +0000 2021",
+		"id": 1468401079172092000,
+		"id_str": "1468407424948350981",
+		"full_text": "[VIDEO] [#인순이] #헬로트로트\n\n언제까지 이렇게 할 거야! 인순이 감독님의 불호령! 또 꼴찌하고 싶어? 정신차려! \n\n👉 https://t.co/Rjv7RBqZho\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "헬로트로트",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rjv7RBqZho",
+					"expanded_url": "https://tv.naver.com/v/23961899?t=1",
+					"display_url": "tv.naver.com/v/23961899?t=1",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #헬로트로트\n\n언제까지 이렇게 할 거야! 인순이 감독님의 불호령! 또 꼴찌하고 싶어? 정신차려! \n\n👉 https://t.co/Rjv7RBqZho\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN"
+	},
+	{
+		"created_at": "Wed Dec 08 02:29:40 +0000 2021",
+		"id": 1468401033261256700,
+		"id_str": "1468407399287595013",
+		"full_text": "[VIDEO] [#인순이] #헬로트로트\n\n이게 바로 나다! 무대로 보여주마! 단합을 위해 떠난 인순이팀의 무대 준비 실황! \n\n👉 https://t.co/uBiy3paDW7\n\n우리가 꼴등한 건 리더가 없었기 때문이야! 본선보다 치열한 리더 선발전! \n\n👉 https://t.co/83P5Jaei4R\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "헬로트로트",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						199,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uBiy3paDW7",
+					"expanded_url": "https://tv.naver.com/v/23961843?t=46",
+					"display_url": "tv.naver.com/v/23961843?t=46",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/83P5Jaei4R",
+					"expanded_url": "https://tv.naver.com/v/23961973?t=1",
+					"display_url": "tv.naver.com/v/23961973?t=1",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #헬로트로트\n\n이게 바로 나다! 무대로 보여주마! 단합을 위해 떠난 인순이팀의 무대 준비 실황! \n\n👉 https://t.co/uBiy3paDW7\n\n우리가 꼴등한 건 리더가 없었기 때문이야! 본선보다 치열한 리더 선발전! \n\n👉 https://t.co/83P5Jaei4R\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN"
+	},
+	{
+		"created_at": "Wed Dec 08 02:29:34 +0000 2021",
+		"id": 1468398574828650500,
+		"id_str": "1468407373677174786",
+		"full_text": "[NEWS] 메타버스 예능 ‘부캐전성시대’ 론칭…송해· #인순이 ·신정환·유세윤 참여\n\n👉 https://t.co/FT0OuIqmL6 \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #부캐전성시대 #TV조선",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "부캐전성시대",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FT0OuIqmL6",
+					"expanded_url": "http://naver.me/5B6fiS2X",
+					"display_url": "naver.me/5B6fiS2X",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] 메타버스 예능 ‘부캐전성시대’ 론칭…송해· #인순이 ·신정환·유세윤 참여\n\n👉 https://t.co/FT0OuIqmL6 \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #부캐전성시대 #TV조선"
+	},
+	{
+		"created_at": "Wed Dec 08 02:29:32 +0000 2021",
+		"id": 1468397347092988000,
+		"id_str": "1468407364827201540",
+		"full_text": "The remastered MV of YOO YOUNG JIN’s ‘…지애’ to be released on 12/9 10AM KST through the SM 'Remastering Project'!\nMeet Legendary MV with high definition &amp; high quality sound!\n\n#유영진 #YOOYOUNGJIN\n#지애 \n#SM_Remastering_Project #RemasterMV #리마스터링프로젝트\n #SMSTATION https://t.co/QPh6pGLch2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유영진",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "YOOYOUNGJIN",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"text": "지애",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						250,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468397342227193900,
+					"id_str": "1468397342227193859",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDLmlSUYAMP4m7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDLmlSUYAMP4m7.jpg",
+					"url": "https://t.co/QPh6pGLch2",
+					"display_url": "pic.twitter.com/QPh6pGLch2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468397347092987904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468397342227193900,
+					"id_str": "1468397342227193859",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDLmlSUYAMP4m7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDLmlSUYAMP4m7.jpg",
+					"url": "https://t.co/QPh6pGLch2",
+					"display_url": "pic.twitter.com/QPh6pGLch2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468397347092987904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10274105,
+			"friends_count": 55,
+			"listed_count": 11212,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 269,
+		"favorite_count": 2189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The remastered MV of YOO YOUNG JIN’s ‘…지애’ to be released on 12/9 10AM KST through the SM 'Remastering Project'!\nMeet Legendary MV with high definition &amp; high quality sound!\n\n#유영진 #YOOYOUNGJIN\n#지애 \n#SM_Remastering_Project #RemasterMV #리마스터링프로젝트\n #SMSTATION https://t.co/QPh6pGLch2"
+	},
+	{
 		"created_at": "Wed Dec 08 01:29:25 +0000 2021",
 		"id": 1468390863000981500,
 		"id_str": "1468392235561533444",
