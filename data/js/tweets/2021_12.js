@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 12:11:17 +0000 2021",
+		"id": 1468550842039300000,
+		"id_str": "1468553766957989888",
+		"full_text": "[재미공작소 팝업숍] 2021년 12월 팝업숍은 호즈미와 함께합니다. 2021.12.18(토)~19(일) PM 1:00~7:00 https://t.co/wsQ2727dib https://t.co/LdDzKVo8F9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wsQ2727dib",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222581650859",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468550828952752000,
+					"id_str": "1468550828952752128",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGFXMr5VkAAFbs8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGFXMr5VkAAFbs8.jpg",
+					"url": "https://t.co/LdDzKVo8F9",
+					"display_url": "pic.twitter.com/LdDzKVo8F9",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1468550842039300096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468550828952752000,
+					"id_str": "1468550828952752128",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGFXMr5VkAAFbs8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGFXMr5VkAAFbs8.jpg",
+					"url": "https://t.co/LdDzKVo8F9",
+					"display_url": "pic.twitter.com/LdDzKVo8F9",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1468550842039300096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FGFXMr5VkAAFbs8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8374,
+			"friends_count": 554,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[재미공작소 팝업숍] 2021년 12월 팝업숍은 호즈미와 함께합니다. 2021.12.18(토)~19(일) PM 1:00~7:00 https://t.co/wsQ2727dib https://t.co/LdDzKVo8F9"
+	},
+	{
+		"created_at": "Wed Dec 08 11:29:34 +0000 2021",
+		"id": 1468536067221504000,
+		"id_str": "1468543268568895495",
+		"full_text": "[#Teaser] #정승환\n\n정승환 Single '별 (Dear)'\nJung Seung Hwan Single 'Dear'\n\n💫 Photolog\n⠀\n2021. 12. 16. 6pm Release\n⠀\n#정승환 #별\n#JungSeungHwan #Dear \n#20211216_6PM https://t.co/GBRxlvmJVz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "별",
+					"indices": [
+						115,
+						117
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "Dear",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "20211216_6PM",
+					"indices": [
+						140,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468536047273320400,
+					"id_str": "1468536047273320453",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGFJwR2VIAUJUQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGFJwR2VIAUJUQ-.jpg",
+					"url": "https://t.co/GBRxlvmJVz",
+					"display_url": "pic.twitter.com/GBRxlvmJVz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468536067221504003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468536047273320400,
+					"id_str": "1468536047273320453",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGFJwR2VIAUJUQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGFJwR2VIAUJUQ-.jpg",
+					"url": "https://t.co/GBRxlvmJVz",
+					"display_url": "pic.twitter.com/GBRxlvmJVz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468536067221504003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468536047273316400,
+					"id_str": "1468536047273316352",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGFJwR2VEAAczIS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGFJwR2VEAAczIS.jpg",
+					"url": "https://t.co/GBRxlvmJVz",
+					"display_url": "pic.twitter.com/GBRxlvmJVz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468536067221504003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468536047634055200,
+					"id_str": "1468536047634055169",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGFJwTMVgAEsm4s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGFJwTMVgAEsm4s.jpg",
+					"url": "https://t.co/GBRxlvmJVz",
+					"display_url": "pic.twitter.com/GBRxlvmJVz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468536067221504003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468536047629844500,
+					"id_str": "1468536047629844484",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGFJwTLVQAQXUdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGFJwTLVQAQXUdj.jpg",
+					"url": "https://t.co/GBRxlvmJVz",
+					"display_url": "pic.twitter.com/GBRxlvmJVz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468536067221504003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 2021 안테나 크리스마스 캐럴 '다음 겨울에도 여기서 만나' 2021. 12. 01. 6PM Release🎄",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39679,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #정승환\n\n정승환 Single '별 (Dear)'\nJung Seung Hwan Single 'Dear'\n\n💫 Photolog\n⠀\n2021. 12. 16. 6pm Release\n⠀\n#정승환 #별\n#JungSeungHwan #Dear \n#20211216_6PM https://t.co/GBRxlvmJVz"
+	},
+	{
 		"created_at": "Wed Dec 08 11:11:18 +0000 2021",
 		"id": 1468527288660725800,
 		"id_str": "1468538671754272776",
