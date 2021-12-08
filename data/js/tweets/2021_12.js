@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 09:29:33 +0000 2021",
+		"id": 1468508146020794400,
+		"id_str": "1468513069022298116",
+		"full_text": "⠀\n우효(OOHYO)가 생각하는 클래식한 한국 사랑 노래, ‘당신은 어디에’가 발매되었습니다.🎶👏🏻\n\n모든 음원사이트에서 즐겨주세요!😎🎶\n⠀\n🔹Artist: 우효(OOHYO)\n🔹TITLE: 당신은 어디에\n⠀⠀\n#우효 #OOHYO #당신은어디에 #미러볼뮤직 #믿듣미 #인디음악 https://t.co/ZRfZ1nLgya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우효",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "OOHYO",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "당신은어디에",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "믿듣미",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468507855816777700,
+					"id_str": "1468507855816777728",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468507855816777728/pu/img/bLi3NN_HEMQ4mV7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468507855816777728/pu/img/bLi3NN_HEMQ4mV7k.jpg",
+					"url": "https://t.co/ZRfZ1nLgya",
+					"display_url": "pic.twitter.com/ZRfZ1nLgya",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1468508146020794368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468507855816777700,
+					"id_str": "1468507855816777728",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468507855816777728/pu/img/bLi3NN_HEMQ4mV7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468507855816777728/pu/img/bLi3NN_HEMQ4mV7k.jpg",
+					"url": "https://t.co/ZRfZ1nLgya",
+					"display_url": "pic.twitter.com/ZRfZ1nLgya",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1468508146020794368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32789,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507855816777728/pu/vid/320x320/wzB88nRW9RILQWDC.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507855816777728/pu/vid/720x720/pdYFkxeuyQrVoa4g.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468507855816777728/pu/vid/540x540/pVgu_hfSGqbPvzbg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468507855816777728/pu/pl/B6aOAXMae9ga2Nuq.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/ejIyUUOQGW…",
+			"url": "https://t.co/TNuoTACP2P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNuoTACP2P",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ejIyUUOQGW",
+							"expanded_url": "http://youtube.com/mirrorballmusi",
+							"display_url": "youtube.com/mirrorballmusi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9472,
+			"friends_count": 2611,
+			"listed_count": 243,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1638930329",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\n우효(OOHYO)가 생각하는 클래식한 한국 사랑 노래, ‘당신은 어디에’가 발매되었습니다.🎶👏🏻\n\n모든 음원사이트에서 즐겨주세요!😎🎶\n⠀\n🔹Artist: 우효(OOHYO)\n🔹TITLE: 당신은 어디에\n⠀⠀\n#우효 #OOHYO #당신은어디에 #미러볼뮤직 #믿듣미 #인디음악 https://t.co/ZRfZ1nLgya"
+	},
+	{
 		"created_at": "Wed Dec 08 09:11:49 +0000 2021",
 		"id": 1468508603158077400,
 		"id_str": "1468508603158077444",
