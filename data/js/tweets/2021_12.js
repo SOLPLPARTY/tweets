@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 13:58:14 +0000 2021",
+		"id": 1468579164148371500,
+		"id_str": "1468580685057490953",
+		"full_text": "슬픔의케이팝파티 연말결산특집!\n&lt;2021 SAD K-POP AWRDS&gt;\n\n슬케파 시청자 마음대로 결산하는 2021년! 12월 18일 시상식을 준비합니다. 케이팝 고인물 리스너들의 선택! 아래의 링크에서 심사에 참여해주세요! 추첨을 통해 다양한 선물도 준비되어 있습니다\n\nhttps://t.co/rSowNdXKSY https://t.co/PyLFYvcGVe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rSowNdXKSY",
+					"expanded_url": "https://forms.gle/pzbPbWUTou5uHTEDA",
+					"display_url": "forms.gle/pzbPbWUTou5uHT…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468578992424816600,
+					"id_str": "1468578992424816643",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGFw0BAVEAM1fkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGFw0BAVEAM1fkB.jpg",
+					"url": "https://t.co/PyLFYvcGVe",
+					"display_url": "pic.twitter.com/PyLFYvcGVe",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1468579164148371457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468578992424816600,
+					"id_str": "1468578992424816643",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGFw0BAVEAM1fkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGFw0BAVEAM1fkB.jpg",
+					"url": "https://t.co/PyLFYvcGVe",
+					"display_url": "pic.twitter.com/PyLFYvcGVe",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1468579164148371457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7729,
+			"friends_count": 40,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 연말결산특집!\n&lt;2021 SAD K-POP AWRDS&gt;\n\n슬케파 시청자 마음대로 결산하는 2021년! 12월 18일 시상식을 준비합니다. 케이팝 고인물 리스너들의 선택! 아래의 링크에서 심사에 참여해주세요! 추첨을 통해 다양한 선물도 준비되어 있습니다\n\nhttps://t.co/rSowNdXKSY https://t.co/PyLFYvcGVe"
+	},
+	{
 		"created_at": "Wed Dec 08 13:11:17 +0000 2021",
 		"id": 1468566720168317000,
 		"id_str": "1468568867039494147",
