@@ -1,6 +1,1206 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 04:11:16 +0000 2021",
+		"id": 1468426012400971800,
+		"id_str": "1468432969392181248",
+		"full_text": "[대치] 상상펀드 10주년 아카이브 전시\n\nKT&amp;G 상상펀드 10주년을 기념하여 KT&amp;G 구성원들이 10년동안 조성해온 &lt;상상펀드 10주년 아카이브 전시&gt;를 진행합니다.\n\n상상펀드 10년의 아카이브 사진, 10주년을 맞이한 2021년의 나눔 사업을 영상을 확인해보세요!\n\n장소: KT&amp;G 대치 갤러리\n기간: 12.6-12.28 https://t.co/E234cLnF8W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468425988661203000,
+					"id_str": "1468425988661202948",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDlqBkaUAQHb4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDlqBkaUAQHb4e.jpg",
+					"url": "https://t.co/E234cLnF8W",
+					"display_url": "pic.twitter.com/E234cLnF8W",
+					"expanded_url": "https://twitter.com/SSmadang/status/1468426012400971776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468425988661203000,
+					"id_str": "1468425988661202948",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDlqBkaUAQHb4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDlqBkaUAQHb4e.jpg",
+					"url": "https://t.co/E234cLnF8W",
+					"display_url": "pic.twitter.com/E234cLnF8W",
+					"expanded_url": "https://twitter.com/SSmadang/status/1468426012400971776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17737,
+			"friends_count": 1871,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[대치] 상상펀드 10주년 아카이브 전시\n\nKT&amp;G 상상펀드 10주년을 기념하여 KT&amp;G 구성원들이 10년동안 조성해온 &lt;상상펀드 10주년 아카이브 전시&gt;를 진행합니다.\n\n상상펀드 10년의 아카이브 사진, 10주년을 맞이한 2021년의 나눔 사업을 영상을 확인해보세요!\n\n장소: KT&amp;G 대치 갤러리\n기간: 12.6-12.28 https://t.co/E234cLnF8W"
+	},
+	{
+		"created_at": "Wed Dec 08 03:29:57 +0000 2021",
+		"id": 1468421002673721300,
+		"id_str": "1468422570731098115",
+		"full_text": "Melon ▶ https://t.co/vo3E2byi1V\nGenie ▶ https://t.co/aiqIe2xIfQ\nBugs ▶ https://t.co/Rs2sYBtucJ\nFLO ▶ https://t.co/VzsT18P7Y2\nVIBE ▶ https://t.co/h3tjou5iB5\nApple Music ▶ https://t.co/wGTymWdkLD\nYT Music ▶ https://t.co/ZxIOHP4Nf0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vo3E2byi1V",
+					"expanded_url": "https://bit.ly/3pyTr9C",
+					"display_url": "bit.ly/3pyTr9C",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/aiqIe2xIfQ",
+					"expanded_url": "https://bit.ly/3Ez7tOH",
+					"display_url": "bit.ly/3Ez7tOH",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/Rs2sYBtucJ",
+					"expanded_url": "https://bit.ly/3lJoGxv",
+					"display_url": "bit.ly/3lJoGxv",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/VzsT18P7Y2",
+					"expanded_url": "https://bit.ly/3owGOfF",
+					"display_url": "bit.ly/3owGOfF",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/h3tjou5iB5",
+					"expanded_url": "https://bit.ly/3oyicTR",
+					"display_url": "bit.ly/3oyicTR",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/wGTymWdkLD",
+					"expanded_url": "https://apple.co/3GfOr0e",
+					"display_url": "apple.co/3GfOr0e",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/ZxIOHP4Nf0",
+					"expanded_url": "https://bit.ly/3Gui7Hb",
+					"display_url": "bit.ly/3Gui7Hb",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1468418117433172000,
+		"in_reply_to_status_id_str": "1468418117433171969",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3525,
+			"friends_count": 1194,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon ▶ https://t.co/vo3E2byi1V\nGenie ▶ https://t.co/aiqIe2xIfQ\nBugs ▶ https://t.co/Rs2sYBtucJ\nFLO ▶ https://t.co/VzsT18P7Y2\nVIBE ▶ https://t.co/h3tjou5iB5\nApple Music ▶ https://t.co/wGTymWdkLD\nYT Music ▶ https://t.co/ZxIOHP4Nf0"
+	},
+	{
+		"created_at": "Wed Dec 08 03:29:53 +0000 2021",
+		"id": 1468418117433172000,
+		"id_str": "1468422553400221701",
+		"full_text": "[NEW RELEASE]\n🎄 김새녘, 박찬주 &lt;Andy's Carol&gt; 🎄\n\n“흰 눈 속으로 깊이 스며드는 마음이 덮어질 때까지 손을 놓지 말아 줘요”\n\nhttps://t.co/bSdH0Px28S https://t.co/KrjgXXcR03",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bSdH0Px28S",
+					"expanded_url": "https://youtu.be/QbL5dj46dJI",
+					"display_url": "youtu.be/QbL5dj46dJI",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468418063812874200,
+					"id_str": "1468418063812874241",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468418063812874241/pu/img/rNCTQNi-l4HtDHrV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468418063812874241/pu/img/rNCTQNi-l4HtDHrV.jpg",
+					"url": "https://t.co/KrjgXXcR03",
+					"display_url": "pic.twitter.com/KrjgXXcR03",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1468418117433171969/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468418063812874200,
+					"id_str": "1468418063812874241",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468418063812874241/pu/img/rNCTQNi-l4HtDHrV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468418063812874241/pu/img/rNCTQNi-l4HtDHrV.jpg",
+					"url": "https://t.co/KrjgXXcR03",
+					"display_url": "pic.twitter.com/KrjgXXcR03",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1468418117433171969/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 47466,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468418063812874241/pu/vid/720x720/bLzPGZjY3JiPfnEL.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468418063812874241/pu/vid/320x320/wdqCortWy4Var56M.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468418063812874241/pu/pl/ZP-Q_HF8PtfuOljD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468418063812874241/pu/vid/540x540/WgjQHMn-g3Bbm4tx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3525,
+			"friends_count": 1194,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEW RELEASE]\n🎄 김새녘, 박찬주 &lt;Andy's Carol&gt; 🎄\n\n“흰 눈 속으로 깊이 스며드는 마음이 덮어질 때까지 손을 놓지 말아 줘요”\n\nhttps://t.co/bSdH0Px28S https://t.co/KrjgXXcR03"
+	},
+	{
+		"created_at": "Wed Dec 08 03:29:48 +0000 2021",
+		"id": 1468415041032519700,
+		"id_str": "1468422531833114631",
+		"full_text": "혁오 HYUKOH &lt;사랑으로through love&gt; Remix\n-\n200917 장기하 (Chang Kiha)\n200924 이디오테잎 (IDIOTAPE)\n201008 Sunset Rollercoaster 落日飛車\n211208 Nosaj Thing\n\n#혁오 #hyukoh #赫吳 #throughlove #사랑으로 https://t.co/C8yL4RO1mg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혁오",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "hyukoh",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "赫吳",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "throughlove",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "사랑으로",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468408011102163000,
+					"id_str": "1468408011102162946",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDVTl8VEAIic48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDVTl8VEAIic48.jpg",
+					"url": "https://t.co/C8yL4RO1mg",
+					"display_url": "pic.twitter.com/C8yL4RO1mg",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1468415041032519691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468408011102163000,
+					"id_str": "1468408011102162946",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDVTl8VEAIic48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDVTl8VEAIic48.jpg",
+					"url": "https://t.co/C8yL4RO1mg",
+					"display_url": "pic.twitter.com/C8yL4RO1mg",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1468415041032519691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468408025480241200,
+					"id_str": "1468408025480241154",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDVUbgVIAI_G1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDVUbgVIAI_G1R.jpg",
+					"url": "https://t.co/C8yL4RO1mg",
+					"display_url": "pic.twitter.com/C8yL4RO1mg",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1468415041032519691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3971,
+			"friends_count": 9,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혁오 HYUKOH &lt;사랑으로through love&gt; Remix\n-\n200917 장기하 (Chang Kiha)\n200924 이디오테잎 (IDIOTAPE)\n201008 Sunset Rollercoaster 落日飛車\n211208 Nosaj Thing\n\n#혁오 #hyukoh #赫吳 #throughlove #사랑으로 https://t.co/C8yL4RO1mg"
+	},
+	{
+		"created_at": "Wed Dec 08 03:29:41 +0000 2021",
+		"id": 1468415036922245000,
+		"id_str": "1468422501977972740",
+		"full_text": "𝗛𝗕𝗗\n12월 8일은 소란 고영배의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #소란 #고영배 https://t.co/YgCQK4lYvN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						49,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1464062010967326700,
+					"id_str": "1464062010967326720",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FFFkpFzaAAA9VSr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFFkpFzaAAA9VSr.jpg",
+					"url": "https://t.co/YgCQK4lYvN",
+					"display_url": "pic.twitter.com/YgCQK4lYvN",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1468415036922245120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1464062010967326700,
+					"id_str": "1464062010967326720",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FFFkpFzaAAA9VSr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFFkpFzaAAA9VSr.jpg",
+					"url": "https://t.co/YgCQK4lYvN",
+					"display_url": "pic.twitter.com/YgCQK4lYvN",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1468415036922245120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12982,
+			"friends_count": 1932,
+			"listed_count": 252,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗛𝗕𝗗\n12월 8일은 소란 고영배의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #소란 #고영배 https://t.co/YgCQK4lYvN"
+	},
+	{
+		"created_at": "Wed Dec 08 03:29:32 +0000 2021",
+		"id": 1468412534843916300,
+		"id_str": "1468422467899252737",
+		"full_text": "[Playlist]\n\n(005) WINTER DREAMER\n\n추운 겨울 따듯한 방으로 돌아와 손을 녹이며 듣는 음악들을 준비했습니다.\n\nhttps://t.co/XqborbVXYY https://t.co/zNcXcyX95l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqborbVXYY",
+					"expanded_url": "http://www.highjinkxmm.com/playlist/hp-005",
+					"display_url": "highjinkxmm.com/playlist/hp-005",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468412497132544000,
+					"id_str": "1468412497132544009",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDZYttUYAkMNNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDZYttUYAkMNNR.jpg",
+					"url": "https://t.co/zNcXcyX95l",
+					"display_url": "pic.twitter.com/zNcXcyX95l",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1468412534843916295/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468412497132544000,
+					"id_str": "1468412497132544009",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDZYttUYAkMNNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDZYttUYAkMNNR.jpg",
+					"url": "https://t.co/zNcXcyX95l",
+					"display_url": "pic.twitter.com/zNcXcyX95l",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1468412534843916295/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 492,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\n(005) WINTER DREAMER\n\n추운 겨울 따듯한 방으로 돌아와 손을 녹이며 듣는 음악들을 준비했습니다.\n\nhttps://t.co/XqborbVXYY https://t.co/zNcXcyX95l"
+	},
+	{
 		"created_at": "Wed Dec 08 03:11:41 +0000 2021",
 		"id": 1468417975464120300,
 		"id_str": "1468417975464120328",
