@@ -1,6 +1,1027 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 10:58:23 +0000 2021",
+		"id": 1468890133818937300,
+		"id_str": "1468897809063686145",
+		"full_text": "[🕘 time table]\n⠀\n2021.12.11 NAVER NOW LIVE STREAM\n⠀\n🔉 21:00-21:30 alex bunny @ynnubxela\n🔉 21:30-22:00 m3iji\n🔉 22:00-22:30 GCM\n\n🪓 Episode 30 &lt;전설의 조직 슬케파(派)&gt;\n🐉 토요일 저녁 9시 네이버 NOW에서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ynnubxela",
+					"name": "alexx bunnyyy",
+					"id": 2881024500,
+					"id_str": "2881024500",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468886239705469000,
+		"in_reply_to_status_id_str": "1468886239705468928",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 40,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🕘 time table]\n⠀\n2021.12.11 NAVER NOW LIVE STREAM\n⠀\n🔉 21:00-21:30 alex bunny @ynnubxela\n🔉 21:30-22:00 m3iji\n🔉 22:00-22:30 GCM\n\n🪓 Episode 30 &lt;전설의 조직 슬케파(派)&gt;\n🐉 토요일 저녁 9시 네이버 NOW에서"
+	},
+	{
+		"created_at": "Thu Dec 09 10:58:15 +0000 2021",
+		"id": 1468886239705469000,
+		"id_str": "1468897775005978625",
+		"full_text": "Episode 30 슬픔의케이팝파티\n느와르 특집 &lt;전설의 조직 슬케파(派)&gt;\n\n두목을 대신해 감옥에 간 의리파 2인자, 조직원에게 존경받는 보스, 비운의 위장경찰까지!! \n\n세 명의 여성 DJ가 만드는 의리와 낭만의 \n패싸움 디제잉이 보고 싶으시다면! \n토요일 저녁 9시 네이버 NOW\n\nhttps://t.co/34S2C5GwNK https://t.co/icBLyR3GBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5GwNK",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468886222265225200,
+					"id_str": "1468886222265225218",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKIPJWVkAIR64R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKIPJWVkAIR64R.jpg",
+					"url": "https://t.co/icBLyR3GBC",
+					"display_url": "pic.twitter.com/icBLyR3GBC",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1468886239705468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468886222265225200,
+					"id_str": "1468886222265225218",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKIPJWVkAIR64R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKIPJWVkAIR64R.jpg",
+					"url": "https://t.co/icBLyR3GBC",
+					"display_url": "pic.twitter.com/icBLyR3GBC",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1468886239705468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 40,
+			"listed_count": 22,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Episode 30 슬픔의케이팝파티\n느와르 특집 &lt;전설의 조직 슬케파(派)&gt;\n\n두목을 대신해 감옥에 간 의리파 2인자, 조직원에게 존경받는 보스, 비운의 위장경찰까지!! \n\n세 명의 여성 DJ가 만드는 의리와 낭만의 \n패싸움 디제잉이 보고 싶으시다면! \n토요일 저녁 9시 네이버 NOW\n\nhttps://t.co/34S2C5GwNK https://t.co/icBLyR3GBC"
+	},
+	{
+		"created_at": "Thu Dec 09 10:29:44 +0000 2021",
+		"id": 1468890239121117200,
+		"id_str": "1468890599378063363",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n화보너낌 아니까~ #shorts #벤자민쇼츠\n\n👉 https://t.co/p7Veb4IYeu\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "벤자민쇼츠",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "소상공인",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p7Veb4IYeu",
+					"expanded_url": "https://youtu.be/trGVmGghUfI",
+					"display_url": "youtu.be/trGVmGghUfI",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n화보너낌 아니까~ #shorts #벤자민쇼츠\n\n👉 https://t.co/p7Veb4IYeu\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인"
+	},
+	{
+		"created_at": "Thu Dec 09 10:29:36 +0000 2021",
+		"id": 1468883629820760000,
+		"id_str": "1468890565337038852",
+		"full_text": "[#존박]\n‘Falling’부터 ‘밤새 서로 미루다’까지!\n한겨울 속 존박의 명곡 메들리 &lt;더 부스&gt; 라이브를\n원더케이 오리지널 유튜브 채널에서 만나보세요 ☃❄\n\n🔗 https://t.co/h10xMbJf5F \n\n#존박 #JohnPark\n#밤새서로미루다 #Stay #Falling #제자리\n#Daydreamer #네생각 #이게아닌데 https://t.co/NlQ95yl63i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "Stay",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "Falling",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "제자리",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "Daydreamer",
+					"indices": [
+						168,
+						179
+					]
+				},
+				{
+					"text": "네생각",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "이게아닌데",
+					"indices": [
+						185,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h10xMbJf5F",
+					"expanded_url": "https://youtu.be/UAuTc2dgeh4",
+					"display_url": "youtu.be/UAuTc2dgeh4",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468883622945902600,
+					"id_str": "1468883622945902593",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKF32IUUAEp22B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKF32IUUAEp22B.jpg",
+					"url": "https://t.co/NlQ95yl63i",
+					"display_url": "pic.twitter.com/NlQ95yl63i",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1468883629820760067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1356,
+							"h": 1354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468883622945902600,
+					"id_str": "1468883622945902593",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKF32IUUAEp22B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKF32IUUAEp22B.jpg",
+					"url": "https://t.co/NlQ95yl63i",
+					"display_url": "pic.twitter.com/NlQ95yl63i",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1468883629820760067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1356,
+							"h": 1354,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468883627471618000,
+					"id_str": "1468883627471618049",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKF4G_VQAEf8P8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKF4G_VQAEf8P8.jpg",
+					"url": "https://t.co/NlQ95yl63i",
+					"display_url": "pic.twitter.com/NlQ95yl63i",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1468883629820760067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박]\n‘Falling’부터 ‘밤새 서로 미루다’까지!\n한겨울 속 존박의 명곡 메들리 &lt;더 부스&gt; 라이브를\n원더케이 오리지널 유튜브 채널에서 만나보세요 ☃❄\n\n🔗 https://t.co/h10xMbJf5F \n\n#존박 #JohnPark\n#밤새서로미루다 #Stay #Falling #제자리\n#Daydreamer #네생각 #이게아닌데 https://t.co/NlQ95yl63i"
+	},
+	{
+		"created_at": "Thu Dec 09 10:29:27 +0000 2021",
+		"id": 1468880060749074400,
+		"id_str": "1468890531312947203",
+		"full_text": "[#별은] 뮤비 티저 공개🎂\n\nDigital Single \"생일 축하해'\n별은 (with. 정유빈)\n\nRELEASE ON\n2021.12.15. 12PM (KST)\n\n#별은 #BYEOLEUN\n#정유빈 #JEONGYUBIN\n#생일축하해 #Happy_Birthday https://t.co/MDCN84JoRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "별은",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "별은",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "BYEOLEUN",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "정유빈",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "JEONGYUBIN",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "생일축하해",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "Happy_Birthday",
+					"indices": [
+						130,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468879999180574700,
+					"id_str": "1468879999180574721",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468879999180574721/pu/img/7xCc7iEMbQh6pKCY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468879999180574721/pu/img/7xCc7iEMbQh6pKCY.jpg",
+					"url": "https://t.co/MDCN84JoRM",
+					"display_url": "pic.twitter.com/MDCN84JoRM",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1468880060749074433/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 544,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468879999180574700,
+					"id_str": "1468879999180574721",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468879999180574721/pu/img/7xCc7iEMbQh6pKCY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468879999180574721/pu/img/7xCc7iEMbQh6pKCY.jpg",
+					"url": "https://t.co/MDCN84JoRM",
+					"display_url": "pic.twitter.com/MDCN84JoRM",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1468880060749074433/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 544,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							17
+						],
+						"duration_millis": 31698,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468879999180574721/pu/vid/846x360/aDyIUMpQr7ZdPjlV.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468879999180574721/pu/vid/634x270/Ehx84zg1Sa0eAqTi.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468879999180574721/pu/pl/adtBKpNuMwGrL0cP.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468879999180574721/pu/vid/1280x544/YP6KorIAFZeWs864.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1973,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#별은] 뮤비 티저 공개🎂\n\nDigital Single \"생일 축하해'\n별은 (with. 정유빈)\n\nRELEASE ON\n2021.12.15. 12PM (KST)\n\n#별은 #BYEOLEUN\n#정유빈 #JEONGYUBIN\n#생일축하해 #Happy_Birthday https://t.co/MDCN84JoRM"
+	},
+	{
 		"created_at": "Thu Dec 09 10:09:45 +0000 2021",
 		"id": 1468885572194390000,
 		"id_str": "1468885572194390017",
