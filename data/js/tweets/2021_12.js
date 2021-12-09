@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 13:29:24 +0000 2021",
+		"id": 1468928420172099600,
+		"id_str": "1468935816844042242",
+		"full_text": "[#정인] '값' 녹음실 LIVE ver. 공개❗\n\n한 소절만으로 울음 바다 만든 정인의 '값' 녹음실 LIVE 💦\n오늘 밤 '값'에 취해보세요🎵\n\n🔗 Full ver.\nhttps://t.co/HJfuRnK2nH\n\n#JUNGIN #값 #박원 https://t.co/7qA9lEQorW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						128,
+						130
+					]
+				},
+				{
+					"text": "박원",
+					"indices": [
+						131,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HJfuRnK2nH",
+					"expanded_url": "https://youtu.be/hW_rWrii4Ho",
+					"display_url": "youtu.be/hW_rWrii4Ho",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468921753133289500,
+					"id_str": "1468921753133289472",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKpxC1aAAgsdm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKpxC1aAAgsdm9.jpg",
+					"url": "https://t.co/7qA9lEQorW",
+					"display_url": "pic.twitter.com/7qA9lEQorW",
+					"expanded_url": "https://twitter.com/themysticstory/status/1468928420172099586/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468921753133289500,
+					"id_str": "1468921753133289472",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKpxC1aAAgsdm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKpxC1aAAgsdm9.jpg",
+					"url": "https://t.co/7qA9lEQorW",
+					"display_url": "pic.twitter.com/7qA9lEQorW",
+					"expanded_url": "https://twitter.com/themysticstory/status/1468928420172099586/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 99150,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468921753133289472/vid/1280x720/9lACqfkzcF4Cbmfc.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468921753133289472/vid/640x360/gkGJuSH4Wxl2sqT1.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1468921753133289472/vid/480x270/qHp_2l6pkuB-94Eq.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1468921753133289472/pl/nWgKGhLdc2S5D-0X.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#정인] '값' 녹음실 LIVE ver. ",
+						"description": "[#정인] '값' 녹음실 LIVE ver. 공개❗\n\n한 소절만으로 울음 바다 만든 정인의 '값' 녹음실 LIVE 💦\n오늘 밤 '값'에 취해보세요🎵\n\n#JUNGIN #값 #박원",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/hW_rWrii4Ho"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32217,
+			"friends_count": 15,
+			"listed_count": 268,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] '값' 녹음실 LIVE ver. 공개❗\n\n한 소절만으로 울음 바다 만든 정인의 '값' 녹음실 LIVE 💦\n오늘 밤 '값'에 취해보세요🎵\n\n🔗 Full ver.\nhttps://t.co/HJfuRnK2nH\n\n#JUNGIN #값 #박원 https://t.co/7qA9lEQorW"
+	},
+	{
 		"created_at": "Thu Dec 09 13:11:53 +0000 2021",
 		"id": 1468928419043811300,
 		"id_str": "1468931406197932037",
@@ -790,7 +1043,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Thu Dec 09 12:29:31 +0000 2021",
 		"id": 1468916987028209700,
 		"id_str": "1468920743631233024",
-		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n많은 관심과 참여 기다릴게요🎙🌙\n\nDuet With #존박 🙋‍♂️\n🔗 https://t.co/h7wv62BCkW\n📱 https://t.co/ooh9EkH9LV\n\nDuet With #전미도 🙋‍♀️\n🔗 https://t.co/YLwPkt9fO0\n📱 https://t.co/MYqEYBm2Wi\n\n#존미도_밤새서로미루다 https://t.co/MuOLMspPqY",
+		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n많은 관심과 참여 기다릴게요🎙🌙\n\nDuet With #존박 🙋♂️\n🔗 https://t.co/h7wv62BCkW\n📱 https://t.co/ooh9EkH9LV\n\nDuet With #전미도 🙋♀️\n🔗 https://t.co/YLwPkt9fO0\n📱 https://t.co/MYqEYBm2Wi\n\n#존미도_밤새서로미루다 https://t.co/MuOLMspPqY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1066,7 +1319,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n많은 관심과 참여 기다릴게요🎙🌙\n\nDuet With #존박 🙋‍♂️\n🔗 https://t.co/h7wv62BCkW\n📱 https://t.co/ooh9EkH9LV\n\nDuet With #전미도 🙋‍♀️\n🔗 https://t.co/YLwPkt9fO0\n📱 https://t.co/MYqEYBm2Wi\n\n#존미도_밤새서로미루다 https://t.co/MuOLMspPqY"
+		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n많은 관심과 참여 기다릴게요🎙🌙\n\nDuet With #존박 🙋♂️\n🔗 https://t.co/h7wv62BCkW\n📱 https://t.co/ooh9EkH9LV\n\nDuet With #전미도 🙋♀️\n🔗 https://t.co/YLwPkt9fO0\n📱 https://t.co/MYqEYBm2Wi\n\n#존미도_밤새서로미루다 https://t.co/MuOLMspPqY"
 	},
 	{
 		"created_at": "Thu Dec 09 12:29:27 +0000 2021",
