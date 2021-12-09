@@ -1,6 +1,1355 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 13:11:53 +0000 2021",
+		"id": 1468928419043811300,
+		"id_str": "1468931406197932037",
+		"full_text": "📢 12/10 공연 현장 안내\n⠀\n&lt;ALIVE STAGE #4：애프터문 단독 콘서트 'After Tonight'&gt;\n· 티켓수령 : 6시 30분 (현장구매 소량 가능)\n· 입장 : 7시\n· 공연시작 : 7시 30분\n· 출연 : 애프터문\n\n#애프터문 #AfterMoon #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/zY5BMsZJ3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "애프터문",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "AfterMoon",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						192,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468912868162605000,
+					"id_str": "1468912868162605061",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKgeJDVEAUwxka.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKgeJDVEAUwxka.jpg",
+					"url": "https://t.co/zY5BMsZJ3P",
+					"display_url": "pic.twitter.com/zY5BMsZJ3P",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1468928419043811330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468912868162605000,
+					"id_str": "1468912868162605061",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKgeJDVEAUwxka.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKgeJDVEAUwxka.jpg",
+					"url": "https://t.co/zY5BMsZJ3P",
+					"display_url": "pic.twitter.com/zY5BMsZJ3P",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1468928419043811330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468912868158443500,
+					"id_str": "1468912868158443523",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKgeJCVkAMmEeC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKgeJCVkAMmEeC.jpg",
+					"url": "https://t.co/zY5BMsZJ3P",
+					"display_url": "pic.twitter.com/zY5BMsZJ3P",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1468928419043811330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468912868150050800,
+					"id_str": "1468912868150050820",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKgeJAVgAQGNDV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKgeJAVgAQGNDV.jpg",
+					"url": "https://t.co/zY5BMsZJ3P",
+					"display_url": "pic.twitter.com/zY5BMsZJ3P",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1468928419043811330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468912868154245000,
+					"id_str": "1468912868154245121",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKgeJBVgAEI-72.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKgeJBVgAEI-72.jpg",
+					"url": "https://t.co/zY5BMsZJ3P",
+					"display_url": "pic.twitter.com/zY5BMsZJ3P",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1468928419043811330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 12/10 공연 현장 안내\n⠀\n&lt;ALIVE STAGE #4：애프터문 단독 콘서트 'After Tonight'&gt;\n· 티켓수령 : 6시 30분 (현장구매 소량 가능)\n· 입장 : 7시\n· 공연시작 : 7시 30분\n· 출연 : 애프터문\n\n#애프터문 #AfterMoon #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/zY5BMsZJ3P"
+	},
+	{
+		"created_at": "Thu Dec 09 12:29:35 +0000 2021",
+		"id": 1468918033523822600,
+		"id_str": "1468920761578659849",
+		"full_text": "[#Video] #권진아\n\n권진아 ‘스물’ LIVE\nKwon Jin Ah ’20’ LIVE\n\n2021 권진아 단독공연 '우리의 방식'\n2021 Kwon Jin Ah Concert 'The Way For Us'\n\n🔗 https://t.co/f9vxU9J6gi\n\n#권진아 #KwonJinAh #우리의방식 #TheWayForUs #단독공연 https://t.co/Q5LikGdS0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "우리의방식",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "TheWayForUs",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9vxU9J6gi",
+					"expanded_url": "https://youtu.be/NpPa1TciYws",
+					"display_url": "youtu.be/NpPa1TciYws",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468917840560357400,
+					"id_str": "1468917840560357377",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468917840560357377/pu/img/Kky3mWwIADnQ4V2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468917840560357377/pu/img/Kky3mWwIADnQ4V2V.jpg",
+					"url": "https://t.co/Q5LikGdS0a",
+					"display_url": "pic.twitter.com/Q5LikGdS0a",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468918033523822594/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468917840560357400,
+					"id_str": "1468917840560357377",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468917840560357377/pu/img/Kky3mWwIADnQ4V2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468917840560357377/pu/img/Kky3mWwIADnQ4V2V.jpg",
+					"url": "https://t.co/Q5LikGdS0a",
+					"display_url": "pic.twitter.com/Q5LikGdS0a",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468918033523822594/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140001,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468917840560357377/pu/vid/1280x720/wg1uB5TDtZWttyHL.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468917840560357377/pu/pl/OJRPnMcvArZb4WXJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468917840560357377/pu/vid/640x360/I5XtYrQ-sYBdi0z3.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468917840560357377/pu/vid/480x270/RaIYk0LzjzA0F43N.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39712,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #권진아\n\n권진아 ‘스물’ LIVE\nKwon Jin Ah ’20’ LIVE\n\n2021 권진아 단독공연 '우리의 방식'\n2021 Kwon Jin Ah Concert 'The Way For Us'\n\n🔗 https://t.co/f9vxU9J6gi\n\n#권진아 #KwonJinAh #우리의방식 #TheWayForUs #단독공연 https://t.co/Q5LikGdS0a"
+	},
+	{
+		"created_at": "Thu Dec 09 12:29:33 +0000 2021",
+		"id": 1468917090749128700,
+		"id_str": "1468920752544133127",
+		"full_text": "#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#밤새서로미루다챌린지\n#StayDuetChallenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "JeonMido",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "Stay",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "밤새서로미루다챌린지",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"text": "StayDuetChallenge",
+					"indices": [
+						56,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468916987028209700,
+		"in_reply_to_status_id_str": "1468916987028209664",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9088,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#밤새서로미루다챌린지\n#StayDuetChallenge"
+	},
+	{
+		"created_at": "Thu Dec 09 12:29:31 +0000 2021",
+		"id": 1468916987028209700,
+		"id_str": "1468920743631233024",
+		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n많은 관심과 참여 기다릴게요🎙🌙\n\nDuet With #존박 🙋‍♂️\n🔗 https://t.co/h7wv62BCkW\n📱 https://t.co/ooh9EkH9LV\n\nDuet With #전미도 🙋‍♀️\n🔗 https://t.co/YLwPkt9fO0\n📱 https://t.co/MYqEYBm2Wi\n\n#존미도_밤새서로미루다 https://t.co/MuOLMspPqY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듀엣챌린지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "존미도_밤새서로미루다",
+					"indices": [
+						192,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h7wv62BCkW",
+					"expanded_url": "https://youtu.be/I1kehWvOj-Y",
+					"display_url": "youtu.be/I1kehWvOj-Y",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/ooh9EkH9LV",
+					"expanded_url": "https://bit.ly/3Iyjgzc",
+					"display_url": "bit.ly/3Iyjgzc",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/YLwPkt9fO0",
+					"expanded_url": "https://youtu.be/mtIH2c-jMuQ",
+					"display_url": "youtu.be/mtIH2c-jMuQ",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/MYqEYBm2Wi",
+					"expanded_url": "https://bit.ly/3lRrqsy",
+					"display_url": "bit.ly/3lRrqsy",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468915412112838700,
+					"id_str": "1468915412112838660",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468915412112838660/pu/img/yaiPNtmBxQ-EPNJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468915412112838660/pu/img/yaiPNtmBxQ-EPNJ8.jpg",
+					"url": "https://t.co/MuOLMspPqY",
+					"display_url": "pic.twitter.com/MuOLMspPqY",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1468916987028209664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468915412112838700,
+					"id_str": "1468915412112838660",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468915412112838660/pu/img/yaiPNtmBxQ-EPNJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468915412112838660/pu/img/yaiPNtmBxQ-EPNJ8.jpg",
+					"url": "https://t.co/MuOLMspPqY",
+					"display_url": "pic.twitter.com/MuOLMspPqY",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1468916987028209664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							8,
+							9
+						],
+						"duration_millis": 46671,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468915412112838660/pu/vid/320x360/eDmgaWmcJcrDKQ9v.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468915412112838660/pu/pl/bMptO6u8HR2De3f2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468915412112838660/pu/vid/720x810/Cw1E6um1my99yBk7.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468915412112838660/pu/vid/480x540/rDmZhfgimVl4IrdK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9088,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n많은 관심과 참여 기다릴게요🎙🌙\n\nDuet With #존박 🙋‍♂️\n🔗 https://t.co/h7wv62BCkW\n📱 https://t.co/ooh9EkH9LV\n\nDuet With #전미도 🙋‍♀️\n🔗 https://t.co/YLwPkt9fO0\n📱 https://t.co/MYqEYBm2Wi\n\n#존미도_밤새서로미루다 https://t.co/MuOLMspPqY"
+	},
+	{
+		"created_at": "Thu Dec 09 12:29:27 +0000 2021",
+		"id": 1468913401011511300,
+		"id_str": "1468920726329733120",
+		"full_text": "[#STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Interview #비하인더스테이션\n\nhttps://t.co/ciXr2XWwpT\n\n#별하나 #Way\n#ONEW #온유 \n#SHINee #샤이니 @SHINee \n#펀치 #Punch\n#SMSTATION #SMTOWN https://t.co/EmWWFQ36L6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "비하인더스테이션",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "별하나",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "Way",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "펀치",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "Punch",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ciXr2XWwpT",
+					"expanded_url": "https://youtu.be/FdH8QfHLJHY",
+					"display_url": "youtu.be/FdH8QfHLJHY",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468913396451971000,
+					"id_str": "1468913396451971072",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKg85FVEAAm1Ou.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKg85FVEAAm1Ou.jpg",
+					"url": "https://t.co/EmWWFQ36L6",
+					"display_url": "pic.twitter.com/EmWWFQ36L6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468913401011511300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468913396451971000,
+					"id_str": "1468913396451971072",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKg85FVEAAm1Ou.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKg85FVEAAm1Ou.jpg",
+					"url": "https://t.co/EmWWFQ36L6",
+					"display_url": "pic.twitter.com/EmWWFQ36L6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1468913401011511300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10278744,
+			"friends_count": 55,
+			"listed_count": 11222,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2460,
+		"favorite_count": 6753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Interview #비하인더스테이션\n\nhttps://t.co/ciXr2XWwpT\n\n#별하나 #Way\n#ONEW #온유 \n#SHINee #샤이니 @SHINee \n#펀치 #Punch\n#SMSTATION #SMTOWN https://t.co/EmWWFQ36L6"
+	},
+	{
 		"created_at": "Thu Dec 09 11:29:46 +0000 2021",
 		"id": 1468898547039076400,
 		"id_str": "1468905708305498114",
