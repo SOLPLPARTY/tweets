@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 04:29:25 +0000 2021",
+		"id": 1468796066959360000,
+		"id_str": "1468799922610782214",
+		"full_text": "1ho, 0back, Daowl - 춥지않도록_Don't be cold (Prod.공기남)\nhttps://t.co/ZlmCysU8fo\n넌 어디쯤 오고 있을까?\n널 보러 갈게, 우리가 춥지 않도록.\n\n#에어뮤직 #1ho #0back #daowl #공기남 #싱글앨범",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에어뮤직",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "1ho",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "0back",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "daowl",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "공기남",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "싱글앨범",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZlmCysU8fo",
+					"expanded_url": "https://youtu.be/s_54B-xxYOw",
+					"display_url": "youtu.be/s_54B-xxYOw",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back, Daowl\n                         official home page ▶️https://t.co/NxkguP1kf8",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguP1kf8",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 933,
+			"friends_count": 423,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1629690678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1ho, 0back, Daowl - 춥지않도록_Don't be cold (Prod.공기남)\nhttps://t.co/ZlmCysU8fo\n넌 어디쯤 오고 있을까?\n널 보러 갈게, 우리가 춥지 않도록.\n\n#에어뮤직 #1ho #0back #daowl #공기남 #싱글앨범"
+	},
+	{
 		"created_at": "Thu Dec 09 03:29:28 +0000 2021",
 		"id": 1468777427560132600,
 		"id_str": "1468784835154128905",
