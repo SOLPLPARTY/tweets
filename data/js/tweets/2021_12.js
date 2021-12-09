@@ -1,6 +1,1320 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 06:11:17 +0000 2021",
+		"id": 1468824235577868300,
+		"id_str": "1468825558381441024",
+		"full_text": "제주도 한 달살이를 다녀오며 함께 나아갈 삶의 방향성을 찾아가는 이야기 창작하는 허씨 에세이집  &lt; 가장말고 베프가 되기로 했다 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\nㅡ https://t.co/FwiI726d8N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468824230380781600,
+					"id_str": "1468824230380781568",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJP2vlVQAAvQM-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJP2vlVQAAvQM-.jpg",
+					"url": "https://t.co/FwiI726d8N",
+					"display_url": "pic.twitter.com/FwiI726d8N",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1468824235577868289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468824230380781600,
+					"id_str": "1468824230380781568",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJP2vlVQAAvQM-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJP2vlVQAAvQM-.jpg",
+					"url": "https://t.co/FwiI726d8N",
+					"display_url": "pic.twitter.com/FwiI726d8N",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1468824235577868289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제주도 한 달살이를 다녀오며 함께 나아갈 삶의 방향성을 찾아가는 이야기 창작하는 허씨 에세이집  &lt; 가장말고 베프가 되기로 했다 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\nㅡ https://t.co/FwiI726d8N"
+	},
+	{
+		"created_at": "Thu Dec 09 05:58:16 +0000 2021",
+		"id": 1468813837810147300,
+		"id_str": "1468822285389869058",
+		"full_text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/17(금) 클럽 FF에서 화끈한 락의 세계로 초대합니다!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔️유튜브 채널: https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/2nqLu3rAZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468813828573970400,
+					"id_str": "1468813828573970433",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJGZR1VQAEP45u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJGZR1VQAEP45u.jpg",
+					"url": "https://t.co/2nqLu3rAZU",
+					"display_url": "pic.twitter.com/2nqLu3rAZU",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468813837810147334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468813828573970400,
+					"id_str": "1468813828573970433",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJGZR1VQAEP45u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJGZR1VQAEP45u.jpg",
+					"url": "https://t.co/2nqLu3rAZU",
+					"display_url": "pic.twitter.com/2nqLu3rAZU",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468813837810147334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468813828578164700,
+					"id_str": "1468813828578164738",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJGZR2VQAIZM_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJGZR2VQAIZM_t.jpg",
+					"url": "https://t.co/2nqLu3rAZU",
+					"display_url": "pic.twitter.com/2nqLu3rAZU",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468813837810147334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468813828573913000,
+					"id_str": "1468813828573913092",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJGZR1UYAQmF66.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJGZR1UYAQmF66.jpg",
+					"url": "https://t.co/2nqLu3rAZU",
+					"display_url": "pic.twitter.com/2nqLu3rAZU",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468813837810147334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468813829219897300,
+					"id_str": "1468813829219897344",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJGZUPVUAALAEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJGZUPVUAALAEP.jpg",
+					"url": "https://t.co/2nqLu3rAZU",
+					"display_url": "pic.twitter.com/2nqLu3rAZU",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468813837810147334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/17(금) 클럽 FF에서 화끈한 락의 세계로 초대합니다!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔️유튜브 채널: https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/2nqLu3rAZU"
+	},
+	{
+		"created_at": "Thu Dec 09 05:58:14 +0000 2021",
+		"id": 1468811140990124000,
+		"id_str": "1468822276506275847",
+		"full_text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/16(목) 클럽 에반스에서 만날 수 있는 멋진 재즈의 세계!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔L유튜브 채널: https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/j3t86ceFFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468811132265648000,
+					"id_str": "1468811132265648129",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJD8VTVUAEDoJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJD8VTVUAEDoJr.jpg",
+					"url": "https://t.co/j3t86ceFFR",
+					"display_url": "pic.twitter.com/j3t86ceFFR",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468811140990124037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468811132265648000,
+					"id_str": "1468811132265648129",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJD8VTVUAEDoJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJD8VTVUAEDoJr.jpg",
+					"url": "https://t.co/j3t86ceFFR",
+					"display_url": "pic.twitter.com/j3t86ceFFR",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468811140990124037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468811132852867000,
+					"id_str": "1468811132852867076",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJD8XfVkAQAkkR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJD8XfVkAQAkkR.jpg",
+					"url": "https://t.co/j3t86ceFFR",
+					"display_url": "pic.twitter.com/j3t86ceFFR",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468811140990124037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468811133523873800,
+					"id_str": "1468811133523873792",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJD8Z_UUAAxQ_F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJD8Z_UUAAxQ_F.jpg",
+					"url": "https://t.co/j3t86ceFFR",
+					"display_url": "pic.twitter.com/j3t86ceFFR",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468811140990124037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468811133523951600,
+					"id_str": "1468811133523951619",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJD8Z_VgAMzwK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJD8Z_VgAMzwK0.jpg",
+					"url": "https://t.co/j3t86ceFFR",
+					"display_url": "pic.twitter.com/j3t86ceFFR",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1468811140990124037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/16(목) 클럽 에반스에서 만날 수 있는 멋진 재즈의 세계!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔L유튜브 채널: https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/j3t86ceFFR"
+	},
+	{
+		"created_at": "Thu Dec 09 05:29:43 +0000 2021",
+		"id": 1468807718291275800,
+		"id_str": "1468815097749544960",
+		"full_text": "#Antenna #시즌그리팅 #SeasonsGreetings\n#HelloAntenna_Hello2022\n\n#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Antenna",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "SeasonsGreetings",
+					"indices": [
+						16,
+						33
+					]
+				},
+				{
+					"text": "HelloAntenna_Hello2022",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "박새별",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "서동환",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468807716848414700,
+		"in_reply_to_status_id_str": "1468807716848414720",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39696,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#Antenna #시즌그리팅 #SeasonsGreetings\n#HelloAntenna_Hello2022\n\n#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환"
+	},
+	{
+		"created_at": "Thu Dec 09 05:29:38 +0000 2021",
+		"id": 1468807716848414700,
+		"id_str": "1468815076308176898",
+		"full_text": "많은 관심 부탁드립니다🥰\n\n✅판매 일정\n12월 10일 (금) 오후 12시 ~ \n* 12월 17일부터 순차 배송\n\n✅구성\n포스터 달력, 마스킹 테이프, 양말, 미니노트, 엽서, 사용 설명서\n* 양말 색상 랜덤 발송(노랑/검정)\n\n✅판매처\n29CM\nhttps://t.co/etVfs8mahC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/etVfs8mahC",
+					"expanded_url": "https://shop.29cm.co.kr/brand/15769",
+					"display_url": "shop.29cm.co.kr/brand/15769",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468807712389857300,
+		"in_reply_to_status_id_str": "1468807712389857283",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39696,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "많은 관심 부탁드립니다🥰\n\n✅판매 일정\n12월 10일 (금) 오후 12시 ~ \n* 12월 17일부터 순차 배송\n\n✅구성\n포스터 달력, 마스킹 테이프, 양말, 미니노트, 엽서, 사용 설명서\n* 양말 색상 랜덤 발송(노랑/검정)\n\n✅판매처\n29CM\nhttps://t.co/etVfs8mahC"
+	},
+	{
+		"created_at": "Thu Dec 09 05:29:30 +0000 2021",
+		"id": 1468807712389857300,
+		"id_str": "1468815042288181251",
+		"full_text": "[#Notice] #안테나\n\n💛Antenna 2022 Season’s Greetings💛\n\n2022년을 맞이해 안테나에서 좋은 연말을 준비했습니다🎁\n\n안테나의 첫 번째 공식 시즌그리팅!\n15명의 아티스트가 직접 그린 2022년 달력이 내일 오후 12시 판매 오픈됩니다.\n\n판매 수익금 전액은 아이들의 따뜻한 연말을 위해 기부됩니다. https://t.co/Fh8ipz4J2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468805753511170000,
+					"id_str": "1468805753511170051",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FGI_DP4VUAMa-Hw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGI_DP4VUAMa-Hw.jpg",
+					"url": "https://t.co/Fh8ipz4J2g",
+					"display_url": "pic.twitter.com/Fh8ipz4J2g",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468807712389857283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468805753511170000,
+					"id_str": "1468805753511170051",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FGI_DP4VUAMa-Hw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGI_DP4VUAMa-Hw.jpg",
+					"url": "https://t.co/Fh8ipz4J2g",
+					"display_url": "pic.twitter.com/Fh8ipz4J2g",
+					"expanded_url": "https://twitter.com/antennamusic/status/1468807712389857283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39696,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #안테나\n\n💛Antenna 2022 Season’s Greetings💛\n\n2022년을 맞이해 안테나에서 좋은 연말을 준비했습니다🎁\n\n안테나의 첫 번째 공식 시즌그리팅!\n15명의 아티스트가 직접 그린 2022년 달력이 내일 오후 12시 판매 오픈됩니다.\n\n판매 수익금 전액은 아이들의 따뜻한 연말을 위해 기부됩니다. https://t.co/Fh8ipz4J2g"
+	},
+	{
 		"created_at": "Thu Dec 09 04:29:25 +0000 2021",
 		"id": 1468796066959360000,
 		"id_str": "1468799922610782214",
