@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 03:11:17 +0000 2021",
+		"id": 1468777421671473200,
+		"id_str": "1468780259185238017",
+		"full_text": "&lt;용용 콘서트 소호도 '小虎跳' : 롤링 27주년 기념 공연&gt;\n\n· 일시 : 2022년 01월 09일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 용용 (YY) (게스트 : 도한세, D.Ark)\n· 예매 : 멜론티켓 2021년 12월 15일 (수) 오후 8시 예매오픈\n\nDesign by 오이웍스\n\n#롤링홀 #공연\n#용용 #YY #도한세 #디아크 https://t.co/0xCNYA8aMW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "용용",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "YY",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "도한세",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "디아크",
+					"indices": [
+						198,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467789323198099500,
+					"id_str": "1467789323198099456",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467789323198099456/pu/img/XvtH-kgBAdQO9wOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467789323198099456/pu/img/XvtH-kgBAdQO9wOJ.jpg",
+					"url": "https://t.co/0xCNYA8aMW",
+					"display_url": "pic.twitter.com/0xCNYA8aMW",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1468777421671473157/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467789323198099500,
+					"id_str": "1467789323198099456",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467789323198099456/pu/img/XvtH-kgBAdQO9wOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467789323198099456/pu/img/XvtH-kgBAdQO9wOJ.jpg",
+					"url": "https://t.co/0xCNYA8aMW",
+					"display_url": "pic.twitter.com/0xCNYA8aMW",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1468777421671473157/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10844,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1467789323198099456/pu/pl/qxqoPIQ_ghSQmeks.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467789323198099456/pu/vid/540x540/biul5K8z2zBPP5p9.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467789323198099456/pu/vid/720x720/-3XJ0nqodTGWVqKE.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467789323198099456/pu/vid/320x320/jUjdAquZSF5SCit6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;용용 콘서트 소호도 '小虎跳' : 롤링 27주년 기념 공연&gt;\n\n· 일시 : 2022년 01월 09일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 용용 (YY) (게스트 : 도한세, D.Ark)\n· 예매 : 멜론티켓 2021년 12월 15일 (수) 오후 8시 예매오픈\n\nDesign by 오이웍스\n\n#롤링홀 #공연\n#용용 #YY #도한세 #디아크 https://t.co/0xCNYA8aMW"
+	},
+	{
+		"created_at": "Thu Dec 09 02:58:14 +0000 2021",
+		"id": 1468773600044142600,
+		"id_str": "1468776978757132289",
+		"full_text": "@WonGooon 안녕하세요. 현장판매는 진행하지 않습니다",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WonGooon",
+					"name": "WonGoon",
+					"id": 147841646,
+					"id_str": "147841646",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468771838461620200,
+		"in_reply_to_status_id_str": "1468771838461620224",
+		"in_reply_to_user_id": 147841646,
+		"in_reply_to_user_id_str": "147841646",
+		"in_reply_to_screen_name": "WonGooon",
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이!  Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/kyqNi9o44l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kyqNi9o44l",
+							"expanded_url": "http://bit.ly/2YgzGZw",
+							"display_url": "bit.ly/2YgzGZw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3572,
+			"friends_count": 637,
+			"listed_count": 31,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1592189690",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@WonGooon 안녕하세요. 현장판매는 진행하지 않습니다"
+	},
+	{
+		"created_at": "Thu Dec 09 02:29:28 +0000 2021",
+		"id": 1468766602820993000,
+		"id_str": "1468769735756107776",
+		"full_text": "[#윤종신] 콘서트 'BIRDMAN' 공연 추가 오픈 안내✔\n\n📌공연일시 및 장소\n수원 : 2022. 01. 08 (SAT) 6PM\n       @경기아트센터 대극장\n\n📌예매 및 문의처\n인터파크\n\n#YoonJongshin #콘서트 #BIRDMAN https://t.co/n77IpWe78w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "BIRDMAN",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468766308040806400,
+					"id_str": "1468766308040806406",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FGIbLODVkAY_Aor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGIbLODVkAY_Aor.jpg",
+					"url": "https://t.co/n77IpWe78w",
+					"display_url": "pic.twitter.com/n77IpWe78w",
+					"expanded_url": "https://twitter.com/themysticstory/status/1468766602820993024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468766308040806400,
+					"id_str": "1468766308040806406",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FGIbLODVkAY_Aor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGIbLODVkAY_Aor.jpg",
+					"url": "https://t.co/n77IpWe78w",
+					"display_url": "pic.twitter.com/n77IpWe78w",
+					"expanded_url": "https://twitter.com/themysticstory/status/1468766602820993024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462949017831108600,
+		"in_reply_to_status_id_str": "1462949017831108612",
+		"in_reply_to_user_id": 486655058,
+		"in_reply_to_user_id_str": "486655058",
+		"in_reply_to_screen_name": "themysticstory",
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32208,
+			"friends_count": 15,
+			"listed_count": 268,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 콘서트 'BIRDMAN' 공연 추가 오픈 안내✔\n\n📌공연일시 및 장소\n수원 : 2022. 01. 08 (SAT) 6PM\n       @경기아트센터 대극장\n\n📌예매 및 문의처\n인터파크\n\n#YoonJongshin #콘서트 #BIRDMAN https://t.co/n77IpWe78w"
+	},
+	{
 		"created_at": "Thu Dec 09 02:11:17 +0000 2021",
 		"id": 1468750792345919500,
 		"id_str": "1468765159950884864",
