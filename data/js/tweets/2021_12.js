@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 01:11:17 +0000 2021",
+		"id": 1468747972410482700,
+		"id_str": "1468750061530136576",
+		"full_text": "[대치] 상상펀드 10주년 아카이브 전시\n\nKT&amp;G 상상펀드 10주년을 기념하여 KT&amp;G 구성원들이 10년동안 조성해온 &lt;상상펀드 10주년 아카이브 전시&gt;를 진행합니다.\n\n상상펀드 10년의 아카이브 사진, 10주년을 맞이한 2021년의 나눔 사업을 확인해보세요!\n\n장소: KT&amp;G 대치 갤러리\n기간: 12.6-12.28 https://t.co/6Gah5auSYc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468747903673929700,
+					"id_str": "1468747903673929728",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FGIKb8cVkAAA77a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGIKb8cVkAAA77a.jpg",
+					"url": "https://t.co/6Gah5auSYc",
+					"display_url": "pic.twitter.com/6Gah5auSYc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1468747972410482688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468747903673929700,
+					"id_str": "1468747903673929728",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FGIKb8cVkAAA77a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGIKb8cVkAAA77a.jpg",
+					"url": "https://t.co/6Gah5auSYc",
+					"display_url": "pic.twitter.com/6Gah5auSYc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1468747972410482688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17737,
+			"friends_count": 1871,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[대치] 상상펀드 10주년 아카이브 전시\n\nKT&amp;G 상상펀드 10주년을 기념하여 KT&amp;G 구성원들이 10년동안 조성해온 &lt;상상펀드 10주년 아카이브 전시&gt;를 진행합니다.\n\n상상펀드 10년의 아카이브 사진, 10주년을 맞이한 2021년의 나눔 사업을 확인해보세요!\n\n장소: KT&amp;G 대치 갤러리\n기간: 12.6-12.28 https://t.co/6Gah5auSYc"
+	},
+	{
 		"created_at": "Wed Dec 08 16:29:25 +0000 2021",
 		"id": 1468608057634877400,
 		"id_str": "1468618728246063105",
