@@ -1,6 +1,1439 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 07:29:37 +0000 2021",
+		"id": 1469203407831711700,
+		"id_str": "1469207658850881541",
+		"full_text": "[#NEWS] \"애절 끝판왕\"… 정인, 신곡 '값' 라이브 영상 공개\n\n▶ https://t.co/5jKQhh2ZVf\n\n#정인 #JUNGIN #값 #녹음실라이브 #라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						79,
+						81
+					]
+				},
+				{
+					"text": "녹음실라이브",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5jKQhh2ZVf",
+					"expanded_url": "https://bit.ly/3pNOjyx",
+					"display_url": "bit.ly/3pNOjyx",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32229,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] \"애절 끝판왕\"… 정인, 신곡 '값' 라이브 영상 공개\n\n▶ https://t.co/5jKQhh2ZVf\n\n#정인 #JUNGIN #값 #녹음실라이브 #라이브"
+	},
+	{
+		"created_at": "Fri Dec 10 07:29:33 +0000 2021",
+		"id": 1469199925032661000,
+		"id_str": "1469207645789863942",
+		"full_text": "최유리의 올해를 위로해 준 무언가에 대한 이야기. 마리끌레르(@marieclairekr) 2021 12월호 '올해의 위로'에서 최유리의 이야기를 만나보세요. 글 전문은 마리끌레르 12월호 또는 링크의 웹사이트를 통해 확인하실 수 있습니다.\n\n▷ https://t.co/E4IrlgeHhP\n\n#최유리 #ChoiYuRee #올해의위로 https://t.co/PmZ0fwwWQ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "ChoiYuRee",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "올해의위로",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marieclairekr",
+					"name": "Marie Claire Korea",
+					"id": 132025214,
+					"id_str": "132025214",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E4IrlgeHhP",
+					"expanded_url": "https://www.marieclairekorea.com/lifestyle/2021/12/year-end/",
+					"display_url": "marieclairekorea.com/lifestyle/2021…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469198808852549600,
+					"id_str": "1469198808852549636",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOkiFIVUAQiYST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOkiFIVUAQiYST.jpg",
+					"url": "https://t.co/PmZ0fwwWQ7",
+					"display_url": "pic.twitter.com/PmZ0fwwWQ7",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1469199925032660994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469198808852549600,
+					"id_str": "1469198808852549636",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOkiFIVUAQiYST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOkiFIVUAQiYST.jpg",
+					"url": "https://t.co/PmZ0fwwWQ7",
+					"display_url": "pic.twitter.com/PmZ0fwwWQ7",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1469199925032660994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/nimqr6dMG6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nimqr6dMG6",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7760,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1637651590",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최유리의 올해를 위로해 준 무언가에 대한 이야기. 마리끌레르(@marieclairekr) 2021 12월호 '올해의 위로'에서 최유리의 이야기를 만나보세요. 글 전문은 마리끌레르 12월호 또는 링크의 웹사이트를 통해 확인하실 수 있습니다.\n\n▷ https://t.co/E4IrlgeHhP\n\n#최유리 #ChoiYuRee #올해의위로 https://t.co/PmZ0fwwWQ7"
+	},
+	{
+		"created_at": "Fri Dec 10 07:29:24 +0000 2021",
+		"id": 1469192774134431700,
+		"id_str": "1469207607588139015",
+		"full_text": "eurasia 1st album &lt;ø&gt; 랏밴뮤 온라인 음감회 12/11 (sat.) 22:00 - 24:00 유라시아 정규 1집 &lt;ø&gt; 의 발매를 기념하여 앱 라디오 랏밴뮤 @ratbanmu 에서 음감회를 하게 되었습다. 앨범에 수록된 모든 곡을 들어 보면서 이런 이야기 저런 이야기 편하게 할 예정입니다. https://t.co/bE5k9Ci05O https://t.co/ivFO5JwPcY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ratbanmu",
+					"name": "랏밴뮤",
+					"id": 169017352,
+					"id_str": "169017352",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bE5k9Ci05O",
+					"expanded_url": "https://www.instagram.com/p/CXShIFHl2hk/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CXShIFHl2hk/…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469192766844375000,
+					"id_str": "1469192766844375042",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOfCY5VEAINhUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOfCY5VEAINhUg.jpg",
+					"url": "https://t.co/ivFO5JwPcY",
+					"display_url": "pic.twitter.com/ivFO5JwPcY",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1469192774134431750/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469192766844375000,
+					"id_str": "1469192766844375042",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOfCY5VEAINhUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOfCY5VEAINhUg.jpg",
+					"url": "https://t.co/ivFO5JwPcY",
+					"display_url": "pic.twitter.com/ivFO5JwPcY",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1469192774134431750/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 189,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1637723619",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "eurasia 1st album &lt;ø&gt; 랏밴뮤 온라인 음감회 12/11 (sat.) 22:00 - 24:00 유라시아 정규 1집 &lt;ø&gt; 의 발매를 기념하여 앱 라디오 랏밴뮤 @ratbanmu 에서 음감회를 하게 되었습다. 앨범에 수록된 모든 곡을 들어 보면서 이런 이야기 저런 이야기 편하게 할 예정입니다. https://t.co/bE5k9Ci05O https://t.co/ivFO5JwPcY"
+	},
+	{
+		"created_at": "Fri Dec 10 07:13:49 +0000 2021",
+		"id": 1469203684089290800,
+		"id_str": "1469203684089290753",
+		"full_text": "#ONSTAGE #온스테이지\n[ONSTAGE X D MUSEUM]온·오프라인 공연에 초대합니다!\nhttps://t.co/6b8PmC7Fgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6b8PmC7Fgd",
+					"expanded_url": "https://bit.ly/3GuJaln",
+					"display_url": "bit.ly/3GuJaln",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ONSTAGE #온스테이지\n[ONSTAGE X D MUSEUM]온·오프라인 공연에 초대합니다!\nhttps://t.co/6b8PmC7Fgd"
+	},
+	{
+		"created_at": "Fri Dec 10 06:29:45 +0000 2021",
+		"id": 1469186843644403700,
+		"id_str": "1469192594613751808",
+		"full_text": "[VIDEO] [#인순이] #부캐전성시대\n\n지구를 구하기 위해 그들이 모인다_부캐전성시대 1회 예고\n\n👉 https://t.co/xaYoKhao0Y\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #TV조선 #TVCHOSUN #메타버스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "부캐전성시대",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "TVCHOSUN",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "메타버스",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xaYoKhao0Y",
+					"expanded_url": "https://youtu.be/QPBQSyBo4VY",
+					"display_url": "youtu.be/QPBQSyBo4VY",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #부캐전성시대\n\n지구를 구하기 위해 그들이 모인다_부캐전성시대 1회 예고\n\n👉 https://t.co/xaYoKhao0Y\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #TV조선 #TVCHOSUN #메타버스"
+	},
+	{
+		"created_at": "Fri Dec 10 06:29:39 +0000 2021",
+		"id": 1469186763751309300,
+		"id_str": "1469192568978214917",
+		"full_text": "[VIDEO] [#인순이] #부캐전성시대\n\n페르소나 5개 분파가 지구를 구하기 위해 나섰다!_부캐전성시대 티저\n\n👉 https://t.co/f1Uokah5v3\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #TV조선 #TVCHOSUN #메타버스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "부캐전성시대",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "TVCHOSUN",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "메타버스",
+					"indices": [
+						137,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f1Uokah5v3",
+					"expanded_url": "https://youtu.be/bVZfj3gD2Q0",
+					"display_url": "youtu.be/bVZfj3gD2Q0",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #부캐전성시대\n\n페르소나 5개 분파가 지구를 구하기 위해 나섰다!_부캐전성시대 티저\n\n👉 https://t.co/f1Uokah5v3\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #TV조선 #TVCHOSUN #메타버스"
+	},
+	{
+		"created_at": "Fri Dec 10 06:29:30 +0000 2021",
+		"id": 1469185110872256500,
+		"id_str": "1469192530474729473",
+		"full_text": "[#정인] 네이버 NOW. '점심어택' 출연✔\n\n피곤한 금요일! 데니안, 손호영과 함께 유쾌함으로 가득 채운 정인🥰\n오늘 밤⭐ &lt;EBS 스페이스 공감&gt;, &lt;유희열의 스케치북&gt;도 함께해요📺\n\n#JUNGIN #네이버나우 #NOW #점심어택 #값 #EBS스페이스공감 #유희열의스케치북 https://t.co/hDDdqe8Zn1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "점심어택",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						144,
+						146
+					]
+				},
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						158,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469179503385604000,
+					"id_str": "1469179503385604096",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOS-WqVcAAWDUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOS-WqVcAAWDUT.jpg",
+					"url": "https://t.co/hDDdqe8Zn1",
+					"display_url": "pic.twitter.com/hDDdqe8Zn1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1469185110872256520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469179503385604000,
+					"id_str": "1469179503385604096",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOS-WqVcAAWDUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOS-WqVcAAWDUT.jpg",
+					"url": "https://t.co/hDDdqe8Zn1",
+					"display_url": "pic.twitter.com/hDDdqe8Zn1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1469185110872256520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469179503381401600,
+					"id_str": "1469179503381401604",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOS-WpVUAQoeuB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOS-WpVUAQoeuB.jpg",
+					"url": "https://t.co/hDDdqe8Zn1",
+					"display_url": "pic.twitter.com/hDDdqe8Zn1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1469185110872256520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32229,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] 네이버 NOW. '점심어택' 출연✔\n\n피곤한 금요일! 데니안, 손호영과 함께 유쾌함으로 가득 채운 정인🥰\n오늘 밤⭐ &lt;EBS 스페이스 공감&gt;, &lt;유희열의 스케치북&gt;도 함께해요📺\n\n#JUNGIN #네이버나우 #NOW #점심어택 #값 #EBS스페이스공감 #유희열의스케치북 https://t.co/hDDdqe8Zn1"
+	},
+	{
+		"created_at": "Fri Dec 10 06:29:25 +0000 2021",
+		"id": 1469185036326817800,
+		"id_str": "1469192508810870786",
+		"full_text": "#Wilcox #윌콕스\n\n[LIVE. ON]  윌콕스, 천미지, 이슈타르, 사이먼 도미닉 | 라이브온 공연 실황 생중계 https://t.co/5ztTpWw6N2 - @YouTube\n\n오늘 오후 6시부터 공연 실황 생중계가 시작됩니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5ztTpWw6N2",
+					"expanded_url": "https://youtu.be/g7VXYV5YnsQ",
+					"display_url": "youtu.be/g7VXYV5YnsQ",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1445,
+			"friends_count": 773,
+			"listed_count": 0,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Wilcox #윌콕스\n\n[LIVE. ON]  윌콕스, 천미지, 이슈타르, 사이먼 도미닉 | 라이브온 공연 실황 생중계 https://t.co/5ztTpWw6N2 - @YouTube\n\n오늘 오후 6시부터 공연 실황 생중계가 시작됩니다!"
+	},
+	{
 		"created_at": "Fri Dec 10 06:02:30 +0000 2021",
 		"id": 1469185738894114800,
 		"id_str": "1469185738894114820",
@@ -145,7 +1578,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Fri Dec 10 05:29:46 +0000 2021",
 		"id": 1469175604369309700,
 		"id_str": "1469177498856534020",
-		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n존박이 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/0rfrQMXWUd",
+		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n존박이 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋♂️🙋♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/0rfrQMXWUd",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -424,13 +1857,13 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n존박이 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/0rfrQMXWUd"
+		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n존박이 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋♂️🙋♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/0rfrQMXWUd"
 	},
 	{
 		"created_at": "Fri Dec 10 05:29:38 +0000 2021",
 		"id": 1469175527038926800,
 		"id_str": "1469177464811368452",
-		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n전미도가 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/NBxYXm5756",
+		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n전미도가 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋♂️🙋♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/NBxYXm5756",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -709,7 +2142,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n전미도가 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/NBxYXm5756"
+		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n전미도가 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋♂️🙋♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/NBxYXm5756"
 	},
 	{
 		"created_at": "Fri Dec 10 05:29:33 +0000 2021",
