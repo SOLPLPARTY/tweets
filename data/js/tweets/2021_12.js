@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 12:29:24 +0000 2021",
+		"id": 1469275710602682400,
+		"id_str": "1469283105307607043",
+		"full_text": "[FOR FANS] GSoul - Natural (Live Clip)\n\n🎞https://t.co/BcqEKAmZA3\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #GSoul #지소울 #Natural #LIVE https://t.co/SiGbMYVkHm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"text": "워너뮤직케이팝",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "Natural",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BcqEKAmZA3",
+					"expanded_url": "https://youtu.be/gAcRK179qFc",
+					"display_url": "youtu.be/gAcRK179qFc",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469229265602318300,
+					"id_str": "1469229265602318340",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469229265602318340/pu/img/F_2xjrRAGAsVAzXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469229265602318340/pu/img/F_2xjrRAGAsVAzXP.jpg",
+					"url": "https://t.co/SiGbMYVkHm",
+					"display_url": "pic.twitter.com/SiGbMYVkHm",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1469275710602682373/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469229265602318300,
+					"id_str": "1469229265602318340",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469229265602318340/pu/img/F_2xjrRAGAsVAzXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469229265602318340/pu/img/F_2xjrRAGAsVAzXP.jpg",
+					"url": "https://t.co/SiGbMYVkHm",
+					"display_url": "pic.twitter.com/SiGbMYVkHm",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1469275710602682373/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27277,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469229265602318340/pu/pl/NceU_WF4OJq4xKXh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469229265602318340/pu/vid/1280x720/qG-7XrWQXND93lbj.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469229265602318340/pu/vid/640x360/F4lM_6WPwko5VJpd.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469229265602318340/pu/vid/480x270/NC9cUXpRRo2K5OFV.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51978,
+			"friends_count": 494,
+			"listed_count": 195,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[FOR FANS] GSoul - Natural (Live Clip)\n\n🎞https://t.co/BcqEKAmZA3\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #GSoul #지소울 #Natural #LIVE https://t.co/SiGbMYVkHm"
+	},
+	{
 		"created_at": "Fri Dec 10 12:09:08 +0000 2021",
 		"id": 1469278003662315500,
 		"id_str": "1469278003662315524",
