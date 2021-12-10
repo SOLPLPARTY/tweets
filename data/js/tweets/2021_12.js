@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 04:29:43 +0000 2021",
+		"id": 1469154974391505000,
+		"id_str": "1469162386624073730",
+		"full_text": "[#Video] #안테나\n\n💛Antenna 2022 Season’s Greetings💛\n\n2022 안테나 시즌그리팅 그림 그리기🎨\nAntenna Season’s Greetings Drawing Day\n\n🔗 https://t.co/eQQgjrMKkX\n\n#Antenna #시즌그리팅 #SeasonsGreetings\n#HelloAntenna_Hello2022 https://t.co/loNiVyYtl5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "SeasonsGreetings",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "HelloAntenna_Hello2022",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eQQgjrMKkX",
+					"expanded_url": "https://youtu.be/vtmUpm3bzA8",
+					"display_url": "youtu.be/vtmUpm3bzA8",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469152117357428700,
+					"id_str": "1469152117357428736",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FGN6fF5aMAYgqd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGN6fF5aMAYgqd-.jpg",
+					"url": "https://t.co/loNiVyYtl5",
+					"display_url": "pic.twitter.com/loNiVyYtl5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469154974391504897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469152117357428700,
+					"id_str": "1469152117357428736",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FGN6fF5aMAYgqd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGN6fF5aMAYgqd-.jpg",
+					"url": "https://t.co/loNiVyYtl5",
+					"display_url": "pic.twitter.com/loNiVyYtl5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469154974391504897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60194,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469152117357428736/vid/1280x720/NHQYrKEl5IMCIMN5.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469152117357428736/vid/640x360/thIvHApC54SM6xy1.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469152117357428736/vid/480x270/krqHLpMW9f2A1yjh.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469152117357428736/pl/E3T8KauByKIaV6xh.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "2022 안테나 시즌그리팅 그림 그리기🎨 Antenna Season’s Greetings Drawing Day",
+						"description": "💛Antenna 2022 Season’s Greetings💛",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/vtmUpm3bzA8"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39725,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #안테나\n\n💛Antenna 2022 Season’s Greetings💛\n\n2022 안테나 시즌그리팅 그림 그리기🎨\nAntenna Season’s Greetings Drawing Day\n\n🔗 https://t.co/eQQgjrMKkX\n\n#Antenna #시즌그리팅 #SeasonsGreetings\n#HelloAntenna_Hello2022 https://t.co/loNiVyYtl5"
+	},
+	{
+		"created_at": "Fri Dec 10 04:29:36 +0000 2021",
+		"id": 1469154094678175700,
+		"id_str": "1469162356752232448",
+		"full_text": "💥오!데빌킹💥\n라이브씬 최강 에너자이저 밴드들의 “우정의 무대” 🙌🙌\n2021년 12월 11일(토) PM7\n클럽 샤프\n\n오칠\n데드버튼즈\n빌리카터\n드링킹소년소녀합창단\n\n*소량의 취소표가 있어 예매 가능합니다👉\nhttps://t.co/ImIpwC9lzY https://t.co/qCtCwuJxHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ImIpwC9lzY",
+					"expanded_url": "https://bit.ly/3xae9jo",
+					"display_url": "bit.ly/3xae9jo",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469153799419748400,
+					"id_str": "1469153799419748352",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FGN7mL7UYAAbF3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGN7mL7UYAAbF3U.jpg",
+					"url": "https://t.co/qCtCwuJxHq",
+					"display_url": "pic.twitter.com/qCtCwuJxHq",
+					"expanded_url": "https://twitter.com/electric_muse/status/1469154094678175745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469153799419748400,
+					"id_str": "1469153799419748352",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FGN7mL7UYAAbF3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGN7mL7UYAAbF3U.jpg",
+					"url": "https://t.co/qCtCwuJxHq",
+					"display_url": "pic.twitter.com/qCtCwuJxHq",
+					"expanded_url": "https://twitter.com/electric_muse/status/1469154094678175745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469153799415623700,
+					"id_str": "1469153799415623681",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FGN7mL6VcAEbvrz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGN7mL6VcAEbvrz.jpg",
+					"url": "https://t.co/qCtCwuJxHq",
+					"display_url": "pic.twitter.com/qCtCwuJxHq",
+					"expanded_url": "https://twitter.com/electric_muse/status/1469154094678175745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3337,
+			"friends_count": 1296,
+			"listed_count": 105,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💥오!데빌킹💥\n라이브씬 최강 에너자이저 밴드들의 “우정의 무대” 🙌🙌\n2021년 12월 11일(토) PM7\n클럽 샤프\n\n오칠\n데드버튼즈\n빌리카터\n드링킹소년소녀합창단\n\n*소량의 취소표가 있어 예매 가능합니다👉\nhttps://t.co/ImIpwC9lzY https://t.co/qCtCwuJxHq"
+	},
+	{
+		"created_at": "Fri Dec 10 04:29:31 +0000 2021",
+		"id": 1469148247600279600,
+		"id_str": "1469162334958534656",
+		"full_text": "#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#밤새서로미루다챌린지\n#StayDuetChallenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "JeonMido",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "Stay",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "밤새서로미루다챌린지",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"text": "StayDuetChallenge",
+					"indices": [
+						56,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469148173902151700,
+		"in_reply_to_status_id_str": "1469148173902151689",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9090,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay\n#밤새서로미루다챌린지\n#StayDuetChallenge"
+	},
+	{
 		"created_at": "Fri Dec 10 03:29:55 +0000 2021",
 		"id": 1469144596597084200,
 		"id_str": "1469147339633967109",
