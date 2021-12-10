@@ -1,6 +1,945 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 03:29:55 +0000 2021",
+		"id": 1469144596597084200,
+		"id_str": "1469147339633967109",
+		"full_text": "[New Release/ 동표사신보] \n\n신한태와 레게소울 (Shin HanTae &amp; The Reggae Soul)- Broke Pocket Christmas (Single) \n\n🎄iTunes, Spotify  https://t.co/ksLcgRAVkq\n🎄Bugs https://t.co/Q3WmUvgnGp\n🎄Melon  https://t.co/4CgoaK64m0\n🎄YouTube https://t.co/XbpQlZry9U https://t.co/jYmfznvzwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ksLcgRAVkq",
+					"expanded_url": "https://ampl.ink/n22xG",
+					"display_url": "ampl.ink/n22xG",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/Q3WmUvgnGp",
+					"expanded_url": "https://bit.ly/3EMjzUI",
+					"display_url": "bit.ly/3EMjzUI",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/4CgoaK64m0",
+					"expanded_url": "https://bit.ly/3IxK8iV",
+					"display_url": "bit.ly/3IxK8iV",
+					"indices": [
+						184,
+						207
+					]
+				},
+				{
+					"url": "https://t.co/XbpQlZry9U",
+					"expanded_url": "https://bit.ly/3lS6qSt",
+					"display_url": "bit.ly/3lS6qSt",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469144512815534000,
+					"id_str": "1469144512815534080",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469144512815534080/pu/img/UB7Yi7qnqG4_o_tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469144512815534080/pu/img/UB7Yi7qnqG4_o_tj.jpg",
+					"url": "https://t.co/jYmfznvzwL",
+					"display_url": "pic.twitter.com/jYmfznvzwL",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1469144596597084160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469144512815534000,
+					"id_str": "1469144512815534080",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469144512815534080/pu/img/UB7Yi7qnqG4_o_tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469144512815534080/pu/img/UB7Yi7qnqG4_o_tj.jpg",
+					"url": "https://t.co/jYmfznvzwL",
+					"display_url": "pic.twitter.com/jYmfznvzwL",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1469144596597084160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469144512815534080/pu/vid/640x360/kz_YtuBhb-9PUN0C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469144512815534080/pu/pl/Qkglw6drjtyFTasS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469144512815534080/pu/vid/1280x720/NJ9Av9A7V8Fw9uEN.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469144512815534080/pu/vid/480x270/myRgVoQ4AZoydKjs.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6Mhbnr1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6Mhbnr1",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 1763,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1639106577",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Release/ 동표사신보] \n\n신한태와 레게소울 (Shin HanTae &amp; The Reggae Soul)- Broke Pocket Christmas (Single) \n\n🎄iTunes, Spotify  https://t.co/ksLcgRAVkq\n🎄Bugs https://t.co/Q3WmUvgnGp\n🎄Melon  https://t.co/4CgoaK64m0\n🎄YouTube https://t.co/XbpQlZry9U https://t.co/jYmfznvzwL"
+	},
+	{
+		"created_at": "Fri Dec 10 03:29:51 +0000 2021",
+		"id": 1469143037595254800,
+		"id_str": "1469147322386989059",
+		"full_text": "9초라서 미안해요🥲\n그치만 이번 노래들 다 타이틀감이라 조금씩 미리 들려 드리고 싶었어요 ☺️💙💙",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 323,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1638329097",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "9초라서 미안해요🥲\n그치만 이번 노래들 다 타이틀감이라 조금씩 미리 들려 드리고 싶었어요 ☺️💙💙"
+	},
+	{
+		"created_at": "Fri Dec 10 03:29:49 +0000 2021",
+		"id": 1469141491058876400,
+		"id_str": "1469147313474084871",
+		"full_text": "D -13\n9와 숫자들 [Totally Blue] \n9초 미리듣기!\n21.12.23.12pm.\nTrack 1. 나들의 날들 \n\n#9와숫자들 #토털리블루 #나들의날들 #트랙_1 #9andthenumbers #totally_blue #release @9andthenumbers https://t.co/F0RUJU9xnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "토털리블루",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "나들의날들",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "트랙_1",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "9andthenumbers",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"text": "totally_blue",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "9andthenumbers",
+					"name": "9와 숫자들 '토털리 블루' (12/23 발매)",
+					"id": 118578410,
+					"id_str": "118578410",
+					"indices": [
+						137,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469141476604973000,
+					"id_str": "1469141476604973060",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469141476604973060/pu/img/3W2Eg4qSVEs0nqvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469141476604973060/pu/img/3W2Eg4qSVEs0nqvZ.jpg",
+					"url": "https://t.co/F0RUJU9xnU",
+					"display_url": "pic.twitter.com/F0RUJU9xnU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1469141491058876419/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469141476604973000,
+					"id_str": "1469141476604973060",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469141476604973060/pu/img/3W2Eg4qSVEs0nqvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469141476604973060/pu/img/3W2Eg4qSVEs0nqvZ.jpg",
+					"url": "https://t.co/F0RUJU9xnU",
+					"display_url": "pic.twitter.com/F0RUJU9xnU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1469141491058876419/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9033,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469141476604973060/pu/pl/gkeeTXRVh3JqVKdD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469141476604973060/pu/vid/320x320/LFvUMQShvBVgXVsC.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469141476604973060/pu/vid/720x720/6N6itCCaToF4IjZn.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469141476604973060/pu/vid/540x540/7TFb_pF2koMXYp2q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 323,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1638329097",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D -13\n9와 숫자들 [Totally Blue] \n9초 미리듣기!\n21.12.23.12pm.\nTrack 1. 나들의 날들 \n\n#9와숫자들 #토털리블루 #나들의날들 #트랙_1 #9andthenumbers #totally_blue #release @9andthenumbers https://t.co/F0RUJU9xnU"
+	},
+	{
+		"created_at": "Fri Dec 10 03:29:42 +0000 2021",
+		"id": 1469140245577109500,
+		"id_str": "1469147283539337221",
+		"full_text": "#Antenna #시즌그리팅 #SeasonsGreetings\n#HelloAntenna_Hello2022\n\n#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Antenna",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "SeasonsGreetings",
+					"indices": [
+						16,
+						33
+					]
+				},
+				{
+					"text": "HelloAntenna_Hello2022",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "박새별",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "서동환",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469140243802890200,
+		"in_reply_to_status_id_str": "1469140243802890243",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39723,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#Antenna #시즌그리팅 #SeasonsGreetings\n#HelloAntenna_Hello2022\n\n#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환"
+	},
+	{
+		"created_at": "Fri Dec 10 03:29:33 +0000 2021",
+		"id": 1469140243802890200,
+		"id_str": "1469147245253697548",
+		"full_text": "누구나 그릴 수 있고 나도 할 수 있다는 자신감이 생긴다면 더욱이 좋겠습니다.\n\n안테나는 좋은 사람들이 모여 좋은 음악과 좋은 웃음을 전할 수 있도록 계속해서 최선을 다하겠습니다. 모두 포근한 연말 되세요. 2022년도 안테나와 함께!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469140242594922500,
+		"in_reply_to_status_id_str": "1469140242594922496",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39723,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "누구나 그릴 수 있고 나도 할 수 있다는 자신감이 생긴다면 더욱이 좋겠습니다.\n\n안테나는 좋은 사람들이 모여 좋은 음악과 좋은 웃음을 전할 수 있도록 계속해서 최선을 다하겠습니다. 모두 포근한 연말 되세요. 2022년도 안테나와 함께!"
+	},
+	{
 		"created_at": "Fri Dec 10 02:29:32 +0000 2021",
 		"id": 1469131588978241500,
 		"id_str": "1469132140675743746",
