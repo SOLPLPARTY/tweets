@@ -1,6 +1,1960 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 12:09:08 +0000 2021",
+		"id": 1469278003662315500,
+		"id_str": "1469278003662315524",
+		"full_text": "#딩고뮤직 #dingo_music\n물 맞으시죠…? 술 아니죠…? #shorts\nhttps://t.co/ukEfe0C7Z5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ukEfe0C7Z5",
+					"expanded_url": "https://youtu.be/meHa9sfLaLc",
+					"display_url": "youtu.be/meHa9sfLaLc",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n물 맞으시죠…? 술 아니죠…? #shorts\nhttps://t.co/ukEfe0C7Z5"
+	},
+	{
+		"created_at": "Fri Dec 10 11:29:36 +0000 2021",
+		"id": 1469261622200119300,
+		"id_str": "1469268054571950080",
+		"full_text": "[#Teaser] #정승환\n\n정승환 Single ‘별 (Dear)’\nJung Seung Hwan Single ‘Dear’\n⠀\n💫 Voice Trailer\n⠀\n2021. 12. 16. 6PM Release\n\n#JungSeungHwan #별 #Dear\n#20211216_6PM https://t.co/MBkK9oC9Wy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"text": "별",
+					"indices": [
+						130,
+						132
+					]
+				},
+				{
+					"text": "Dear",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "20211216_6PM",
+					"indices": [
+						139,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469261334608945200,
+					"id_str": "1469261334608945153",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469261334608945153/pu/img/LozeKNmJIqoQNep9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469261334608945153/pu/img/LozeKNmJIqoQNep9.jpg",
+					"url": "https://t.co/MBkK9oC9Wy",
+					"display_url": "pic.twitter.com/MBkK9oC9Wy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469261622200119303/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469261334608945200,
+					"id_str": "1469261334608945153",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469261334608945153/pu/img/LozeKNmJIqoQNep9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469261334608945153/pu/img/LozeKNmJIqoQNep9.jpg",
+					"url": "https://t.co/MBkK9oC9Wy",
+					"display_url": "pic.twitter.com/MBkK9oC9Wy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469261622200119303/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50784,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469261334608945153/pu/pl/STZvnX_5SN_dKqjM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469261334608945153/pu/vid/1280x720/Bn7qkYm_7rdPjvRQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469261334608945153/pu/vid/480x270/50dXAFgB3flqwqVi.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469261334608945153/pu/vid/640x360/IIwx3LX-56mfgxSU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39743,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #정승환\n\n정승환 Single ‘별 (Dear)’\nJung Seung Hwan Single ‘Dear’\n⠀\n💫 Voice Trailer\n⠀\n2021. 12. 16. 6PM Release\n\n#JungSeungHwan #별 #Dear\n#20211216_6PM https://t.co/MBkK9oC9Wy"
+	},
+	{
+		"created_at": "Fri Dec 10 11:29:34 +0000 2021",
+		"id": 1469256439193809000,
+		"id_str": "1469268045596176390",
+		"full_text": "[#별은] 앨범 커버 공개🎂\n\nD-day 5\nDigital Single '생일 축하해'\n별은 (with. 정유빈)\n\nRELEASE ON\n2021.12.15. 12PM (KST)\n\n#별은 #BYEOLEUN\n#정유빈 #JEONGYUBIN\n#생일축하해 #Happy_Birthday https://t.co/MsEwqlXAFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "별은",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "별은",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "BYEOLEUN",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "정유빈",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "JEONGYUBIN",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"text": "생일축하해",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "Happy_Birthday",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469256432528683000,
+					"id_str": "1469256432528683009",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPY8ODUcAEDBeA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPY8ODUcAEDBeA.jpg",
+					"url": "https://t.co/MsEwqlXAFm",
+					"display_url": "pic.twitter.com/MsEwqlXAFm",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1469256439193808897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469256432528683000,
+					"id_str": "1469256432528683009",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPY8ODUcAEDBeA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPY8ODUcAEDBeA.jpg",
+					"url": "https://t.co/MsEwqlXAFm",
+					"display_url": "pic.twitter.com/MsEwqlXAFm",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1469256439193808897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1972,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#별은] 앨범 커버 공개🎂\n\nD-day 5\nDigital Single '생일 축하해'\n별은 (with. 정유빈)\n\nRELEASE ON\n2021.12.15. 12PM (KST)\n\n#별은 #BYEOLEUN\n#정유빈 #JEONGYUBIN\n#생일축하해 #Happy_Birthday https://t.co/MsEwqlXAFm"
+	},
+	{
+		"created_at": "Fri Dec 10 11:29:25 +0000 2021",
+		"id": 1469253137043423200,
+		"id_str": "1469268007339843585",
+		"full_text": "[#Video] #루시드폴\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 도산공원 날라리 - 루시드폴 직캠\n🔗 https://t.co/rle3eeABKH\n\n@lucid_fall_jo\n#LucidFall #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/u4FduABWul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						179,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rle3eeABKH",
+					"expanded_url": "https://youtu.be/vFLEAbekoT4",
+					"display_url": "youtu.be/vFLEAbekoT4",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469250135071015000,
+					"id_str": "1469250135071014917",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPTgj-akAIZl8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPTgj-akAIZl8b.jpg",
+					"url": "https://t.co/u4FduABWul",
+					"display_url": "pic.twitter.com/u4FduABWul",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469253137043423235/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469250135071015000,
+					"id_str": "1469250135071014917",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPTgj-akAIZl8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPTgj-akAIZl8b.jpg",
+					"url": "https://t.co/u4FduABWul",
+					"display_url": "pic.twitter.com/u4FduABWul",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469253137043423235/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10188,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469250135071014917/vid/720x1280/fOi9BNBU6QUdYFdq.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469250135071014917/pl/_NOM_dya9adg-KOn.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469250135071014917/vid/320x568/8mBDlDIWADhaWOxc.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469250135071014917/vid/480x852/QdEb6C2C7dYvUXtD.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[안테나CAM] 도산공원 날라리 - 루시드폴 직캠",
+						"description": "카카오TV 오리지널 <더듬이TV : 우당탕탕 안테나>\n슈퍼 새가수 뭐하니 가요제",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/vFLEAbekoT4"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39743,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #루시드폴\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 도산공원 날라리 - 루시드폴 직캠\n🔗 https://t.co/rle3eeABKH\n\n@lucid_fall_jo\n#LucidFall #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/u4FduABWul"
+	},
+	{
+		"created_at": "Fri Dec 10 10:29:39 +0000 2021",
+		"id": 1469249395296456700,
+		"id_str": "1469252967421423617",
+		"full_text": "[#Video] #정승환\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 도산공원 날라리 - 정승환 직캠\n🔗 https://t.co/w4FYMdf6zm\n\n#JungSeungHwan #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/mb1iSeDO9q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w4FYMdf6zm",
+					"expanded_url": "https://youtu.be/UCli04RwKOQ",
+					"display_url": "youtu.be/UCli04RwKOQ",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469247848546193400,
+					"id_str": "1469247848546193409",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPRTtraUAITIuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPRTtraUAITIuO.jpg",
+					"url": "https://t.co/mb1iSeDO9q",
+					"display_url": "pic.twitter.com/mb1iSeDO9q",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469249395296456704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469247848546193400,
+					"id_str": "1469247848546193409",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPRTtraUAITIuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPRTtraUAITIuO.jpg",
+					"url": "https://t.co/mb1iSeDO9q",
+					"display_url": "pic.twitter.com/mb1iSeDO9q",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469249395296456704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10181,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469247848546193409/pl/MedwBVlwILuo_TJR.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469247848546193409/vid/320x568/DAbE16oGA6sK3tyZ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469247848546193409/vid/720x1280/GRmKG44UzwY2yNpO.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469247848546193409/vid/480x852/11e-Jb0mTcOyn0fl.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[안테나CAM] 도산공원 날라리 - 정승환 직캠",
+						"description": "카카오TV 오리지널 <더듬이TV : 우당탕탕 안테나>\n슈퍼 새가수 뭐하니 가요제",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/UCli04RwKOQ"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39743,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 도산공원 날라리 - 정승환 직캠\n🔗 https://t.co/w4FYMdf6zm\n\n#JungSeungHwan #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/mb1iSeDO9q"
+	},
+	{
+		"created_at": "Fri Dec 10 10:29:35 +0000 2021",
+		"id": 1469246062557024300,
+		"id_str": "1469252950115692550",
+		"full_text": "[#권혁수] [#백돌이대탈출]\n\n백돌이 대탈출 덕분에 실력 느는 과녁수와\n회장님 골프급 관리 받는 모르고\n마지막에 우승 상품을 가져가는 팀은?!\n\n#백돌이대탈출_부캐골프시대 에서 확인🥰\n\n👉 https://t.co/dyhftdOuT7\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #마르코 #최수임 #조현 #안수빈 https://t.co/wJXAVHqgeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "마르코",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "최수임",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "조현",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "안수빈",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyhftdOuT7",
+					"expanded_url": "https://youtu.be/8-wiR1jLNIs",
+					"display_url": "youtu.be/8-wiR1jLNIs",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469246027433529300,
+					"id_str": "1469246027433529344",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPPekDUUAAX2Ly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPPekDUUAAX2Ly.jpg",
+					"url": "https://t.co/wJXAVHqgeI",
+					"display_url": "pic.twitter.com/wJXAVHqgeI",
+					"expanded_url": "https://twitter.com/humap_official/status/1469246062557024257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469246027433529300,
+					"id_str": "1469246027433529344",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPPekDUUAAX2Ly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPPekDUUAAX2Ly.jpg",
+					"url": "https://t.co/wJXAVHqgeI",
+					"display_url": "pic.twitter.com/wJXAVHqgeI",
+					"expanded_url": "https://twitter.com/humap_official/status/1469246062557024257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#백돌이대탈출]\n\n백돌이 대탈출 덕분에 실력 느는 과녁수와\n회장님 골프급 관리 받는 모르고\n마지막에 우승 상품을 가져가는 팀은?!\n\n#백돌이대탈출_부캐골프시대 에서 확인🥰\n\n👉 https://t.co/dyhftdOuT7\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #골프 #마르코 #최수임 #조현 #안수빈 https://t.co/wJXAVHqgeI"
+	},
+	{
+		"created_at": "Fri Dec 10 10:29:33 +0000 2021",
+		"id": 1469245581138985000,
+		"id_str": "1469252941244768262",
+		"full_text": "[#Video] #윤석철\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 도산공원 날라리 - 윤석철 직캠\n🔗 https://t.co/RIF1LFYznU\n\n@SCJAZZY\n#YunSeokCheol #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/mVDOUC78Eu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RIF1LFYznU",
+					"expanded_url": "https://youtu.be/aG2kmOmgNIE",
+					"display_url": "youtu.be/aG2kmOmgNIE",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469244100742619100,
+					"id_str": "1469244100742619141",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPN7WxaAAMvWvg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPN7WxaAAMvWvg.jpg",
+					"url": "https://t.co/mVDOUC78Eu",
+					"display_url": "pic.twitter.com/mVDOUC78Eu",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469245581138984962/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469244100742619100,
+					"id_str": "1469244100742619141",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPN7WxaAAMvWvg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPN7WxaAAMvWvg.jpg",
+					"url": "https://t.co/mVDOUC78Eu",
+					"display_url": "pic.twitter.com/mVDOUC78Eu",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469245581138984962/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10349,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469244100742619141/vid/480x852/YjYZhkjlj8x_NRSw.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469244100742619141/vid/320x568/q6REXfutBwo-R2D0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469244100742619141/pl/1hQxZ6-nMTfGlVVs.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469244100742619141/vid/720x1280/12mWYaxDt8ykmZ7E.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[안테나CAM] 도산공원 날라리 - 윤석철 직캠",
+						"description": "카카오TV 오리지널 <더듬이TV : 우당탕탕 안테나>\n슈퍼 새가수 뭐하니 가요제",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/aG2kmOmgNIE"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39743,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #윤석철\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 도산공원 날라리 - 윤석철 직캠\n🔗 https://t.co/RIF1LFYznU\n\n@SCJAZZY\n#YunSeokCheol #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/mVDOUC78Eu"
+	},
+	{
+		"created_at": "Fri Dec 10 10:29:31 +0000 2021",
+		"id": 1469244964362416000,
+		"id_str": "1469252932327682054",
+		"full_text": "[#윤종신] 콘서트 'BIRDMAN' 공연 추가 오픈 안내✔\n\n📌공연일시 및 장소\n수원 : 2022. 01. 08 (SAT) 6PM\n         @경기아트센터 대극장\n\n📌예매 및 문의처\n인터파크\n\n#YoonJongshin #콘서트 #BIRDMAN https://t.co/1j5hxc2evs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "BIRDMAN",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469244734006644700,
+					"id_str": "1469244734006644737",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOTRqUUAEKxZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOTRqUUAEKxZM.jpg",
+					"url": "https://t.co/1j5hxc2evs",
+					"display_url": "pic.twitter.com/1j5hxc2evs",
+					"expanded_url": "https://twitter.com/themysticstory/status/1469244964362416131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469244734006644700,
+					"id_str": "1469244734006644737",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPOTRqUUAEKxZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPOTRqUUAEKxZM.jpg",
+					"url": "https://t.co/1j5hxc2evs",
+					"display_url": "pic.twitter.com/1j5hxc2evs",
+					"expanded_url": "https://twitter.com/themysticstory/status/1469244964362416131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462949017831108600,
+		"in_reply_to_status_id_str": "1462949017831108612",
+		"in_reply_to_user_id": 486655058,
+		"in_reply_to_user_id_str": "486655058",
+		"in_reply_to_screen_name": "themysticstory",
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32231,
+			"friends_count": 15,
+			"listed_count": 268,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 콘서트 'BIRDMAN' 공연 추가 오픈 안내✔\n\n📌공연일시 및 장소\n수원 : 2022. 01. 08 (SAT) 6PM\n         @경기아트센터 대극장\n\n📌예매 및 문의처\n인터파크\n\n#YoonJongshin #콘서트 #BIRDMAN https://t.co/1j5hxc2evs"
+	},
+	{
 		"created_at": "Fri Dec 10 09:29:52 +0000 2021",
 		"id": 1469233972492537900,
 		"id_str": "1469237920724885505",
