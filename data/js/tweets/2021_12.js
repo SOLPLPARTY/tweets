@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 09:29:52 +0000 2021",
+		"id": 1469233972492537900,
+		"id_str": "1469237920724885505",
+		"full_text": "[윤현상]\n윤현상의 T Factory X FLO!\n'끝 글자' 라이브가 공개되었습니다.\n아래 링크를 통해 감상하실 수 있습니다!\n\n▶ https://t.co/lylXqMMKnf\n\n#윤현상 #live #음악 #music #노래 #끝글자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤현상",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "끝글자",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lylXqMMKnf",
+					"expanded_url": "https://bit.ly/31RCXRL",
+					"display_url": "bit.ly/31RCXRL",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 858,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[윤현상]\n윤현상의 T Factory X FLO!\n'끝 글자' 라이브가 공개되었습니다.\n아래 링크를 통해 감상하실 수 있습니다!\n\n▶ https://t.co/lylXqMMKnf\n\n#윤현상 #live #음악 #music #노래 #끝글자"
+	},
+	{
+		"created_at": "Fri Dec 10 09:29:47 +0000 2021",
+		"id": 1469233676651479000,
+		"id_str": "1469237903452741635",
+		"full_text": "[ mmddyy ]\n\nmmddyy (맨디) - Trippy\n2021. 12. 12. SUN 12PM (KST)\n\nYoutube : https://t.co/QIElDtWSe9\n\n#mmddyy #맨디\n#Trippy #트리피\n#팩토리컴퍼니 #PAKTORY #PAKTORYCOMPANY \n#Teaser #티저",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mmddyy",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "맨디",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "Trippy",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "트리피",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "PAKTORY",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "티저",
+					"indices": [
+						165,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QIElDtWSe9",
+					"expanded_url": "https://youtu.be/GH2lec9g_xI",
+					"display_url": "youtu.be/GH2lec9g_xI",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "[ mmddyy ]\n\nmmddyy (맨디) - Trippy\n2021. 12. 12. SUN 12PM (KST)\n\nYoutube : https://t.co/QIElDtWSe9\n\n#mmddyy #맨디\n#Trippy #트리피\n#팩토리컴퍼니 #PAKTORY #PAKTORYCOMPANY \n#Teaser #티저"
+	},
+	{
+		"created_at": "Fri Dec 10 09:29:41 +0000 2021",
+		"id": 1469233425190367200,
+		"id_str": "1469237877859094528",
+		"full_text": "https://t.co/BZxubyqiVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BZxubyqiVB",
+					"expanded_url": "https://www.youtube.com/watch?v=Tbl7ULj1-7Q",
+					"display_url": "youtube.com/watch?v=Tbl7UL…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469233391833084000,
+		"in_reply_to_status_id_str": "1469233391833083912",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3972,
+			"friends_count": 9,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BZxubyqiVB"
+	},
+	{
+		"created_at": "Fri Dec 10 09:29:39 +0000 2021",
+		"id": 1469233391833084000,
+		"id_str": "1469237867750768645",
+		"full_text": "through love REMIX by HYUKOH, Nosaj Thing, Chang Kiha, Sunset Rollercoaster, IDIOTAPE is out now!\n\n01 World of the Forgotten (Nosaj Thing Remix)\n02 Silverhair Express (장기하 Remix)\n03 Sunset Rollercoaster - Help (Sunset Rollercoaster 落日飛車 Remake)\n04 Help (IDIOTAPE Remix)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3972,
+			"friends_count": 9,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "through love REMIX by HYUKOH, Nosaj Thing, Chang Kiha, Sunset Rollercoaster, IDIOTAPE is out now!\n\n01 World of the Forgotten (Nosaj Thing Remix)\n02 Silverhair Express (장기하 Remix)\n03 Sunset Rollercoaster - Help (Sunset Rollercoaster 落日飛車 Remake)\n04 Help (IDIOTAPE Remix)"
+	},
+	{
+		"created_at": "Fri Dec 10 09:29:33 +0000 2021",
+		"id": 1469232133910966300,
+		"id_str": "1469237842064850945",
+		"full_text": "&lt;2주의 가든 :11&gt; Tangled [Original Song by 검정치마(The Black Skirts)] 라이브 클립이 공개되었습니다. 풀버전은 카더가든 공식 유튜브 채널에서 확인하실 수 있습니다.\n\nhttps://t.co/yCO6R4mery 출처 @YouTube https://t.co/HQEenRUkZM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						149,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yCO6R4mery",
+					"expanded_url": "https://youtu.be/9Z2gKfX8xUc",
+					"display_url": "youtu.be/9Z2gKfX8xUc",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469231756033228800,
+					"id_str": "1469231756033228805",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469231756033228805/pu/img/c91893T8LfBAAd_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469231756033228805/pu/img/c91893T8LfBAAd_W.jpg",
+					"url": "https://t.co/HQEenRUkZM",
+					"display_url": "pic.twitter.com/HQEenRUkZM",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1469232133910966272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469231756033228800,
+					"id_str": "1469231756033228805",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469231756033228805/pu/img/c91893T8LfBAAd_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469231756033228805/pu/img/c91893T8LfBAAd_W.jpg",
+					"url": "https://t.co/HQEenRUkZM",
+					"display_url": "pic.twitter.com/HQEenRUkZM",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1469232133910966272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60226,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469231756033228805/pu/pl/HgRK5adibeGASGzb.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469231756033228805/pu/vid/480x270/_SrqIAlDq7EzDjau.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469231756033228805/pu/vid/640x360/8Zb3ptvs6elYvevU.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469231756033228805/pu/vid/1280x720/WYMNR5pzqSjKq6I6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3972,
+			"friends_count": 9,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2주의 가든 :11&gt; Tangled [Original Song by 검정치마(The Black Skirts)] 라이브 클립이 공개되었습니다. 풀버전은 카더가든 공식 유튜브 채널에서 확인하실 수 있습니다.\n\nhttps://t.co/yCO6R4mery 출처 @YouTube https://t.co/HQEenRUkZM"
+	},
+	{
 		"created_at": "Fri Dec 10 09:14:50 +0000 2021",
 		"id": 1469234138867712000,
 		"id_str": "1469234138867712005",
@@ -420,7 +1157,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Fri Dec 10 08:29:30 +0000 2021",
 		"id": 1469215475792232400,
 		"id_str": "1469222728687403009",
-		"full_text": "[#Video] #안테나\n\n&lt;10-2회. 슈퍼 새가수 뭐하니 가요제 : 📢 [우당테나 단독 입수] 안테나, 👱‍♀️외국인 멤버 영입설⁉️ 🔥첫 무대부터 킹받음주의💢&gt;\n\n▶️ https://t.co/FG6kNaNnwy\n\n매주 월, 금 오후 5시 공개!📡✨\n#카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#더듬이TV #우당탕탕안테나 https://t.co/K4vg0d25aI",
+		"full_text": "[#Video] #안테나\n\n&lt;10-2회. 슈퍼 새가수 뭐하니 가요제 : 📢 [우당테나 단독 입수] 안테나, 👱♀️외국인 멤버 영입설⁉️ 🔥첫 무대부터 킹받음주의💢&gt;\n\n▶️ https://t.co/FG6kNaNnwy\n\n매주 월, 금 오후 5시 공개!📡✨\n#카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#더듬이TV #우당탕탕안테나 https://t.co/K4vg0d25aI",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -666,7 +1403,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#Video] #안테나\n\n&lt;10-2회. 슈퍼 새가수 뭐하니 가요제 : 📢 [우당테나 단독 입수] 안테나, 👱‍♀️외국인 멤버 영입설⁉️ 🔥첫 무대부터 킹받음주의💢&gt;\n\n▶️ https://t.co/FG6kNaNnwy\n\n매주 월, 금 오후 5시 공개!📡✨\n#카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#더듬이TV #우당탕탕안테나 https://t.co/K4vg0d25aI"
+		"text": "[#Video] #안테나\n\n&lt;10-2회. 슈퍼 새가수 뭐하니 가요제 : 📢 [우당테나 단독 입수] 안테나, 👱♀️외국인 멤버 영입설⁉️ 🔥첫 무대부터 킹받음주의💢&gt;\n\n▶️ https://t.co/FG6kNaNnwy\n\n매주 월, 금 오후 5시 공개!📡✨\n#카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#더듬이TV #우당탕탕안테나 https://t.co/K4vg0d25aI"
 	},
 	{
 		"created_at": "Fri Dec 10 07:29:37 +0000 2021",
