@@ -1,6 +1,1115 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 06:02:30 +0000 2021",
+		"id": 1469185738894114800,
+		"id_str": "1469185738894114820",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n유뮤코 크리스마스 맞이 🎰슬롯머신 이벤-트 ( •͈ᴗ-)ᓂ-ෆ (※LP 증정※)\nhttps://t.co/Nbwax8Ae1a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nbwax8Ae1a",
+					"expanded_url": "https://youtu.be/HmcUuHQ9ukQ",
+					"display_url": "youtu.be/HmcUuHQ9ukQ",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n유뮤코 크리스마스 맞이 🎰슬롯머신 이벤-트 ( •͈ᴗ-)ᓂ-ෆ (※LP 증정※)\nhttps://t.co/Nbwax8Ae1a"
+	},
+	{
+		"created_at": "Fri Dec 10 05:29:46 +0000 2021",
+		"id": 1469175604369309700,
+		"id_str": "1469177498856534020",
+		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n존박이 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/0rfrQMXWUd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듀엣챌린지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "밤새서로미루다챌린지",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"text": "StayDuetChallenge",
+					"indices": [
+						164,
+						182
+					]
+				},
+				{
+					"text": "존미도_밤새서로미루다",
+					"indices": [
+						183,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8m4NPbeMxs",
+					"expanded_url": "http://bit.ly/3Iyjgzc",
+					"display_url": "bit.ly/3Iyjgzc",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/5MLqD8lOtG",
+					"expanded_url": "http://bit.ly/3lRrqsy",
+					"display_url": "bit.ly/3lRrqsy",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469175546500108300,
+					"id_str": "1469175546500108290",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469175546500108290/pu/img/QeYpUyhLMRPFeFZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469175546500108290/pu/img/QeYpUyhLMRPFeFZZ.jpg",
+					"url": "https://t.co/0rfrQMXWUd",
+					"display_url": "pic.twitter.com/0rfrQMXWUd",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469175604369309700/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469175546500108300,
+					"id_str": "1469175546500108290",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469175546500108290/pu/img/QeYpUyhLMRPFeFZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469175546500108290/pu/img/QeYpUyhLMRPFeFZZ.jpg",
+					"url": "https://t.co/0rfrQMXWUd",
+					"display_url": "pic.twitter.com/0rfrQMXWUd",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469175604369309700/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							203,
+							180
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469175546500108290/pu/vid/304x270/gnNYS3_MRk8voCgx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469175546500108290/pu/pl/UzWfW8Cix7whE7SR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469175546500108290/pu/vid/812x720/FwVMawMoypCdlXlR.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469175546500108290/pu/vid/406x360/nNfi5ViPGt3oKs2O.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9090,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n존박이 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/0rfrQMXWUd"
+	},
+	{
+		"created_at": "Fri Dec 10 05:29:38 +0000 2021",
+		"id": 1469175527038926800,
+		"id_str": "1469177464811368452",
+		"full_text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n전미도가 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/NBxYXm5756",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듀엣챌린지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "밤새서로미루다챌린지",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "StayDuetChallenge",
+					"indices": [
+						165,
+						183
+					]
+				},
+				{
+					"text": "존미도_밤새서로미루다",
+					"indices": [
+						184,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8m4NPbeMxs",
+					"expanded_url": "http://bit.ly/3Iyjgzc",
+					"display_url": "bit.ly/3Iyjgzc",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/5MLqD8lOtG",
+					"expanded_url": "http://bit.ly/3lRrqsy",
+					"display_url": "bit.ly/3lRrqsy",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469175454284144600,
+					"id_str": "1469175454284144640",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469175454284144640/pu/img/AHp4K_ks6J6ryViA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469175454284144640/pu/img/AHp4K_ks6J6ryViA.jpg",
+					"url": "https://t.co/NBxYXm5756",
+					"display_url": "pic.twitter.com/NBxYXm5756",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469175527038926854/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469175454284144600,
+					"id_str": "1469175454284144640",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469175454284144640/pu/img/AHp4K_ks6J6ryViA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469175454284144640/pu/img/AHp4K_ks6J6ryViA.jpg",
+					"url": "https://t.co/NBxYXm5756",
+					"display_url": "pic.twitter.com/NBxYXm5756",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469175527038926854/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							203,
+							180
+						],
+						"duration_millis": 43200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469175454284144640/pu/vid/406x360/RSembh2QeQxsa-u8.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469175454284144640/pu/pl/pl5CUf099be0pWw-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469175454284144640/pu/vid/304x270/f5s7770LQ5b6w2pM.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469175454284144640/pu/vid/812x720/VtbNFPv6NZrKlobR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9090,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듀엣챌린지\n존박, 전미도 ‘밤새 서로 미루다’ \n\n전미도가 직접 참여한 듀엣🎙\n#밤새서로미루다 여러분도 함께 불러요🙋‍♂️🙋‍♀️\n\nDuet With #존박📱https://t.co/8m4NPbeMxs\nDuet With #전미도📱https://t.co/5MLqD8lOtG\n\n#밤새서로미루다챌린지\n#StayDuetChallenge\n#존미도_밤새서로미루다 https://t.co/NBxYXm5756"
+	},
+	{
+		"created_at": "Fri Dec 10 05:29:33 +0000 2021",
+		"id": 1469167879157616600,
+		"id_str": "1469177443386896386",
+		"full_text": "“이번 플레이리스트는 겨울을 바탕으로 만들었습니다. 제목은 ‘겨울에 즐겨듣는 노래’이며 제가 일 년 중 이때 가장 완벽하다고 느끼는 곡들입니다. 올겨울 한국에 계신 팬들께 사랑을 전합니다. 곧 뵐 수 있길 기원합니다…” https://t.co/37fbOju51V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469167757371461600,
+					"id_str": "1469167757371461635",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOISpWVUAMEBR5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOISpWVUAMEBR5.jpg",
+					"url": "https://t.co/37fbOju51V",
+					"display_url": "pic.twitter.com/37fbOju51V",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1469167879157616640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469167757371461600,
+					"id_str": "1469167757371461635",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOISpWVUAMEBR5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOISpWVUAMEBR5.jpg",
+					"url": "https://t.co/37fbOju51V",
+					"display_url": "pic.twitter.com/37fbOju51V",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1469167879157616640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469167866276900900,
+		"in_reply_to_status_id_str": "1469167866276900866",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“이번 플레이리스트는 겨울을 바탕으로 만들었습니다. 제목은 ‘겨울에 즐겨듣는 노래’이며 제가 일 년 중 이때 가장 완벽하다고 느끼는 곡들입니다. 올겨울 한국에 계신 팬들께 사랑을 전합니다. 곧 뵐 수 있길 기원합니다…” https://t.co/37fbOju51V"
+	},
+	{
+		"created_at": "Fri Dec 10 05:29:28 +0000 2021",
+		"id": 1469167866276900900,
+		"id_str": "1469177421953912833",
+		"full_text": "[Playlist]\n\nCigarettes After Sex: Favorite Songs for Winter\n\nCigarettes After Sex가 한국의 팬들을 위해 겨울에 가장 완벽한 노래들을 선곡했습니다. CAS의 인터뷰와 팬들에게 전하는 인사, 플레이리스트를 하이징크스 매거진에서 확인해보세요.\n\nhttps://t.co/R9RMYvNZCo https://t.co/BVmKgyqUhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R9RMYvNZCo",
+					"expanded_url": "http://highjinkxmm.com/playlist/cas",
+					"display_url": "highjinkxmm.com/playlist/cas",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469167726375538700,
+					"id_str": "1469167726375538690",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOIQ14VEAIRVZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOIQ14VEAIRVZX.jpg",
+					"url": "https://t.co/BVmKgyqUhj",
+					"display_url": "pic.twitter.com/BVmKgyqUhj",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1469167866276900866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469167726375538700,
+					"id_str": "1469167726375538690",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FGOIQ14VEAIRVZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGOIQ14VEAIRVZX.jpg",
+					"url": "https://t.co/BVmKgyqUhj",
+					"display_url": "pic.twitter.com/BVmKgyqUhj",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1469167866276900866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\nCigarettes After Sex: Favorite Songs for Winter\n\nCigarettes After Sex가 한국의 팬들을 위해 겨울에 가장 완벽한 노래들을 선곡했습니다. CAS의 인터뷰와 팬들에게 전하는 인사, 플레이리스트를 하이징크스 매거진에서 확인해보세요.\n\nhttps://t.co/R9RMYvNZCo https://t.co/BVmKgyqUhj"
+	},
+	{
 		"created_at": "Fri Dec 10 04:29:43 +0000 2021",
 		"id": 1469154974391505000,
 		"id_str": "1469162386624073730",
