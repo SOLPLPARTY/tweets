@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 13:29:36 +0000 2021",
+		"id": 1469284469396095000,
+		"id_str": "1469298252046602246",
+		"full_text": "[#Video] #권진아\n\n권진아 ‘여행가’ LIVE\nKwon Jin Ah 'The Dreamer’ LIVE\n\n2021 권진아 단독공연 '우리의 방식'\n2021 Kwon Jin Ah Concert 'The Way For Us'\n\n🔗 https://t.co/aQBfvNNDC9\n\n#KwonJinAh #여행가 #TheDreamer\n#우리의방식 #TheWayForUs #단독공연 https://t.co/XivFz1fsiW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "여행가",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "TheDreamer",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"text": "우리의방식",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "TheWayForUs",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						203,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQBfvNNDC9",
+					"expanded_url": "https://youtu.be/_RdQaxGam6c",
+					"display_url": "youtu.be/_RdQaxGam6c",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469284286884827100,
+					"id_str": "1469284286884827137",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469284286884827137/pu/img/QGCLEBTc0Myyj0TG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469284286884827137/pu/img/QGCLEBTc0Myyj0TG.jpg",
+					"url": "https://t.co/XivFz1fsiW",
+					"display_url": "pic.twitter.com/XivFz1fsiW",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469284469396094981/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469284286884827100,
+					"id_str": "1469284286884827137",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469284286884827137/pu/img/QGCLEBTc0Myyj0TG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469284286884827137/pu/img/QGCLEBTc0Myyj0TG.jpg",
+					"url": "https://t.co/XivFz1fsiW",
+					"display_url": "pic.twitter.com/XivFz1fsiW",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469284469396094981/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469284286884827137/pu/pl/QNdccxAcBgs-_m5z.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469284286884827137/pu/vid/1280x720/FCvchQ0F67hh4Lcv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469284286884827137/pu/vid/640x360/8Vq_52c9Qws59r2y.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469284286884827137/pu/vid/480x270/UcaMGqryPnXWswu9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39746,
+			"friends_count": 10,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #권진아\n\n권진아 ‘여행가’ LIVE\nKwon Jin Ah 'The Dreamer’ LIVE\n\n2021 권진아 단독공연 '우리의 방식'\n2021 Kwon Jin Ah Concert 'The Way For Us'\n\n🔗 https://t.co/aQBfvNNDC9\n\n#KwonJinAh #여행가 #TheDreamer\n#우리의방식 #TheWayForUs #단독공연 https://t.co/XivFz1fsiW"
+	},
+	{
+		"created_at": "Fri Dec 10 13:29:31 +0000 2021",
+		"id": 1469283620926128000,
+		"id_str": "1469298230466859017",
+		"full_text": "🏠공연 정보\n- 일시 : 2021년 12월 26일 일요일 오후 6시\n- 장소 : 벨로주 홍대\n- 예매처 : 네이버 예약 https://t.co/kWe6DIlOSK (link in bio)\n\n#아마도이자람밴드 #아이밴 #연말공연 #HOME #2021연말공연 #단독공연 #콘서트 #드레스코드 #츄리닝",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "아이밴",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "HOME",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "2021연말공연",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "드레스코드",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "츄리닝",
+					"indices": [
+						161,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kWe6DIlOSK",
+					"expanded_url": "http://bit.ly/3kTzVTx",
+					"display_url": "bit.ly/3kTzVTx",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469283619244228600,
+		"in_reply_to_status_id_str": "1469283619244228610",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2164,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏠공연 정보\n- 일시 : 2021년 12월 26일 일요일 오후 6시\n- 장소 : 벨로주 홍대\n- 예매처 : 네이버 예약 https://t.co/kWe6DIlOSK (link in bio)\n\n#아마도이자람밴드 #아이밴 #연말공연 #HOME #2021연말공연 #단독공연 #콘서트 #드레스코드 #츄리닝"
+	},
+	{
 		"created_at": "Fri Dec 10 12:29:24 +0000 2021",
 		"id": 1469275710602682400,
 		"id_str": "1469283105307607043",
