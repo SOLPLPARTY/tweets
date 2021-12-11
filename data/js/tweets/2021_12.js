@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 04:29:24 +0000 2021",
+		"id": 1469517402472054800,
+		"id_str": "1469524697243172870",
+		"full_text": "[#Video] #정승환\n\n2021 정승환의 안녕, 겨울 : 다시 여기, 우리 - 포스터 촬영 현장 BEHIND\n\n🔗 https://t.co/QCUzid8q68\n\n#JungSeungHwan #안녕겨울 #다시여기우리 #전국투어 #콘서트 #비하인드 https://t.co/VmmVbQ3ubg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "안녕겨울",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "다시여기우리",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QCUzid8q68",
+					"expanded_url": "https://youtu.be/M-6KI3OSMKk",
+					"display_url": "youtu.be/M-6KI3OSMKk",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469516331490103300,
+					"id_str": "1469516331490103296",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTFshhaIAQUf5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTFshhaIAQUf5_.jpg",
+					"url": "https://t.co/VmmVbQ3ubg",
+					"display_url": "pic.twitter.com/VmmVbQ3ubg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469517402472054786/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469516331490103300,
+					"id_str": "1469516331490103296",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTFshhaIAQUf5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTFshhaIAQUf5_.jpg",
+					"url": "https://t.co/VmmVbQ3ubg",
+					"display_url": "pic.twitter.com/VmmVbQ3ubg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469517402472054786/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59894,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469516331490103296/vid/640x360/ZMjNURpir2g5HRZi.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469516331490103296/pl/VRcWjDoKAe-uz1f6.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469516331490103296/vid/480x270/95ehXlTP3pLUCauc.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469516331490103296/vid/1280x720/hQI-CILMHXKJpWsp.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "2021 정승환의 안녕, 겨울 : 다시 여기, 우리 - 포스터 촬영 현장 BEHIND",
+						"description": "2021 정승환의 안녕, 겨울 : 다시 여기, 우리",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/M-6KI3OSMKk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39760,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\n2021 정승환의 안녕, 겨울 : 다시 여기, 우리 - 포스터 촬영 현장 BEHIND\n\n🔗 https://t.co/QCUzid8q68\n\n#JungSeungHwan #안녕겨울 #다시여기우리 #전국투어 #콘서트 #비하인드 https://t.co/VmmVbQ3ubg"
+	},
+	{
 		"created_at": "Sat Dec 11 03:29:56 +0000 2021",
 		"id": 1469504523807113200,
 		"id_str": "1469509730691432448",
