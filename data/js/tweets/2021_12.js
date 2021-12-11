@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 07:58:14 +0000 2021",
+		"id": 1469570163360305200,
+		"id_str": "1469577251255877633",
+		"full_text": "오늘 언플러그드에서는 예빛, 백아, 김제형과 함께합니다!\n저녁 6시 LIVECLUBDAY 유튜브 채널에서 만나요✌\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f\n\n#라이브클럽데이 #라클데 #lcd #liveclubday #liveishere #서울인디뮤직페스타 #simf #언플러그드 #예빛 #백아 #김제형 https://t.co/UvTBFud26I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "라클데",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "lcd",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "liveclubday",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "liveishere",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "simf",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "언플러그드",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "예빛",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "백아",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "김제형",
+					"indices": [
+						187,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469570149099323400,
+					"id_str": "1469570149099323394",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FGT2Q7WVQAInpiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGT2Q7WVQAInpiV.jpg",
+					"url": "https://t.co/UvTBFud26I",
+					"display_url": "pic.twitter.com/UvTBFud26I",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469570163360305153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469570149099323400,
+					"id_str": "1469570149099323394",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FGT2Q7WVQAInpiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGT2Q7WVQAInpiV.jpg",
+					"url": "https://t.co/UvTBFud26I",
+					"display_url": "pic.twitter.com/UvTBFud26I",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469570163360305153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469570149090926600,
+					"id_str": "1469570149090926599",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FGT2Q7UVIAcT_KQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGT2Q7UVIAcT_KQ.jpg",
+					"url": "https://t.co/UvTBFud26I",
+					"display_url": "pic.twitter.com/UvTBFud26I",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469570163360305153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469570149090873300,
+					"id_str": "1469570149090873346",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FGT2Q7UUUAI0iP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGT2Q7UUUAI0iP0.jpg",
+					"url": "https://t.co/UvTBFud26I",
+					"display_url": "pic.twitter.com/UvTBFud26I",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469570163360305153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1082,
+							"h": 814,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 언플러그드에서는 예빛, 백아, 김제형과 함께합니다!\n저녁 6시 LIVECLUBDAY 유튜브 채널에서 만나요✌\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f\n\n#라이브클럽데이 #라클데 #lcd #liveclubday #liveishere #서울인디뮤직페스타 #simf #언플러그드 #예빛 #백아 #김제형 https://t.co/UvTBFud26I"
+	},
+	{
 		"created_at": "Sat Dec 11 05:29:42 +0000 2021",
 		"id": 1469528268038877200,
 		"id_str": "1469539870003675139",
