@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 03:07:58 +0000 2021",
+		"id": 1469504202296729600,
+		"id_str": "1469504202296729607",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n문지현(Moon Ji Hyun) - 시간이 필요해 [Music Video]\nhttps://t.co/ilmp8e8JPC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ilmp8e8JPC",
+					"expanded_url": "https://youtu.be/av8VmTpKZHM",
+					"display_url": "youtu.be/av8VmTpKZHM",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n문지현(Moon Ji Hyun) - 시간이 필요해 [Music Video]\nhttps://t.co/ilmp8e8JPC"
+	},
+	{
+		"created_at": "Sat Dec 11 02:58:14 +0000 2021",
+		"id": 1469489079951970300,
+		"id_str": "1469501754354151427",
+		"full_text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/19(일) CHS와 이날치의 공연을 스트레인지 프룻에서 만나실 수 있습니다!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/uwkMcX8Io0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469489054395744300,
+					"id_str": "1469489054395744256",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGSsgmCVQAAPNh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGSsgmCVQAAPNh3.jpg",
+					"url": "https://t.co/uwkMcX8Io0",
+					"display_url": "pic.twitter.com/uwkMcX8Io0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469489079951970307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469489054395744300,
+					"id_str": "1469489054395744256",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGSsgmCVQAAPNh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGSsgmCVQAAPNh3.jpg",
+					"url": "https://t.co/uwkMcX8Io0",
+					"display_url": "pic.twitter.com/uwkMcX8Io0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469489079951970307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469489054395756500,
+					"id_str": "1469489054395756551",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGSsgmCVcAchdfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGSsgmCVcAchdfe.jpg",
+					"url": "https://t.co/uwkMcX8Io0",
+					"display_url": "pic.twitter.com/uwkMcX8Io0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469489079951970307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469489054399950800,
+					"id_str": "1469489054399950849",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGSsgmDVcAE7rql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGSsgmDVcAE7rql.jpg",
+					"url": "https://t.co/uwkMcX8Io0",
+					"display_url": "pic.twitter.com/uwkMcX8Io0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469489079951970307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469489054999736300,
+					"id_str": "1469489054999736322",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGSsgoSVcAI8nTh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGSsgoSVcAI8nTh.jpg",
+					"url": "https://t.co/uwkMcX8Io0",
+					"display_url": "pic.twitter.com/uwkMcX8Io0",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1469489079951970307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/19(일) CHS와 이날치의 공연을 스트레인지 프룻에서 만나실 수 있습니다!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/uwkMcX8Io0"
+	},
+	{
 		"created_at": "Fri Dec 10 21:11:17 +0000 2021",
 		"id": 1469405281952145400,
 		"id_str": "1469414438231019528",
