@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 05:29:42 +0000 2021",
+		"id": 1469528268038877200,
+		"id_str": "1469539870003675139",
+		"full_text": "*당일 공연장 입장을 위해서는 ‘백신 접종 완료 증명서 확인 또는 PCR 음성 확인’이 진행될 예정이며, 해당 사항이 확인되지 않을 시 입장이 불가합니다.\n\n#전기뱀장어 #전뱀 #연말공연 #공연 #어쿠스틱 #콘서트 #공연 #단독공연 #LIVE #라이브 #공상온도 #카페공상온도 #네이버예약 #네이버 #예약",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "전뱀",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "어쿠스틱",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "공상온도",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "카페공상온도",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "네이버예약",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "예약",
+					"indices": [
+						167,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469528266252120000,
+		"in_reply_to_status_id_str": "1469528266252120067",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*당일 공연장 입장을 위해서는 ‘백신 접종 완료 증명서 확인 또는 PCR 음성 확인’이 진행될 예정이며, 해당 사항이 확인되지 않을 시 입장이 불가합니다.\n\n#전기뱀장어 #전뱀 #연말공연 #공연 #어쿠스틱 #콘서트 #공연 #단독공연 #LIVE #라이브 #공상온도 #카페공상온도 #네이버예약 #네이버 #예약"
+	},
+	{
+		"created_at": "Sat Dec 11 05:29:40 +0000 2021",
+		"id": 1469528266252120000,
+		"id_str": "1469539861124329476",
+		"full_text": "*본 공연은 코로나19 단계적 일상회복 1단계 방역수칙에 따라 접종완료자(접종 완료 후 14일 경과), PCR 음성 확인자(48시간 내)에 한해 거리두기 없이 운영됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469528264343711700,
+		"in_reply_to_status_id_str": "1469528264343711744",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*본 공연은 코로나19 단계적 일상회복 1단계 방역수칙에 따라 접종완료자(접종 완료 후 14일 경과), PCR 음성 확인자(48시간 내)에 한해 거리두기 없이 운영됩니다."
+	},
+	{
+		"created_at": "Sat Dec 11 05:29:35 +0000 2021",
+		"id": 1469528264343711700,
+		"id_str": "1469539839708119041",
+		"full_text": "그럼 이따 만나요:)\n\n[3시 공연]\n▪️티켓 부스 : 오후 2시\n▪️손소독 / QR 체크인 : 오후 2시\n▪️객석 입장 : 오후 2시 30분\n\n[7시 공연]\n▪️티켓 부스 : 오후 6시\n▪️손소독 / QR 체크인 : 오후 6시\n▪️객석 입장 : 오후 6시 30분",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469528260170367000,
+		"in_reply_to_status_id_str": "1469528260170366978",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그럼 이따 만나요:)\n\n[3시 공연]\n▪️티켓 부스 : 오후 2시\n▪️손소독 / QR 체크인 : 오후 2시\n▪️객석 입장 : 오후 2시 30분\n\n[7시 공연]\n▪️티켓 부스 : 오후 6시\n▪️손소독 / QR 체크인 : 오후 6시\n▪️객석 입장 : 오후 6시 30분"
+	},
+	{
+		"created_at": "Sat Dec 11 05:29:33 +0000 2021",
+		"id": 1469528260170367000,
+		"id_str": "1469539830736506881",
+		"full_text": "‼️오늘은 소량의 현장 판매가 진행될 예정입니다. \n*현장 판매 좌석은 2층 좌석이오니, 사진을 참고해주시기 바랍니다. \n(티켓 현장 구매는 티켓 부스 오픈 시간부터 가능하며, 선착순으로 진행됩니다.)\n\n주머니에 전기뱀장어 노래를 담아가고 싶으신 분들은 공상온도로 찾아와주세요🙌🏻 https://t.co/q1ogHPYcQA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469526771246645200,
+					"id_str": "1469526771246645251",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTO0AQVQAMDJd2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTO0AQVQAMDJd2.jpg",
+					"url": "https://t.co/q1ogHPYcQA",
+					"display_url": "pic.twitter.com/q1ogHPYcQA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469528260170366978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469526771246645200,
+					"id_str": "1469526771246645251",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTO0AQVQAMDJd2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTO0AQVQAMDJd2.jpg",
+					"url": "https://t.co/q1ogHPYcQA",
+					"display_url": "pic.twitter.com/q1ogHPYcQA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469528260170366978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469526833552969700,
+					"id_str": "1469526833552969729",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTO3oXUUAEaZRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTO3oXUUAEaZRb.jpg",
+					"url": "https://t.co/q1ogHPYcQA",
+					"display_url": "pic.twitter.com/q1ogHPYcQA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469528260170366978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469526833557172200,
+					"id_str": "1469526833557172225",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTO3oYUcAEg_s8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTO3oYUcAEg_s8.jpg",
+					"url": "https://t.co/q1ogHPYcQA",
+					"display_url": "pic.twitter.com/q1ogHPYcQA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469528260170366978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469526833548857300,
+					"id_str": "1469526833548857350",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTO3oWVkAYtsG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTO3oWVkAYtsG8.jpg",
+					"url": "https://t.co/q1ogHPYcQA",
+					"display_url": "pic.twitter.com/q1ogHPYcQA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469528260170366978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469528250561220600,
+		"in_reply_to_status_id_str": "1469528250561220611",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‼️오늘은 소량의 현장 판매가 진행될 예정입니다. \n*현장 판매 좌석은 2층 좌석이오니, 사진을 참고해주시기 바랍니다. \n(티켓 현장 구매는 티켓 부스 오픈 시간부터 가능하며, 선착순으로 진행됩니다.)\n\n주머니에 전기뱀장어 노래를 담아가고 싶으신 분들은 공상온도로 찾아와주세요🙌🏻 https://t.co/q1ogHPYcQA"
+	},
+	{
 		"created_at": "Sat Dec 11 04:29:24 +0000 2021",
 		"id": 1469517402472054800,
 		"id_str": "1469524697243172870",
