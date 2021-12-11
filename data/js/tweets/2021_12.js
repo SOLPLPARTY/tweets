@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 16:11:16 +0000 2021",
+		"id": 1469688427407110100,
+		"id_str": "1469701327173427206",
+		"full_text": "일요일 밤 Just Rock Night !  잊지마세요~ https://t.co/xGFcHUQcKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469688420783911000,
+					"id_str": "1469688420783910922",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVh1PtUcAo2ba2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVh1PtUcAo2ba2.jpg",
+					"url": "https://t.co/xGFcHUQcKj",
+					"display_url": "pic.twitter.com/xGFcHUQcKj",
+					"expanded_url": "https://twitter.com/clubFF_/status/1469688427407110148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1645,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469688420783911000,
+					"id_str": "1469688420783910922",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVh1PtUcAo2ba2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVh1PtUcAo2ba2.jpg",
+					"url": "https://t.co/xGFcHUQcKj",
+					"display_url": "pic.twitter.com/xGFcHUQcKj",
+					"expanded_url": "https://twitter.com/clubFF_/status/1469688427407110148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1645,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6128,
+			"friends_count": 8,
+			"listed_count": 75,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일요일 밤 Just Rock Night !  잊지마세요~ https://t.co/xGFcHUQcKj"
+	},
+	{
 		"created_at": "Sat Dec 11 15:11:17 +0000 2021",
 		"id": 1469674841540153300,
 		"id_str": "1469686228706594821",
