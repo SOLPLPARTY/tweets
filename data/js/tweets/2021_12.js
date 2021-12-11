@@ -1,6 +1,1147 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 03:29:56 +0000 2021",
+		"id": 1469504523807113200,
+		"id_str": "1469509730691432448",
+		"full_text": "유희열의 스케치북 With you : 일흔 여덟번째 목소리 '유스케 X 샘김' Vol.119 샘김 ‘Aqua Man’은 지금 모든 음원사이트에서 감상하실 수 있습니다💙\n\nMelon https://t.co/DCW9BDzXN6\nGenie https://t.co/5lpqS39QOX  \nBugs https://t.co/D4AINDjDui \nFLO https://t.co/GkjV58ilDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DCW9BDzXN6",
+					"expanded_url": "http://bit.ly/3IFgqZd",
+					"display_url": "bit.ly/3IFgqZd",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/5lpqS39QOX",
+					"expanded_url": "http://bit.ly/3oJVfNN",
+					"display_url": "bit.ly/3oJVfNN",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/D4AINDjDui",
+					"expanded_url": "http://bit.ly/3GqsH1M",
+					"display_url": "bit.ly/3GqsH1M",
+					"indices": [
+						162,
+						185
+					]
+				},
+				{
+					"url": "https://t.co/GkjV58ilDV",
+					"expanded_url": "http://bit.ly/3lSU50k",
+					"display_url": "bit.ly/3lSU50k",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469504519210176500,
+		"in_reply_to_status_id_str": "1469504519210176518",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39759,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유희열의 스케치북 With you : 일흔 여덟번째 목소리 '유스케 X 샘김' Vol.119 샘김 ‘Aqua Man’은 지금 모든 음원사이트에서 감상하실 수 있습니다💙\n\nMelon https://t.co/DCW9BDzXN6\nGenie https://t.co/5lpqS39QOX  \nBugs https://t.co/D4AINDjDui \nFLO https://t.co/GkjV58ilDV"
+	},
+	{
+		"created_at": "Sat Dec 11 03:29:54 +0000 2021",
+		"id": 1469504519210176500,
+		"id_str": "1469509721791078404",
+		"full_text": "[#Release] #샘김\n\n[Vol.119] 유희열의 스케치북 With you : \n일흔 여덟번째 목소리 '유스케 X 샘김'\n⠀\n샘김 - Aqua Man\n⠀\nLyrics by 빈지노 (Beenzino)\nComposed by JINBO\nArranged by 샘김 (Sam Kim), 윤준현, 신이삭, 박천욱, 이의광, 정석훈\n\n@LeegitItsSam\n#SamKim #Aqua_Man\n#빈지노 #Beenzino https://t.co/yV6lQkfuDA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						197,
+						204
+					]
+				},
+				{
+					"text": "Aqua_Man",
+					"indices": [
+						205,
+						214
+					]
+				},
+				{
+					"text": "빈지노",
+					"indices": [
+						215,
+						219
+					]
+				},
+				{
+					"text": "Beenzino",
+					"indices": [
+						220,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						183,
+						196
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469504510699602000,
+					"id_str": "1469504510699601920",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS6kRQVgAAGqUl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS6kRQVgAAGqUl.jpg",
+					"url": "https://t.co/yV6lQkfuDA",
+					"display_url": "pic.twitter.com/yV6lQkfuDA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469504519210176518/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469504510699602000,
+					"id_str": "1469504510699601920",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS6kRQVgAAGqUl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS6kRQVgAAGqUl.jpg",
+					"url": "https://t.co/yV6lQkfuDA",
+					"display_url": "pic.twitter.com/yV6lQkfuDA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1469504519210176518/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39759,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #샘김\n\n[Vol.119] 유희열의 스케치북 With you : \n일흔 여덟번째 목소리 '유스케 X 샘김'\n⠀\n샘김 - Aqua Man\n⠀\nLyrics by 빈지노 (Beenzino)\nComposed by JINBO\nArranged by 샘김 (Sam Kim), 윤준현, 신이삭, 박천욱, 이의광, 정석훈\n\n@LeegitItsSam\n#SamKim #Aqua_Man\n#빈지노 #Beenzino https://t.co/yV6lQkfuDA"
+	},
+	{
+		"created_at": "Sat Dec 11 03:29:50 +0000 2021",
+		"id": 1469502507257036800,
+		"id_str": "1469509704510488576",
+		"full_text": "https://t.co/92nJO9yGm0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469502477586206700,
+					"id_str": "1469502477586206723",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4t7UVEAM0Wxf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4t7UVEAM0Wxf.jpg",
+					"url": "https://t.co/92nJO9yGm0",
+					"display_url": "pic.twitter.com/92nJO9yGm0",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502507257036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469502477586206700,
+					"id_str": "1469502477586206723",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4t7UVEAM0Wxf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4t7UVEAM0Wxf.jpg",
+					"url": "https://t.co/92nJO9yGm0",
+					"display_url": "pic.twitter.com/92nJO9yGm0",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502507257036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469502486553641000,
+					"id_str": "1469502486553640963",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4ucuVQAMqMYh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4ucuVQAMqMYh.jpg",
+					"url": "https://t.co/92nJO9yGm0",
+					"display_url": "pic.twitter.com/92nJO9yGm0",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502507257036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469502494363373600,
+					"id_str": "1469502494363373575",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4u50UUAckobt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4u50UUAckobt.jpg",
+					"url": "https://t.co/92nJO9yGm0",
+					"display_url": "pic.twitter.com/92nJO9yGm0",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502507257036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469502501699211300,
+					"id_str": "1469502501699211264",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4vVJUUAAddq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4vVJUUAAddq_.jpg",
+					"url": "https://t.co/92nJO9yGm0",
+					"display_url": "pic.twitter.com/92nJO9yGm0",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502507257036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1469502471286718500,
+		"in_reply_to_status_id_str": "1469502471286718466",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9093,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/92nJO9yGm0"
+	},
+	{
+		"created_at": "Sat Dec 11 03:29:41 +0000 2021",
+		"id": 1469502471286718500,
+		"id_str": "1469509666229129223",
+		"full_text": "[#존박]\n이 조합 칭찬해👏 음색 장인 존박, 전미도의 ‘밤새 서로 미루다’ 녹음 현장 비하인드를 멜론 매거진에서 만나실 수 있습니다!\n\n🔗 https://t.co/mTICpmnb5F\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay https://t.co/F81HocRGZj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "전미도",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "JeonMido",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "밤새서로미루다",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "Stay",
+					"indices": [
+						142,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mTICpmnb5F",
+					"expanded_url": "http://kko.to/D5yTa4MKn",
+					"display_url": "kko.to/D5yTa4MKn",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469502442857402400,
+					"id_str": "1469502442857402368",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4r58VkAASjCx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4r58VkAASjCx.jpg",
+					"url": "https://t.co/F81HocRGZj",
+					"display_url": "pic.twitter.com/F81HocRGZj",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502471286718466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469502442857402400,
+					"id_str": "1469502442857402368",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4r58VkAASjCx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4r58VkAASjCx.jpg",
+					"url": "https://t.co/F81HocRGZj",
+					"display_url": "pic.twitter.com/F81HocRGZj",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502471286718466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469502450239303700,
+					"id_str": "1469502450239303686",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4sVcUcAYJp-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4sVcUcAYJp-6.jpg",
+					"url": "https://t.co/F81HocRGZj",
+					"display_url": "pic.twitter.com/F81HocRGZj",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502471286718466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469502457063436300,
+					"id_str": "1469502457063436289",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4su3UcAELWJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4su3UcAELWJ0.jpg",
+					"url": "https://t.co/F81HocRGZj",
+					"display_url": "pic.twitter.com/F81HocRGZj",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502471286718466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469502464697139200,
+					"id_str": "1469502464697139204",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FGS4tLTVgAQJ9BV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGS4tLTVgAQJ9BV.jpg",
+					"url": "https://t.co/F81HocRGZj",
+					"display_url": "pic.twitter.com/F81HocRGZj",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1469502471286718466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9093,
+			"friends_count": 5,
+			"listed_count": 106,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1638502632",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박]\n이 조합 칭찬해👏 음색 장인 존박, 전미도의 ‘밤새 서로 미루다’ 녹음 현장 비하인드를 멜론 매거진에서 만나실 수 있습니다!\n\n🔗 https://t.co/mTICpmnb5F\n\n#존박 #JohnPark\n#전미도 #JeonMido\n#밤새서로미루다 #Stay https://t.co/F81HocRGZj"
+	},
+	{
+		"created_at": "Sat Dec 11 03:29:32 +0000 2021",
+		"id": 1469495489465032700,
+		"id_str": "1469509627859591170",
+		"full_text": "방역 지침을 보다 철저하게 지켜 관객 분들은 물론 스태프 전원이 건강하고 안전하게 공연에 함께할 수 있도록 최선을 다할 것입니다.\n\n감사합니다.\n\n#Peppertones\n#신재평 #이장원\n#TRAVELERS #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Peppertones",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "TRAVELERS",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						116,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469495488097718300,
+		"in_reply_to_status_id_str": "1469495488097718274",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39759,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "방역 지침을 보다 철저하게 지켜 관객 분들은 물론 스태프 전원이 건강하고 안전하게 공연에 함께할 수 있도록 최선을 다할 것입니다.\n\n감사합니다.\n\n#Peppertones\n#신재평 #이장원\n#TRAVELERS #콘서트"
+	},
+	{
 		"created_at": "Sat Dec 11 03:07:58 +0000 2021",
 		"id": 1469504202296729600,
 		"id_str": "1469504202296729607",
