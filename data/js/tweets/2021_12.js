@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 08:29:34 +0000 2021",
+		"id": 1469582315978633200,
+		"id_str": "1469585133296574465",
+		"full_text": "#전기뱀장어 #전뱀 #연말공연 #공연 #어쿠스틱 #콘서트 #공연 #단독공연 #LIVE #라이브 #공상온도 #카페공상온도 #네이버예약 #네이버 #예약 #티켓 #예매 https://t.co/Y43qzSpvOB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "전뱀",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "연말공연",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "어쿠스틱",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "공상온도",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "카페공상온도",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "네이버예약",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "예약",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "예매",
+					"indices": [
+						87,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469582211217117200,
+					"id_str": "1469582211217117185",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBPCPUUAEkOpG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBPCPUUAEkOpG.jpg",
+					"url": "https://t.co/Y43qzSpvOB",
+					"display_url": "pic.twitter.com/Y43qzSpvOB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582315978633219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469582211217117200,
+					"id_str": "1469582211217117185",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBPCPUUAEkOpG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBPCPUUAEkOpG.jpg",
+					"url": "https://t.co/Y43qzSpvOB",
+					"display_url": "pic.twitter.com/Y43qzSpvOB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582315978633219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469582211221319700,
+					"id_str": "1469582211221319680",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBPCQUcAAdRXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBPCQUcAAdRXo.jpg",
+					"url": "https://t.co/Y43qzSpvOB",
+					"display_url": "pic.twitter.com/Y43qzSpvOB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582315978633219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469582211221319700,
+					"id_str": "1469582211221319682",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBPCQUcAI7s5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBPCQUcAI7s5C.jpg",
+					"url": "https://t.co/Y43qzSpvOB",
+					"display_url": "pic.twitter.com/Y43qzSpvOB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582315978633219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469582307745202200,
+		"in_reply_to_status_id_str": "1469582307745202176",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#전기뱀장어 #전뱀 #연말공연 #공연 #어쿠스틱 #콘서트 #공연 #단독공연 #LIVE #라이브 #공상온도 #카페공상온도 #네이버예약 #네이버 #예약 #티켓 #예매 https://t.co/Y43qzSpvOB"
+	},
+	{
+		"created_at": "Sat Dec 11 08:29:31 +0000 2021",
+		"id": 1469582307745202200,
+		"id_str": "1469585122064220160",
+		"full_text": "[7시 저녁 캠프파이어]\n▪️티켓 현장 판매 &amp; 티켓 부스 오픈 : 오후 6시\n▪️손소독 / QR 체크인 : 오후 6시\n▪️객석 입장 : 오후 6시 30분 https://t.co/C1DgM9ouqq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469582160239546400,
+					"id_str": "1469582160239546371",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBMEVUUAMcWFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBMEVUUAMcWFI.jpg",
+					"url": "https://t.co/C1DgM9ouqq",
+					"display_url": "pic.twitter.com/C1DgM9ouqq",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582307745202176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469582160239546400,
+					"id_str": "1469582160239546371",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBMEVUUAMcWFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBMEVUUAMcWFI.jpg",
+					"url": "https://t.co/C1DgM9ouqq",
+					"display_url": "pic.twitter.com/C1DgM9ouqq",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582307745202176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469582160252137500,
+					"id_str": "1469582160252137472",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBMEYUcAA5dEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBMEYUcAA5dEr.jpg",
+					"url": "https://t.co/C1DgM9ouqq",
+					"display_url": "pic.twitter.com/C1DgM9ouqq",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582307745202176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469582160247996400,
+					"id_str": "1469582160247996416",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUBMEXVQAAUX4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUBMEXVQAAUX4h.jpg",
+					"url": "https://t.co/C1DgM9ouqq",
+					"display_url": "pic.twitter.com/C1DgM9ouqq",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1469582307745202176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469582298387730400,
+		"in_reply_to_status_id_str": "1469582298387730439",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[7시 저녁 캠프파이어]\n▪️티켓 현장 판매 &amp; 티켓 부스 오픈 : 오후 6시\n▪️손소독 / QR 체크인 : 오후 6시\n▪️객석 입장 : 오후 6시 30분 https://t.co/C1DgM9ouqq"
+	},
+	{
 		"created_at": "Sat Dec 11 07:58:14 +0000 2021",
 		"id": 1469570163360305200,
 		"id_str": "1469577251255877633",
