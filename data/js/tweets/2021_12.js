@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 03:29:30 +0000 2021",
+		"id": 1469867122390368300,
+		"id_str": "1469872007160475648",
+		"full_text": "[ mmddyy]\n\nmmddyy(맨디)의 신곡 'Trippy'가 모든 음원 사이트를 통해 발매되었습니다.\nmmddyy's new single 'Trippy' released on online music streaming platform.\n\nYoutube : https://t.co/TTsFJBMOTs\n\n#mmddyy #맨디 #Trippy #트리피 \n#PAKTORY #팩토리컴퍼니 \n#신곡 #Lyrics #노래추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mmddyy",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "맨디",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "Trippy",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "트리피",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "PAKTORY",
+					"indices": [
+						195,
+						203
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						204,
+						211
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						213,
+						216
+					]
+				},
+				{
+					"text": "Lyrics",
+					"indices": [
+						217,
+						224
+					]
+				},
+				{
+					"text": "노래추천",
+					"indices": [
+						225,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TTsFJBMOTs",
+					"expanded_url": "https://youtu.be/aogxG5o53Aw",
+					"display_url": "youtu.be/aogxG5o53Aw",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ mmddyy]\n\nmmddyy(맨디)의 신곡 'Trippy'가 모든 음원 사이트를 통해 발매되었습니다.\nmmddyy's new single 'Trippy' released on online music streaming platform.\n\nYoutube : https://t.co/TTsFJBMOTs\n\n#mmddyy #맨디 #Trippy #트리피 \n#PAKTORY #팩토리컴퍼니 \n#신곡 #Lyrics #노래추천"
+	},
+	{
 		"created_at": "Sat Dec 11 16:11:16 +0000 2021",
 		"id": 1469688427407110100,
 		"id_str": "1469701327173427206",
