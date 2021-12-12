@@ -1,10 +1,221 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 11:29:24 +0000 2021",
+		"id": 1469985388785668000,
+		"id_str": "1469992781640781828",
+		"full_text": "YouTube Originals \"Re:MASTERPIECE\" Poster\n\nThe birth story of BoA &amp; aespa’s &lt;Dreams Come True&gt;\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#DreamsComeTrue #aespa #BoA \n#리마스터피스 #ReMASTERPIECE https://t.co/FDgRYpWPT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamsComeTrue",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "리마스터피스",
+					"indices": [
+						179,
+						186
+					]
+				},
+				{
+					"text": "ReMASTERPIECE",
+					"indices": [
+						187,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469608510665412600,
+					"id_str": "1469608510665412613",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"url": "https://t.co/FDgRYpWPT9",
+					"display_url": "pic.twitter.com/FDgRYpWPT9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1469985388785668096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1381,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469608510665412600,
+					"id_str": "1469608510665412613",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGUZJ3UaUAU8ud8.jpg",
+					"url": "https://t.co/FDgRYpWPT9",
+					"display_url": "pic.twitter.com/FDgRYpWPT9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1469985388785668096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1381,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10291950,
+			"friends_count": 55,
+			"listed_count": 11255,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2884,
+		"favorite_count": 8787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YouTube Originals \"Re:MASTERPIECE\" Poster\n\nThe birth story of BoA &amp; aespa’s &lt;Dreams Come True&gt;\n\n2021.12.23 11PM KST\nSMTOWN YouTube channel\n\n#DreamsComeTrue #aespa #BoA \n#리마스터피스 #ReMASTERPIECE https://t.co/FDgRYpWPT9"
+	},
+	{
 		"created_at": "Sun Dec 12 10:29:25 +0000 2021",
 		"id": 1469976121098014700,
 		"id_str": "1469977682431651847",
-		"full_text": "[#Photo] #루시드폴 #정승환 #윤석철\n\n도산공원을 주름잡는 team '도산공원 날라리'\n안테나에 숨어있던 댄스 인재들의 등장🕺🤸‍♂️\n오늘도,, 우린,, 안테ㄴr에 취한ㄷ ㅏ..⭐️\n\n✔️슈퍼 새가수 뭐하니 가요제\n🔗 https://t.co/FG6kNaNnwy\n\n#안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/7wxqoBdAw0",
+		"full_text": "[#Photo] #루시드폴 #정승환 #윤석철\n\n도산공원을 주름잡는 team '도산공원 날라리'\n안테나에 숨어있던 댄스 인재들의 등장🕺🤸♂️\n오늘도,, 우린,, 안테ㄴr에 취한ㄷ ㅏ..⭐️\n\n✔️슈퍼 새가수 뭐하니 가요제\n🔗 https://t.co/FG6kNaNnwy\n\n#안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/7wxqoBdAw0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -247,7 +458,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#Photo] #루시드폴 #정승환 #윤석철\n\n도산공원을 주름잡는 team '도산공원 날라리'\n안테나에 숨어있던 댄스 인재들의 등장🕺🤸‍♂️\n오늘도,, 우린,, 안테ㄴr에 취한ㄷ ㅏ..⭐️\n\n✔️슈퍼 새가수 뭐하니 가요제\n🔗 https://t.co/FG6kNaNnwy\n\n#안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/7wxqoBdAw0"
+		"text": "[#Photo] #루시드폴 #정승환 #윤석철\n\n도산공원을 주름잡는 team '도산공원 날라리'\n안테나에 숨어있던 댄스 인재들의 등장🕺🤸♂️\n오늘도,, 우린,, 안테ㄴr에 취한ㄷ ㅏ..⭐️\n\n✔️슈퍼 새가수 뭐하니 가요제\n🔗 https://t.co/FG6kNaNnwy\n\n#안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/7wxqoBdAw0"
 	},
 	{
 		"created_at": "Sun Dec 12 10:14:54 +0000 2021",
