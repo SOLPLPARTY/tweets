@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 10:29:34 +0000 2021",
+		"id": 1470333581914378200,
+		"id_str": "1470340109513990148",
+		"full_text": "[RECRUIT] 블루바이닐 정규직 / 계약직 직원 채용\n\n블루바이닐에서 아티스트 앨범 제작에 함께할 팀원을 모집합니다.\n블루바이닐의 일원으로 함께해요!\nJoin us! We're now hiring a new teammate.\n\n#블루바이닐 #채용공고 https://t.co/mqM7uAM5GE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루바이닐",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "채용공고",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470333545629446100,
+					"id_str": "1470333545629446147",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470333545629446100,
+					"id_str": "1470333545629446147",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGeskdCVcAM15gp.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470333552398979000,
+					"id_str": "1470333552398979072",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGesk2QUUAAjJRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGesk2QUUAAjJRf.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470333558090657800,
+					"id_str": "1470333558090657793",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGeslLdUcAEGsxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGeslLdUcAEGsxW.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470333579066437600,
+					"id_str": "1470333579066437632",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FGesmZmVcAAf1-n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGesmZmVcAAf1-n.jpg",
+					"url": "https://t.co/mqM7uAM5GE",
+					"display_url": "pic.twitter.com/mqM7uAM5GE",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1470333581914378242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3852,
+			"friends_count": 2,
+			"listed_count": 27,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RECRUIT] 블루바이닐 정규직 / 계약직 직원 채용\n\n블루바이닐에서 아티스트 앨범 제작에 함께할 팀원을 모집합니다.\n블루바이닐의 일원으로 함께해요!\nJoin us! We're now hiring a new teammate.\n\n#블루바이닐 #채용공고 https://t.co/mqM7uAM5GE"
+	},
+	{
+		"created_at": "Mon Dec 13 10:29:31 +0000 2021",
+		"id": 1470332783419871200,
+		"id_str": "1470340096478126088",
+		"full_text": "13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/7HlhKNrFUI\n \n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "괴로운데이트",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "아름다운재단",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "열여덟어른",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "카카오같이가치",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7HlhKNrFUI",
+					"expanded_url": "https://bit.ly/3IIyH88",
+					"display_url": "bit.ly/3IIyH88",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470332778709663700,
+		"in_reply_to_status_id_str": "1470332778709663749",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10294887,
+			"friends_count": 55,
+			"listed_count": 11259,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/7HlhKNrFUI\n \n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치"
+	},
+	{
 		"created_at": "Mon Dec 13 10:11:33 +0000 2021",
 		"id": 1470323053846741000,
 		"id_str": "1470335574800220160",
