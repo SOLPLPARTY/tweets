@@ -1,6 +1,845 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 05:11:32 +0000 2021",
+		"id": 1470257833996583000,
+		"id_str": "1470260072391581697",
+		"full_text": "&lt;소설 쓰는 밤&gt; 1기\n\n매주 짧은 단편을 함께 읽고, 짧은 엽편을 씁니다.\n바로 지금 여기에서 함께 시작합니다. 📚✍️\n\n📌강사: 허남훈 작가\n📌기간: 1. 21. ~ 3. 11. (매주 금) 8주\n📌장소: 상상마당 홍대 아카데미 6층 대강의실\n\n⭐️자세히보기: https://t.co/lYbBll82Mu https://t.co/uDoE7JtufJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lYbBll82Mu",
+					"expanded_url": "https://bit.ly/33qjXun",
+					"display_url": "bit.ly/33qjXun",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470257491673895000,
+					"id_str": "1470257491673894914",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdnZh-UUAIAD3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdnZh-UUAIAD3I.jpg",
+					"url": "https://t.co/uDoE7JtufJ",
+					"display_url": "pic.twitter.com/uDoE7JtufJ",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470257833996582917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470257491673895000,
+					"id_str": "1470257491673894914",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdnZh-UUAIAD3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdnZh-UUAIAD3I.jpg",
+					"url": "https://t.co/uDoE7JtufJ",
+					"display_url": "pic.twitter.com/uDoE7JtufJ",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470257833996582917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470257491745271800,
+					"id_str": "1470257491745271810",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdnZiPVcAIiQs8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdnZiPVcAIiQs8.jpg",
+					"url": "https://t.co/uDoE7JtufJ",
+					"display_url": "pic.twitter.com/uDoE7JtufJ",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470257833996582917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17730,
+			"friends_count": 1869,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소설 쓰는 밤&gt; 1기\n\n매주 짧은 단편을 함께 읽고, 짧은 엽편을 씁니다.\n바로 지금 여기에서 함께 시작합니다. 📚✍️\n\n📌강사: 허남훈 작가\n📌기간: 1. 21. ~ 3. 11. (매주 금) 8주\n📌장소: 상상마당 홍대 아카데미 6층 대강의실\n\n⭐️자세히보기: https://t.co/lYbBll82Mu https://t.co/uDoE7JtufJ"
+	},
+	{
+		"created_at": "Mon Dec 13 05:11:23 +0000 2021",
+		"id": 1470251336700629000,
+		"id_str": "1470260038325448711",
+		"full_text": "POPUP 전시 : 마음이 따듯해지는 외출\n\n누군가를 생각하는 \n따뜻한 마음을 담아 고른 선물을 전해준다면,\n받는 이에게도 그 마음이 전해질거에요.❤️\n\n디자인스퀘어 2층에 준비된\n포근한 선물들을 만나보아요. 🙌\n\n📌 장소: KT&amp;G 상상마당 홍대 2층 https://t.co/cJSZuJSbnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470251229603254300,
+					"id_str": "1470251229603254273",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdhtB8VUAEyvWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdhtB8VUAEyvWn.jpg",
+					"url": "https://t.co/cJSZuJSbnC",
+					"display_url": "pic.twitter.com/cJSZuJSbnC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470251336700628997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470251229603254300,
+					"id_str": "1470251229603254273",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdhtB8VUAEyvWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdhtB8VUAEyvWn.jpg",
+					"url": "https://t.co/cJSZuJSbnC",
+					"display_url": "pic.twitter.com/cJSZuJSbnC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470251336700628997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470251229603242000,
+					"id_str": "1470251229603241987",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdhtB8VIAMKCQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdhtB8VIAMKCQ-.jpg",
+					"url": "https://t.co/cJSZuJSbnC",
+					"display_url": "pic.twitter.com/cJSZuJSbnC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470251336700628997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470251229607465000,
+					"id_str": "1470251229607464962",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdhtB9VkAI3EN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdhtB9VkAI3EN9.jpg",
+					"url": "https://t.co/cJSZuJSbnC",
+					"display_url": "pic.twitter.com/cJSZuJSbnC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470251336700628997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470251229607383000,
+					"id_str": "1470251229607383041",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdhtB9UUAEVVJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdhtB9UUAEVVJv.jpg",
+					"url": "https://t.co/cJSZuJSbnC",
+					"display_url": "pic.twitter.com/cJSZuJSbnC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1470251336700628997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17730,
+			"friends_count": 1869,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "POPUP 전시 : 마음이 따듯해지는 외출\n\n누군가를 생각하는 \n따뜻한 마음을 담아 고른 선물을 전해준다면,\n받는 이에게도 그 마음이 전해질거에요.❤️\n\n디자인스퀘어 2층에 준비된\n포근한 선물들을 만나보아요. 🙌\n\n📌 장소: KT&amp;G 상상마당 홍대 2층 https://t.co/cJSZuJSbnC"
+	},
+	{
+		"created_at": "Mon Dec 13 05:11:16 +0000 2021",
+		"id": 1470251060115959800,
+		"id_str": "1470260008420061186",
+		"full_text": "[신승은의 2021년 작별 공연 : ADIEU 2021] 2021.12.31(금) PM 7:30 (방역 패스 적용) https://t.co/82RvLmfDpV https://t.co/GnoAU3uy82",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/82RvLmfDpV",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222594209976",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470251054348390400,
+					"id_str": "1470251054348390400",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdhi1EUUAAkewP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdhi1EUUAAkewP.jpg",
+					"url": "https://t.co/GnoAU3uy82",
+					"display_url": "pic.twitter.com/GnoAU3uy82",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1470251060115959809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470251054348390400,
+					"id_str": "1470251054348390400",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdhi1EUUAAkewP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdhi1EUUAAkewP.jpg",
+					"url": "https://t.co/GnoAU3uy82",
+					"display_url": "pic.twitter.com/GnoAU3uy82",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1470251060115959809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8372,
+			"friends_count": 555,
+			"listed_count": 0,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신승은의 2021년 작별 공연 : ADIEU 2021] 2021.12.31(금) PM 7:30 (방역 패스 적용) https://t.co/82RvLmfDpV https://t.co/GnoAU3uy82"
+	},
+	{
+		"created_at": "Mon Dec 13 04:29:28 +0000 2021",
+		"id": 1470240820540616700,
+		"id_str": "1470249487226519554",
+		"full_text": "[#NEWS] 김이나·조영철→강재준·이은형, '쌍쌍 인비테이셔널' 티저 공개..신선한 매력 예고\n\n\n▶️ https://t.co/ic1ax0QbZn\n\n#미스틱스토리 #MYSTICSTORY #예능 #네이버 #NAVER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "예능",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ic1ax0QbZn",
+					"expanded_url": "https://bit.ly/31M91XA",
+					"display_url": "bit.ly/31M91XA",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32252,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 김이나·조영철→강재준·이은형, '쌍쌍 인비테이셔널' 티저 공개..신선한 매력 예고\n\n\n▶️ https://t.co/ic1ax0QbZn\n\n#미스틱스토리 #MYSTICSTORY #예능 #네이버 #NAVER"
+	},
+	{
 		"created_at": "Mon Dec 13 04:11:29 +0000 2021",
 		"id": 1470242254954856400,
 		"id_str": "1470244963313201155",
