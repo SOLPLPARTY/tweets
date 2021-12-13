@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 06:29:30 +0000 2021",
+		"id": 1470277976042651600,
+		"id_str": "1470279693949718529",
+		"full_text": "[NEWS] ‘부캐전성시대’, 메인 포스터 오픈...송해부터 #인순이 까지\n\n👉 https://t.co/opJvRqgjMt \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #부캐전성시대 #TV조선",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "부캐전성시대",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/opJvRqgjMt",
+					"expanded_url": "http://naver.me/xk6ikCMk",
+					"display_url": "naver.me/xk6ikCMk",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] ‘부캐전성시대’, 메인 포스터 오픈...송해부터 #인순이 까지\n\n👉 https://t.co/opJvRqgjMt \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #부캐전성시대 #TV조선"
+	},
+	{
+		"created_at": "Mon Dec 13 06:29:27 +0000 2021",
+		"id": 1470275228194721800,
+		"id_str": "1470279680758624256",
+		"full_text": "[#Teaser] #샘김\n\nMew Suppasit x Global Artist\nOn Global Collaboration Project 2021\n\nMEW SUPPASIT x Sam Kim\n\n- MV Teaser -\n“Sam Kim VERSION”\n\n@LeegitItsSam @MSuppasit \n#SamKim #Antenna #SamB430\n#MewSuppasit #MewSuppasitStudio #MEWxSamKim https://t.co/S3507F1PvE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "SamB430",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"text": "MewSuppasit",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"text": "MewSuppasitStudio",
+					"indices": [
+						204,
+						222
+					]
+				},
+				{
+					"text": "MEWxSamKim",
+					"indices": [
+						223,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"screen_name": "MSuppasit",
+					"name": "mewsuppasit",
+					"id": 828410488509734900,
+					"id_str": "828410488509734912",
+					"indices": [
+						153,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470275065052729300,
+					"id_str": "1470275065052729345",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470275065052729345/pu/img/AY3NQwR6PP__Dp15.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470275065052729345/pu/img/AY3NQwR6PP__Dp15.jpg",
+					"url": "https://t.co/S3507F1PvE",
+					"display_url": "pic.twitter.com/S3507F1PvE",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470275228194721795/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470275065052729300,
+					"id_str": "1470275065052729345",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470275065052729345/pu/img/AY3NQwR6PP__Dp15.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470275065052729345/pu/img/AY3NQwR6PP__Dp15.jpg",
+					"url": "https://t.co/S3507F1PvE",
+					"display_url": "pic.twitter.com/S3507F1PvE",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470275228194721795/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13760,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470275065052729345/pu/vid/480x270/6OjIsWJ-Ce40wWFM.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470275065052729345/pu/vid/1280x720/3csIXZ1iXWANyCCi.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470275065052729345/pu/vid/640x360/fZYMSXDWvfcGWcWm.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1470275065052729345/pu/pl/o5x6L9sQaNKQoLXp.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39813,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1638235314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1034,
+		"favorite_count": 620,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #샘김\n\nMew Suppasit x Global Artist\nOn Global Collaboration Project 2021\n\nMEW SUPPASIT x Sam Kim\n\n- MV Teaser -\n“Sam Kim VERSION”\n\n@LeegitItsSam @MSuppasit \n#SamKim #Antenna #SamB430\n#MewSuppasit #MewSuppasitStudio #MEWxSamKim https://t.co/S3507F1PvE"
+	},
+	{
 		"created_at": "Mon Dec 13 05:11:32 +0000 2021",
 		"id": 1470257833996583000,
 		"id_str": "1470260072391581697",
