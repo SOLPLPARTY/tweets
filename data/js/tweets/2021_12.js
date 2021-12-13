@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 13:29:25 +0000 2021",
+		"id": 1470378413894824000,
+		"id_str": "1470385369858383879",
+		"full_text": "[#정인] '값' Cover Live Clip #1 선우정아\n\n🎼 선우정아의 '정인 - 값' 커버 영상이 도착했습니다🎤\n어디든 도망가서 혼자만 듣고 싶은 선우정아의 '값'😢\n\n🎵 Full ver. &gt;&gt; https://t.co/uWLX1LWupx\n\n#JUNGIN #값 #선우정아 #Cover #LIVECLIP https://t.co/Yh9ptDTGex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						152,
+						154
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Cover",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "LIVECLIP",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uWLX1LWupx",
+					"expanded_url": "https://bit.ly/30p8biK",
+					"display_url": "bit.ly/30p8biK",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470364738970595300,
+					"id_str": "1470364738970595331",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGfLsZbaIAU60ya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGfLsZbaIAU60ya.jpg",
+					"url": "https://t.co/Yh9ptDTGex",
+					"display_url": "pic.twitter.com/Yh9ptDTGex",
+					"expanded_url": "https://twitter.com/themysticstory/status/1470378413894823936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1328,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470364738970595300,
+					"id_str": "1470364738970595331",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGfLsZbaIAU60ya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGfLsZbaIAU60ya.jpg",
+					"url": "https://t.co/Yh9ptDTGex",
+					"display_url": "pic.twitter.com/Yh9ptDTGex",
+					"expanded_url": "https://twitter.com/themysticstory/status/1470378413894823936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1328,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 102766,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470364738970595331/vid/640x360/56KGcCG79KyY_TL2.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1470364738970595331/pl/TMKXLpOSFVaY5rK9.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470364738970595331/vid/1280x720/_PLjyqnH-62f9JRA.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470364738970595331/vid/480x270/YeOcTx4g-qVUs8mQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#정인] '값' Cover Live Clip #1 선우정아",
+						"description": "[#정인] '값' Cover Live Clip #1 선우정아\n\n🎼 선우정아의 '정인 - 값' 커버 영상이 도착했습니다🎤\n어디든 도망가서 혼자만 듣고 싶은 선우정아의 '값'😢\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #선우정아 #Cover #LIVECLIP",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.instagram.com/tv/CXbEFrwp_De/?utm_medium=copy_link"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32259,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] '값' Cover Live Clip #1 선우정아\n\n🎼 선우정아의 '정인 - 값' 커버 영상이 도착했습니다🎤\n어디든 도망가서 혼자만 듣고 싶은 선우정아의 '값'😢\n\n🎵 Full ver. &gt;&gt; https://t.co/uWLX1LWupx\n\n#JUNGIN #값 #선우정아 #Cover #LIVECLIP https://t.co/Yh9ptDTGex"
+	},
+	{
 		"created_at": "Mon Dec 13 11:41:20 +0000 2021",
 		"id": 1470358168790352000,
 		"id_str": "1470358168790351877",
