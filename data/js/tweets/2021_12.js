@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 10:11:33 +0000 2021",
+		"id": 1470323053846741000,
+		"id_str": "1470335574800220160",
+		"full_text": "'LIVE. ON'은 문화체육관광부가 후원하고, 한국음악레이블산업협회와 아리랑TV가 함께 추진합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470323052080930800,
+		"in_reply_to_status_id_str": "1470323052080930817",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2744,
+			"friends_count": 2570,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'LIVE. ON'은 문화체육관광부가 후원하고, 한국음악레이블산업협회와 아리랑TV가 함께 추진합니다."
+	},
+	{
+		"created_at": "Mon Dec 13 10:11:26 +0000 2021",
+		"id": 1470323052080930800,
+		"id_str": "1470335544840306693",
+		"full_text": "✨ 다양한 스펙트럼으로 앨리스의 시를 노래하는 밴드 시나 쓰는 앨리스 (Scribbling Alice)\nhttps://t.co/fDQwc3BP1q\n✨ 개성 있는 보컬로 주목받는 슈퍼루키 싱어송라이터 최예근 (YEGNY)\nhttps://t.co/8fNwIrxLST\n- \n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fDQwc3BP1q",
+					"expanded_url": "https://www.instagram.com/scribbling_alice/",
+					"display_url": "instagram.com/scribbling_ali…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/8fNwIrxLST",
+					"expanded_url": "https://www.instagram.com/yeguenny/",
+					"display_url": "instagram.com/yeguenny/",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470323050399027200,
+		"in_reply_to_status_id_str": "1470323050399027201",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2744,
+			"friends_count": 2570,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨ 다양한 스펙트럼으로 앨리스의 시를 노래하는 밴드 시나 쓰는 앨리스 (Scribbling Alice)\nhttps://t.co/fDQwc3BP1q\n✨ 개성 있는 보컬로 주목받는 슈퍼루키 싱어송라이터 최예근 (YEGNY)\nhttps://t.co/8fNwIrxLST\n- \n⠀"
+	},
+	{
+		"created_at": "Mon Dec 13 10:11:20 +0000 2021",
+		"id": 1470323050399027200,
+		"id_str": "1470335523394830337",
+		"full_text": "- \n⠀ \n🎸 오늘의 아티스트 \n⠀ \n✨ 다양한 장르를 넘나들며 자신만의 음악을 만드는 싱어송라이터 은도희 (eundohee)\nhttps://t.co/S3S2Vl84Po\n⠀ \n✨ 매번 새로운 음악으로 Z세대를 노래하는 밴드 828\nhttps://t.co/AazuRVlL2t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S3S2Vl84Po",
+					"expanded_url": "https://www.instagram.com/eundohee/",
+					"display_url": "instagram.com/eundohee/",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/AazuRVlL2t",
+					"expanded_url": "https://www.instagram.com/band_828/",
+					"display_url": "instagram.com/band_828/",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470323048494825500,
+		"in_reply_to_status_id_str": "1470323048494825476",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2744,
+			"friends_count": 2570,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- \n⠀ \n🎸 오늘의 아티스트 \n⠀ \n✨ 다양한 장르를 넘나들며 자신만의 음악을 만드는 싱어송라이터 은도희 (eundohee)\nhttps://t.co/S3S2Vl84Po\n⠀ \n✨ 매번 새로운 음악으로 Z세대를 노래하는 밴드 828\nhttps://t.co/AazuRVlL2t"
+	},
+	{
+		"created_at": "Mon Dec 13 10:11:16 +0000 2021",
+		"id": 1470323048494825500,
+		"id_str": "1470335506047197184",
+		"full_text": "[LIVE. ON / 12월 13일 공연 소개] \n⠀ \n소규모 대중음악공연 지원 사업 'LIVE. ON' 오늘의 공연을 소개합니다. 오후 6시부터 2시간 동안 공연이 펼쳐집니다! \n⠀ \n'LIVE. ON' 공식 유튜브 채널을 통해 온라인 생중계됩니다. \n많은 시청 바랍니다 🤟 \n⠀ \n▶ 공연 보러가기 :  https://t.co/kZIqib4YjW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kZIqib4YjW",
+					"expanded_url": "https://c11.kr/unew",
+					"display_url": "c11.kr/unew",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2744,
+			"friends_count": 2570,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE. ON / 12월 13일 공연 소개] \n⠀ \n소규모 대중음악공연 지원 사업 'LIVE. ON' 오늘의 공연을 소개합니다. 오후 6시부터 2시간 동안 공연이 펼쳐집니다! \n⠀ \n'LIVE. ON' 공식 유튜브 채널을 통해 온라인 생중계됩니다. \n많은 시청 바랍니다 🤟 \n⠀ \n▶ 공연 보러가기 :  https://t.co/kZIqib4YjW"
+	},
+	{
+		"created_at": "Mon Dec 13 09:29:31 +0000 2021",
+		"id": 1470317579382128600,
+		"id_str": "1470324996715253760",
+		"full_text": "[특별한체험단 X 열여덟어른]\n 특별한 어른 용진호와 써니, 열여덟 어른이 함께 만든 가장 특별한 이모티콘 출시 임박!\n \n13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/eO9mwQrtEq\n \n#SMTOWN #SMile #써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트 https://t.co/1t9DMdsKBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "괴로운데이트",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eO9mwQrtEq",
+					"expanded_url": "https://bit.ly/30m2zpj",
+					"display_url": "bit.ly/30m2zpj",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470316247329869800,
+					"id_str": "1470316247329869824",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"url": "https://t.co/1t9DMdsKBC",
+					"display_url": "pic.twitter.com/1t9DMdsKBC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470317579382128643/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470316247329869800,
+					"id_str": "1470316247329869824",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"url": "https://t.co/1t9DMdsKBC",
+					"display_url": "pic.twitter.com/1t9DMdsKBC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470317579382128643/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22208,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/640x360/aBIBLl-FcaAAU9Qi.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/1280x720/obCmqMdikcc73x3T.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/pl/u86DY8u-HbNRTNhW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/480x270/V9iN4ToUCgYCJlQz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10294634,
+			"friends_count": 55,
+			"listed_count": 11256,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 3138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[특별한체험단 X 열여덟어른]\n 특별한 어른 용진호와 써니, 열여덟 어른이 함께 만든 가장 특별한 이모티콘 출시 임박!\n \n13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/eO9mwQrtEq\n \n#SMTOWN #SMile #써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트 https://t.co/1t9DMdsKBC"
+	},
+	{
 		"created_at": "Mon Dec 13 09:11:13 +0000 2021",
 		"id": 1470320392141222000,
 		"id_str": "1470320392141221891",
