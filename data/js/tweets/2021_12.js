@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 12:29:34 +0000 2021",
+		"id": 1470729030370578400,
+		"id_str": "1470732695814787074",
+		"full_text": "[#Video] #이진아\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 사랑의 재개발 - 이진아 직캠\n🔗 https://t.co/UnUuvYk7cK\n\n#LeeJinAh #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/7ZQuUqqumU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UnUuvYk7cK",
+					"expanded_url": "https://youtu.be/TnxX4EV_ccU",
+					"display_url": "youtu.be/TnxX4EV_ccU",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470727182255542300,
+					"id_str": "1470727182255542276",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FGkSuqiaIAIByII.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGkSuqiaIAIByII.jpg",
+					"url": "https://t.co/7ZQuUqqumU",
+					"display_url": "pic.twitter.com/7ZQuUqqumU",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470729030370578437/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470727182255542300,
+					"id_str": "1470727182255542276",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FGkSuqiaIAIByII.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGkSuqiaIAIByII.jpg",
+					"url": "https://t.co/7ZQuUqqumU",
+					"display_url": "pic.twitter.com/7ZQuUqqumU",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470729030370578437/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 13496,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470727182255542276/vid/320x568/a8Mqlv7zjy9lvM_4.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470727182255542276/vid/720x1280/6su8aDsjKYB3OShC.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470727182255542276/vid/480x852/3XDsRbETCO83t6sq.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1470727182255542276/pl/nh0mcT4PvilLPya5.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[안테나CAM] 사랑의 재개발 - 이진아 직캠",
+						"description": "슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 사랑의 재개발 - 이진아 직캠",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/TnxX4EV_ccU"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39842,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #이진아\n\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n슈퍼 새가수 뭐하니 가요제\n[안테나CAM] 사랑의 재개발 - 이진아 직캠\n🔗 https://t.co/UnUuvYk7cK\n\n#LeeJinAh #안테나 #Antenna\n#더듬이TV #우당탕탕안테나 #카카오TV https://t.co/7ZQuUqqumU"
+	},
+	{
 		"created_at": "Tue Dec 14 11:29:33 +0000 2021",
 		"id": 1470712555937341400,
 		"id_str": "1470717592352571397",
