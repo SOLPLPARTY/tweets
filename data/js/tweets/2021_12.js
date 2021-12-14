@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 03:29:27 +0000 2021",
+		"id": 1470589363641897000,
+		"id_str": "1470596770325483523",
+		"full_text": "𝗛𝗕𝗗\n12월 14일은 Lacuna(라쿠나) 오이삭의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #Lacuna #라쿠나 #오이삭 https://t.co/PHyScsrFV7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "Lacuna",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "라쿠나",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "오이삭",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1464062360193495000,
+					"id_str": "1464062360193495040",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FFFk9axacAA9cdd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFFk9axacAA9cdd.jpg",
+					"url": "https://t.co/PHyScsrFV7",
+					"display_url": "pic.twitter.com/PHyScsrFV7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1470589363641896964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1464062360193495000,
+					"id_str": "1464062360193495040",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FFFk9axacAA9cdd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFFk9axacAA9cdd.jpg",
+					"url": "https://t.co/PHyScsrFV7",
+					"display_url": "pic.twitter.com/PHyScsrFV7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1470589363641896964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12982,
+			"friends_count": 1932,
+			"listed_count": 252,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗛𝗕𝗗\n12월 14일은 Lacuna(라쿠나) 오이삭의 생일입니다.\n함께 축하해주세요 🍰\n\n#HBD #Lacuna #라쿠나 #오이삭 https://t.co/PHyScsrFV7"
+	},
+	{
 		"created_at": "Tue Dec 14 03:11:17 +0000 2021",
 		"id": 1470582939541176300,
 		"id_str": "1470592198894891009",
