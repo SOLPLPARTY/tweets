@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 11:29:33 +0000 2021",
+		"id": 1470712555937341400,
+		"id_str": "1470717592352571397",
+		"full_text": "[TEASER] 오진우(Oh Jinwoo) - 검질인생 (With Corona Weed Life) https://t.co/6LO03GrcsQ 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6LO03GrcsQ",
+					"expanded_url": "https://youtu.be/RmDzJppihfA",
+					"display_url": "youtu.be/RmDzJppihfA",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6Mhbnr1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6Mhbnr1",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 621,
+			"friends_count": 1763,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1639106577",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TEASER] 오진우(Oh Jinwoo) - 검질인생 (With Corona Weed Life) https://t.co/6LO03GrcsQ 출처 @YouTube"
+	},
+	{
+		"created_at": "Tue Dec 14 11:29:30 +0000 2021",
+		"id": 1470711357641457700,
+		"id_str": "1470717579236978693",
+		"full_text": "[#Teaser] #정승환\n\n정승환 Single ‘별 (Dear)’\nJung Seung Hwan Single ‘Dear’\n⠀\n💫 MV Teaser\nhttps://t.co/R8xtZJU5Lv\n\n2021. 12. 16. 6PM Release\n⠀\n#JungSeungHwan #별 #Dear\n#20211216_6PM https://t.co/jFyQGiFPuW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"text": "별",
+					"indices": [
+						150,
+						152
+					]
+				},
+				{
+					"text": "Dear",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "20211216_6PM",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R8xtZJU5Lv",
+					"expanded_url": "https://youtu.be/EdLxQs-wV0A",
+					"display_url": "youtu.be/EdLxQs-wV0A",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470711296215564300,
+					"id_str": "1470711296215564289",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470711296215564289/pu/img/Q8bo_KUEOqNHHsmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470711296215564289/pu/img/Q8bo_KUEOqNHHsmk.jpg",
+					"url": "https://t.co/jFyQGiFPuW",
+					"display_url": "pic.twitter.com/jFyQGiFPuW",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470711357641457668/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470711296215564300,
+					"id_str": "1470711296215564289",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470711296215564289/pu/img/Q8bo_KUEOqNHHsmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470711296215564289/pu/img/Q8bo_KUEOqNHHsmk.jpg",
+					"url": "https://t.co/jFyQGiFPuW",
+					"display_url": "pic.twitter.com/jFyQGiFPuW",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470711357641457668/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30058,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470711296215564289/pu/vid/1280x720/C44OzV1_y5Zf38Mt.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470711296215564289/pu/vid/640x360/q43tjRrQ8PvVA-Iy.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470711296215564289/pu/vid/480x270/R3XRlB-Au0Vm_sD7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1470711296215564289/pu/pl/whAA3s5jv6heAVoG.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39845,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #정승환\n\n정승환 Single ‘별 (Dear)’\nJung Seung Hwan Single ‘Dear’\n⠀\n💫 MV Teaser\nhttps://t.co/R8xtZJU5Lv\n\n2021. 12. 16. 6PM Release\n⠀\n#JungSeungHwan #별 #Dear\n#20211216_6PM https://t.co/jFyQGiFPuW"
+	},
+	{
 		"created_at": "Tue Dec 14 10:29:42 +0000 2021",
 		"id": 1470699292520489000,
 		"id_str": "1470702531034726402",
