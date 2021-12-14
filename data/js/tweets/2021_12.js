@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 13:29:31 +0000 2021",
+		"id": 1470740525708112000,
+		"id_str": "1470747782214561805",
+		"full_text": "[#정인] '값' Cover Live Clip #2 딘딘\n\n🎼 딘딘의 '정인 - 값' 커버 영상이 도착했습니다🎤\n딘딘이 부른 '값' 계속 들었더니 1박 2일 지나있었다☀🌕\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #딘딘 #Cover #LIVECLIP https://t.co/FhjlwT0RJl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						120,
+						122
+					]
+				},
+				{
+					"text": "딘딘",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "Cover",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "LIVECLIP",
+					"indices": [
+						134,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470696920620609500,
+					"id_str": "1470696920620609537",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1470696920620609537/img/QzfqD5NXUUW1gtpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1470696920620609537/img/QzfqD5NXUUW1gtpT.jpg",
+					"url": "https://t.co/FhjlwT0RJl",
+					"display_url": "pic.twitter.com/FhjlwT0RJl",
+					"expanded_url": "https://twitter.com/themysticstory/status/1470740525708111873/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470696920620609500,
+					"id_str": "1470696920620609537",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1470696920620609537/img/QzfqD5NXUUW1gtpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1470696920620609537/img/QzfqD5NXUUW1gtpT.jpg",
+					"url": "https://t.co/FhjlwT0RJl",
+					"display_url": "pic.twitter.com/FhjlwT0RJl",
+					"expanded_url": "https://twitter.com/themysticstory/status/1470740525708111873/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 100066,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470696920620609537/vid/640x360/Lo9QwLXXcUhvHq45.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470696920620609537/vid/480x270/cB6n-40UoRCQMPuF.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1470696920620609537/pl/uQztJHl-BG0vdHmd.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1470696920620609537/vid/1280x720/OT1X4uv0ITO9EVBL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#정인] '값' Cover Live Clip #2 딘딘",
+						"description": "[#정인] '값' Cover Live Clip #2 딘딘\n\n🎼 딘딘의 '정인 - 값' 커버 영상이 도착했습니다🎤\n딘딘이 부른 '값' 계속 들었더니 1박 2일 지나있었다☀🌕\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #딘딘 #Cover #LIVECLIP",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.instagram.com/tv/CXdrSvqp-GP/?utm_medium=copy_link"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32284,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] '값' Cover Live Clip #2 딘딘\n\n🎼 딘딘의 '정인 - 값' 커버 영상이 도착했습니다🎤\n딘딘이 부른 '값' 계속 들었더니 1박 2일 지나있었다☀🌕\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #딘딘 #Cover #LIVECLIP https://t.co/FhjlwT0RJl"
+	},
+	{
 		"created_at": "Tue Dec 14 12:29:34 +0000 2021",
 		"id": 1470729030370578400,
 		"id_str": "1470732695814787074",
