@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 10:29:42 +0000 2021",
+		"id": 1470699292520489000,
+		"id_str": "1470702531034726402",
+		"full_text": "❄️12/17 (금) 17:00 ~ 19:30 / 공연 종료 후 30분\n❄️12/18 (토) 15:00 ~ 17:30 / 공연 종료 후 30분\n❄️12/19 (일) 14:00 ~ 16:30 / 공연 종료 후 30분\n\n#JungSeungHwan #안녕겨울 #다시여기우리 #전국투어 #콘서트 https://t.co/iMAlO1hvcZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"text": "안녕겨울",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "다시여기우리",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						156,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470699287579267000,
+					"id_str": "1470699287579267072",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5Nb-VEAAK_XM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5Nb-VEAAK_XM.jpg",
+					"url": "https://t.co/iMAlO1hvcZ",
+					"display_url": "pic.twitter.com/iMAlO1hvcZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699292520488961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470699287579267000,
+					"id_str": "1470699287579267072",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5Nb-VEAAK_XM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5Nb-VEAAK_XM.jpg",
+					"url": "https://t.co/iMAlO1hvcZ",
+					"display_url": "pic.twitter.com/iMAlO1hvcZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699292520488961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470699287579271200,
+					"id_str": "1470699287579271169",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5Nb-VIAED38w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5Nb-VIAED38w.jpg",
+					"url": "https://t.co/iMAlO1hvcZ",
+					"display_url": "pic.twitter.com/iMAlO1hvcZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699292520488961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470699287726080000,
+					"id_str": "1470699287726080000",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5NchVQAAg84e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5NchVQAAg84e.jpg",
+					"url": "https://t.co/iMAlO1hvcZ",
+					"display_url": "pic.twitter.com/iMAlO1hvcZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699292520488961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470699287734489000,
+					"id_str": "1470699287734489088",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5NcjVkAA5Q24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5NcjVkAA5Q24.jpg",
+					"url": "https://t.co/iMAlO1hvcZ",
+					"display_url": "pic.twitter.com/iMAlO1hvcZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699292520488961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1470699284614230000,
+		"in_reply_to_status_id_str": "1470699284614230017",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39843,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❄️12/17 (금) 17:00 ~ 19:30 / 공연 종료 후 30분\n❄️12/18 (토) 15:00 ~ 17:30 / 공연 종료 후 30분\n❄️12/19 (일) 14:00 ~ 16:30 / 공연 종료 후 30분\n\n#JungSeungHwan #안녕겨울 #다시여기우리 #전국투어 #콘서트 https://t.co/iMAlO1hvcZ"
+	},
+	{
+		"created_at": "Tue Dec 14 10:29:34 +0000 2021",
+		"id": 1470699284614230000,
+		"id_str": "1470702497048244225",
+		"full_text": "[#Notice] #정승환\n\n‘2021 정승환의 안녕 겨울 : 다시 여기, 우리 - 서울’ 공식 MD 현장 판매 안내\n\n☑️부스 운영 시간: 공연 시작 3시간 전부터 공연 시작 30분 전 / 공연 종료 후 30분간 운영\n\n자세한 사항은 공지 이미지를 참고 부탁드리며,\n구매 시 유의 사항을 숙지해주시기 바랍니다. https://t.co/OhUW1MN5wy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470699278892880000,
+					"id_str": "1470699278892879873",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5M7nVUAEQZJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5M7nVUAEQZJv.jpg",
+					"url": "https://t.co/OhUW1MN5wy",
+					"display_url": "pic.twitter.com/OhUW1MN5wy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699284614230017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470699278892880000,
+					"id_str": "1470699278892879873",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5M7nVUAEQZJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5M7nVUAEQZJv.jpg",
+					"url": "https://t.co/OhUW1MN5wy",
+					"display_url": "pic.twitter.com/OhUW1MN5wy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699284614230017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470699278888624000,
+					"id_str": "1470699278888624129",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5M7mUYAE6Wlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5M7mUYAE6Wlt.jpg",
+					"url": "https://t.co/OhUW1MN5wy",
+					"display_url": "pic.twitter.com/OhUW1MN5wy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699284614230017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470699279035482000,
+					"id_str": "1470699279035482113",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5M8JVQAEAFEG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5M8JVQAEAFEG.jpg",
+					"url": "https://t.co/OhUW1MN5wy",
+					"display_url": "pic.twitter.com/OhUW1MN5wy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699284614230017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470699279052198000,
+					"id_str": "1470699279052197889",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FGj5M8NUUAEx14q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGj5M8NUUAEx14q.jpg",
+					"url": "https://t.co/OhUW1MN5wy",
+					"display_url": "pic.twitter.com/OhUW1MN5wy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1470699284614230017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39843,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #정승환\n\n‘2021 정승환의 안녕 겨울 : 다시 여기, 우리 - 서울’ 공식 MD 현장 판매 안내\n\n☑️부스 운영 시간: 공연 시작 3시간 전부터 공연 시작 30분 전 / 공연 종료 후 30분간 운영\n\n자세한 사항은 공지 이미지를 참고 부탁드리며,\n구매 시 유의 사항을 숙지해주시기 바랍니다. https://t.co/OhUW1MN5wy"
+	},
+	{
+		"created_at": "Tue Dec 14 10:29:32 +0000 2021",
+		"id": 1470695440396206000,
+		"id_str": "1470702488189820929",
+		"full_text": "[#Video] #적재\n\n공연 전 많이 긴장해서 손 푸는 적재 #shorts\n\n🔗 https://t.co/3l8EDcxRss\n\n#Jukjae #기타 #기타손풀기 #기타손푸는법",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "기타",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "기타손풀기",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "기타손푸는법",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3l8EDcxRss",
+					"expanded_url": "https://youtu.be/7h5Nly609bk",
+					"display_url": "youtu.be/7h5Nly609bk",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39843,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n공연 전 많이 긴장해서 손 푸는 적재 #shorts\n\n🔗 https://t.co/3l8EDcxRss\n\n#Jukjae #기타 #기타손풀기 #기타손푸는법"
+	},
+	{
 		"created_at": "Tue Dec 14 10:11:46 +0000 2021",
 		"id": 1470698016449437700,
 		"id_str": "1470698016449437696",
