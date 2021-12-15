@@ -1,6 +1,1535 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 03:58:24 +0000 2021",
+		"id": 1470957808913096700,
+		"id_str": "1470966444414414857",
+		"full_text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/21(화) 상상마당에서는 최고의 밴드들이 마지막 대미를 장식하게 되었는데요.\nLIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔유튜브 채널: https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/ttjbuYVuLE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470957801644064800,
+					"id_str": "1470957801644064768",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnkU76VgAAku3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnkU76VgAAku3r.jpg",
+					"url": "https://t.co/ttjbuYVuLE",
+					"display_url": "pic.twitter.com/ttjbuYVuLE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470957808913096704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470957801644064800,
+					"id_str": "1470957801644064768",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnkU76VgAAku3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnkU76VgAAku3r.jpg",
+					"url": "https://t.co/ttjbuYVuLE",
+					"display_url": "pic.twitter.com/ttjbuYVuLE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470957808913096704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470957801639800800,
+					"id_str": "1470957801639800833",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnkU75UcAEO1j-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnkU75UcAEO1j-.jpg",
+					"url": "https://t.co/ttjbuYVuLE",
+					"display_url": "pic.twitter.com/ttjbuYVuLE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470957808913096704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470957801639854000,
+					"id_str": "1470957801639854086",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnkU75VQAYBmTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnkU75VQAYBmTX.jpg",
+					"url": "https://t.co/ttjbuYVuLE",
+					"display_url": "pic.twitter.com/ttjbuYVuLE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470957808913096704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470957801635602400,
+					"id_str": "1470957801635602436",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnkU74UYAQMSQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnkU74UYAQMSQF.jpg",
+					"url": "https://t.co/ttjbuYVuLE",
+					"display_url": "pic.twitter.com/ttjbuYVuLE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470957808913096704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/21(화) 상상마당에서는 최고의 밴드들이 마지막 대미를 장식하게 되었는데요.\nLIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔유튜브 채널: https://t.co/jVb3Sjp36f\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/ttjbuYVuLE"
+	},
+	{
+		"created_at": "Wed Dec 15 03:58:15 +0000 2021",
+		"id": 1470952086708056000,
+		"id_str": "1470966405998731265",
+		"full_text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/19(일) CHS와 이날치의 공연을 스트레인지 프룻에서 만나실 수 있습니다!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔https://t.co/2sH5VBczTb\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/SJ9mWjK6QQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2sH5VBczTb",
+					"expanded_url": "http://youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470952080298758100,
+					"id_str": "1470952080298758147",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnfH6PUUAMArbJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnfH6PUUAMArbJ.jpg",
+					"url": "https://t.co/SJ9mWjK6QQ",
+					"display_url": "pic.twitter.com/SJ9mWjK6QQ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470952086708056069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470952080298758100,
+					"id_str": "1470952080298758147",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnfH6PUUAMArbJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnfH6PUUAMArbJ.jpg",
+					"url": "https://t.co/SJ9mWjK6QQ",
+					"display_url": "pic.twitter.com/SJ9mWjK6QQ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470952086708056069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470952080323977200,
+					"id_str": "1470952080323977219",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnfH6VVIAMwK10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnfH6VVIAMwK10.jpg",
+					"url": "https://t.co/SJ9mWjK6QQ",
+					"display_url": "pic.twitter.com/SJ9mWjK6QQ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470952086708056069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470952080516915200,
+					"id_str": "1470952080516915206",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnfH7DVIAYy8ud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnfH7DVIAYy8ud.jpg",
+					"url": "https://t.co/SJ9mWjK6QQ",
+					"display_url": "pic.twitter.com/SJ9mWjK6QQ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470952086708056069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470952080546275300,
+					"id_str": "1470952080546275330",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnfH7KVIAImYUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnfH7KVIAImYUc.jpg",
+					"url": "https://t.co/SJ9mWjK6QQ",
+					"display_url": "pic.twitter.com/SJ9mWjK6QQ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1470952086708056069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLUB DAY - LIVE IS HERE]\n12/19(일) CHS와 이날치의 공연을 스트레인지 프룻에서 만나실 수 있습니다!\n티켓을 예매하지 못하신 분들을 위해 LIVECLUBDAY 유튜브 채널에서 현장 중계를 진행합니다! \n✔https://t.co/2sH5VBczTb\n✔예매자는 공연장 입장 시 방역패스 인증을 필수로 진행합니다. https://t.co/SJ9mWjK6QQ"
+	},
+	{
+		"created_at": "Wed Dec 15 03:29:48 +0000 2021",
+		"id": 1470958200874991600,
+		"id_str": "1470959249874378753",
+		"full_text": "[#News] #정승환 \n\n'컴백' 정승환, 신곡 '별' MV 티저 영상 공개…독보적 겨울 감성\n\n(출처: 뉴스1 | 네이버 TV연예)\n\n✔️ https://t.co/8Lz4FoYKSy\n\n#JungSeungHwan #별 #Dear\n#20211216_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "별",
+					"indices": [
+						120,
+						122
+					]
+				},
+				{
+					"text": "Dear",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "20211216_6PM",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Lz4FoYKSy",
+					"expanded_url": "http://naver.me/5807LgMU",
+					"display_url": "naver.me/5807LgMU",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39855,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #정승환 \n\n'컴백' 정승환, 신곡 '별' MV 티저 영상 공개…독보적 겨울 감성\n\n(출처: 뉴스1 | 네이버 TV연예)\n\n✔️ https://t.co/8Lz4FoYKSy\n\n#JungSeungHwan #별 #Dear\n#20211216_6PM"
+	},
+	{
+		"created_at": "Wed Dec 15 03:29:45 +0000 2021",
+		"id": 1470954823847915500,
+		"id_str": "1470959236788240385",
+		"full_text": "[#별은] 싱글 발매 안내🎂\n\n'생일 축하해 (with. 정유빈)'\n발매됐습니다🎉\n\n멜론 https://t.co/FUXb9Tg9bI\n지니 https://t.co/Zfv5165owK\n바이브 https://t.co/GqIm0eoiQ3\n플로 https://t.co/sGBX8uEYvx\n벅스 https://t.co/DnCHvwGqkN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "별은",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FUXb9Tg9bI",
+					"expanded_url": "https://url.kr/i9ofrq",
+					"display_url": "url.kr/i9ofrq",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/Zfv5165owK",
+					"expanded_url": "https://url.kr/6217nx",
+					"display_url": "url.kr/6217nx",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/GqIm0eoiQ3",
+					"expanded_url": "https://url.kr/3b6vwu",
+					"display_url": "url.kr/3b6vwu",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/sGBX8uEYvx",
+					"expanded_url": "https://url.kr/rvapoc",
+					"display_url": "url.kr/rvapoc",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/DnCHvwGqkN",
+					"expanded_url": "https://url.kr/ytk427",
+					"display_url": "url.kr/ytk427",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1978,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#별은] 싱글 발매 안내🎂\n\n'생일 축하해 (with. 정유빈)'\n발매됐습니다🎉\n\n멜론 https://t.co/FUXb9Tg9bI\n지니 https://t.co/Zfv5165owK\n바이브 https://t.co/GqIm0eoiQ3\n플로 https://t.co/sGBX8uEYvx\n벅스 https://t.co/DnCHvwGqkN"
+	},
+	{
+		"created_at": "Wed Dec 15 03:29:43 +0000 2021",
+		"id": 1470951754472857600,
+		"id_str": "1470959227942359043",
+		"full_text": "[#미스틱스토리] 미스틱스토리 아티스트가 특별한 연말을 선사합니다🎵\n\n📌 일시 : 12. 20 8PM\n📌 공연 : 네이버 NOW. &lt;MYSTIC MADE&gt;\n📌 출연 : 윤종신, 조정치, 하림, 손태진, 민서, LUCY, Billlie\n\n#윤종신 #조정치 #하림 #손태진 #민서 #LUCY #루시 #Billlie #빌리 #MYSTICMADE #네이버NOW #NOW https://t.co/OPJC38JxH5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "조정치",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "하림",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "MYSTICMADE",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						204,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470943404389384200,
+					"id_str": "1470943404389384197",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnXO59VQAUGH52.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGnXO59VQAUGH52.png",
+					"url": "https://t.co/OPJC38JxH5",
+					"display_url": "pic.twitter.com/OPJC38JxH5",
+					"expanded_url": "https://twitter.com/themysticstory/status/1470951754472857601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470943404389384200,
+					"id_str": "1470943404389384197",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnXO59VQAUGH52.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGnXO59VQAUGH52.png",
+					"url": "https://t.co/OPJC38JxH5",
+					"display_url": "pic.twitter.com/OPJC38JxH5",
+					"expanded_url": "https://twitter.com/themysticstory/status/1470951754472857601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32315,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 758,
+		"favorite_count": 1649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] 미스틱스토리 아티스트가 특별한 연말을 선사합니다🎵\n\n📌 일시 : 12. 20 8PM\n📌 공연 : 네이버 NOW. &lt;MYSTIC MADE&gt;\n📌 출연 : 윤종신, 조정치, 하림, 손태진, 민서, LUCY, Billlie\n\n#윤종신 #조정치 #하림 #손태진 #민서 #LUCY #루시 #Billlie #빌리 #MYSTICMADE #네이버NOW #NOW https://t.co/OPJC38JxH5"
+	},
+	{
+		"created_at": "Wed Dec 15 03:29:35 +0000 2021",
+		"id": 1470947224217882600,
+		"id_str": "1470959193800810504",
+		"full_text": "The poster of PARK SOOYOUNG’s new drama ‘한 사람만’ has been released! \nFirst episode to air on 12/20 at 11PM KST on JTBC!\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/eOk9kzyBkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470947046529978400,
+					"id_str": "1470947046529978372",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"url": "https://t.co/eOk9kzyBkU",
+					"display_url": "pic.twitter.com/eOk9kzyBkU",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470947224217882629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1450,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470947046529978400,
+					"id_str": "1470947046529978372",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"url": "https://t.co/eOk9kzyBkU",
+					"display_url": "pic.twitter.com/eOk9kzyBkU",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470947224217882629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1450,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10299974,
+			"friends_count": 55,
+			"listed_count": 11272,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3686,
+		"favorite_count": 9746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The poster of PARK SOOYOUNG’s new drama ‘한 사람만’ has been released! \nFirst episode to air on 12/20 at 11PM KST on JTBC!\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/eOk9kzyBkU"
+	},
+	{
+		"created_at": "Wed Dec 15 03:29:32 +0000 2021",
+		"id": 1470945116345213000,
+		"id_str": "1470959180680998915",
+		"full_text": "[NEWS] [종합] '헬로트로트' 1차 팀대항전 승부 갈렸다, 1위는 누구?\n\n👉 https://t.co/cFnP85PPan\n\n#인순이 #INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #헬로트로트 #MBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "헬로트로트",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						115,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cFnP85PPan",
+					"expanded_url": "http://www.topstarnews.net/news/articleView.html?idxno=14656973",
+					"display_url": "topstarnews.net/news/articleVi…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] [종합] '헬로트로트' 1차 팀대항전 승부 갈렸다, 1위는 누구?\n\n👉 https://t.co/cFnP85PPan\n\n#인순이 #INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #헬로트로트 #MBN"
+	},
+	{
 		"created_at": "Wed Dec 15 03:11:17 +0000 2021",
 		"id": 1470951752488743000,
 		"id_str": "1470954586190102531",
