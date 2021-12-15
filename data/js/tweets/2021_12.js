@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 05:29:25 +0000 2021",
+		"id": 1470988928455147500,
+		"id_str": "1470989349131108356",
+		"full_text": "[#NEWS] \"윤종신→빌리\" 미스틱, 20일 네이버 NOW. 연말 라이브 쇼 생중계\n\n▶ https://t.co/LF8rJTMbjX\n\n#미스틱스토리 #MYSTICSTORY #미스틱메이드 #MYSTICMADE #윤종신 #조정치 #하림 #민서 #손태진 #LUCY #Billlie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "미스틱메이드",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "MYSTICMADE",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "조정치",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "하림",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						146,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LF8rJTMbjX",
+					"expanded_url": "https://bit.ly/31Zn8sa",
+					"display_url": "bit.ly/31Zn8sa",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32323,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] \"윤종신→빌리\" 미스틱, 20일 네이버 NOW. 연말 라이브 쇼 생중계\n\n▶ https://t.co/LF8rJTMbjX\n\n#미스틱스토리 #MYSTICSTORY #미스틱메이드 #MYSTICMADE #윤종신 #조정치 #하림 #민서 #손태진 #LUCY #Billlie"
+	},
+	{
 		"created_at": "Wed Dec 15 04:29:33 +0000 2021",
 		"id": 1470969285350916000,
 		"id_str": "1470974282952019969",
