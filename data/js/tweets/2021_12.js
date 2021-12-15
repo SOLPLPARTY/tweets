@@ -1,6 +1,1236 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 12:29:53 +0000 2021",
+		"id": 1471093536909312000,
+		"id_str": "1471095166215802889",
+		"full_text": "17. 행복을 주는 사람 + 귤 + 로고송\n18. New Hippie Generation\n19. 청춘 (For 영화 족구왕)\n20. FAST\n21. 겨울의 사업가\n22. 21세기의 어떤 날\n\n(Encore 1) 긴 여행의 끝\n(Encore 2) long way\n\n@pptnzexpress \n#Peppertones #신재평 #이장원\n#TRAVELERS #콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Peppertones",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "TRAVELERS",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						196,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						147,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471093533096689700,
+		"in_reply_to_status_id_str": "1471093533096689664",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39861,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "17. 행복을 주는 사람 + 귤 + 로고송\n18. New Hippie Generation\n19. 청춘 (For 영화 족구왕)\n20. FAST\n21. 겨울의 사업가\n22. 21세기의 어떤 날\n\n(Encore 1) 긴 여행의 끝\n(Encore 2) long way\n\n@pptnzexpress \n#Peppertones #신재평 #이장원\n#TRAVELERS #콘서트"
+	},
+	{
+		"created_at": "Wed Dec 15 12:29:49 +0000 2021",
+		"id": 1471093533096689700,
+		"id_str": "1471095148788563972",
+		"full_text": "&lt;SET LIST&gt;\n \n01. Bikini\n02. 바이킹\n03. 카우보이의 바다\n04. 행운을 빌어요\n05. Wish-list\n06. 러브앤피스\n07. Fake Traveler\n08. c a m e r a\n09. FILM LOVE (Feat. 스텔라장)\n10. Galaxy Tourist\n11. 검은 산\n12. 새\n13. Fine\n14. 검은 우주\n15. SOLAR SYSTEM SUPER STARS\n16. Chance! https://t.co/XtYspGwKYg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471093523608789000,
+					"id_str": "1471093523608788995",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfw_oUYAMKa-G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfw_oUYAMKa-G.jpg",
+					"url": "https://t.co/XtYspGwKYg",
+					"display_url": "pic.twitter.com/XtYspGwKYg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093533096689664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471093523608789000,
+					"id_str": "1471093523608788995",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfw_oUYAMKa-G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfw_oUYAMKa-G.jpg",
+					"url": "https://t.co/XtYspGwKYg",
+					"display_url": "pic.twitter.com/XtYspGwKYg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093533096689664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471093523898265600,
+					"id_str": "1471093523898265600",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfxAtVcAAPKit.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfxAtVcAAPKit.jpg",
+					"url": "https://t.co/XtYspGwKYg",
+					"display_url": "pic.twitter.com/XtYspGwKYg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093533096689664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471093524170829800,
+					"id_str": "1471093524170829826",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfxBuUcAIkEl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfxBuUcAIkEl9.jpg",
+					"url": "https://t.co/XtYspGwKYg",
+					"display_url": "pic.twitter.com/XtYspGwKYg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093533096689664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471093524380590000,
+					"id_str": "1471093524380590084",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfxCgVIAQuiXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfxCgVIAQuiXH.jpg",
+					"url": "https://t.co/XtYspGwKYg",
+					"display_url": "pic.twitter.com/XtYspGwKYg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093533096689664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471093518647296000,
+		"in_reply_to_status_id_str": "1471093518647296001",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39861,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;SET LIST&gt;\n \n01. Bikini\n02. 바이킹\n03. 카우보이의 바다\n04. 행운을 빌어요\n05. Wish-list\n06. 러브앤피스\n07. Fake Traveler\n08. c a m e r a\n09. FILM LOVE (Feat. 스텔라장)\n10. Galaxy Tourist\n11. 검은 산\n12. 새\n13. Fine\n14. 검은 우주\n15. SOLAR SYSTEM SUPER STARS\n16. Chance! https://t.co/XtYspGwKYg"
+	},
+	{
+		"created_at": "Wed Dec 15 12:29:44 +0000 2021",
+		"id": 1471093518647296000,
+		"id_str": "1471095127330496514",
+		"full_text": "[#Photo] #페퍼톤스\n\n페퍼톤스와 함께 떠난 여행, 2021 페퍼톤스 콘서트 'TRAVELERS' 현장을 담은 사진을 공개합니다✈️ 이틀간 행복한 여행 보내셨길 바라며, 함께해 주신 분들 모두 감사합니다! https://t.co/kEGwtHfJGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						9,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471093504101077000,
+					"id_str": "1471093504101076997",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfv29UUAUsU4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfv29UUAUsU4p.jpg",
+					"url": "https://t.co/kEGwtHfJGF",
+					"display_url": "pic.twitter.com/kEGwtHfJGF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093518647296001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471093504101077000,
+					"id_str": "1471093504101076997",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfv29UUAUsU4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfv29UUAUsU4p.jpg",
+					"url": "https://t.co/kEGwtHfJGF",
+					"display_url": "pic.twitter.com/kEGwtHfJGF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093518647296001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471093504088555500,
+					"id_str": "1471093504088555524",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfv26VQAQHhQN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfv26VQAQHhQN.jpg",
+					"url": "https://t.co/kEGwtHfJGF",
+					"display_url": "pic.twitter.com/kEGwtHfJGF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093518647296001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471093504092741600,
+					"id_str": "1471093504092741633",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfv27VIAEQjwd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfv27VIAEQjwd.jpg",
+					"url": "https://t.co/kEGwtHfJGF",
+					"display_url": "pic.twitter.com/kEGwtHfJGF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093518647296001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471093504398876700,
+					"id_str": "1471093504398876676",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpfv4EUYAQxk6c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpfv4EUYAQxk6c.jpg",
+					"url": "https://t.co/kEGwtHfJGF",
+					"display_url": "pic.twitter.com/kEGwtHfJGF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471093518647296001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39861,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Photo] #페퍼톤스\n\n페퍼톤스와 함께 떠난 여행, 2021 페퍼톤스 콘서트 'TRAVELERS' 현장을 담은 사진을 공개합니다✈️ 이틀간 행복한 여행 보내셨길 바라며, 함께해 주신 분들 모두 감사합니다! https://t.co/kEGwtHfJGF"
+	},
+	{
+		"created_at": "Wed Dec 15 12:29:41 +0000 2021",
+		"id": 1471087648949297200,
+		"id_str": "1471095114252668929",
+		"full_text": "[FOR FANS] GSoul - Broken Record (Live Clip)\n\n🎞https://t.co/9d29EqAHX9\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #GSoul #지소울 #BrokenRecord  #LIVE https://t.co/15uFCVCZPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "워너뮤직케이팝",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "BrokenRecord",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9d29EqAHX9",
+					"expanded_url": "https://youtu.be/wKDO_Yrt1TA",
+					"display_url": "youtu.be/wKDO_Yrt1TA",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471060428759330800,
+					"id_str": "1471060428759330821",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471060428759330821/pu/img/lKYmLMtM4hkfp2Nl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471060428759330821/pu/img/lKYmLMtM4hkfp2Nl.jpg",
+					"url": "https://t.co/15uFCVCZPf",
+					"display_url": "pic.twitter.com/15uFCVCZPf",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1471087648949297156/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471060428759330800,
+					"id_str": "1471060428759330821",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471060428759330821/pu/img/lKYmLMtM4hkfp2Nl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471060428759330821/pu/img/lKYmLMtM4hkfp2Nl.jpg",
+					"url": "https://t.co/15uFCVCZPf",
+					"display_url": "pic.twitter.com/15uFCVCZPf",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1471087648949297156/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33783,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471060428759330821/pu/pl/uaSU_jIQ5ADevFzG.m3u8?tag=12&container=fmp4&v=d2d"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471060428759330821/pu/vid/1280x720/p-Jm-eTOesux53dn.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471060428759330821/pu/vid/480x270/u7qwQ7RY1PWS6S50.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471060428759330821/pu/vid/640x360/Ql3huSrXAJ0zl9pt.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51946,
+			"friends_count": 494,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[FOR FANS] GSoul - Broken Record (Live Clip)\n\n🎞https://t.co/9d29EqAHX9\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #GSoul #지소울 #BrokenRecord  #LIVE https://t.co/15uFCVCZPf"
+	},
+	{
+		"created_at": "Wed Dec 15 12:29:32 +0000 2021",
+		"id": 1471087642892714000,
+		"id_str": "1471095075878973450",
+		"full_text": "[FOR FANS] GSoul - Hate Everything (Live Clip)\n\n🎞https://t.co/DmPZMCA4RB\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #GSoul #지소울 #HateEverything #LIVE https://t.co/i0rVDbzL2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"text": "워너뮤직케이팝",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "HateEverything",
+					"indices": [
+						120,
+						135
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DmPZMCA4RB",
+					"expanded_url": "https://youtu.be/-j9A0U9sJis",
+					"display_url": "youtu.be/-j9A0U9sJis",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471060639346921500,
+					"id_str": "1471060639346921474",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471060639346921474/pu/img/TVvXlOt7WfXqh2Ei.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471060639346921474/pu/img/TVvXlOt7WfXqh2Ei.jpg",
+					"url": "https://t.co/i0rVDbzL2l",
+					"display_url": "pic.twitter.com/i0rVDbzL2l",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1471087642892713989/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471060639346921500,
+					"id_str": "1471060639346921474",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471060639346921474/pu/img/TVvXlOt7WfXqh2Ei.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471060639346921474/pu/img/TVvXlOt7WfXqh2Ei.jpg",
+					"url": "https://t.co/i0rVDbzL2l",
+					"display_url": "pic.twitter.com/i0rVDbzL2l",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1471087642892713989/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32657,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471060639346921474/pu/vid/640x360/p-DGLQ6NmcRE0XZk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471060639346921474/pu/pl/wtciHNPtWY5jwJca.m3u8?tag=12&container=fmp4&v=b83"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471060639346921474/pu/vid/480x270/jB1gasRe7ybo13di.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471060639346921474/pu/vid/1280x720/MuO3QOH-4evigsMO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51946,
+			"friends_count": 494,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[FOR FANS] GSoul - Hate Everything (Live Clip)\n\n🎞https://t.co/DmPZMCA4RB\n\n#warnerkpop #warnermusic #워너뮤직케이팝 #GSoul #지소울 #HateEverything #LIVE https://t.co/i0rVDbzL2l"
+	},
+	{
 		"created_at": "Wed Dec 15 11:32:09 +0000 2021",
 		"id": 1471080637255848000,
 		"id_str": "1471080637255847944",
