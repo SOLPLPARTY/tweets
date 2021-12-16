@@ -1,6 +1,1072 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 03:29:47 +0000 2021",
+		"id": 1471319262258430000,
+		"id_str": "1471321631578599427",
+		"full_text": "D -07\n9와 숫자들 [Totally Blue] \n9초 미리듣기!\n21.12.23.12pm.\nTrack 4. 죽지는 마\n.\n.\n.\n#9와숫자들 #토털리블루  #트랙_4 #죽지는마  #9andthenumbers #totally_blue #release \n@9andthenumbers https://t.co/lTmDqAWSD7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "토털리블루",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "트랙_4",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "죽지는마",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "9andthenumbers",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"text": "totally_blue",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "9andthenumbers",
+					"name": "9와 숫자들 '토털리 블루' (12/23 발매)",
+					"id": 118578410,
+					"id_str": "118578410",
+					"indices": [
+						142,
+						157
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471319247691288600,
+					"id_str": "1471319247691288576",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471319247691288576/pu/img/W3AwkncVkGB_6qmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471319247691288576/pu/img/W3AwkncVkGB_6qmg.jpg",
+					"url": "https://t.co/lTmDqAWSD7",
+					"display_url": "pic.twitter.com/lTmDqAWSD7",
+					"expanded_url": "https://twitter.com/orm_ent/status/1471319262258429952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471319247691288600,
+					"id_str": "1471319247691288576",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471319247691288576/pu/img/W3AwkncVkGB_6qmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471319247691288576/pu/img/W3AwkncVkGB_6qmg.jpg",
+					"url": "https://t.co/lTmDqAWSD7",
+					"display_url": "pic.twitter.com/lTmDqAWSD7",
+					"expanded_url": "https://twitter.com/orm_ent/status/1471319262258429952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9033,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471319247691288576/pu/vid/720x720/s5wpRJeFYXyjlebn.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471319247691288576/pu/vid/540x540/ZrINBmQttaWtgznA.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471319247691288576/pu/vid/320x320/MtYbizcpUbboRjnu.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471319247691288576/pu/pl/wixbB9pdBAJuqj-B.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 727,
+			"friends_count": 323,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1638329097",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D -07\n9와 숫자들 [Totally Blue] \n9초 미리듣기!\n21.12.23.12pm.\nTrack 4. 죽지는 마\n.\n.\n.\n#9와숫자들 #토털리블루  #트랙_4 #죽지는마  #9andthenumbers #totally_blue #release \n@9andthenumbers https://t.co/lTmDqAWSD7"
+	},
+	{
+		"created_at": "Thu Dec 16 03:29:44 +0000 2021",
+		"id": 1471319056028700700,
+		"id_str": "1471321618542735362",
+		"full_text": "💿CD🔥Out Now🔥\n엔분의일 1/N (ONE OVER N) New EP CD📀\n'꽃길' - Flower Shower\n아래 링크에서 구매하실 수 있습니다\n\n📀알라딘 https://t.co/KTvH6BnhnG\n📀예스24 https://t.co/JpHL1Gw4Kz\n📀인터파크 https://t.co/hvIHaEToEr\n📀핫트랙스 https://t.co/9R3wbnKLEZ\n\n#엔분의일 #꽃길 #FlowerShower https://t.co/hbZn6XhItd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엔분의일",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "꽃길",
+					"indices": [
+						214,
+						217
+					]
+				},
+				{
+					"text": "FlowerShower",
+					"indices": [
+						218,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KTvH6BnhnG",
+					"expanded_url": "https://bit.ly/3dThFpt",
+					"display_url": "bit.ly/3dThFpt",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/JpHL1Gw4Kz",
+					"expanded_url": "https://bit.ly/323CMCP",
+					"display_url": "bit.ly/323CMCP",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/hvIHaEToEr",
+					"expanded_url": "https://bit.ly/30w4RlP",
+					"display_url": "bit.ly/30w4RlP",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/9R3wbnKLEZ",
+					"expanded_url": "https://bit.ly/3F1FxDm",
+					"display_url": "bit.ly/3F1FxDm",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471318762452185000,
+					"id_str": "1471318762452185090",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FGssnntUcAIaqWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGssnntUcAIaqWJ.jpg",
+					"url": "https://t.co/hbZn6XhItd",
+					"display_url": "pic.twitter.com/hbZn6XhItd",
+					"expanded_url": "https://twitter.com/sugar_records/status/1471319056028700675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471318762452185000,
+					"id_str": "1471318762452185090",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FGssnntUcAIaqWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGssnntUcAIaqWJ.jpg",
+					"url": "https://t.co/hbZn6XhItd",
+					"display_url": "pic.twitter.com/hbZn6XhItd",
+					"expanded_url": "https://twitter.com/sugar_records/status/1471319056028700675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿CD🔥Out Now🔥\n엔분의일 1/N (ONE OVER N) New EP CD📀\n'꽃길' - Flower Shower\n아래 링크에서 구매하실 수 있습니다\n\n📀알라딘 https://t.co/KTvH6BnhnG\n📀예스24 https://t.co/JpHL1Gw4Kz\n📀인터파크 https://t.co/hvIHaEToEr\n📀핫트랙스 https://t.co/9R3wbnKLEZ\n\n#엔분의일 #꽃길 #FlowerShower https://t.co/hbZn6XhItd"
+	},
+	{
+		"created_at": "Thu Dec 16 03:29:39 +0000 2021",
+		"id": 1471314172269203500,
+		"id_str": "1471321597122420737",
+		"full_text": "열여덟 어른 모금함 기부하기 \n👉 https://t.co/ZGNDAhQlZX  \n\n본 캠페인은 SM엔터테인먼트 SMile, 아름다운재단, 카카오같이가치가 함께합니다.\n\n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치 https://t.co/eBHtQCqZKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "괴로운데이트",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "아름다운재단",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "열여덟어른",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "카카오같이가치",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZGNDAhQlZX",
+					"expanded_url": "https://together.kakao.com/fundraisings/93007",
+					"display_url": "together.kakao.com/fundraisings/9…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471314163200774100,
+					"id_str": "1471314163200774147",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471314163200774100,
+					"id_str": "1471314163200774147",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471314163288789000,
+					"id_str": "1471314163288788994",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob6fUUAIucVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob6fUUAIucVs.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471314163498565600,
+					"id_str": "1471314163498565633",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob7RVQAE-QIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob7RVQAE-QIm.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471314160952967200,
+		"in_reply_to_status_id_str": "1471314160952967170",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10303497,
+			"friends_count": 55,
+			"listed_count": 11296,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "열여덟 어른 모금함 기부하기 \n👉 https://t.co/ZGNDAhQlZX  \n\n본 캠페인은 SM엔터테인먼트 SMile, 아름다운재단, 카카오같이가치가 함께합니다.\n\n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치 https://t.co/eBHtQCqZKg"
+	},
+	{
+		"created_at": "Thu Dec 16 03:29:33 +0000 2021",
+		"id": 1471314160952967200,
+		"id_str": "1471321571386175494",
+		"full_text": "용진호, 써니, 열여덟 어른이 우리의 이야기를 담은 이모티콘을 만들었습니다. \n🖐🖐맘껏 써주실 분 계신가요🖐🖐 \n\n아래 링크에서 열여덟 어른을 응원하는 메시지를 남겨주세요😍\nhttps://t.co/YJ4rXiwCBb\n\n특별한 체험단 X 열여덟 어른 Youtube 보러가기 \n👉 https://t.co/7HlhKNrFUI https://t.co/kBVxLYdIfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YJ4rXiwCBb",
+					"expanded_url": "https://together.kakao.com/events/eighteen-project",
+					"display_url": "together.kakao.com/events/eightee…",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/7HlhKNrFUI",
+					"expanded_url": "https://bit.ly/3IIyH88",
+					"display_url": "bit.ly/3IIyH88",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471314155911073800,
+					"id_str": "1471314155911073796",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsobfAVUAQ124N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsobfAVUAQ124N.jpg",
+					"url": "https://t.co/kBVxLYdIfR",
+					"display_url": "pic.twitter.com/kBVxLYdIfR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314160952967170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471314155911073800,
+					"id_str": "1471314155911073796",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsobfAVUAQ124N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsobfAVUAQ124N.jpg",
+					"url": "https://t.co/kBVxLYdIfR",
+					"display_url": "pic.twitter.com/kBVxLYdIfR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314160952967170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471314155911012400,
+					"id_str": "1471314155911012356",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsobfAUYAQe3cm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsobfAUYAQe3cm.jpg",
+					"url": "https://t.co/kBVxLYdIfR",
+					"display_url": "pic.twitter.com/kBVxLYdIfR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314160952967170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10303497,
+			"friends_count": 55,
+			"listed_count": 11296,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 3056,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "용진호, 써니, 열여덟 어른이 우리의 이야기를 담은 이모티콘을 만들었습니다. \n🖐🖐맘껏 써주실 분 계신가요🖐🖐 \n\n아래 링크에서 열여덟 어른을 응원하는 메시지를 남겨주세요😍\nhttps://t.co/YJ4rXiwCBb\n\n특별한 체험단 X 열여덟 어른 Youtube 보러가기 \n👉 https://t.co/7HlhKNrFUI https://t.co/kBVxLYdIfR"
+	},
+	{
 		"created_at": "Thu Dec 16 03:18:25 +0000 2021",
 		"id": 1471318771084271600,
 		"id_str": "1471318771084271616",
