@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 13:29:36 +0000 2021",
+		"id": 1471471407544811500,
+		"id_str": "1471472579659636748",
+		"full_text": "[#손태진] 1st EP The Present [At The Time] 발매 기념 영상통화 당첨자 안내✔\n\n📌 일시\n2021. 12. 17(금) 8PM\n\n📌 당첨자 확인 및 안내 사항\nhttps://t.co/zLjIwDNDu7\n\n#SONTAEJIN #TJSON #ThePresent_AtTheTime #깊어지네 #BeDeep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "ThePresent_AtTheTime",
+					"indices": [
+						146,
+						167
+					]
+				},
+				{
+					"text": "깊어지네",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "BeDeep",
+					"indices": [
+						174,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zLjIwDNDu7",
+					"expanded_url": "https://bit.ly/3e3ecod",
+					"display_url": "bit.ly/3e3ecod",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32385,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] 1st EP The Present [At The Time] 발매 기념 영상통화 당첨자 안내✔\n\n📌 일시\n2021. 12. 17(금) 8PM\n\n📌 당첨자 확인 및 안내 사항\nhttps://t.co/zLjIwDNDu7\n\n#SONTAEJIN #TJSON #ThePresent_AtTheTime #깊어지네 #BeDeep"
+	},
+	{
+		"created_at": "Thu Dec 16 13:29:33 +0000 2021",
+		"id": 1471465237136437200,
+		"id_str": "1471472566590226438",
+		"full_text": "[#정인] '값' Cover Live Clip #4 황보름별\n\n🎼 황보름별의 '정인 - 값' 커버 영상이 도착했습니다🎤\n'학교2021'에서 활약 중인 황보름별🌕\n연기만 잘하는 줄 알았는데 노래도 잘하'서영'⭐\n\n🎵 Full ver. &gt; https://t.co/LiIfPyM3n7\n\n#JUNGIN #값 #황보름별 #Cover #LIVECLIP https://t.co/qRH0FJJ0Z4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						168,
+						170
+					]
+				},
+				{
+					"text": "황보름별",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "Cover",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "LIVECLIP",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LiIfPyM3n7",
+					"expanded_url": "https://bit.ly/3dWGt00",
+					"display_url": "bit.ly/3dWGt00",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471385084507074600,
+					"id_str": "1471385084507074560",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FGukQb1aIAETDic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGukQb1aIAETDic.jpg",
+					"url": "https://t.co/qRH0FJJ0Z4",
+					"display_url": "pic.twitter.com/qRH0FJJ0Z4",
+					"expanded_url": "https://twitter.com/themysticstory/status/1471465237136437249/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1596,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471385084507074600,
+					"id_str": "1471385084507074560",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FGukQb1aIAETDic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGukQb1aIAETDic.jpg",
+					"url": "https://t.co/qRH0FJJ0Z4",
+					"display_url": "pic.twitter.com/qRH0FJJ0Z4",
+					"expanded_url": "https://twitter.com/themysticstory/status/1471465237136437249/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1596,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 124666,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471385084507074560/vid/1280x720/pUw2IT30bBvxDPRD.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471385084507074560/pl/9O4vHaJAk9OSSvPd.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471385084507074560/vid/480x270/KHC4pGlDEawjm6SC.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471385084507074560/vid/640x360/VRoYwsqNFSYAds43.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#정인] '값' Cover Live Clip #4 황보름별",
+						"description": "[#정인] '값' Cover Live Clip #4 황보름별\n\n🎼 황보름별의 '정인 - 값' 커버 영상이 도착했습니다🎤\n'학교2021'에서 활약 중인 황보름별🌕\n연기만 잘하는 줄 알았는데 노래도 잘하'서영'⭐\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #황보름별 #Cover #LIVECLIP",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://bit.ly/3dWGt00"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32385,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] '값' Cover Live Clip #4 황보름별\n\n🎼 황보름별의 '정인 - 값' 커버 영상이 도착했습니다🎤\n'학교2021'에서 활약 중인 황보름별🌕\n연기만 잘하는 줄 알았는데 노래도 잘하'서영'⭐\n\n🎵 Full ver. &gt; https://t.co/LiIfPyM3n7\n\n#JUNGIN #값 #황보름별 #Cover #LIVECLIP https://t.co/qRH0FJJ0Z4"
+	},
+	{
+		"created_at": "Thu Dec 16 13:29:31 +0000 2021",
+		"id": 1471465134191169500,
+		"id_str": "1471472557547298820",
+		"full_text": "[#Video] #정승환\n\n&lt;2021 정승환의 안녕 겨울 : 다시 여기, 우리&gt;\n❄️D-1❄️\n\n정승환 - '별 (Dear)' LIVE CLIP (PIANO VER.)\n🔗 https://t.co/CwIylvMShr\n\n#JungSeungHwan #별 #Dear \n#안녕겨울 #다시여기우리 #전국투어 #콘서트 https://t.co/IsyII6RFuL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						127,
+						141
+					]
+				},
+				{
+					"text": "별",
+					"indices": [
+						142,
+						144
+					]
+				},
+				{
+					"text": "Dear",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "안녕겨울",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "다시여기우리",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						172,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CwIylvMShr",
+					"expanded_url": "https://youtu.be/hV-YTf6oD1g",
+					"display_url": "youtu.be/hV-YTf6oD1g",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471443927425519600,
+					"id_str": "1471443927425519618",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FGufAeuaUAIGlrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGufAeuaUAIGlrM.jpg",
+					"url": "https://t.co/IsyII6RFuL",
+					"display_url": "pic.twitter.com/IsyII6RFuL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471465134191169542/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471443927425519600,
+					"id_str": "1471443927425519618",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FGufAeuaUAIGlrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGufAeuaUAIGlrM.jpg",
+					"url": "https://t.co/IsyII6RFuL",
+					"display_url": "pic.twitter.com/IsyII6RFuL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1471465134191169542/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60226,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471443927425519618/vid/480x270/oZlw0GAZaEKNs1q2.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471443927425519618/vid/640x360/SXn1hOC0nQb6JeBn.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471443927425519618/vid/1280x720/98bfdv0-4Z4rVvnY.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471443927425519618/pl/8oVdohkeVqaVG9ye.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "정승환 - '별 (Dear)' LIVE CLIP (PIANO VER.)",
+						"description": "<2021 정승환의 안녕 겨울 : 다시 여기, 우리>\n❄️D-1❄️",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/hV-YTf6oD1g"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39878,
+			"friends_count": 11,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\n&lt;2021 정승환의 안녕 겨울 : 다시 여기, 우리&gt;\n❄️D-1❄️\n\n정승환 - '별 (Dear)' LIVE CLIP (PIANO VER.)\n🔗 https://t.co/CwIylvMShr\n\n#JungSeungHwan #별 #Dear \n#안녕겨울 #다시여기우리 #전국투어 #콘서트 https://t.co/IsyII6RFuL"
+	},
+	{
 		"created_at": "Thu Dec 16 12:15:10 +0000 2021",
 		"id": 1471453849005273000,
 		"id_str": "1471453849005273091",
