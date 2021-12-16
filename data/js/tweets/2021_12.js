@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 14:29:25 +0000 2021",
+		"id": 1471475196842233900,
+		"id_str": "1471487631917735941",
+		"full_text": "[#손태진 #민서] '손태진, 케빈오, 김바울 콘서트 &lt;스윗 랑데부&gt;' 성료✔\n\n손태진 &amp; 민서를 만나서 더욱 행복했던 콘서트 함께하셨나요❓\n오늘도 달콤한 밤 되세요🌙\n\n#SONTAEJIN #TJSON #MINSEO #스윗랑데부 https://t.co/QLCBsEIbjP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "스윗랑데부",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471472175194390500,
+					"id_str": "1471472175194390531",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FGu4JatVQAMrP1F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGu4JatVQAMrP1F.jpg",
+					"url": "https://t.co/QLCBsEIbjP",
+					"display_url": "pic.twitter.com/QLCBsEIbjP",
+					"expanded_url": "https://twitter.com/themysticstory/status/1471475196842233858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471472175194390500,
+					"id_str": "1471472175194390531",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FGu4JatVQAMrP1F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGu4JatVQAMrP1F.jpg",
+					"url": "https://t.co/QLCBsEIbjP",
+					"display_url": "pic.twitter.com/QLCBsEIbjP",
+					"expanded_url": "https://twitter.com/themysticstory/status/1471475196842233858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32381,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진 #민서] '손태진, 케빈오, 김바울 콘서트 &lt;스윗 랑데부&gt;' 성료✔\n\n손태진 &amp; 민서를 만나서 더욱 행복했던 콘서트 함께하셨나요❓\n오늘도 달콤한 밤 되세요🌙\n\n#SONTAEJIN #TJSON #MINSEO #스윗랑데부 https://t.co/QLCBsEIbjP"
+	},
+	{
 		"created_at": "Thu Dec 16 13:29:36 +0000 2021",
 		"id": 1471471407544811500,
 		"id_str": "1471472579659636748",
