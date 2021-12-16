@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 04:29:32 +0000 2021",
+		"id": 1471335601194823700,
+		"id_str": "1471336667713785859",
+		"full_text": "🔔12월 16일 오늘밤 10:30~11:30 사이에만 가능합니다!!!!\n전화번호 적는 곳에 #4560 \n🔔문자 적는 곳에 \"손진욱\" 또는 숫자 \"1\" 만 적으셔야 합니다.\n(꼭 위에 두가지만 인정 됩니다.)\n\"1번\" 또는 \"손진욱 화이팅\" 이런 식으로 적으시면 투표가 \n인정되지 않습니다. (꼭 확인 부탁드려요) https://t.co/4mrmkXaWUb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471335326115254300,
+					"id_str": "1471335326115254272",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FGs7rwKVUAAOeir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGs7rwKVUAAOeir.jpg",
+					"url": "https://t.co/4mrmkXaWUb",
+					"display_url": "pic.twitter.com/4mrmkXaWUb",
+					"expanded_url": "https://twitter.com/sugar_records/status/1471335601194823680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 910,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 910,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471335326115254300,
+					"id_str": "1471335326115254272",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FGs7rwKVUAAOeir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGs7rwKVUAAOeir.jpg",
+					"url": "https://t.co/4mrmkXaWUb",
+					"display_url": "pic.twitter.com/4mrmkXaWUb",
+					"expanded_url": "https://twitter.com/sugar_records/status/1471335601194823680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 910,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 910,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔔12월 16일 오늘밤 10:30~11:30 사이에만 가능합니다!!!!\n전화번호 적는 곳에 #4560 \n🔔문자 적는 곳에 \"손진욱\" 또는 숫자 \"1\" 만 적으셔야 합니다.\n(꼭 위에 두가지만 인정 됩니다.)\n\"1번\" 또는 \"손진욱 화이팅\" 이런 식으로 적으시면 투표가 \n인정되지 않습니다. (꼭 확인 부탁드려요) https://t.co/4mrmkXaWUb"
+	},
+	{
+		"created_at": "Thu Dec 16 04:29:29 +0000 2021",
+		"id": 1471323695906197500,
+		"id_str": "1471336654518505473",
+		"full_text": "[#News] #정승환 \n\n정승환, 오늘(16일) 신곡 '별 (Dear)' 발매..믿고 듣는 겨울 발라드\n\n(출처: 헤럴드POP | 네이버 TV연예)\n\n✔️ https://t.co/nGyTX1zjXR\n\n#JungSeungHwan #별 #Dear\n#20211216_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"text": "별",
+					"indices": [
+						128,
+						130
+					]
+				},
+				{
+					"text": "Dear",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "20211216_6PM",
+					"indices": [
+						137,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nGyTX1zjXR",
+					"expanded_url": "http://naver.me/GJXGb2Ng",
+					"display_url": "naver.me/GJXGb2Ng",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39894,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #정승환 \n\n정승환, 오늘(16일) 신곡 '별 (Dear)' 발매..믿고 듣는 겨울 발라드\n\n(출처: 헤럴드POP | 네이버 TV연예)\n\n✔️ https://t.co/nGyTX1zjXR\n\n#JungSeungHwan #별 #Dear\n#20211216_6PM"
+	},
+	{
 		"created_at": "Thu Dec 16 03:29:47 +0000 2021",
 		"id": 1471319262258430000,
 		"id_str": "1471321631578599427",
