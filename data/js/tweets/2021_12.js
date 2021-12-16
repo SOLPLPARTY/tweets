@@ -1,6 +1,988 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 11:11:17 +0000 2021",
+		"id": 1471432168945909800,
+		"id_str": "1471437770828783621",
+		"full_text": "천문학, 철학적 사상을 아우르는 폭 넓은 점성술 입문서 이시이시 작가님의 &lt; 점성술 사전 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고 되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\n.\nㅡ\n#점성술사전 #이시이시 #운명을읽는법 #점성술 https://t.co/lkovEcF1Vf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "점성술사전",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "이시이시",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "운명을읽는법",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "점성술",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471432162054262800,
+					"id_str": "1471432162054262787",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGuTwWJUUAMIPFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGuTwWJUUAMIPFo.jpg",
+					"url": "https://t.co/lkovEcF1Vf",
+					"display_url": "pic.twitter.com/lkovEcF1Vf",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1471432168945909761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471432162054262800,
+					"id_str": "1471432162054262787",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGuTwWJUUAMIPFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGuTwWJUUAMIPFo.jpg",
+					"url": "https://t.co/lkovEcF1Vf",
+					"display_url": "pic.twitter.com/lkovEcF1Vf",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1471432168945909761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "천문학, 철학적 사상을 아우르는 폭 넓은 점성술 입문서 이시이시 작가님의 &lt; 점성술 사전 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고 되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\n.\nㅡ\n#점성술사전 #이시이시 #운명을읽는법 #점성술 https://t.co/lkovEcF1Vf"
+	},
+	{
+		"created_at": "Thu Dec 16 10:29:49 +0000 2021",
+		"id": 1471424522272538600,
+		"id_str": "1471427337464000513",
+		"full_text": "💙9와 숫자들 \" BLUE CONCERT\"\n- 2021년 12월 25일(토), 26일(일) 저녁6시\n- KT&amp;G 상상마당 홍대\n- 티켓. 예스24 \n- https://t.co/wziu3vEdEO\n\n단계적 일상회복 관련 공연장에서의 안전을 위한 수칙 입니다. \n관객, 공연자, 스태프 모두가 안전하게 관람할 수 있도록 하겠습니다.\n공연 날 만나요! 👋👋 https://t.co/Dh1crfIDyH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wziu3vEdEO",
+					"expanded_url": "http://ticket.yes24.com/Perf/40923",
+					"display_url": "ticket.yes24.com/Perf/40923",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471424238808490000,
+					"id_str": "1471424238808489986",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FGuMjJwUYAIP1pd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGuMjJwUYAIP1pd.jpg",
+					"url": "https://t.co/Dh1crfIDyH",
+					"display_url": "pic.twitter.com/Dh1crfIDyH",
+					"expanded_url": "https://twitter.com/orm_ent/status/1471424522272538634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471424238808490000,
+					"id_str": "1471424238808489986",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FGuMjJwUYAIP1pd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGuMjJwUYAIP1pd.jpg",
+					"url": "https://t.co/Dh1crfIDyH",
+					"display_url": "pic.twitter.com/Dh1crfIDyH",
+					"expanded_url": "https://twitter.com/orm_ent/status/1471424522272538634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471424280982290400,
+					"id_str": "1471424280982290434",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FGuMlm3VgAIPihm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGuMlm3VgAIPihm.jpg",
+					"url": "https://t.co/Dh1crfIDyH",
+					"display_url": "pic.twitter.com/Dh1crfIDyH",
+					"expanded_url": "https://twitter.com/orm_ent/status/1471424522272538634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 727,
+			"friends_count": 323,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1638329097",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙9와 숫자들 \" BLUE CONCERT\"\n- 2021년 12월 25일(토), 26일(일) 저녁6시\n- KT&amp;G 상상마당 홍대\n- 티켓. 예스24 \n- https://t.co/wziu3vEdEO\n\n단계적 일상회복 관련 공연장에서의 안전을 위한 수칙 입니다. \n관객, 공연자, 스태프 모두가 안전하게 관람할 수 있도록 하겠습니다.\n공연 날 만나요! 👋👋 https://t.co/Dh1crfIDyH"
+	},
+	{
+		"created_at": "Thu Dec 16 10:29:45 +0000 2021",
+		"id": 1471424047250800600,
+		"id_str": "1471427320141463556",
+		"full_text": "#2021\n#임이랑 #밤은음악이야\n오늘밤 10시부터 생방송으로 \n#최고은 님이 진행하는 #국악방송 에 출연!\n#디어클라우드 베이시스트 및\n#식물책 베스트셀러 작가로 함께 합니다\n(아무튼 식물, 조금 괴로운 당신에게 식물을 추천합니다) https://t.co/1E1nlFYp6o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임이랑",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "밤은음악이야",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "최고은",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "국악방송",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "식물책",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471424045144940500,
+					"id_str": "1471424045144940549",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FGuMX4TVIAUA87m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGuMX4TVIAUA87m.jpg",
+					"url": "https://t.co/1E1nlFYp6o",
+					"display_url": "pic.twitter.com/1E1nlFYp6o",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1471424047250800643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 873,
+							"h": 873,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 873,
+							"h": 873,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471424045144940500,
+					"id_str": "1471424045144940549",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FGuMX4TVIAUA87m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGuMX4TVIAUA87m.jpg",
+					"url": "https://t.co/1E1nlFYp6o",
+					"display_url": "pic.twitter.com/1E1nlFYp6o",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1471424047250800643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 873,
+							"h": 873,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 873,
+							"h": 873,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2639,
+			"friends_count": 334,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 21156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#2021\n#임이랑 #밤은음악이야\n오늘밤 10시부터 생방송으로 \n#최고은 님이 진행하는 #국악방송 에 출연!\n#디어클라우드 베이시스트 및\n#식물책 베스트셀러 작가로 함께 합니다\n(아무튼 식물, 조금 괴로운 당신에게 식물을 추천합니다) https://t.co/1E1nlFYp6o"
+	},
+	{
+		"created_at": "Thu Dec 16 10:29:42 +0000 2021",
+		"id": 1471422571157815300,
+		"id_str": "1471427307038560260",
+		"full_text": "[#Video] #정승환\n⠀\n정승환 Single ‘별 (Dear)’ 1theK ‘MR은 거들뿐’이 공개 되었습니다💫\n\n🔗https://t.co/Ydepu1hbc5\n⠀\n#JungSeungHwan #별 #Dear\n#1theK #MR은거들뿐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "별",
+					"indices": [
+						108,
+						110
+					]
+				},
+				{
+					"text": "Dear",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "1theK",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "MR은거들뿐",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ydepu1hbc5",
+					"expanded_url": "https://youtu.be/UZ4lvRJEbwY",
+					"display_url": "youtu.be/UZ4lvRJEbwY",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39873,
+			"friends_count": 10,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n⠀\n정승환 Single ‘별 (Dear)’ 1theK ‘MR은 거들뿐’이 공개 되었습니다💫\n\n🔗https://t.co/Ydepu1hbc5\n⠀\n#JungSeungHwan #별 #Dear\n#1theK #MR은거들뿐"
+	},
+	{
+		"created_at": "Thu Dec 16 10:29:34 +0000 2021",
+		"id": 1471422483048038400,
+		"id_str": "1471427272951402497",
+		"full_text": "[VIDEO] [#인순이] #헬로트로트\n\n[헬로트로트ㅣ6회] ※치열함주의※ 2차전 걱정에 한숨도 못 잔 감독들 #MBN #hellotrot 211214 방송\n\n👉 https://t.co/SLhHlv35Z5\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "헬로트로트",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "hellotrot",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"text": "MBN",
+					"indices": [
+						147,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SLhHlv35Z5",
+					"expanded_url": "https://youtu.be/603ya4ESB6g",
+					"display_url": "youtu.be/603ya4ESB6g",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #헬로트로트\n\n[헬로트로트ㅣ6회] ※치열함주의※ 2차전 걱정에 한숨도 못 잔 감독들 #MBN #hellotrot 211214 방송\n\n👉 https://t.co/SLhHlv35Z5\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MBN"
+	},
+	{
 		"created_at": "Thu Dec 16 10:11:38 +0000 2021",
 		"id": 1471416522975617000,
 		"id_str": "1471422761239199746",
