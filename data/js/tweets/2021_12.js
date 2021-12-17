@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 14:10:47 +0000 2021",
+		"id": 1471845330689929200,
+		"id_str": "1471845330689929220",
+		"full_text": "#SMTOWN\nNCT 127 엔시티 127 'Amino Acid' MV | 아날로그 트립 (Analog Trip NCT 127: Escape From Magic Island)\nhttps://t.co/980BMzt1kf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/980BMzt1kf",
+					"expanded_url": "https://youtu.be/ZBXqeZcdyPM",
+					"display_url": "youtu.be/ZBXqeZcdyPM",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nNCT 127 엔시티 127 'Amino Acid' MV | 아날로그 트립 (Analog Trip NCT 127: Escape From Magic Island)\nhttps://t.co/980BMzt1kf"
+	},
+	{
+		"created_at": "Fri Dec 17 13:29:27 +0000 2021",
+		"id": 1471827720284012500,
+		"id_str": "1471834928686022656",
+		"full_text": "[#정인] '값' Cover Live Clip #5 손태진\n\n🎼 손태진의 '정인 - 값' 커버 영상이 도착했습니다🎤\n손태진의 고품격 라이브와 함께 했더니 이별 감성이 더 깊어지네💧\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #손태진 #SONTAEJIN #TJSON #Cover #LIVECLIP https://t.co/qbEhqc6IR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "값",
+					"indices": [
+						125,
+						127
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "Cover",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "LIVECLIP",
+					"indices": [
+						158,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471817667548180500,
+					"id_str": "1471817667548180488",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FGzz8tqaQAg_EhY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGzz8tqaQAg_EhY.jpg",
+					"url": "https://t.co/qbEhqc6IR6",
+					"display_url": "pic.twitter.com/qbEhqc6IR6",
+					"expanded_url": "https://twitter.com/themysticstory/status/1471827720284012544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471817667548180500,
+					"id_str": "1471817667548180488",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FGzz8tqaQAg_EhY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGzz8tqaQAg_EhY.jpg",
+					"url": "https://t.co/qbEhqc6IR6",
+					"display_url": "pic.twitter.com/qbEhqc6IR6",
+					"expanded_url": "https://twitter.com/themysticstory/status/1471827720284012544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 616,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139481,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471817667548180488/vid/640x360/xJ21X8Oyb4LKnaT7.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471817667548180488/vid/480x270/VWgACRv396cPIp72.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471817667548180488/vid/1280x720/nlsQ9sK64C6RXATO.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471817667548180488/pl/CRgwKBXLfpiVg_Y8.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#정인] '값' Cover Live Clip #5 손태진",
+						"description": "[#정인] '값' Cover Live Clip #5 손태진\n\n🎼 손태진의 '정인 - 값' 커버 영상이 도착했습니다🎤\n손태진의 고품격 라이브와 함께 했더니 이별 감성이 더 깊어지네💧\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #손태진 #SONTAEJIN #TJSON #Cover #LIVECLIP",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.instagram.com/tv/CXlaWWoJ0iw/?utm_source=ig_web_copy_link"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32385,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] '값' Cover Live Clip #5 손태진\n\n🎼 손태진의 '정인 - 값' 커버 영상이 도착했습니다🎤\n손태진의 고품격 라이브와 함께 했더니 이별 감성이 더 깊어지네💧\n\n지금 바로 감상해보세요🎵\n\n#JUNGIN #값 #손태진 #SONTAEJIN #TJSON #Cover #LIVECLIP https://t.co/qbEhqc6IR6"
+	},
+	{
 		"created_at": "Fri Dec 17 13:11:16 +0000 2021",
 		"id": 1471827527903506400,
 		"id_str": "1471830356634607617",
