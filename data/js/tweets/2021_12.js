@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 18 01:11:17 +0000 2021",
+		"id": 1472008717402972200,
+		"id_str": "1472011551129354244",
+		"full_text": "《삶이 흐르는 강 메콩》 전시 안내\n\n한국과 라오스, 미국, 미얀마, 베트남, 캄보디아 6개\n나라 출신의 시민들이 각자가 보고 경험한 메콩강과\n메콩 지역의 삶에 대해 이야기 합니다. 🐟\n\n📍장소: KT&amp;G 상상마당 홍대 갤러리 4,5F\n📍기간: 2021. 12. 15. ~ 1. 16. (12:00~20:00) https://t.co/MlQQnILM1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471752983029641200,
+					"id_str": "1471752983029641223",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGy3ilaacAcnOiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGy3ilaacAcnOiD.jpg",
+					"url": "https://t.co/MlQQnILM1x",
+					"display_url": "pic.twitter.com/MlQQnILM1x",
+					"expanded_url": "https://twitter.com/SSmadang/status/1472008717402972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471752983029641200,
+					"id_str": "1471752983029641223",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGy3ilaacAcnOiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGy3ilaacAcnOiD.jpg",
+					"url": "https://t.co/MlQQnILM1x",
+					"display_url": "pic.twitter.com/MlQQnILM1x",
+					"expanded_url": "https://twitter.com/SSmadang/status/1472008717402972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471752983193219000,
+					"id_str": "1471752983193219077",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGy3imBacAUxfKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGy3imBacAUxfKI.jpg",
+					"url": "https://t.co/MlQQnILM1x",
+					"display_url": "pic.twitter.com/MlQQnILM1x",
+					"expanded_url": "https://twitter.com/SSmadang/status/1472008717402972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471752983327445000,
+					"id_str": "1471752983327444992",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGy3imhakAAWBsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGy3imhakAAWBsV.jpg",
+					"url": "https://t.co/MlQQnILM1x",
+					"display_url": "pic.twitter.com/MlQQnILM1x",
+					"expanded_url": "https://twitter.com/SSmadang/status/1472008717402972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471752983470043100,
+					"id_str": "1471752983470043136",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FGy3inDacAAKxro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGy3inDacAAKxro.jpg",
+					"url": "https://t.co/MlQQnILM1x",
+					"display_url": "pic.twitter.com/MlQQnILM1x",
+					"expanded_url": "https://twitter.com/SSmadang/status/1472008717402972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17726,
+			"friends_count": 1868,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "《삶이 흐르는 강 메콩》 전시 안내\n\n한국과 라오스, 미국, 미얀마, 베트남, 캄보디아 6개\n나라 출신의 시민들이 각자가 보고 경험한 메콩강과\n메콩 지역의 삶에 대해 이야기 합니다. 🐟\n\n📍장소: KT&amp;G 상상마당 홍대 갤러리 4,5F\n📍기간: 2021. 12. 15. ~ 1. 16. (12:00~20:00) https://t.co/MlQQnILM1x"
+	},
+	{
 		"created_at": "Fri Dec 17 23:29:31 +0000 2021",
 		"id": 1471983412538126300,
 		"id_str": "1471985941451612162",
