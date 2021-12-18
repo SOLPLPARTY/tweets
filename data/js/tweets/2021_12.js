@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 18 09:29:25 +0000 2021",
+		"id": 1472132992747581400,
+		"id_str": "1472136910957162496",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC 토일 드라마 &lt;설강화&gt; OST Part.1 \n\"성시경 - 곁에 있어준다면\"을 지금 바로 음원 사이트에서 만나보세요!\n\n▶ https://t.co/9WLGlkJBdW\n\n#warnerkpop #warnermusic #release #JTBC #설강화 #snowdrop #곁에있어준다면 #성시경 https://t.co/fUtodzso5c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "설강화",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "snowdrop",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "곁에있어준다면",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "성시경",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9WLGlkJBdW",
+					"expanded_url": "http://WMK.lnk.to/2OkUTk",
+					"display_url": "WMK.lnk.to/2OkUTk",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472132878641561600,
+					"id_str": "1472132878641561608",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1472132878641561608/pu/img/wx70ozhsyZ_hEpJK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1472132878641561608/pu/img/wx70ozhsyZ_hEpJK.jpg",
+					"url": "https://t.co/fUtodzso5c",
+					"display_url": "pic.twitter.com/fUtodzso5c",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1472132992747581440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472132878641561600,
+					"id_str": "1472132878641561608",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1472132878641561608/pu/img/wx70ozhsyZ_hEpJK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1472132878641561608/pu/img/wx70ozhsyZ_hEpJK.jpg",
+					"url": "https://t.co/fUtodzso5c",
+					"display_url": "pic.twitter.com/fUtodzso5c",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1472132992747581440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 42175,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1472132878641561608/pu/pl/RzXEjqPVezxVZnUt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1472132878641561608/pu/vid/540x540/mcO0KLej-dODpihb.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1472132878641561608/pu/vid/720x720/Qe0cwO0QGry-hoFW.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1472132878641561608/pu/vid/320x320/i1uFCuxD6FPS4BeT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51943,
+			"friends_count": 494,
+			"listed_count": 197,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 586,
+		"favorite_count": 1068,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC 토일 드라마 &lt;설강화&gt; OST Part.1 \n\"성시경 - 곁에 있어준다면\"을 지금 바로 음원 사이트에서 만나보세요!\n\n▶ https://t.co/9WLGlkJBdW\n\n#warnerkpop #warnermusic #release #JTBC #설강화 #snowdrop #곁에있어준다면 #성시경 https://t.co/fUtodzso5c"
+	},
+	{
 		"created_at": "Sat Dec 18 09:15:57 +0000 2021",
 		"id": 1472133523838484500,
 		"id_str": "1472133523838484484",
