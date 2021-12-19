@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 07:58:17 +0000 2021",
+		"id": 1472474642183258000,
+		"id_str": "1472476364032942080",
+		"full_text": "매서운 한파 속에서 마음까지 따뜻하게 해 줄 두 밴드 CHS, 이날치!\n오늘 저녁 6시, LIVECLUBDAY 유튜브 채널에서 만나요✌\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f\n\n#라이브클럽데이 #라클데 #lcd #liveclubday #liveishere #서울인디뮤직페스타 #simf #스트레인지프룻 #CHS #이날치 https://t.co/FEEF24qN8W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "라클데",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "lcd",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "liveclubday",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "liveishere",
+					"indices": [
+						155,
+						166
+					]
+				},
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "simf",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "스트레인지프룻",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"text": "CHS",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "이날치",
+					"indices": [
+						198,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jVb3Sjp36f",
+					"expanded_url": "https://www.youtube.com/c/liveclubday",
+					"display_url": "youtube.com/c/liveclubday",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472474632699912200,
+					"id_str": "1472474632699912193",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FG9H4H7aIAEJ-12.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG9H4H7aIAEJ-12.jpg",
+					"url": "https://t.co/FEEF24qN8W",
+					"display_url": "pic.twitter.com/FEEF24qN8W",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1472474642183258113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472474632699912200,
+					"id_str": "1472474632699912193",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FG9H4H7aIAEJ-12.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG9H4H7aIAEJ-12.jpg",
+					"url": "https://t.co/FEEF24qN8W",
+					"display_url": "pic.twitter.com/FEEF24qN8W",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1472474642183258113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472474632720892000,
+					"id_str": "1472474632720891904",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FG9H4IAaQAAb4-k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG9H4IAaQAAb4-k.jpg",
+					"url": "https://t.co/FEEF24qN8W",
+					"display_url": "pic.twitter.com/FEEF24qN8W",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1472474642183258113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcjHNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcjHNi",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370,
+			"friends_count": 279,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448166162261446656/7SukVeN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1634104999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매서운 한파 속에서 마음까지 따뜻하게 해 줄 두 밴드 CHS, 이날치!\n오늘 저녁 6시, LIVECLUBDAY 유튜브 채널에서 만나요✌\n✔️LIVECLUBDAY 유튜브 채널: https://t.co/jVb3Sjp36f\n\n#라이브클럽데이 #라클데 #lcd #liveclubday #liveishere #서울인디뮤직페스타 #simf #스트레인지프룻 #CHS #이날치 https://t.co/FEEF24qN8W"
+	},
+	{
 		"created_at": "Sun Dec 19 04:29:25 +0000 2021",
 		"id": 1472410428596981800,
 		"id_str": "1472423800750985221",
