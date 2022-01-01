@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 01 04:29:29 +0000 2022",
+		"id": 1477127193436496000,
+		"id_str": "1477134861131464707",
+		"full_text": "2022년 새해 복 많이 받으세요.!\n작년에도 슈가레코드 아티스트와 음악을 사랑해 주셔서 진심으로 감사드립니다.\n2022년 한해도 꾸준이 좋은 음악으로 인사 드리겠습니다.\n감사합니다.  ˝╱╲ ‿ ╱╲˝ \n\n#새해복많이받으세요 #당기시오 #모브닝 #엔분의일 #달에닿아 #리썬 #뷰티핸섬 #우리같은사람들 https://t.co/QMaubmTD10",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새해복많이받으세요",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "당기시오",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "모브닝",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "엔분의일",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "달에닿아",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "리썬",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "뷰티핸섬",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "우리같은사람들",
+					"indices": [
+						160,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477127074230206500,
+					"id_str": "1477127074230206465",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_PP3OagAEZpS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_PP3OagAEZpS1.jpg",
+					"url": "https://t.co/QMaubmTD10",
+					"display_url": "pic.twitter.com/QMaubmTD10",
+					"expanded_url": "https://twitter.com/sugar_records/status/1477127193436495874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1356,
+							"h": 1900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 856,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477127074230206500,
+					"id_str": "1477127074230206465",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FH_PP3OagAEZpS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH_PP3OagAEZpS1.jpg",
+					"url": "https://t.co/QMaubmTD10",
+					"display_url": "pic.twitter.com/QMaubmTD10",
+					"expanded_url": "https://twitter.com/sugar_records/status/1477127193436495874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1356,
+							"h": 1900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 856,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022년 새해 복 많이 받으세요.!\n작년에도 슈가레코드 아티스트와 음악을 사랑해 주셔서 진심으로 감사드립니다.\n2022년 한해도 꾸준이 좋은 음악으로 인사 드리겠습니다.\n감사합니다.  ˝╱╲ ‿ ╱╲˝ \n\n#새해복많이받으세요 #당기시오 #모브닝 #엔분의일 #달에닿아 #리썬 #뷰티핸섬 #우리같은사람들 https://t.co/QMaubmTD10"
+	},
+	{
 		"created_at": "Sat Jan 01 03:29:29 +0000 2022",
 		"id": 1477118266527330300,
 		"id_str": "1477119763910438915",
