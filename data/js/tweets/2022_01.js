@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 01 03:29:29 +0000 2022",
+		"id": 1477118266527330300,
+		"id_str": "1477119763910438915",
+		"full_text": "로고와 함께 공개한 “We Make Magical Moments”라는 슬로건처럼 새해에도 우리의 창작물과 함께 마법같은 순간을 경험하실 수 있도록 노력할게요!\n\n새 로고는 쓰임에 맞게 다양한 형태로 변형 가능한데요. 다양한 모습으로 보여질 매스사의 새 모습에도 많이 기대해주세요. 새해에도 잘 부탁드려요🍓🍓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1477112343574331400,
+		"in_reply_to_status_id_str": "1477112343574331397",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8718,
+			"friends_count": 23,
+			"listed_count": 99,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "로고와 함께 공개한 “We Make Magical Moments”라는 슬로건처럼 새해에도 우리의 창작물과 함께 마법같은 순간을 경험하실 수 있도록 노력할게요!\n\n새 로고는 쓰임에 맞게 다양한 형태로 변형 가능한데요. 다양한 모습으로 보여질 매스사의 새 모습에도 많이 기대해주세요. 새해에도 잘 부탁드려요🍓🍓"
+	},
+	{
+		"created_at": "Sat Jan 01 03:29:27 +0000 2022",
+		"id": 1477112447010226200,
+		"id_str": "1477119755005960192",
+		"full_text": "HAPPY NEW YEAR🐯\n아이유의 새해 인사 도착📬\n아이유애나의 추억은\n2022년에도 계속됩니다💜\n\n🎥 https://t.co/oD97erMdo2\n\n#아이유 #IU https://t.co/u09Yvf5kVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						90,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oD97erMdo2",
+					"expanded_url": "https://youtu.be/O5up6TyTIWY",
+					"display_url": "youtu.be/O5up6TyTIWY",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477108103552598000,
+					"id_str": "1477108103552598017",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"url": "https://t.co/u09Yvf5kVn",
+					"display_url": "pic.twitter.com/u09Yvf5kVn",
+					"expanded_url": "https://twitter.com/edam_ent/status/1477112447010226178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477108103552598000,
+					"id_str": "1477108103552598017",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH-9_n8agAEUcfc.jpg",
+					"url": "https://t.co/u09Yvf5kVn",
+					"display_url": "pic.twitter.com/u09Yvf5kVn",
+					"expanded_url": "https://twitter.com/edam_ent/status/1477112447010226178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59474,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2293,
+		"favorite_count": 5601,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HAPPY NEW YEAR🐯\n아이유의 새해 인사 도착📬\n아이유애나의 추억은\n2022년에도 계속됩니다💜\n\n🎥 https://t.co/oD97erMdo2\n\n#아이유 #IU https://t.co/u09Yvf5kVn"
+	},
+	{
 		"created_at": "Sat Jan 01 03:13:54 +0000 2022",
 		"id": 1477115841594507300,
 		"id_str": "1477115841594507268",
