@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 04:29:25 +0000 2022",
+		"id": 1477492050677633000,
+		"id_str": "1477497230768709640",
+		"full_text": "[조준영]에 '해피 뉴 이어' 이건 못참지\n\n포스트 보러 가기👉🏻https://t.co/a2aEgQ11SW\n\n#조준영 #CHOJUNYOUNG \n#해피뉴이어 #HappyNewYear\n#A_YEAR_END_MEDLEY_2021",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조준영",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "CHOJUNYOUNG",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "HappyNewYear",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"text": "A_YEAR_END_MEDLEY_2021",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a2aEgQ11SW",
+					"expanded_url": "http://naver.me/Gazgjdc3",
+					"display_url": "naver.me/Gazgjdc3",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10397924,
+			"friends_count": 56,
+			"listed_count": 11488,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 2807,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[조준영]에 '해피 뉴 이어' 이건 못참지\n\n포스트 보러 가기👉🏻https://t.co/a2aEgQ11SW\n\n#조준영 #CHOJUNYOUNG \n#해피뉴이어 #HappyNewYear\n#A_YEAR_END_MEDLEY_2021"
+	},
+	{
 		"created_at": "Sun Jan 02 03:11:53 +0000 2022",
 		"id": 1477477719411671000,
 		"id_str": "1477477719411671041",
