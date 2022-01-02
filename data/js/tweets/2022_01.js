@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 10:11:17 +0000 2022",
+		"id": 1477580428244668400,
+		"id_str": "1477583265787695105",
+		"full_text": "📒사진가의 독립출판: 출판기획📸\n⠀\n국내외 사진책 시장과 출판을 위한 \n기획 단계에 대하여 자세히 배워보는 시간입니다.\n⠀\n사진 작업 또는 예비 사진 독립출판자 \n그리고 사진책 시장에 관심있는 \n모든 분들에게 열려있습니다 😀\n\n📍 자세히 보기: https://t.co/gKpQdTaypZ https://t.co/bZyFM12Efc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gKpQdTaypZ",
+					"expanded_url": "https://bit.ly/3FM5QxQ",
+					"display_url": "bit.ly/3FM5QxQ",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1476800306768146400,
+					"id_str": "1476800306768146433",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FH6mDfkacAEaQJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH6mDfkacAEaQJv.jpg",
+					"url": "https://t.co/bZyFM12Efc",
+					"display_url": "pic.twitter.com/bZyFM12Efc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1477580428244668418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476800306768146400,
+					"id_str": "1476800306768146433",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FH6mDfkacAEaQJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH6mDfkacAEaQJv.jpg",
+					"url": "https://t.co/bZyFM12Efc",
+					"display_url": "pic.twitter.com/bZyFM12Efc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1477580428244668418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1476800306789126100,
+					"id_str": "1476800306789126146",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FH6mDfpakAIaBm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH6mDfpakAIaBm7.jpg",
+					"url": "https://t.co/bZyFM12Efc",
+					"display_url": "pic.twitter.com/bZyFM12Efc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1477580428244668418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1476800306793300000,
+					"id_str": "1476800306793299968",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FH6mDfqaQAAsg3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH6mDfqaQAAsg3Z.jpg",
+					"url": "https://t.co/bZyFM12Efc",
+					"display_url": "pic.twitter.com/bZyFM12Efc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1477580428244668418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17716,
+			"friends_count": 1867,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📒사진가의 독립출판: 출판기획📸\n⠀\n국내외 사진책 시장과 출판을 위한 \n기획 단계에 대하여 자세히 배워보는 시간입니다.\n⠀\n사진 작업 또는 예비 사진 독립출판자 \n그리고 사진책 시장에 관심있는 \n모든 분들에게 열려있습니다 😀\n\n📍 자세히 보기: https://t.co/gKpQdTaypZ https://t.co/bZyFM12Efc"
+	},
+	{
+		"created_at": "Sun Jan 02 09:29:34 +0000 2022",
+		"id": 1477565496551968800,
+		"id_str": "1477572767037984769",
+		"full_text": "카더가든이 가창으로 참여한 카카오 웹툰 ‘N번째 연애’ OST &lt;그대와 잠든 나 사이에&gt;가 발매 되었습니다. https://t.co/zu7CKaapce",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477565473588154400,
+					"id_str": "1477565473588154370",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FIFd-EGakAIrZ5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIFd-EGakAIrZ5j.jpg",
+					"url": "https://t.co/zu7CKaapce",
+					"display_url": "pic.twitter.com/zu7CKaapce",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1477565496551968772/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477565473588154400,
+					"id_str": "1477565473588154370",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FIFd-EGakAIrZ5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIFd-EGakAIrZ5j.jpg",
+					"url": "https://t.co/zu7CKaapce",
+					"display_url": "pic.twitter.com/zu7CKaapce",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1477565496551968772/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1477565473604915200,
+					"id_str": "1477565473604915203",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FIFd-EKaUAMqGtU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIFd-EKaUAMqGtU.jpg",
+					"url": "https://t.co/zu7CKaapce",
+					"display_url": "pic.twitter.com/zu7CKaapce",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1477565496551968772/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3986,
+			"friends_count": 10,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카더가든이 가창으로 참여한 카카오 웹툰 ‘N번째 연애’ OST &lt;그대와 잠든 나 사이에&gt;가 발매 되었습니다. https://t.co/zu7CKaapce"
+	},
+	{
 		"created_at": "Sun Jan 02 09:11:16 +0000 2022",
 		"id": 1477565707592552400,
 		"id_str": "1477568164561096705",
