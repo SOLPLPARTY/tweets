@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 15:29:39 +0000 2022",
+		"id": 1478018451612799000,
+		"id_str": "1478025775588823043",
+		"full_text": "DRIPPIN 3rd MINI ALBUM [Villain]｜Prologue\n#주창욱 (#JOOCHANGUK)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\nhttps://t.co/oFi1W6L9qD\nhttps://t.co/rFGAHuvuh8\n\n#DRIPPIN #드리핀 #Villain https://t.co/6jW7YcJnNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주창욱",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "JOOCHANGUK",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oFi1W6L9qD",
+					"expanded_url": "https://youtu.be/O9j061QqtBk",
+					"display_url": "youtu.be/O9j061QqtBk",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/rFGAHuvuh8",
+					"expanded_url": "https://www.vlive.tv/video/273690",
+					"display_url": "vlive.tv/video/273690",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478017768108990500,
+					"id_str": "1478017768108990465",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIL5VEfaIAE6eQx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIL5VEfaIAE6eQx.jpg",
+					"url": "https://t.co/6jW7YcJnNZ",
+					"display_url": "pic.twitter.com/6jW7YcJnNZ",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1478018451612798983/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478017768108990500,
+					"id_str": "1478017768108990465",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FIL5VEfaIAE6eQx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIL5VEfaIAE6eQx.jpg",
+					"url": "https://t.co/6jW7YcJnNZ",
+					"display_url": "pic.twitter.com/6jW7YcJnNZ",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1478018451612798983/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427889,
+			"friends_count": 12,
+			"listed_count": 1898,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1640617314",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 3rd MINI ALBUM [Villain]｜Prologue\n#주창욱 (#JOOCHANGUK)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\nhttps://t.co/oFi1W6L9qD\nhttps://t.co/rFGAHuvuh8\n\n#DRIPPIN #드리핀 #Villain https://t.co/6jW7YcJnNZ"
+	},
+	{
 		"created_at": "Mon Jan 03 11:29:25 +0000 2022",
 		"id": 1477952072314388500,
 		"id_str": "1477965316793720832",
