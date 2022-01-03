@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 07:29:24 +0000 2022",
+		"id": 1477902103352082400,
+		"id_str": "1477904916370931715",
+		"full_text": "🔴2021 SIMF 제주대구부산서울 인디교류전 서울 공연🔴\n- 일시 : 2022.1.8(토) 18:00\n- 장소 : 프리즘홀\n- 티켓 : 현매 25,000원 \n- 예매https://t.co/CWhzZ2gvq8\n- 출연 : \n#태히언\n#소음발광 \n#드링킹소년소녀합창단\n#로다운30 \n- 공연 문의 : hculturecoop@gmail.com https://t.co/FJU5hqM37I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태히언",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "소음발광",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "드링킹소년소녀합창단",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"text": "로다운30",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CWhzZ2gvq8",
+					"expanded_url": "https://m.booking.naver.com/booking/5/bizes/633220",
+					"display_url": "m.booking.naver.com/booking/5/bize…",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/FJU5hqM37I",
+					"expanded_url": "https://twitter.com/BandDBGC/status/1475981313329233920",
+					"display_url": "twitter.com/BandDBGC/statu…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 1296,
+			"listed_count": 105,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1475981313329234000,
+		"quoted_status_id_str": "1475981313329233920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FJU5hqM37I",
+			"expanded": "https://twitter.com/BandDBGC/status/1475981313329233920",
+			"display": "twitter.com/BandDBGC/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 29 00:05:42 +0000 2021",
+			"id": 1475981313329234000,
+			"id_str": "1475981313329233920",
+			"full_text": "[공연소식]\n인디교류전 서울공연 예매오픈!! \n2022년 1월 8일 서울 프리즘홀에서 인디교류전 서울공연을 합니다🔥🔥\n#로다운30 #소음발광 #태히언 과 함께해요!! https://t.co/x9YWkYQt77",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "로다운30",
+						"indices": [
+							66,
+							72
+						]
+					},
+					{
+						"text": "소음발광",
+						"indices": [
+							73,
+							78
+						]
+					},
+					{
+						"text": "태히언",
+						"indices": [
+							79,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1475981300494647300,
+						"id_str": "1475981300494647298",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/FHu9LDcaQAI36_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHu9LDcaQAI36_-.jpg",
+						"url": "https://t.co/x9YWkYQt77",
+						"display_url": "pic.twitter.com/x9YWkYQt77",
+						"expanded_url": "https://twitter.com/BandDBGC/status/1475981313329233920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1475981300494647300,
+						"id_str": "1475981300494647298",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/FHu9LDcaQAI36_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHu9LDcaQAI36_-.jpg",
+						"url": "https://t.co/x9YWkYQt77",
+						"display_url": "pic.twitter.com/x9YWkYQt77",
+						"expanded_url": "https://twitter.com/BandDBGC/status/1475981313329233920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1475981300477874200,
+						"id_str": "1475981300477874176",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/FHu9LDYaUAAUe3S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHu9LDYaUAAUe3S.jpg",
+						"url": "https://t.co/x9YWkYQt77",
+						"display_url": "pic.twitter.com/x9YWkYQt77",
+						"expanded_url": "https://twitter.com/BandDBGC/status/1475981313329233920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 944548838731157500,
+				"id_str": "944548838731157506",
+				"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+				"screen_name": "BandDBGC",
+				"location": "대한민국 대구",
+				"description": "Band imstealaway@naver.com  MGMT (Korea) electricmuse@naver.com MGMT (ROTW) Janice@damnably.com",
+				"url": "https://t.co/PKJnwQCfFv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PKJnwQCfFv",
+								"expanded_url": "https://damnably.bandcamp.com/album/drinking-boys-and-girls-choir-keep-drinking",
+								"display_url": "damnably.bandcamp.com/album/drinking…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 963,
+				"friends_count": 601,
+				"listed_count": 11,
+				"created_at": "Sat Dec 23 12:42:46 +0000 2017",
+				"favourites_count": 3834,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2773,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1394935818351828993/5lfSt7OQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394935818351828993/5lfSt7OQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/944548838731157506/1626841069",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔴2021 SIMF 제주대구부산서울 인디교류전 서울 공연🔴\n- 일시 : 2022.1.8(토) 18:00\n- 장소 : 프리즘홀\n- 티켓 : 현매 25,000원 \n- 예매https://t.co/CWhzZ2gvq8\n- 출연 : \n#태히언\n#소음발광 \n#드링킹소년소녀합창단\n#로다운30 \n- 공연 문의 : hculturecoop@gmail.com https://t.co/FJU5hqM37I"
+	},
+	{
 		"created_at": "Mon Jan 03 06:24:34 +0000 2022",
 		"id": 1477888598041059300,
 		"id_str": "1477888598041059332",
