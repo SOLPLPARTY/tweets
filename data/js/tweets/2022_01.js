@@ -1,6 +1,836 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 03:48:54 +0000 2022",
+		"id": 1477849422943953000,
+		"id_str": "1477849422943952898",
+		"full_text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] [off the RECORD] 쿤디판다 - A.A's Record\nhttps://t.co/4IOZtUg3Qi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						19,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4IOZtUg3Qi",
+					"expanded_url": "https://youtu.be/PC5ap8jaNv0",
+					"display_url": "youtu.be/PC5ap8jaNv0",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] [off the RECORD] 쿤디판다 - A.A's Record\nhttps://t.co/4IOZtUg3Qi"
+	},
+	{
+		"created_at": "Mon Jan 03 03:29:40 +0000 2022",
+		"id": 1477837537171280000,
+		"id_str": "1477844584067649542",
+		"full_text": "[카카오엔터테인먼트 주니어 6기 모집]\n2022.01.05 COMING SOON!\n#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 https://t.co/A372Aiq6XG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오엔터테인먼트주니어",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJunior",
+					"indices": [
+						60,
+						85
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트주니어오디션",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJuniorAudition",
+					"indices": [
+						103,
+						136
+					]
+				},
+				{
+					"text": "KakaoEntertainmentFriendsAudition",
+					"indices": [
+						137,
+						171
+					]
+				},
+				{
+					"text": "오디션",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "Audition",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트",
+					"indices": [
+						187,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477834392395722800,
+					"id_str": "1477834392395722753",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJSjMuaMAEGs5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJSjMuaMAEGs5T.jpg",
+					"url": "https://t.co/A372Aiq6XG",
+					"display_url": "pic.twitter.com/A372Aiq6XG",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1477837537171279872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477834392395722800,
+					"id_str": "1477834392395722753",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJSjMuaMAEGs5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJSjMuaMAEGs5T.jpg",
+					"url": "https://t.co/A372Aiq6XG",
+					"display_url": "pic.twitter.com/A372Aiq6XG",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1477837537171279872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxFnOJG",
+			"url": "https://t.co/qwKKESZ8Yt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKESZ8Yt",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxFnOJG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2990,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1622535994",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[카카오엔터테인먼트 주니어 6기 모집]\n2022.01.05 COMING SOON!\n#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 https://t.co/A372Aiq6XG"
+	},
+	{
+		"created_at": "Mon Jan 03 03:29:32 +0000 2022",
+		"id": 1477837217758584800,
+		"id_str": "1477844550089687048",
+		"full_text": "[#Teaser] #샘김\n\n샘김 (Sam Kim) ‘Smile’\nProd. by R3HAB\n\n2022. 01. 07. 12AM (PST) Release\n\n@LeegitItsSam \n#SamKim #Smile #R3HAB https://t.co/yAG5S0lUf8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "Smile",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "R3HAB",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477836216754409500,
+					"id_str": "1477836216754409474",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJUNY_akAIByna.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJUNY_akAIByna.jpg",
+					"url": "https://t.co/yAG5S0lUf8",
+					"display_url": "pic.twitter.com/yAG5S0lUf8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1477837217758584832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477836216754409500,
+					"id_str": "1477836216754409474",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJUNY_akAIByna.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJUNY_akAIByna.jpg",
+					"url": "https://t.co/yAG5S0lUf8",
+					"display_url": "pic.twitter.com/yAG5S0lUf8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1477837217758584832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40137,
+			"friends_count": 11,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #샘김\n\n샘김 (Sam Kim) ‘Smile’\nProd. by R3HAB\n\n2022. 01. 07. 12AM (PST) Release\n\n@LeegitItsSam \n#SamKim #Smile #R3HAB https://t.co/yAG5S0lUf8"
+	},
+	{
+		"created_at": "Mon Jan 03 03:29:28 +0000 2022",
+		"id": 1477837118604865500,
+		"id_str": "1477844532863643655",
+		"full_text": "ScreaM TOGETHER!\n2022년 1월 7일 ScreaM Records에서 새롭게 선보이는 DJ 스트리밍 채널 ‘SHOWME’가 런칭됩니다.\n\nScreaM Records' brand new DJ show streaming channel ‘SHOWME' launches on JAN 7th, 2022.\n\n#SHOWME #쇼미\n#ScreaMRecords \n#PinkBlood \n#BeyondLIVE \n#SMTOWN https://t.co/0WKPZOwlFE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						201,
+						211
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						213,
+						224
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						226,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1477830225518297000,
+					"id_str": "1477830225518297090",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJOwp5agAIXPG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJOwp5agAIXPG8.jpg",
+					"url": "https://t.co/0WKPZOwlFE",
+					"display_url": "pic.twitter.com/0WKPZOwlFE",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1477837118604865541/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477830225518297000,
+					"id_str": "1477830225518297090",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJOwp5agAIXPG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJOwp5agAIXPG8.jpg",
+					"url": "https://t.co/0WKPZOwlFE",
+					"display_url": "pic.twitter.com/0WKPZOwlFE",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1477837118604865541/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10402806,
+			"friends_count": 56,
+			"listed_count": 11501,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1980,
+		"favorite_count": 7052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ScreaM TOGETHER!\n2022년 1월 7일 ScreaM Records에서 새롭게 선보이는 DJ 스트리밍 채널 ‘SHOWME’가 런칭됩니다.\n\nScreaM Records' brand new DJ show streaming channel ‘SHOWME' launches on JAN 7th, 2022.\n\n#SHOWME #쇼미\n#ScreaMRecords \n#PinkBlood \n#BeyondLIVE \n#SMTOWN https://t.co/0WKPZOwlFE"
+	},
+	{
 		"created_at": "Mon Jan 03 03:11:17 +0000 2022",
 		"id": 1477837122941902800,
 		"id_str": "1477839955560960011",
