@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 11:11:29 +0000 2022",
+		"id": 1478315687148155000,
+		"id_str": "1478323190791348225",
+		"full_text": "포스터 : 김지애(@ae_jigim)\n문의 : 공상온도(@gongsangondo), 카카오채널 @공상온도\n기획 : 함현희(@essthang) \n후원 : 서울인디뮤직페스타(@seoulindiemusicfesta)\n\n-\n-\n-\n#youthoutofthecity #도시를벗어난청춘\n#해서웨이 #다브다\n#hathaw9y #dabda\n#공상온도 #공상온도공연 \n#서울인디뮤직페스타",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "youthoutofthecity",
+					"indices": [
+						125,
+						143
+					]
+				},
+				{
+					"text": "도시를벗어난청춘",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "해서웨이",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "다브다",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "hathaw9y",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "dabda",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "공상온도",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "공상온도공연",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						197,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gongsangondo",
+					"name": "공상온도",
+					"id": 720862057243914200,
+					"id_str": "720862057243914240",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "essthang",
+					"name": "essthang",
+					"id": 95648917,
+					"id_str": "95648917",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478315684115673000,
+		"in_reply_to_status_id_str": "1478315684115673090",
+		"in_reply_to_user_id": 720862057243914200,
+		"in_reply_to_user_id_str": "720862057243914240",
+		"in_reply_to_screen_name": "gongsangondo",
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 210,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "포스터 : 김지애(@ae_jigim)\n문의 : 공상온도(@gongsangondo), 카카오채널 @공상온도\n기획 : 함현희(@essthang) \n후원 : 서울인디뮤직페스타(@seoulindiemusicfesta)\n\n-\n-\n-\n#youthoutofthecity #도시를벗어난청춘\n#해서웨이 #다브다\n#hathaw9y #dabda\n#공상온도 #공상온도공연 \n#서울인디뮤직페스타"
+	},
+	{
+		"created_at": "Tue Jan 04 11:11:22 +0000 2022",
+		"id": 1478315684115673000,
+		"id_str": "1478323160911069187",
+		"full_text": "link\n\n📣 정부지침으로 인해 백신 접종에 관한 증빙이 필요합니다. 미접종 또는 1차접종 완료자는 공연 당일 PCR검사 음성확인서를 보여주셔야 입장 가능합니다. (결과 통보시점으로부터 48시간 이내만 효력 발생)\n📣 본 공연은 코로나19관련 정부지침을 준수하여 진행됩니다. https://t.co/jLAZJB9sQa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478315677832585200,
+					"id_str": "1478315677832585217",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FIQIRssaIAEeFBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIQIRssaIAEeFBa.jpg",
+					"url": "https://t.co/jLAZJB9sQa",
+					"display_url": "pic.twitter.com/jLAZJB9sQa",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1478315684115673090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478315677832585200,
+					"id_str": "1478315677832585217",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FIQIRssaIAEeFBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIQIRssaIAEeFBa.jpg",
+					"url": "https://t.co/jLAZJB9sQa",
+					"display_url": "pic.twitter.com/jLAZJB9sQa",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1478315684115673090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478315672560353300,
+		"in_reply_to_status_id_str": "1478315672560353283",
+		"in_reply_to_user_id": 720862057243914200,
+		"in_reply_to_user_id_str": "720862057243914240",
+		"in_reply_to_screen_name": "gongsangondo",
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 210,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "link\n\n📣 정부지침으로 인해 백신 접종에 관한 증빙이 필요합니다. 미접종 또는 1차접종 완료자는 공연 당일 PCR검사 음성확인서를 보여주셔야 입장 가능합니다. (결과 통보시점으로부터 48시간 이내만 효력 발생)\n📣 본 공연은 코로나19관련 정부지침을 준수하여 진행됩니다. https://t.co/jLAZJB9sQa"
+	},
+	{
+		"created_at": "Tue Jan 04 11:11:17 +0000 2022",
+		"id": 1478315672560353300,
+		"id_str": "1478323139465682947",
+		"full_text": "[Youth out of the city]\n🌆도시를 벗어난 청춘🌿\n-\n다브다 x 해서웨이\nDabda(@banddabda) , hathaw9y(@hathaw9y)\n-\n일시 : 2021년 1월 22일 (토) 18:00\n장소 : 공상온도\n티켓 : 45,000원\n예매 : 2021년 1월 7일 (금) 20:00 (공상온도 온라인스토어 TICKET)\nhttps://t.co/d7i5lM9NRc or bio link https://t.co/4b7fMlPkrh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "banddabda",
+					"name": "다브다(Dabda)",
+					"id": 1241718962,
+					"id_str": "1241718962",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "hathaw9y",
+					"name": "🎐",
+					"id": 1404643468366909400,
+					"id_str": "1404643468366909442",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478315642910830600,
+					"id_str": "1478315642910830594",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FIQIPqmacAIGXzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIQIPqmacAIGXzS.jpg",
+					"url": "https://t.co/4b7fMlPkrh",
+					"display_url": "pic.twitter.com/4b7fMlPkrh",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1478315672560353283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478315642910830600,
+					"id_str": "1478315642910830594",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FIQIPqmacAIGXzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIQIPqmacAIGXzS.jpg",
+					"url": "https://t.co/4b7fMlPkrh",
+					"display_url": "pic.twitter.com/4b7fMlPkrh",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1478315672560353283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 210,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Youth out of the city]\n🌆도시를 벗어난 청춘🌿\n-\n다브다 x 해서웨이\nDabda(@banddabda) , hathaw9y(@hathaw9y)\n-\n일시 : 2021년 1월 22일 (토) 18:00\n장소 : 공상온도\n티켓 : 45,000원\n예매 : 2021년 1월 7일 (금) 20:00 (공상온도 온라인스토어 TICKET)\nhttps://t.co/d7i5lM9NRc or bio link https://t.co/4b7fMlPkrh"
+	},
+	{
+		"created_at": "Tue Jan 04 10:29:34 +0000 2022",
+		"id": 1478308747122720800,
+		"id_str": "1478312642406076416",
+		"full_text": "[#미스틱스토리] 네이버 NOW. &lt;MYSTIC MADE&gt; '환생' CLIP🎵\n\n미스틱스토리 패밀리가 함께한 &lt;MYSTIC MADE&gt; - '환생'\n지금 바로 아래 링크에서 감상해보세요🎶\n🔗 https://t.co/Xmg8ZFB9Kz\n\n#MYSTICSTORY #MYSTICMADE #미스틱메이드 #네이버나우 #윤종신 #조정치 #하림 #민서 #손태진 #LUCY #Billlie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "MYSTICMADE",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "미스틱메이드",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "조정치",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "하림",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xmg8ZFB9Kz",
+					"expanded_url": "http://youtu.be/078viZe3bGg",
+					"display_url": "youtu.be/078viZe3bGg",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32643,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 574,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] 네이버 NOW. &lt;MYSTIC MADE&gt; '환생' CLIP🎵\n\n미스틱스토리 패밀리가 함께한 &lt;MYSTIC MADE&gt; - '환생'\n지금 바로 아래 링크에서 감상해보세요🎶\n🔗 https://t.co/Xmg8ZFB9Kz\n\n#MYSTICSTORY #MYSTICMADE #미스틱메이드 #네이버나우 #윤종신 #조정치 #하림 #민서 #손태진 #LUCY #Billlie"
+	},
+	{
 		"created_at": "Tue Jan 04 10:05:13 +0000 2022",
 		"id": 1478306513257119700,
 		"id_str": "1478306513257119745",
