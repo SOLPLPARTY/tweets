@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 03:29:29 +0000 2022",
+		"id": 1478199511927619600,
+		"id_str": "1478206924898377731",
+		"full_text": "ScreaM TOGETHER!\nSHOWME First Line-Up Teaser\n \n12 DJs and more.\n \n#SHOWME #쇼미\n#ScreaMRecords \n#PinkBlood \n#SMTOWN\n#BeyondLIVE https://t.co/n7XdiXkKIg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478059048264437800,
+					"id_str": "1478059048264437760",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FIMfJAJaQAAc3qz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIMfJAJaQAAc3qz.jpg",
+					"url": "https://t.co/n7XdiXkKIg",
+					"display_url": "pic.twitter.com/n7XdiXkKIg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1478199511927619589/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478059048264437800,
+					"id_str": "1478059048264437760",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FIMfJAJaQAAc3qz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIMfJAJaQAAc3qz.jpg",
+					"url": "https://t.co/n7XdiXkKIg",
+					"display_url": "pic.twitter.com/n7XdiXkKIg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1478199511927619589/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26401,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478059048264437760/vid/480x270/PfX4SMZBg2SBRvx6.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1478059048264437760/pl/q5oSYQL8NlWF3ww7.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478059048264437760/vid/640x360/509bWYe2FppQT8BD.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478059048264437760/vid/1280x720/I0QdF4emQ9JQe9La.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10410039,
+			"friends_count": 56,
+			"listed_count": 11511,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 967,
+		"favorite_count": 4281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ScreaM TOGETHER!\nSHOWME First Line-Up Teaser\n \n12 DJs and more.\n \n#SHOWME #쇼미\n#ScreaMRecords \n#PinkBlood \n#SMTOWN\n#BeyondLIVE https://t.co/n7XdiXkKIg"
+	},
+	{
 		"created_at": "Tue Jan 04 03:11:17 +0000 2022",
 		"id": 1478199511201763300,
 		"id_str": "1478202343451734017",
