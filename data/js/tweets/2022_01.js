@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 03:11:17 +0000 2022",
+		"id": 1478199511201763300,
+		"id_str": "1478202343451734017",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;406호 프로젝트 단독 콘서트 ‘CAMPING’：롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 02월 06일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 406호 프로젝트\n· 예매 :🥝멜론티켓 https://t.co/t20Mt50nZj\n\n#롤링홀 #406호프로젝트 #멜론티켓 https://t.co/MCYbmmj3r2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "406호프로젝트",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						195,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t20Mt50nZj",
+					"expanded_url": "https://bit.ly/3EBFCN3",
+					"display_url": "bit.ly/3EBFCN3",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1476108664096575500,
+					"id_str": "1476108664096575489",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1476108664096575489/pu/img/GgQJAVRz6P-gHSNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1476108664096575489/pu/img/GgQJAVRz6P-gHSNx.jpg",
+					"url": "https://t.co/MCYbmmj3r2",
+					"display_url": "pic.twitter.com/MCYbmmj3r2",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1478199511201763331/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476108664096575500,
+					"id_str": "1476108664096575489",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1476108664096575489/pu/img/GgQJAVRz6P-gHSNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1476108664096575489/pu/img/GgQJAVRz6P-gHSNx.jpg",
+					"url": "https://t.co/MCYbmmj3r2",
+					"display_url": "pic.twitter.com/MCYbmmj3r2",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1478199511201763331/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476108664096575489/pu/vid/320x320/i5RyCnm2NiqV67dp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1476108664096575489/pu/pl/9-z9Nl4Zdv2b4IEm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476108664096575489/pu/vid/720x720/kUzxq3eZUKieSn1E.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476108664096575489/pu/vid/540x540/4ykxFouOALvzFxS8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;406호 프로젝트 단독 콘서트 ‘CAMPING’：롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 02월 06일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 406호 프로젝트\n· 예매 :🥝멜론티켓 https://t.co/t20Mt50nZj\n\n#롤링홀 #406호프로젝트 #멜론티켓 https://t.co/MCYbmmj3r2"
+	},
+	{
+		"created_at": "Tue Jan 04 02:29:28 +0000 2022",
+		"id": 1478185130485489700,
+		"id_str": "1478191821520084993",
+		"full_text": "Promising rookie actor CHO JUNYOUNG made a clear impression with the movie 'A YEAR-END MEDLEY 2021'! \n\n#조준영 #CHOJUNYOUNG\n#해피뉴이어 #HappyNewYear\n#A_YEAR_END_MEDLEY_2021 https://t.co/gqIwNLd1ZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조준영",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "CHOJUNYOUNG",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "해피뉴이어",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "HappyNewYear",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "A_YEAR_END_MEDLEY_2021",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478185125628493800,
+					"id_str": "1478185125628493826",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FIORij1aQAIDrjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIORij1aQAIDrjD.jpg",
+					"url": "https://t.co/gqIwNLd1ZB",
+					"display_url": "pic.twitter.com/gqIwNLd1ZB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1478185130485489665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478185125628493800,
+					"id_str": "1478185125628493826",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FIORij1aQAIDrjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIORij1aQAIDrjD.jpg",
+					"url": "https://t.co/gqIwNLd1ZB",
+					"display_url": "pic.twitter.com/gqIwNLd1ZB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1478185130485489665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1478185125628489700,
+					"id_str": "1478185125628489728",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FIORij1aMAAWAJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIORij1aMAAWAJZ.jpg",
+					"url": "https://t.co/gqIwNLd1ZB",
+					"display_url": "pic.twitter.com/gqIwNLd1ZB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1478185130485489665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1104,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1104,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10409676,
+			"friends_count": 56,
+			"listed_count": 11507,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 450,
+		"favorite_count": 3819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Promising rookie actor CHO JUNYOUNG made a clear impression with the movie 'A YEAR-END MEDLEY 2021'! \n\n#조준영 #CHOJUNYOUNG\n#해피뉴이어 #HappyNewYear\n#A_YEAR_END_MEDLEY_2021 https://t.co/gqIwNLd1ZB"
+	},
+	{
 		"created_at": "Mon Jan 03 21:29:25 +0000 2022",
 		"id": 1478112501120512000,
 		"id_str": "1478116311154802691",
