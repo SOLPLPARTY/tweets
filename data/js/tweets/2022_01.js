@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 09:29:35 +0000 2022",
+		"id": 1478657830526009300,
+		"id_str": "1478659935282077696",
+		"full_text": "[#Video] #적재\n\n적재 '꿈' LIVE\nJukjae 'Sky Dream' LIVE\n\n2021 적재 전국투어 '서로의 서로'\n2021 Jukjae Tour Concert 'One Another'\n\n🔗 https://t.co/0XdorU6F8x\n\n#Jukjae #꿈 #SkyDream\n#서로의서로 #OneAnother\n#전국투어 #콘서트 https://t.co/jYby66ke9F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "꿈",
+					"indices": [
+						148,
+						150
+					]
+				},
+				{
+					"text": "SkyDream",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "OneAnother",
+					"indices": [
+						168,
+						179
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0XdorU6F8x",
+					"expanded_url": "https://youtu.be/DaefYI_QCWI",
+					"display_url": "youtu.be/DaefYI_QCWI",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478657632093503500,
+					"id_str": "1478657632093503493",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478657632093503493/pu/img/hKtZ9rSLmdsXGXwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478657632093503493/pu/img/hKtZ9rSLmdsXGXwb.jpg",
+					"url": "https://t.co/jYby66ke9F",
+					"display_url": "pic.twitter.com/jYby66ke9F",
+					"expanded_url": "https://twitter.com/antennamusic/status/1478657830526009344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478657632093503500,
+					"id_str": "1478657632093503493",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478657632093503493/pu/img/hKtZ9rSLmdsXGXwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478657632093503493/pu/img/hKtZ9rSLmdsXGXwb.jpg",
+					"url": "https://t.co/jYby66ke9F",
+					"display_url": "pic.twitter.com/jYby66ke9F",
+					"expanded_url": "https://twitter.com/antennamusic/status/1478657830526009344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478657632093503493/pu/pl/q5in_Kmt2P_zHS8i.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478657632093503493/pu/vid/640x360/ChhI0V2fz4VysNyY.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478657632093503493/pu/vid/480x270/jMBXuSYY0FzJc7i3.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478657632093503493/pu/vid/1280x720/xMTOpxttYraVn3SB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40123,
+			"friends_count": 11,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n적재 '꿈' LIVE\nJukjae 'Sky Dream' LIVE\n\n2021 적재 전국투어 '서로의 서로'\n2021 Jukjae Tour Concert 'One Another'\n\n🔗 https://t.co/0XdorU6F8x\n\n#Jukjae #꿈 #SkyDream\n#서로의서로 #OneAnother\n#전국투어 #콘서트 https://t.co/jYby66ke9F"
+	},
+	{
+		"created_at": "Wed Jan 05 09:29:32 +0000 2022",
+		"id": 1478652498407829500,
+		"id_str": "1478659922208473089",
+		"full_text": "[#손태진] 1st EP The Present [Today's] | Track List\n\n🎵 1st EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #ThePresent_Todays https://t.co/P3aN6w3Emw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "ThePresent",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "Todays",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						150,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478567984809799700,
+					"id_str": "1478567984809799683",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FITtv5bacAMVRBh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FITtv5bacAMVRBh.jpg",
+					"url": "https://t.co/P3aN6w3Emw",
+					"display_url": "pic.twitter.com/P3aN6w3Emw",
+					"expanded_url": "https://twitter.com/themysticstory/status/1478652498407829507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478567984809799700,
+					"id_str": "1478567984809799683",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FITtv5bacAMVRBh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FITtv5bacAMVRBh.jpg",
+					"url": "https://t.co/P3aN6w3Emw",
+					"display_url": "pic.twitter.com/P3aN6w3Emw",
+					"expanded_url": "https://twitter.com/themysticstory/status/1478652498407829507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32673,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#손태진] 1st EP The Present [Today's] | Track List\n\n🎵 1st EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #ThePresent_Todays https://t.co/P3aN6w3Emw"
+	},
+	{
 		"created_at": "Wed Jan 05 09:02:43 +0000 2022",
 		"id": 1478653173350994000,
 		"id_str": "1478653173350993923",
