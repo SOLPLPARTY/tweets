@@ -1,6 +1,1107 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 08:15:20 +0000 2022",
+		"id": 1478641252010807300,
+		"id_str": "1478641252010807296",
+		"full_text": "#루비레코드 #Ruby_Records\n도시의 트렌디한 사운드, City boys의 'Incheon City' Live\nhttps://t.co/PjGNgqeJMy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PjGNgqeJMy",
+					"expanded_url": "https://youtu.be/H_aJehntkzQ",
+					"display_url": "youtu.be/H_aJehntkzQ",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n도시의 트렌디한 사운드, City boys의 'Incheon City' Live\nhttps://t.co/PjGNgqeJMy"
+	},
+	{
+		"created_at": "Wed Jan 05 07:29:43 +0000 2022",
+		"id": 1478627259234021400,
+		"id_str": "1478629769449201668",
+		"full_text": "Def. 1ST EP 'LOVE.' PREORDER LINK\n\n알라딘 \n🔗 https://t.co/ukapRjcvfl\n\nKTOWN4U \n🔗 https://t.co/hQJgdhLswb\n\n핫트랙스\n🔗 https://t.co/j3a5vH2Q8t\n\nYES24\n🔗 https://t.co/G0GwmBEdIM\n\n신나라레코드\n🔗 https://t.co/MvEePKuRw1\n\n#Def. #LOVE @jaybnow_hr https://t.co/bFWQcBRWJw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Def",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						208,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ukapRjcvfl",
+					"expanded_url": "https://bit.ly/3n06uAa",
+					"display_url": "bit.ly/3n06uAa",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/hQJgdhLswb",
+					"expanded_url": "http://bit.ly/3zqol8x",
+					"display_url": "bit.ly/3zqol8x",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/j3a5vH2Q8t",
+					"expanded_url": "https://bit.ly/3pTL4qd",
+					"display_url": "bit.ly/3pTL4qd",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/G0GwmBEdIM",
+					"expanded_url": "https://bit.ly/3EQofIx",
+					"display_url": "bit.ly/3EQofIx",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/MvEePKuRw1",
+					"expanded_url": "https://synnara.co.kr/sp/sp120Main.do?categoryId=CT21001101&productId=P000451474#.YdVE_WhByUk",
+					"display_url": "synnara.co.kr/sp/sp120Main.d…",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/bFWQcBRWJw",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622448887406593",
+					"display_url": "twitter.com/Warner_Music_K…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52396,
+			"friends_count": 494,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478622448887406600,
+		"quoted_status_id_str": "1478622448887406593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bFWQcBRWJw",
+			"expanded": "https://twitter.com/Warner_Music_Kr/status/1478622448887406593",
+			"display": "twitter.com/Warner_Music_K…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 05 07:00:37 +0000 2022",
+			"id": 1478622448887406600,
+			"id_str": "1478622448887406593",
+			"full_text": "Def. 1ST EP ‘LOVE.’ PREORDER INFO\n\n📢PREORDER PERIOD\n2022.01.05 PM 4:00 ~ 2022.01.12 PM 3:00 (KST)\n\n*200 signed photocards randomly assigned (limited)\n*Album sales are limited to only preorder sales\n\n#Def #LOVE @jaybnow_hr https://t.co/jQQjJrTtG7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Def",
+						"indices": [
+							199,
+							203
+						]
+					},
+					{
+						"text": "LOVE",
+						"indices": [
+							204,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jaybnow_hr",
+						"name": "JAY B",
+						"id": 1243264807840542700,
+						"id_str": "1243264807840542721",
+						"indices": [
+							210,
+							221
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jQQjJrTtG7",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952",
+						"display_url": "twitter.com/Warner_Music_K…",
+						"indices": [
+							222,
+							245
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 206117108,
+				"id_str": "206117108",
+				"name": "Warner Music Korea",
+				"screen_name": "Warner_Music_Kr",
+				"location": "Seoul, Korea",
+				"description": "워너뮤직코리아 공식 트위터",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52396,
+				"friends_count": 494,
+				"listed_count": 196,
+				"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+				"favourites_count": 1622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11388,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "023BE5",
+				"profile_text_color": "2566FC",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1478622385956094000,
+			"quoted_status_id_str": "1478622385956093952",
+			"quoted_status_permalink": {
+				"url": "https://t.co/jQQjJrTtG7",
+				"expanded": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952",
+				"display": "twitter.com/Warner_Music_K…"
+			},
+			"retweet_count": 1569,
+			"favorite_count": 1456,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1075,
+		"favorite_count": 924,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Def. 1ST EP 'LOVE.' PREORDER LINK\n\n알라딘 \n🔗 https://t.co/ukapRjcvfl\n\nKTOWN4U \n🔗 https://t.co/hQJgdhLswb\n\n핫트랙스\n🔗 https://t.co/j3a5vH2Q8t\n\nYES24\n🔗 https://t.co/G0GwmBEdIM\n\n신나라레코드\n🔗 https://t.co/MvEePKuRw1\n\n#Def. #LOVE @jaybnow_hr https://t.co/bFWQcBRWJw"
+	},
+	{
+		"created_at": "Wed Jan 05 07:29:41 +0000 2022",
+		"id": 1478626675416252400,
+		"id_str": "1478629760481873925",
+		"full_text": "Def. 1ST EP 'LOVE.' 예약판매 링크 안내 \n\n알라딘 \n🔗 https://t.co/ukapRjcvfl\n\nKTOWN4U \n🔗 https://t.co/hQJgdhLswb\n\n핫트랙스\n🔗 https://t.co/j3a5vH2Q8t\n\nYES24\n🔗 https://t.co/G0GwmBEdIM\n\n신나라레코드\n🔗 https://t.co/EMOJ196GGz\n\n#Def. #LOVE https://t.co/jQQjJrTtG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Def",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						206,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ukapRjcvfl",
+					"expanded_url": "https://bit.ly/3n06uAa",
+					"display_url": "bit.ly/3n06uAa",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/hQJgdhLswb",
+					"expanded_url": "http://bit.ly/3zqol8x",
+					"display_url": "bit.ly/3zqol8x",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/j3a5vH2Q8t",
+					"expanded_url": "https://bit.ly/3pTL4qd",
+					"display_url": "bit.ly/3pTL4qd",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/G0GwmBEdIM",
+					"expanded_url": "https://bit.ly/3EQofIx",
+					"display_url": "bit.ly/3EQofIx",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/EMOJ196GGz",
+					"expanded_url": "https://www.synnara.co.kr/sp/sp120Main.do?categoryId=CT21001101&productId=P000451474#.YdVE_WhByUk",
+					"display_url": "synnara.co.kr/sp/sp120Main.d…",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/jQQjJrTtG7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952",
+					"display_url": "twitter.com/Warner_Music_K…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52396,
+			"friends_count": 494,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478622385956094000,
+		"quoted_status_id_str": "1478622385956093952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jQQjJrTtG7",
+			"expanded": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952",
+			"display": "twitter.com/Warner_Music_K…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 05 07:00:22 +0000 2022",
+			"id": 1478622385956094000,
+			"id_str": "1478622385956093952",
+			"full_text": "Def. 1ST EP 'LOVE.' 예약판매 안내\n\n📢예약 판매 기간 \n2022.01.05 PM 4:00 ~ 2022.01.12 PM 3:00 (KST)\n\n*친필 싸인 포토카드 200장 랜덤 증정 (초도 한정) \n*한정 수량으로 판매되오니 구매에 참고해주시기 바랍니다. \n\n#Def #LOVE @jaybnow_hr https://t.co/tJCvz3SsrP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Def",
+						"indices": [
+							153,
+							157
+						]
+					},
+					{
+						"text": "LOVE",
+						"indices": [
+							158,
+							163
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jaybnow_hr",
+						"name": "JAY B",
+						"id": 1243264807840542700,
+						"id_str": "1243264807840542721",
+						"indices": [
+							164,
+							175
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1478619865804324900,
+						"id_str": "1478619865804324866",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"url": "https://t.co/tJCvz3SsrP",
+						"display_url": "pic.twitter.com/tJCvz3SsrP",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 151,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 454,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 266,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478619865804324900,
+						"id_str": "1478619865804324866",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"url": "https://t.co/tJCvz3SsrP",
+						"display_url": "pic.twitter.com/tJCvz3SsrP",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 151,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 454,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 266,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 206117108,
+				"id_str": "206117108",
+				"name": "Warner Music Korea",
+				"screen_name": "Warner_Music_Kr",
+				"location": "Seoul, Korea",
+				"description": "워너뮤직코리아 공식 트위터",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52396,
+				"friends_count": 494,
+				"listed_count": 196,
+				"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+				"favourites_count": 1622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11388,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "023BE5",
+				"profile_text_color": "2566FC",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6267,
+			"favorite_count": 5620,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1111,
+		"favorite_count": 950,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Def. 1ST EP 'LOVE.' 예약판매 링크 안내 \n\n알라딘 \n🔗 https://t.co/ukapRjcvfl\n\nKTOWN4U \n🔗 https://t.co/hQJgdhLswb\n\n핫트랙스\n🔗 https://t.co/j3a5vH2Q8t\n\nYES24\n🔗 https://t.co/G0GwmBEdIM\n\n신나라레코드\n🔗 https://t.co/EMOJ196GGz\n\n#Def. #LOVE https://t.co/jQQjJrTtG7"
+	},
+	{
+		"created_at": "Wed Jan 05 07:29:31 +0000 2022",
+		"id": 1478622448887406600,
+		"id_str": "1478629721894174721",
+		"full_text": "Def. 1ST EP ‘LOVE.’ PREORDER INFO\n\n📢PREORDER PERIOD\n2022.01.05 PM 4:00 ~ 2022.01.12 PM 3:00 (KST)\n\n*200 signed photocards randomly assigned (limited)\n*Album sales are limited to only preorder sales\n\n#Def #LOVE @jaybnow_hr https://t.co/jQQjJrTtG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Def",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						204,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						210,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jQQjJrTtG7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952",
+					"display_url": "twitter.com/Warner_Music_K…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52396,
+			"friends_count": 494,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478622385956094000,
+		"quoted_status_id_str": "1478622385956093952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jQQjJrTtG7",
+			"expanded": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952",
+			"display": "twitter.com/Warner_Music_K…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 05 07:00:22 +0000 2022",
+			"id": 1478622385956094000,
+			"id_str": "1478622385956093952",
+			"full_text": "Def. 1ST EP 'LOVE.' 예약판매 안내\n\n📢예약 판매 기간 \n2022.01.05 PM 4:00 ~ 2022.01.12 PM 3:00 (KST)\n\n*친필 싸인 포토카드 200장 랜덤 증정 (초도 한정) \n*한정 수량으로 판매되오니 구매에 참고해주시기 바랍니다. \n\n#Def #LOVE @jaybnow_hr https://t.co/tJCvz3SsrP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Def",
+						"indices": [
+							153,
+							157
+						]
+					},
+					{
+						"text": "LOVE",
+						"indices": [
+							158,
+							163
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jaybnow_hr",
+						"name": "JAY B",
+						"id": 1243264807840542700,
+						"id_str": "1243264807840542721",
+						"indices": [
+							164,
+							175
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1478619865804324900,
+						"id_str": "1478619865804324866",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"url": "https://t.co/tJCvz3SsrP",
+						"display_url": "pic.twitter.com/tJCvz3SsrP",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 151,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 454,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 266,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478619865804324900,
+						"id_str": "1478619865804324866",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIUc7xMaQAIWFn9.jpg",
+						"url": "https://t.co/tJCvz3SsrP",
+						"display_url": "pic.twitter.com/tJCvz3SsrP",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1478622385956093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 151,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 454,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 266,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 206117108,
+				"id_str": "206117108",
+				"name": "Warner Music Korea",
+				"screen_name": "Warner_Music_Kr",
+				"location": "Seoul, Korea",
+				"description": "워너뮤직코리아 공식 트위터",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52396,
+				"friends_count": 494,
+				"listed_count": 196,
+				"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+				"favourites_count": 1622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11388,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "023BE5",
+				"profile_text_color": "2566FC",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6267,
+			"favorite_count": 5620,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1569,
+		"favorite_count": 1456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Def. 1ST EP ‘LOVE.’ PREORDER INFO\n\n📢PREORDER PERIOD\n2022.01.05 PM 4:00 ~ 2022.01.12 PM 3:00 (KST)\n\n*200 signed photocards randomly assigned (limited)\n*Album sales are limited to only preorder sales\n\n#Def #LOVE @jaybnow_hr https://t.co/jQQjJrTtG7"
+	},
+	{
 		"created_at": "Wed Jan 05 07:12:41 +0000 2022",
 		"id": 1478625482228834300,
 		"id_str": "1478625482228834304",
