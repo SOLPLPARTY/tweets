@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 06:11:17 +0000 2022",
+		"id": 1478606400372809700,
+		"id_str": "1478610030131884034",
+		"full_text": "청년층을 타겟으로 사람과 직업을 주제로 한 문화 매거진 &lt;FAKE MAGAZINE&gt; 1호가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9g1E\nhttps://t.co/XipgX92DRv\n.\nㅡ\n\n#페이크매거진 #문화매거진#fakemagazine #문화 #예술 #직업 https://t.co/djwUiTjppj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페이크매거진",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "문화",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "예술",
+					"indices": [
+						192,
+						195
+					]
+				},
+				{
+					"text": "직업",
+					"indices": [
+						196,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9g1E",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/XipgX92DRv",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478606392810696700,
+					"id_str": "1478606392810696708",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FIUQriYacAQQ6Un.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIUQriYacAQQ6Un.jpg",
+					"url": "https://t.co/djwUiTjppj",
+					"display_url": "pic.twitter.com/djwUiTjppj",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1478606400372809728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478606392810696700,
+					"id_str": "1478606392810696708",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FIUQriYacAQQ6Un.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIUQriYacAQQ6Un.jpg",
+					"url": "https://t.co/djwUiTjppj",
+					"display_url": "pic.twitter.com/djwUiTjppj",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1478606400372809728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1469659b6ad47003",
+			"url": "https://api.twitter.com/1.1/geo/id/1469659b6ad47003.json",
+			"place_type": "poi",
+			"name": "공상온도",
+			"full_name": "공상온도",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청년층을 타겟으로 사람과 직업을 주제로 한 문화 매거진 &lt;FAKE MAGAZINE&gt; 1호가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9g1E\nhttps://t.co/XipgX92DRv\n.\nㅡ\n\n#페이크매거진 #문화매거진#fakemagazine #문화 #예술 #직업 https://t.co/djwUiTjppj"
+	},
+	{
 		"created_at": "Wed Jan 05 04:29:25 +0000 2022",
 		"id": 1478571009397895200,
 		"id_str": "1478584395162394625",
