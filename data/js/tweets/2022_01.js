@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 03:11:17 +0000 2022",
+		"id": 1478561899591749600,
+		"id_str": "1478564731707404289",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n𝟤𝗇𝖽 𝖫𝖨𝖭𝖤 𝖴𝖯 𝖮𝖯𝖤𝖭\n\n여러분의 행복감을 ✌🏻배로 높여주러 찾아온✌🏻차 라인업을 공개합니다! 앞으로도 쭉쭉 달려갈테니 🏃💨  많은 관심 부탁드립니다. \n\nDesign by 오이웍스, @xoxo_belll\nMusic by 도선(@dcoy_official) https://t.co/mDnya6XaGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dcoy_official",
+					"name": "D.COY 디코이",
+					"id": 1132949942857633800,
+					"id_str": "1132949942857633792",
+					"indices": [
+						164,
+						178
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478318783748276200,
+					"id_str": "1478318783748276228",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478318783748276228/pu/img/A4jJUtVN1GIp4vKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478318783748276228/pu/img/A4jJUtVN1GIp4vKM.jpg",
+					"url": "https://t.co/mDnya6XaGY",
+					"display_url": "pic.twitter.com/mDnya6XaGY",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1478561899591749634/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478318783748276200,
+					"id_str": "1478318783748276228",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478318783748276228/pu/img/A4jJUtVN1GIp4vKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478318783748276228/pu/img/A4jJUtVN1GIp4vKM.jpg",
+					"url": "https://t.co/mDnya6XaGY",
+					"display_url": "pic.twitter.com/mDnya6XaGY",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1478561899591749634/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45013,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478318783748276228/pu/vid/640x360/ENGZ71kYh7q5vMvB.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478318783748276228/pu/vid/480x270/bu74LKIx4Al0mdXS.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478318783748276228/pu/vid/1280x720/riQzbZz4XNGo3oRO.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478318783748276228/pu/pl/7sXBA18icqyPaTNc.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n𝟤𝗇𝖽 𝖫𝖨𝖭𝖤 𝖴𝖯 𝖮𝖯𝖤𝖭\n\n여러분의 행복감을 ✌🏻배로 높여주러 찾아온✌🏻차 라인업을 공개합니다! 앞으로도 쭉쭉 달려갈테니 🏃💨  많은 관심 부탁드립니다. \n\nDesign by 오이웍스, @xoxo_belll\nMusic by 도선(@dcoy_official) https://t.co/mDnya6XaGY"
+	},
+	{
+		"created_at": "Wed Jan 05 02:29:33 +0000 2022",
+		"id": 1478551745299349500,
+		"id_str": "1478554230441095169",
+		"full_text": "‘Best character ever’ PARK SOOYOUNG of the JTBC drama ‘한 사람만’ captivates viewers with her various charms and ‘Girl crush’ aspect!\nNo hesitation in love! Her ‘My Way Romance’ has begun.\n\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY\n#레드벨벳 #RedVelvet \n#한사람만 https://t.co/4xXrB7hjxM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						210,
+						214
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						221,
+						231
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						233,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478551201226825700,
+					"id_str": "1478551201226825728",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FITee9taIAA2-Oy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FITee9taIAA2-Oy.jpg",
+					"url": "https://t.co/4xXrB7hjxM",
+					"display_url": "pic.twitter.com/4xXrB7hjxM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1478551745299349505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 537,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 916,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 304,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478551201226825700,
+					"id_str": "1478551201226825728",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FITee9taIAA2-Oy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FITee9taIAA2-Oy.jpg",
+					"url": "https://t.co/4xXrB7hjxM",
+					"display_url": "pic.twitter.com/4xXrB7hjxM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1478551745299349505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 537,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 916,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 304,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10415524,
+			"friends_count": 56,
+			"listed_count": 11505,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2657,
+		"favorite_count": 9488,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Best character ever’ PARK SOOYOUNG of the JTBC drama ‘한 사람만’ captivates viewers with her various charms and ‘Girl crush’ aspect!\nNo hesitation in love! Her ‘My Way Romance’ has begun.\n\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY\n#레드벨벳 #RedVelvet \n#한사람만 https://t.co/4xXrB7hjxM"
+	},
+	{
 		"created_at": "Tue Jan 04 15:29:24 +0000 2022",
 		"id": 1478380804644688000,
 		"id_str": "1478388100665643010",
