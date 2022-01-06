@@ -1,6 +1,1258 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 09:48:03 +0000 2022",
+		"id": 1479026970985963500,
+		"id_str": "1479026970985963521",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n여기 주목 ✋ 2022년 놓치면 안되는 유망 아티스트 🌱 | 유뮤코 플레이리스트\nhttps://t.co/xRzr4AsOdo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xRzr4AsOdo",
+					"expanded_url": "https://youtu.be/1Tb_T20Hyd4",
+					"display_url": "youtu.be/1Tb_T20Hyd4",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n여기 주목 ✋ 2022년 놓치면 안되는 유망 아티스트 🌱 | 유뮤코 플레이리스트\nhttps://t.co/xRzr4AsOdo"
+	},
+	{
+		"created_at": "Thu Jan 06 09:29:56 +0000 2022",
+		"id": 1479015031937581000,
+		"id_str": "1479022413128028167",
+		"full_text": "Hitchhiker X 3RD 'Alone' MV Teaser\n\nhttps://t.co/TGQHWHRKCB\n\nHitchhiker X 3RD - Alone\n\n➫ 2022.01.07. 6PM KST\n\n#Hitchhiker #3RD #Alone\n#ScreaMRecords\n#SMTOWN https://t.co/3z725UPjke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hitchhiker",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "3RD",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "Alone",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TGQHWHRKCB",
+					"expanded_url": "https://youtu.be/Tg7gFANrj8Q",
+					"display_url": "youtu.be/Tg7gFANrj8Q",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478974560855019500,
+					"id_str": "1478974560855019520",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1478974560855019520/img/qyjRENSlV3Z-TIYf.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1478974560855019520/img/qyjRENSlV3Z-TIYf.jpg",
+					"url": "https://t.co/3z725UPjke",
+					"display_url": "pic.twitter.com/3z725UPjke",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1479015031937581056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478974560855019500,
+					"id_str": "1478974560855019520",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1478974560855019520/img/qyjRENSlV3Z-TIYf.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1478974560855019520/img/qyjRENSlV3Z-TIYf.jpg",
+					"url": "https://t.co/3z725UPjke",
+					"display_url": "pic.twitter.com/3z725UPjke",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1479015031937581056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38686,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1478974560855019520/pl/zQ825ayzZ6ObWo08.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478974560855019520/vid/640x360/afJZuEC-De5m8HlH.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478974560855019520/vid/1280x720/XDcJAY19Y_o3o9Ua.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478974560855019520/vid/480x270/GLJ9eq4FRbJ1audK.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422840,
+			"friends_count": 56,
+			"listed_count": 11514,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1741,
+		"favorite_count": 4751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hitchhiker X 3RD 'Alone' MV Teaser\n\nhttps://t.co/TGQHWHRKCB\n\nHitchhiker X 3RD - Alone\n\n➫ 2022.01.07. 6PM KST\n\n#Hitchhiker #3RD #Alone\n#ScreaMRecords\n#SMTOWN https://t.co/3z725UPjke"
+	},
+	{
+		"created_at": "Thu Jan 06 09:29:48 +0000 2022",
+		"id": 1479014886613078000,
+		"id_str": "1479022379074527239",
+		"full_text": "Def. 1ST EP 'LOVE.' \n\n2022.01.26 PM 6:00 (KST) \n\n#Def. #LOVE. #20220126_PM6 #RELEASE @jaybnow_hr https://t.co/JdSKDs2YWF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Def",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "20220126_PM6",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478975580498727000,
+					"id_str": "1478975580498726920",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FIZgdFsakAgiPHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIZgdFsakAgiPHB.jpg",
+					"url": "https://t.co/JdSKDs2YWF",
+					"display_url": "pic.twitter.com/JdSKDs2YWF",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1479014886613078021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478975580498727000,
+					"id_str": "1478975580498726920",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FIZgdFsakAgiPHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIZgdFsakAgiPHB.jpg",
+					"url": "https://t.co/JdSKDs2YWF",
+					"display_url": "pic.twitter.com/JdSKDs2YWF",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1479014886613078021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53352,
+			"friends_count": 494,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2575,
+		"favorite_count": 3193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Def. 1ST EP 'LOVE.' \n\n2022.01.26 PM 6:00 (KST) \n\n#Def. #LOVE. #20220126_PM6 #RELEASE @jaybnow_hr https://t.co/JdSKDs2YWF"
+	},
+	{
+		"created_at": "Thu Jan 06 09:29:39 +0000 2022",
+		"id": 1479014885916881000,
+		"id_str": "1479022340784726018",
+		"full_text": "[허회경]\n2022.01.07 06PM KST\n그렇게 살아가는 것\n\n#허회경 #music #인디 #노래 https://t.co/oyEyL2o2fE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "허회경",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						54,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478994607958794200,
+					"id_str": "1478994607958794241",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478994607958794241/pu/img/_UXULCtLA9cLJklB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478994607958794241/pu/img/_UXULCtLA9cLJklB.jpg",
+					"url": "https://t.co/oyEyL2o2fE",
+					"display_url": "pic.twitter.com/oyEyL2o2fE",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1479014885916880896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 857,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478994607958794200,
+					"id_str": "1478994607958794241",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478994607958794241/pu/img/_UXULCtLA9cLJklB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478994607958794241/pu/img/_UXULCtLA9cLJklB.jpg",
+					"url": "https://t.co/oyEyL2o2fE",
+					"display_url": "pic.twitter.com/oyEyL2o2fE",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1479014885916880896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 857,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							43,
+							18
+						],
+						"duration_millis": 31656,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478994607958794241/pu/vid/644x270/c1LlPoekm9xkwpHu.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478994607958794241/pu/pl/qT_0jRxqX9R-itKB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478994607958794241/pu/vid/860x360/CO4FrNi6qdInDnXw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478994607958794241/pu/vid/1720x720/BHwkqXRuxUrGncBW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[허회경]\n2022.01.07 06PM KST\n그렇게 살아가는 것\n\n#허회경 #music #인디 #노래 https://t.co/oyEyL2o2fE"
+	},
+	{
+		"created_at": "Thu Jan 06 09:29:34 +0000 2022",
+		"id": 1479014877402337300,
+		"id_str": "1479022319314124801",
+		"full_text": "[#손태진] 2nd EP The Present [Today's] | Audio Teaser #1 '오늘'\n\n🎵 2nd EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #ThePresent_Todays https://t.co/5Upt4tGOQl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "ThePresent",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "Todays",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						160,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478924006560780300,
+					"id_str": "1478924006560780289",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FIZyUtFagAUjDgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIZyUtFagAUjDgA.jpg",
+					"url": "https://t.co/5Upt4tGOQl",
+					"display_url": "pic.twitter.com/5Upt4tGOQl",
+					"expanded_url": "https://twitter.com/themysticstory/status/1479014877402337286/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 804,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478924006560780300,
+					"id_str": "1478924006560780289",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FIZyUtFagAUjDgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIZyUtFagAUjDgA.jpg",
+					"url": "https://t.co/5Upt4tGOQl",
+					"display_url": "pic.twitter.com/5Upt4tGOQl",
+					"expanded_url": "https://twitter.com/themysticstory/status/1479014877402337286/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 804,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36703,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478924006560780289/vid/320x320/Sd86FUp2dOLeDuFF.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478924006560780289/vid/540x540/Z9EmroGbDRC2OW4M.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1478924006560780289/vid/720x720/DUAV6P5ZfBc4zFsJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1478924006560780289/pl/RQwz5H7TvGjfLPOv.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "손태진 SONTAEJIN | 2nd EP The Present [Today's] | Audio Teaser #1 '오늘'",
+						"description": "[#손태진] 2nd EP The Present [Today's] | Audio Teaser #1 '오늘'\n\n🎵 2nd EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #ThePresent_Todays ",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32695,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#손태진] 2nd EP The Present [Today's] | Audio Teaser #1 '오늘'\n\n🎵 2nd EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #ThePresent_Todays https://t.co/5Upt4tGOQl"
+	},
+	{
+		"created_at": "Thu Jan 06 09:29:32 +0000 2022",
+		"id": 1479010920131350500,
+		"id_str": "1479022310480920581",
+		"full_text": "🎧 공기남 - 잠을 청한다\n\n지쳐가는 밤, 힘든 밤 \n조용히 잠든다.\n자고나면 아무렇지 않게\nhttps://t.co/FKarpBtWiK\n\n출처: 핀터레스트 https://t.co/DvCi32eUHG , https://t.co/BQZiJMxZ68 , https://t.co/xY85jX9cVf , https://t.co/8o9uBFqnVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FKarpBtWiK",
+					"expanded_url": "https://youtu.be/prV1lDSKqUA",
+					"display_url": "youtu.be/prV1lDSKqUA",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/DvCi32eUHG",
+					"expanded_url": "https://pin.it/77ojCui",
+					"display_url": "pin.it/77ojCui",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/BQZiJMxZ68",
+					"expanded_url": "https://pin.it/7uyeJEG",
+					"display_url": "pin.it/7uyeJEG",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/xY85jX9cVf",
+					"expanded_url": "https://pin.it/5VkKemR",
+					"display_url": "pin.it/5VkKemR",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/8o9uBFqnVi",
+					"expanded_url": "https://pin.it/6G6Ib5n",
+					"display_url": "pin.it/6G6Ib5n",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back, Daowl\n                         official home page ▶️https://t.co/NxkguP1kf8",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguP1kf8",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 931,
+			"friends_count": 422,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1639030839",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎧 공기남 - 잠을 청한다\n\n지쳐가는 밤, 힘든 밤 \n조용히 잠든다.\n자고나면 아무렇지 않게\nhttps://t.co/FKarpBtWiK\n\n출처: 핀터레스트 https://t.co/DvCi32eUHG , https://t.co/BQZiJMxZ68 , https://t.co/xY85jX9cVf , https://t.co/8o9uBFqnVi"
+	},
+	{
 		"created_at": "Thu Jan 06 09:11:17 +0000 2022",
 		"id": 1479017394072785000,
 		"id_str": "1479017716480626691",
