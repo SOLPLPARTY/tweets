@@ -1,6 +1,1047 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 15:29:43 +0000 2022",
+		"id": 1479106721377558500,
+		"id_str": "1479112952229679109",
+		"full_text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/NuSo1HbhTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479106670358069200,
+					"id_str": "1479106670358069250",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXrheagAIOo2K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXrheagAIOo2K.jpg",
+					"url": "https://t.co/NuSo1HbhTH",
+					"display_url": "pic.twitter.com/NuSo1HbhTH",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106721377558537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479106670358069200,
+					"id_str": "1479106670358069250",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXrheagAIOo2K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXrheagAIOo2K.jpg",
+					"url": "https://t.co/NuSo1HbhTH",
+					"display_url": "pic.twitter.com/NuSo1HbhTH",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106721377558537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427981,
+			"friends_count": 12,
+			"listed_count": 1899,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1641481579",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/NuSo1HbhTH"
+	},
+	{
+		"created_at": "Thu Jan 06 15:29:40 +0000 2022",
+		"id": 1479106619867041800,
+		"id_str": "1479112942637314053",
+		"full_text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#김동윤 (#KIMDONGYUN)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/T8aGzCiWbg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김동윤",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "KIMDONGYUN",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479106568587444200,
+					"id_str": "1479106568587444235",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXlmWaAAs9Hwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXlmWaAAs9Hwy.jpg",
+					"url": "https://t.co/T8aGzCiWbg",
+					"display_url": "pic.twitter.com/T8aGzCiWbg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106619867041794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479106568587444200,
+					"id_str": "1479106568587444235",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXlmWaAAs9Hwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXlmWaAAs9Hwy.jpg",
+					"url": "https://t.co/T8aGzCiWbg",
+					"display_url": "pic.twitter.com/T8aGzCiWbg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106619867041794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427981,
+			"friends_count": 12,
+			"listed_count": 1899,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1641481579",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 486,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#김동윤 (#KIMDONGYUN)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/T8aGzCiWbg"
+	},
+	{
+		"created_at": "Thu Jan 06 15:29:36 +0000 2022",
+		"id": 1479106582504177700,
+		"id_str": "1479112924949929990",
+		"full_text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#알렉스 (#ALEX)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/cbAPEagV8b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알렉스",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "ALEX",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479106535024623600,
+					"id_str": "1479106535024623623",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXjpUaAAciJmQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXjpUaAAciJmQ.jpg",
+					"url": "https://t.co/cbAPEagV8b",
+					"display_url": "pic.twitter.com/cbAPEagV8b",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106582504177664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479106535024623600,
+					"id_str": "1479106535024623623",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXjpUaAAciJmQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXjpUaAAciJmQ.jpg",
+					"url": "https://t.co/cbAPEagV8b",
+					"display_url": "pic.twitter.com/cbAPEagV8b",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106582504177664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427981,
+			"friends_count": 12,
+			"listed_count": 1899,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1641481579",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#알렉스 (#ALEX)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/cbAPEagV8b"
+	},
+	{
+		"created_at": "Thu Jan 06 15:29:34 +0000 2022",
+		"id": 1479106480905519000,
+		"id_str": "1479112915785449475",
+		"full_text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#주창욱 (#JOOCHANGUK)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/Y3l4Pn730x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주창욱",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "JOOCHANGUK",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479106428761964500,
+					"id_str": "1479106428761964547",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXdddagAMpeYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXdddagAMpeYk.jpg",
+					"url": "https://t.co/Y3l4Pn730x",
+					"display_url": "pic.twitter.com/Y3l4Pn730x",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106480905519104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479106428761964500,
+					"id_str": "1479106428761964547",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXdddagAMpeYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXdddagAMpeYk.jpg",
+					"url": "https://t.co/Y3l4Pn730x",
+					"display_url": "pic.twitter.com/Y3l4Pn730x",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106480905519104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427981,
+			"friends_count": 12,
+			"listed_count": 1899,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1641481579",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#주창욱 (#JOOCHANGUK)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/Y3l4Pn730x"
+	},
+	{
+		"created_at": "Thu Jan 06 15:29:31 +0000 2022",
+		"id": 1479106385610948600,
+		"id_str": "1479112902262935561",
+		"full_text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#황윤성 (#HWANGYUNSEONG)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/RMnjBkGELC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "황윤성",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "HWANGYUNSEONG",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479106276366110700,
+					"id_str": "1479106276366110721",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXUlvaUAEwzfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXUlvaUAEwzfm.jpg",
+					"url": "https://t.co/RMnjBkGELC",
+					"display_url": "pic.twitter.com/RMnjBkGELC",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106385610948608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479106276366110700,
+					"id_str": "1479106276366110721",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbXUlvaUAEwzfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbXUlvaUAEwzfm.jpg",
+					"url": "https://t.co/RMnjBkGELC",
+					"display_url": "pic.twitter.com/RMnjBkGELC",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1479106385610948608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427981,
+			"friends_count": 12,
+			"listed_count": 1899,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1641481579",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 3rd MINI ALBUM [Villain]｜CONCEPT PHOTO #2\n#황윤성 (#HWANGYUNSEONG)\n\n😈Title : Villain\n2022.01.17 6PM (KST) RELEASE\n\n#DRIPPIN #드리핀 #Villain https://t.co/RMnjBkGELC"
+	},
+	{
 		"created_at": "Thu Jan 06 14:58:15 +0000 2022",
 		"id": 1479092991952584700,
 		"id_str": "1479105033849348102",
