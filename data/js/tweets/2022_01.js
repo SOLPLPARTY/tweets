@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 13:11:17 +0000 2022",
+		"id": 1479068368670195700,
+		"id_str": "1479078114294734848",
+		"full_text": "It’s just yesterday’s tomorrow\n\n2022.1.9 12PM 임지원 싱글 ‘newyear’ \n\n#임지원 #JiwonLim #싱글 #발매 #newyear https://t.co/LMLujbCfHU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임지원",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "JiwonLim",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "newyear",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479068349837738000,
+					"id_str": "1479068349837737984",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479068349837737984/pu/img/EuIVJf0iSMek3BDu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479068349837737984/pu/img/EuIVJf0iSMek3BDu.jpg",
+					"url": "https://t.co/LMLujbCfHU",
+					"display_url": "pic.twitter.com/LMLujbCfHU",
+					"expanded_url": "https://twitter.com/ctrsound/status/1479068368670195712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479068349837738000,
+					"id_str": "1479068349837737984",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479068349837737984/pu/img/EuIVJf0iSMek3BDu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479068349837737984/pu/img/EuIVJf0iSMek3BDu.jpg",
+					"url": "https://t.co/LMLujbCfHU",
+					"display_url": "pic.twitter.com/LMLujbCfHU",
+					"expanded_url": "https://twitter.com/ctrsound/status/1479068368670195712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 18434,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479068349837737984/pu/vid/320x240/171Y9szszjA7o2Fq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1479068349837737984/pu/pl/tvN0Cj-mbgLQa_4K.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "It’s just yesterday’s tomorrow\n\n2022.1.9 12PM 임지원 싱글 ‘newyear’ \n\n#임지원 #JiwonLim #싱글 #발매 #newyear https://t.co/LMLujbCfHU"
+	},
+	{
 		"created_at": "Thu Jan 06 10:29:33 +0000 2022",
 		"id": 1479036805270089700,
 		"id_str": "1479037413469130754",
