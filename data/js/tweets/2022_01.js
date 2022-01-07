@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 07:29:25 +0000 2022",
+		"id": 1479341882698506200,
+		"id_str": "1479354468655419394",
+		"full_text": "💟 팝업 스토어 현장에서 열일👀하는 윤지영의 깜짝 이벤트가 있을 예정!\n\n💜 날짜 : 2022. 1. 15(SAT) ~ 16(SUN)\n💜 시간 : 2:00 PM ~ 8:00 PM\n💜 장소 : 서울 마포구 와우산로29길 13 1층\n\n(컬렉션 내 포함되는 자세한 제품 정보는 곧 공개됩니다☁️)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1479341753786585000,
+		"in_reply_to_status_id_str": "1479341753786585089",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8729,
+			"friends_count": 23,
+			"listed_count": 99,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💟 팝업 스토어 현장에서 열일👀하는 윤지영의 깜짝 이벤트가 있을 예정!\n\n💜 날짜 : 2022. 1. 15(SAT) ~ 16(SUN)\n💜 시간 : 2:00 PM ~ 8:00 PM\n💜 장소 : 서울 마포구 와우산로29길 13 1층\n\n(컬렉션 내 포함되는 자세한 제품 정보는 곧 공개됩니다☁️)"
+	},
+	{
 		"created_at": "Fri Jan 07 07:13:24 +0000 2022",
 		"id": 1479350437845348400,
 		"id_str": "1479350437845348352",
