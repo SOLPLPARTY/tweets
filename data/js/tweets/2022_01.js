@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 03:14:05 +0000 2022",
+		"id": 1479290215172874200,
+		"id_str": "1479290215172874243",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nDJ Sparrow - 커피(Coffee) (Feat. Rakon, 림헤엄(Lim Haeum)) [Lyric Video]\nhttps://t.co/DbVcnSk7bi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DbVcnSk7bi",
+					"expanded_url": "https://youtu.be/4ctCKrIGAKI",
+					"display_url": "youtu.be/4ctCKrIGAKI",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nDJ Sparrow - 커피(Coffee) (Feat. Rakon, 림헤엄(Lim Haeum)) [Lyric Video]\nhttps://t.co/DbVcnSk7bi"
+	},
+	{
+		"created_at": "Fri Jan 07 03:11:17 +0000 2022",
+		"id": 1479286671803699200,
+		"id_str": "1479289507258191874",
+		"full_text": "&lt;김사월 단독 콘서트 : 롤링 27주년 기념 공연&gt;\n⠀\n· 일시 : 2021년 02월 11일 (금) 오후 8시, 02월 12일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 김사월\n· 예매 : 멜론티켓 2022년 01월 13일 (목) 오후 8시 예매오픈\n⠀\nDesign by 오이웍스\n⠀\n#롤링홀 #ROLLINGHALL\n#김사월 #롤링27주년\n#멜론티켓 https://t.co/Xw369zG8Oz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						200,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1476875727958319000,
+					"id_str": "1476875727958319105",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7qplZaIAEX7Yy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7qplZaIAEX7Yy.jpg",
+					"url": "https://t.co/Xw369zG8Oz",
+					"display_url": "pic.twitter.com/Xw369zG8Oz",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1479286671803699201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476875727958319000,
+					"id_str": "1476875727958319105",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7qplZaIAEX7Yy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7qplZaIAEX7Yy.jpg",
+					"url": "https://t.co/Xw369zG8Oz",
+					"display_url": "pic.twitter.com/Xw369zG8Oz",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1479286671803699201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;김사월 단독 콘서트 : 롤링 27주년 기념 공연&gt;\n⠀\n· 일시 : 2021년 02월 11일 (금) 오후 8시, 02월 12일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 김사월\n· 예매 : 멜론티켓 2022년 01월 13일 (목) 오후 8시 예매오픈\n⠀\nDesign by 오이웍스\n⠀\n#롤링홀 #ROLLINGHALL\n#김사월 #롤링27주년\n#멜론티켓 https://t.co/Xw369zG8Oz"
+	},
+	{
+		"created_at": "Fri Jan 07 02:29:39 +0000 2022",
+		"id": 1479273444135309300,
+		"id_str": "1479279031174447104",
+		"full_text": "OH SEHUN successfully wrapped up his first drama ‘Now we are breaking up’!\n“Thankful that I was able to meet good people for my first drama\".\nAlso raised anticipation with his debut film ‘해적: 도깨비 깃발’ as a role of ‘한궁’, the ace archer! \n\n#OHSEHUN #오세훈\n#EXO #엑소 https://t.co/LCO0e58tAQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHSEHUN",
+					"indices": [
+						237,
+						245
+					]
+				},
+				{
+					"text": "오세훈",
+					"indices": [
+						246,
+						250
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						251,
+						255
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						256,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479273439659982800,
+					"id_str": "1479273439659982848",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FIdvWxiagAA4j_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIdvWxiagAA4j_D.jpg",
+					"url": "https://t.co/LCO0e58tAQ",
+					"display_url": "pic.twitter.com/LCO0e58tAQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1479273444135309312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479273439659982800,
+					"id_str": "1479273439659982848",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FIdvWxiagAA4j_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIdvWxiagAA4j_D.jpg",
+					"url": "https://t.co/LCO0e58tAQ",
+					"display_url": "pic.twitter.com/LCO0e58tAQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1479273444135309312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10425700,
+			"friends_count": 56,
+			"listed_count": 11511,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8567,
+		"favorite_count": 19947,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH SEHUN successfully wrapped up his first drama ‘Now we are breaking up’!\n“Thankful that I was able to meet good people for my first drama\".\nAlso raised anticipation with his debut film ‘해적: 도깨비 깃발’ as a role of ‘한궁’, the ace archer! \n\n#OHSEHUN #오세훈\n#EXO #엑소 https://t.co/LCO0e58tAQ"
+	},
+	{
+		"created_at": "Fri Jan 07 02:29:33 +0000 2022",
+		"id": 1479273039825367000,
+		"id_str": "1479279005463453700",
+		"full_text": "이미주가 함께한 퍼스트룩 화보와 인터뷰가 공개되었습니다. 더 많은 사진과 인터뷰는 퍼스트룩 231호에서 만나보실 수 있으며, 추후 ‘해명타임 짤터뷰’가 공개됩니다💓\n\n🔗 https://t.co/Fuq9TGcfer\n\n#LeeMiJoo #퍼스트룩 #1stLook",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeMiJoo",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fuq9TGcfer",
+					"expanded_url": "https://bit.ly/3qYsZXq",
+					"display_url": "bit.ly/3qYsZXq",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1479273036910329900,
+		"in_reply_to_status_id_str": "1479273036910329857",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40189,
+			"friends_count": 11,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이미주가 함께한 퍼스트룩 화보와 인터뷰가 공개되었습니다. 더 많은 사진과 인터뷰는 퍼스트룩 231호에서 만나보실 수 있으며, 추후 ‘해명타임 짤터뷰’가 공개됩니다💓\n\n🔗 https://t.co/Fuq9TGcfer\n\n#LeeMiJoo #퍼스트룩 #1stLook"
+	},
+	{
+		"created_at": "Fri Jan 07 02:29:27 +0000 2022",
+		"id": 1479273036910329900,
+		"id_str": "1479278979756474370",
+		"full_text": "[#Photo] #이미주\n\n📚 퍼스트룩 231호 ‘미지의 미주’\n\n“저는 주어진 상황을 가감 없이 즐기는 편이에요.\n솔직함을 무기로 삼아서요!” https://t.co/ukLQ7ZkGeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479273018941915100,
+					"id_str": "1479273018941915138",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FIdu-SPaQAIuLZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIdu-SPaQAIuLZi.jpg",
+					"url": "https://t.co/ukLQ7ZkGeI",
+					"display_url": "pic.twitter.com/ukLQ7ZkGeI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1479273036910329857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1398,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479273018941915100,
+					"id_str": "1479273018941915138",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FIdu-SPaQAIuLZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIdu-SPaQAIuLZi.jpg",
+					"url": "https://t.co/ukLQ7ZkGeI",
+					"display_url": "pic.twitter.com/ukLQ7ZkGeI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1479273036910329857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1398,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479273018954494000,
+					"id_str": "1479273018954493955",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FIdu-SSaMAMhN8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIdu-SSaMAMhN8o.jpg",
+					"url": "https://t.co/ukLQ7ZkGeI",
+					"display_url": "pic.twitter.com/ukLQ7ZkGeI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1479273036910329857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1398,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479273019315220500,
+					"id_str": "1479273019315220482",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FIdu-ToacAI9q8p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIdu-ToacAI9q8p.jpg",
+					"url": "https://t.co/ukLQ7ZkGeI",
+					"display_url": "pic.twitter.com/ukLQ7ZkGeI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1479273036910329857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2036,
+							"h": 1347,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479273019298414600,
+					"id_str": "1479273019298414592",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FIdu-TkaAAA44nK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIdu-TkaAAA44nK.jpg",
+					"url": "https://t.co/ukLQ7ZkGeI",
+					"display_url": "pic.twitter.com/ukLQ7ZkGeI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1479273036910329857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40189,
+			"friends_count": 11,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Photo] #이미주\n\n📚 퍼스트룩 231호 ‘미지의 미주’\n\n“저는 주어진 상황을 가감 없이 즐기는 편이에요.\n솔직함을 무기로 삼아서요!” https://t.co/ukLQ7ZkGeI"
+	},
+	{
 		"created_at": "Fri Jan 07 00:29:30 +0000 2022",
 		"id": 1479241569673027600,
 		"id_str": "1479248794143367168",
