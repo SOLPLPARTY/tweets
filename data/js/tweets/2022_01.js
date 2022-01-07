@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 11:29:25 +0000 2022",
+		"id": 1479401285778821000,
+		"id_str": "1479414866914025473",
+		"full_text": "[#Video] #박새별\n\n저마다의 사연을 담아 ‘엄마의 노래’를 부르는 \nMBC &lt;다큐 플렉스 - 뮤직멘터리 마더&gt;에 박새별이 출연합니다.\n오늘 오후 8시 50분, 많은 시청 부탁드립니다☺️✨\n\n#ParkSaeByul\n#MBC #다큐플렉스 #뮤직멘터리 #마더 https://t.co/kAOSLPWfM8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "박새별",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "ParkSaeByul",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "다큐플렉스",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "뮤직멘터리",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "마더",
+					"indices": [
+						148,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479401230321750000,
+					"id_str": "1479401230321750018",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479401230321750018/pu/img/gP9d6e-rEneMcatN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479401230321750018/pu/img/gP9d6e-rEneMcatN.jpg",
+					"url": "https://t.co/kAOSLPWfM8",
+					"display_url": "pic.twitter.com/kAOSLPWfM8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1479401285778821121/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479401230321750000,
+					"id_str": "1479401230321750018",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479401230321750018/pu/img/gP9d6e-rEneMcatN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479401230321750018/pu/img/gP9d6e-rEneMcatN.jpg",
+					"url": "https://t.co/kAOSLPWfM8",
+					"display_url": "pic.twitter.com/kAOSLPWfM8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1479401285778821121/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 41042,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1479401230321750018/pu/pl/O-7zDYgl5cFkfh5t.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479401230321750018/pu/vid/638x360/DVSjnVL41cKYLaRG.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479401230321750018/pu/vid/478x270/XvvYnsi9wetkB0ip.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479401230321750018/pu/vid/852x480/s6xWrWKBgRxNZVFI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40220,
+			"friends_count": 11,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #박새별\n\n저마다의 사연을 담아 ‘엄마의 노래’를 부르는 \nMBC &lt;다큐 플렉스 - 뮤직멘터리 마더&gt;에 박새별이 출연합니다.\n오늘 오후 8시 50분, 많은 시청 부탁드립니다☺️✨\n\n#ParkSaeByul\n#MBC #다큐플렉스 #뮤직멘터리 #마더 https://t.co/kAOSLPWfM8"
+	},
+	{
 		"created_at": "Fri Jan 07 11:11:17 +0000 2022",
 		"id": 1479409683987570700,
 		"id_str": "1479410303297335303",
