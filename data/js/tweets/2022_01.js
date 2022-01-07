@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 06:11:06 +0000 2022",
+		"id": 1479334759771873300,
+		"id_str": "1479334759771873281",
+		"full_text": "#루비레코드 #Ruby_Records\n도시의 여름 밤을 노래하는 '이밤도'의 '영종도' Live\nhttps://t.co/pxCYYwJiQF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pxCYYwJiQF",
+					"expanded_url": "https://youtu.be/GLI3eJOZdk8",
+					"display_url": "youtu.be/GLI3eJOZdk8",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n도시의 여름 밤을 노래하는 '이밤도'의 '영종도' Live\nhttps://t.co/pxCYYwJiQF"
+	},
+	{
+		"created_at": "Fri Jan 07 05:29:33 +0000 2022",
+		"id": 1479314770969112600,
+		"id_str": "1479324303451639811",
+		"full_text": "샘김 (Sam Kim) ‘Smile (Prod. by R3HAB)’\n\nMelon https://t.co/MSWJi0BOa8\nGenie https://t.co/D6D8fIYMGB\nBugs https://t.co/SzoxjkLARN\nFLO https://t.co/zPQewgdWAo\nApple Music https://t.co/ZR192ppg9t\nSpotify https://t.co/z4xXHVYZTQ\n\n@LeegitItsSam \n#SamKim #Smile #R3HAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						240,
+						247
+					]
+				},
+				{
+					"text": "Smile",
+					"indices": [
+						248,
+						254
+					]
+				},
+				{
+					"text": "R3HAB",
+					"indices": [
+						255,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						225,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MSWJi0BOa8",
+					"expanded_url": "http://bit.ly/3t6wlue",
+					"display_url": "bit.ly/3t6wlue",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/D6D8fIYMGB",
+					"expanded_url": "http://bit.ly/3t0VoyR",
+					"display_url": "bit.ly/3t0VoyR",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/SzoxjkLARN",
+					"expanded_url": "http://bit.ly/34yjFCl",
+					"display_url": "bit.ly/34yjFCl",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/zPQewgdWAo",
+					"expanded_url": "http://bit.ly/3FZvUp8",
+					"display_url": "bit.ly/3FZvUp8",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/ZR192ppg9t",
+					"expanded_url": "http://apple.co/3q2nUy1",
+					"display_url": "apple.co/3q2nUy1",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/z4xXHVYZTQ",
+					"expanded_url": "http://spoti.fi/3F2PJuk",
+					"display_url": "spoti.fi/3F2PJuk",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1479314768460918800,
+		"in_reply_to_status_id_str": "1479314768460918786",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40202,
+			"friends_count": 11,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "샘김 (Sam Kim) ‘Smile (Prod. by R3HAB)’\n\nMelon https://t.co/MSWJi0BOa8\nGenie https://t.co/D6D8fIYMGB\nBugs https://t.co/SzoxjkLARN\nFLO https://t.co/zPQewgdWAo\nApple Music https://t.co/ZR192ppg9t\nSpotify https://t.co/z4xXHVYZTQ\n\n@LeegitItsSam \n#SamKim #Smile #R3HAB"
+	},
+	{
 		"created_at": "Fri Jan 07 04:08:21 +0000 2022",
 		"id": 1479303871587664000,
 		"id_str": "1479303871587663874",
