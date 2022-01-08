@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 09:29:24 +0000 2022",
+		"id": 1479739657554317300,
+		"id_str": "1479747054259916800",
+		"full_text": "오세훈 출연 영화 ‘해적:도깨비 깃발’ 메인 예고편 공개!🏴‍☠️\n\nThe main trailer of OH SEHUN’s debut film ‘해적: 도깨비 깃발’ has been released!🏴‍☠️\n\n#OHSEHUN #오세훈 \n#EXO #엑소 @weareoneEXO \n#해적도깨비깃발 https://t.co/COkNUpOYoN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHSEHUN",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "오세훈",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "해적도깨비깃발",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weareoneEXO",
+					"name": "EXO",
+					"id": 873115441303924700,
+					"id_str": "873115441303924736",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479371748311449600,
+					"id_str": "1479371748311449607",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479371748311449607/pu/img/5TZL6McpdCBIricQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479371748311449607/pu/img/5TZL6McpdCBIricQ.jpg",
+					"url": "https://t.co/COkNUpOYoN",
+					"display_url": "pic.twitter.com/COkNUpOYoN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1479739657554317314/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479371748311449600,
+					"id_str": "1479371748311449607",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479371748311449607/pu/img/5TZL6McpdCBIricQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479371748311449607/pu/img/5TZL6McpdCBIricQ.jpg",
+					"url": "https://t.co/COkNUpOYoN",
+					"display_url": "pic.twitter.com/COkNUpOYoN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1479739657554317314/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 95429,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479371748311449607/pu/vid/480x270/ZZkmAUWbtgcPyWOz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1479371748311449607/pu/pl/5HZHlC_c2LUzNZZ4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479371748311449607/pu/vid/1280x720/4RyL8CdzDmaBBfO9.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479371748311449607/pu/vid/640x360/PgPvVsiUxpaqL-gq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10433445,
+			"friends_count": 56,
+			"listed_count": 11528,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9841,
+		"favorite_count": 19318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오세훈 출연 영화 ‘해적:도깨비 깃발’ 메인 예고편 공개!🏴‍☠️\n\nThe main trailer of OH SEHUN’s debut film ‘해적: 도깨비 깃발’ has been released!🏴‍☠️\n\n#OHSEHUN #오세훈 \n#EXO #엑소 @weareoneEXO \n#해적도깨비깃발 https://t.co/COkNUpOYoN"
+	},
+	{
 		"created_at": "Sat Jan 08 09:09:36 +0000 2022",
 		"id": 1479742069254107100,
 		"id_str": "1479742069254107136",
