@@ -1,10 +1,303 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 11:11:17 +0000 2022",
+		"id": 1479747204759888000,
+		"id_str": "1479772691070689284",
+		"full_text": "상상마당 아카데미 ❝문장쓰기❞ 클래스 ✍🏻\n\n● 문장의 재구성\n● 마음대로 읽고 아무렇게나 쓰기\n● [1day] 내 문장은 어디서부터 고쳐야 할까\n\n👩🏻‍💻모두 zoom live로 진행되는 수업입니다. \n자세한 커리큘럼은 홈페이지에서 확인하세요!\n\n📌신청링크:  https://t.co/2rcsMq4CKY https://t.co/hx9vcCyyVq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2rcsMq4CKY",
+					"expanded_url": "https://bit.ly/34ivwnF",
+					"display_url": "bit.ly/34ivwnF",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479425370743279600,
+					"id_str": "1479425370743279619",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf5iU7akAMDnl1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf5iU7akAMDnl1.jpg",
+					"url": "https://t.co/hx9vcCyyVq",
+					"display_url": "pic.twitter.com/hx9vcCyyVq",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479747204759887874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479425370743279600,
+					"id_str": "1479425370743279619",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf5iU7akAMDnl1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf5iU7akAMDnl1.jpg",
+					"url": "https://t.co/hx9vcCyyVq",
+					"display_url": "pic.twitter.com/hx9vcCyyVq",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479747204759887874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479425370751639600,
+					"id_str": "1479425370751639552",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf5iU9aIAA3MHA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf5iU9aIAA3MHA.jpg",
+					"url": "https://t.co/hx9vcCyyVq",
+					"display_url": "pic.twitter.com/hx9vcCyyVq",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479747204759887874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479425370764243000,
+					"id_str": "1479425370764242946",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf5iVAacAIOSxY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf5iVAacAIOSxY.jpg",
+					"url": "https://t.co/hx9vcCyyVq",
+					"display_url": "pic.twitter.com/hx9vcCyyVq",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479747204759887874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479425370776805400,
+					"id_str": "1479425370776805376",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf5iVDaIAAum0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf5iVDaIAAum0a.jpg",
+					"url": "https://t.co/hx9vcCyyVq",
+					"display_url": "pic.twitter.com/hx9vcCyyVq",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479747204759887874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17711,
+			"friends_count": 1866,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상상마당 아카데미 ❝문장쓰기❞ 클래스 ✍🏻\n\n● 문장의 재구성\n● 마음대로 읽고 아무렇게나 쓰기\n● [1day] 내 문장은 어디서부터 고쳐야 할까\n\n👩🏻‍💻모두 zoom live로 진행되는 수업입니다. \n자세한 커리큘럼은 홈페이지에서 확인하세요!\n\n📌신청링크:  https://t.co/2rcsMq4CKY https://t.co/hx9vcCyyVq"
+	},
+	{
 		"created_at": "Sat Jan 08 09:29:24 +0000 2022",
 		"id": 1479739657554317300,
 		"id_str": "1479747054259916800",
-		"full_text": "오세훈 출연 영화 ‘해적:도깨비 깃발’ 메인 예고편 공개!🏴‍☠️\n\nThe main trailer of OH SEHUN’s debut film ‘해적: 도깨비 깃발’ has been released!🏴‍☠️\n\n#OHSEHUN #오세훈 \n#EXO #엑소 @weareoneEXO \n#해적도깨비깃발 https://t.co/COkNUpOYoN",
+		"full_text": "오세훈 출연 영화 ‘해적:도깨비 깃발’ 메인 예고편 공개!🏴☠️\n\nThe main trailer of OH SEHUN’s debut film ‘해적: 도깨비 깃발’ has been released!🏴☠️\n\n#OHSEHUN #오세훈 \n#EXO #엑소 @weareoneEXO \n#해적도깨비깃발 https://t.co/COkNUpOYoN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -251,7 +544,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "오세훈 출연 영화 ‘해적:도깨비 깃발’ 메인 예고편 공개!🏴‍☠️\n\nThe main trailer of OH SEHUN’s debut film ‘해적: 도깨비 깃발’ has been released!🏴‍☠️\n\n#OHSEHUN #오세훈 \n#EXO #엑소 @weareoneEXO \n#해적도깨비깃발 https://t.co/COkNUpOYoN"
+		"text": "오세훈 출연 영화 ‘해적:도깨비 깃발’ 메인 예고편 공개!🏴☠️\n\nThe main trailer of OH SEHUN’s debut film ‘해적: 도깨비 깃발’ has been released!🏴☠️\n\n#OHSEHUN #오세훈 \n#EXO #엑소 @weareoneEXO \n#해적도깨비깃발 https://t.co/COkNUpOYoN"
 	},
 	{
 		"created_at": "Sat Jan 08 09:09:36 +0000 2022",
