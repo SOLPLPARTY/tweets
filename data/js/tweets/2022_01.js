@@ -1,10 +1,615 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 11:58:25 +0000 2022",
+		"id": 1479782435193639000,
+		"id_str": "1479784553753497602",
+		"full_text": "걸그룹 똑같은 컨셉 질린다고? 그런데 네 청취기록은 왜 그렇게 깨끗하고 예뻐? 걸그룹 노래 안 듣지? 썩 그렇게 듣고 싶은 것도 아니지? 그렇다고 말해. 지금 슬케파에서 청순섹시엽기 끝장볼꺼니까. 내 앞에서 울지마. 짜증나.\n\n🎧엘리스 - Pow Pow\n👉https://t.co/T43gV7xOm1 https://t.co/51keHfOz1F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479782105509134300,
+					"id_str": "1479782105509134339",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479782105509134339/pu/img/K370H-vEgNOQi5gi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479782105509134339/pu/img/K370H-vEgNOQi5gi.jpg",
+					"url": "https://t.co/51keHfOz1F",
+					"display_url": "pic.twitter.com/51keHfOz1F",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1479782435193638913/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 648,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479782105509134300,
+					"id_str": "1479782105509134339",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479782105509134339/pu/img/K370H-vEgNOQi5gi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479782105509134339/pu/img/K370H-vEgNOQi5gi.jpg",
+					"url": "https://t.co/51keHfOz1F",
+					"display_url": "pic.twitter.com/51keHfOz1F",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1479782435193638913/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 648,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							5
+						],
+						"duration_millis": 22869,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479782105509134339/pu/vid/648x1080/RZYH9oGAnTReX_14.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479782105509134339/pu/vid/320x532/GAKd92t6QR-Bac0e.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1479782105509134339/pu/pl/AovW8NAMV4ApO1Hq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479782105509134339/pu/vid/480x800/psd61oXv1gAxYHba.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7668,
+			"friends_count": 41,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "걸그룹 똑같은 컨셉 질린다고? 그런데 네 청취기록은 왜 그렇게 깨끗하고 예뻐? 걸그룹 노래 안 듣지? 썩 그렇게 듣고 싶은 것도 아니지? 그렇다고 말해. 지금 슬케파에서 청순섹시엽기 끝장볼꺼니까. 내 앞에서 울지마. 짜증나.\n\n🎧엘리스 - Pow Pow\n👉https://t.co/T43gV7xOm1 https://t.co/51keHfOz1F"
+	},
+	{
+		"created_at": "Sat Jan 08 11:58:23 +0000 2022",
+		"id": 1479780549992796200,
+		"id_str": "1479784544928735232",
+		"full_text": "슬케파 EP.34를 즐기기 위한 걸그룹 컨셉 배팅!!\n당신이 가장 좋아하는 걸그룹 컨셉은 무엇일까요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7668,
+			"friends_count": 41,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "슬케파 EP.34를 즐기기 위한 걸그룹 컨셉 배팅!!\n당신이 가장 좋아하는 걸그룹 컨셉은 무엇일까요?"
+	},
+	{
+		"created_at": "Sat Jan 08 11:58:15 +0000 2022",
+		"id": 1479773747171459000,
+		"id_str": "1479784510904545285",
+		"full_text": "잠시 후 아홉시 슬픔의케이팝파티 걸그룹 특집!\n청순vs섹시vs엽기 &lt;홀짝 카$ㅣ노&gt;가 시작합니다!!\n음악이 흐르는 대기실에서 술도 홀짝홀짝 들이켜 볼까요? 8시 35분부터 오픈합니다!\n\nhttps://t.co/34S2C5GwNK https://t.co/Ah3Een0ybT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5GwNK",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479773736719249400,
+					"id_str": "1479773736719249408",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FIk2X5UacAA8f7v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIk2X5UacAA8f7v.jpg",
+					"url": "https://t.co/Ah3Een0ybT",
+					"display_url": "pic.twitter.com/Ah3Een0ybT",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1479773747171459080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479773736719249400,
+					"id_str": "1479773736719249408",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FIk2X5UacAA8f7v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIk2X5UacAA8f7v.jpg",
+					"url": "https://t.co/Ah3Een0ybT",
+					"display_url": "pic.twitter.com/Ah3Een0ybT",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1479773747171459080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479773736756985900,
+					"id_str": "1479773736756985856",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FIk2X5daQAArdIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIk2X5daQAArdIk.jpg",
+					"url": "https://t.co/Ah3Een0ybT",
+					"display_url": "pic.twitter.com/Ah3Een0ybT",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1479773747171459080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479773736727621600,
+					"id_str": "1479773736727621634",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FIk2X5WaMAIkaBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIk2X5WaMAIkaBa.jpg",
+					"url": "https://t.co/Ah3Een0ybT",
+					"display_url": "pic.twitter.com/Ah3Een0ybT",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1479773747171459080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479773736719257600,
+					"id_str": "1479773736719257610",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FIk2X5UakAoyVW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIk2X5UakAoyVW2.jpg",
+					"url": "https://t.co/Ah3Een0ybT",
+					"display_url": "pic.twitter.com/Ah3Een0ybT",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1479773747171459080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7668,
+			"friends_count": 41,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 아홉시 슬픔의케이팝파티 걸그룹 특집!\n청순vs섹시vs엽기 &lt;홀짝 카$ㅣ노&gt;가 시작합니다!!\n음악이 흐르는 대기실에서 술도 홀짝홀짝 들이켜 볼까요? 8시 35분부터 오픈합니다!\n\nhttps://t.co/34S2C5GwNK https://t.co/Ah3Een0ybT"
+	},
+	{
 		"created_at": "Sat Jan 08 11:11:17 +0000 2022",
 		"id": 1479747204759888000,
 		"id_str": "1479772691070689284",
-		"full_text": "상상마당 아카데미 ❝문장쓰기❞ 클래스 ✍🏻\n\n● 문장의 재구성\n● 마음대로 읽고 아무렇게나 쓰기\n● [1day] 내 문장은 어디서부터 고쳐야 할까\n\n👩🏻‍💻모두 zoom live로 진행되는 수업입니다. \n자세한 커리큘럼은 홈페이지에서 확인하세요!\n\n📌신청링크:  https://t.co/2rcsMq4CKY https://t.co/hx9vcCyyVq",
+		"full_text": "상상마당 아카데미 ❝문장쓰기❞ 클래스 ✍🏻\n\n● 문장의 재구성\n● 마음대로 읽고 아무렇게나 쓰기\n● [1day] 내 문장은 어디서부터 고쳐야 할까\n\n👩🏻💻모두 zoom live로 진행되는 수업입니다. \n자세한 커리큘럼은 홈페이지에서 확인하세요!\n\n📌신청링크:  https://t.co/2rcsMq4CKY https://t.co/hx9vcCyyVq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -291,7 +896,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "상상마당 아카데미 ❝문장쓰기❞ 클래스 ✍🏻\n\n● 문장의 재구성\n● 마음대로 읽고 아무렇게나 쓰기\n● [1day] 내 문장은 어디서부터 고쳐야 할까\n\n👩🏻‍💻모두 zoom live로 진행되는 수업입니다. \n자세한 커리큘럼은 홈페이지에서 확인하세요!\n\n📌신청링크:  https://t.co/2rcsMq4CKY https://t.co/hx9vcCyyVq"
+		"text": "상상마당 아카데미 ❝문장쓰기❞ 클래스 ✍🏻\n\n● 문장의 재구성\n● 마음대로 읽고 아무렇게나 쓰기\n● [1day] 내 문장은 어디서부터 고쳐야 할까\n\n👩🏻💻모두 zoom live로 진행되는 수업입니다. \n자세한 커리큘럼은 홈페이지에서 확인하세요!\n\n📌신청링크:  https://t.co/2rcsMq4CKY https://t.co/hx9vcCyyVq"
 	},
 	{
 		"created_at": "Sat Jan 08 09:29:24 +0000 2022",
