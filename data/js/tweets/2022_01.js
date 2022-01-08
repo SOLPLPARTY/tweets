@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 01:11:17 +0000 2022",
+		"id": 1479618862312165400,
+		"id_str": "1479621696256630792",
+		"full_text": "💌News:조구만스튜디오 신규 입고💌\n\n누군가 날 보고 있다는 느낌이 든다면 그건 바로 브라키오일거에요👀🦖\n\n집, 회사, 학교 어디든 브라키오 제품은 확실한 존재감을 드러냅니다✨\n\n2022년에도 조구만 스튜디오의 귀여운 상품을 상상마당 홍대 디자인스퀘어에서 만나보세요🙌🏻 https://t.co/YMDhENMk4o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479431275853525000,
+					"id_str": "1479431275853524993",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf-6DLaMAECxf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf-6DLaMAECxf-.jpg",
+					"url": "https://t.co/YMDhENMk4o",
+					"display_url": "pic.twitter.com/YMDhENMk4o",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479618862312165379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479431275853525000,
+					"id_str": "1479431275853524993",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf-6DLaMAECxf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf-6DLaMAECxf-.jpg",
+					"url": "https://t.co/YMDhENMk4o",
+					"display_url": "pic.twitter.com/YMDhENMk4o",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479618862312165379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479431275853521000,
+					"id_str": "1479431275853520901",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf-6DLaIAUeGUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf-6DLaIAUeGUF.jpg",
+					"url": "https://t.co/YMDhENMk4o",
+					"display_url": "pic.twitter.com/YMDhENMk4o",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479618862312165379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479431275878678500,
+					"id_str": "1479431275878678541",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf-6DRaAA0Sdew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf-6DRaAA0Sdew.jpg",
+					"url": "https://t.co/YMDhENMk4o",
+					"display_url": "pic.twitter.com/YMDhENMk4o",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479618862312165379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1479431275895464000,
+					"id_str": "1479431275895463937",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FIf-6DVaIAEMABk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIf-6DVaIAEMABk.jpg",
+					"url": "https://t.co/YMDhENMk4o",
+					"display_url": "pic.twitter.com/YMDhENMk4o",
+					"expanded_url": "https://twitter.com/SSmadang/status/1479618862312165379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17710,
+			"friends_count": 1866,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌News:조구만스튜디오 신규 입고💌\n\n누군가 날 보고 있다는 느낌이 든다면 그건 바로 브라키오일거에요👀🦖\n\n집, 회사, 학교 어디든 브라키오 제품은 확실한 존재감을 드러냅니다✨\n\n2022년에도 조구만 스튜디오의 귀여운 상품을 상상마당 홍대 디자인스퀘어에서 만나보세요🙌🏻 https://t.co/YMDhENMk4o"
+	},
+	{
 		"created_at": "Fri Jan 07 15:29:52 +0000 2022",
 		"id": 1479468893655953400,
 		"id_str": "1479475379601559557",
