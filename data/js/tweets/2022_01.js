@@ -1,6 +1,844 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 09 03:29:47 +0000 2022",
+		"id": 1480013652652871700,
+		"id_str": "1480018941670043654",
+		"full_text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오엔터테인먼트주니어",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJunior",
+					"indices": [
+						14,
+						39
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트주니어오디션",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJuniorAudition",
+					"indices": [
+						57,
+						90
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트프렌즈오디션",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "KakaoEntertainmentFriendsAudition",
+					"indices": [
+						108,
+						142
+					]
+				},
+				{
+					"text": "오디션",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Audition",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "KakaoEntertainment",
+					"indices": [
+						169,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480013605882175500,
+		"in_reply_to_status_id_str": "1480013605882175490",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3015,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment"
+	},
+	{
+		"created_at": "Sun Jan 09 03:29:45 +0000 2022",
+		"id": 1480013605882175500,
+		"id_str": "1480018932689948672",
+		"full_text": "📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480013552539009000,
+		"in_reply_to_status_id_str": "1480013552539009024",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3015,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널"
+	},
+	{
+		"created_at": "Sun Jan 09 03:29:42 +0000 2022",
+		"id": 1480013552539009000,
+		"id_str": "1480018919628976128",
+		"full_text": "Step 6) 만 14세 미만 지원자들은 채팅창 하단 메뉴 중 ‘법정대리인 동의서’ 클릭\nStep 7) 이미지 내용 확인 후, 메시지 보내기에 ‘지원자의 이름, 생년월일 / 법정대리인 이름, 연락처, 지원자와의 관계 기재 후, '보호자 동의합니다’ 입력! https://t.co/claVwyHVSk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480013544506925000,
+					"id_str": "1480013544506925057",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FIoQei8aIAEcI3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIoQei8aIAEcI3C.jpg",
+					"url": "https://t.co/claVwyHVSk",
+					"display_url": "pic.twitter.com/claVwyHVSk",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1480013552539009024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480013544506925000,
+					"id_str": "1480013544506925057",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FIoQei8aIAEcI3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIoQei8aIAEcI3C.jpg",
+					"url": "https://t.co/claVwyHVSk",
+					"display_url": "pic.twitter.com/claVwyHVSk",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1480013552539009024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480013461262573600,
+		"in_reply_to_status_id_str": "1480013461262573568",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3015,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Step 6) 만 14세 미만 지원자들은 채팅창 하단 메뉴 중 ‘법정대리인 동의서’ 클릭\nStep 7) 이미지 내용 확인 후, 메시지 보내기에 ‘지원자의 이름, 생년월일 / 법정대리인 이름, 연락처, 지원자와의 관계 기재 후, '보호자 동의합니다’ 입력! https://t.co/claVwyHVSk"
+	},
+	{
+		"created_at": "Sun Jan 09 03:29:38 +0000 2022",
+		"id": 1480013461262573600,
+		"id_str": "1480018902365126661",
+		"full_text": "Step 4) 채팅창 하단 메뉴 중, ‘개인정보 수집/이용 동의’ 클릭\nStep 5) 이미지 내용 확인 후, 메시지 보내기에 ‘동의’를 입력한 뒤 전송하면 모든 지원 완료! https://t.co/6o5ARFrDTu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480013453683470300,
+					"id_str": "1480013453683470336",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FIoQZQmaMAALW_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIoQZQmaMAALW_5.jpg",
+					"url": "https://t.co/6o5ARFrDTu",
+					"display_url": "pic.twitter.com/6o5ARFrDTu",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1480013461262573568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480013453683470300,
+					"id_str": "1480013453683470336",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FIoQZQmaMAALW_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIoQZQmaMAALW_5.jpg",
+					"url": "https://t.co/6o5ARFrDTu",
+					"display_url": "pic.twitter.com/6o5ARFrDTu",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1480013461262573568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480013388030017500,
+		"in_reply_to_status_id_str": "1480013388030017540",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3015,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Step 4) 채팅창 하단 메뉴 중, ‘개인정보 수집/이용 동의’ 클릭\nStep 5) 이미지 내용 확인 후, 메시지 보내기에 ‘동의’를 입력한 뒤 전송하면 모든 지원 완료! https://t.co/6o5ARFrDTu"
+	},
+	{
+		"created_at": "Sun Jan 09 03:29:30 +0000 2022",
+		"id": 1480013388030017500,
+		"id_str": "1480018868164825090",
+		"full_text": "Step 2) 채팅창 하단 메뉴 중, ‘[주니어 6기 오디션] 접수 양식’ 클릭\nStep 3) 메시지 보내기로 지원양식 입력 후, 첨부파일 전송 https://t.co/sO3Z1l9YPW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480013380962631700,
+					"id_str": "1480013380962631682",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FIoQVBsaQAIG-lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIoQVBsaQAIG-lU.jpg",
+					"url": "https://t.co/sO3Z1l9YPW",
+					"display_url": "pic.twitter.com/sO3Z1l9YPW",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1480013388030017540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480013380962631700,
+					"id_str": "1480013380962631682",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FIoQVBsaQAIG-lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIoQVBsaQAIG-lU.jpg",
+					"url": "https://t.co/sO3Z1l9YPW",
+					"display_url": "pic.twitter.com/sO3Z1l9YPW",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1480013388030017540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480013295222673400,
+		"in_reply_to_status_id_str": "1480013295222673408",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3015,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Step 2) 채팅창 하단 메뉴 중, ‘[주니어 6기 오디션] 접수 양식’ 클릭\nStep 3) 메시지 보내기로 지원양식 입력 후, 첨부파일 전송 https://t.co/sO3Z1l9YPW"
+	},
+	{
 		"created_at": "Sun Jan 09 03:14:56 +0000 2022",
 		"id": 1480015202586353700,
 		"id_str": "1480015202586353664",
