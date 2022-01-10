@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 11:29:24 +0000 2022",
+		"id": 1480494635457953800,
+		"id_str": "1480502028937961472",
+		"full_text": "[#손태진] 2nd EP The Present [Today's] | Audio Teaser #3 '마중'\n\n🎵 2nd EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #마중 #ThePresent_Todays https://t.co/feBRXufq5W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "ThePresent",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "Todays",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "마중",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						164,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480383784390635500,
+					"id_str": "1480383784390635531",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FItiKGaaQAM-Bxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FItiKGaaQAM-Bxm.jpg",
+					"url": "https://t.co/feBRXufq5W",
+					"display_url": "pic.twitter.com/feBRXufq5W",
+					"expanded_url": "https://twitter.com/themysticstory/status/1480494635457953792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 791,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480383784390635500,
+					"id_str": "1480383784390635531",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FItiKGaaQAM-Bxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FItiKGaaQAM-Bxm.jpg",
+					"url": "https://t.co/feBRXufq5W",
+					"display_url": "pic.twitter.com/feBRXufq5W",
+					"expanded_url": "https://twitter.com/themysticstory/status/1480494635457953792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 791,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 791,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25692,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480383784390635531/vid/320x320/vNdB1qXF_Ha-rYNC.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480383784390635531/vid/540x540/vDawT24sQ5WmelN1.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480383784390635531/vid/720x720/ua0NTfddjd-rXB5s.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1480383784390635531/pl/_fN-LfJJLYYl3xm4.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "손태진 SONTAEJIN | 2nd EP The Present [Today's] | Audio Teaser #3 '마중'",
+						"description": "[#손태진] 2nd EP The Present [Today's] | Audio Teaser #3 '마중'\n\n🎵 2nd EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #마중 #ThePresent_Todays ",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32721,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1641552189",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#손태진] 2nd EP The Present [Today's] | Audio Teaser #3 '마중'\n\n🎵 2nd EP The Present [Today's]\n🔔 2022.01.14 6PM(KST)\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #마중 #ThePresent_Todays https://t.co/feBRXufq5W"
+	},
+	{
 		"created_at": "Mon Jan 10 10:29:32 +0000 2022",
 		"id": 1480480613371355100,
 		"id_str": "1480486961286721540",
