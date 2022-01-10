@@ -1,10 +1,136 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 06:29:31 +0000 2022",
+		"id": 1480426212577398800,
+		"id_str": "1480426558498160641",
+		"full_text": "[Feature]\n\n2022년을 맞이하여 올해 발매작 중 기대되는 앨범과 발매를 기대하는 앨범들을 선정해봤습니다. 여러분이 기대하는 앨범은 무엇인가요?\n\nhttps://t.co/Q6xBIObJbc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q6xBIObJbc",
+					"expanded_url": "https://www.highjinkxmm.com/features/2022-upcoming",
+					"display_url": "highjinkxmm.com/features/2022-…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 504,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Feature]\n\n2022년을 맞이하여 올해 발매작 중 기대되는 앨범과 발매를 기대하는 앨범들을 선정해봤습니다. 여러분이 기대하는 앨범은 무엇인가요?\n\nhttps://t.co/Q6xBIObJbc"
+	},
+	{
 		"created_at": "Mon Jan 10 04:11:17 +0000 2022",
 		"id": 1480381382262247400,
 		"id_str": "1480391770756239362",
-		"full_text": "혜은이x재주소년의 새해인사💙\n\n&lt;당신의 '파란나라'는 무엇인가요?&gt;\n역대급 콜라보레이션 쇼!\n많이 놀러와주세요 🙋‍♀️\n\n공연일시\n1. 15. (15시, 19시)\n\n공연장소\nKT&amp;G 상상마당 라이브홀\n\n오프라인 공연 예매\n멜론티켓 (1899-0042)\n\n온라인 공연 예매\n라이브앳 (https://t.co/g5zVaOtA42) https://t.co/GgLResHzrG",
+		"full_text": "혜은이x재주소년의 새해인사💙\n\n&lt;당신의 '파란나라'는 무엇인가요?&gt;\n역대급 콜라보레이션 쇼!\n많이 놀러와주세요 🙋♀️\n\n공연일시\n1. 15. (15시, 19시)\n\n공연장소\nKT&amp;G 상상마당 라이브홀\n\n오프라인 공연 예매\n멜론티켓 (1899-0042)\n\n온라인 공연 예매\n라이브앳 (https://t.co/g5zVaOtA42) https://t.co/GgLResHzrG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -209,7 +335,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "혜은이x재주소년의 새해인사💙\n\n&lt;당신의 '파란나라'는 무엇인가요?&gt;\n역대급 콜라보레이션 쇼!\n많이 놀러와주세요 🙋‍♀️\n\n공연일시\n1. 15. (15시, 19시)\n\n공연장소\nKT&amp;G 상상마당 라이브홀\n\n오프라인 공연 예매\n멜론티켓 (1899-0042)\n\n온라인 공연 예매\n라이브앳 (https://t.co/g5zVaOtA42) https://t.co/GgLResHzrG"
+		"text": "혜은이x재주소년의 새해인사💙\n\n&lt;당신의 '파란나라'는 무엇인가요?&gt;\n역대급 콜라보레이션 쇼!\n많이 놀러와주세요 🙋♀️\n\n공연일시\n1. 15. (15시, 19시)\n\n공연장소\nKT&amp;G 상상마당 라이브홀\n\n오프라인 공연 예매\n멜론티켓 (1899-0042)\n\n온라인 공연 예매\n라이브앳 (https://t.co/g5zVaOtA42) https://t.co/GgLResHzrG"
 	},
 	{
 		"created_at": "Mon Jan 10 04:04:30 +0000 2022",
