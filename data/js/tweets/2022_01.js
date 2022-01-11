@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 10:29:38 +0000 2022",
+		"id": 1480843099236880400,
+		"id_str": "1480849373466669057",
+		"full_text": "DAZED CHINA: 이 분야에서 결과적으로 이루고 싶은 것은 무엇인가요?\nDQM: 더 많은 사람들을 기록하고 싶습니다. 그리고 나중에 같이 보고 싶습니다.\n\nDQM 정다운 감독의 인터뷰가 데이즈드 차이나 디지털페이지에 소개되었습니다. \n\nhttps://t.co/7n6gQ736QG https://t.co/7UeeHfDlOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7n6gQ736QG",
+					"expanded_url": "https://mp.weixin.qq.com/s/HzFYYa2nnONzrtQmJeMLSg",
+					"display_url": "mp.weixin.qq.com/s/HzFYYa2nnONz…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480843093113184300,
+					"id_str": "1480843093113184262",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FI0C8oUaIAYOooh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI0C8oUaIAYOooh.jpg",
+					"url": "https://t.co/7UeeHfDlOw",
+					"display_url": "pic.twitter.com/7UeeHfDlOw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1480843099236880384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480843093113184300,
+					"id_str": "1480843093113184262",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FI0C8oUaIAYOooh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI0C8oUaIAYOooh.jpg",
+					"url": "https://t.co/7UeeHfDlOw",
+					"display_url": "pic.twitter.com/7UeeHfDlOw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1480843099236880384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480843093083848700,
+					"id_str": "1480843093083848704",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FI0C8oNagAA_O8c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI0C8oNagAA_O8c.jpg",
+					"url": "https://t.co/7UeeHfDlOw",
+					"display_url": "pic.twitter.com/7UeeHfDlOw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1480843099236880384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480843093121572900,
+					"id_str": "1480843093121572868",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FI0C8oWaIAQikzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI0C8oWaIAQikzQ.jpg",
+					"url": "https://t.co/7UeeHfDlOw",
+					"display_url": "pic.twitter.com/7UeeHfDlOw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1480843099236880384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3990,
+			"friends_count": 10,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DAZED CHINA: 이 분야에서 결과적으로 이루고 싶은 것은 무엇인가요?\nDQM: 더 많은 사람들을 기록하고 싶습니다. 그리고 나중에 같이 보고 싶습니다.\n\nDQM 정다운 감독의 인터뷰가 데이즈드 차이나 디지털페이지에 소개되었습니다. \n\nhttps://t.co/7n6gQ736QG https://t.co/7UeeHfDlOw"
+	},
+	{
+		"created_at": "Tue Jan 11 10:29:36 +0000 2022",
+		"id": 1480842214863696000,
+		"id_str": "1480849364641894403",
+		"full_text": "이슬아가 1월 10일 EBS 뉴스 '지성과 감성'에 출연하여 신간 &lt;창작과 농담&gt;과 &lt;새 마음으로&gt;에 대해 이야기를 나누었습니다. 전체 영상은 EBS 홈페이지와 뉴스EBS 유튜브 채널에서 시청할 수 있습니다. https://t.co/ZY7HY1WNdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480842093371474000,
+					"id_str": "1480842093371473921",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480842093371473921/pu/img/1D1GUaI9uM37wEP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480842093371473921/pu/img/1D1GUaI9uM37wEP6.jpg",
+					"url": "https://t.co/ZY7HY1WNdZ",
+					"display_url": "pic.twitter.com/ZY7HY1WNdZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1480842214863695879/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480842093371474000,
+					"id_str": "1480842093371473921",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480842093371473921/pu/img/1D1GUaI9uM37wEP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480842093371473921/pu/img/1D1GUaI9uM37wEP6.jpg",
+					"url": "https://t.co/ZY7HY1WNdZ",
+					"display_url": "pic.twitter.com/ZY7HY1WNdZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1480842214863695879/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60096,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480842093371473921/pu/vid/640x360/QLiOeIDbpJOWgp1H.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480842093371473921/pu/vid/480x270/fo2pHdYam0vIjMht.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480842093371473921/pu/vid/1280x720/3j0whtXerIObx60c.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1480842093371473921/pu/pl/dBqWRt-FjTNksq_8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3990,
+			"friends_count": 10,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이슬아가 1월 10일 EBS 뉴스 '지성과 감성'에 출연하여 신간 &lt;창작과 농담&gt;과 &lt;새 마음으로&gt;에 대해 이야기를 나누었습니다. 전체 영상은 EBS 홈페이지와 뉴스EBS 유튜브 채널에서 시청할 수 있습니다. https://t.co/ZY7HY1WNdZ"
+	},
+	{
+		"created_at": "Tue Jan 11 10:29:26 +0000 2022",
+		"id": 1480841925141794800,
+		"id_str": "1480849326419156996",
+		"full_text": "[#Video] #정승환\n\n정승환 - ‘2021 정승환의 안녕, 겨울 : 다시 여기, 우리’ 합주 현장 BEHIND \n\n🔗 https://t.co/2FAcLkNSCH\n\n#JungSeungHwan \n#안녕겨울 #다시여기우리 #전국투어 #콘서트 https://t.co/SIQaJhaeGy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"text": "안녕겨울",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "다시여기우리",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						130,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2FAcLkNSCH",
+					"expanded_url": "https://youtu.be/XDP6yBwfSoA",
+					"display_url": "youtu.be/XDP6yBwfSoA",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480813101964755000,
+					"id_str": "1480813101964754944",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzoFqAaQAAVEFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzoFqAaQAAVEFw.jpg",
+					"url": "https://t.co/SIQaJhaeGy",
+					"display_url": "pic.twitter.com/SIQaJhaeGy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1480841925141794817/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480813101964755000,
+					"id_str": "1480813101964754944",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzoFqAaQAAVEFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzoFqAaQAAVEFw.jpg",
+					"url": "https://t.co/SIQaJhaeGy",
+					"display_url": "pic.twitter.com/SIQaJhaeGy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1480841925141794817/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60498,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480813101964754944/vid/1280x720/C4oz2OFAnp7cAULA.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480813101964754944/vid/480x270/P_wf0FaSoXeb9cTo.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1480813101964754944/vid/640x360/tCk4hnS5gCLqteCE.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1480813101964754944/pl/O2g9B6FDWMCEHYTb.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "‘2021 정승환의 안녕, 겨울 : 다시 여기, 우리’ 합주 현장 BEHIND ",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/XDP6yBwfSoA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40247,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\n정승환 - ‘2021 정승환의 안녕, 겨울 : 다시 여기, 우리’ 합주 현장 BEHIND \n\n🔗 https://t.co/2FAcLkNSCH\n\n#JungSeungHwan \n#안녕겨울 #다시여기우리 #전국투어 #콘서트 https://t.co/SIQaJhaeGy"
+	},
+	{
 		"created_at": "Tue Jan 11 09:35:52 +0000 2022",
 		"id": 1480835845607366700,
 		"id_str": "1480835845607366657",
