@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 03:29:57 +0000 2022",
+		"id": 1480739908814008300,
+		"id_str": "1480743758408867840",
+		"full_text": "담예, '사진정리 (001_side b)' OUT NOW🎞\n\nThese items will be deleted.\nThis action cannot be undone.\n\n담예(DAMYE)의 프로젝트 싱글 시리즈\n두번째 '사진정리 (001_side b)'가 발매되었습니다.\n\n#담예 #DAMYE #사진정리 https://t.co/zGwEkwJN3A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "담예",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "DAMYE",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "사진정리",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480739901134241800,
+					"id_str": "1480739901134241798",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FIylGEPagAYsIJd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIylGEPagAYsIJd.jpg",
+					"url": "https://t.co/zGwEkwJN3A",
+					"display_url": "pic.twitter.com/zGwEkwJN3A",
+					"expanded_url": "https://twitter.com/inplanet/status/1480739908814008328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480739901134241800,
+					"id_str": "1480739901134241798",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FIylGEPagAYsIJd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIylGEPagAYsIJd.jpg",
+					"url": "https://t.co/zGwEkwJN3A",
+					"display_url": "pic.twitter.com/zGwEkwJN3A",
+					"expanded_url": "https://twitter.com/inplanet/status/1480739908814008328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1442,
+			"friends_count": 773,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "담예, '사진정리 (001_side b)' OUT NOW🎞\n\nThese items will be deleted.\nThis action cannot be undone.\n\n담예(DAMYE)의 프로젝트 싱글 시리즈\n두번째 '사진정리 (001_side b)'가 발매되었습니다.\n\n#담예 #DAMYE #사진정리 https://t.co/zGwEkwJN3A"
+	},
+	{
+		"created_at": "Tue Jan 11 03:29:50 +0000 2022",
+		"id": 1480737176451416000,
+		"id_str": "1480743728574865410",
+		"full_text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오엔터테인먼트주니어",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJunior",
+					"indices": [
+						14,
+						39
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트주니어오디션",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJuniorAudition",
+					"indices": [
+						57,
+						90
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트프렌즈오디션",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "KakaoEntertainmentFriendsAudition",
+					"indices": [
+						108,
+						142
+					]
+				},
+				{
+					"text": "오디션",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Audition",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "KakaoEntertainment",
+					"indices": [
+						169,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480737175126024200,
+		"in_reply_to_status_id_str": "1480737175126024193",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3013,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment"
+	},
+	{
+		"created_at": "Tue Jan 11 03:29:41 +0000 2022",
+		"id": 1480737175126024200,
+		"id_str": "1480743690352140288",
+		"full_text": "📌 지원분야 및 준비사항 (1분 이내, 최대 2개 분야 중복 지원 가능)\n보컬/랩 : 자유곡 (무반주, 악기 연주 가능)\n댄스 : 자유곡 (커버/창작/즉흥댄스 모두 가능)\n연기 : 자유 연기\n모델(패션/CF) : 자유포즈 3가지\n\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480737173624467500,
+		"in_reply_to_status_id_str": "1480737173624467459",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3013,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📌 지원분야 및 준비사항 (1분 이내, 최대 2개 분야 중복 지원 가능)\n보컬/랩 : 자유곡 (무반주, 악기 연주 가능)\n댄스 : 자유곡 (커버/창작/즉흥댄스 모두 가능)\n연기 : 자유 연기\n모델(패션/CF) : 자유포즈 3가지\n\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널"
+	},
+	{
+		"created_at": "Tue Jan 11 03:29:32 +0000 2022",
+		"id": 1480737173624467500,
+		"id_str": "1480743652108472325",
+		"full_text": "Q. 이번 오디션에 합격하면 연습생이 되는 건가요?\nQ. 합격자 결과 발표는 언제 나오나요?\nQ. 이번 오디션 대상자가 아닌데, 다른 오디션 지원은 불가한가요?\n\n📣 지원대상 : 11세(2012년생) ~ 16세(2007년생) / 성별, 국적 무관\n\n📆 지원기간 : 2022년 01월 05일(수) ~ 01월 16일(일)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480737171112095700,
+		"in_reply_to_status_id_str": "1480737171112095750",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3013,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Q. 이번 오디션에 합격하면 연습생이 되는 건가요?\nQ. 합격자 결과 발표는 언제 나오나요?\nQ. 이번 오디션 대상자가 아닌데, 다른 오디션 지원은 불가한가요?\n\n📣 지원대상 : 11세(2012년생) ~ 16세(2007년생) / 성별, 국적 무관\n\n📆 지원기간 : 2022년 01월 05일(수) ~ 01월 16일(일)"
+	},
+	{
 		"created_at": "Tue Jan 11 03:15:45 +0000 2022",
 		"id": 1480740185365225500,
 		"id_str": "1480740185365225472",
