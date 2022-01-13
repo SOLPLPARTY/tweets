@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 13 14:29:25 +0000 2022",
+		"id": 1481619542283460600,
+		"id_str": "1481634492108488707",
+		"full_text": "[#손태진] 2nd EP The Present [Today's] 컴백 라이브 안내✔\n\n손태진과 함께하는 COMEBACK LIVE🎶\n📌 일시 : 2022년 1월 14일 (금) 5:30PM\n📌 생방송 : MYSTIC STORY YouTube\n\n많은 팬분들의 관심과 참여 부탁드립니다❗\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 https://t.co/2ltwdaIn8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						176,
+						194
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						195,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481616035740790800,
+					"id_str": "1481616035740790788",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FI_B7z_aMAQn1FQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI_B7z_aMAQn1FQ.jpg",
+					"url": "https://t.co/2ltwdaIn8U",
+					"display_url": "pic.twitter.com/2ltwdaIn8U",
+					"expanded_url": "https://twitter.com/themysticstory/status/1481619542283460610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481616035740790800,
+					"id_str": "1481616035740790788",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FI_B7z_aMAQn1FQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI_B7z_aMAQn1FQ.jpg",
+					"url": "https://t.co/2ltwdaIn8U",
+					"display_url": "pic.twitter.com/2ltwdaIn8U",
+					"expanded_url": "https://twitter.com/themysticstory/status/1481619542283460610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32810,
+			"friends_count": 15,
+			"listed_count": 270,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1641552189",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] 2nd EP The Present [Today's] 컴백 라이브 안내✔\n\n손태진과 함께하는 COMEBACK LIVE🎶\n📌 일시 : 2022년 1월 14일 (금) 5:30PM\n📌 생방송 : MYSTIC STORY YouTube\n\n많은 팬분들의 관심과 참여 부탁드립니다❗\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 https://t.co/2ltwdaIn8U"
+	},
+	{
 		"created_at": "Thu Jan 13 13:14:42 +0000 2022",
 		"id": 1481615691753078800,
 		"id_str": "1481615691753078785",
