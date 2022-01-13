@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 13 04:11:17 +0000 2022",
+		"id": 1481474525124767700,
+		"id_str": "1481478934151712772",
+		"full_text": "🎇상상마당 아카데미, 시즌1🎇\n\n하루, 한 달, 한 해를 함께해요!\n\n🤍 2022년 1월부터 4월까지,\n상상마당 아카데미의 [시즌 1]이 시작됩니다!\n\n🤍 상상마당 아카데미 시즌\n시즌1 : 1-4월 / 시즌2 : 5-8월 / 시즌3 : 9-12월\n\n🤍 시즌1 주제\n\"매일매일 합니다.\" \n\n📌자세히 보기: https://t.co/2rcsMq5aAw https://t.co/hG9ERSScsD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2rcsMq5aAw",
+					"expanded_url": "https://bit.ly/34ivwnF",
+					"display_url": "bit.ly/34ivwnF",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481474429402366000,
+					"id_str": "1481474429402365952",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FI9BJPRaQAAllST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI9BJPRaQAAllST.jpg",
+					"url": "https://t.co/hG9ERSScsD",
+					"display_url": "pic.twitter.com/hG9ERSScsD",
+					"expanded_url": "https://twitter.com/SSmadang/status/1481474525124767745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1574,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481474429402366000,
+					"id_str": "1481474429402365952",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FI9BJPRaQAAllST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI9BJPRaQAAllST.jpg",
+					"url": "https://t.co/hG9ERSScsD",
+					"display_url": "pic.twitter.com/hG9ERSScsD",
+					"expanded_url": "https://twitter.com/SSmadang/status/1481474525124767745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1574,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17709,
+			"friends_count": 1865,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎇상상마당 아카데미, 시즌1🎇\n\n하루, 한 달, 한 해를 함께해요!\n\n🤍 2022년 1월부터 4월까지,\n상상마당 아카데미의 [시즌 1]이 시작됩니다!\n\n🤍 상상마당 아카데미 시즌\n시즌1 : 1-4월 / 시즌2 : 5-8월 / 시즌3 : 9-12월\n\n🤍 시즌1 주제\n\"매일매일 합니다.\" \n\n📌자세히 보기: https://t.co/2rcsMq5aAw https://t.co/hG9ERSScsD"
+	},
+	{
+		"created_at": "Thu Jan 13 03:29:37 +0000 2022",
+		"id": 1481462395210199000,
+		"id_str": "1481468450220486659",
+		"full_text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오엔터테인먼트주니어",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJunior",
+					"indices": [
+						14,
+						39
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트주니어오디션",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJuniorAudition",
+					"indices": [
+						57,
+						90
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트프렌즈오디션",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "KakaoEntertainmentFriendsAudition",
+					"indices": [
+						108,
+						142
+					]
+				},
+				{
+					"text": "오디션",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Audition",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "KakaoEntertainment",
+					"indices": [
+						169,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1481462393842856000,
+		"in_reply_to_status_id_str": "1481462393842855941",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3008,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment"
+	},
+	{
+		"created_at": "Thu Jan 13 03:29:33 +0000 2022",
+		"id": 1481462393842856000,
+		"id_str": "1481468432931602433",
+		"full_text": "📌 지원분야 및 준비사항 (1분 이내, 최대 2개 분야 중복 지원 가능)\n보컬/랩 : 자유곡 (무반주, 악기 연주 가능)\n댄스 : 자유곡 (커버/창작/즉흥댄스 모두 가능)\n연기 : 자유 연기\n모델(패션/CF) : 자유포즈 3가지\n\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1481462391422742500,
+		"in_reply_to_status_id_str": "1481462391422742535",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3008,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📌 지원분야 및 준비사항 (1분 이내, 최대 2개 분야 중복 지원 가능)\n보컬/랩 : 자유곡 (무반주, 악기 연주 가능)\n댄스 : 자유곡 (커버/창작/즉흥댄스 모두 가능)\n연기 : 자유 연기\n모델(패션/CF) : 자유포즈 3가지\n\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널"
+	},
+	{
 		"created_at": "Thu Jan 13 03:11:37 +0000 2022",
 		"id": 1481463918287593500,
 		"id_str": "1481463918287593472",
