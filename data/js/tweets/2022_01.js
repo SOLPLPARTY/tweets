@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 14 05:11:35 +0000 2022",
+		"id": 1481853820464681000,
+		"id_str": "1481856497734856704",
+		"full_text": "Design by 오이웍스\n⠀\n#롤링홀 #ROLLINGHALL\n#안예은 #단독콘서트\n#롤링27주년 #롤링27주년기념공연\n#홍대 #공연 #인디 #멜론티켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"text": "안예은",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "롤링27주년기념공연",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1481853640881373200,
+		"in_reply_to_status_id_str": "1481853640881373184",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Design by 오이웍스\n⠀\n#롤링홀 #ROLLINGHALL\n#안예은 #단독콘서트\n#롤링27주년 #롤링27주년기념공연\n#홍대 #공연 #인디 #멜론티켓"
+	},
+	{
+		"created_at": "Fri Jan 14 05:11:29 +0000 2022",
+		"id": 1481853640881373200,
+		"id_str": "1481856472078327809",
+		"full_text": "&lt;안예은 단독 콘서트 '넘치는덕심에셋리스트의절반이상을남의노래로채우는만행을벌인안예은밴드가좍들의반대에부딪혀눈물로추려낸오타쿠셋리스트2월20일대공개' :롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 02월 20일 (일) 오후 5시\n· 출연 : 안예은\n· 예매 : 멜론티켓 01월 21일 (금) 오후 8시 예매오픈 https://t.co/EtKjgskpjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481853610216816600,
+					"id_str": "1481853610216816645",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FJCaAd4agAUX1ee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJCaAd4agAUX1ee.jpg",
+					"url": "https://t.co/EtKjgskpjC",
+					"display_url": "pic.twitter.com/EtKjgskpjC",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1481853640881373184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481853610216816600,
+					"id_str": "1481853610216816645",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FJCaAd4agAUX1ee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJCaAd4agAUX1ee.jpg",
+					"url": "https://t.co/EtKjgskpjC",
+					"display_url": "pic.twitter.com/EtKjgskpjC",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1481853640881373184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;안예은 단독 콘서트 '넘치는덕심에셋리스트의절반이상을남의노래로채우는만행을벌인안예은밴드가좍들의반대에부딪혀눈물로추려낸오타쿠셋리스트2월20일대공개' :롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 02월 20일 (일) 오후 5시\n· 출연 : 안예은\n· 예매 : 멜론티켓 01월 21일 (금) 오후 8시 예매오픈 https://t.co/EtKjgskpjC"
+	},
+	{
+		"created_at": "Fri Jan 14 05:11:23 +0000 2022",
+		"id": 1481853510841139200,
+		"id_str": "1481856446438559744",
+		"full_text": "Design by 오이웍스\n⠀\n#롤링홀 #ROLLINGHALL\n#안예은 #단독콘서트\n#롤링27주년 #롤링27주년기념공연\n#홍대 #공연 #인디 #멜론티켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"text": "안예은",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "롤링27주년기념공연",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1481853468738752500,
+		"in_reply_to_status_id_str": "1481853468738752512",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Design by 오이웍스\n⠀\n#롤링홀 #ROLLINGHALL\n#안예은 #단독콘서트\n#롤링27주년 #롤링27주년기념공연\n#홍대 #공연 #인디 #멜론티켓"
+	},
+	{
+		"created_at": "Fri Jan 14 05:11:16 +0000 2022",
+		"id": 1481853468738752500,
+		"id_str": "1481856420786188293",
+		"full_text": "&lt;안예은 단독 콘서트 '1년동안너무많은일을해버린안예은과연두시간동안발매한신곡을몇개까지부를수있을지2월19일대공개' : 롤링 27주년 기념 공연&gt;\n⠀\n· 일시 : 2022년 02월 19일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 안예은\n· 예매 : 멜론티켓 2022년 01월 20일 (목) 오후 8시 예매오픈 https://t.co/BlCAHluBjW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481853414128898000,
+					"id_str": "1481853414128898049",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FJCZ1DZaUAEI-Lr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJCZ1DZaUAEI-Lr.jpg",
+					"url": "https://t.co/BlCAHluBjW",
+					"display_url": "pic.twitter.com/BlCAHluBjW",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1481853468738752512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481853414128898000,
+					"id_str": "1481853414128898049",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FJCZ1DZaUAEI-Lr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJCZ1DZaUAEI-Lr.jpg",
+					"url": "https://t.co/BlCAHluBjW",
+					"display_url": "pic.twitter.com/BlCAHluBjW",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1481853468738752512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;안예은 단독 콘서트 '1년동안너무많은일을해버린안예은과연두시간동안발매한신곡을몇개까지부를수있을지2월19일대공개' : 롤링 27주년 기념 공연&gt;\n⠀\n· 일시 : 2022년 02월 19일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 안예은\n· 예매 : 멜론티켓 2022년 01월 20일 (목) 오후 8시 예매오픈 https://t.co/BlCAHluBjW"
+	},
+	{
 		"created_at": "Fri Jan 14 04:16:10 +0000 2022",
 		"id": 1481842552743633000,
 		"id_str": "1481842552743632896",
