@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 14 09:29:46 +0000 2022",
+		"id": 1481921048576934000,
+		"id_str": "1481921470544683014",
+		"full_text": "[#Video] #이미주\n\n'터키즈 온 더 블럭' 이미주 편이 공개되었습니다🍦✨ 이미주의 솔직한 매력을 지금 바로 유튜브 ‘스튜디오 와플’ 채널에서 만나보세요💛 \n\n🔗 https://t.co/cT88PMppJA\n\n#LeeMiJoo #스튜디오와플 #터키즈온더블럭 https://t.co/WnjtvQ7tZe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "LeeMiJoo",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "스튜디오와플",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "터키즈온더블럭",
+					"indices": [
+						137,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cT88PMppJA",
+					"expanded_url": "https://youtu.be/a_XvQSJCuhU",
+					"display_url": "youtu.be/a_XvQSJCuhU",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481921042998509600,
+					"id_str": "1481921042998509568",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FJDXVkkaQAA9OjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJDXVkkaQAA9OjK.jpg",
+					"url": "https://t.co/WnjtvQ7tZe",
+					"display_url": "pic.twitter.com/WnjtvQ7tZe",
+					"expanded_url": "https://twitter.com/antennamusic/status/1481921048576933895/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481921042998509600,
+					"id_str": "1481921042998509568",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FJDXVkkaQAA9OjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJDXVkkaQAA9OjK.jpg",
+					"url": "https://t.co/WnjtvQ7tZe",
+					"display_url": "pic.twitter.com/WnjtvQ7tZe",
+					"expanded_url": "https://twitter.com/antennamusic/status/1481921048576933895/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 Single '별 (Dear)' 2021. 12. 16. 6PM Release 💫",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40253,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1639480202",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #이미주\n\n'터키즈 온 더 블럭' 이미주 편이 공개되었습니다🍦✨ 이미주의 솔직한 매력을 지금 바로 유튜브 ‘스튜디오 와플’ 채널에서 만나보세요💛 \n\n🔗 https://t.co/cT88PMppJA\n\n#LeeMiJoo #스튜디오와플 #터키즈온더블럭 https://t.co/WnjtvQ7tZe"
+	},
+	{
+		"created_at": "Fri Jan 14 09:29:38 +0000 2022",
+		"id": 1481915678277861400,
+		"id_str": "1481921440702242820",
+		"full_text": "KANGTA 강타 'Slow Dance' MV Commentary\n\nhttps://t.co/7zjtoJz5Vg\n\n#KANGTA #강타\n#Slow_Dance https://t.co/MzYfeHtXoV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "Slow_Dance",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7zjtoJz5Vg",
+					"expanded_url": "https://youtu.be/ExlLf7dI2m8",
+					"display_url": "youtu.be/ExlLf7dI2m8",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481915579283902500,
+					"id_str": "1481915579283902465",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FJDSXipVkAEk8MG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJDSXipVkAEk8MG.jpg",
+					"url": "https://t.co/MzYfeHtXoV",
+					"display_url": "pic.twitter.com/MzYfeHtXoV",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1481915678277861376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481915579283902500,
+					"id_str": "1481915579283902465",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FJDSXipVkAEk8MG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJDSXipVkAEk8MG.jpg",
+					"url": "https://t.co/MzYfeHtXoV",
+					"display_url": "pic.twitter.com/MzYfeHtXoV",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1481915678277861376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10469772,
+			"friends_count": 56,
+			"listed_count": 11558,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 1982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "KANGTA 강타 'Slow Dance' MV Commentary\n\nhttps://t.co/7zjtoJz5Vg\n\n#KANGTA #강타\n#Slow_Dance https://t.co/MzYfeHtXoV"
+	},
+	{
+		"created_at": "Fri Jan 14 09:29:30 +0000 2022",
+		"id": 1481913983770796000,
+		"id_str": "1481921406711607296",
+		"full_text": "[#손태진] '오늘' MV 🎞\n2nd EP The Present [Today's] 발매💽\n\n지금 바로 각 음원 사이트에서🎶\n🔗 https://t.co/of0UfETOGn\n🔗 https://t.co/igy4wB7YBf\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #Today #ThePresent_Todays https://t.co/4Xt9v5RTBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "ThePresent",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"text": "Todays",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						175,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/of0UfETOGn",
+					"expanded_url": "https://youtu.be/tTueB1hOc0A",
+					"display_url": "youtu.be/tTueB1hOc0A",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/igy4wB7YBf",
+					"expanded_url": "https://www.vlive.tv/video/274657",
+					"display_url": "vlive.tv/video/274657",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481866005768859600,
+					"id_str": "1481866005768859650",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FJCsUv3VQAAAB_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJCsUv3VQAAAB_Z.jpg",
+					"url": "https://t.co/4Xt9v5RTBC",
+					"display_url": "pic.twitter.com/4Xt9v5RTBC",
+					"expanded_url": "https://twitter.com/themysticstory/status/1481913983770796032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481866005768859600,
+					"id_str": "1481866005768859650",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FJCsUv3VQAAAB_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJCsUv3VQAAAB_Z.jpg",
+					"url": "https://t.co/4Xt9v5RTBC",
+					"display_url": "pic.twitter.com/4Xt9v5RTBC",
+					"expanded_url": "https://twitter.com/themysticstory/status/1481913983770796032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35642,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1481866005768859650/pl/Rw9a3G7j80qZlMOx.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481866005768859650/vid/1280x720/_PdYBNSfYEuGV9sJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481866005768859650/vid/640x360/X8vgxtqm0_E3FiYM.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1481866005768859650/vid/480x270/nbupn3ICk5YdXE9G.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "손태진 SONTAEJIN - 오늘 MV",
+						"description": "[#손태진] '오늘' MV 🎞\n2nd EP The Present [Today's] 발매💽\n\n지금 바로 각 음원 사이트에서🎶\n🔗 https://youtu.be/tTueB1hOc0A\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #ThePresent_Todays",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/tTueB1hOc0A"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32820,
+			"friends_count": 15,
+			"listed_count": 270,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1641552189",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] '오늘' MV 🎞\n2nd EP The Present [Today's] 발매💽\n\n지금 바로 각 음원 사이트에서🎶\n🔗 https://t.co/of0UfETOGn\n🔗 https://t.co/igy4wB7YBf\n\n#SONTAEJIN #TJSON #EP #ThePresent #Todays #오늘 #Today #ThePresent_Todays https://t.co/4Xt9v5RTBC"
+	},
+	{
 		"created_at": "Fri Jan 14 09:12:08 +0000 2022",
 		"id": 1481917033839222800,
 		"id_str": "1481917033839222785",
