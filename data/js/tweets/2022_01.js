@@ -1,6 +1,717 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 09:29:44 +0000 2022",
+		"id": 1482277572100903000,
+		"id_str": "1482283852613799937",
+		"full_text": "악의 마음을 읽는 자들 OST Part.1･Release\n‘너드커넥션 - Lullaby’\n\n너드커넥션이 참여한 SBS 드라마 ‘악의 마음을 읽는 자들’의 OST ‘Lullaby’가 발매되었습니다.\n\n각종 음원사이트에서 만나보세요!\n\n#너드커넥션 #너컨 #SBS드라마 #악의마음을읽는자들 #OST #발매 #sbs #drama https://t.co/KL13rWOqwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "SBS드라마",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "악의마음을읽는자들",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "sbs",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "drama",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1482277565520056300,
+					"id_str": "1482277565520056321",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIbl6dakAEa5aI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIbl6dakAEa5aI.jpg",
+					"url": "https://t.co/KL13rWOqwx",
+					"display_url": "pic.twitter.com/KL13rWOqwx",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1482277572100902913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 647,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482277565520056300,
+					"id_str": "1482277565520056321",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIbl6dakAEa5aI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIbl6dakAEa5aI.jpg",
+					"url": "https://t.co/KL13rWOqwx",
+					"display_url": "pic.twitter.com/KL13rWOqwx",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1482277572100902913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 647,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "악의 마음을 읽는 자들 OST Part.1･Release\n‘너드커넥션 - Lullaby’\n\n너드커넥션이 참여한 SBS 드라마 ‘악의 마음을 읽는 자들’의 OST ‘Lullaby’가 발매되었습니다.\n\n각종 음원사이트에서 만나보세요!\n\n#너드커넥션 #너컨 #SBS드라마 #악의마음을읽는자들 #OST #발매 #sbs #drama https://t.co/KL13rWOqwx"
+	},
+	{
+		"created_at": "Sat Jan 15 09:29:38 +0000 2022",
+		"id": 1482276508123410400,
+		"id_str": "1482283826726453252",
+		"full_text": "‘2021 Winter SMTOWN : SMCU EXPRESS’ Jacket Behind the Scene Pt.1\n\nhttps://t.co/oKkgdiEjdw\n\n#BoA #TVXQ! #SUPERJUNIOR #EXO #KAI #RedVelvet #aespa \n#2021_WINTER_SMTOWN #SMCU_EXPRESS\n#SMTOWN2022 #SMTOWN https://t.co/bdmO04mKT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "2021_WINTER_SMTOWN",
+					"indices": [
+						145,
+						164
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						191,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKkgdiEjdw",
+					"expanded_url": "https://youtu.be/Vryn7ZHIIvU",
+					"display_url": "youtu.be/Vryn7ZHIIvU",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482273848607514600,
+					"id_str": "1482273848607514624",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIYNj4aIAAa7EU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIYNj4aIAAa7EU.jpg",
+					"url": "https://t.co/bdmO04mKT1",
+					"display_url": "pic.twitter.com/bdmO04mKT1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1482276508123410435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482273848607514600,
+					"id_str": "1482273848607514624",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIYNj4aIAAa7EU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIYNj4aIAAa7EU.jpg",
+					"url": "https://t.co/bdmO04mKT1",
+					"display_url": "pic.twitter.com/bdmO04mKT1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1482276508123410435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10476749,
+			"friends_count": 56,
+			"listed_count": 11566,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5805,
+		"favorite_count": 15595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘2021 Winter SMTOWN : SMCU EXPRESS’ Jacket Behind the Scene Pt.1\n\nhttps://t.co/oKkgdiEjdw\n\n#BoA #TVXQ! #SUPERJUNIOR #EXO #KAI #RedVelvet #aespa \n#2021_WINTER_SMTOWN #SMCU_EXPRESS\n#SMTOWN2022 #SMTOWN https://t.co/bdmO04mKT1"
+	},
+	{
+		"created_at": "Sat Jan 15 09:29:32 +0000 2022",
+		"id": 1482276465207287800,
+		"id_str": "1482283801090871301",
+		"full_text": "DRIPPIN(드리핀) 3rd Mini Album [Villain]｜Album Preview\n\n2022.01.17 6PM (KST) RELEASE\n\nhttps://t.co/Ln8F4crbj8\nhttps://t.co/dC1ZUtfVyg\n\n#DRIPPIN #드리핀 #Villain https://t.co/zAHeu73uTk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						146,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ln8F4crbj8",
+					"expanded_url": "https://youtu.be/AGu4ZBeyiGE",
+					"display_url": "youtu.be/AGu4ZBeyiGE",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/dC1ZUtfVyg",
+					"expanded_url": "https://www.vlive.tv/video/274698",
+					"display_url": "vlive.tv/video/274698",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482276237909569500,
+					"id_str": "1482276237909569538",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIaYouaMAI0_At.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIaYouaMAI0_At.jpg",
+					"url": "https://t.co/zAHeu73uTk",
+					"display_url": "pic.twitter.com/zAHeu73uTk",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1482276465207287808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482276237909569500,
+					"id_str": "1482276237909569538",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FJIaYouaMAI0_At.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJIaYouaMAI0_At.jpg",
+					"url": "https://t.co/zAHeu73uTk",
+					"display_url": "pic.twitter.com/zAHeu73uTk",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1482276465207287808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427373,
+			"friends_count": 12,
+			"listed_count": 1895,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1641481579",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN(드리핀) 3rd Mini Album [Villain]｜Album Preview\n\n2022.01.17 6PM (KST) RELEASE\n\nhttps://t.co/Ln8F4crbj8\nhttps://t.co/dC1ZUtfVyg\n\n#DRIPPIN #드리핀 #Villain https://t.co/zAHeu73uTk"
+	},
+	{
 		"created_at": "Sat Jan 15 09:07:33 +0000 2022",
 		"id": 1482278269118558200,
 		"id_str": "1482278269118558211",
