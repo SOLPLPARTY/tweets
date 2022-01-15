@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 10:29:34 +0000 2022",
+		"id": 1482291477455777800,
+		"id_str": "1482298908621553669",
+		"full_text": "[#정진운] JTBC '아는 형님' 2AM 출연✔\n\n아형고에 성악부 정진운이 전학왔습니다💕\n감미로운 라이브부터 찐한 웃음까지 정진운의 활약이 궁금하다면?\n잠시 후 8시 40분 JTBC에서 확인📺\n\n#Jinwoon #2AM #JTBC #아는형님 #김영철 https://t.co/7U6nHM8o1D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정진운",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Jinwoon",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "2AM",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "김영철",
+					"indices": [
+						136,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1482226141587206100,
+					"id_str": "1482226141587206144",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FJHs0pYacAASzVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJHs0pYacAASzVt.jpg",
+					"url": "https://t.co/7U6nHM8o1D",
+					"display_url": "pic.twitter.com/7U6nHM8o1D",
+					"expanded_url": "https://twitter.com/themysticstory/status/1482291477455777792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1076,
+							"h": 1345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482226141587206100,
+					"id_str": "1482226141587206144",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FJHs0pYacAASzVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJHs0pYacAASzVt.jpg",
+					"url": "https://t.co/7U6nHM8o1D",
+					"display_url": "pic.twitter.com/7U6nHM8o1D",
+					"expanded_url": "https://twitter.com/themysticstory/status/1482291477455777792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1076,
+							"h": 1345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32886,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1641552189",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정진운] JTBC '아는 형님' 2AM 출연✔\n\n아형고에 성악부 정진운이 전학왔습니다💕\n감미로운 라이브부터 찐한 웃음까지 정진운의 활약이 궁금하다면?\n잠시 후 8시 40분 JTBC에서 확인📺\n\n#Jinwoon #2AM #JTBC #아는형님 #김영철 https://t.co/7U6nHM8o1D"
+	},
+	{
 		"created_at": "Sat Jan 15 09:29:44 +0000 2022",
 		"id": 1482277572100903000,
 		"id_str": "1482283852613799937",
