@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 23:30:08 +0000 2022",
+		"id": 1482842599190941700,
+		"id_str": "1482857733330251777",
+		"full_text": "[#손태진] KBS Cool FM '상쾌한 아침' 완료✔️\n\n월요일 아침을 상쾌하게 열어준 손태진☀️\n이번주도 손태진과 함께 화이팅😊\n\n#손태진 #SONTAEJIN #TJSON #오늘 #KBSCoolFM #상쾌한아침 https://t.co/f935mpr1jJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "KBSCoolFM",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "상쾌한아침",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1482672454061662200,
+					"id_str": "1482672454061662209",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FJOCvc6aIAE7Z0V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJOCvc6aIAE7Z0V.jpg",
+					"url": "https://t.co/f935mpr1jJ",
+					"display_url": "pic.twitter.com/f935mpr1jJ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1482842599190941701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482672454061662200,
+					"id_str": "1482672454061662209",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FJOCvc6aIAE7Z0V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJOCvc6aIAE7Z0V.jpg",
+					"url": "https://t.co/f935mpr1jJ",
+					"display_url": "pic.twitter.com/f935mpr1jJ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1482842599190941701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32926,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1641552189",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] KBS Cool FM '상쾌한 아침' 완료✔️\n\n월요일 아침을 상쾌하게 열어준 손태진☀️\n이번주도 손태진과 함께 화이팅😊\n\n#손태진 #SONTAEJIN #TJSON #오늘 #KBSCoolFM #상쾌한아침 https://t.co/f935mpr1jJ"
+	},
+	{
 		"created_at": "Sun Jan 16 14:11:17 +0000 2022",
 		"id": 1482713179280982000,
 		"id_str": "1482717093489528832",
