@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 04:07:22 +0000 2022",
+		"id": 1482927502024712200,
+		"id_str": "1482927502024712196",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n|MV| Fiji Blue - It Takes Two 💙 | 한글자막 뮤직비디오\nhttps://t.co/ACwFWDCBoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ACwFWDCBoo",
+					"expanded_url": "https://youtu.be/_mSpaqx1QzI",
+					"display_url": "youtu.be/_mSpaqx1QzI",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n|MV| Fiji Blue - It Takes Two 💙 | 한글자막 뮤직비디오\nhttps://t.co/ACwFWDCBoo"
+	},
+	{
+		"created_at": "Mon Jan 17 03:33:19 +0000 2022",
+		"id": 1482918933955022800,
+		"id_str": "1482918933955022848",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#안녕코리아 FKA 트위그스 (FKA twigs) - CAPRISONGS #Shorts\nhttps://t.co/7bjZ0jlxPp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				},
+				{
+					"text": "안녕코리아",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7bjZ0jlxPp",
+					"expanded_url": "https://youtu.be/Jl83PIZsqMw",
+					"display_url": "youtu.be/Jl83PIZsqMw",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#안녕코리아 FKA 트위그스 (FKA twigs) - CAPRISONGS #Shorts\nhttps://t.co/7bjZ0jlxPp"
+	},
+	{
+		"created_at": "Mon Jan 17 03:29:35 +0000 2022",
+		"id": 1482915060754567200,
+		"id_str": "1482917992547733509",
+		"full_text": "[#국카스텐] 발매 안내🎮\n\n명일방주 X 국카스텐\nCRACK IN THE ARK\n발매됐습니다🙌\n\n멜론 https://t.co/wEQgdnS6AU\n지니 https://t.co/ywZk74mu4i\n바이브 https://t.co/buU94PnOlM\n벅스 https://t.co/rI5lMzXfer\n\n#명일방주 #CRACKINTHEARK https://t.co/ef8Tgx8bwA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국카스텐",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "명일방주",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "CRACKINTHEARK",
+					"indices": [
+						170,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wEQgdnS6AU",
+					"expanded_url": "https://url.kr/29vks3",
+					"display_url": "url.kr/29vks3",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/ywZk74mu4i",
+					"expanded_url": "https://url.kr/nbxzvt",
+					"display_url": "url.kr/nbxzvt",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/buU94PnOlM",
+					"expanded_url": "https://url.kr/v9ujlw",
+					"display_url": "url.kr/v9ujlw",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/rI5lMzXfer",
+					"expanded_url": "https://url.kr/pdrtv8",
+					"display_url": "url.kr/pdrtv8",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482915053020278800,
+					"id_str": "1482915053020278786",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRfYkdacAIfUwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRfYkdacAIfUwa.jpg",
+					"url": "https://t.co/ef8Tgx8bwA",
+					"display_url": "pic.twitter.com/ef8Tgx8bwA",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1482915060754567169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482915053020278800,
+					"id_str": "1482915053020278786",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRfYkdacAIfUwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRfYkdacAIfUwa.jpg",
+					"url": "https://t.co/ef8Tgx8bwA",
+					"display_url": "pic.twitter.com/ef8Tgx8bwA",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1482915060754567169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2008,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#국카스텐] 발매 안내🎮\n\n명일방주 X 국카스텐\nCRACK IN THE ARK\n발매됐습니다🙌\n\n멜론 https://t.co/wEQgdnS6AU\n지니 https://t.co/ywZk74mu4i\n바이브 https://t.co/buU94PnOlM\n벅스 https://t.co/rI5lMzXfer\n\n#명일방주 #CRACKINTHEARK https://t.co/ef8Tgx8bwA"
+	},
+	{
+		"created_at": "Mon Jan 17 03:29:31 +0000 2022",
+		"id": 1482914897990017000,
+		"id_str": "1482917975246131207",
+		"full_text": "🔥Out Now🔥\n에디전 Eddie Chun (Beautyhandsome) New Single \n'그러니 울 필요 없어' No Need to Cry\n\n피아노와 보컬, 바이닐 사운드 위로 흐르는 겨울\n2022.1.17.MON.12pm\n\n모든 음원 사이트에서 들으실 수 있습니다. https://t.co/zYEtN6Xe8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1482914553964863500,
+					"id_str": "1482914553964863491",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRe7hVVIAMl8cU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRe7hVVIAMl8cU.jpg",
+					"url": "https://t.co/zYEtN6Xe8A",
+					"display_url": "pic.twitter.com/zYEtN6Xe8A",
+					"expanded_url": "https://twitter.com/sugar_records/status/1482914897990017035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482914553964863500,
+					"id_str": "1482914553964863491",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRe7hVVIAMl8cU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRe7hVVIAMl8cU.jpg",
+					"url": "https://t.co/zYEtN6Xe8A",
+					"display_url": "pic.twitter.com/zYEtN6Xe8A",
+					"expanded_url": "https://twitter.com/sugar_records/status/1482914897990017035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 38,
+			"listed_count": 0,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥Out Now🔥\n에디전 Eddie Chun (Beautyhandsome) New Single \n'그러니 울 필요 없어' No Need to Cry\n\n피아노와 보컬, 바이닐 사운드 위로 흐르는 겨울\n2022.1.17.MON.12pm\n\n모든 음원 사이트에서 들으실 수 있습니다. https://t.co/zYEtN6Xe8A"
+	},
+	{
 		"created_at": "Mon Jan 17 03:11:42 +0000 2022",
 		"id": 1482910798930448400,
 		"id_str": "1482913492453707778",
