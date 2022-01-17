@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 11:29:25 +0000 2022",
+		"id": 1483031369840468000,
+		"id_str": "1483038745561608196",
+		"full_text": "[#손태진] 손태진의 '오늘' LIVE OPEN ✔\n\n손님 음료를 기미하는 사장님이 있다👀⁉\n🔽카페 '오늘'의 주인 '손사장'의 LIVE는🔽\n🔗 https://t.co/GlYyXmIofP\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today https://t.co/S1Gw7DQzJ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						124,
+						142
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GlYyXmIofP",
+					"expanded_url": "https://youtu.be/sygtHWokxnk",
+					"display_url": "youtu.be/sygtHWokxnk",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483026354472124400,
+					"id_str": "1483026354472124417",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FJTE7pRaAAEHGBp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJTE7pRaAAEHGBp.jpg",
+					"url": "https://t.co/S1Gw7DQzJ0",
+					"display_url": "pic.twitter.com/S1Gw7DQzJ0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1483031369840467972/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483026354472124400,
+					"id_str": "1483026354472124417",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FJTE7pRaAAEHGBp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJTE7pRaAAEHGBp.jpg",
+					"url": "https://t.co/S1Gw7DQzJ0",
+					"display_url": "pic.twitter.com/S1Gw7DQzJ0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1483031369840467972/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57957,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483026354472124417/pl/6yoXCP3Uho06nPzn.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483026354472124417/vid/1280x720/HnAG7FBMnTAlry8b.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483026354472124417/vid/480x270/J9AHRyqFX7f3ng5j.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483026354472124417/vid/640x360/MAmfREuN4QpHyu1c.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[LIVE] 손태진의 '오늘' | 손님 음료를 기미하는 사장님이 있다?!",
+						"description": "[#손태진] 손태진의 '오늘' LIVE OPEN ✔\n\n손님 음료를 기미하는 사장님이 있다👀⁉\n🔽카페 '오늘'의 주인 '손사장'의 LIVE는🔽\n🔗 MYSTIC STORY YouTube\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/sygtHWokxnk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32921,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1641552189",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] 손태진의 '오늘' LIVE OPEN ✔\n\n손님 음료를 기미하는 사장님이 있다👀⁉\n🔽카페 '오늘'의 주인 '손사장'의 LIVE는🔽\n🔗 https://t.co/GlYyXmIofP\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today https://t.co/S1Gw7DQzJ0"
+	},
+	{
 		"created_at": "Mon Jan 17 10:29:48 +0000 2022",
 		"id": 1483013628244934700,
 		"id_str": "1483023745509953541",
