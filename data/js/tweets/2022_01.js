@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 18:29:25 +0000 2022",
+		"id": 1483495453975265300,
+		"id_str": "1483506831662198793",
+		"full_text": "김일두 새 계 절 , 서스펜스 LP 많은 관심 부탁 드립니다~ https://t.co/ofE0IoiwKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ofE0IoiwKq",
+					"expanded_url": "https://twitter.com/roundx2/status/1483380117904969728",
+					"display_url": "twitter.com/roundx2/status…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 185,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1640352810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483380117904969700,
+		"quoted_status_id_str": "1483380117904969728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ofE0IoiwKq",
+			"expanded": "https://twitter.com/roundx2/status/1483380117904969728",
+			"display": "twitter.com/roundx2/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 18 10:05:54 +0000 2022",
+			"id": 1483380117904969700,
+			"id_str": "1483380117904969728",
+			"full_text": "총 28종의 &lt;서울레코드페어 최초공개반&gt; 목록이 서울레코드페어 홈페이지 및 인스타그램 계정에 모두 공개되었습니다. \n\n구매관련 안내는 홈페이지 https://t.co/FAxXDRD5wP 및 홈페이지 자주묻는질문 https://t.co/vV2PzPFlaM 을 참조하세요. https://t.co/HdMjKJ4KaO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FAxXDRD5wP",
+						"expanded_url": "http://recordfair.kr",
+						"display_url": "recordfair.kr",
+						"indices": [
+							86,
+							109
+						]
+					},
+					{
+						"url": "https://t.co/vV2PzPFlaM",
+						"expanded_url": "https://recordfair.kr/faq",
+						"display_url": "recordfair.kr/faq",
+						"indices": [
+							124,
+							147
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1483379994902798300,
+						"id_str": "1483379994902798337",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FJYGPv8aIAE3sq9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJYGPv8aIAE3sq9.jpg",
+						"url": "https://t.co/HdMjKJ4KaO",
+						"display_url": "pic.twitter.com/HdMjKJ4KaO",
+						"expanded_url": "https://twitter.com/roundx2/status/1483380117904969728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1483379994902798300,
+						"id_str": "1483379994902798337",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FJYGPv8aIAE3sq9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJYGPv8aIAE3sq9.jpg",
+						"url": "https://t.co/HdMjKJ4KaO",
+						"display_url": "pic.twitter.com/HdMjKJ4KaO",
+						"expanded_url": "https://twitter.com/roundx2/status/1483380117904969728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1483379994936377300,
+						"id_str": "1483379994936377347",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FJYGPwEagAMaC4a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJYGPwEagAMaC4a.jpg",
+						"url": "https://t.co/HdMjKJ4KaO",
+						"display_url": "pic.twitter.com/HdMjKJ4KaO",
+						"expanded_url": "https://twitter.com/roundx2/status/1483380117904969728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1483379994923794400,
+						"id_str": "1483379994923794433",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FJYGPwBagAESIhE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJYGPwBagAESIhE.jpg",
+						"url": "https://t.co/HdMjKJ4KaO",
+						"display_url": "pic.twitter.com/HdMjKJ4KaO",
+						"expanded_url": "https://twitter.com/roundx2/status/1483380117904969728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1483379994907021300,
+						"id_str": "1483379994907021315",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/FJYGPv9akAMXbsh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJYGPv9akAMXbsh.jpg",
+						"url": "https://t.co/HdMjKJ4KaO",
+						"display_url": "pic.twitter.com/HdMjKJ4KaO",
+						"expanded_url": "https://twitter.com/roundx2/status/1483380117904969728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 301854451,
+				"id_str": "301854451",
+				"name": "서울레코드페어",
+				"screen_name": "roundx2",
+				"location": "대한민국 서울",
+				"description": "제10회 서울레코드페어 - 2022년 1월 22일 토요일, 라이즈 호텔 지하 1층 및 무신사테라스 라운지 (AK& 17층) + 공연장 + 인근매장",
+				"url": "https://t.co/aSIVnN0U3C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aSIVnN0U3C",
+								"expanded_url": "http://recordfair.kr",
+								"display_url": "recordfair.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5443,
+				"friends_count": 501,
+				"listed_count": 80,
+				"created_at": "Fri May 20 05:31:35 +0000 2011",
+				"favourites_count": 25,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5587,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1024580680892657664/415PBznc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024580680892657664/415PBznc_normal.jpg",
+				"profile_link_color": "1D4491",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김일두 새 계 절 , 서스펜스 LP 많은 관심 부탁 드립니다~ https://t.co/ofE0IoiwKq"
+	},
+	{
 		"created_at": "Tue Jan 18 15:29:25 +0000 2022",
 		"id": 1483454135567589400,
 		"id_str": "1483461531211911187",
