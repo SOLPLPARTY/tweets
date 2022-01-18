@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 11:29:24 +0000 2022",
+		"id": 1483393732355502000,
+		"id_str": "1483401132835758085",
+		"full_text": "🎼 하루 끝 감성 라이브, &lt;LISTEN STAGE&gt;\n\n모두를 행복하게 만들어줄 Billlie의 음악과 함께🎵\n\n211216 LISTEN STAGE\n🔗 https://t.co/gGkir6nZC7\n\n#미스틱스토리 #MYSTICSTORY #리슨스테이지 #LISTENSTAGE #Billlie #시윤 #츠키 #션 #수현 #하람 #문수아 #하루나 https://t.co/ZHyGEUDHH3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "리슨스테이지",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "LISTENSTAGE",
+					"indices": [
+						145,
+						157
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "시윤",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "츠키",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "션",
+					"indices": [
+						175,
+						177
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "하람",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "문수아",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "하루나",
+					"indices": [
+						191,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gGkir6nZC7",
+					"expanded_url": "https://youtu.be/iVkT54LzeRw",
+					"display_url": "youtu.be/iVkT54LzeRw",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483339249902825500,
+					"id_str": "1483339249902825472",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FJXhTcPaIAMtmNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJXhTcPaIAMtmNx.jpg",
+					"url": "https://t.co/ZHyGEUDHH3",
+					"display_url": "pic.twitter.com/ZHyGEUDHH3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1483393732355502084/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483339249902825500,
+					"id_str": "1483339249902825472",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FJXhTcPaIAMtmNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJXhTcPaIAMtmNx.jpg",
+					"url": "https://t.co/ZHyGEUDHH3",
+					"display_url": "pic.twitter.com/ZHyGEUDHH3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1483393732355502084/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55155,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483339249902825472/vid/1280x720/EEaJlfNxC3THCtV2.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483339249902825472/vid/480x270/79Bse1494cjOjv1X.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483339249902825472/pl/iUCnasKVkJdM-yLB.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483339249902825472/vid/640x360/uEjP7t9UiEvgn-y5.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[LISTEN STAGE] 211216-Billlie",
+						"description": "🎼 하루 끝 감성 라이브, <LISTEN STAGE>\n\n모두를 행복하게 만들어줄 Billlie의 음악과 함께🎵\n\n211216 LISTEN STAGE\n🔗 https://youtu.be/iVkT54LzeRw\n⠀\n#미스틱스토리 #MYSTICSTORY #리슨스테이지 #LISTENSTAGE #Billlie #시윤 #츠키 #션 #수현 #하람 #문수아 #하루나",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/iVkT54LzeRw"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32915,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1641552189",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 904,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎼 하루 끝 감성 라이브, &lt;LISTEN STAGE&gt;\n\n모두를 행복하게 만들어줄 Billlie의 음악과 함께🎵\n\n211216 LISTEN STAGE\n🔗 https://t.co/gGkir6nZC7\n\n#미스틱스토리 #MYSTICSTORY #리슨스테이지 #LISTENSTAGE #Billlie #시윤 #츠키 #션 #수현 #하람 #문수아 #하루나 https://t.co/ZHyGEUDHH3"
+	},
+	{
 		"created_at": "Tue Jan 18 10:34:43 +0000 2022",
 		"id": 1483387367499214800,
 		"id_str": "1483387367499214848",
