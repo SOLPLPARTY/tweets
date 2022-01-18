@@ -1,10 +1,205 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 15:29:25 +0000 2022",
+		"id": 1483454135567589400,
+		"id_str": "1483461531211911187",
+		"full_text": "GSoul 7th DEBUT ANNIVERSARY🎉\nGSoul(@Gsoullove) 데뷔 7주년을 축하합니다🎉\n\n#GSoul #지소울 #GSoul_7th_DEBUT_ANNIVERSARY https://t.co/wZUhdM40qQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSoul",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "GSoul_7th_DEBUT_ANNIVERSARY",
+					"indices": [
+						75,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gsoullove",
+					"name": "G",
+					"id": 121589749,
+					"id_str": "121589749",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483390477982666800,
+					"id_str": "1483390477982666753",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FJYPx8dakAEXeyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJYPx8dakAEXeyY.jpg",
+					"url": "https://t.co/wZUhdM40qQ",
+					"display_url": "pic.twitter.com/wZUhdM40qQ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1483454135567589379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483390477982666800,
+					"id_str": "1483390477982666753",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FJYPx8dakAEXeyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJYPx8dakAEXeyY.jpg",
+					"url": "https://t.co/wZUhdM40qQ",
+					"display_url": "pic.twitter.com/wZUhdM40qQ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1483454135567589379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53818,
+			"friends_count": 494,
+			"listed_count": 197,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GSoul 7th DEBUT ANNIVERSARY🎉\nGSoul(@Gsoullove) 데뷔 7주년을 축하합니다🎉\n\n#GSoul #지소울 #GSoul_7th_DEBUT_ANNIVERSARY https://t.co/wZUhdM40qQ"
+	},
+	{
 		"created_at": "Tue Jan 18 12:29:36 +0000 2022",
 		"id": 1483408836136353800,
 		"id_str": "1483416279541325827",
-		"full_text": "[#김영철] KBS 2TV '옥탑방의 문제아들' 출연✔\n\n옥탑방에 찾아온 영어 선생님 김영철👨‍🏫\n김영철만의 특급🌟 영어 비법이 궁금하다면?\n오늘 밤 10시 40분 '옥탑방의 문제아들' 채.널.고.정❗\n\n#Kimyoungchul #KBS2TV #KBS #옥탑방의문제아들",
+		"full_text": "[#김영철] KBS 2TV '옥탑방의 문제아들' 출연✔\n\n옥탑방에 찾아온 영어 선생님 김영철👨🏫\n김영철만의 특급🌟 영어 비법이 궁금하다면?\n오늘 밤 10시 40분 '옥탑방의 문제아들' 채.널.고.정❗\n\n#Kimyoungchul #KBS2TV #KBS #옥탑방의문제아들",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -130,7 +325,7 @@ Grailbird.data.tweets_2022_01 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "[#김영철] KBS 2TV '옥탑방의 문제아들' 출연✔\n\n옥탑방에 찾아온 영어 선생님 김영철👨‍🏫\n김영철만의 특급🌟 영어 비법이 궁금하다면?\n오늘 밤 10시 40분 '옥탑방의 문제아들' 채.널.고.정❗\n\n#Kimyoungchul #KBS2TV #KBS #옥탑방의문제아들"
+		"text": "[#김영철] KBS 2TV '옥탑방의 문제아들' 출연✔\n\n옥탑방에 찾아온 영어 선생님 김영철👨🏫\n김영철만의 특급🌟 영어 비법이 궁금하다면?\n오늘 밤 10시 40분 '옥탑방의 문제아들' 채.널.고.정❗\n\n#Kimyoungchul #KBS2TV #KBS #옥탑방의문제아들"
 	},
 	{
 		"created_at": "Tue Jan 18 12:29:28 +0000 2022",
