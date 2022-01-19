@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 11:29:33 +0000 2022",
+		"id": 1483756127565361200,
+		"id_str": "1483763555233157125",
+		"full_text": "[#손태진] 2nd EP The Present 'Today's' Playlist 공개🎶\n\n손태진의 The Present 'Today's' 전곡 Playlist 🎼 \n🔗 Full ver. https://t.co/kwh0nJfHEs\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today https://t.co/dn9cgclVuT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						147,
+						165
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kwh0nJfHEs",
+					"expanded_url": "https://youtu.be/RYrP_q2kTAw",
+					"display_url": "youtu.be/RYrP_q2kTAw",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483752146416070700,
+					"id_str": "1483752146416070656",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FJdZKJDaUAMQFSs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJdZKJDaUAMQFSs.jpg",
+					"url": "https://t.co/dn9cgclVuT",
+					"display_url": "pic.twitter.com/dn9cgclVuT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1483756127565361154/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483752146416070700,
+					"id_str": "1483752146416070656",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FJdZKJDaUAMQFSs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJdZKJDaUAMQFSs.jpg",
+					"url": "https://t.co/dn9cgclVuT",
+					"display_url": "pic.twitter.com/dn9cgclVuT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1483756127565361154/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59192,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483752146416070656/pl/bnXbVLSHXPdXyUtt.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483752146416070656/vid/720x720/-a7co8AV4A2b9i4-.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483752146416070656/vid/320x320/UtTnAptxDJafdElJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483752146416070656/vid/540x540/DRbFNhKnF6IFIc6l.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#손태진] 2nd EP The Present 'Today's' Playlist",
+						"description": "[#손태진] 2nd EP The Present 'Today's' Playlist 공개🎶\n\n손태진의 The Present 'Today's' 전곡 Playlist 🎼 \n🔗 Full ver. https://youtu.be/RYrP_q2kTAw\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/RYrP_q2kTAw"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32912,
+			"friends_count": 15,
+			"listed_count": 0,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] 2nd EP The Present 'Today's' Playlist 공개🎶\n\n손태진의 The Present 'Today's' 전곡 Playlist 🎼 \n🔗 Full ver. https://t.co/kwh0nJfHEs\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today https://t.co/dn9cgclVuT"
+	},
+	{
 		"created_at": "Wed Jan 19 10:29:38 +0000 2022",
 		"id": 1483747997301485600,
 		"id_str": "1483748477582589953",
