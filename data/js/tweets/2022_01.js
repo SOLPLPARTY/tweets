@@ -1,6 +1,984 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 06:11:17 +0000 2022",
+		"id": 1483672688929669000,
+		"id_str": "1483683460648779780",
+		"full_text": "시리즈마다 6명의 작가가 각기 다른 시선으로 써 내려간 로컬에서의 소소한 일상 경험을 이야기하는 에세이집 &lt;그래서,서울&gt; &lt;그래서, 제주&gt;가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\nㅡ https://t.co/dB0fS0WVsE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483672682151673900,
+					"id_str": "1483672682151673857",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcQcY6aAAEqeBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcQcY6aAAEqeBV.jpg",
+					"url": "https://t.co/dB0fS0WVsE",
+					"display_url": "pic.twitter.com/dB0fS0WVsE",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1483672688929669120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483672682151673900,
+					"id_str": "1483672682151673857",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcQcY6aAAEqeBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcQcY6aAAEqeBV.jpg",
+					"url": "https://t.co/dB0fS0WVsE",
+					"display_url": "pic.twitter.com/dB0fS0WVsE",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1483672688929669120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483672682151694300,
+					"id_str": "1483672682151694337",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcQcY6aUAE4xfi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcQcY6aUAE4xfi.jpg",
+					"url": "https://t.co/dB0fS0WVsE",
+					"display_url": "pic.twitter.com/dB0fS0WVsE",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1483672688929669120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시리즈마다 6명의 작가가 각기 다른 시선으로 써 내려간 로컬에서의 소소한 일상 경험을 이야기하는 에세이집 &lt;그래서,서울&gt; &lt;그래서, 제주&gt;가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\nㅡ https://t.co/dB0fS0WVsE"
+	},
+	{
+		"created_at": "Wed Jan 19 05:29:47 +0000 2022",
+		"id": 1483667836161904600,
+		"id_str": "1483673019176435714",
+		"full_text": "#정준일 #겨울콘서트\n내일부터 네번의 겨울이 진행 됩니다\n저희는 기존 지침대로\n방역패스를 유지하여 진행합니다\n오시는 길 미끄러우니 조심히 와주세요\n\n#겨울 #콘서트 #흰물결아트센터 https://t.co/AgFAjnqwLF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "겨울콘서트",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "겨울",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "흰물결아트센터",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483667823818084400,
+					"id_str": "1483667823818084357",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcMBmNakAU6eWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcMBmNakAU6eWu.jpg",
+					"url": "https://t.co/AgFAjnqwLF",
+					"display_url": "pic.twitter.com/AgFAjnqwLF",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1483667836161904642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483667823818084400,
+					"id_str": "1483667823818084357",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcMBmNakAU6eWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcMBmNakAU6eWu.jpg",
+					"url": "https://t.co/AgFAjnqwLF",
+					"display_url": "pic.twitter.com/AgFAjnqwLF",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1483667836161904642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2642,
+			"friends_count": 334,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 21444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#정준일 #겨울콘서트\n내일부터 네번의 겨울이 진행 됩니다\n저희는 기존 지침대로\n방역패스를 유지하여 진행합니다\n오시는 길 미끄러우니 조심히 와주세요\n\n#겨울 #콘서트 #흰물결아트센터 https://t.co/AgFAjnqwLF"
+	},
+	{
+		"created_at": "Wed Jan 19 05:29:45 +0000 2022",
+		"id": 1483664753507856400,
+		"id_str": "1483673010334801922",
+		"full_text": "3) 최태현 Choi Taehyun / Microscript \nElectronica / 카세트 테이프 / 15,000원 \n50장 오프라인 판매, 100장 한정반 https://t.co/4hqRUv27YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483664741793173500,
+					"id_str": "1483664741793173505",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcJOMxakAEf5s4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcJOMxakAEf5s4.jpg",
+					"url": "https://t.co/4hqRUv27YG",
+					"display_url": "pic.twitter.com/4hqRUv27YG",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1483664753507856384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 983,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 983,
+							"h": 968,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483664741793173500,
+					"id_str": "1483664741793173505",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcJOMxakAEf5s4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcJOMxakAEf5s4.jpg",
+					"url": "https://t.co/4hqRUv27YG",
+					"display_url": "pic.twitter.com/4hqRUv27YG",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1483664753507856384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 983,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 983,
+							"h": 968,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483664567909912600,
+		"in_reply_to_status_id_str": "1483664567909912584",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 1575,
+			"listed_count": 37,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3) 최태현 Choi Taehyun / Microscript \nElectronica / 카세트 테이프 / 15,000원 \n50장 오프라인 판매, 100장 한정반 https://t.co/4hqRUv27YG"
+	},
+	{
+		"created_at": "Wed Jan 19 05:29:41 +0000 2022",
+		"id": 1483664567909912600,
+		"id_str": "1483672993108795399",
+		"full_text": "소설가 강희영은 리스너들이 '록'에 대해 기대하는 관습적인 감흥을 배반하는 이번 앨범이 쾅프로그램이 그동안 추구해온 음악적 지향을 가장 충실하게 반영하고 있다고 소개한다. 5년 만의 릴리즈로, 새로운 멤버 서경수와 함께했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483664487953870800,
+		"in_reply_to_status_id_str": "1483664487953870848",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 1575,
+			"listed_count": 37,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "소설가 강희영은 리스너들이 '록'에 대해 기대하는 관습적인 감흥을 배반하는 이번 앨범이 쾅프로그램이 그동안 추구해온 음악적 지향을 가장 충실하게 반영하고 있다고 소개한다. 5년 만의 릴리즈로, 새로운 멤버 서경수와 함께했다."
+	},
+	{
+		"created_at": "Wed Jan 19 05:29:38 +0000 2022",
+		"id": 1483664487953870800,
+		"id_str": "1483672980026765313",
+		"full_text": "2) 쾅프로그램 Kuang Program / There is no more snow on the television\n \nRock / LP / 100장 오프라인 선판매 / 35,000원\n140g 블랙반, 200장 한정반\n \n의심할 여지없이 서울에서 가장 대담한 밴드 중 하나인 쾅프로그램의 세 번째 정규 앨범. https://t.co/DSdtf1sHVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483664480701939700,
+					"id_str": "1483664480701939712",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcI_AIagAAo9vr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcI_AIagAAo9vr.jpg",
+					"url": "https://t.co/DSdtf1sHVB",
+					"display_url": "pic.twitter.com/DSdtf1sHVB",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1483664487953870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 981,
+							"h": 963,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 981,
+							"h": 963,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483664480701939700,
+					"id_str": "1483664480701939712",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcI_AIagAAo9vr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcI_AIagAAo9vr.jpg",
+					"url": "https://t.co/DSdtf1sHVB",
+					"display_url": "pic.twitter.com/DSdtf1sHVB",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1483664487953870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 981,
+							"h": 963,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 981,
+							"h": 963,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483663967700787200,
+		"in_reply_to_status_id_str": "1483663967700787200",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 1575,
+			"listed_count": 37,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2) 쾅프로그램 Kuang Program / There is no more snow on the television\n \nRock / LP / 100장 오프라인 선판매 / 35,000원\n140g 블랙반, 200장 한정반\n \n의심할 여지없이 서울에서 가장 대담한 밴드 중 하나인 쾅프로그램의 세 번째 정규 앨범. https://t.co/DSdtf1sHVB"
+	},
+	{
+		"created_at": "Wed Jan 19 05:29:29 +0000 2022",
+		"id": 1483663967700787200,
+		"id_str": "1483672941787324420",
+		"full_text": "텍스처에 설득되는 음악, 소리의 호흡과 침묵에 귀를 기울이게 만드는 음악에서 영감을 받은 총 여덟 곡을 수록했다. 김뉘연의 글을 포함한 가사지, 미국의 Ulla, Lucy Liyou, 일본의 Aki Tsuyuko가 《Earwitness》의 수록곡을 하나씩 택해 리믹스한 트랙들을 담은 다운로드 코드로 구성되어 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483663800775905300,
+		"in_reply_to_status_id_str": "1483663800775905280",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214,
+			"friends_count": 1575,
+			"listed_count": 37,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "텍스처에 설득되는 음악, 소리의 호흡과 침묵에 귀를 기울이게 만드는 음악에서 영감을 받은 총 여덟 곡을 수록했다. 김뉘연의 글을 포함한 가사지, 미국의 Ulla, Lucy Liyou, 일본의 Aki Tsuyuko가 《Earwitness》의 수록곡을 하나씩 택해 리믹스한 트랙들을 담은 다운로드 코드로 구성되어 있다."
+	},
+	{
 		"created_at": "Wed Jan 19 05:11:16 +0000 2022",
 		"id": 1483652642434056200,
 		"id_str": "1483668359724113922",
