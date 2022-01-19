@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 15:29:24 +0000 2022",
+		"id": 1483816524834033700,
+		"id_str": "1483823918507040770",
+		"full_text": "[나히]\n싱어송라이터 나히(Nahee)의\n새로운 싱글 앨범이 발매 되었습니다!\n\n헤어진 연인에 대한 미련이 만든 허상들을\n나히 특유의 유쾌함으로 풀어낸 '착각이었지!'\n\n각 온라인 음원사이트를 통해 감상하실 수 있습니다.\n\n#나히 #music #인디 #노래 #음악 https://t.co/L49KpLlizN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나히",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						144,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483722321324290000,
+					"id_str": "1483722321324290050",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FJc9lxPaMAIdMzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJc9lxPaMAIdMzO.jpg",
+					"url": "https://t.co/L49KpLlizN",
+					"display_url": "pic.twitter.com/L49KpLlizN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1483816524834033666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483722321324290000,
+					"id_str": "1483722321324290050",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FJc9lxPaMAIdMzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJc9lxPaMAIdMzO.jpg",
+					"url": "https://t.co/L49KpLlizN",
+					"display_url": "pic.twitter.com/L49KpLlizN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1483816524834033666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[나히]\n싱어송라이터 나히(Nahee)의\n새로운 싱글 앨범이 발매 되었습니다!\n\n헤어진 연인에 대한 미련이 만든 허상들을\n나히 특유의 유쾌함으로 풀어낸 '착각이었지!'\n\n각 온라인 음원사이트를 통해 감상하실 수 있습니다.\n\n#나히 #music #인디 #노래 #음악 https://t.co/L49KpLlizN"
+	},
+	{
 		"created_at": "Wed Jan 19 11:29:33 +0000 2022",
 		"id": 1483756127565361200,
 		"id_str": "1483763555233157125",
