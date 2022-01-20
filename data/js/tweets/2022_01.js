@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 15:58:18 +0000 2022",
+		"id": 1484183373178617900,
+		"id_str": "1484193578356203520",
+		"full_text": "Episode 36 슬픔의케이팝파티\n혼성그룹 케이팝 특집 &lt;제 3의 멤버&gt;\n\n최고의 혼성그룹 멤버가 되기 위해 수련을 떠났지만 돌아와 보니 이제 가요계엔 혼성그룹이 없다!! DJ퀴비는 세계 최초 1인 혼성그룹이 되겠다는 결심을 하는데...\n\n토요일 저녁 9시 아수라남작을 만나세요!\nhttps://t.co/34S2C5GwNK https://t.co/zEWxCKXO4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5GwNK",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484183355239592000,
+					"id_str": "1484183355239591936",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FJjg5eaacAA4Xs0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJjg5eaacAA4Xs0.jpg",
+					"url": "https://t.co/zEWxCKXO4U",
+					"display_url": "pic.twitter.com/zEWxCKXO4U",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1484183373178617858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484183355239592000,
+					"id_str": "1484183355239591936",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FJjg5eaacAA4Xs0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJjg5eaacAA4Xs0.jpg",
+					"url": "https://t.co/zEWxCKXO4U",
+					"display_url": "pic.twitter.com/zEWxCKXO4U",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1484183373178617858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7678,
+			"friends_count": 41,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Episode 36 슬픔의케이팝파티\n혼성그룹 케이팝 특집 &lt;제 3의 멤버&gt;\n\n최고의 혼성그룹 멤버가 되기 위해 수련을 떠났지만 돌아와 보니 이제 가요계엔 혼성그룹이 없다!! DJ퀴비는 세계 최초 1인 혼성그룹이 되겠다는 결심을 하는데...\n\n토요일 저녁 9시 아수라남작을 만나세요!\nhttps://t.co/34S2C5GwNK https://t.co/zEWxCKXO4U"
+	},
+	{
 		"created_at": "Thu Jan 20 14:29:25 +0000 2022",
 		"id": 1484159338000556000,
 		"id_str": "1484171207595409414",
