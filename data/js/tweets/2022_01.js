@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 13:29:24 +0000 2022",
+		"id": 1484148710858653700,
+		"id_str": "1484156107018878981",
+		"full_text": "[#손태진] '오늘' 뮤직비디오 비하인드 네이버 포스트 OPEN ✅\n\n가수&amp;배우&amp;모델 모두의 능력치를 보여준 사람이 있다?\n손태진의 '오늘' 뮤직비디오 비하인드 풀버전 보러가기👀\n▶ https://t.co/Jn2ONJn69N\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today #MV비하인드 #NaverPost https://t.co/MKT1wufgh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						153,
+						171
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "MV비하인드",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"text": "NaverPost",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jn2ONJn69N",
+					"expanded_url": "http://naver.me/Ge3a6OAq",
+					"display_url": "naver.me/Ge3a6OAq",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484137921884332000,
+					"id_str": "1484137921884332034",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FJi34CfakAc3HE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJi34CfakAc3HE6.jpg",
+					"url": "https://t.co/MKT1wufgh2",
+					"display_url": "pic.twitter.com/MKT1wufgh2",
+					"expanded_url": "https://twitter.com/themysticstory/status/1484148710858653698/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484137921884332000,
+					"id_str": "1484137921884332034",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FJi34CfakAc3HE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJi34CfakAc3HE6.jpg",
+					"url": "https://t.co/MKT1wufgh2",
+					"display_url": "pic.twitter.com/MKT1wufgh2",
+					"expanded_url": "https://twitter.com/themysticstory/status/1484148710858653698/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59292,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484137921884332034/vid/1280x720/_9CsK5Q0B8vLVvO5.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484137921884332034/vid/480x270/WQRFaGqH49Z9JWZN.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484137921884332034/vid/640x360/EPJIhEghVkmnDKxP.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1484137921884332034/pl/v7xatrI0LTxT2COs.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#손태진] '오늘' 뮤직비디오 비하인드",
+						"description": "[#손태진] '오늘' 뮤직비디오 비하인드 네이버 포스트 OPEN ✅\n\n가수&배우&모델 모두의 능력치를 보여준 사람이 있다?\n손태진의 '오늘' 뮤직비디오 비하인드 풀버전 보러가기👀\n▶ http://naver.me/Ge3a6OAq\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today #MV비하인드 #NaverPost",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://naver.me/Ge3a6OAq"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32912,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] '오늘' 뮤직비디오 비하인드 네이버 포스트 OPEN ✅\n\n가수&amp;배우&amp;모델 모두의 능력치를 보여준 사람이 있다?\n손태진의 '오늘' 뮤직비디오 비하인드 풀버전 보러가기👀\n▶ https://t.co/Jn2ONJn69N\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today #MV비하인드 #NaverPost https://t.co/MKT1wufgh2"
+	},
+	{
 		"created_at": "Thu Jan 20 12:29:37 +0000 2022",
 		"id": 1484137976984928300,
 		"id_str": "1484141058862764035",
