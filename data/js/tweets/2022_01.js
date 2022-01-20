@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 06:11:17 +0000 2022",
+		"id": 1484035190364131300,
+		"id_str": "1484045847801348097",
+		"full_text": "재미공작소가 1월 22일(토)에 열리는 서울레코드페어에 참여합니다!\n\n재미공작소 부스에서는 재미공작소 출간 도서와 국내 인디 앨범들을 비롯, 애리 님의 일기집 &lt;그리고 일기가 남았다&gt; 사인본이 판매됩니다. \n\n판매 앨범 리스트 정보:  \nhttps://t.co/zglr13y2pU\n \n서울레코드페어에서 만나요! https://t.co/iQyjYiWwZo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zglr13y2pU",
+					"expanded_url": "https://blog.naver.com/studiozemi/222626695698",
+					"display_url": "blog.naver.com/studiozemi/222…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484035113184751600,
+					"id_str": "1484035113184751621",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJhaEpuVcAU-Rug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJhaEpuVcAU-Rug.jpg",
+					"url": "https://t.co/iQyjYiWwZo",
+					"display_url": "pic.twitter.com/iQyjYiWwZo",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1484035190364131328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484035113184751600,
+					"id_str": "1484035113184751621",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJhaEpuVcAU-Rug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJhaEpuVcAU-Rug.jpg",
+					"url": "https://t.co/iQyjYiWwZo",
+					"display_url": "pic.twitter.com/iQyjYiWwZo",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1484035190364131328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484035114233262000,
+					"id_str": "1484035114233262082",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJhaEtoUcAIO8Za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJhaEtoUcAIO8Za.jpg",
+					"url": "https://t.co/iQyjYiWwZo",
+					"display_url": "pic.twitter.com/iQyjYiWwZo",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1484035190364131328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 690,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 391,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1178,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484035114220753000,
+					"id_str": "1484035114220752896",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJhaEtlVkAATQ4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJhaEtlVkAATQ4D.jpg",
+					"url": "https://t.co/iQyjYiWwZo",
+					"display_url": "pic.twitter.com/iQyjYiWwZo",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1484035190364131328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484035114233327600,
+					"id_str": "1484035114233327618",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJhaEtoVcAIEE3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJhaEtoVcAIEE3H.jpg",
+					"url": "https://t.co/iQyjYiWwZo",
+					"display_url": "pic.twitter.com/iQyjYiWwZo",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1484035190364131328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1935,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 전시, 문학 행사, 팝업숍, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8378,
+			"friends_count": 555,
+			"listed_count": 83,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미공작소가 1월 22일(토)에 열리는 서울레코드페어에 참여합니다!\n\n재미공작소 부스에서는 재미공작소 출간 도서와 국내 인디 앨범들을 비롯, 애리 님의 일기집 &lt;그리고 일기가 남았다&gt; 사인본이 판매됩니다. \n\n판매 앨범 리스트 정보:  \nhttps://t.co/zglr13y2pU\n \n서울레코드페어에서 만나요! https://t.co/iQyjYiWwZo"
+	},
+	{
+		"created_at": "Thu Jan 20 05:29:30 +0000 2022",
+		"id": 1484033122190913500,
+		"id_str": "1484035333872357376",
+		"full_text": "* 장르의 경계와",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483995773893505000,
+		"in_reply_to_status_id_str": "1483995773893505024",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 508,
+			"friends_count": 24,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 장르의 경계와"
+	},
+	{
 		"created_at": "Thu Jan 20 05:11:33 +0000 2022",
 		"id": 1484030818582413300,
 		"id_str": "1484030818582413313",
