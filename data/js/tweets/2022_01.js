@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 06:11:17 +0000 2022",
+		"id": 1484398968679583700,
+		"id_str": "1484408236346335234",
+		"full_text": "🎨상상마당 춘천에서 준비한 '뮤직아트살롱' 상시 체험 프로그램!\n\n🖍️드로잉 체험\n작가 '핀든아트'와 상상마당이 함께 준비한 \n드로잉 배경에 자유롭게 컬러링 체험\n\n😀나만의 캐릭터 만들기 체험 \n'이화연극'과 상상마당이 함께 준비한\n활동지를 분석해 캐릭터를 그린 후 무대 위 붙여보는 체험 https://t.co/FmlU1HpO5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484398564956860400,
+					"id_str": "1484398564956860417",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmkoVFacAE6e7H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmkoVFacAE6e7H.jpg",
+					"url": "https://t.co/FmlU1HpO5F",
+					"display_url": "pic.twitter.com/FmlU1HpO5F",
+					"expanded_url": "https://twitter.com/SSmadang/status/1484398968679583744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484398564956860400,
+					"id_str": "1484398564956860417",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmkoVFacAE6e7H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmkoVFacAE6e7H.jpg",
+					"url": "https://t.co/FmlU1HpO5F",
+					"display_url": "pic.twitter.com/FmlU1HpO5F",
+					"expanded_url": "https://twitter.com/SSmadang/status/1484398968679583744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484398564977823700,
+					"id_str": "1484398564977823752",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmkoVKaUAgWFzx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmkoVKaUAgWFzx.jpg",
+					"url": "https://t.co/FmlU1HpO5F",
+					"display_url": "pic.twitter.com/FmlU1HpO5F",
+					"expanded_url": "https://twitter.com/SSmadang/status/1484398968679583744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484398564952653800,
+					"id_str": "1484398564952653824",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmkoVEaQAA_nNj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmkoVEaQAA_nNj.jpg",
+					"url": "https://t.co/FmlU1HpO5F",
+					"display_url": "pic.twitter.com/FmlU1HpO5F",
+					"expanded_url": "https://twitter.com/SSmadang/status/1484398968679583744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484398565040726000,
+					"id_str": "1484398565040726020",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmkoVZaIAQyCeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmkoVZaIAQyCeG.jpg",
+					"url": "https://t.co/FmlU1HpO5F",
+					"display_url": "pic.twitter.com/FmlU1HpO5F",
+					"expanded_url": "https://twitter.com/SSmadang/status/1484398968679583744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17701,
+			"friends_count": 1865,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎨상상마당 춘천에서 준비한 '뮤직아트살롱' 상시 체험 프로그램!\n\n🖍️드로잉 체험\n작가 '핀든아트'와 상상마당이 함께 준비한 \n드로잉 배경에 자유롭게 컬러링 체험\n\n😀나만의 캐릭터 만들기 체험 \n'이화연극'과 상상마당이 함께 준비한\n활동지를 분석해 캐릭터를 그린 후 무대 위 붙여보는 체험 https://t.co/FmlU1HpO5F"
+	},
+	{
 		"created_at": "Fri Jan 21 05:01:54 +0000 2022",
 		"id": 1484390775051874300,
 		"id_str": "1484390775051874307",
