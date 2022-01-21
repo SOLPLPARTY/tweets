@@ -1,6 +1,883 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 10:29:55 +0000 2022",
+		"id": 1484472242968748000,
+		"id_str": "1484473326127009793",
+		"full_text": "[구만 | 공연 공지]\n\n78 FESTA - 구만(9.10000) in CAFFE RICCARDO \n일시: 2022년 2월 5일(토) ~ 6일(일) 오후 8시\n장소: 엠피엠지 1층 CAFFE RICCARDO \n주최: 민트페이퍼, 주식회사 엠피엠지\n주관: 주식회사 엠피엠지 \n제작지원: 한국콘텐츠진흥원\n\n🎫 티켓 오픈\n2022년 1월 26일(수) 오후 6시 위메프 https://t.co/dPQ5R0ifvl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484472207350775800,
+					"id_str": "1484472207350775813",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnnm4YVQAUCVBT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnnm4YVQAUCVBT.jpg",
+					"url": "https://t.co/dPQ5R0ifvl",
+					"display_url": "pic.twitter.com/dPQ5R0ifvl",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1484472242968748032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484472207350775800,
+					"id_str": "1484472207350775813",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnnm4YVQAUCVBT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnnm4YVQAUCVBT.jpg",
+					"url": "https://t.co/dPQ5R0ifvl",
+					"display_url": "pic.twitter.com/dPQ5R0ifvl",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1484472242968748032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12985,
+			"friends_count": 1931,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | 공연 공지]\n\n78 FESTA - 구만(9.10000) in CAFFE RICCARDO \n일시: 2022년 2월 5일(토) ~ 6일(일) 오후 8시\n장소: 엠피엠지 1층 CAFFE RICCARDO \n주최: 민트페이퍼, 주식회사 엠피엠지\n주관: 주식회사 엠피엠지 \n제작지원: 한국콘텐츠진흥원\n\n🎫 티켓 오픈\n2022년 1월 26일(수) 오후 6시 위메프 https://t.co/dPQ5R0ifvl"
+	},
+	{
+		"created_at": "Fri Jan 21 10:29:50 +0000 2022",
+		"id": 1484472100832231400,
+		"id_str": "1484473304723464195",
+		"full_text": "[심재현 | 공연 공지]\n\n78 FESTA - 심재현 in Office \n일시: 2022년 2월 5일(토) ~ 6일(일) 오후 5시 30분\n장소: 엠피엠지 3층 MPMG MUSIC \n주최: 민트페이퍼, 주식회사 엠피엠지\n주관: 주식회사 엠피엠지 \n제작지원: 한국콘텐츠진흥원\n\n🎫 티켓 오픈\n2022년 1월 26일(수) 오후 5시 위메프 https://t.co/2GYF6k1aoW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484472058280956000,
+					"id_str": "1484472058280955907",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnneNDUUAMiQz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnneNDUUAMiQz9.jpg",
+					"url": "https://t.co/2GYF6k1aoW",
+					"display_url": "pic.twitter.com/2GYF6k1aoW",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1484472100832231431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484472058280956000,
+					"id_str": "1484472058280955907",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnneNDUUAMiQz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnneNDUUAMiQz9.jpg",
+					"url": "https://t.co/2GYF6k1aoW",
+					"display_url": "pic.twitter.com/2GYF6k1aoW",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1484472100832231431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12985,
+			"friends_count": 1931,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[심재현 | 공연 공지]\n\n78 FESTA - 심재현 in Office \n일시: 2022년 2월 5일(토) ~ 6일(일) 오후 5시 30분\n장소: 엠피엠지 3층 MPMG MUSIC \n주최: 민트페이퍼, 주식회사 엠피엠지\n주관: 주식회사 엠피엠지 \n제작지원: 한국콘텐츠진흥원\n\n🎫 티켓 오픈\n2022년 1월 26일(수) 오후 5시 위메프 https://t.co/2GYF6k1aoW"
+	},
+	{
+		"created_at": "Fri Jan 21 10:29:41 +0000 2022",
+		"id": 1484471834762350600,
+		"id_str": "1484473266479800322",
+		"full_text": "[Lacuna | 공연 공지]\n\n78 FESTA - Lacuna (라쿠나) in LOUNGE M. \n일시: 2022년 2월 5일(토) ~ 6일(일) 오후 12시 30분\n장소: 엠피엠지 2층 LOUNGE M. \n주최: 민트페이퍼, 주식회사 엠피엠지\n주관: 주식회사 엠피엠지 \n제작지원: 한국콘텐츠진흥원\n\n🎫 티켓 오픈\n2022년 1월 26일(수) 오후 3시 위메프 https://t.co/4dLOetqe71",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484471799614038000,
+					"id_str": "1484471799614038022",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnnPJcUYAY2AMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnnPJcUYAY2AMT.jpg",
+					"url": "https://t.co/4dLOetqe71",
+					"display_url": "pic.twitter.com/4dLOetqe71",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1484471834762350592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484471799614038000,
+					"id_str": "1484471799614038022",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnnPJcUYAY2AMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnnPJcUYAY2AMT.jpg",
+					"url": "https://t.co/4dLOetqe71",
+					"display_url": "pic.twitter.com/4dLOetqe71",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1484471834762350592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12985,
+			"friends_count": 1931,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Lacuna | 공연 공지]\n\n78 FESTA - Lacuna (라쿠나) in LOUNGE M. \n일시: 2022년 2월 5일(토) ~ 6일(일) 오후 12시 30분\n장소: 엠피엠지 2층 LOUNGE M. \n주최: 민트페이퍼, 주식회사 엠피엠지\n주관: 주식회사 엠피엠지 \n제작지원: 한국콘텐츠진흥원\n\n🎫 티켓 오픈\n2022년 1월 26일(수) 오후 3시 위메프 https://t.co/4dLOetqe71"
+	},
+	{
+		"created_at": "Fri Jan 21 10:29:35 +0000 2022",
+		"id": 1484466128613040000,
+		"id_str": "1484473240810631169",
+		"full_text": "[#GSoul]\n지소울 | GSoul | Another Day | azit live session #99\n\n▶️https://t.co/gNeI9pzYcS\n\n#GSoul #지소울 #아지트라이브 #AZIT_LIVE @Gsoullove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSoul",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "아지트라이브",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "AZIT_LIVE",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gsoullove",
+					"name": "G",
+					"id": 121589749,
+					"id_str": "121589749",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gNeI9pzYcS",
+					"expanded_url": "https://youtu.be/n9q_Nu483cE",
+					"display_url": "youtu.be/n9q_Nu483cE",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53914,
+			"friends_count": 494,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#GSoul]\n지소울 | GSoul | Another Day | azit live session #99\n\n▶️https://t.co/gNeI9pzYcS\n\n#GSoul #지소울 #아지트라이브 #AZIT_LIVE @Gsoullove"
+	},
+	{
+		"created_at": "Fri Jan 21 10:29:30 +0000 2022",
+		"id": 1484459000305438700,
+		"id_str": "1484473219344175104",
+		"full_text": "#찰리푸스 신곡 💡𝐋𝐢𝐠𝐡𝐭 𝐒𝐰𝐢𝐭𝐜𝐡💡 공개!\n\n🎧https://t.co/d2cZWT3uYG https://t.co/mG2VQ6GtsE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "찰리푸스",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2cZWT3uYG",
+					"expanded_url": "https://WMK.lnk.to/5EE5iJOU",
+					"display_url": "WMK.lnk.to/5EE5iJOU",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484388191939760000,
+					"id_str": "1484388191939760130",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484388191939760130/pu/img/jd7Bk56KGurjH4Ia.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484388191939760130/pu/img/jd7Bk56KGurjH4Ia.jpg",
+					"url": "https://t.co/mG2VQ6GtsE",
+					"display_url": "pic.twitter.com/mG2VQ6GtsE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1484459000305438721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484388191939760000,
+					"id_str": "1484388191939760130",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484388191939760130/pu/img/jd7Bk56KGurjH4Ia.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484388191939760130/pu/img/jd7Bk56KGurjH4Ia.jpg",
+					"url": "https://t.co/mG2VQ6GtsE",
+					"display_url": "pic.twitter.com/mG2VQ6GtsE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1484459000305438721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 28278,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1484388191939760130/pu/pl/KZI821_h2mTBr3OJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484388191939760130/pu/vid/320x320/zIbDoShs8jlTa0Z-.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484388191939760130/pu/vid/540x540/4HE2Vizauj0JnxED.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484388191939760130/pu/vid/720x720/MD3n1nfnsYzOM7qA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53914,
+			"friends_count": 494,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#찰리푸스 신곡 💡𝐋𝐢𝐠𝐡𝐭 𝐒𝐰𝐢𝐭𝐜𝐡💡 공개!\n\n🎧https://t.co/d2cZWT3uYG https://t.co/mG2VQ6GtsE"
+	},
+	{
 		"created_at": "Fri Jan 21 10:16:05 +0000 2022",
 		"id": 1484469843172724700,
 		"id_str": "1484469843172724737",
