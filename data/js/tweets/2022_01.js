@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 13:29:25 +0000 2022",
+		"id": 1485236163380080600,
+		"id_str": "1485243271613984777",
+		"full_text": "제31회 하이원 서울가요대상🏆\n최고음원상\n본상\n2관왕 수상을 축하합니다 👏\n\n유애나의 따스한 마음이\n아이유의 라일락에 닿아\n찬란한 보라빛 꽃을 피웠습니다🌸\n앞으로도 소중한 순간 함께해요💜\n\n#아이유 #IU \n#제31회_하이원_서울가요대상 https://t.co/1F0a45rcTy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "제31회_하이원_서울가요대상",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485236152126763000,
+					"id_str": "1485236152126763009",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"url": "https://t.co/1F0a45rcTy",
+					"display_url": "pic.twitter.com/1F0a45rcTy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1485236163380080640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485236152126763000,
+					"id_str": "1485236152126763009",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJyeaUcVcAE1IXm.jpg",
+					"url": "https://t.co/1F0a45rcTy",
+					"display_url": "pic.twitter.com/1F0a45rcTy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1485236163380080640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60493,
+			"friends_count": 2,
+			"listed_count": 213,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 855,
+		"favorite_count": 2316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제31회 하이원 서울가요대상🏆\n최고음원상\n본상\n2관왕 수상을 축하합니다 👏\n\n유애나의 따스한 마음이\n아이유의 라일락에 닿아\n찬란한 보라빛 꽃을 피웠습니다🌸\n앞으로도 소중한 순간 함께해요💜\n\n#아이유 #IU \n#제31회_하이원_서울가요대상 https://t.co/1F0a45rcTy"
+	},
+	{
 		"created_at": "Sun Jan 23 12:29:30 +0000 2022",
 		"id": 1485220769772806100,
 		"id_str": "1485228193460232195",
