@@ -1,6 +1,885 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 11:11:17 +0000 2022",
+		"id": 1485195646130966500,
+		"id_str": "1485208509289582599",
+		"full_text": "방금 사진을 게시했습니다 @신도시 Seendosi https://t.co/uPgUkkqDNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPgUkkqDNb",
+					"expanded_url": "https://www.instagram.com/seendosi/p/CZEapStJ_VX/?utm_medium=twitter",
+					"display_url": "instagram.com/seendosi/p/CZE…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3836,
+			"friends_count": 677,
+			"listed_count": 26,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.56781323,
+				126.99073278
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.99073278,
+				37.56781323
+			]
+		},
+		"place": {
+			"id": "0082bcf413c3da5b",
+			"url": "https://api.twitter.com/1.1/geo/id/0082bcf413c3da5b.json",
+			"place_type": "city",
+			"name": "종로구",
+			"full_name": "대한민국 종로구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.954583757566,
+							37.5608647493162
+						],
+						[
+							127.020041620086,
+							37.5608647493162
+						],
+						[
+							127.020041620086,
+							37.6329424143606
+						],
+						[
+							126.954583757566,
+							37.6329424143606
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @신도시 Seendosi https://t.co/uPgUkkqDNb"
+	},
+	{
+		"created_at": "Sun Jan 23 10:29:38 +0000 2022",
+		"id": 1485191199736873000,
+		"id_str": "1485198029233786884",
+		"full_text": "[#손태진] KBS1 '열린음악회' 완료✔️\n\n손태진의 아름다운 목소리와 함께한 'Come Fly With Me', 'Kissing A Fool'무대 함께하셨나요?\n오늘도 손태진과 함께 손나잇🌙\n\n#SONTAEJIN #TJSON #KBS1 #열린음악회 #오늘 https://t.co/HRvp1NBQFl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "KBS1",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "열린음악회",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						141,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485191180875092000,
+					"id_str": "1485191180875091970",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FJx1gpeaUAINPjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJx1gpeaUAINPjV.jpg",
+					"url": "https://t.co/HRvp1NBQFl",
+					"display_url": "pic.twitter.com/HRvp1NBQFl",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485191199736872960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485191180875092000,
+					"id_str": "1485191180875091970",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FJx1gpeaUAINPjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJx1gpeaUAINPjV.jpg",
+					"url": "https://t.co/HRvp1NBQFl",
+					"display_url": "pic.twitter.com/HRvp1NBQFl",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485191199736872960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485191180904468500,
+					"id_str": "1485191180904468480",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FJx1gplakAAqTpQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJx1gplakAAqTpQ.jpg",
+					"url": "https://t.co/HRvp1NBQFl",
+					"display_url": "pic.twitter.com/HRvp1NBQFl",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485191199736872960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32900,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] KBS1 '열린음악회' 완료✔️\n\n손태진의 아름다운 목소리와 함께한 'Come Fly With Me', 'Kissing A Fool'무대 함께하셨나요?\n오늘도 손태진과 함께 손나잇🌙\n\n#SONTAEJIN #TJSON #KBS1 #열린음악회 #오늘 https://t.co/HRvp1NBQFl"
+	},
+	{
+		"created_at": "Sun Jan 23 10:29:36 +0000 2022",
+		"id": 1485183065337241600,
+		"id_str": "1485198020350197761",
+		"full_text": "[#민서] tvN '불가살' OST '잊을 수 없다면' 발매✔\n\n민서가 참여한 tvN '불가살' OST '잊을 수 없다면'은 지금 바로 전 음원 사이트에서 확인🎼\n\n#MINSEO #tvN #불가살 #OST #잊을수없다면 https://t.co/8J1wUec1ui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "불가살",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "잊을수없다면",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485183053077282800,
+					"id_str": "1485183053077282816",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FJxuHjEaAAAvg8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJxuHjEaAAAvg8r.jpg",
+					"url": "https://t.co/8J1wUec1ui",
+					"display_url": "pic.twitter.com/8J1wUec1ui",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485183065337241605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485183053077282800,
+					"id_str": "1485183053077282816",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FJxuHjEaAAAvg8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJxuHjEaAAAvg8r.jpg",
+					"url": "https://t.co/8J1wUec1ui",
+					"display_url": "pic.twitter.com/8J1wUec1ui",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485183065337241605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32900,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] tvN '불가살' OST '잊을 수 없다면' 발매✔\n\n민서가 참여한 tvN '불가살' OST '잊을 수 없다면'은 지금 바로 전 음원 사이트에서 확인🎼\n\n#MINSEO #tvN #불가살 #OST #잊을수없다면 https://t.co/8J1wUec1ui"
+	},
+	{
+		"created_at": "Sun Jan 23 10:29:34 +0000 2022",
+		"id": 1485175474317930500,
+		"id_str": "1485198011496022016",
+		"full_text": "[#홍자] 디지털 싱글 '화양연화'\n\n\"그 사람은 그 사람은\n꿈에서만 안길 수 있고\n꿈에서만 사랑한다고\n말할 수 있는 사람입니다.\"\n\n내 생에 가장 찬란했던 시절\n2022. 01. 26. 6PM (KST)\n\n🔗 https://t.co/ypLabuiSbe\n🔗 https://t.co/4lmcGfrWne\n\n#HONGJA #화양연화 https://t.co/of9ZrBktc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "화양연화",
+					"indices": [
+						177,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ypLabuiSbe",
+					"expanded_url": "https://youtu.be/jMYYNIVGDhA",
+					"display_url": "youtu.be/jMYYNIVGDhA",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/4lmcGfrWne",
+					"expanded_url": "https://www.vlive.tv/video/275370",
+					"display_url": "vlive.tv/video/275370",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485162468901269500,
+					"id_str": "1485162468901269509",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FJxc6V-aQAQ3i6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJxc6V-aQAQ3i6o.jpg",
+					"url": "https://t.co/of9ZrBktc1",
+					"display_url": "pic.twitter.com/of9ZrBktc1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485175474317930496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485162468901269500,
+					"id_str": "1485162468901269509",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FJxc6V-aQAQ3i6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJxc6V-aQAQ3i6o.jpg",
+					"url": "https://t.co/of9ZrBktc1",
+					"display_url": "pic.twitter.com/of9ZrBktc1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485175474317930496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29996,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1485162468901269509/vid/320x320/EA2EyxqZ-sYTCWR3.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1485162468901269509/vid/540x540/WsMYMDJRbY8mirms.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1485162468901269509/pl/Ui5VyX5eegD65Lp_.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1485162468901269509/vid/720x720/VCRz9nYVHrn2k1Yi.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#홍자] 디지털 싱글 '화양연화'",
+						"description": "[#홍자] 디지털 싱글 '화양연화'\n\n\"그 사람은 그 사람은\n꿈에서만 안길 수 있고\n꿈에서만 사랑한다고\n말할 수 있는 사람입니다.\"\n\n내 생에 가장 찬란했던 시절\n2022. 01. 26. 6PM (KST)\n\n🔗 https://youtu.be/jMYYNIVGDhA\n🔗 https://www.vlive.tv/video/275370\n\n#HONGJA #화양연화",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/jMYYNIVGDhA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32900,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] 디지털 싱글 '화양연화'\n\n\"그 사람은 그 사람은\n꿈에서만 안길 수 있고\n꿈에서만 사랑한다고\n말할 수 있는 사람입니다.\"\n\n내 생에 가장 찬란했던 시절\n2022. 01. 26. 6PM (KST)\n\n🔗 https://t.co/ypLabuiSbe\n🔗 https://t.co/4lmcGfrWne\n\n#HONGJA #화양연화 https://t.co/of9ZrBktc1"
+	},
+	{
 		"created_at": "Sun Jan 23 08:29:25 +0000 2022",
 		"id": 1485160375154790400,
 		"id_str": "1485167774368468997",
