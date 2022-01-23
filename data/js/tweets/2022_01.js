@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 03:29:24 +0000 2022",
+		"id": 1485082432991015000,
+		"id_str": "1485092276003131392",
+		"full_text": "하이원 서울가요대상에 이랑이 나타났다‼️🐺\n\n오늘 저녁 6시 ‘KBSjoy’, ‘U+아이돌Live’에서 생방송 됩니다.\n\n📺 1월 23일 일요일 저녁 6시\n📺 KBSjoy / U+아이돌Live\n\n#이랑 #서울가요대상 #하이원서울가요대상 #SeoulMusicAwards #서가대 #이랑이나타났다 https://t.co/F3ClZesZGT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "서울가요대상",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "하이원서울가요대상",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "SeoulMusicAwards",
+					"indices": [
+						132,
+						149
+					]
+				},
+				{
+					"text": "서가대",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "이랑이나타났다",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485082427093819400,
+					"id_str": "1485082427093819395",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FJwSmWEaIAMefeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJwSmWEaIAMefeZ.jpg",
+					"url": "https://t.co/F3ClZesZGT",
+					"display_url": "pic.twitter.com/F3ClZesZGT",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1485082432991014912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485082427093819400,
+					"id_str": "1485082427093819395",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FJwSmWEaIAMefeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJwSmWEaIAMefeZ.jpg",
+					"url": "https://t.co/F3ClZesZGT",
+					"display_url": "pic.twitter.com/F3ClZesZGT",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1485082432991014912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하이원 서울가요대상에 이랑이 나타났다‼️🐺\n\n오늘 저녁 6시 ‘KBSjoy’, ‘U+아이돌Live’에서 생방송 됩니다.\n\n📺 1월 23일 일요일 저녁 6시\n📺 KBSjoy / U+아이돌Live\n\n#이랑 #서울가요대상 #하이원서울가요대상 #SeoulMusicAwards #서가대 #이랑이나타났다 https://t.co/F3ClZesZGT"
+	},
+	{
 		"created_at": "Sun Jan 23 03:05:41 +0000 2022",
 		"id": 1485086304157282300,
 		"id_str": "1485086304157282311",
