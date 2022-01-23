@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 12:29:30 +0000 2022",
+		"id": 1485220769772806100,
+		"id_str": "1485228193460232195",
+		"full_text": "[구만 | 발매 공지]\n\n구만(9.10000)의 새로운 싱글,\n[다른 널 사랑하고 싶어]가 \n2022. 01. 29 토요일 오후 12시에 발매됩니다. 🥀\n\n@qman_official New Single\n[Another You]\nOut on JAN 29 12PM (KST)\n\n#레트로싱어송라이터 #구만 #qman\n#다른널사랑하고싶어 #AnotherYou #다널사 https://t.co/rP4KwA3uPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레트로싱어송라이터",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "구만",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "qman",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "다른널사랑하고싶어",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "AnotherYou",
+					"indices": [
+						185,
+						196
+					]
+				},
+				{
+					"text": "다널사",
+					"indices": [
+						197,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qman_official",
+					"name": "구만(9.10000)",
+					"id": 1253683153455050800,
+					"id_str": "1253683153455050753",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484463176498364400,
+					"id_str": "1484463176498364423",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnfZN1VQAcW4eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnfZN1VQAcW4eC.jpg",
+					"url": "https://t.co/rP4KwA3uPq",
+					"display_url": "pic.twitter.com/rP4KwA3uPq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1485220769772806144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484463176498364400,
+					"id_str": "1484463176498364423",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnfZN1VQAcW4eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnfZN1VQAcW4eC.jpg",
+					"url": "https://t.co/rP4KwA3uPq",
+					"display_url": "pic.twitter.com/rP4KwA3uPq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1485220769772806144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12985,
+			"friends_count": 1930,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | 발매 공지]\n\n구만(9.10000)의 새로운 싱글,\n[다른 널 사랑하고 싶어]가 \n2022. 01. 29 토요일 오후 12시에 발매됩니다. 🥀\n\n@qman_official New Single\n[Another You]\nOut on JAN 29 12PM (KST)\n\n#레트로싱어송라이터 #구만 #qman\n#다른널사랑하고싶어 #AnotherYou #다널사 https://t.co/rP4KwA3uPq"
+	},
+	{
 		"created_at": "Sun Jan 23 11:29:25 +0000 2022",
 		"id": 1485211156210151400,
 		"id_str": "1485213072923017220",
