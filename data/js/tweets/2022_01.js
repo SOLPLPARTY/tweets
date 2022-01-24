@@ -1,6 +1,852 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 03:41:05 +0000 2022",
+		"id": 1485457602762969000,
+		"id_str": "1485457602762969091",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n노아 키렐 (Noa Kirel) - Thought About That 가사 번역 뮤직비디오\nhttps://t.co/peHDZrk3Zq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/peHDZrk3Zq",
+					"expanded_url": "https://youtu.be/BwKyOH8Qdro",
+					"display_url": "youtu.be/BwKyOH8Qdro",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n노아 키렐 (Noa Kirel) - Thought About That 가사 번역 뮤직비디오\nhttps://t.co/peHDZrk3Zq"
+	},
+	{
+		"created_at": "Mon Jan 24 03:29:54 +0000 2022",
+		"id": 1485447788691615700,
+		"id_str": "1485454789702037508",
+		"full_text": "[공지] 아이유 공식 팬클럽\n&lt;유애나&gt; 5기 모집 안내\n\n📍 가입기간\n: 2022.01.24(월) 12PM - 2022.02.06(일) 11:59PM\n\n📍 가입처\n: 멜론티켓 \nhttps://t.co/0bHQgoARIC\n\n🎥 https://t.co/FBzaEv3G1m\n\n#아이유 #IU\n#유애나 #UAENA https://t.co/SvtFYZ00yI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0bHQgoARIC",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=206529",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/FBzaEv3G1m",
+					"expanded_url": "https://youtu.be/LkQ_Z4odzSU",
+					"display_url": "youtu.be/LkQ_Z4odzSU",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485438932095729700,
+					"id_str": "1485438932095729666",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ1W1qsaAAISYs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ1W1qsaAAISYs3.jpg",
+					"url": "https://t.co/SvtFYZ00yI",
+					"display_url": "pic.twitter.com/SvtFYZ00yI",
+					"expanded_url": "https://twitter.com/edam_ent/status/1485447788691615745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485438932095729700,
+					"id_str": "1485438932095729666",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ1W1qsaAAISYs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ1W1qsaAAISYs3.jpg",
+					"url": "https://t.co/SvtFYZ00yI",
+					"display_url": "pic.twitter.com/SvtFYZ00yI",
+					"expanded_url": "https://twitter.com/edam_ent/status/1485447788691615745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60535,
+			"friends_count": 2,
+			"listed_count": 212,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 468,
+		"favorite_count": 1148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 아이유 공식 팬클럽\n&lt;유애나&gt; 5기 모집 안내\n\n📍 가입기간\n: 2022.01.24(월) 12PM - 2022.02.06(일) 11:59PM\n\n📍 가입처\n: 멜론티켓 \nhttps://t.co/0bHQgoARIC\n\n🎥 https://t.co/FBzaEv3G1m\n\n#아이유 #IU\n#유애나 #UAENA https://t.co/SvtFYZ00yI"
+	},
+	{
+		"created_at": "Mon Jan 24 03:29:50 +0000 2022",
+		"id": 1485440912465744000,
+		"id_str": "1485454772354355203",
+		"full_text": "열화와 같은 성원에 힘입어 \n'SMTOWN LIVE 2022' SMCU EXPRESS @ KWANGYA\nRe-streaming 확정!\n\n다시 한 번 더 @ KWANGYA 로 떠날 준비 되셨나요?\n내 안에 흐르는 핑크 블러드💗🩸를 느낄 시간!\nBeyondLIVE가 여러분의 여정에 함께합니다.\n우리 모두 광야에서 만나요~♥\n\n#BeyondLIVE #Beyond_LIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						181,
+						192
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1485440908820902000,
+		"in_reply_to_status_id_str": "1485440908820901888",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10516886,
+			"friends_count": 56,
+			"listed_count": 11603,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 1505,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "열화와 같은 성원에 힘입어 \n'SMTOWN LIVE 2022' SMCU EXPRESS @ KWANGYA\nRe-streaming 확정!\n\n다시 한 번 더 @ KWANGYA 로 떠날 준비 되셨나요?\n내 안에 흐르는 핑크 블러드💗🩸를 느낄 시간!\nBeyondLIVE가 여러분의 여정에 함께합니다.\n우리 모두 광야에서 만나요~♥\n\n#BeyondLIVE #Beyond_LIVE"
+	},
+	{
+		"created_at": "Mon Jan 24 03:29:41 +0000 2022",
+		"id": 1485440908820902000,
+		"id_str": "1485454734110638080",
+		"full_text": "◼Beyond LIVE - 'SMTOWN LIVE 2022'\nSMCU EXPRESS🚂 @ KWANGYA \n🎉Re-streaming🎉\n\n➫2022.01.29 (SAT) 15:00 PM (KST)\n\n💻🖥⌨️ https://t.co/VKmFIXAQ3T\n\n#SMTOWN_LIVE #SMCU_EXPRESS \n#SMTOWN2022 #Re_streaming https://t.co/pIIigXG4V9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						152,
+						165
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "Re_streaming",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VKmFIXAQ3T",
+					"expanded_url": "https://beyondlive.com",
+					"display_url": "beyondlive.com",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485440478841819100,
+					"id_str": "1485440478841819136",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ1YPsxaUAAYUmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ1YPsxaUAAYUmg.jpg",
+					"url": "https://t.co/pIIigXG4V9",
+					"display_url": "pic.twitter.com/pIIigXG4V9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1485440908820901888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1361,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485440478841819100,
+					"id_str": "1485440478841819136",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ1YPsxaUAAYUmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ1YPsxaUAAYUmg.jpg",
+					"url": "https://t.co/pIIigXG4V9",
+					"display_url": "pic.twitter.com/pIIigXG4V9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1485440908820901888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1361,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10516886,
+			"friends_count": 56,
+			"listed_count": 11603,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2720,
+		"favorite_count": 7337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "◼Beyond LIVE - 'SMTOWN LIVE 2022'\nSMCU EXPRESS🚂 @ KWANGYA \n🎉Re-streaming🎉\n\n➫2022.01.29 (SAT) 15:00 PM (KST)\n\n💻🖥⌨️ https://t.co/VKmFIXAQ3T\n\n#SMTOWN_LIVE #SMCU_EXPRESS \n#SMTOWN2022 #Re_streaming https://t.co/pIIigXG4V9"
+	},
+	{
+		"created_at": "Mon Jan 24 03:29:34 +0000 2022",
+		"id": 1485439785808576500,
+		"id_str": "1485454704276652035",
+		"full_text": "[VIDEO] [#권혁수] #SNL코리아\n\nSNL 코리아 시즌2 #이동휘 하이라이트 | 전국민 노래자랑ㅣ SNL 코리아 하이라이트\n\n👉 https://t.co/RNEmEf9Pd7\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "이동휘",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"text": "SNL",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RNEmEf9Pd7",
+					"expanded_url": "https://youtu.be/msuKKozunsQ",
+					"display_url": "youtu.be/msuKKozunsQ",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #SNL코리아\n\nSNL 코리아 시즌2 #이동휘 하이라이트 | 전국민 노래자랑ㅣ SNL 코리아 하이라이트\n\n👉 https://t.co/RNEmEf9Pd7\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay"
+	},
+	{
 		"created_at": "Mon Jan 24 03:11:23 +0000 2022",
 		"id": 1485447513972768800,
 		"id_str": "1485450128844640264",
