@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 09:29:40 +0000 2022",
+		"id": 1485900426126192600,
+		"id_str": "1485907714610020355",
+		"full_text": "1st ASIA 22°01’28’’ 9PM (KST) \n2nd AMERICA 22°01’28’’ 9PM (PST) \n      ↘︎22°01’29’’ 2PM (KST) \n3rd EUROPE 22°01’29’’ 9PM (CET) \n      ↘︎22°01’30’’ 5AM (KST)  \n\n#SHOWME #쇼미 \n#DJ #GINJO #긴조  \n#ScreaMRecords \n#PinkBlood \n#SMTOWN \n#BeyondLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "긴조",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						218,
+						225
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						227,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1485900420816212000,
+		"in_reply_to_status_id_str": "1485900420816211968",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10522209,
+			"friends_count": 56,
+			"listed_count": 11600,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 423,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1st ASIA 22°01’28’’ 9PM (KST) \n2nd AMERICA 22°01’28’’ 9PM (PST) \n      ↘︎22°01’29’’ 2PM (KST) \n3rd EUROPE 22°01’29’’ 9PM (CET) \n      ↘︎22°01’30’’ 5AM (KST)  \n\n#SHOWME #쇼미 \n#DJ #GINJO #긴조  \n#ScreaMRecords \n#PinkBlood \n#SMTOWN \n#BeyondLIVE"
+	},
+	{
+		"created_at": "Tue Jan 25 09:29:32 +0000 2022",
+		"id": 1485900420816212000,
+		"id_str": "1485907680581591040",
+		"full_text": "ScreaM TOGETHER!\nThe January 28th #SHOWME’s #004 DJ is ScreaM Records producer/DJ ‘#GINJO’, who has released amazing tracks like ‘The Riot (Feat. TEN, XIAOJUN of WayV)’ from ScreaM Records and ‘Raiden, HYO - Think About Me (Feat. Coogie) (GINJO Remix)’ from SM STATION. https://t.co/gCvaCoVqSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485892948973990000,
+					"id_str": "1485892948973989889",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ7zw7XaMAEYP7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ7zw7XaMAEYP7w.jpg",
+					"url": "https://t.co/gCvaCoVqSK",
+					"display_url": "pic.twitter.com/gCvaCoVqSK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1485900420816211968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485892948973990000,
+					"id_str": "1485892948973989889",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ7zw7XaMAEYP7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ7zw7XaMAEYP7w.jpg",
+					"url": "https://t.co/gCvaCoVqSK",
+					"display_url": "pic.twitter.com/gCvaCoVqSK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1485900420816211968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10522209,
+			"friends_count": 56,
+			"listed_count": 11600,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 1901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ScreaM TOGETHER!\nThe January 28th #SHOWME’s #004 DJ is ScreaM Records producer/DJ ‘#GINJO’, who has released amazing tracks like ‘The Riot (Feat. TEN, XIAOJUN of WayV)’ from ScreaM Records and ‘Raiden, HYO - Think About Me (Feat. Coogie) (GINJO Remix)’ from SM STATION. https://t.co/gCvaCoVqSK"
+	},
+	{
+		"created_at": "Tue Jan 25 09:29:29 +0000 2022",
+		"id": 1485900253060546600,
+		"id_str": "1485907667537305600",
+		"full_text": "[#홍자] 디지털 싱글 '화양연화' 뮤직비디오 티저\n\n내 생에 가장 찬란했던 시절\n2022. 01. 26. 6PM (KST)\n\n🔗 https://t.co/vIMeRtmimt\n🔗 https://t.co/Bxh8RtiTwA\n\n#HONGJA #화양연화 https://t.co/B00h3twy7N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "화양연화",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vIMeRtmimt",
+					"expanded_url": "https://youtu.be/DvdR2DdmzJk",
+					"display_url": "youtu.be/DvdR2DdmzJk",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/Bxh8RtiTwA",
+					"expanded_url": "https://www.vlive.tv/video/275505",
+					"display_url": "vlive.tv/video/275505",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485891559212355600,
+					"id_str": "1485891559212355585",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ7y4h4akAARipI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ7y4h4akAARipI.jpg",
+					"url": "https://t.co/B00h3twy7N",
+					"display_url": "pic.twitter.com/B00h3twy7N",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485900253060546569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485891559212355600,
+					"id_str": "1485891559212355585",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ7y4h4akAARipI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ7y4h4akAARipI.jpg",
+					"url": "https://t.co/B00h3twy7N",
+					"display_url": "pic.twitter.com/B00h3twy7N",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485900253060546569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 25936,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1485891559212355585/vid/478x270/HPUFrKKG8pr3R_Tx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1485891559212355585/pl/8XFt-BdWNqZyJm2f.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1485891559212355585/vid/638x360/W9RLXGP61T7h7S0H.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1485891559212355585/vid/852x480/4MQE1dlLmBB7N03Q.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#홍자] 디지털 싱글 '화양연화' 뮤직비디오 티저",
+						"description": "[#홍자] 디지털 싱글 '화양연화' 뮤직비디오 티저\n\n내 생에 가장 찬란했던 시절\n2022. 01. 26. 6PM (KST)\n\n🔗 https://youtu.be/DvdR2DdmzJk\n🔗 https://www.vlive.tv/video/275505\n\n#HONGJA #화양연화",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/DvdR2DdmzJk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32906,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] 디지털 싱글 '화양연화' 뮤직비디오 티저\n\n내 생에 가장 찬란했던 시절\n2022. 01. 26. 6PM (KST)\n\n🔗 https://t.co/vIMeRtmimt\n🔗 https://t.co/Bxh8RtiTwA\n\n#HONGJA #화양연화 https://t.co/B00h3twy7N"
+	},
+	{
 		"created_at": "Tue Jan 25 09:10:54 +0000 2022",
 		"id": 1485902992851275800,
 		"id_str": "1485902992851275776",
