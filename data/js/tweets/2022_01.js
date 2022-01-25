@@ -1,6 +1,827 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 04:11:16 +0000 2022",
+		"id": 1485817203434082300,
+		"id_str": "1485827588031492098",
+		"full_text": "#클럽빵 #koeraindie #liveclub #bbang #주간공연일정 https://t.co/g0X57f5VG8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "koeraindie",
+					"indices": [
+						5,
+						16
+					]
+				},
+				{
+					"text": "liveclub",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "bbang",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "주간공연일정",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485817191111196700,
+					"id_str": "1485817191111196682",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6u3PVaAAotUAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6u3PVaAAotUAT.jpg",
+					"url": "https://t.co/g0X57f5VG8",
+					"display_url": "pic.twitter.com/g0X57f5VG8",
+					"expanded_url": "https://twitter.com/club_bbang/status/1485817203434082307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485817191111196700,
+					"id_str": "1485817191111196682",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6u3PVaAAotUAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6u3PVaAAotUAT.jpg",
+					"url": "https://t.co/g0X57f5VG8",
+					"display_url": "pic.twitter.com/g0X57f5VG8",
+					"expanded_url": "https://twitter.com/club_bbang/status/1485817203434082307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485817191107002400,
+					"id_str": "1485817191107002372",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6u3PUaAAQMWB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6u3PUaAAQMWB0.jpg",
+					"url": "https://t.co/g0X57f5VG8",
+					"display_url": "pic.twitter.com/g0X57f5VG8",
+					"expanded_url": "https://twitter.com/club_bbang/status/1485817203434082307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1225,
+							"h": 1225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485817191098634200,
+					"id_str": "1485817191098634247",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6u3PSaUAc20do.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6u3PSaUAc20do.jpg",
+					"url": "https://t.co/g0X57f5VG8",
+					"display_url": "pic.twitter.com/g0X57f5VG8",
+					"expanded_url": "https://twitter.com/club_bbang/status/1485817203434082307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497,
+			"friends_count": 875,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#클럽빵 #koeraindie #liveclub #bbang #주간공연일정 https://t.co/g0X57f5VG8"
+	},
+	{
+		"created_at": "Tue Jan 25 03:29:40 +0000 2022",
+		"id": 1485813123936231400,
+		"id_str": "1485817116787892224",
+		"full_text": "[#손태진] 2nd EP The Present [Today's] 발매 기념 영상통화 이벤트 안내✔\n\n📌 일시\n2022. 01. 28(금) 8PM\n\n📌 응모 기간\n2022. 01. 25(화) 12PM ~ 01. 27(목) 8PM\n\n📌 당첨자 발표\n01. 27(목) 10PM\n\n📌 참여 링크\nhttps://t.co/R4LotX6zPZ\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today https://t.co/PSqCOmV0Ca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "ThePresent_Todays",
+					"indices": [
+						204,
+						222
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						223,
+						226
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						227,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R4LotX6zPZ",
+					"expanded_url": "https://bit.ly/3rG62Zy",
+					"display_url": "bit.ly/3rG62Zy",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485812855089741800,
+					"id_str": "1485812855089741825",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6q62ZVQAE3aNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6q62ZVQAE3aNI.jpg",
+					"url": "https://t.co/PSqCOmV0Ca",
+					"display_url": "pic.twitter.com/PSqCOmV0Ca",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485813123936231428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485812855089741800,
+					"id_str": "1485812855089741825",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6q62ZVQAE3aNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6q62ZVQAE3aNI.jpg",
+					"url": "https://t.co/PSqCOmV0Ca",
+					"display_url": "pic.twitter.com/PSqCOmV0Ca",
+					"expanded_url": "https://twitter.com/themysticstory/status/1485813123936231428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32908,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] 2nd EP The Present [Today's] 발매 기념 영상통화 이벤트 안내✔\n\n📌 일시\n2022. 01. 28(금) 8PM\n\n📌 응모 기간\n2022. 01. 25(화) 12PM ~ 01. 27(목) 8PM\n\n📌 당첨자 발표\n01. 27(목) 10PM\n\n📌 참여 링크\nhttps://t.co/R4LotX6zPZ\n\n#SONTAEJIN #TJSON #ThePresent_Todays #오늘 #Today https://t.co/PSqCOmV0Ca"
+	},
+	{
+		"created_at": "Tue Jan 25 03:29:36 +0000 2022",
+		"id": 1485809682207760400,
+		"id_str": "1485817099549302785",
+		"full_text": "신좌, 싱글 '쥐구멍' OUT NOW🐀\n\n신좌(XINZWA)의 새 싱글 '쥐구멍'이 발매되었습니다. 신좌에게 치료제와 같은 이번 싱글 '쥐구멍'은 지금 국내외 음원사이트를 통해 만나보실 수 있습니다.\n\n#신좌 #쥐구멍 #XINZWA #RATHOLE https://t.co/UDjbYNglFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신좌",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "쥐구멍",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "XINZWA",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "RATHOLE",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485809677455687700,
+					"id_str": "1485809677455687681",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6oB4yVgAEUPZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6oB4yVgAEUPZg.jpg",
+					"url": "https://t.co/UDjbYNglFt",
+					"display_url": "pic.twitter.com/UDjbYNglFt",
+					"expanded_url": "https://twitter.com/inplanet/status/1485809682207760387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485809677455687700,
+					"id_str": "1485809677455687681",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6oB4yVgAEUPZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6oB4yVgAEUPZg.jpg",
+					"url": "https://t.co/UDjbYNglFt",
+					"display_url": "pic.twitter.com/UDjbYNglFt",
+					"expanded_url": "https://twitter.com/inplanet/status/1485809682207760387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 773,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신좌, 싱글 '쥐구멍' OUT NOW🐀\n\n신좌(XINZWA)의 새 싱글 '쥐구멍'이 발매되었습니다. 신좌에게 치료제와 같은 이번 싱글 '쥐구멍'은 지금 국내외 음원사이트를 통해 만나보실 수 있습니다.\n\n#신좌 #쥐구멍 #XINZWA #RATHOLE https://t.co/UDjbYNglFt"
+	},
+	{
+		"created_at": "Tue Jan 25 03:29:29 +0000 2022",
+		"id": 1485804265260351500,
+		"id_str": "1485817069610442754",
+		"full_text": "[매고음 월간회식] 10화 수산시장 회 먹방, 호갱 안당하는법 (with 이섭 of 오드트리) ㅣ 강서수산시장 https://t.co/buvC2cxmje",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/buvC2cxmje",
+					"expanded_url": "http://blog.naver.com/chili7272/222630772408",
+					"display_url": "blog.naver.com/chili7272/2226…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2079,
+			"friends_count": 2350,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[매고음 월간회식] 10화 수산시장 회 먹방, 호갱 안당하는법 (with 이섭 of 오드트리) ㅣ 강서수산시장 https://t.co/buvC2cxmje"
+	},
+	{
 		"created_at": "Tue Jan 25 03:12:21 +0000 2022",
 		"id": 1485812757492646000,
 		"id_str": "1485812757492645891",
