@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 15:58:23 +0000 2022",
+		"id": 1486720173469962200,
+		"id_str": "1486730313820561420",
+		"full_text": "[🕘 time table]\n⠀\n2022.01.29 NAVER NOW LIVE STREAM\n\n🔉 21:00-21:50 RB\n🔉 21:50-22:40 not a virus @often_virus \n\n🙇🏻‍♀️ Episode 37 설날특집 &lt;전국 세뱃돈 자랑&gt;\n💸 토요일 저녁 9시 네이버 NOW에서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "often_virus",
+					"name": "바이러스..",
+					"id": 1143224385337090000,
+					"id_str": "1143224385337090049",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1486719599307460600,
+		"in_reply_to_status_id_str": "1486719599307460619",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7667,
+			"friends_count": 41,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🕘 time table]\n⠀\n2022.01.29 NAVER NOW LIVE STREAM\n\n🔉 21:00-21:50 RB\n🔉 21:50-22:40 not a virus @often_virus \n\n🙇🏻‍♀️ Episode 37 설날특집 &lt;전국 세뱃돈 자랑&gt;\n💸 토요일 저녁 9시 네이버 NOW에서"
+	},
+	{
+		"created_at": "Thu Jan 27 15:58:15 +0000 2022",
+		"id": 1486719599307460600,
+		"id_str": "1486730279376941066",
+		"full_text": "Episode 37 슬픔의케이팝파티\n설날특집 &lt;전국 세뱃돈 자랑&gt;\n\nDJ대모 판빙빙 여사의 가족들이 설날 ZZOOM으로 모였다! 효자DJ RB와 유교걸인척하는 반항아DJ not a virus가 세뱃돈 도네이션을 받기 위해 디제잉 대결을 펼친다!!\n\n토요일 저녁 9시 설날도 슬케파와 함께!\nhttps://t.co/34S2C5onzC https://t.co/Mg8AsHbBDN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5onzC",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486719590843699200,
+					"id_str": "1486719590843699201",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHjl0TaUAEAZqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHjl0TaUAEAZqV.jpg",
+					"url": "https://t.co/Mg8AsHbBDN",
+					"display_url": "pic.twitter.com/Mg8AsHbBDN",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1486719599307460619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486719590843699200,
+					"id_str": "1486719590843699201",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHjl0TaUAEAZqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHjl0TaUAEAZqV.jpg",
+					"url": "https://t.co/Mg8AsHbBDN",
+					"display_url": "pic.twitter.com/Mg8AsHbBDN",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1486719599307460619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7667,
+			"friends_count": 41,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Episode 37 슬픔의케이팝파티\n설날특집 &lt;전국 세뱃돈 자랑&gt;\n\nDJ대모 판빙빙 여사의 가족들이 설날 ZZOOM으로 모였다! 효자DJ RB와 유교걸인척하는 반항아DJ not a virus가 세뱃돈 도네이션을 받기 위해 디제잉 대결을 펼친다!!\n\n토요일 저녁 9시 설날도 슬케파와 함께!\nhttps://t.co/34S2C5onzC https://t.co/Mg8AsHbBDN"
+	},
+	{
+		"created_at": "Thu Jan 27 15:29:30 +0000 2022",
+		"id": 1486715633220087800,
+		"id_str": "1486723043741163522",
+		"full_text": "[#션] 2022.01.28 SHEON DAY🎉\n\nHappy Birthday to SHEON🎂\n빌리 션의 생일을 축하합니다🎁❤\n\n#220128 #happybirthday #birthday #생일 https://t.co/6TE0DwQzxe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "션",
+					"indices": [
+						1,
+						3
+					]
+				},
+				{
+					"text": "happybirthday",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"text": "birthday",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "생일",
+					"indices": [
+						105,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486715623531249700,
+					"id_str": "1486715623531249664",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHf-46agAAgnG_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHf-46agAAgnG_.jpg",
+					"url": "https://t.co/6TE0DwQzxe",
+					"display_url": "pic.twitter.com/6TE0DwQzxe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1486715633220087808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486715623531249700,
+					"id_str": "1486715623531249664",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHf-46agAAgnG_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKHf-46agAAgnG_.jpg",
+					"url": "https://t.co/6TE0DwQzxe",
+					"display_url": "pic.twitter.com/6TE0DwQzxe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1486715633220087808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32945,
+			"friends_count": 15,
+			"listed_count": 271,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2277,
+		"favorite_count": 4450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#션] 2022.01.28 SHEON DAY🎉\n\nHappy Birthday to SHEON🎂\n빌리 션의 생일을 축하합니다🎁❤\n\n#220128 #happybirthday #birthday #생일 https://t.co/6TE0DwQzxe"
+	},
+	{
 		"created_at": "Thu Jan 27 14:29:25 +0000 2022",
 		"id": 1486697255256002600,
 		"id_str": "1486707923057360896",
