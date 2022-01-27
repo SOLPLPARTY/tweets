@@ -1,6 +1,966 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 07:11:39 +0000 2022",
+		"id": 1486474027761913900,
+		"id_str": "1486597757079109634",
+		"full_text": "📣 KT&amp;G 상상마당의 설 연휴 공간 이용안내 공지!\n\n1/29(토)~2/2(수) 구정 연휴 기간\n\n상상마당 홍대, 춘천, 논산, 대치\n공간별 운영 일정 안내드리오니,\n이용에 참고 부탁드립니다. 🙂\n\n문의사항은 해당 공간 문의처로 연락 바랍니다!\n행복한 명절 보내세요~! ❤️ https://t.co/8BIjL6YNeb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486375674256687000,
+					"id_str": "1486375674256687105",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCqzPLaAAEP1yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCqzPLaAAEP1yi.jpg",
+					"url": "https://t.co/8BIjL6YNeb",
+					"display_url": "pic.twitter.com/8BIjL6YNeb",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486474027761913856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1844,
+							"h": 1843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486375674256687000,
+					"id_str": "1486375674256687105",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCqzPLaAAEP1yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCqzPLaAAEP1yi.jpg",
+					"url": "https://t.co/8BIjL6YNeb",
+					"display_url": "pic.twitter.com/8BIjL6YNeb",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486474027761913856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1844,
+							"h": 1843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486375775427522600,
+					"id_str": "1486375775427522561",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCq5IEacAEkAOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCq5IEacAEkAOr.jpg",
+					"url": "https://t.co/8BIjL6YNeb",
+					"display_url": "pic.twitter.com/8BIjL6YNeb",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486474027761913856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1844,
+							"h": 1843,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486375776962617300,
+					"id_str": "1486375776962617345",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCq5NyaIAEFh7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCq5NyaIAEFh7N.jpg",
+					"url": "https://t.co/8BIjL6YNeb",
+					"display_url": "pic.twitter.com/8BIjL6YNeb",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486474027761913856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1844,
+							"h": 1843,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486375778019594200,
+					"id_str": "1486375778019594241",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCq5RuaUAEGmUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCq5RuaUAEGmUT.jpg",
+					"url": "https://t.co/8BIjL6YNeb",
+					"display_url": "pic.twitter.com/8BIjL6YNeb",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486474027761913856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17697,
+			"friends_count": 1864,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 KT&amp;G 상상마당의 설 연휴 공간 이용안내 공지!\n\n1/29(토)~2/2(수) 구정 연휴 기간\n\n상상마당 홍대, 춘천, 논산, 대치\n공간별 운영 일정 안내드리오니,\n이용에 참고 부탁드립니다. 🙂\n\n문의사항은 해당 공간 문의처로 연락 바랍니다!\n행복한 명절 보내세요~! ❤️ https://t.co/8BIjL6YNeb"
+	},
+	{
+		"created_at": "Thu Jan 27 07:11:34 +0000 2022",
+		"id": 1486338529227468800,
+		"id_str": "1486597735692259331",
+		"full_text": "- 설날 특집 - \nThe Greatest FF Anthems of All Time !\n \npresent DJ EDDIE\n\nFranz Ferdinand - Take Me Out 부터 \nJustin Bieber - Stay 까지 \n\n2022\n1/29 (Sat) 7pm - 9pm, \n1/30 (Sun) 7pm -9pm, \n1/31 (Mon) 6pm - 9pm, \n2/1 (Tue) 6pm - 9pm\n\nNO COVER !\n\n(밴드 분들은 전부 웰컴 드링크 제공!) https://t.co/Alz8oxVQwd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486338521182851000,
+					"id_str": "1486338521182851072",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCJApMVUAAUrxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCJApMVUAAUrxg.jpg",
+					"url": "https://t.co/Alz8oxVQwd",
+					"display_url": "pic.twitter.com/Alz8oxVQwd",
+					"expanded_url": "https://twitter.com/clubFF_/status/1486338529227468800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1646,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486338521182851000,
+					"id_str": "1486338521182851072",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCJApMVUAAUrxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCJApMVUAAUrxg.jpg",
+					"url": "https://t.co/Alz8oxVQwd",
+					"display_url": "pic.twitter.com/Alz8oxVQwd",
+					"expanded_url": "https://twitter.com/clubFF_/status/1486338529227468800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1646,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6127,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 설날 특집 - \nThe Greatest FF Anthems of All Time !\n \npresent DJ EDDIE\n\nFranz Ferdinand - Take Me Out 부터 \nJustin Bieber - Stay 까지 \n\n2022\n1/29 (Sat) 7pm - 9pm, \n1/30 (Sun) 7pm -9pm, \n1/31 (Mon) 6pm - 9pm, \n2/1 (Tue) 6pm - 9pm\n\nNO COVER !\n\n(밴드 분들은 전부 웰컴 드링크 제공!) https://t.co/Alz8oxVQwd"
+	},
+	{
+		"created_at": "Thu Jan 27 07:11:26 +0000 2022",
+		"id": 1486335125486899200,
+		"id_str": "1486597701613637633",
+		"full_text": "이번주 클럽FF 공연일정! \n\n1/27 (목) 7pm : 하우캔아이,알바스,웨더보트\n1/28 (금) 6pm : 오드,카프,틸더,루아멜\n1/29 (토) 4pm : 동이혼,ABTB,알포나인틴\n1/30 (일) 4pm : 묠리,두억시니,티어드랍,겟투더포인트\n\n다들 행복한 설날 연휴 되세요.~ https://t.co/DiPFaETtMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486335118134243300,
+					"id_str": "1486335118134243330",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCF6j2UcAIrD-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCF6j2UcAIrD-o.jpg",
+					"url": "https://t.co/DiPFaETtMl",
+					"display_url": "pic.twitter.com/DiPFaETtMl",
+					"expanded_url": "https://twitter.com/clubFF_/status/1486335125486899200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486335118134243300,
+					"id_str": "1486335118134243330",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCF6j2UcAIrD-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCF6j2UcAIrD-o.jpg",
+					"url": "https://t.co/DiPFaETtMl",
+					"display_url": "pic.twitter.com/DiPFaETtMl",
+					"expanded_url": "https://twitter.com/clubFF_/status/1486335125486899200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486335118134243300,
+					"id_str": "1486335118134243329",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCF6j2UcAEe65i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCF6j2UcAEe65i.jpg",
+					"url": "https://t.co/DiPFaETtMl",
+					"display_url": "pic.twitter.com/DiPFaETtMl",
+					"expanded_url": "https://twitter.com/clubFF_/status/1486335125486899200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486335118155260000,
+					"id_str": "1486335118155259904",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCF6j7VIAAhniz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCF6j7VIAAhniz.jpg",
+					"url": "https://t.co/DiPFaETtMl",
+					"display_url": "pic.twitter.com/DiPFaETtMl",
+					"expanded_url": "https://twitter.com/clubFF_/status/1486335125486899200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486335118138437600,
+					"id_str": "1486335118138437635",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FKCF6j3UcAMUpyh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKCF6j3UcAMUpyh.jpg",
+					"url": "https://t.co/DiPFaETtMl",
+					"display_url": "pic.twitter.com/DiPFaETtMl",
+					"expanded_url": "https://twitter.com/clubFF_/status/1486335125486899200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6127,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 클럽FF 공연일정! \n\n1/27 (목) 7pm : 하우캔아이,알바스,웨더보트\n1/28 (금) 6pm : 오드,카프,틸더,루아멜\n1/29 (토) 4pm : 동이혼,ABTB,알포나인틴\n1/30 (일) 4pm : 묠리,두억시니,티어드랍,겟투더포인트\n\n다들 행복한 설날 연휴 되세요.~ https://t.co/DiPFaETtMl"
+	},
+	{
+		"created_at": "Thu Jan 27 07:11:17 +0000 2022",
+		"id": 1486263805525237800,
+		"id_str": "1486597663390937089",
+		"full_text": "❤ HAPPY TWOTWO의 선물 줍줍!\n\n이번 연휴, \nKT&amp;G 상상마당 춘천의 이벤트\n참여하고, 선물도 받아볼까요?\n\n현재 춘천 디자인스퀘어에서는\n해피투투 팝업을 진행하고 있습니다.\n\n참여하시어 상상마당 춘천에서 전해드리는 \n두툼한 애정을 받아보세요~! 🎁\n\n📌 자세히보기: https://t.co/rtrFEIZ8jo https://t.co/DopxrLOWPL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rtrFEIZ8jo",
+					"expanded_url": "https://bit.ly/3KKnmW0",
+					"display_url": "bit.ly/3KKnmW0",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486263740492566500,
+					"id_str": "1486263740492566531",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBE_1aaUAMmFEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKBE_1aaUAMmFEn.jpg",
+					"url": "https://t.co/DopxrLOWPL",
+					"display_url": "pic.twitter.com/DopxrLOWPL",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486263805525237773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1345,
+							"h": 1676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486263740492566500,
+					"id_str": "1486263740492566531",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBE_1aaUAMmFEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKBE_1aaUAMmFEn.jpg",
+					"url": "https://t.co/DopxrLOWPL",
+					"display_url": "pic.twitter.com/DopxrLOWPL",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486263805525237773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1345,
+							"h": 1676,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486263762206474200,
+					"id_str": "1486263762206474242",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBFBGTaQAIaWzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKBFBGTaQAIaWzO.jpg",
+					"url": "https://t.co/DopxrLOWPL",
+					"display_url": "pic.twitter.com/DopxrLOWPL",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486263805525237773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17697,
+			"friends_count": 1864,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤ HAPPY TWOTWO의 선물 줍줍!\n\n이번 연휴, \nKT&amp;G 상상마당 춘천의 이벤트\n참여하고, 선물도 받아볼까요?\n\n현재 춘천 디자인스퀘어에서는\n해피투투 팝업을 진행하고 있습니다.\n\n참여하시어 상상마당 춘천에서 전해드리는 \n두툼한 애정을 받아보세요~! 🎁\n\n📌 자세히보기: https://t.co/rtrFEIZ8jo https://t.co/DopxrLOWPL"
+	},
+	{
 		"created_at": "Thu Jan 27 03:12:15 +0000 2022",
 		"id": 1486537510503305200,
 		"id_str": "1486537510503305220",
