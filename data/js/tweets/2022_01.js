@@ -1,6 +1,1043 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 10:29:55 +0000 2022",
+		"id": 1487003203665559600,
+		"id_str": "1487010041186164737",
+		"full_text": "#LeeJinAh #람팜팜 #RumPumPum\n#먹고싶은것도많아 #RhythmofHope #choco\n#DPRCREAM #SOLE\n#20220128_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "람팜팜",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "RumPumPum",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "먹고싶은것도많아",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "RhythmofHope",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"text": "choco",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "DPRCREAM",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "SOLE",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "20220128_6PM",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1487003200301711400,
+		"in_reply_to_status_id_str": "1487003200301711361",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40289,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#LeeJinAh #람팜팜 #RumPumPum\n#먹고싶은것도많아 #RhythmofHope #choco\n#DPRCREAM #SOLE\n#20220128_6PM"
+	},
+	{
+		"created_at": "Fri Jan 28 10:29:53 +0000 2022",
+		"id": 1487003200301711400,
+		"id_str": "1487010032323600385",
+		"full_text": "[#Photo] #이진아\n⠀\n이진아 싱글 ‘람팜팜(Rum Pum Pum)’ MV, 녹음 비하인드 사진과 영상이 멜론매거진에 공개되었습니다. 지금 바로 멜론매거진에서 만나보세요📸💗\n\n💗 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 비하인드\nhttps://t.co/Up8L0CBTZa https://t.co/ZQvzUJF3lG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Up8L0CBTZa",
+					"expanded_url": "http://kko.to/d2SaU8540",
+					"display_url": "kko.to/d2SaU8540",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1487003191837601800,
+					"id_str": "1487003191837601798",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLlhkVaMAYutD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLlhkVaMAYutD8.jpg",
+					"url": "https://t.co/ZQvzUJF3lG",
+					"display_url": "pic.twitter.com/ZQvzUJF3lG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1487003200301711361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487003191837601800,
+					"id_str": "1487003191837601798",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLlhkVaMAYutD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLlhkVaMAYutD8.jpg",
+					"url": "https://t.co/ZQvzUJF3lG",
+					"display_url": "pic.twitter.com/ZQvzUJF3lG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1487003200301711361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1487003191829233700,
+					"id_str": "1487003191829233664",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLlhkTagAAXoxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLlhkTagAAXoxV.jpg",
+					"url": "https://t.co/ZQvzUJF3lG",
+					"display_url": "pic.twitter.com/ZQvzUJF3lG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1487003200301711361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1487003191988596700,
+					"id_str": "1487003191988596737",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLlhk5aMAEOv8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLlhk5aMAEOv8W.jpg",
+					"url": "https://t.co/ZQvzUJF3lG",
+					"display_url": "pic.twitter.com/ZQvzUJF3lG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1487003200301711361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1487003192001200000,
+					"id_str": "1487003192001200134",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLlhk8agAYb40X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLlhk8agAYb40X.jpg",
+					"url": "https://t.co/ZQvzUJF3lG",
+					"display_url": "pic.twitter.com/ZQvzUJF3lG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1487003200301711361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40289,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Photo] #이진아\n⠀\n이진아 싱글 ‘람팜팜(Rum Pum Pum)’ MV, 녹음 비하인드 사진과 영상이 멜론매거진에 공개되었습니다. 지금 바로 멜론매거진에서 만나보세요📸💗\n\n💗 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 비하인드\nhttps://t.co/Up8L0CBTZa https://t.co/ZQvzUJF3lG"
+	},
+	{
+		"created_at": "Fri Jan 28 10:29:44 +0000 2022",
+		"id": 1487002510053326800,
+		"id_str": "1487009994071547908",
+		"full_text": "[구만 | TEASER 2]\n\n구만(9.10000) - 다른 널 사랑하고 싶어\n\n🥀\n구만(9.10000)의 싱글,\n[다른 널 사랑하고 싶어]가\n2022. 01. 29. 토요일 오후 12시에 발매됩니다.\n\nqman(9.10000) New Single\n[Another You]\nOut on JAN 29 12PM (KST)\n\n#레트로싱어송라이터 #구만 https://t.co/LtlqjWFFK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레트로싱어송라이터",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "구만",
+					"indices": [
+						190,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486997995925442600,
+					"id_str": "1486997995925442562",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLhAsyaUAAD7U6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLhAsyaUAAD7U6.jpg",
+					"url": "https://t.co/LtlqjWFFK5",
+					"display_url": "pic.twitter.com/LtlqjWFFK5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1487002510053326850/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486997995925442600,
+					"id_str": "1486997995925442562",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLhAsyaUAAD7U6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLhAsyaUAAD7U6.jpg",
+					"url": "https://t.co/LtlqjWFFK5",
+					"display_url": "pic.twitter.com/LtlqjWFFK5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1487002510053326850/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42167,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486997995925442562/vid/480x270/bXYbgLNGeFiiorwU.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1486997995925442562/pl/6R1PBPYIGxnru8Ib.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486997995925442562/vid/1280x720/WNPordgqNBCaTKOc.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1486997995925442562/vid/640x360/9hI-zre9scGJstI1.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12987,
+			"friends_count": 1929,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | TEASER 2]\n\n구만(9.10000) - 다른 널 사랑하고 싶어\n\n🥀\n구만(9.10000)의 싱글,\n[다른 널 사랑하고 싶어]가\n2022. 01. 29. 토요일 오후 12시에 발매됩니다.\n\nqman(9.10000) New Single\n[Another You]\nOut on JAN 29 12PM (KST)\n\n#레트로싱어송라이터 #구만 https://t.co/LtlqjWFFK5"
+	},
+	{
+		"created_at": "Fri Jan 28 10:29:36 +0000 2022",
+		"id": 1486999136356700200,
+		"id_str": "1487009960076660738",
+		"full_text": "수연 ‘수연에게’ Released!!\n💛 https://t.co/uwOhgX734u https://t.co/cfYMOfUoRm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uwOhgX734u",
+					"expanded_url": "https://www.instagram.com/p/CZROdOVPDfs/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CZROdOVPDfs/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486999130723750000,
+					"id_str": "1486999130723749888",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLh1LgakAACT-e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLh1LgakAACT-e.jpg",
+					"url": "https://t.co/cfYMOfUoRm",
+					"display_url": "pic.twitter.com/cfYMOfUoRm",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1486999136356700160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486999130723750000,
+					"id_str": "1486999130723749888",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FKLh1LgakAACT-e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKLh1LgakAACT-e.jpg",
+					"url": "https://t.co/cfYMOfUoRm",
+					"display_url": "pic.twitter.com/cfYMOfUoRm",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1486999136356700160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7237,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수연 ‘수연에게’ Released!!\n💛 https://t.co/uwOhgX734u https://t.co/cfYMOfUoRm"
+	},
+	{
+		"created_at": "Fri Jan 28 10:29:34 +0000 2022",
+		"id": 1486989202919424000,
+		"id_str": "1487009951121915909",
+		"full_text": "#LeeJinAh #람팜팜 #RumPumPum\n#먹고싶은것도많아 #RhythmofHope #choco\n#DPRCREAM #SOLE\n#20220128_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "람팜팜",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "RumPumPum",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "먹고싶은것도많아",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "RhythmofHope",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"text": "choco",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "DPRCREAM",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "SOLE",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "20220128_6PM",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1486989200822251500,
+		"in_reply_to_status_id_str": "1486989200822251522",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40289,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#LeeJinAh #람팜팜 #RumPumPum\n#먹고싶은것도많아 #RhythmofHope #choco\n#DPRCREAM #SOLE\n#20220128_6PM"
+	},
+	{
 		"created_at": "Fri Jan 28 09:08:49 +0000 2022",
 		"id": 1486989631581212700,
 		"id_str": "1486989631581212679",
