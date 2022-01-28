@@ -1,6 +1,1130 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 03:11:21 +0000 2022",
+		"id": 1486896820026548200,
+		"id_str": "1486899668974022658",
+		"full_text": "🎇1월 시즌특강\n\n하루, 한 달, 한 해를 만드는 매일매일을 함께하는\n시즌특강, 2월에도 만나요! :)\n\n❤️매일, 계획 실현\n💙 매일, 일상을 만드는 습관\n* KT&amp;G 상상마당 홍대 6층 대강의장에서\n오프라인으로 진행합니다!\n\n📍 신청하기: https://t.co/vhiTZbP86F https://t.co/kQyJLo6bzO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vhiTZbP86F",
+					"expanded_url": "https://bit.ly/3K5JYQo",
+					"display_url": "bit.ly/3K5JYQo",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486265576540745700,
+					"id_str": "1486265576540745730",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBGqtOaMAIMVyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKBGqtOaMAIMVyk.jpg",
+					"url": "https://t.co/kQyJLo6bzO",
+					"display_url": "pic.twitter.com/kQyJLo6bzO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486896820026548229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486265576540745700,
+					"id_str": "1486265576540745730",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBGqtOaMAIMVyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKBGqtOaMAIMVyk.jpg",
+					"url": "https://t.co/kQyJLo6bzO",
+					"display_url": "pic.twitter.com/kQyJLo6bzO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486896820026548229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486265576519790600,
+					"id_str": "1486265576519790601",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBGqtJacAk6Hs5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKBGqtJacAk6Hs5.jpg",
+					"url": "https://t.co/kQyJLo6bzO",
+					"display_url": "pic.twitter.com/kQyJLo6bzO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486896820026548229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486265576549159000,
+					"id_str": "1486265576549158913",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBGqtQakAEWWfK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKBGqtQakAEWWfK.jpg",
+					"url": "https://t.co/kQyJLo6bzO",
+					"display_url": "pic.twitter.com/kQyJLo6bzO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1486896820026548229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17697,
+			"friends_count": 1864,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎇1월 시즌특강\n\n하루, 한 달, 한 해를 만드는 매일매일을 함께하는\n시즌특강, 2월에도 만나요! :)\n\n❤️매일, 계획 실현\n💙 매일, 일상을 만드는 습관\n* KT&amp;G 상상마당 홍대 6층 대강의장에서\n오프라인으로 진행합니다!\n\n📍 신청하기: https://t.co/vhiTZbP86F https://t.co/kQyJLo6bzO"
+	},
+	{
+		"created_at": "Fri Jan 28 03:11:16 +0000 2022",
+		"id": 1486896815047774200,
+		"id_str": "1486899651441831938",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;잠비나이 단독 콘서트 : 롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 03월 01일 (화) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 잠비나이\n· 예매 :🥝멜론티켓 https://t.co/TSmV06tFAh\n⠀\n#롤링홀 #잠비나이 \n#롤링27주년 #멜론티켓 https://t.co/OslcUhVK7w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "잠비나이",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TSmV06tFAh",
+					"expanded_url": "https://bit.ly/3FNeuey",
+					"display_url": "bit.ly/3FNeuey",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484399844659974100,
+					"id_str": "1484399844659974144",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484399844659974144/pu/img/FHXHLFNVdxyMl14f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484399844659974144/pu/img/FHXHLFNVdxyMl14f.jpg",
+					"url": "https://t.co/OslcUhVK7w",
+					"display_url": "pic.twitter.com/OslcUhVK7w",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1486896815047774215/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484399844659974100,
+					"id_str": "1484399844659974144",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484399844659974144/pu/img/FHXHLFNVdxyMl14f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484399844659974144/pu/img/FHXHLFNVdxyMl14f.jpg",
+					"url": "https://t.co/OslcUhVK7w",
+					"display_url": "pic.twitter.com/OslcUhVK7w",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1486896815047774215/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484399844659974144/pu/vid/540x540/vcuscXCV_ZaKSJHB.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484399844659974144/pu/vid/320x320/cdBre-w4cW1mHS4E.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1484399844659974144/pu/vid/720x720/BhFlVhx6cZU0IQQ3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1484399844659974144/pu/pl/7ELLF4ZzPBYup51d.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;잠비나이 단독 콘서트 : 롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 03월 01일 (화) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 잠비나이\n· 예매 :🥝멜론티켓 https://t.co/TSmV06tFAh\n⠀\n#롤링홀 #잠비나이 \n#롤링27주년 #멜론티켓 https://t.co/OslcUhVK7w"
+	},
+	{
+		"created_at": "Fri Jan 28 03:02:41 +0000 2022",
+		"id": 1486897490452529200,
+		"id_str": "1486897490452529154",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n유령 (Yooryeong), 디제이티즈 (DJ Tiz) - Seoul to NY Live Verses\nhttps://t.co/pjYQOXFt6t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pjYQOXFt6t",
+					"expanded_url": "https://youtu.be/TLK2fJqkaU8",
+					"display_url": "youtu.be/TLK2fJqkaU8",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n유령 (Yooryeong), 디제이티즈 (DJ Tiz) - Seoul to NY Live Verses\nhttps://t.co/pjYQOXFt6t"
+	},
+	{
+		"created_at": "Fri Jan 28 02:29:38 +0000 2022",
+		"id": 1486888729851871200,
+		"id_str": "1486889170635214851",
+		"full_text": "The 4th runner of DJ streaming show ’SHOWME’ is DJ GINJO!\nMeet an exciting online DJing party today at 9PM KST!\n\n#SHOWME #쇼미 \n#DJ #GINJO #긴조  \n#ScreaMRecords \n#PinkBlood \n#SMTOWN\n#BeyondLIVE https://t.co/rH16THIga9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "긴조",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						143,
+						157
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486888545323487200,
+					"id_str": "1486888545323487236",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FKJ9QQyakAQEYB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKJ9QQyakAQEYB0.jpg",
+					"url": "https://t.co/rH16THIga9",
+					"display_url": "pic.twitter.com/rH16THIga9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1486888729851871232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486888545323487200,
+					"id_str": "1486888545323487236",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FKJ9QQyakAQEYB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKJ9QQyakAQEYB0.jpg",
+					"url": "https://t.co/rH16THIga9",
+					"display_url": "pic.twitter.com/rH16THIga9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1486888729851871232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10532326,
+			"friends_count": 56,
+			"listed_count": 11652,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 1770,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 4th runner of DJ streaming show ’SHOWME’ is DJ GINJO!\nMeet an exciting online DJing party today at 9PM KST!\n\n#SHOWME #쇼미 \n#DJ #GINJO #긴조  \n#ScreaMRecords \n#PinkBlood \n#SMTOWN\n#BeyondLIVE https://t.co/rH16THIga9"
+	},
+	{
+		"created_at": "Fri Jan 28 02:29:29 +0000 2022",
+		"id": 1486885804756508700,
+		"id_str": "1486889136619466755",
+		"full_text": "SM ‘STATION’ started NCT music archiving project ‘NCT LAB’!\nMARK’s own song ‘Child’, the first song of this project, is to be released on 2/4!\n\n#MARK #마크\n#MARK_Child #Child #NCTLAB \n#NCT #NCT127 #NCTDREAM https://t.co/F2uUdHBEpk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MARK",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "마크",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "MARK_Child",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"text": "Child",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						195,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486885799019057200,
+					"id_str": "1486885799019057152",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FKJ6waAakAAjeuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKJ6waAakAAjeuP.jpg",
+					"url": "https://t.co/F2uUdHBEpk",
+					"display_url": "pic.twitter.com/F2uUdHBEpk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1486885804756508680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486885799019057200,
+					"id_str": "1486885799019057152",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FKJ6waAakAAjeuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKJ6waAakAAjeuP.jpg",
+					"url": "https://t.co/F2uUdHBEpk",
+					"display_url": "pic.twitter.com/F2uUdHBEpk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1486885804756508680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10532326,
+			"friends_count": 56,
+			"listed_count": 11652,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21346,
+		"favorite_count": 42040,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM ‘STATION’ started NCT music archiving project ‘NCT LAB’!\nMARK’s own song ‘Child’, the first song of this project, is to be released on 2/4!\n\n#MARK #마크\n#MARK_Child #Child #NCTLAB \n#NCT #NCT127 #NCTDREAM https://t.co/F2uUdHBEpk"
+	},
+	{
 		"created_at": "Thu Jan 27 23:13:26 +0000 2022",
 		"id": 1486839797721309200,
 		"id_str": "1486839797721309184",
