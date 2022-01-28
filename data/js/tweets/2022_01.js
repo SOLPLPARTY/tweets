@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 07:01:29 +0000 2022",
+		"id": 1486957587312648200,
+		"id_str": "1486957587312648199",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n언제나 365일 옳은, 그리웠던 라우브만의 감성  | 라우브 (Lauv) - 26 (가사/한글/해석)\nhttps://t.co/3M2i1P06vZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3M2i1P06vZ",
+					"expanded_url": "https://youtu.be/rC1e5Y7K-Zg",
+					"display_url": "youtu.be/rC1e5Y7K-Zg",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n언제나 365일 옳은, 그리웠던 라우브만의 감성  | 라우브 (Lauv) - 26 (가사/한글/해석)\nhttps://t.co/3M2i1P06vZ"
+	},
+	{
+		"created_at": "Fri Jan 28 06:29:35 +0000 2022",
+		"id": 1486944818508931000,
+		"id_str": "1486949560148705280",
+		"full_text": "[#NEWS] 손태진 \"기억에 남는 목소리 됐으면..신곡으로 위로 전하고파\"[화보]\n\n▶ https://t.co/lq0xxI5HIJ\n\n#손태진 #SONTAEJIN #TJSON #오늘 #빅이슈 #빅이슈코리아 #BIGISSUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "빅이슈코리아",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "BIGISSUE",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lq0xxI5HIJ",
+					"expanded_url": "https://bit.ly/3AE9bx2",
+					"display_url": "bit.ly/3AE9bx2",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33004,
+			"friends_count": 15,
+			"listed_count": 270,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 손태진 \"기억에 남는 목소리 됐으면..신곡으로 위로 전하고파\"[화보]\n\n▶ https://t.co/lq0xxI5HIJ\n\n#손태진 #SONTAEJIN #TJSON #오늘 #빅이슈 #빅이슈코리아 #BIGISSUE"
+	},
+	{
+		"created_at": "Fri Jan 28 06:29:32 +0000 2022",
+		"id": 1486942211317002200,
+		"id_str": "1486949547171622913",
+		"full_text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오엔터테인먼트주니어",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJunior",
+					"indices": [
+						14,
+						39
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트주니어오디션",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "KakaoEntertainmentJuniorAudition",
+					"indices": [
+						57,
+						90
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트프렌즈오디션",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "KakaoEntertainmentFriendsAudition",
+					"indices": [
+						108,
+						142
+					]
+				},
+				{
+					"text": "오디션",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Audition",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "카카오엔터테인먼트",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "KakaoEntertainment",
+					"indices": [
+						169,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1486942113774375000,
+		"in_reply_to_status_id_str": "1486942113774374914",
+		"in_reply_to_user_id": 870208746210734100,
+		"in_reply_to_user_id_str": "870208746210734080",
+		"in_reply_to_screen_name": "KakaoEntFriends",
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3020,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#카카오엔터테인먼트주니어 #KakaoEntertainmentJunior #카카오엔터테인먼트주니어오디션 #KakaoEntertainmentJuniorAudition #카카오엔터테인먼트프렌즈오디션 #KakaoEntertainmentFriendsAudition #오디션 #Audition #카카오엔터테인먼트 #KakaoEntertainment"
+	},
+	{
+		"created_at": "Fri Jan 28 06:29:30 +0000 2022",
+		"id": 1486942113774375000,
+		"id_str": "1486949538334187524",
+		"full_text": "[카카오엔터테인먼트 주니어 6기 모집]\n\n📣 1차 오디션 합격자 발표 완료!\n\n1차 오디션 합격자에 한해 개별 연락을 완료하였습니다!\n참여해 주신 모든 분들께 감사드립니다!\n\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널 https://t.co/Lp9OCVyjc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486940892367753200,
+					"id_str": "1486940892367753216",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKs3QuVEAAC1EZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKs3QuVEAAC1EZ.jpg",
+					"url": "https://t.co/Lp9OCVyjc1",
+					"display_url": "pic.twitter.com/Lp9OCVyjc1",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1486942113774374914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486940892367753200,
+					"id_str": "1486940892367753216",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKs3QuVEAAC1EZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKs3QuVEAAC1EZ.jpg",
+					"url": "https://t.co/Lp9OCVyjc1",
+					"display_url": "pic.twitter.com/Lp9OCVyjc1",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1486942113774374914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3020,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1641352277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[카카오엔터테인먼트 주니어 6기 모집]\n\n📣 1차 오디션 합격자 발표 완료!\n\n1차 오디션 합격자에 한해 개별 연락을 완료하였습니다!\n참여해 주신 모든 분들께 감사드립니다!\n\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널 https://t.co/Lp9OCVyjc1"
+	},
+	{
 		"created_at": "Fri Jan 28 05:29:38 +0000 2022",
 		"id": 1486932093863346200,
 		"id_str": "1486934469923807233",
