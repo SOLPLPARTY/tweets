@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 12:29:25 +0000 2022",
+		"id": 1487026787611594800,
+		"id_str": "1487040111548186628",
+		"full_text": "[GARCONS INFIDELES x YERIN BAEK]\n\n프랑스 브랜드 Garcons Infideles와 콜라보한 백예린 오리지널 컬렉션이 가르송 홈페이지에 공개되었습니다. \n\nThe Garcons Infideles x Yerin Baek collab collection is out now!\n\n💎 https://t.co/GXshJkzDK1\n\n#gixyerin #yerinbaek #백예린 #garconsinfideles https://t.co/Lxj7cNLINP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gixyerin",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						204,
+						214
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						215,
+						219
+					]
+				},
+				{
+					"text": "garconsinfideles",
+					"indices": [
+						220,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GXshJkzDK1",
+					"expanded_url": "http://www.garconsinfideles.com",
+					"display_url": "garconsinfideles.com",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1487026681613226000,
+					"id_str": "1487026681613225985",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FKL642kVkAE2Ap-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKL642kVkAE2Ap-.jpg",
+					"url": "https://t.co/Lxj7cNLINP",
+					"display_url": "pic.twitter.com/Lxj7cNLINP",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1487026787611594753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 892,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487026681613226000,
+					"id_str": "1487026681613225985",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FKL642kVkAE2Ap-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKL642kVkAE2Ap-.jpg",
+					"url": "https://t.co/Lxj7cNLINP",
+					"display_url": "pic.twitter.com/Lxj7cNLINP",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1487026787611594753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 892,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1487026700600840200,
+					"id_str": "1487026700600840196",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FKL659TVkAQJ37O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKL659TVkAQJ37O.jpg",
+					"url": "https://t.co/Lxj7cNLINP",
+					"display_url": "pic.twitter.com/Lxj7cNLINP",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1487026787611594753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1487026734369153000,
+					"id_str": "1487026734369153029",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FKL677GVIAUuLWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKL677GVIAUuLWN.jpg",
+					"url": "https://t.co/Lxj7cNLINP",
+					"display_url": "pic.twitter.com/Lxj7cNLINP",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1487026787611594753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1487026767105716200,
+					"id_str": "1487026767105716231",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FKL691DVcAcsNFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKL691DVcAcsNFI.jpg",
+					"url": "https://t.co/Lxj7cNLINP",
+					"display_url": "pic.twitter.com/Lxj7cNLINP",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1487026787611594753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36941,
+			"friends_count": 2,
+			"listed_count": 197,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GARCONS INFIDELES x YERIN BAEK]\n\n프랑스 브랜드 Garcons Infideles와 콜라보한 백예린 오리지널 컬렉션이 가르송 홈페이지에 공개되었습니다. \n\nThe Garcons Infideles x Yerin Baek collab collection is out now!\n\n💎 https://t.co/GXshJkzDK1\n\n#gixyerin #yerinbaek #백예린 #garconsinfideles https://t.co/Lxj7cNLINP"
+	},
+	{
 		"created_at": "Fri Jan 28 10:29:55 +0000 2022",
 		"id": 1487003203665559600,
 		"id_str": "1487010041186164737",
