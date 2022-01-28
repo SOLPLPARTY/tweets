@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 05:29:38 +0000 2022",
+		"id": 1486932093863346200,
+		"id_str": "1486934469923807233",
+		"full_text": "✨v o K a l✨\nDef. (@jaybnow_hr)가 스포티파이 \"v o K a l\" 플레이리스트 커버를 장식하였습니다😎✨\n⠀\nCheck out \"Def.\"on 'SUNSET WITH YOU' playlist on Spotify\n▶️https://t.co/1IhcrzIA9n\n⠀\n#warnerkpop #warnermusic #release #Def. #LOVE.#SUNSETWITHYOU #Spotify @spotifykr https://t.co/imcbDfTth9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "Def",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "SUNSETWITHYOU",
+					"indices": [
+						204,
+						218
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						219,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						18,
+						29
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						228,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1IhcrzIA9n",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm?si=71ed026b47b949dc",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486931500058972200,
+					"id_str": "1486931500058972165",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKkUjpakAUuiAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKkUjpakAUuiAh.jpg",
+					"url": "https://t.co/imcbDfTth9",
+					"display_url": "pic.twitter.com/imcbDfTth9",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1486932093863346176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486931500058972200,
+					"id_str": "1486931500058972165",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKkUjpakAUuiAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKkUjpakAUuiAh.jpg",
+					"url": "https://t.co/imcbDfTth9",
+					"display_url": "pic.twitter.com/imcbDfTth9",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1486932093863346176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54107,
+			"friends_count": 495,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 720,
+		"favorite_count": 852,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨v o K a l✨\nDef. (@jaybnow_hr)가 스포티파이 \"v o K a l\" 플레이리스트 커버를 장식하였습니다😎✨\n⠀\nCheck out \"Def.\"on 'SUNSET WITH YOU' playlist on Spotify\n▶️https://t.co/1IhcrzIA9n\n⠀\n#warnerkpop #warnermusic #release #Def. #LOVE.#SUNSETWITHYOU #Spotify @spotifykr https://t.co/imcbDfTth9"
+	},
+	{
+		"created_at": "Fri Jan 28 05:29:34 +0000 2022",
+		"id": 1486928196792578000,
+		"id_str": "1486934452676841474",
+		"full_text": "[#Video] #샘김\n\n샘김 (Sam Kim) ‘Smile’\nProd. by R3HAB\n\n✨M/V\nhttps://t.co/WJb84dQwxv\n\n@LeegitItsSam \n#SamKim #Smile #R3HAB https://t.co/QnZ7JYLm5J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "Smile",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "R3HAB",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WJb84dQwxv",
+					"expanded_url": "https://youtu.be/8tkLGCRKjPY",
+					"display_url": "youtu.be/8tkLGCRKjPY",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486927770332835800,
+					"id_str": "1486927770332835840",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486927770332835840/pu/img/gLFX031-1fMVp0Zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486927770332835840/pu/img/gLFX031-1fMVp0Zm.jpg",
+					"url": "https://t.co/QnZ7JYLm5J",
+					"display_url": "pic.twitter.com/QnZ7JYLm5J",
+					"expanded_url": "https://twitter.com/antennamusic/status/1486928196792578048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486927770332835800,
+					"id_str": "1486927770332835840",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486927770332835840/pu/img/gLFX031-1fMVp0Zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486927770332835840/pu/img/gLFX031-1fMVp0Zm.jpg",
+					"url": "https://t.co/QnZ7JYLm5J",
+					"display_url": "pic.twitter.com/QnZ7JYLm5J",
+					"expanded_url": "https://twitter.com/antennamusic/status/1486928196792578048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486927770332835840/pu/vid/1280x720/yWgC8CCJ_loowAKa.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486927770332835840/pu/vid/640x360/mMece0bDK7OjykKW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1486927770332835840/pu/pl/5aWT5LXNxTAcr-di.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486927770332835840/pu/vid/480x270/ES1aSlpr_49NTUot.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40285,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[#Video] #샘김\n\n샘김 (Sam Kim) ‘Smile’\nProd. by R3HAB\n\n✨M/V\nhttps://t.co/WJb84dQwxv\n\n@LeegitItsSam \n#SamKim #Smile #R3HAB https://t.co/QnZ7JYLm5J"
+	},
+	{
 		"created_at": "Fri Jan 28 05:03:40 +0000 2022",
 		"id": 1486927935940579300,
 		"id_str": "1486927935940579331",
