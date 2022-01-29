@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 29 06:29:31 +0000 2022",
+		"id": 1487308775967330300,
+		"id_str": "1487311928166912002",
+		"full_text": "오래 기다리신 카더가든 &lt;APARTMENT&gt; 일반반 LP의 제작이 곧 완료됩니다.\n\n자세한 사항은 두루두루 팩토리에서 확인하세요. \n\n📌 최종 배송 정보 확인 기간 : 2022년 1월 29일(토)~2월 11일(금)\n📌 배송 시작 예정일 : 2022년 3월 3일(목)~3월 4일(금) https://t.co/GHGV5wVKrK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1487308740995199000,
+					"id_str": "1487308740995198980",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FKP7a3paMAQcd9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKP7a3paMAQcd9j.jpg",
+					"url": "https://t.co/GHGV5wVKrK",
+					"display_url": "pic.twitter.com/GHGV5wVKrK",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1487308775967330304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487308740995199000,
+					"id_str": "1487308740995198980",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FKP7a3paMAQcd9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKP7a3paMAQcd9j.jpg",
+					"url": "https://t.co/GHGV5wVKrK",
+					"display_url": "pic.twitter.com/GHGV5wVKrK",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1487308775967330304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1487308751929770000,
+					"id_str": "1487308751929769984",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FKP7bgYagAAKpG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKP7bgYagAAKpG0.jpg",
+					"url": "https://t.co/GHGV5wVKrK",
+					"display_url": "pic.twitter.com/GHGV5wVKrK",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1487308775967330304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3987,
+			"friends_count": 10,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오래 기다리신 카더가든 &lt;APARTMENT&gt; 일반반 LP의 제작이 곧 완료됩니다.\n\n자세한 사항은 두루두루 팩토리에서 확인하세요. \n\n📌 최종 배송 정보 확인 기간 : 2022년 1월 29일(토)~2월 11일(금)\n📌 배송 시작 예정일 : 2022년 3월 3일(목)~3월 4일(금) https://t.co/GHGV5wVKrK"
+	},
+	{
 		"created_at": "Sat Jan 29 05:29:38 +0000 2022",
 		"id": 1487294607709073400,
 		"id_str": "1487296857751568384",
