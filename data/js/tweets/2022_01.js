@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 30 09:29:25 +0000 2022",
+		"id": 1487712187393233000,
+		"id_str": "1487719589245079552",
+		"full_text": "[#홍자] 디지털 싱글 '화양연화' 스페셜 클립\n\n*풀영상은 아래 채널에서 보실 수 있습니다\n\n🔗 https://t.co/UdDz1drrG7\n🔗 https://t.co/RetjS98TXn\n\n#HONGJA #화양연화 https://t.co/SLGMZXY6sR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "화양연화",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UdDz1drrG7",
+					"expanded_url": "https://youtu.be/SBGIwsACRII",
+					"display_url": "youtu.be/SBGIwsACRII",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/RetjS98TXn",
+					"expanded_url": "https://www.vlive.tv/video/276041",
+					"display_url": "vlive.tv/video/276041",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1487687936741355500,
+					"id_str": "1487687936741355524",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FKVUxE5aMAEK1xx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKVUxE5aMAEK1xx.jpg",
+					"url": "https://t.co/SLGMZXY6sR",
+					"display_url": "pic.twitter.com/SLGMZXY6sR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1487712187393232897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487687936741355500,
+					"id_str": "1487687936741355524",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FKVUxE5aMAEK1xx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKVUxE5aMAEK1xx.jpg",
+					"url": "https://t.co/SLGMZXY6sR",
+					"display_url": "pic.twitter.com/SLGMZXY6sR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1487712187393232897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39330,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1487687936741355524/vid/640x360/akRvTtADXd8_e91a.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1487687936741355524/vid/1280x720/Rwlp8lAVRPa3XrVv.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1487687936741355524/vid/480x270/a-PqZvIYb9DtrcJ7.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1487687936741355524/pl/CO9P6PXDd_QcIq1T.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[#홍자] 디지털 싱글 '화양연화' 스페셜 클립",
+						"description": "[#홍자] 디지털 싱글 '화양연화' 스페셜 클립\n\n*풀영상은 아래 채널에서 보실 수 있습니다\n\n🔗 https://youtu.be/SBGIwsACRII\n🔗 https://www.vlive.tv/video/276041\n\n#HONGJA #화양연화",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/SBGIwsACRII"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33110,
+			"friends_count": 15,
+			"listed_count": 270,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] 디지털 싱글 '화양연화' 스페셜 클립\n\n*풀영상은 아래 채널에서 보실 수 있습니다\n\n🔗 https://t.co/UdDz1drrG7\n🔗 https://t.co/RetjS98TXn\n\n#HONGJA #화양연화 https://t.co/SLGMZXY6sR"
+	},
+	{
 		"created_at": "Sun Jan 30 09:13:35 +0000 2022",
 		"id": 1487715605952311300,
 		"id_str": "1487715605952311302",
