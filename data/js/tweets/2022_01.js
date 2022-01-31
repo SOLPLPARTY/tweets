@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 09:29:41 +0000 2022",
+		"id": 1488079992169054200,
+		"id_str": "1488082044542455813",
+		"full_text": "너드커넥션 - 우린 노래가 될까\n\nhttps://t.co/MUok6qINiW\n\n#썸라이브 #너드커넥션 #너컨 #유어썸머",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "썸라이브",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						61,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MUok6qINiW",
+					"expanded_url": "https://youtu.be/XaNurGFaPuA",
+					"display_url": "youtu.be/XaNurGFaPuA",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너드커넥션 - 우린 노래가 될까\n\nhttps://t.co/MUok6qINiW\n\n#썸라이브 #너드커넥션 #너컨 #유어썸머"
+	},
+	{
+		"created_at": "Mon Jan 31 09:29:38 +0000 2022",
+		"id": 1488076932092551200,
+		"id_str": "1488082031523381253",
+		"full_text": "[Cover]\n이달의 소녀 올리비아 혜 - \"겨울에(Prod.공기남)\" \nhttps://t.co/a63Uvlyomr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a63Uvlyomr",
+					"expanded_url": "https://youtu.be/gOkTKS1dJWo",
+					"display_url": "youtu.be/gOkTKS1dJWo",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back, Daowl\n                         official home page ▶️https://t.co/NxkguP1kf8",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguP1kf8",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 933,
+			"friends_count": 422,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1639030839",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Cover]\n이달의 소녀 올리비아 혜 - \"겨울에(Prod.공기남)\" \nhttps://t.co/a63Uvlyomr"
+	},
+	{
+		"created_at": "Mon Jan 31 09:29:31 +0000 2022",
+		"id": 1488076931656347600,
+		"id_str": "1488082001538207751",
+		"full_text": "[Cover] 1ho,0back,Daowl - At my worst (원곡 Pink Sweat$)\n\nhttps://t.co/1sQcDaHILy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1sQcDaHILy",
+					"expanded_url": "https://youtu.be/duA9_VWE5JU",
+					"display_url": "youtu.be/duA9_VWE5JU",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back, Daowl\n                         official home page ▶️https://t.co/NxkguP1kf8",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguP1kf8",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 933,
+			"friends_count": 422,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1639030839",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Cover] 1ho,0back,Daowl - At my worst (원곡 Pink Sweat$)\n\nhttps://t.co/1sQcDaHILy"
+	},
+	{
 		"created_at": "Mon Jan 31 09:03:58 +0000 2022",
 		"id": 1488075572832055300,
 		"id_str": "1488075572832055298",
