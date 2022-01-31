@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 05:11:16 +0000 2022",
+		"id": 1488016821324157000,
+		"id_str": "1488017013347860482",
+		"full_text": "[티켓오픈공지]\n내 귀에 드라마 콘서트 | 더베인\nhttps://t.co/IqCdd8SzrT\n수많은 명곡의 목소리 주인공 바로 더베인(THE VANE).\n그리웠던 채보훈의 목소리로 다시 만나는 드라마.\n\n* 티켓오픈일 : 2022년 2월 4일(금) 오후 7시\n* 공연일 : 2022년 2월 26일(토) 오후 7시\n\n#프리즘홀 #더베인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "더베인",
+					"indices": [
+						182,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IqCdd8SzrT",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=5828",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 1119,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓오픈공지]\n내 귀에 드라마 콘서트 | 더베인\nhttps://t.co/IqCdd8SzrT\n수많은 명곡의 목소리 주인공 바로 더베인(THE VANE).\n그리웠던 채보훈의 목소리로 다시 만나는 드라마.\n\n* 티켓오픈일 : 2022년 2월 4일(금) 오후 7시\n* 공연일 : 2022년 2월 26일(토) 오후 7시\n\n#프리즘홀 #더베인"
+	},
+	{
 		"created_at": "Mon Jan 31 03:29:31 +0000 2022",
 		"id": 1487985874772000800,
 		"id_str": "1487991405494611969",
