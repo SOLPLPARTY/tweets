@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 07:29:24 +0000 2022",
+		"id": 1488046039798288400,
+		"id_str": "1488051776590917632",
+		"full_text": "제10회 서울레코드페어에서 최초공개한 헬리콥터 레코즈의 신보 3종을 이번주 목요일, 2월 3일부터 김밥레코즈(온라인, 오프라인), 우주만물(오프라인), 로프 에디션스(오프라인)에서 판매를 시작합니다. 확인하셔야 할 부분은 조율 - Earwitness의 경우에는 1인 1매로 구매 가능합니다. https://t.co/lN6TfuIezm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488046031736799200,
+					"id_str": "1488046031736799234",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaZ-1saAAIqSum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaZ-1saAAIqSum.jpg",
+					"url": "https://t.co/lN6TfuIezm",
+					"display_url": "pic.twitter.com/lN6TfuIezm",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1488046039798288386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488046031736799200,
+					"id_str": "1488046031736799234",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FKaZ-1saAAIqSum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKaZ-1saAAIqSum.jpg",
+					"url": "https://t.co/lN6TfuIezm",
+					"display_url": "pic.twitter.com/lN6TfuIezm",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1488046039798288386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3220,
+			"friends_count": 1573,
+			"listed_count": 37,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제10회 서울레코드페어에서 최초공개한 헬리콥터 레코즈의 신보 3종을 이번주 목요일, 2월 3일부터 김밥레코즈(온라인, 오프라인), 우주만물(오프라인), 로프 에디션스(오프라인)에서 판매를 시작합니다. 확인하셔야 할 부분은 조율 - Earwitness의 경우에는 1인 1매로 구매 가능합니다. https://t.co/lN6TfuIezm"
+	},
+	{
 		"created_at": "Mon Jan 31 06:29:32 +0000 2022",
 		"id": 1488030164831588400,
 		"id_str": "1488036708792864772",
