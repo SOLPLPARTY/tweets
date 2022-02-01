@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 01 11:29:31 +0000 2022",
+		"id": 1488460220258918400,
+		"id_str": "1488474591731326988",
+		"full_text": "Dance crew ‘Team Auspicious’ will be joining the show with their high-quality dance performance.\n\n1st ASIA 22°02’04’’ 9PM (KST)\n2nd AMERICA 22°02’04’’ 9PM (PST)\n      ↘︎22°02’05’’ 2PM (KST)\n3rd EUROPE 22°02’05’’ 9PM (CET)\n      ↘︎22°02’06’’ 5AM (KST)\n\n#auspicious_crew https://t.co/t1Bqbbp3fo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspicious_crew",
+					"indices": [
+						252,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488459929002250200,
+					"id_str": "1488459929002250240",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FKgSa1KVEAAKrDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKgSa1KVEAAKrDL.jpg",
+					"url": "https://t.co/t1Bqbbp3fo",
+					"display_url": "pic.twitter.com/t1Bqbbp3fo",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1488460220258918406/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488459929002250200,
+					"id_str": "1488459929002250240",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FKgSa1KVEAAKrDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKgSa1KVEAAKrDL.jpg",
+					"url": "https://t.co/t1Bqbbp3fo",
+					"display_url": "pic.twitter.com/t1Bqbbp3fo",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1488460220258918406/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1488460208128987100,
+		"in_reply_to_status_id_str": "1488460208128987136",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10548423,
+			"friends_count": 56,
+			"listed_count": 11674,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dance crew ‘Team Auspicious’ will be joining the show with their high-quality dance performance.\n\n1st ASIA 22°02’04’’ 9PM (KST)\n2nd AMERICA 22°02’04’’ 9PM (PST)\n      ↘︎22°02’05’’ 2PM (KST)\n3rd EUROPE 22°02’05’’ 9PM (CET)\n      ↘︎22°02’06’’ 5AM (KST)\n\n#auspicious_crew https://t.co/t1Bqbbp3fo"
+	},
+	{
 		"created_at": "Tue Feb 01 08:29:25 +0000 2022",
 		"id": 1488422104500674600,
 		"id_str": "1488429265364398083",
