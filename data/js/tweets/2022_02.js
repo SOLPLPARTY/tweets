@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 09:29:35 +0000 2022",
+		"id": 1488799556565278700,
+		"id_str": "1488806795447607300",
+		"full_text": "1st ASIA 22°02’04’’ 9PM (KST)\n2nd AMERICA 22°02’04’’ 9PM (PST)\n      ↘︎22°02’05’’ 2PM (KST)\n3rd EUROPE 22°02’05’’ 9PM (CET)\n      ↘︎22°02’06’’ 5AM (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1488799351833079800,
+		"in_reply_to_status_id_str": "1488799351833079810",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10551442,
+			"friends_count": 56,
+			"listed_count": 11684,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 422,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1st ASIA 22°02’04’’ 9PM (KST)\n2nd AMERICA 22°02’04’’ 9PM (PST)\n      ↘︎22°02’05’’ 2PM (KST)\n3rd EUROPE 22°02’05’’ 9PM (CET)\n      ↘︎22°02’06’’ 5AM (KST)"
+	},
+	{
+		"created_at": "Wed Feb 02 09:29:28 +0000 2022",
+		"id": 1488799361148481500,
+		"id_str": "1488806765277765632",
+		"full_text": "[#홍자] '화양연화' 뮤직비디오 리액션\n\n*풀영상은 아래 링크에서 보실 수 있습니다\n\n🔗 https://t.co/BfsAOV5UeH\n🔗 https://t.co/f1g1o2yrnQ\n\n#HONGJA #화양연화 https://t.co/aNCDBpC55J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "화양연화",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BfsAOV5UeH",
+					"expanded_url": "https://youtu.be/31nL6Izkq58",
+					"display_url": "youtu.be/31nL6Izkq58",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/f1g1o2yrnQ",
+					"expanded_url": "https://vlive.tv/video/276179",
+					"display_url": "vlive.tv/video/276179",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1488779651963318300,
+					"id_str": "1488779651963318274",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FKk8A0uacAYjaus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKk8A0uacAYjaus.jpg",
+					"url": "https://t.co/aNCDBpC55J",
+					"display_url": "pic.twitter.com/aNCDBpC55J",
+					"expanded_url": "https://twitter.com/themysticstory/status/1488799361148481539/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488779651963318300,
+					"id_str": "1488779651963318274",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FKk8A0uacAYjaus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKk8A0uacAYjaus.jpg",
+					"url": "https://t.co/aNCDBpC55J",
+					"display_url": "pic.twitter.com/aNCDBpC55J",
+					"expanded_url": "https://twitter.com/themysticstory/status/1488799361148481539/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30930,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1488779651963318274/vid/480x270/kedAXsChsrBGEY_9.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1488779651963318274/vid/1280x720/lGriJuD25ue7ZMds.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1488779651963318274/pl/2y2yuOlN9_KCJCx6.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1488779651963318274/vid/640x360/ru_XFop5-jNKyctb.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "홍자 HONG JA - '화양연화' 뮤직비디오 리액션",
+						"description": "[#홍자] '화양연화' 뮤직비디오 리액션\n\n*풀영상은 아래 링크에서 보실 수 있습니다\n\n🔗 https://youtu.be/31nL6Izkq58\n🔗 https://vlive.tv/video/276179\n\n#HONGJA #화양연화",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/31nL6Izkq58"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33121,
+			"friends_count": 15,
+			"listed_count": 272,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] '화양연화' 뮤직비디오 리액션\n\n*풀영상은 아래 링크에서 보실 수 있습니다\n\n🔗 https://t.co/BfsAOV5UeH\n🔗 https://t.co/f1g1o2yrnQ\n\n#HONGJA #화양연화 https://t.co/aNCDBpC55J"
+	},
+	{
 		"created_at": "Wed Feb 02 08:11:16 +0000 2022",
 		"id": 1488782757094641700,
 		"id_str": "1488787088875167746",
