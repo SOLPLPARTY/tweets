@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 05:11:16 +0000 2022",
+		"id": 1488736934180823000,
+		"id_str": "1488741790471573506",
+		"full_text": "내 귀에 드라마 콘서트 ㅣ 더베인 \n- 티켓 오픈 : 2월 4일 (금) 저녁 7시\n- 공연 일시 : 2월 26일(토) 저녁 7시 프리즘홀\n\n내 귀에 드라마 콘서트 ㅣ 에이프릴세컨드\n- 티켓 오픈 : 2월 7일 (월) 오후 7시\n- 공연 일시 : 2월 27일(일) 저녁 6시 프리즘홀\n\n#프리즘홀 #더베인 #에이프릴세컨드 #멜론티켓 https://t.co/2KXkCoroMd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "더베인",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "에이프릴세컨드",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						179,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488736897229029400,
+					"id_str": "1488736897229029378",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1488736897229029378/pu/img/h69RsR1EsXVBADSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1488736897229029378/pu/img/h69RsR1EsXVBADSE.jpg",
+					"url": "https://t.co/2KXkCoroMd",
+					"display_url": "pic.twitter.com/2KXkCoroMd",
+					"expanded_url": "https://twitter.com/prismhall/status/1488736934180823040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488736897229029400,
+					"id_str": "1488736897229029378",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1488736897229029378/pu/img/h69RsR1EsXVBADSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1488736897229029378/pu/img/h69RsR1EsXVBADSE.jpg",
+					"url": "https://t.co/2KXkCoroMd",
+					"display_url": "pic.twitter.com/2KXkCoroMd",
+					"expanded_url": "https://twitter.com/prismhall/status/1488736934180823040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 27000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488736897229029378/pu/vid/478x270/q7IHXshv_LVkJtKh.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488736897229029378/pu/vid/852x480/PwJSzUUNxO16iBSs.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1488736897229029378/pu/pl/7HH_-oQ6VO2krini.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488736897229029378/pu/vid/638x360/i8aU94prm8BW66aS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 1118,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 귀에 드라마 콘서트 ㅣ 더베인 \n- 티켓 오픈 : 2월 4일 (금) 저녁 7시\n- 공연 일시 : 2월 26일(토) 저녁 7시 프리즘홀\n\n내 귀에 드라마 콘서트 ㅣ 에이프릴세컨드\n- 티켓 오픈 : 2월 7일 (월) 오후 7시\n- 공연 일시 : 2월 27일(일) 저녁 6시 프리즘홀\n\n#프리즘홀 #더베인 #에이프릴세컨드 #멜론티켓 https://t.co/2KXkCoroMd"
+	},
+	{
 		"created_at": "Tue Feb 01 15:29:30 +0000 2022",
 		"id": 1488527634091110400,
 		"id_str": "1488534982394011656",
