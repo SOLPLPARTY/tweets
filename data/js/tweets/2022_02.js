@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 07:29:24 +0000 2022",
+		"id": 1489127874078863400,
+		"id_str": "1489138940191952901",
+		"full_text": "LIVE. ON _ 너드커넥션, cott\n\n내일 저녁 8시! 너드커넥션과 cott이 함께하는 아리랑 TV ‘LIVE. ON’ 온라인 공연이 LIVE. ON 공식 유튜브 채널을 통해 생중계 됩니다. \n\n▶ 2022.02.04 Fri. 8PM\n▶ https://t.co/c8iRGBSMYf\n\n#너드커넥션 #cott #온라인공연 #라이브온 #LIVEON #아리랑TV #온라인생중계 https://t.co/UBBVeNqxik",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "라이브온",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "LIVEON",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "아리랑TV",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "온라인생중계",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c8iRGBSMYf",
+					"expanded_url": "https://c11.kr/vprs",
+					"display_url": "c11.kr/vprs",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489127869507072000,
+					"id_str": "1489127869507072001",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FKpx6FcacAE8gMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKpx6FcacAE8gMY.jpg",
+					"url": "https://t.co/UBBVeNqxik",
+					"display_url": "pic.twitter.com/UBBVeNqxik",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1489127874078863361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489127869507072000,
+					"id_str": "1489127869507072001",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FKpx6FcacAE8gMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKpx6FcacAE8gMY.jpg",
+					"url": "https://t.co/UBBVeNqxik",
+					"display_url": "pic.twitter.com/UBBVeNqxik",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1489127874078863361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2177,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LIVE. ON _ 너드커넥션, cott\n\n내일 저녁 8시! 너드커넥션과 cott이 함께하는 아리랑 TV ‘LIVE. ON’ 온라인 공연이 LIVE. ON 공식 유튜브 채널을 통해 생중계 됩니다. \n\n▶ 2022.02.04 Fri. 8PM\n▶ https://t.co/c8iRGBSMYf\n\n#너드커넥션 #cott #온라인공연 #라이브온 #LIVEON #아리랑TV #온라인생중계 https://t.co/UBBVeNqxik"
+	},
+	{
 		"created_at": "Thu Feb 03 07:03:51 +0000 2022",
 		"id": 1489132509870837800,
 		"id_str": "1489132509870837761",
