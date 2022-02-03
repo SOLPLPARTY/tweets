@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 10:29:24 +0000 2022",
+		"id": 1489176842661601300,
+		"id_str": "1489184238926716933",
+		"full_text": "[#Video] #이진아\n\n이진아 싱글 '람팜팜(Rum Pum Pum)'\nLee Jin Ah Single 'Rum Pum Pum'\n\n💗 ‘먹고 싶은 것도 많아 (Rhythm of Hope)' Self MV\nhttps://t.co/S5JLo4OlTR\n\n#LeeJinAh \n#람팜팜 #먹고싶은것도많아\n#RumPumPum #RhythmofHope https://t.co/BTV4KJC6xZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "람팜팜",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "먹고싶은것도많아",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "RumPumPum",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "RhythmofHope",
+					"indices": [
+						177,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S5JLo4OlTR",
+					"expanded_url": "https://youtu.be/zlTnJCQs_t4",
+					"display_url": "youtu.be/zlTnJCQs_t4",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489146628464607200,
+					"id_str": "1489146628464607233",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FKqST2raAAASIl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKqST2raAAASIl6.jpg",
+					"url": "https://t.co/BTV4KJC6xZ",
+					"display_url": "pic.twitter.com/BTV4KJC6xZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1489176842661601280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489146628464607200,
+					"id_str": "1489146628464607233",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FKqST2raAAASIl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKqST2raAAASIl6.jpg",
+					"url": "https://t.co/BTV4KJC6xZ",
+					"display_url": "pic.twitter.com/BTV4KJC6xZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1489176842661601280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 234108,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1489146628464607233/pl/IK1vOkgJyKwATUhw.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489146628464607233/vid/640x360/Kd55tYGUgnhrjdfr.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489146628464607233/vid/480x270/Quc2oJLFEkn8qHET.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1489146628464607233/vid/1280x720/Qs7RVsX0PNlUqlgt.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "이진아 - ‘먹고 싶은 것도 많아 (Rhythm of Hope)' Self MV",
+						"description": "이진아 싱글 '람팜팜(Rum Pum Pum)'\nLee Jin Ah Single 'Rum Pum Pum'",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/zlTnJCQs_t4"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40309,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #이진아\n\n이진아 싱글 '람팜팜(Rum Pum Pum)'\nLee Jin Ah Single 'Rum Pum Pum'\n\n💗 ‘먹고 싶은 것도 많아 (Rhythm of Hope)' Self MV\nhttps://t.co/S5JLo4OlTR\n\n#LeeJinAh \n#람팜팜 #먹고싶은것도많아\n#RumPumPum #RhythmofHope https://t.co/BTV4KJC6xZ"
+	},
+	{
 		"created_at": "Thu Feb 03 09:50:46 +0000 2022",
 		"id": 1489174512826466300,
 		"id_str": "1489174512826466306",
