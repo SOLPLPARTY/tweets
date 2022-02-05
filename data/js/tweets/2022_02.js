@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 05 02:29:25 +0000 2022",
+		"id": 1489784312916754400,
+		"id_str": "1489788219927547910",
+		"full_text": "NCT MARK’s 1st solo song ‘Child’ topped major music charts and iTunes Top Songs Chart of 14 international regions! \n\n#MARK #마크\n#MARK_Child #Child #NCTLAB\n#NCT\n￼#NCT127\n￼#NCTDREAM https://t.co/aMI2ZxVR3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MARK",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "마크",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "MARK_Child",
+					"indices": [
+						127,
+						138
+					]
+				},
+				{
+					"text": "Child",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						169,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489784305044062200,
+					"id_str": "1489784305044062215",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FKzG7qYagAc_RB7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKzG7qYagAc_RB7.jpg",
+					"url": "https://t.co/aMI2ZxVR3n",
+					"display_url": "pic.twitter.com/aMI2ZxVR3n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1489784312916754432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489784305044062200,
+					"id_str": "1489784305044062215",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FKzG7qYagAc_RB7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKzG7qYagAc_RB7.jpg",
+					"url": "https://t.co/aMI2ZxVR3n",
+					"display_url": "pic.twitter.com/aMI2ZxVR3n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1489784312916754432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10561179,
+			"friends_count": 56,
+			"listed_count": 11699,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16344,
+		"favorite_count": 37557,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NCT MARK’s 1st solo song ‘Child’ topped major music charts and iTunes Top Songs Chart of 14 international regions! \n\n#MARK #마크\n#MARK_Child #Child #NCTLAB\n#NCT\n￼#NCT127\n￼#NCTDREAM https://t.co/aMI2ZxVR3n"
+	},
+	{
 		"created_at": "Sat Feb 05 02:11:17 +0000 2022",
 		"id": 1489781598962974700,
 		"id_str": "1489783655757197314",
