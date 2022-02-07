@@ -1,6 +1,878 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 10:07:48 +0000 2022",
+		"id": 1490628354244067300,
+		"id_str": "1490628354244067332",
+		"full_text": "#딩고뮤직 #dingo_music\n[세로라이브] 나비 (NAVI) - 선물 (2022)ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/irdCaTmchs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/irdCaTmchs",
+					"expanded_url": "https://youtu.be/Ep1xg1NEfSg",
+					"display_url": "youtu.be/Ep1xg1NEfSg",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[세로라이브] 나비 (NAVI) - 선물 (2022)ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/irdCaTmchs"
+	},
+	{
+		"created_at": "Mon Feb 07 09:29:48 +0000 2022",
+		"id": 1490614555235418000,
+		"id_str": "1490618791071465473",
+		"full_text": "Spotify : https://t.co/E6PylcX2WS\n멜론 : https://t.co/mmMYhIoLLp\n지니 : https://t.co/m4oOzI10b0\n벅스 : https://t.co/sU0HFbGn7T\nFLO : https://t.co/jqhIm5TWip\nVIBE : https://t.co/dwOWTFBE6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E6PylcX2WS",
+					"expanded_url": "https://open.spotify.com/album/1KFoCsHHnCefhQdgSwPIm3",
+					"display_url": "open.spotify.com/album/1KFoCsHH…",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/mmMYhIoLLp",
+					"expanded_url": "http://kko.to/Ba_k3EN40",
+					"display_url": "kko.to/Ba_k3EN40",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/m4oOzI10b0",
+					"expanded_url": "http://www.genie.co.kr/2X4FD6",
+					"display_url": "genie.co.kr/2X4FD6",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/sU0HFbGn7T",
+					"expanded_url": "https://music.bugs.co.kr/album/20448918",
+					"display_url": "music.bugs.co.kr/album/20448918",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/jqhIm5TWip",
+					"expanded_url": "https://www.music-flo.com/detail/album/edoeynlen/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/dwOWTFBE6D",
+					"expanded_url": "https://vibe.naver.com/album/7102552",
+					"display_url": "vibe.naver.com/album/7102552",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1490614451984220200,
+		"in_reply_to_status_id_str": "1490614451984220160",
+		"in_reply_to_user_id": 76964739,
+		"in_reply_to_user_id_str": "76964739",
+		"in_reply_to_screen_name": "inplanet",
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1434,
+			"friends_count": 772,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify : https://t.co/E6PylcX2WS\n멜론 : https://t.co/mmMYhIoLLp\n지니 : https://t.co/m4oOzI10b0\n벅스 : https://t.co/sU0HFbGn7T\nFLO : https://t.co/jqhIm5TWip\nVIBE : https://t.co/dwOWTFBE6D"
+	},
+	{
+		"created_at": "Mon Feb 07 09:29:45 +0000 2022",
+		"id": 1490614451984220200,
+		"id_str": "1490618777955885059",
+		"full_text": "#OuiOui \n\nOuiOui 위위 “see you soon” Out Now❕\n\n📷\n지금 이 순간이 다시 오지 않을 \n우리의 마지막임을 알면서도 \n\n🎧\n지금 모든 음원사이트에서 감상하실 수 있습니다\n\n#위위 #seeyousoon https://t.co/tdlVC3mQ08",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "seeyousoon",
+					"indices": [
+						116,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490614440718336000,
+					"id_str": "1490614440718336000",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-576wVgAA1mQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-576wVgAA1mQ8.jpg",
+					"url": "https://t.co/tdlVC3mQ08",
+					"display_url": "pic.twitter.com/tdlVC3mQ08",
+					"expanded_url": "https://twitter.com/inplanet/status/1490614451984220160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490614440718336000,
+					"id_str": "1490614440718336000",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-576wVgAA1mQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-576wVgAA1mQ8.jpg",
+					"url": "https://t.co/tdlVC3mQ08",
+					"display_url": "pic.twitter.com/tdlVC3mQ08",
+					"expanded_url": "https://twitter.com/inplanet/status/1490614451984220160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1434,
+			"friends_count": 772,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OuiOui \n\nOuiOui 위위 “see you soon” Out Now❕\n\n📷\n지금 이 순간이 다시 오지 않을 \n우리의 마지막임을 알면서도 \n\n🎧\n지금 모든 음원사이트에서 감상하실 수 있습니다\n\n#위위 #seeyousoon https://t.co/tdlVC3mQ08"
+	},
+	{
+		"created_at": "Mon Feb 07 09:29:36 +0000 2022",
+		"id": 1490613056506044400,
+		"id_str": "1490618739708121091",
+		"full_text": "윤석철이 원필 (DAY6) 1st Album &lt;Pilmography&gt; 6번 트랙 '언젠가 봄은 찾아올 거야'에 작곡, 편곡으로 함께했습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/tTjFJ8I99k \nGenie https://t.co/4TqKMcufqH \nBugs https://t.co/DJ18ZSFEvz \nFLO https://t.co/PPTwullRzY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tTjFJ8I99k",
+					"expanded_url": "http://bit.ly/3gvaTrs",
+					"display_url": "bit.ly/3gvaTrs",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/4TqKMcufqH",
+					"expanded_url": "http://bit.ly/3Htnl6K",
+					"display_url": "bit.ly/3Htnl6K",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/DJ18ZSFEvz",
+					"expanded_url": "http://bit.ly/3snMZDK",
+					"display_url": "bit.ly/3snMZDK",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/PPTwullRzY",
+					"expanded_url": "http://bit.ly/3gsTnEg",
+					"display_url": "bit.ly/3gsTnEg",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1490613054115291100,
+		"in_reply_to_status_id_str": "1490613054115291139",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40336,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윤석철이 원필 (DAY6) 1st Album &lt;Pilmography&gt; 6번 트랙 '언젠가 봄은 찾아올 거야'에 작곡, 편곡으로 함께했습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/tTjFJ8I99k \nGenie https://t.co/4TqKMcufqH \nBugs https://t.co/DJ18ZSFEvz \nFLO https://t.co/PPTwullRzY"
+	},
+	{
+		"created_at": "Mon Feb 07 09:29:31 +0000 2022",
+		"id": 1490613054115291100,
+		"id_str": "1490618718275219457",
+		"full_text": "[#Release] #윤석철\n\n원필 1st Album &lt;Pilmography&gt;\nTrack 6. 언젠가 봄은 찾아올 거야\n\nLyrics by 원필\nComposed by 윤석철\nArranged by 윤석철\n\n@SCJAZZY \n#YunSeokCheol #DAY6 #데이식스 #원필 #WONPIL\n#Pilmography #언젠가봄은찾아올거야 https://t.co/H0lynat3Si",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "데이식스",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "원필",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "WONPIL",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "Pilmography",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"text": "언젠가봄은찾아올거야",
+					"indices": [
+						181,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490613048666894300,
+					"id_str": "1490613048666894341",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-4q49aMAU5bC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-4q49aMAU5bC3.jpg",
+					"url": "https://t.co/H0lynat3Si",
+					"display_url": "pic.twitter.com/H0lynat3Si",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490613054115291139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490613048666894300,
+					"id_str": "1490613048666894341",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-4q49aMAU5bC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-4q49aMAU5bC3.jpg",
+					"url": "https://t.co/H0lynat3Si",
+					"display_url": "pic.twitter.com/H0lynat3Si",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490613054115291139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40336,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #윤석철\n\n원필 1st Album &lt;Pilmography&gt;\nTrack 6. 언젠가 봄은 찾아올 거야\n\nLyrics by 원필\nComposed by 윤석철\nArranged by 윤석철\n\n@SCJAZZY \n#YunSeokCheol #DAY6 #데이식스 #원필 #WONPIL\n#Pilmography #언젠가봄은찾아올거야 https://t.co/H0lynat3Si"
+	},
+	{
 		"created_at": "Mon Feb 07 09:00:07 +0000 2022",
 		"id": 1490611320470880300,
 		"id_str": "1490611320470880259",
