@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 03:11:22 +0000 2022",
+		"id": 1490520944237953000,
+		"id_str": "1490523552927387649",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;너드커넥션 단독 콘서트 : 롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 03월 04일 (금) 오후 8시, 03월 05일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 너드커넥션\n· 예매 :🥝멜론티켓 https://t.co/AQCgke9Qte\n⠀\n#롤링홀 #너드커넥션 https://t.co/f8WT5Q0UAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						190,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AQCgke9Qte",
+					"expanded_url": "https://bit.ly/34hdv9y",
+					"display_url": "bit.ly/34hdv9y",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490278859190997000,
+					"id_str": "1490278859190997004",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1490278859190997004/pu/img/ImAlSlfud9tMD772.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1490278859190997004/pu/img/ImAlSlfud9tMD772.jpg",
+					"url": "https://t.co/f8WT5Q0UAI",
+					"display_url": "pic.twitter.com/f8WT5Q0UAI",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1490520944237953026/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490278859190997000,
+					"id_str": "1490278859190997004",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1490278859190997004/pu/img/ImAlSlfud9tMD772.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1490278859190997004/pu/img/ImAlSlfud9tMD772.jpg",
+					"url": "https://t.co/f8WT5Q0UAI",
+					"display_url": "pic.twitter.com/f8WT5Q0UAI",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1490520944237953026/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1490278859190997004/pu/pl/z6x1ksPs8xUKkLn3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490278859190997004/pu/vid/540x540/z2DpW9_zNh5A-PYT.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490278859190997004/pu/vid/320x320/Hdsem48UhBqou5HQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490278859190997004/pu/vid/720x720/591RlCg59xB_dqZm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;너드커넥션 단독 콘서트 : 롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 03월 04일 (금) 오후 8시, 03월 05일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 너드커넥션\n· 예매 :🥝멜론티켓 https://t.co/AQCgke9Qte\n⠀\n#롤링홀 #너드커넥션 https://t.co/f8WT5Q0UAI"
+	},
+	{
+		"created_at": "Mon Feb 07 03:11:17 +0000 2022",
+		"id": 1490520696056782800,
+		"id_str": "1490523531293122564",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n　\n2차 라인업 공연이 모두 오픈되었습니다!👏👏👏\n이런 멋진 아티스트들을 롤링홀에서 전부 만나볼 수 있다 생각하니 벌써부터 설레지 않나요?!\n곧 발표될 3차 라인업도 많은 기대 부탁드립니다💃🕺\n예매 : 🍈https://t.co/n6wsGjLAqr https://t.co/XZqLkmTW7w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n6wsGjLAqr",
+					"expanded_url": "http://bit.ly/3mRAzSr",
+					"display_url": "bit.ly/3mRAzSr",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490278672506720300,
+					"id_str": "1490278672506720262",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FK6IjosakAYdfJE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK6IjosakAYdfJE.jpg",
+					"url": "https://t.co/XZqLkmTW7w",
+					"display_url": "pic.twitter.com/XZqLkmTW7w",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1490520696056782848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490278672506720300,
+					"id_str": "1490278672506720262",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FK6IjosakAYdfJE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK6IjosakAYdfJE.jpg",
+					"url": "https://t.co/XZqLkmTW7w",
+					"display_url": "pic.twitter.com/XZqLkmTW7w",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1490520696056782848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n　\n2차 라인업 공연이 모두 오픈되었습니다!👏👏👏\n이런 멋진 아티스트들을 롤링홀에서 전부 만나볼 수 있다 생각하니 벌써부터 설레지 않나요?!\n곧 발표될 3차 라인업도 많은 기대 부탁드립니다💃🕺\n예매 : 🍈https://t.co/n6wsGjLAqr https://t.co/XZqLkmTW7w"
+	},
+	{
+		"created_at": "Mon Feb 07 02:29:29 +0000 2022",
+		"id": 1490506145441923000,
+		"id_str": "1490513012704387074",
+		"full_text": "DO KYUNGSOO X WON JINA finished filming the movie ‘Secret’!\n\nhttps://t.co/IDuA2HGJji \n\n#DOKYUNGSOO #도경수 \n#말할수없는비밀 #Secret \n#EXO #엑소",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOKYUNGSOO",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "도경수",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "말할수없는비밀",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "Secret",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						128,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IDuA2HGJji",
+					"expanded_url": "https://bit.ly/3owgl1D",
+					"display_url": "bit.ly/3owgl1D",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10568820,
+			"friends_count": 56,
+			"listed_count": 11705,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11666,
+		"favorite_count": 24619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DO KYUNGSOO X WON JINA finished filming the movie ‘Secret’!\n\nhttps://t.co/IDuA2HGJji \n\n#DOKYUNGSOO #도경수 \n#말할수없는비밀 #Secret \n#EXO #엑소"
+	},
+	{
 		"created_at": "Mon Feb 07 01:40:05 +0000 2022",
 		"id": 1490500581592608800,
 		"id_str": "1490500581592608768",
