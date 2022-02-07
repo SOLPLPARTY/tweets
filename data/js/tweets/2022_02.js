@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 12:11:17 +0000 2022",
+		"id": 1490659387848855600,
+		"id_str": "1490659427011244033",
+		"full_text": "혹시 친구들 중에 빵 사진 있는 분들 저에게 보내주실래요? 제가 사진이 별로 없어서~ 그리고 누구 아이디어인데 예전 빵 영상 있으면 빵유튜브채널에 올리자~ 그래서 사진이나 영상 있으면 좀 보내주세요~ cafebbang@hanmail.net 으로 아니면 직접 주셔도 무지 좋습니다~ #클럽빵 #빵사진 #빵영상 https://t.co/Odk7eooSBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "빵사진",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "빵영상",
+					"indices": [
+						167,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490659381297676300,
+					"id_str": "1490659381297676289",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FK_izzdaAAEJsw1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK_izzdaAAEJsw1.jpg",
+					"url": "https://t.co/Odk7eooSBG",
+					"display_url": "pic.twitter.com/Odk7eooSBG",
+					"expanded_url": "https://twitter.com/club_bbang/status/1490659387848855560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490659381297676300,
+					"id_str": "1490659381297676289",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FK_izzdaAAEJsw1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK_izzdaAAEJsw1.jpg",
+					"url": "https://t.co/Odk7eooSBG",
+					"display_url": "pic.twitter.com/Odk7eooSBG",
+					"expanded_url": "https://twitter.com/club_bbang/status/1490659387848855560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2508,
+			"friends_count": 874,
+			"listed_count": 0,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혹시 친구들 중에 빵 사진 있는 분들 저에게 보내주실래요? 제가 사진이 별로 없어서~ 그리고 누구 아이디어인데 예전 빵 영상 있으면 빵유튜브채널에 올리자~ 그래서 사진이나 영상 있으면 좀 보내주세요~ cafebbang@hanmail.net 으로 아니면 직접 주셔도 무지 좋습니다~ #클럽빵 #빵사진 #빵영상 https://t.co/Odk7eooSBG"
+	},
+	{
 		"created_at": "Mon Feb 07 10:29:24 +0000 2022",
 		"id": 1490627057692602400,
 		"id_str": "1490633789877497856",
