@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 06:29:24 +0000 2022",
+		"id": 1490921816797610000,
+		"id_str": "1490935779836715012",
+		"full_text": "유어썸머 2월 둘째 주 스케줄💌\n\n2/9 (수)\n[랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n2/11(금) 오후 8시 @롤링홀\n[김사월] 김사월 단독 콘서트 : 롤링 27주년 기념 공연\n-\n2/12(토) 오후 5시 @롤링홀\n[김사월] 김사월 단독 콘서트 : 롤링 27주년 기념 공연\n\n#랄라스윗 #김사월 #유어썸머 #스케줄 https://t.co/M2SNqM4N9i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490921811709927400,
+					"id_str": "1490921811709927425",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FLDRfQ7aIAE2xaF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLDRfQ7aIAE2xaF.jpg",
+					"url": "https://t.co/M2SNqM4N9i",
+					"display_url": "pic.twitter.com/M2SNqM4N9i",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1490921816797609987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1277,
+							"h": 1278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490921811709927400,
+					"id_str": "1490921811709927425",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FLDRfQ7aIAE2xaF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLDRfQ7aIAE2xaF.jpg",
+					"url": "https://t.co/M2SNqM4N9i",
+					"display_url": "pic.twitter.com/M2SNqM4N9i",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1490921816797609987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1277,
+							"h": 1278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유어썸머 2월 둘째 주 스케줄💌\n\n2/9 (수)\n[랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n2/11(금) 오후 8시 @롤링홀\n[김사월] 김사월 단독 콘서트 : 롤링 27주년 기념 공연\n-\n2/12(토) 오후 5시 @롤링홀\n[김사월] 김사월 단독 콘서트 : 롤링 27주년 기념 공연\n\n#랄라스윗 #김사월 #유어썸머 #스케줄 https://t.co/M2SNqM4N9i"
+	},
+	{
 		"created_at": "Tue Feb 08 03:42:50 +0000 2022",
 		"id": 1490893861828317200,
 		"id_str": "1490893861828317191",
@@ -145,7 +349,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Tue Feb 08 03:29:51 +0000 2022",
 		"id": 1490883088083083300,
 		"id_str": "1490890593685458945",
-		"full_text": "COME BACK!📢\n롤링쿼츠 (Rolling Quartz)가 첫번째 미니 앨범 '화이팅 (Fighting)'으로 돌아왔습니다!💎❤️‍🔥\n\nRolling Quartz is back with their brand new first mini album 'Fighting'!💎❤️‍🔥\n\n롤링쿼츠 (Rolling Quartz) [화이팅 (Fighting)]\n2022.02.08 TUE PM12 (KST)\n\n@Rolling_Quartz https://t.co/dwFlaj3EIQ",
+		"full_text": "COME BACK!📢\n롤링쿼츠 (Rolling Quartz)가 첫번째 미니 앨범 '화이팅 (Fighting)'으로 돌아왔습니다!💎❤️🔥\n\nRolling Quartz is back with their brand new first mini album 'Fighting'!💎❤️🔥\n\n롤링쿼츠 (Rolling Quartz) [화이팅 (Fighting)]\n2022.02.08 TUE PM12 (KST)\n\n@Rolling_Quartz https://t.co/dwFlaj3EIQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -366,7 +570,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "COME BACK!📢\n롤링쿼츠 (Rolling Quartz)가 첫번째 미니 앨범 '화이팅 (Fighting)'으로 돌아왔습니다!💎❤️‍🔥\n\nRolling Quartz is back with their brand new first mini album 'Fighting'!💎❤️‍🔥\n\n롤링쿼츠 (Rolling Quartz) [화이팅 (Fighting)]\n2022.02.08 TUE PM12 (KST)\n\n@Rolling_Quartz https://t.co/dwFlaj3EIQ"
+		"text": "COME BACK!📢\n롤링쿼츠 (Rolling Quartz)가 첫번째 미니 앨범 '화이팅 (Fighting)'으로 돌아왔습니다!💎❤️🔥\n\nRolling Quartz is back with their brand new first mini album 'Fighting'!💎❤️🔥\n\n롤링쿼츠 (Rolling Quartz) [화이팅 (Fighting)]\n2022.02.08 TUE PM12 (KST)\n\n@Rolling_Quartz https://t.co/dwFlaj3EIQ"
 	},
 	{
 		"created_at": "Tue Feb 08 03:29:43 +0000 2022",
