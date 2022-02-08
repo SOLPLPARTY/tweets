@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 11:29:24 +0000 2022",
+		"id": 1490999251333427200,
+		"id_str": "1491011277124157440",
+		"full_text": "[#Notice] #윤석철\n\n2022 윤석철트리오 단독공연 ‘익숙하고 일정한’\n잠시 후 8시 티켓 예매가 시작됩니다!\n\n▶️ https://t.co/NuFv53RLzm\n\n@SCJAZZY\n#YunSeokCheol #YunSeokCheolTrio\n#윤석철트리오 #익숙하고일정한 #단독공연 https://t.co/G2nUOZJj7n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "YunSeokCheolTrio",
+					"indices": [
+						118,
+						135
+					]
+				},
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						153,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NuFv53RLzm",
+					"expanded_url": "http://kko.to/U5_GyF74H",
+					"display_url": "kko.to/U5_GyF74H",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490999245247512600,
+					"id_str": "1490999245247512576",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEX6fVagAA9Kw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEX6fVagAA9Kw4.jpg",
+					"url": "https://t.co/G2nUOZJj7n",
+					"display_url": "pic.twitter.com/G2nUOZJj7n",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490999251333427201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490999245247512600,
+					"id_str": "1490999245247512576",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEX6fVagAA9Kw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEX6fVagAA9Kw4.jpg",
+					"url": "https://t.co/G2nUOZJj7n",
+					"display_url": "pic.twitter.com/G2nUOZJj7n",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490999251333427201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40342,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #윤석철\n\n2022 윤석철트리오 단독공연 ‘익숙하고 일정한’\n잠시 후 8시 티켓 예매가 시작됩니다!\n\n▶️ https://t.co/NuFv53RLzm\n\n@SCJAZZY\n#YunSeokCheol #YunSeokCheolTrio\n#윤석철트리오 #익숙하고일정한 #단독공연 https://t.co/G2nUOZJj7n"
+	},
+	{
 		"created_at": "Tue Feb 08 11:11:17 +0000 2022",
 		"id": 1491002592608264200,
 		"id_str": "1491006716644839424",
