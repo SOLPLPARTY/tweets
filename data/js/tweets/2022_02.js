@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 14:29:34 +0000 2022",
+		"id": 1491047244262686700,
+		"id_str": "1491056615201640450",
+		"full_text": "#정준일 #joonilJung \n정규1집 핑크바이닐 판매가 시작 되었습니다\n#네이버쇼핑 에서 #정준일lp 를 검색\n또는 #네이버 에서 #시도닷컴 검색 \n*블랙LP는 추후 콘서트, 마켓 등 \n오프라인으로만 판매 됩니다\n\n#바이닐 #LP #정규1집 #안아줘\nhttps://t.co/KGHBf9pqZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "joonilJung",
+					"indices": [
+						5,
+						16
+					]
+				},
+				{
+					"text": "네이버쇼핑",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "정준일lp",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "시도닷컴",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "바이닐",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "정규1집",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "안아줘",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KGHBf9pqZk",
+					"expanded_url": "http://naver.me/FlzTFfXl",
+					"display_url": "naver.me/FlzTFfXl",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2644,
+			"friends_count": 333,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 21643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#정준일 #joonilJung \n정규1집 핑크바이닐 판매가 시작 되었습니다\n#네이버쇼핑 에서 #정준일lp 를 검색\n또는 #네이버 에서 #시도닷컴 검색 \n*블랙LP는 추후 콘서트, 마켓 등 \n오프라인으로만 판매 됩니다\n\n#바이닐 #LP #정규1집 #안아줘\nhttps://t.co/KGHBf9pqZk"
+	},
+	{
 		"created_at": "Tue Feb 08 11:29:24 +0000 2022",
 		"id": 1490999251333427200,
 		"id_str": "1491011277124157440",
