@@ -1,6 +1,710 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 03:06:48 +0000 2022",
+		"id": 1490884791029407700,
+		"id_str": "1490884791029407745",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n대니구 (Danny Koo) – Blue Flame [Official Visualizer]\nhttps://t.co/8e8KcysNOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8e8KcysNOh",
+					"expanded_url": "https://youtu.be/ddjrvoryIxY",
+					"display_url": "youtu.be/ddjrvoryIxY",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n대니구 (Danny Koo) – Blue Flame [Official Visualizer]\nhttps://t.co/8e8KcysNOh"
+	},
+	{
+		"created_at": "Tue Feb 08 02:29:37 +0000 2022",
+		"id": 1490871487825608700,
+		"id_str": "1490875435068149760",
+		"full_text": "[#Media] #이진아\n\n이진아가 함께한 리빙센스 2월호 인터뷰와 '뮤직로그' 영상이 공개되었습니다💗\n\n📚리빙센스 2월호 이진아 인터뷰\nhttps://t.co/JRo9JXbnRo\n\n🎬뮤직로그\nhttps://t.co/AWZtLUC9lM\n\n#LeeJinAh #리빙센스 #뮤직로그 https://t.co/jyi3qqNkM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Media",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "리빙센스",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "뮤직로그",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRo9JXbnRo",
+					"expanded_url": "https://bit.ly/35WT2aN",
+					"display_url": "bit.ly/35WT2aN",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/AWZtLUC9lM",
+					"expanded_url": "https://youtu.be/O3M435aH7oY",
+					"display_url": "youtu.be/O3M435aH7oY",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490871482192662500,
+					"id_str": "1490871482192662528",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCjts3akAAmTAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCjts3akAAmTAs.jpg",
+					"url": "https://t.co/jyi3qqNkM6",
+					"display_url": "pic.twitter.com/jyi3qqNkM6",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490871487825608707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490871482192662500,
+					"id_str": "1490871482192662528",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCjts3akAAmTAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCjts3akAAmTAs.jpg",
+					"url": "https://t.co/jyi3qqNkM6",
+					"display_url": "pic.twitter.com/jyi3qqNkM6",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490871487825608707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40343,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Media] #이진아\n\n이진아가 함께한 리빙센스 2월호 인터뷰와 '뮤직로그' 영상이 공개되었습니다💗\n\n📚리빙센스 2월호 이진아 인터뷰\nhttps://t.co/JRo9JXbnRo\n\n🎬뮤직로그\nhttps://t.co/AWZtLUC9lM\n\n#LeeJinAh #리빙센스 #뮤직로그 https://t.co/jyi3qqNkM6"
+	},
+	{
+		"created_at": "Tue Feb 08 02:29:29 +0000 2022",
+		"id": 1490868413077782500,
+		"id_str": "1490875401043914755",
+		"full_text": "Drama ‘한 사람만’ ends today! PARK SOOYOUNG of Red Velvet to show an unexpected ending. \nPARK SOOYOUNG presented ‘The Essence of Human Romance’ with her proven acting skills as a leading actress.\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY \n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/D9gsOKhRpv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						198,
+						211
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						212,
+						215
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						216,
+						220
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						228,
+						238
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						239,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490867812755447800,
+					"id_str": "1490867812755447810",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490867812755447800,
+					"id_str": "1490867812755447810",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1324,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490867812763857000,
+					"id_str": "1490867812763856897",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHLacAE22S4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHLacAE22S4.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490867812759642000,
+					"id_str": "1490867812759642112",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHKaIAAa2vX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHKaIAAa2vX.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490867812763857000,
+					"id_str": "1490867812763856896",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHLacAAeO1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHLacAAeO1E.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10571815,
+			"friends_count": 56,
+			"listed_count": 11716,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2698,
+		"favorite_count": 9140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Drama ‘한 사람만’ ends today! PARK SOOYOUNG of Red Velvet to show an unexpected ending. \nPARK SOOYOUNG presented ‘The Essence of Human Romance’ with her proven acting skills as a leading actress.\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY \n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/D9gsOKhRpv"
+	},
+	{
 		"created_at": "Mon Feb 07 14:29:25 +0000 2022",
 		"id": 1490686356326334500,
 		"id_str": "1490694188878471172",
