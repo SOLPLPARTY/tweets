@@ -1,6 +1,1087 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 11:11:17 +0000 2022",
+		"id": 1491002592608264200,
+		"id_str": "1491006716644839424",
+		"full_text": "성진영 - 정직한 마음 @ 재미공작소 2022.02.05 https://t.co/bni3S1KmZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bni3S1KmZk",
+					"expanded_url": "https://youtu.be/F9uuU-xAIz8",
+					"display_url": "youtu.be/F9uuU-xAIz8",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8376,
+			"friends_count": 557,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성진영 - 정직한 마음 @ 재미공작소 2022.02.05 https://t.co/bni3S1KmZk"
+	},
+	{
+		"created_at": "Tue Feb 08 10:29:50 +0000 2022",
+		"id": 1490992532343652400,
+		"id_str": "1490996284395827202",
+		"full_text": "✨New K-POP✨\n#ATEEZ (#에이티즈)(@ATEEZofficial)의 'Don't Stop'이 ANGHAMI(@anghami) 'New K-POP' 플레이리스트 커버를 장식하였습니다😎✨\n⠀\nCheck out 'ATEEZ' on 'Don't Stop' playlist on #ANGHAMI⠀\n🎶https://t.co/x3y5w9L6jg\n\n#UNIVERSE #DontStop\n#UNIVERSE_MUSIC @into__universe https://t.co/kqQTj7F8wl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATEEZ",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "에이티즈",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "ANGHAMI",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "UNIVERSE",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "DontStop",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "UNIVERSE_MUSIC",
+					"indices": [
+						213,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATEEZofficial",
+					"name": "ATEEZ(에이티즈)",
+					"id": 923415570522914800,
+					"id_str": "923415570522914819",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "anghami",
+					"name": "Anghami",
+					"id": 273360241,
+					"id_str": "273360241",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"screen_name": "into__universe",
+					"name": "UNIVERSE_OFFICIAL",
+					"id": 1301330441786462200,
+					"id_str": "1301330441786462209",
+					"indices": [
+						229,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x3y5w9L6jg",
+					"expanded_url": "https://g.angha.me/pw2wqk",
+					"display_url": "g.angha.me/pw2wqk",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490992225790349300,
+					"id_str": "1490992225790349313",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLERh50aUAEDNYb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLERh50aUAEDNYb.jpg",
+					"url": "https://t.co/kqQTj7F8wl",
+					"display_url": "pic.twitter.com/kqQTj7F8wl",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1490992532343652353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490992225790349300,
+					"id_str": "1490992225790349313",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLERh50aUAEDNYb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLERh50aUAEDNYb.jpg",
+					"url": "https://t.co/kqQTj7F8wl",
+					"display_url": "pic.twitter.com/kqQTj7F8wl",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1490992532343652353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54280,
+			"friends_count": 495,
+			"listed_count": 200,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨New K-POP✨\n#ATEEZ (#에이티즈)(@ATEEZofficial)의 'Don't Stop'이 ANGHAMI(@anghami) 'New K-POP' 플레이리스트 커버를 장식하였습니다😎✨\n⠀\nCheck out 'ATEEZ' on 'Don't Stop' playlist on #ANGHAMI⠀\n🎶https://t.co/x3y5w9L6jg\n\n#UNIVERSE #DontStop\n#UNIVERSE_MUSIC @into__universe https://t.co/kqQTj7F8wl"
+	},
+	{
+		"created_at": "Tue Feb 08 10:29:48 +0000 2022",
+		"id": 1490988784929833000,
+		"id_str": "1490996275537403910",
+		"full_text": "[#Video] #이진아\n\n이진아 싱글 '람팜팜(Rum Pum Pum)'\nLee Jin Ah Single 'Rum Pum Pum'\n\n💗 ‘choco (Prod. DPR CREAM / Feat. SOLE)’ Special Video\nhttps://t.co/B3p8BFNgsL\n\n#LeeJinAh \n#람팜팜 #RumPumPum\n#choco #DPRCREAM #SOLE https://t.co/KWP7v8zcSi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "람팜팜",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "RumPumPum",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "choco",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "DPRCREAM",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "SOLE",
+					"indices": [
+						198,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B3p8BFNgsL",
+					"expanded_url": "https://youtu.be/Il9RyetOS7c",
+					"display_url": "youtu.be/Il9RyetOS7c",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490981656509173800,
+					"id_str": "1490981656509173760",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEIOTtagAI4R2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEIOTtagAI4R2Z.jpg",
+					"url": "https://t.co/KWP7v8zcSi",
+					"display_url": "pic.twitter.com/KWP7v8zcSi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490988784929832962/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490981656509173800,
+					"id_str": "1490981656509173760",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEIOTtagAI4R2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEIOTtagAI4R2Z.jpg",
+					"url": "https://t.co/KWP7v8zcSi",
+					"display_url": "pic.twitter.com/KWP7v8zcSi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1490988784929832962/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 258083,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1490981656509173760/vid/480x270/dlRKVa25h4WtGYUi.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1490981656509173760/vid/640x360/8Q4VvA37p5AaKCzo.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1490981656509173760/vid/1280x720/qMvWyx7rSqBs3zhO.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1490981656509173760/pl/h5y4OvNuoBY95TgF.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "이진아 - ‘choco (Prod. DPR CREAM / Feat. SOLE)’ Special Video",
+						"description": "이진아 싱글 '람팜팜(Rum Pum Pum)'\nLee Jin Ah Single 'Rum Pum Pum'",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/Il9RyetOS7c"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40343,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #이진아\n\n이진아 싱글 '람팜팜(Rum Pum Pum)'\nLee Jin Ah Single 'Rum Pum Pum'\n\n💗 ‘choco (Prod. DPR CREAM / Feat. SOLE)’ Special Video\nhttps://t.co/B3p8BFNgsL\n\n#LeeJinAh \n#람팜팜 #RumPumPum\n#choco #DPRCREAM #SOLE https://t.co/KWP7v8zcSi"
+	},
+	{
+		"created_at": "Tue Feb 08 10:29:38 +0000 2022",
+		"id": 1490985655102750700,
+		"id_str": "1490996237264470018",
+		"full_text": "✨K-Pop - TIDAL Masters✨\n한동근(@_DONNY_HAN)의  \"Ask Of You\"가 TIDAL(@tidal) \"K-Pop - TIDAL Masters\" 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out HANDONGGEUN on 'Ask Of You' playlist on TIDAL\n\n🎶https://t.co/pvCXTFhOyZ\n\n#한동근 #HANDONGGEUN #AskOfYou @BN_Music https://t.co/LD7f5cYrl8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한동근",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "HANDONGGEUN",
+					"indices": [
+						205,
+						217
+					]
+				},
+				{
+					"text": "AskOfYou",
+					"indices": [
+						218,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_DONNY_HAN",
+					"name": "한동근",
+					"id": 2278627904,
+					"id_str": "2278627904",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"screen_name": "BN_Music",
+					"name": "BRANDNEW MUSIC",
+					"id": 346501698,
+					"id_str": "346501698",
+					"indices": [
+						228,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pvCXTFhOyZ",
+					"expanded_url": "http://TIDAL.link/KPopMasters",
+					"display_url": "TIDAL.link/KPopMasters",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490985353700077600,
+					"id_str": "1490985353700077571",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FLELR5SacAMJ4ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLELR5SacAMJ4ts.jpg",
+					"url": "https://t.co/LD7f5cYrl8",
+					"display_url": "pic.twitter.com/LD7f5cYrl8",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1490985655102750721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490985353700077600,
+					"id_str": "1490985353700077571",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FLELR5SacAMJ4ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLELR5SacAMJ4ts.jpg",
+					"url": "https://t.co/LD7f5cYrl8",
+					"display_url": "pic.twitter.com/LD7f5cYrl8",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1490985655102750721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54280,
+			"friends_count": 495,
+			"listed_count": 200,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Pop - TIDAL Masters✨\n한동근(@_DONNY_HAN)의  \"Ask Of You\"가 TIDAL(@tidal) \"K-Pop - TIDAL Masters\" 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out HANDONGGEUN on 'Ask Of You' playlist on TIDAL\n\n🎶https://t.co/pvCXTFhOyZ\n\n#한동근 #HANDONGGEUN #AskOfYou @BN_Music https://t.co/LD7f5cYrl8"
+	},
+	{
+		"created_at": "Tue Feb 08 10:29:29 +0000 2022",
+		"id": 1490985060316885000,
+		"id_str": "1490996198999838722",
+		"full_text": "✨Certified: Hot &amp; New in K-Pop ✨\nJAMIE(제이미)(@jiminpark07)의 'Pity Party'가 TIDAL(@tidal) 'Certified: Hot &amp; New in K-Pop' 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out 'JAMIE' on 'Pity Party' playlist on TIDAL⠀\n🎶https://t.co/HviC8krEBf\n\n#JAMIE #제이미 #PityParty #TIDAL https://t.co/icVKDNeSUG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JAMIE",
+					"indices": [
+						228,
+						234
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						235,
+						239
+					]
+				},
+				{
+					"text": "PityParty",
+					"indices": [
+						240,
+						250
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						251,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jiminpark07",
+					"name": "JIMINxJAMIE",
+					"id": 220195175,
+					"id_str": "220195175",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HviC8krEBf",
+					"expanded_url": "https://bit.ly/3JeD0aK",
+					"display_url": "bit.ly/3JeD0aK",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490984714559049700,
+					"id_str": "1490984714559049728",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEKssTUUAAaR5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEKssTUUAAaR5P.jpg",
+					"url": "https://t.co/icVKDNeSUG",
+					"display_url": "pic.twitter.com/icVKDNeSUG",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1490985060316884993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490984714559049700,
+					"id_str": "1490984714559049728",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FLEKssTUUAAaR5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLEKssTUUAAaR5P.jpg",
+					"url": "https://t.co/icVKDNeSUG",
+					"display_url": "pic.twitter.com/icVKDNeSUG",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1490985060316884993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54280,
+			"friends_count": 495,
+			"listed_count": 200,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨Certified: Hot &amp; New in K-Pop ✨\nJAMIE(제이미)(@jiminpark07)의 'Pity Party'가 TIDAL(@tidal) 'Certified: Hot &amp; New in K-Pop' 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out 'JAMIE' on 'Pity Party' playlist on TIDAL⠀\n🎶https://t.co/HviC8krEBf\n\n#JAMIE #제이미 #PityParty #TIDAL https://t.co/icVKDNeSUG"
+	},
+	{
 		"created_at": "Tue Feb 08 10:11:56 +0000 2022",
 		"id": 1490991781198151700,
 		"id_str": "1490991781198151682",
