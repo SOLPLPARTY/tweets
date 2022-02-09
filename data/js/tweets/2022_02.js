@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 06:29:25 +0000 2022",
+		"id": 1491296797557653500,
+		"id_str": "1491298169325510656",
+		"full_text": "✨Boy Bands : K-Pop Kings✨\n#ATEEZ (#에이티즈)(@ATEEZofficial)의 'Don't Stop'이 #TIDAL(@tidal) 'Boy Bands : K-Pop Kings' 플레이리스트 커버를 장식하였습니다😎✨\n⠀\nCheck out 'ATEEZ' on 'Don't Stop' playlist on TIDAL\n🎶https://t.co/DOoOLjPXZo\n\n#UNIVERSE #DontStop #ATEEZ_DontStop https://t.co/psk1CRWiDg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATEEZ",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "에이티즈",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "UNIVERSE",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"text": "DontStop",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"text": "ATEEZ_DontStop",
+					"indices": [
+						234,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATEEZofficial",
+					"name": "ATEEZ(에이티즈)",
+					"id": 923415570522914800,
+					"id_str": "923415570522914819",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DOoOLjPXZo",
+					"expanded_url": "https://bit.ly/3GBYIDC",
+					"display_url": "bit.ly/3GBYIDC",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491296167891992600,
+					"id_str": "1491296167891992576",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FLIl9qYagAAm3vW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLIl9qYagAAm3vW.jpg",
+					"url": "https://t.co/psk1CRWiDg",
+					"display_url": "pic.twitter.com/psk1CRWiDg",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1491296797557653507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491296167891992600,
+					"id_str": "1491296167891992576",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FLIl9qYagAAm3vW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLIl9qYagAAm3vW.jpg",
+					"url": "https://t.co/psk1CRWiDg",
+					"display_url": "pic.twitter.com/psk1CRWiDg",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1491296797557653507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54286,
+			"friends_count": 495,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨Boy Bands : K-Pop Kings✨\n#ATEEZ (#에이티즈)(@ATEEZofficial)의 'Don't Stop'이 #TIDAL(@tidal) 'Boy Bands : K-Pop Kings' 플레이리스트 커버를 장식하였습니다😎✨\n⠀\nCheck out 'ATEEZ' on 'Don't Stop' playlist on TIDAL\n🎶https://t.co/DOoOLjPXZo\n\n#UNIVERSE #DontStop #ATEEZ_DontStop https://t.co/psk1CRWiDg"
+	},
+	{
 		"created_at": "Wed Feb 09 06:11:36 +0000 2022",
 		"id": 1491287400089546800,
 		"id_str": "1491293686109548548",
