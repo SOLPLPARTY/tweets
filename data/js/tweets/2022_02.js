@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 09:29:35 +0000 2022",
+		"id": 1491338532367257600,
+		"id_str": "1491343510615859204",
+		"full_text": "[VIDEO] [#권혁수] #개인정보보호위원회\n\n쓰레기 불법으로 버리는 사람 얼굴 공개 가능할까요?\n\n👉 https://t.co/kBalqP7Lx8\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #개인정보위TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "개인정보보호위원회",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "개인정보위TV",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kBalqP7Lx8",
+					"expanded_url": "https://youtu.be/MKlLEGReJrk",
+					"display_url": "youtu.be/MKlLEGReJrk",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #개인정보보호위원회\n\n쓰레기 불법으로 버리는 사람 얼굴 공개 가능할까요?\n\n👉 https://t.co/kBalqP7Lx8\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #개인정보위TV"
+	},
+	{
+		"created_at": "Wed Feb 09 09:29:27 +0000 2022",
+		"id": 1491336426390114300,
+		"id_str": "1491343476587474946",
+		"full_text": "ScreaM TOGETHER! \nSHOWME #006 : Anton Borin Teaser\n\n#SHOWME #쇼미 \n#DJ #AntonBorin #안톤보린 \n#ScreaMRecords\n#PinkBlood\n#SMTOWN\n#BeyondLIVE https://t.co/mklcw21eYx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "AntonBorin",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "안톤보린",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491326695340589000,
+					"id_str": "1491326695340589060",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FLJCQ8_UYAAVCOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLJCQ8_UYAAVCOZ.jpg",
+					"url": "https://t.co/mklcw21eYx",
+					"display_url": "pic.twitter.com/mklcw21eYx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1491336426390114304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491326695340589000,
+					"id_str": "1491326695340589060",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FLJCQ8_UYAAVCOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLJCQ8_UYAAVCOZ.jpg",
+					"url": "https://t.co/mklcw21eYx",
+					"display_url": "pic.twitter.com/mklcw21eYx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1491336426390114304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45920,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491326695340589060/vid/1280x720/PwVh0OCMe6oBhIwt.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491326695340589060/vid/480x270/AGoBwv4gDWdODCEY.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491326695340589060/vid/640x360/wDRc7SMovEJKKg8q.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1491326695340589060/pl/uDRNrL6RzuaC0JNV.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10576751,
+			"friends_count": 56,
+			"listed_count": 11721,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 1431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ScreaM TOGETHER! \nSHOWME #006 : Anton Borin Teaser\n\n#SHOWME #쇼미 \n#DJ #AntonBorin #안톤보린 \n#ScreaMRecords\n#PinkBlood\n#SMTOWN\n#BeyondLIVE https://t.co/mklcw21eYx"
+	},
+	{
 		"created_at": "Wed Feb 09 09:02:18 +0000 2022",
 		"id": 1491336643667714000,
 		"id_str": "1491336643667714051",
