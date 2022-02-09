@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 15:29:31 +0000 2022",
+		"id": 1491426753788924000,
+		"id_str": "1491434089483751424",
+		"full_text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n　\n선미의 데뷔 15주년을 진심으로 축하합니다!\nSUNMI Debut 15th Anniversary🎉\n　\n선미💜미야네\n앞으로도 쭈욱 함께해요!🤝 \n　\n#선미 #SUNMI #miyane\n#SUNMI_Debut_15th_Anniversary https://t.co/4dDSHqcmNa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "miyane",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "SUNMI_Debut_15th_Anniversary",
+					"indices": [
+						117,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4dDSHqcmNa",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1491426662314954752",
+					"display_url": "twitter.com/official_sunmi…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149515,
+			"friends_count": 8,
+			"listed_count": 251,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1491426662314954800,
+		"quoted_status_id_str": "1491426662314954752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4dDSHqcmNa",
+			"expanded": "https://twitter.com/official_sunmi_/status/1491426662314954752",
+			"display": "twitter.com/official_sunmi…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 09 15:00:00 +0000 2022",
+			"id": 1491426662314954800,
+			"id_str": "1491426662314954752",
+			"full_text": "선미의 데뷔 15주년을 진심으로 축하합니다!\nSUNMI Debut 15th Anniversary🎉\n　\n선미💜미야네\n앞으로도 쭈욱 함께해요!🤝 \n　\n#선미 #SUNMI #miyane\n#SUNMI_Debut_15th_Anniversary https://t.co/R9520JN9xV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "선미",
+						"indices": [
+							82,
+							85
+						]
+					},
+					{
+						"text": "SUNMI",
+						"indices": [
+							86,
+							92
+						]
+					},
+					{
+						"text": "miyane",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "SUNMI_Debut_15th_Anniversary",
+						"indices": [
+							101,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1491364269472256000,
+						"id_str": "1491364269472256000",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FLJj5siakAA0Ene.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLJj5siakAA0Ene.jpg",
+						"url": "https://t.co/R9520JN9xV",
+						"display_url": "pic.twitter.com/R9520JN9xV",
+						"expanded_url": "https://twitter.com/official_sunmi_/status/1491426662314954752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1491364269472256000,
+						"id_str": "1491364269472256000",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FLJj5siakAA0Ene.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLJj5siakAA0Ene.jpg",
+						"url": "https://t.co/R9520JN9xV",
+						"display_url": "pic.twitter.com/R9520JN9xV",
+						"expanded_url": "https://twitter.com/official_sunmi_/status/1491426662314954752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895202531978104800,
+				"id_str": "895202531978104832",
+				"name": "선미 SUNMI",
+				"screen_name": "official_sunmi_",
+				"location": "",
+				"description": "SUNMI Official Twitter",
+				"url": "https://t.co/IWYSAXZHpp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IWYSAXZHpp",
+								"expanded_url": "https://youtu.be/IFMpT3WGOEk",
+								"display_url": "youtu.be/IFMpT3WGOEk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 379157,
+				"friends_count": 2,
+				"listed_count": 1707,
+				"created_at": "Wed Aug 09 08:38:10 +0000 2017",
+				"favourites_count": 24,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2082,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1419493637595885575/X8z1Q0Jf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419493637595885575/X8z1Q0Jf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895202531978104832/1627268631",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1794,
+			"favorite_count": 4988,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 372,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n　\n선미의 데뷔 15주년을 진심으로 축하합니다!\nSUNMI Debut 15th Anniversary🎉\n　\n선미💜미야네\n앞으로도 쭈욱 함께해요!🤝 \n　\n#선미 #SUNMI #miyane\n#SUNMI_Debut_15th_Anniversary https://t.co/4dDSHqcmNa"
+	},
+	{
 		"created_at": "Wed Feb 09 13:38:02 +0000 2022",
 		"id": 1491406033876570000,
 		"id_str": "1491406033876570112",
