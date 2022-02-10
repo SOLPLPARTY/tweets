@@ -1,6 +1,1226 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 07:11:16 +0000 2022",
+		"id": 1491662119837732900,
+		"id_str": "1491671092318064640",
+		"full_text": "내 옆의 평범한 디자인 전공자들 12인과 함께 서로의 고민과 약점을 허심탄회하게 나눈 인터뷰집 &lt; Not Cool Designers &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ https://t.co/xD47vaBNWI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491662114871603200,
+					"id_str": "1491662114871603200",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNyylHUcAAIaMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNyylHUcAAIaMN.jpg",
+					"url": "https://t.co/xD47vaBNWI",
+					"display_url": "pic.twitter.com/xD47vaBNWI",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1491662119837732866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491662114871603200,
+					"id_str": "1491662114871603200",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNyylHUcAAIaMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNyylHUcAAIaMN.jpg",
+					"url": "https://t.co/xD47vaBNWI",
+					"display_url": "pic.twitter.com/xD47vaBNWI",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1491662119837732866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 옆의 평범한 디자인 전공자들 12인과 함께 서로의 고민과 약점을 허심탄회하게 나눈 인터뷰집 &lt; Not Cool Designers &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ https://t.co/xD47vaBNWI"
+	},
+	{
+		"created_at": "Thu Feb 10 07:06:26 +0000 2022",
+		"id": 1491669872270532600,
+		"id_str": "1491669872270532609",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n당신의 이상형은? 이모걸👩‍🎤 | 머신 건 켈리 (Machine Gun Kelly) - emo girl ft. WILLOW (가사/한글/해석)\nhttps://t.co/pUT9diQiKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pUT9diQiKS",
+					"expanded_url": "https://youtu.be/JeLlH4XzP6U",
+					"display_url": "youtu.be/JeLlH4XzP6U",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n당신의 이상형은? 이모걸👩‍🎤 | 머신 건 켈리 (Machine Gun Kelly) - emo girl ft. WILLOW (가사/한글/해석)\nhttps://t.co/pUT9diQiKS"
+	},
+	{
+		"created_at": "Thu Feb 10 06:29:46 +0000 2022",
+		"id": 1491656359787786200,
+		"id_str": "1491660644575240192",
+		"full_text": "[정준일] 정규1집 'Lo9ve3r4s' 핑크 바이닐(LP) 판매 https://t.co/HDred8Mjl5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HDred8Mjl5",
+					"expanded_url": "http://blog.naver.com/mymusicent/222643967588",
+					"display_url": "blog.naver.com/mymusicent/222…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2643,
+			"friends_count": 333,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 21655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[정준일] 정규1집 'Lo9ve3r4s' 핑크 바이닐(LP) 판매 https://t.co/HDred8Mjl5"
+	},
+	{
+		"created_at": "Thu Feb 10 06:29:40 +0000 2022",
+		"id": 1491651429677019100,
+		"id_str": "1491660623163318274",
+		"full_text": "[#홍자] '빅이슈' 화보 비하인드 네이버 포스트 OPEN ✅\n\n화보까지 섭렵한 눈부신 홍자의 모습 가득 담아왔어요🌟\n더 많은 사진은 포스트에서💜\n\n▶ https://t.co/bCbnWDtTos\n\n#HONGJA #빅이슈 #BIGISSUE #NaverPost https://t.co/wPKRVQaafP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "BIGISSUE",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "NaverPost",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bCbnWDtTos",
+					"expanded_url": "http://naver.me/G3KZOnCQ",
+					"display_url": "naver.me/G3KZOnCQ",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491651423368773600,
+					"id_str": "1491651423368773636",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNpEQKaAAQGbsl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNpEQKaAAQGbsl.jpg",
+					"url": "https://t.co/wPKRVQaafP",
+					"display_url": "pic.twitter.com/wPKRVQaafP",
+					"expanded_url": "https://twitter.com/themysticstory/status/1491651429677019136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491651423368773600,
+					"id_str": "1491651423368773636",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNpEQKaAAQGbsl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNpEQKaAAQGbsl.jpg",
+					"url": "https://t.co/wPKRVQaafP",
+					"display_url": "pic.twitter.com/wPKRVQaafP",
+					"expanded_url": "https://twitter.com/themysticstory/status/1491651429677019136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1491651423343607800,
+					"id_str": "1491651423343607813",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNpEQEaAAUjYQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNpEQEaAAUjYQb.jpg",
+					"url": "https://t.co/wPKRVQaafP",
+					"display_url": "pic.twitter.com/wPKRVQaafP",
+					"expanded_url": "https://twitter.com/themysticstory/status/1491651429677019136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33156,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1642520561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] '빅이슈' 화보 비하인드 네이버 포스트 OPEN ✅\n\n화보까지 섭렵한 눈부신 홍자의 모습 가득 담아왔어요🌟\n더 많은 사진은 포스트에서💜\n\n▶ https://t.co/bCbnWDtTos\n\n#HONGJA #빅이슈 #BIGISSUE #NaverPost https://t.co/wPKRVQaafP"
+	},
+	{
+		"created_at": "Thu Feb 10 06:29:34 +0000 2022",
+		"id": 1491641559825391600,
+		"id_str": "1491660597544501250",
+		"full_text": "[#GSoul]\nGSoul (지소울) Natural [한정판 LP] 판매 링크 안내 \n\n알라딘 \n🔗https://t.co/FaRtw3sfdQ\n\nKTOWN4U \n🔗https://t.co/3UirmASDFt\n\n핫트랙스\n🔗https://t.co/ujA3TCOPJg\n\nYES24\n🔗https://t.co/3HLNpA6FcY\n\n인터파크\n🔗https://t.co/TBllX3lPqP\n\n#GSoul #지소울 #Natural #LP https://t.co/dyGho9bFnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSoul",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						216,
+						220
+					]
+				},
+				{
+					"text": "Natural",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						230,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FaRtw3sfdQ",
+					"expanded_url": "https://bit.ly/3LA3NjN",
+					"display_url": "bit.ly/3LA3NjN",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/3UirmASDFt",
+					"expanded_url": "https://bit.ly/3oBX8eO",
+					"display_url": "bit.ly/3oBX8eO",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/ujA3TCOPJg",
+					"expanded_url": "https://bit.ly/3LgSb4O",
+					"display_url": "bit.ly/3LgSb4O",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/3HLNpA6FcY",
+					"expanded_url": "https://bit.ly/3LpU8fi",
+					"display_url": "bit.ly/3LpU8fi",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/TBllX3lPqP",
+					"expanded_url": "https://bit.ly/34vTX1w",
+					"display_url": "bit.ly/34vTX1w",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491635320143904800,
+					"id_str": "1491635320143904769",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNaa6-agAE8nbY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNaa6-agAE8nbY.jpg",
+					"url": "https://t.co/dyGho9bFnC",
+					"display_url": "pic.twitter.com/dyGho9bFnC",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1491641559825391619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491635320143904800,
+					"id_str": "1491635320143904769",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNaa6-agAE8nbY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNaa6-agAE8nbY.jpg",
+					"url": "https://t.co/dyGho9bFnC",
+					"display_url": "pic.twitter.com/dyGho9bFnC",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1491641559825391619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1491635334899462100,
+					"id_str": "1491635334899462144",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNabx8acAATQzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNabx8acAATQzQ.jpg",
+					"url": "https://t.co/dyGho9bFnC",
+					"display_url": "pic.twitter.com/dyGho9bFnC",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1491641559825391619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 865,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 507,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54312,
+			"friends_count": 495,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#GSoul]\nGSoul (지소울) Natural [한정판 LP] 판매 링크 안내 \n\n알라딘 \n🔗https://t.co/FaRtw3sfdQ\n\nKTOWN4U \n🔗https://t.co/3UirmASDFt\n\n핫트랙스\n🔗https://t.co/ujA3TCOPJg\n\nYES24\n🔗https://t.co/3HLNpA6FcY\n\n인터파크\n🔗https://t.co/TBllX3lPqP\n\n#GSoul #지소울 #Natural #LP https://t.co/dyGho9bFnC"
+	},
+	{
+		"created_at": "Thu Feb 10 06:29:32 +0000 2022",
+		"id": 1491633692229632000,
+		"id_str": "1491660588728172547",
+		"full_text": "[#GSoul]\n‘BLESSED with Clazz Orchestra’ 예매 안내\n\n⏰\n2022.02.10 (목) 2PM~ \n\n예매처 \n세종문화회관 https://t.co/o0r1nGFEaU\n인터파크 https://t.co/Scrz1WuY0f\nYES24 https://t.co/jRsTnMiIjs\n티켓링크 https://t.co/ZMU3X0bKro\n\n#GSoul #지소울 #THAMA #따마 #BLESSEDwithClazzOrchestra https://t.co/wGkpqhBFA6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSoul",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "THAMA",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "따마",
+					"indices": [
+						215,
+						218
+					]
+				},
+				{
+					"text": "BLESSEDwithClazzOrchestra",
+					"indices": [
+						219,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o0r1nGFEaU",
+					"expanded_url": "https://bit.ly/3uELR17",
+					"display_url": "bit.ly/3uELR17",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/Scrz1WuY0f",
+					"expanded_url": "https://bit.ly/3GCWG6f",
+					"display_url": "bit.ly/3GCWG6f",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/jRsTnMiIjs",
+					"expanded_url": "https://bit.ly/34wswoj",
+					"display_url": "bit.ly/34wswoj",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/ZMU3X0bKro",
+					"expanded_url": "https://bit.ly/3stETJM",
+					"display_url": "bit.ly/3stETJM",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491633477724573700,
+					"id_str": "1491633477724573697",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNYvrbakAEHprp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNYvrbakAEHprp.jpg",
+					"url": "https://t.co/wGkpqhBFA6",
+					"display_url": "pic.twitter.com/wGkpqhBFA6",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1491633692229632002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491633477724573700,
+					"id_str": "1491633477724573697",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FLNYvrbakAEHprp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLNYvrbakAEHprp.jpg",
+					"url": "https://t.co/wGkpqhBFA6",
+					"display_url": "pic.twitter.com/wGkpqhBFA6",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1491633692229632002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54312,
+			"friends_count": 495,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#GSoul]\n‘BLESSED with Clazz Orchestra’ 예매 안내\n\n⏰\n2022.02.10 (목) 2PM~ \n\n예매처 \n세종문화회관 https://t.co/o0r1nGFEaU\n인터파크 https://t.co/Scrz1WuY0f\nYES24 https://t.co/jRsTnMiIjs\n티켓링크 https://t.co/ZMU3X0bKro\n\n#GSoul #지소울 #THAMA #따마 #BLESSEDwithClazzOrchestra https://t.co/wGkpqhBFA6"
+	},
+	{
 		"created_at": "Thu Feb 10 06:11:17 +0000 2022",
 		"id": 1491648402584572000,
 		"id_str": "1491655993033375745",
