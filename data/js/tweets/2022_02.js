@@ -1,6 +1,140 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 02:29:25 +0000 2022",
+		"id": 1491597630706573300,
+		"id_str": "1491600159129673735",
+		"full_text": "[#GSoul] \n지소울, 'Natural' 오늘(10일) 한정판 LP로 재탄생..새 싱글 'Need You' 추가 수록 (출처 : OSEN | 네이버 TV연예) \n\n▶️ https://t.co/jwjmSodioH\n\n#GSoul #지소울 #NeedYou @Gsoullove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSoul",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "NeedYou",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gsoullove",
+					"name": "G",
+					"id": 121589749,
+					"id_str": "121589749",
+					"indices": [
+						142,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jwjmSodioH",
+					"expanded_url": "http://naver.me/GuG6HuPt",
+					"display_url": "naver.me/GuG6HuPt",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54311,
+			"friends_count": 495,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#GSoul] \n지소울, 'Natural' 오늘(10일) 한정판 LP로 재탄생..새 싱글 'Need You' 추가 수록 (출처 : OSEN | 네이버 TV연예) \n\n▶️ https://t.co/jwjmSodioH\n\n#GSoul #지소울 #NeedYou @Gsoullove"
+	},
+	{
 		"created_at": "Thu Feb 10 02:05:35 +0000 2022",
 		"id": 1491594161111416800,
 		"id_str": "1491594161111416832",
