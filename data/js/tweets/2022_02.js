@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 16:29:25 +0000 2022",
+		"id": 1491796609394430000,
+		"id_str": "1491811551736733697",
+		"full_text": "[#서지수] 2022.02.11 JISOO DAY🎉\n\nHappy Birthday to JISOO SEO🎂\n미스틱스토리 배우 서지수의 생일을 축하합니다🎁💗\n\n#220211 #happybirthday #birthday #생일 https://t.co/WgSQ7CGMLC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서지수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "happybirthday",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"text": "birthday",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "생일",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491065275403632600,
+					"id_str": "1491065275403632643",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FLFT981agAMRJk1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLFT981agAMRJk1.jpg",
+					"url": "https://t.co/WgSQ7CGMLC",
+					"display_url": "pic.twitter.com/WgSQ7CGMLC",
+					"expanded_url": "https://twitter.com/themysticstory/status/1491796609394429953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491065275403632600,
+					"id_str": "1491065275403632643",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FLFT981agAMRJk1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLFT981agAMRJk1.jpg",
+					"url": "https://t.co/WgSQ7CGMLC",
+					"display_url": "pic.twitter.com/WgSQ7CGMLC",
+					"expanded_url": "https://twitter.com/themysticstory/status/1491796609394429953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33194,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1644505574",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서지수] 2022.02.11 JISOO DAY🎉\n\nHappy Birthday to JISOO SEO🎂\n미스틱스토리 배우 서지수의 생일을 축하합니다🎁💗\n\n#220211 #happybirthday #birthday #생일 https://t.co/WgSQ7CGMLC"
+	},
+	{
 		"created_at": "Thu Feb 10 13:11:25 +0000 2022",
 		"id": 1491758856787009500,
 		"id_str": "1491761724181159940",
