@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 03:29:31 +0000 2022",
+		"id": 1491973341875667000,
+		"id_str": "1491977672569798656",
+		"full_text": "[#AD] #유재석 #이미주\n\n갤럭시와 함께하는 ‘리얼 마케팅 쇼 시즌2’\n예고편 영상이 공개되었습니다👀💫\n🔗 https://t.co/h27gmJdZp8\n\n#YuJaeSeok #LeeMiJoo\n#갤럭시S22 #리얼마케팅쇼시즌2\n#삼성전자 #삼성 #samsungkorea https://t.co/oUzCgjB5Ik",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AD",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "YuJaeSeok",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "LeeMiJoo",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "갤럭시S22",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "리얼마케팅쇼시즌2",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "삼성전자",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "삼성",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "samsungkorea",
+					"indices": [
+						137,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h27gmJdZp8",
+					"expanded_url": "https://youtu.be/4YAqOScKYyc",
+					"display_url": "youtu.be/4YAqOScKYyc",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491972921304445000,
+					"id_str": "1491972921304444929",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FLSNuo7aIAEehxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLSNuo7aIAEehxK.jpg",
+					"url": "https://t.co/oUzCgjB5Ik",
+					"display_url": "pic.twitter.com/oUzCgjB5Ik",
+					"expanded_url": "https://twitter.com/antennamusic/status/1491973341875666944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491972921304445000,
+					"id_str": "1491972921304444929",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FLSNuo7aIAEehxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLSNuo7aIAEehxK.jpg",
+					"url": "https://t.co/oUzCgjB5Ik",
+					"display_url": "pic.twitter.com/oUzCgjB5Ik",
+					"expanded_url": "https://twitter.com/antennamusic/status/1491973341875666944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30093,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491972921304444929/vid/640x360/oi6c6wZRCnpH4ieG.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1491972921304444929/pl/sArTZOvNSIbeyeed.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491972921304444929/vid/480x270/EGobUVzOACz0l7FQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491972921304444929/vid/1280x720/lwSZ6brz5pGEzyJK.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "‘리얼 마케팅 쇼 시즌2’",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/4YAqOScKYyc"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40334,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#AD] #유재석 #이미주\n\n갤럭시와 함께하는 ‘리얼 마케팅 쇼 시즌2’\n예고편 영상이 공개되었습니다👀💫\n🔗 https://t.co/h27gmJdZp8\n\n#YuJaeSeok #LeeMiJoo\n#갤럭시S22 #리얼마케팅쇼시즌2\n#삼성전자 #삼성 #samsungkorea https://t.co/oUzCgjB5Ik"
+	},
+	{
+		"created_at": "Fri Feb 11 03:29:27 +0000 2022",
+		"id": 1491964886834098200,
+		"id_str": "1491977655339700230",
+		"full_text": "SM Entertainment signed an MOU with the Seoul Philharmonic Orchestra to collaborate between genres.\nIt’s the 2nd MOU following 2020. \nThe collaboration song to be released and the concert to be co-hosted.\nSpecial meetings between K-pop &amp; K-Classic representatives to be continued! https://t.co/hi7esL2THe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491964880395829200,
+					"id_str": "1491964880395829248",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FLSGJ2laAAAjT7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLSGJ2laAAAjT7A.jpg",
+					"url": "https://t.co/hi7esL2THe",
+					"display_url": "pic.twitter.com/hi7esL2THe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1491964886834098176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1264,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491964880395829200,
+					"id_str": "1491964880395829248",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FLSGJ2laAAAjT7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLSGJ2laAAAjT7A.jpg",
+					"url": "https://t.co/hi7esL2THe",
+					"display_url": "pic.twitter.com/hi7esL2THe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1491964886834098176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1264,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10582927,
+			"friends_count": 56,
+			"listed_count": 11730,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 477,
+		"favorite_count": 3132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM Entertainment signed an MOU with the Seoul Philharmonic Orchestra to collaborate between genres.\nIt’s the 2nd MOU following 2020. \nThe collaboration song to be released and the concert to be co-hosted.\nSpecial meetings between K-pop &amp; K-Classic representatives to be continued! https://t.co/hi7esL2THe"
+	},
+	{
 		"created_at": "Fri Feb 11 03:11:17 +0000 2022",
 		"id": 1491970247473221600,
 		"id_str": "1491973082990497792",
