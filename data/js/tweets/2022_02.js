@@ -1,6 +1,1257 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 10:16:08 +0000 2022",
+		"id": 1492080003235946500,
+		"id_str": "1492080003235946502",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지X디뮤지엄] 박소은 - 말리부오렌지\nhttps://t.co/CIbEB58pe3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CIbEB58pe3",
+					"expanded_url": "https://youtu.be/Y_mtDIfkWUk",
+					"display_url": "youtu.be/Y_mtDIfkWUk",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지X디뮤지엄] 박소은 - 말리부오렌지\nhttps://t.co/CIbEB58pe3"
+	},
+	{
+		"created_at": "Fri Feb 11 09:29:41 +0000 2022",
+		"id": 1492063733405085700,
+		"id_str": "1492068311349305351",
+		"full_text": "방금전 발매 된 그때 그 곡!!\n\n나인(NINE9) - 솔직하지 못해서 \nhttps://t.co/GNuoEv7BZG https://t.co/hd0C9tsA9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GNuoEv7BZG",
+					"expanded_url": "http://kko.to/dQboGd74H",
+					"display_url": "kko.to/dQboGd74H",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492063732444577800,
+					"id_str": "1492063732444577797",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTgDzKaQAUBwaR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTgDzKaQAUBwaR.jpg",
+					"url": "https://t.co/hd0C9tsA9j",
+					"display_url": "pic.twitter.com/hd0C9tsA9j",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1492063733405085696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 144,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 144,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 144,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492063732444577800,
+					"id_str": "1492063732444577797",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTgDzKaQAUBwaR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTgDzKaQAUBwaR.jpg",
+					"url": "https://t.co/hd0C9tsA9j",
+					"display_url": "pic.twitter.com/hd0C9tsA9j",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1492063733405085696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 144,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 144,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 144,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.melon.com\" rel=\"nofollow\">MelonMusic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2643,
+			"friends_count": 333,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 21667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금전 발매 된 그때 그 곡!!\n\n나인(NINE9) - 솔직하지 못해서 \nhttps://t.co/GNuoEv7BZG https://t.co/hd0C9tsA9j"
+	},
+	{
+		"created_at": "Fri Feb 11 09:29:38 +0000 2022",
+		"id": 1492063034658869200,
+		"id_str": "1492068298284048391",
+		"full_text": "[MBTI] 스트레스 받는 INTJ, INFP 들어오세요 I 스트레스 원인, 반응, 해결법! (Feat. 아티초크, 뚝딱맨) https://t.co/KD4nu4HQh3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KD4nu4HQh3",
+					"expanded_url": "http://blog.naver.com/chili7272/222645065014",
+					"display_url": "blog.naver.com/chili7272/2226…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 2349,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MBTI] 스트레스 받는 INTJ, INFP 들어오세요 I 스트레스 원인, 반응, 해결법! (Feat. 아티초크, 뚝딱맨) https://t.co/KD4nu4HQh3"
+	},
+	{
+		"created_at": "Fri Feb 11 09:29:33 +0000 2022",
+		"id": 1492062041175359500,
+		"id_str": "1492068276503040000",
+		"full_text": "소란 멤버들이 정성스럽게 가꾼\n초록빛 정원에서 펼쳐질 올해의 'Perfect Day 8'.\n\n긴 겨울을 지나 봄날의 시작에서 다시 문을 여는 \n소란의 따뜻한 정원으로 여러분을 초대합니다 \n\n#소란 #SORAN #PerfectDay #퍼펙트데이 #PerfectDay8 #퍼펙트데이8 #퍼데8 #콘서트 #공연 #신한pLay스퀘어 #라이브홀 https://t.co/IBEc1K1VVJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소란",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "SORAN",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "PerfectDay",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "퍼펙트데이",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "PerfectDay8",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "퍼펙트데이8",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "퍼데8",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "신한pLay스퀘어",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1492061977262567400,
+					"id_str": "1492061977262567428",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTedomaMAQnN97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTedomaMAQnN97.jpg",
+					"url": "https://t.co/IBEc1K1VVJ",
+					"display_url": "pic.twitter.com/IBEc1K1VVJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492062041175359492/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492061977262567400,
+					"id_str": "1492061977262567428",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTedomaMAQnN97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTedomaMAQnN97.jpg",
+					"url": "https://t.co/IBEc1K1VVJ",
+					"display_url": "pic.twitter.com/IBEc1K1VVJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492062041175359492/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1492060846658228200,
+		"in_reply_to_status_id_str": "1492060846658228235",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12983,
+			"friends_count": 1929,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소란 멤버들이 정성스럽게 가꾼\n초록빛 정원에서 펼쳐질 올해의 'Perfect Day 8'.\n\n긴 겨울을 지나 봄날의 시작에서 다시 문을 여는 \n소란의 따뜻한 정원으로 여러분을 초대합니다 \n\n#소란 #SORAN #PerfectDay #퍼펙트데이 #PerfectDay8 #퍼펙트데이8 #퍼데8 #콘서트 #공연 #신한pLay스퀘어 #라이브홀 https://t.co/IBEc1K1VVJ"
+	},
+	{
+		"created_at": "Fri Feb 11 09:29:28 +0000 2022",
+		"id": 1492061866725884000,
+		"id_str": "1492068259209912330",
+		"full_text": "누적 관객 18,000여 명, 누적 관람 후기 평점 9.96점이 증명하는 소란의 독보적인 시리즈 공연 'Perfect Day'.\n\n그 완벽한 시리즈의 여덟 번째 이야기에는\n오랜만에 선보이는 시그니처 프로그램을 비롯하여\n오직 관객분들만을 위해 준비한 특별한 순간들을 담았습니다. https://t.co/iKuGroULBf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1492061843179061200,
+					"id_str": "1492061843179061250",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTeV1GaQAI9YLT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTeV1GaQAI9YLT.jpg",
+					"url": "https://t.co/iKuGroULBf",
+					"display_url": "pic.twitter.com/iKuGroULBf",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492061866725883904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492061843179061200,
+					"id_str": "1492061843179061250",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTeV1GaQAI9YLT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTeV1GaQAI9YLT.jpg",
+					"url": "https://t.co/iKuGroULBf",
+					"display_url": "pic.twitter.com/iKuGroULBf",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492061866725883904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492061843204247600,
+					"id_str": "1492061843204247552",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTeV1MakAAisBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTeV1MakAAisBL.jpg",
+					"url": "https://t.co/iKuGroULBf",
+					"display_url": "pic.twitter.com/iKuGroULBf",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492061866725883904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492061843179061200,
+					"id_str": "1492061843179061248",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTeV1GaQAAzcv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTeV1GaQAAzcv0.jpg",
+					"url": "https://t.co/iKuGroULBf",
+					"display_url": "pic.twitter.com/iKuGroULBf",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492061866725883904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492061843208425500,
+					"id_str": "1492061843208425478",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTeV1NaUAYiKxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTeV1NaUAYiKxO.jpg",
+					"url": "https://t.co/iKuGroULBf",
+					"display_url": "pic.twitter.com/iKuGroULBf",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492061866725883904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1492060846658228200,
+		"in_reply_to_status_id_str": "1492060846658228235",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12983,
+			"friends_count": 1929,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누적 관객 18,000여 명, 누적 관람 후기 평점 9.96점이 증명하는 소란의 독보적인 시리즈 공연 'Perfect Day'.\n\n그 완벽한 시리즈의 여덟 번째 이야기에는\n오랜만에 선보이는 시그니처 프로그램을 비롯하여\n오직 관객분들만을 위해 준비한 특별한 순간들을 담았습니다. https://t.co/iKuGroULBf"
+	},
+	{
+		"created_at": "Fri Feb 11 09:29:26 +0000 2022",
+		"id": 1492060846658228200,
+		"id_str": "1492068250313703424",
+		"full_text": "[소란 | 공연공지]\n\n소란 콘서트 'Perfect Day 8'🌿\n\n◽️ 일시 : 22년 3월 11일(금)~13일(일), \n  18일(금)~20일(일), 25일(금)~27일(일)\n 금 오후 8시/토 오후 6시/일 오후 5시 \n◽️ 장소 : 신한pLay 스퀘어 라이브홀\n◽️ 티켓 : 전석 88,000원\n◽️ 티켓오픈 : \n22년 2월 18일(금) 오후 6시 @인터파크티켓 https://t.co/eAMw4nFP8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1492041717746659300,
+					"id_str": "1492041717746659329",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTMCYBacAEWE9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTMCYBacAEWE9h.jpg",
+					"url": "https://t.co/eAMw4nFP8r",
+					"display_url": "pic.twitter.com/eAMw4nFP8r",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492060846658228235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492041717746659300,
+					"id_str": "1492041717746659329",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTMCYBacAEWE9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTMCYBacAEWE9h.jpg",
+					"url": "https://t.co/eAMw4nFP8r",
+					"display_url": "pic.twitter.com/eAMw4nFP8r",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492060846658228235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492041717750837200,
+					"id_str": "1492041717750837248",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTMCYCaMAAKaaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTMCYCaMAAKaaz.jpg",
+					"url": "https://t.co/eAMw4nFP8r",
+					"display_url": "pic.twitter.com/eAMw4nFP8r",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492060846658228235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492041717725696000,
+					"id_str": "1492041717725696004",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTMCX8akAQAmdw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTMCX8akAQAmdw.jpg",
+					"url": "https://t.co/eAMw4nFP8r",
+					"display_url": "pic.twitter.com/eAMw4nFP8r",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492060846658228235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492041717729890300,
+					"id_str": "1492041717729890307",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTMCX9akAMBPrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTMCX9akAMBPrW.jpg",
+					"url": "https://t.co/eAMw4nFP8r",
+					"display_url": "pic.twitter.com/eAMw4nFP8r",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1492060846658228235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12983,
+			"friends_count": 1929,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[소란 | 공연공지]\n\n소란 콘서트 'Perfect Day 8'🌿\n\n◽️ 일시 : 22년 3월 11일(금)~13일(일), \n  18일(금)~20일(일), 25일(금)~27일(일)\n 금 오후 8시/토 오후 6시/일 오후 5시 \n◽️ 장소 : 신한pLay 스퀘어 라이브홀\n◽️ 티켓 : 전석 88,000원\n◽️ 티켓오픈 : \n22년 2월 18일(금) 오후 6시 @인터파크티켓 https://t.co/eAMw4nFP8r"
+	},
+	{
 		"created_at": "Fri Feb 11 09:09:06 +0000 2022",
 		"id": 1492063131027361800,
 		"id_str": "1492063131027361792",
