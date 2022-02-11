@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 12:29:24 +0000 2022",
+		"id": 1492109914138980400,
+		"id_str": "1492113540987199491",
+		"full_text": "✨K-Hip-Hop +82✨\n#라비(#RAVI)(@RAVI_GTCK)의 \"LOVE &amp; FIGHT\"가 #스포티파이 \"K-Hip-Hop +82\" 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out \"RAVI\" on 'LOVE &amp; FIGHT' playlist on #Spotify✨\n🔗https://t.co/5sd8SQejYx\n\n#warnerkpop #warnermusic #라비 #RAVI  #LOVEandFIGHT @spotifykr https://t.co/kvOWxgrBJV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라비",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						204,
+						216
+					]
+				},
+				{
+					"text": "라비",
+					"indices": [
+						217,
+						220
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "LOVEandFIGHT",
+					"indices": [
+						228,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAVI_GTCK",
+					"name": "RAVI / 라비",
+					"id": 524138951,
+					"id_str": "524138951",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						242,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5sd8SQejYx",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB?si=db25e4fab4274fd9",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492103645227516000,
+					"id_str": "1492103645227515908",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FLUEXB3aAAQh8kg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLUEXB3aAAQh8kg.jpg",
+					"url": "https://t.co/kvOWxgrBJV",
+					"display_url": "pic.twitter.com/kvOWxgrBJV",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1492109914138980353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492103645227516000,
+					"id_str": "1492103645227515908",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FLUEXB3aAAQh8kg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLUEXB3aAAQh8kg.jpg",
+					"url": "https://t.co/kvOWxgrBJV",
+					"display_url": "pic.twitter.com/kvOWxgrBJV",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1492109914138980353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54328,
+			"friends_count": 495,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Hip-Hop +82✨\n#라비(#RAVI)(@RAVI_GTCK)의 \"LOVE &amp; FIGHT\"가 #스포티파이 \"K-Hip-Hop +82\" 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out \"RAVI\" on 'LOVE &amp; FIGHT' playlist on #Spotify✨\n🔗https://t.co/5sd8SQejYx\n\n#warnerkpop #warnermusic #라비 #RAVI  #LOVEandFIGHT @spotifykr https://t.co/kvOWxgrBJV"
+	},
+	{
 		"created_at": "Fri Feb 11 11:11:35 +0000 2022",
 		"id": 1492092046819004400,
 		"id_str": "1492093956548706305",
