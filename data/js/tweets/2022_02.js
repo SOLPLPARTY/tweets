@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 14:29:25 +0000 2022",
+		"id": 1492134295703457800,
+		"id_str": "1492143741381103620",
+		"full_text": "[#AD] #유재석 #이미주\n\n갤럭시와 함께하는 ‘리얼 마케팅 쇼 시즌2’\n오프닝 영상이 공개되었습니다👀💫\n\n🔗 https://t.co/iobjp7uZAf\n\n#YuJaeSeok #LeeMiJoo\n#갤럭시S22 #리얼마케팅쇼시즌2\n#삼성전자 #삼성 #samsungkorea https://t.co/0URcepFbf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AD",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "YuJaeSeok",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "LeeMiJoo",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "갤럭시S22",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "리얼마케팅쇼시즌2",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "삼성전자",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "삼성",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "samsungkorea",
+					"indices": [
+						138,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iobjp7uZAf",
+					"expanded_url": "https://youtu.be/jQ9Upl81bZ0",
+					"display_url": "youtu.be/jQ9Upl81bZ0",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492133582801756200,
+					"id_str": "1492133582801756166",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1492133582801756166/img/X6PYwZQ9l6xu7MuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1492133582801756166/img/X6PYwZQ9l6xu7MuI.jpg",
+					"url": "https://t.co/0URcepFbf2",
+					"display_url": "pic.twitter.com/0URcepFbf2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1492134295703457795/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492133582801756200,
+					"id_str": "1492133582801756166",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1492133582801756166/img/X6PYwZQ9l6xu7MuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1492133582801756166/img/X6PYwZQ9l6xu7MuI.jpg",
+					"url": "https://t.co/0URcepFbf2",
+					"display_url": "pic.twitter.com/0URcepFbf2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1492134295703457795/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60288,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1492133582801756166/vid/480x270/GW4npseW2Qqm5O-l.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1492133582801756166/vid/1280x720/5pg8l4R_B1zACGAb.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1492133582801756166/vid/640x360/5y9cIOZA7vE34h6b.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1492133582801756166/pl/NYEP_zo6z2n5YNbu.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "‘리얼 마케팅 쇼 시즌2’ - 오프닝",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/jQ9Upl81bZ0"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 이진아 싱글 ‘람팜팜(Rum Pum Pum)’ 2022. 01. 28. 6PM Release💗",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40336,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1643018512",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#AD] #유재석 #이미주\n\n갤럭시와 함께하는 ‘리얼 마케팅 쇼 시즌2’\n오프닝 영상이 공개되었습니다👀💫\n\n🔗 https://t.co/iobjp7uZAf\n\n#YuJaeSeok #LeeMiJoo\n#갤럭시S22 #리얼마케팅쇼시즌2\n#삼성전자 #삼성 #samsungkorea https://t.co/0URcepFbf2"
+	},
+	{
 		"created_at": "Fri Feb 11 14:11:16 +0000 2022",
 		"id": 1492121239766265900,
 		"id_str": "1492139175881154562",
