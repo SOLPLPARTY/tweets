@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 11:58:19 +0000 2022",
+		"id": 1492467706527846400,
+		"id_str": "1492468103455911936",
+		"full_text": "잠시후 9시 출발 슬케파! 케이팝 대 케이팝에서는 절절한 로맨스 세 편을 모았습니다!\n\n첫번째, 어디서 한 번은 들어본 한 여자의 사랑이 있습니다!\n두번째, 65명의 자신과 함께하는 사랑이 있습니다!\n세번째, 모든 것을 초월한 사랑이 있습니다!\n지금 바로 함께하세요!\n\n👉https://t.co/T43gV7xOm1 https://t.co/5NPbmq90Wu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492467533777043500,
+					"id_str": "1492467533777043457",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FLZPUIWVgAEwk7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLZPUIWVgAEwk7n.jpg",
+					"url": "https://t.co/5NPbmq90Wu",
+					"display_url": "pic.twitter.com/5NPbmq90Wu",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1492467706527846401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492467533777043500,
+					"id_str": "1492467533777043457",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FLZPUIWVgAEwk7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLZPUIWVgAEwk7n.jpg",
+					"url": "https://t.co/5NPbmq90Wu",
+					"display_url": "pic.twitter.com/5NPbmq90Wu",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1492467706527846401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492467556233351200,
+					"id_str": "1492467556233351168",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FLZPVcAVkAA8iRg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLZPVcAVkAA8iRg.jpg",
+					"url": "https://t.co/5NPbmq90Wu",
+					"display_url": "pic.twitter.com/5NPbmq90Wu",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1492467706527846401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1492467577821433900,
+					"id_str": "1492467577821433857",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FLZPWsbVkAEzzxa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLZPWsbVkAEzzxa.jpg",
+					"url": "https://t.co/5NPbmq90Wu",
+					"display_url": "pic.twitter.com/5NPbmq90Wu",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1492467706527846401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 349,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 349,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7664,
+			"friends_count": 41,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시후 9시 출발 슬케파! 케이팝 대 케이팝에서는 절절한 로맨스 세 편을 모았습니다!\n\n첫번째, 어디서 한 번은 들어본 한 여자의 사랑이 있습니다!\n두번째, 65명의 자신과 함께하는 사랑이 있습니다!\n세번째, 모든 것을 초월한 사랑이 있습니다!\n지금 바로 함께하세요!\n\n👉https://t.co/T43gV7xOm1 https://t.co/5NPbmq90Wu"
+	},
+	{
 		"created_at": "Sat Feb 12 08:11:17 +0000 2022",
 		"id": 1492404558102171600,
 		"id_str": "1492410967879258112",
