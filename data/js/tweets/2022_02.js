@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 08:11:17 +0000 2022",
+		"id": 1492404558102171600,
+		"id_str": "1492410967879258112",
+		"full_text": "오늘 #이날치 #LEENALCHI #청요일 #콘트라젤리 공연을 유튜브로 보실 분들은 아래 링크로 19:00에 뵈요~ 구독과 좋아요 부탁드려요~\nhttps://t.co/Tp05U83PSU https://t.co/91TC9Jbc3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이날치",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"text": "LEENALCHI",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"text": "청요일",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						24,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tp05U83PSU",
+					"expanded_url": "https://youtu.be/kub0Nw3Qwa4",
+					"display_url": "youtu.be/kub0Nw3Qwa4",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492404551861010400,
+					"id_str": "1492404551861010432",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FLYWCGbaAAAkCss.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLYWCGbaAAAkCss.jpg",
+					"url": "https://t.co/91TC9Jbc3B",
+					"display_url": "pic.twitter.com/91TC9Jbc3B",
+					"expanded_url": "https://twitter.com/club_bbang/status/1492404558102171650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492404551861010400,
+					"id_str": "1492404551861010432",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FLYWCGbaAAAkCss.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLYWCGbaAAAkCss.jpg",
+					"url": "https://t.co/91TC9Jbc3B",
+					"display_url": "pic.twitter.com/91TC9Jbc3B",
+					"expanded_url": "https://twitter.com/club_bbang/status/1492404558102171650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2518,
+			"friends_count": 874,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 #이날치 #LEENALCHI #청요일 #콘트라젤리 공연을 유튜브로 보실 분들은 아래 링크로 19:00에 뵈요~ 구독과 좋아요 부탁드려요~\nhttps://t.co/Tp05U83PSU https://t.co/91TC9Jbc3B"
+	},
+	{
 		"created_at": "Sat Feb 12 03:14:23 +0000 2022",
 		"id": 1492336251260870700,
 		"id_str": "1492336251260870666",
