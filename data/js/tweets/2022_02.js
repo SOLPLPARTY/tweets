@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 03:29:39 +0000 2022",
+		"id": 1493426033600581600,
+		"id_str": "1493427259184668672",
+		"full_text": "천용성 [수몰] LP\n예스24 주간 베스트 https://t.co/PLd32DVu59",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493426022577963000,
+					"id_str": "1493426022577963012",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FLm3DhYVgAQB7i_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLm3DhYVgAQB7i_.jpg",
+					"url": "https://t.co/PLd32DVu59",
+					"display_url": "pic.twitter.com/PLd32DVu59",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1493426033600581635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493426022577963000,
+					"id_str": "1493426022577963012",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FLm3DhYVgAQB7i_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLm3DhYVgAQB7i_.jpg",
+					"url": "https://t.co/PLd32DVu59",
+					"display_url": "pic.twitter.com/PLd32DVu59",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1493426033600581635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84,
+			"friends_count": 13,
+			"listed_count": 3,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1644518911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "천용성 [수몰] LP\n예스24 주간 베스트 https://t.co/PLd32DVu59"
+	},
+	{
+		"created_at": "Tue Feb 15 03:29:31 +0000 2022",
+		"id": 1493419802957738000,
+		"id_str": "1493427225101750273",
+		"full_text": "#NEW_MUSIC\n⠀\nㅆrㅇlⓦⓞⓡⓛⓓ。˚☆ 감성 제대로 오는\n소울라이츠 신곡 '있을게'\n⠀\nˇ~ˇ˚ 2★ⓔ2란..뭘까...¿\n⠀\n🎶ARTIST: 소울라이츠\n🎶TITLE: 있을게\n⠀\n#미러볼뮤직 #소울라이츠 #있을게 https://t.co/tl0RtNh1o5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEW_MUSIC",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "소울라이츠",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "있을게",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493408592149422000,
+					"id_str": "1493408592149422082",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493408592149422082/pu/img/Y9Quk9u27AQ5QKHA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493408592149422082/pu/img/Y9Quk9u27AQ5QKHA.jpg",
+					"url": "https://t.co/tl0RtNh1o5",
+					"display_url": "pic.twitter.com/tl0RtNh1o5",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1493419802957737985/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493408592149422000,
+					"id_str": "1493408592149422082",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493408592149422082/pu/img/Y9Quk9u27AQ5QKHA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493408592149422082/pu/img/Y9Quk9u27AQ5QKHA.jpg",
+					"url": "https://t.co/tl0RtNh1o5",
+					"display_url": "pic.twitter.com/tl0RtNh1o5",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1493419802957737985/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59768,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493408592149422082/pu/vid/480x270/xPO-XVw6r4Or4Kjq.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493408592149422082/pu/vid/640x360/DNHJF6Onli8YbJqQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493408592149422082/pu/vid/1280x720/F2l8c2UUUZPWtmw_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493408592149422082/pu/pl/Vl6ZcSwngPUu-VuU.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/ejIyUUwHsO…",
+			"url": "https://t.co/TNuoTAkFOH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNuoTAkFOH",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ejIyUUwHsO",
+							"expanded_url": "http://youtube.com/mirrorballmusi",
+							"display_url": "youtube.com/mirrorballmusi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9460,
+			"friends_count": 2603,
+			"listed_count": 242,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1644893603",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#NEW_MUSIC\n⠀\nㅆrㅇlⓦⓞⓡⓛⓓ。˚☆ 감성 제대로 오는\n소울라이츠 신곡 '있을게'\n⠀\nˇ~ˇ˚ 2★ⓔ2란..뭘까...¿\n⠀\n🎶ARTIST: 소울라이츠\n🎶TITLE: 있을게\n⠀\n#미러볼뮤직 #소울라이츠 #있을게 https://t.co/tl0RtNh1o5"
+	},
+	{
 		"created_at": "Tue Feb 15 03:11:26 +0000 2022",
 		"id": 1493419799988166700,
 		"id_str": "1493422672612663297",
