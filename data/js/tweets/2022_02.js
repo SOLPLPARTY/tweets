@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 10:29:24 +0000 2022",
+		"id": 1493518730701140000,
+		"id_str": "1493532892408041481",
+		"full_text": "#bobae\n\n𝙲𝚊𝚕𝚕 𝚖𝚎 𝚠𝚑𝚎𝚗 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚖𝚎\n- 𝚋𝚘𝚋𝚊𝚎 \n\n\"𝚄𝚜𝚎 𝙼𝚎\" \n𝟸𝟶𝟸𝟸.𝟶𝟸.𝟷𝟼.𝙿𝙼𝟷𝟸(𝙺𝚂𝚃)\n\n#UseMe https://t.co/6FWpzxMnd8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bobae",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "UseMe",
+					"indices": [
+						75,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493512265932279800,
+					"id_str": "1493512265932279811",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493512265932279811/pu/img/0zUB9h33A3wc1G05.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493512265932279811/pu/img/0zUB9h33A3wc1G05.jpg",
+					"url": "https://t.co/6FWpzxMnd8",
+					"display_url": "pic.twitter.com/6FWpzxMnd8",
+					"expanded_url": "https://twitter.com/inplanet/status/1493518730701139968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493512265932279800,
+					"id_str": "1493512265932279811",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493512265932279811/pu/img/0zUB9h33A3wc1G05.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493512265932279811/pu/img/0zUB9h33A3wc1G05.jpg",
+					"url": "https://t.co/6FWpzxMnd8",
+					"display_url": "pic.twitter.com/6FWpzxMnd8",
+					"expanded_url": "https://twitter.com/inplanet/status/1493518730701139968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493512265932279811/pu/pl/v8q2YI4-CjTyKodn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493512265932279811/pu/vid/720x720/1BQjF63Uh6D3hIlP.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493512265932279811/pu/vid/540x540/5zJqSjrZmAAbUH3j.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493512265932279811/pu/vid/320x320/fNW3_f67uBLBfiXu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1436,
+			"friends_count": 772,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#bobae\n\n𝙲𝚊𝚕𝚕 𝚖𝚎 𝚠𝚑𝚎𝚗 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚖𝚎\n- 𝚋𝚘𝚋𝚊𝚎 \n\n\"𝚄𝚜𝚎 𝙼𝚎\" \n𝟸𝟶𝟸𝟸.𝟶𝟸.𝟷𝟼.𝙿𝙼𝟷𝟸(𝙺𝚂𝚃)\n\n#UseMe https://t.co/6FWpzxMnd8"
+	},
+	{
 		"created_at": "Tue Feb 15 10:11:16 +0000 2022",
 		"id": 1493525492095455200,
 		"id_str": "1493528330187988992",
@@ -287,7 +507,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Tue Feb 15 09:44:46 +0000 2022",
 		"id": 1493521657394348000,
 		"id_str": "1493521657394348038",
-		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너​ Original : 답변완료 from 찰리 푸스 (Charlie Puth)\nhttps://t.co/AjQnTCWNSa",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 찰리 푸스 (Charlie Puth)\nhttps://t.co/AjQnTCWNSa",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -429,7 +649,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너​ Original : 답변완료 from 찰리 푸스 (Charlie Puth)\nhttps://t.co/AjQnTCWNSa"
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 찰리 푸스 (Charlie Puth)\nhttps://t.co/AjQnTCWNSa"
 	},
 	{
 		"created_at": "Tue Feb 15 09:29:48 +0000 2022",
