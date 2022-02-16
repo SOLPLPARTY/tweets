@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 04:29:24 +0000 2022",
+		"id": 1493793867103350800,
+		"id_str": "1493804683726630914",
+		"full_text": "#나인NINE9 #네이버나우 #응수씨네\n18일 금요일 방송 됩니다\n#타짜50번본사람나야나\n\n#NaverNow #김응수 #김호영 #나인 https://t.co/hFqelaYhyo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인NINE9",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "응수씨네",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "타짜50번본사람나야나",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"text": "NaverNow",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "김응수",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "김호영",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						71,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493793857263501300,
+					"id_str": "1493793857263501313",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FLsFmUXaAAEkqD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLsFmUXaAAEkqD9.jpg",
+					"url": "https://t.co/hFqelaYhyo",
+					"display_url": "pic.twitter.com/hFqelaYhyo",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1493793867103350789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493793857263501300,
+					"id_str": "1493793857263501313",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FLsFmUXaAAEkqD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLsFmUXaAAEkqD9.jpg",
+					"url": "https://t.co/hFqelaYhyo",
+					"display_url": "pic.twitter.com/hFqelaYhyo",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1493793867103350789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2639,
+			"friends_count": 333,
+			"listed_count": 0,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 21694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#나인NINE9 #네이버나우 #응수씨네\n18일 금요일 방송 됩니다\n#타짜50번본사람나야나\n\n#NaverNow #김응수 #김호영 #나인 https://t.co/hFqelaYhyo"
+	},
+	{
 		"created_at": "Wed Feb 16 04:11:16 +0000 2022",
 		"id": 1493782184091652000,
 		"id_str": "1493800120877568000",
