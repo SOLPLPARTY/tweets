@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 13:58:14 +0000 2022",
+		"id": 1493946556705538000,
+		"id_str": "1493947835980599300",
+		"full_text": "이대로 묻힐 순 없다! 재평가 특집!\n\n잊혀진 아이돌, 묻힌 수록곡, 이상민의 크라잉 랩, 이지혜의 솜사탕같은 음색... 과소평가된, 그냥 묻히기엔 아까운 케이팝의 모든 것을 모으겠습니다!\n \n케이팝 전문가분들의 재평가를 기다립니다! \n아래 링크에서 설문에 참여해주세요\nhttps://t.co/Po00P0JUIt https://t.co/dUK9IVw72L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Po00P0JUIt",
+					"expanded_url": "https://forms.gle/VqGMKQBnPBSQk6mT7",
+					"display_url": "forms.gle/VqGMKQBnPBSQk6…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493946533439766500,
+					"id_str": "1493946533439766528",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FLuQdPcagAAfIHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLuQdPcagAAfIHm.jpg",
+					"url": "https://t.co/dUK9IVw72L",
+					"display_url": "pic.twitter.com/dUK9IVw72L",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1493946556705538056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493946533439766500,
+					"id_str": "1493946533439766528",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FLuQdPcagAAfIHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLuQdPcagAAfIHm.jpg",
+					"url": "https://t.co/dUK9IVw72L",
+					"display_url": "pic.twitter.com/dUK9IVw72L",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1493946556705538056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7646,
+			"friends_count": 42,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이대로 묻힐 순 없다! 재평가 특집!\n\n잊혀진 아이돌, 묻힌 수록곡, 이상민의 크라잉 랩, 이지혜의 솜사탕같은 음색... 과소평가된, 그냥 묻히기엔 아까운 케이팝의 모든 것을 모으겠습니다!\n \n케이팝 전문가분들의 재평가를 기다립니다! \n아래 링크에서 설문에 참여해주세요\nhttps://t.co/Po00P0JUIt https://t.co/dUK9IVw72L"
+	},
+	{
 		"created_at": "Wed Feb 16 11:29:25 +0000 2022",
 		"id": 1493895287940604000,
 		"id_str": "1493910382364307457",
