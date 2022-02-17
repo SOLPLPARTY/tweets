@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 09:29:48 +0000 2022",
+		"id": 1494239195698589700,
+		"id_str": "1494242669777797125",
+		"full_text": "장기하 EP [공중부양] 발매 기념 트위터 블루룸💙\n장기하에게 평소 하고 싶었던 말이나 질문들을 [#AskChangKiha] 해시태그와 함께 보내주세요!\n트위터 블루룸에서 장기하가 직접 답변해드립니다! https://t.co/Pw9mBtKDdH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AskChangKiha",
+					"indices": [
+						55,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494239189373980700,
+					"id_str": "1494239189373980675",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyaoDwakAMV18t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyaoDwakAMV18t.jpg",
+					"url": "https://t.co/Pw9mBtKDdH",
+					"display_url": "pic.twitter.com/Pw9mBtKDdH",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1494239195698589698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494239189373980700,
+					"id_str": "1494239189373980675",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyaoDwakAMV18t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyaoDwakAMV18t.jpg",
+					"url": "https://t.co/Pw9mBtKDdH",
+					"display_url": "pic.twitter.com/Pw9mBtKDdH",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1494239195698589698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4001,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하 EP [공중부양] 발매 기념 트위터 블루룸💙\n장기하에게 평소 하고 싶었던 말이나 질문들을 [#AskChangKiha] 해시태그와 함께 보내주세요!\n트위터 블루룸에서 장기하가 직접 답변해드립니다! https://t.co/Pw9mBtKDdH"
+	},
+	{
+		"created_at": "Thu Feb 17 09:29:46 +0000 2022",
+		"id": 1494235267711987700,
+		"id_str": "1494242660885975040",
+		"full_text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n➫ 2022.02.21 6PM KST\n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/r7THbhtToq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMINJONG",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"text": "김민종",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "KIMMINJONG_EndlessNight",
+					"indices": [
+						88,
+						112
+					]
+				},
+				{
+					"text": "긴밤",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "EndlessNight",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494218219728429000,
+					"id_str": "1494218219728429057",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyHjdvUYAEqm-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyHjdvUYAEqm-l.jpg",
+					"url": "https://t.co/r7THbhtToq",
+					"display_url": "pic.twitter.com/r7THbhtToq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1494235267711987712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494218219728429000,
+					"id_str": "1494218219728429057",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyHjdvUYAEqm-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyHjdvUYAEqm-l.jpg",
+					"url": "https://t.co/r7THbhtToq",
+					"display_url": "pic.twitter.com/r7THbhtToq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1494235267711987712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10605501,
+			"friends_count": 56,
+			"listed_count": 11747,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 1500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n➫ 2022.02.21 6PM KST\n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/r7THbhtToq"
+	},
+	{
+		"created_at": "Thu Feb 17 09:29:42 +0000 2022",
+		"id": 1494235257029075000,
+		"id_str": "1494242643592847365",
+		"full_text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n➫ 2022.02.21 6PM KST\n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/IiKs2S5dOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMINJONG",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"text": "김민종",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "KIMMINJONG_EndlessNight",
+					"indices": [
+						88,
+						112
+					]
+				},
+				{
+					"text": "긴밤",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "EndlessNight",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494218166016168000,
+					"id_str": "1494218166016167937",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyHgVpUUAETj7L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyHgVpUUAETj7L.jpg",
+					"url": "https://t.co/IiKs2S5dOn",
+					"display_url": "pic.twitter.com/IiKs2S5dOn",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1494235257029074944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494218166016168000,
+					"id_str": "1494218166016167937",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyHgVpUUAETj7L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyHgVpUUAETj7L.jpg",
+					"url": "https://t.co/IiKs2S5dOn",
+					"display_url": "pic.twitter.com/IiKs2S5dOn",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1494235257029074944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10605501,
+			"friends_count": 56,
+			"listed_count": 11747,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 1078,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n➫ 2022.02.21 6PM KST\n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/IiKs2S5dOn"
+	},
+	{
+		"created_at": "Thu Feb 17 09:29:39 +0000 2022",
+		"id": 1494235249215115300,
+		"id_str": "1494242630280093696",
+		"full_text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n➫ 2022.02.21 6PM KST\n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/pUXmih9jt6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMINJONG",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"text": "김민종",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "KIMMINJONG_EndlessNight",
+					"indices": [
+						88,
+						112
+					]
+				},
+				{
+					"text": "긴밤",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "EndlessNight",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494217946456998000,
+					"id_str": "1494217946456997889",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyHTjuVQAELmiw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyHTjuVQAELmiw.jpg",
+					"url": "https://t.co/pUXmih9jt6",
+					"display_url": "pic.twitter.com/pUXmih9jt6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1494235249215115264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494217946456998000,
+					"id_str": "1494217946456997889",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FLyHTjuVQAELmiw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLyHTjuVQAELmiw.jpg",
+					"url": "https://t.co/pUXmih9jt6",
+					"display_url": "pic.twitter.com/pUXmih9jt6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1494235249215115264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10605501,
+			"friends_count": 56,
+			"listed_count": 11747,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n➫ 2022.02.21 6PM KST\n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/pUXmih9jt6"
+	},
+	{
+		"created_at": "Thu Feb 17 09:29:33 +0000 2022",
+		"id": 1494235168130965500,
+		"id_str": "1494242604594208775",
+		"full_text": "[Rosy]\n상대방과의 거리감을 더 늘릴 수도, 좁힐 수도 있는 'JK'\n\nRosy(로지)의 새로운 싱글 앨범 'JK'가 발매되었습니다.\n각 온라인 음원사이트를 통해 감상하실 수 있습니다.\n\n#Rosy #로지 #인디 #음악 #music https://t.co/QKpoOCmTWy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rosy",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "로지",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494137116967993300,
+					"id_str": "1494137116967993350",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw9yqaagAYXLfX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw9yqaagAYXLfX.jpg",
+					"url": "https://t.co/QKpoOCmTWy",
+					"display_url": "pic.twitter.com/QKpoOCmTWy",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1494235168130965510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494137116967993300,
+					"id_str": "1494137116967993350",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw9yqaagAYXLfX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw9yqaagAYXLfX.jpg",
+					"url": "https://t.co/QKpoOCmTWy",
+					"display_url": "pic.twitter.com/QKpoOCmTWy",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1494235168130965510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Rosy]\n상대방과의 거리감을 더 늘릴 수도, 좁힐 수도 있는 'JK'\n\nRosy(로지)의 새로운 싱글 앨범 'JK'가 발매되었습니다.\n각 온라인 음원사이트를 통해 감상하실 수 있습니다.\n\n#Rosy #로지 #인디 #음악 #music https://t.co/QKpoOCmTWy"
+	},
+	{
 		"created_at": "Thu Feb 17 09:05:32 +0000 2022",
 		"id": 1494236562510524400,
 		"id_str": "1494236562510524417",
