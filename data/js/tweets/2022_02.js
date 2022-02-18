@@ -1,6 +1,1544 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 10:11:23 +0000 2022",
+		"id": 1494612223716737000,
+		"id_str": "1494615520263475200",
+		"full_text": "방금 사진을 게시했습니다 @공상온도 https://t.co/5tn8lXLm7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5tn8lXLm7J",
+					"expanded_url": "https://www.instagram.com/p/CaHUzl5JZHS/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CaHUzl5JZHS/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @공상온도 https://t.co/5tn8lXLm7J"
+	},
+	{
+		"created_at": "Fri Feb 18 10:11:17 +0000 2022",
+		"id": 1494605106192400400,
+		"id_str": "1494615494682419216",
+		"full_text": "스.. 스누피는 못참지╰(*°▽°*)╯❗❗❗\n홍대 디자인스퀘어에 스누피 굿즈가 입점했어요🎉🎉\n-\n\"언제나 좌절 뒤에는 행복이,\n 비가 온 후 맑은 날이 오는 것처럼'\n-\n힐링되는 스누피의 명대사 처럼 🎞🎞\n맘 따듯한 주말 보내세요🥰\n\n@ssmadangdesign https://t.co/3KrBx0kOPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494598939974451200,
+					"id_str": "1494598939974451201",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3h0TLaQAEwzwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3h0TLaQAEwzwP.jpg",
+					"url": "https://t.co/3KrBx0kOPj",
+					"display_url": "pic.twitter.com/3KrBx0kOPj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1494605106192400386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494598939974451200,
+					"id_str": "1494598939974451201",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3h0TLaQAEwzwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3h0TLaQAEwzwP.jpg",
+					"url": "https://t.co/3KrBx0kOPj",
+					"display_url": "pic.twitter.com/3KrBx0kOPj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1494605106192400386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494598939978637300,
+					"id_str": "1494598939978637315",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3h0TMaIAMJxWD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3h0TMaIAMJxWD.jpg",
+					"url": "https://t.co/3KrBx0kOPj",
+					"display_url": "pic.twitter.com/3KrBx0kOPj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1494605106192400386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494598939974471700,
+					"id_str": "1494598939974471683",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3h0TLakAMqg75.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3h0TLakAMqg75.jpg",
+					"url": "https://t.co/3KrBx0kOPj",
+					"display_url": "pic.twitter.com/3KrBx0kOPj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1494605106192400386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17687,
+			"friends_count": 1865,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스.. 스누피는 못참지╰(*°▽°*)╯❗❗❗\n홍대 디자인스퀘어에 스누피 굿즈가 입점했어요🎉🎉\n-\n\"언제나 좌절 뒤에는 행복이,\n 비가 온 후 맑은 날이 오는 것처럼'\n-\n힐링되는 스누피의 명대사 처럼 🎞🎞\n맘 따듯한 주말 보내세요🥰\n\n@ssmadangdesign https://t.co/3KrBx0kOPj"
+	},
+	{
+		"created_at": "Fri Feb 18 09:29:53 +0000 2022",
+		"id": 1494598273612804000,
+		"id_str": "1494605078015184897",
+		"full_text": "2022년 2월 22일\nD-4\n장기하 EP&lt;공중부양&gt;\n\n부럽지가 않어 M/V Teaser\n\nMusic Video by Yehwan Song\n\n[Teaser] 장기하 (Chang Kiha) _ 부럽지가 않어 https://t.co/WY9OxLC9UK - @YouTube https://t.co/L2ml2AlJuf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WY9OxLC9UK",
+					"expanded_url": "https://youtu.be/tvGWlafVR8k",
+					"display_url": "youtu.be/tvGWlafVR8k",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494598243078250500,
+					"id_str": "1494598243078250499",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494598243078250499/pu/img/KxN3X-4hHPVG1HnB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494598243078250499/pu/img/KxN3X-4hHPVG1HnB.jpg",
+					"url": "https://t.co/L2ml2AlJuf",
+					"display_url": "pic.twitter.com/L2ml2AlJuf",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1494598273612804097/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494598243078250500,
+					"id_str": "1494598243078250499",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494598243078250499/pu/img/KxN3X-4hHPVG1HnB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494598243078250499/pu/img/KxN3X-4hHPVG1HnB.jpg",
+					"url": "https://t.co/L2ml2AlJuf",
+					"display_url": "pic.twitter.com/L2ml2AlJuf",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1494598273612804097/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22288,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494598243078250499/pu/vid/640x360/CeZOhyzNAsK1v9Lo.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1494598243078250499/pu/pl/HJu9l5SznHt_ruB0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494598243078250499/pu/vid/480x270/5x0xGPunWX5vI48-.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494598243078250499/pu/vid/1280x720/quQzPpr2YPgejhUO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4002,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022년 2월 22일\nD-4\n장기하 EP&lt;공중부양&gt;\n\n부럽지가 않어 M/V Teaser\n\nMusic Video by Yehwan Song\n\n[Teaser] 장기하 (Chang Kiha) _ 부럽지가 않어 https://t.co/WY9OxLC9UK - @YouTube https://t.co/L2ml2AlJuf"
+	},
+	{
+		"created_at": "Fri Feb 18 09:29:47 +0000 2022",
+		"id": 1494598234039550000,
+		"id_str": "1494605052396380169",
+		"full_text": "불교적 설화를 모티프로 하고 있는 곡 ‘석류의 맛’과 동명의 타이틀을 지닌 본 공연은 기존과 다른 생소한 환경에서 진행됩니다.\n\n고즈넉한 사찰의 아름다움을 느끼며, 오롯이 밴드의 소리에만 집중할 수 있도록 헤드폰 라이브셋을 제공합니다.\n\n#쏜애플 #THORNAPPLE #콘서트 #석류의맛",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쏜애플",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "THORNAPPLE",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "석류의맛",
+					"indices": [
+						155,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1494597937959424000,
+		"in_reply_to_status_id_str": "1494597937959424004",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12987,
+			"friends_count": 1928,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불교적 설화를 모티프로 하고 있는 곡 ‘석류의 맛’과 동명의 타이틀을 지닌 본 공연은 기존과 다른 생소한 환경에서 진행됩니다.\n\n고즈넉한 사찰의 아름다움을 느끼며, 오롯이 밴드의 소리에만 집중할 수 있도록 헤드폰 라이브셋을 제공합니다.\n\n#쏜애플 #THORNAPPLE #콘서트 #석류의맛"
+	},
+	{
+		"created_at": "Fri Feb 18 09:29:39 +0000 2022",
+		"id": 1494597937959424000,
+		"id_str": "1494605018355408904",
+		"full_text": "[쏜애플 | 공연 공지]\n\n쏜애플 콘서트 ‘석류의 맛’\n\n본 공연은 온·오프라인 동시 진행되며,\n해당 내용은 온라인 티켓 안내입니다.\n오프라인 티켓은 별도의 공지를 확인하시기 바랍니다.\n\n티켓 오픈\n2월 25일(금) 6PM at LIVE@ (https://t.co/JxJHThoJVs)\n\n일시\n3월 18일(금) 8PM\n\n장소\n삼각산 정법사 https://t.co/pkdufeIQRR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JxJHThoJVs",
+					"expanded_url": "http://www.live-at.kr",
+					"display_url": "live-at.kr",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494595355811672000,
+					"id_str": "1494595355811672066",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3ejrIacAIuTp7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3ejrIacAIuTp7.jpg",
+					"url": "https://t.co/pkdufeIQRR",
+					"display_url": "pic.twitter.com/pkdufeIQRR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597937959424004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494595355811672000,
+					"id_str": "1494595355811672066",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3ejrIacAIuTp7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3ejrIacAIuTp7.jpg",
+					"url": "https://t.co/pkdufeIQRR",
+					"display_url": "pic.twitter.com/pkdufeIQRR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597937959424004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1563,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494595355811672000,
+					"id_str": "1494595355811672064",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3ejrIacAAz_9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3ejrIacAAz_9f.jpg",
+					"url": "https://t.co/pkdufeIQRR",
+					"display_url": "pic.twitter.com/pkdufeIQRR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597937959424004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1563,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494595355878768600,
+					"id_str": "1494595355878768640",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3ejrYaQAAoeAP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3ejrYaQAAoeAP.jpg",
+					"url": "https://t.co/pkdufeIQRR",
+					"display_url": "pic.twitter.com/pkdufeIQRR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597937959424004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494595355790704600,
+					"id_str": "1494595355790704642",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3ejrDagAImWwL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3ejrDagAImWwL.jpg",
+					"url": "https://t.co/pkdufeIQRR",
+					"display_url": "pic.twitter.com/pkdufeIQRR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597937959424004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12987,
+			"friends_count": 1928,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쏜애플 | 공연 공지]\n\n쏜애플 콘서트 ‘석류의 맛’\n\n본 공연은 온·오프라인 동시 진행되며,\n해당 내용은 온라인 티켓 안내입니다.\n오프라인 티켓은 별도의 공지를 확인하시기 바랍니다.\n\n티켓 오픈\n2월 25일(금) 6PM at LIVE@ (https://t.co/JxJHThoJVs)\n\n일시\n3월 18일(금) 8PM\n\n장소\n삼각산 정법사 https://t.co/pkdufeIQRR"
+	},
+	{
+		"created_at": "Fri Feb 18 09:29:37 +0000 2022",
+		"id": 1494597562795397000,
+		"id_str": "1494605009522204702",
+		"full_text": "[#정인] 피타입 (P-TYPE) 'Hardboiled Café (feat. 정인, FROM ALL TO HUMAN)' 발매✔️\n\n정인이 피처링으로 참여한 피타입 (P-TYPE)의 정규 5집 'Hardboiled Café (feat. 정인, FROM ALL TO HUMAN)'은 지금 바로 전 음원 사이트에서 확인🎼\n\n#JUNGIN #Hardboiled_Café #피타입 #PTYPE https://t.co/l7b5uwYBmt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "Hardboiled_Café",
+					"indices": [
+						186,
+						202
+					]
+				},
+				{
+					"text": "피타입",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "PTYPE",
+					"indices": [
+						208,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494566673739059200,
+					"id_str": "1494566673739059202",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3EeKFakAIyMlY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3EeKFakAIyMlY.jpg",
+					"url": "https://t.co/l7b5uwYBmt",
+					"display_url": "pic.twitter.com/l7b5uwYBmt",
+					"expanded_url": "https://twitter.com/themysticstory/status/1494597562795397130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494566673739059200,
+					"id_str": "1494566673739059202",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3EeKFakAIyMlY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3EeKFakAIyMlY.jpg",
+					"url": "https://t.co/l7b5uwYBmt",
+					"display_url": "pic.twitter.com/l7b5uwYBmt",
+					"expanded_url": "https://twitter.com/themysticstory/status/1494597562795397130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33387,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1644505574",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] 피타입 (P-TYPE) 'Hardboiled Café (feat. 정인, FROM ALL TO HUMAN)' 발매✔️\n\n정인이 피처링으로 참여한 피타입 (P-TYPE)의 정규 5집 'Hardboiled Café (feat. 정인, FROM ALL TO HUMAN)'은 지금 바로 전 음원 사이트에서 확인🎼\n\n#JUNGIN #Hardboiled_Café #피타입 #PTYPE https://t.co/l7b5uwYBmt"
+	},
+	{
+		"created_at": "Fri Feb 18 09:29:31 +0000 2022",
+		"id": 1494597560773668900,
+		"id_str": "1494604983895007233",
+		"full_text": "[쏜애플 | 공연 공지] \n\n쏜애플 콘서트 ‘석류의 맛’\n\n본 공연은 온·오프라인으로 동시 진행되며, \n해당 페이지는 오프라인 티켓 안내 공지입니다.\n온라인 티켓 안내는 별도의 공지를 확인하시기 바랍니다.\n\n티켓 오픈\n2월 25일(금) 6PM at 인터파크\n\n공연 일시 / 장소 \n3월 18일(금) 8PM\n삼각산 정법사 https://t.co/KkjMGWG7DR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494593468395835400,
+					"id_str": "1494593468395835398",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3c1z9aUAYcxEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3c1z9aUAYcxEY.jpg",
+					"url": "https://t.co/KkjMGWG7DR",
+					"display_url": "pic.twitter.com/KkjMGWG7DR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597560773668865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1563,
+							"h": 1563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494593468395835400,
+					"id_str": "1494593468395835398",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3c1z9aUAYcxEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3c1z9aUAYcxEY.jpg",
+					"url": "https://t.co/KkjMGWG7DR",
+					"display_url": "pic.twitter.com/KkjMGWG7DR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597560773668865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1563,
+							"h": 1563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494593468404236300,
+					"id_str": "1494593468404236290",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3c1z_agAI_OWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3c1z_agAI_OWE.jpg",
+					"url": "https://t.co/KkjMGWG7DR",
+					"display_url": "pic.twitter.com/KkjMGWG7DR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597560773668865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1563,
+							"h": 1563,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494593468404240400,
+					"id_str": "1494593468404240385",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3c1z_akAEFjxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3c1z_akAEFjxh.jpg",
+					"url": "https://t.co/KkjMGWG7DR",
+					"display_url": "pic.twitter.com/KkjMGWG7DR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597560773668865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1563,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494593468412608500,
+					"id_str": "1494593468412608513",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3c10BaQAEQ5N3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3c10BaQAEQ5N3.jpg",
+					"url": "https://t.co/KkjMGWG7DR",
+					"display_url": "pic.twitter.com/KkjMGWG7DR",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1494597560773668865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1563,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12987,
+			"friends_count": 1928,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쏜애플 | 공연 공지] \n\n쏜애플 콘서트 ‘석류의 맛’\n\n본 공연은 온·오프라인으로 동시 진행되며, \n해당 페이지는 오프라인 티켓 안내 공지입니다.\n온라인 티켓 안내는 별도의 공지를 확인하시기 바랍니다.\n\n티켓 오픈\n2월 25일(금) 6PM at 인터파크\n\n공연 일시 / 장소 \n3월 18일(금) 8PM\n삼각산 정법사 https://t.co/KkjMGWG7DR"
+	},
+	{
 		"created_at": "Fri Feb 18 09:11:54 +0000 2022",
 		"id": 1494600551929110500,
 		"id_str": "1494600551929110528",
