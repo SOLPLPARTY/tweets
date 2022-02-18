@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 12:29:25 +0000 2022",
+		"id": 1494645781436928000,
+		"id_str": "1494650256746819587",
+		"full_text": "[#Video] #유희열\n\n유희열이 함께한 ‘MORE TALK’가 공개 되었습니다. 지금 유튜브 ‘JAY PARK’ 채널에서 만나보실 수 있습니다✨\n \n🔗 https://t.co/aNIuquFGqr\n\n#YouHeeYul\n#MORETALK #모어토크\n#박재범 #JayPark https://t.co/Qw7z4JBLCr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "YouHeeYul",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "MORETALK",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "모어토크",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "박재범",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "JayPark",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aNIuquFGqr",
+					"expanded_url": "https://youtu.be/grEm5rkLLnE",
+					"display_url": "youtu.be/grEm5rkLLnE",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494645775460364300,
+					"id_str": "1494645775460364291",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FL4Mae9acAMi6Q7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL4Mae9acAMi6Q7.jpg",
+					"url": "https://t.co/Qw7z4JBLCr",
+					"display_url": "pic.twitter.com/Qw7z4JBLCr",
+					"expanded_url": "https://twitter.com/antennamusic/status/1494645781436928005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494645775460364300,
+					"id_str": "1494645775460364291",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FL4Mae9acAMi6Q7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL4Mae9acAMi6Q7.jpg",
+					"url": "https://t.co/Qw7z4JBLCr",
+					"display_url": "pic.twitter.com/Qw7z4JBLCr",
+					"expanded_url": "https://twitter.com/antennamusic/status/1494645781436928005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40353,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #유희열\n\n유희열이 함께한 ‘MORE TALK’가 공개 되었습니다. 지금 유튜브 ‘JAY PARK’ 채널에서 만나보실 수 있습니다✨\n \n🔗 https://t.co/aNIuquFGqr\n\n#YouHeeYul\n#MORETALK #모어토크\n#박재범 #JayPark https://t.co/Qw7z4JBLCr"
+	},
+	{
 		"created_at": "Fri Feb 18 12:11:17 +0000 2022",
 		"id": 1494633330226053000,
 		"id_str": "1494645692836548626",
