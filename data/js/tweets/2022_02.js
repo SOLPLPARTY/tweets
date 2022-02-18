@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 07:29:38 +0000 2022",
+		"id": 1494570729689727000,
+		"id_str": "1494574814606118912",
+		"full_text": "최유리가 출연한 TVING &lt;얼라이브&gt; 4화가 공개되었습니다.\n지금 바로 티빙에서 감상해보세요!\n▷ https://t.co/BjWm81doEC\n⠀\n#최유리 #유재하 #TVING #얼라이브 #ALIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "유재하",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "TVING",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "얼라이브",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "ALIVE",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjWm81doEC",
+					"expanded_url": "http://www.tving.com/vod/player/E003693472",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7705,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1639559323",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최유리가 출연한 TVING &lt;얼라이브&gt; 4화가 공개되었습니다.\n지금 바로 티빙에서 감상해보세요!\n▷ https://t.co/BjWm81doEC\n⠀\n#최유리 #유재하 #TVING #얼라이브 #ALIVE"
+	},
+	{
+		"created_at": "Fri Feb 18 07:29:30 +0000 2022",
+		"id": 1494570124971552800,
+		"id_str": "1494574780623769602",
+		"full_text": "2022년 2월 한국 여성 아티스트 대표로 뉴욕 타임스퀘어를 장식한 #JAMIE 😎✨\n@jiminpark07 (#제이미)가 커버를 장식한 #Spotify ‘#EQUALKorea’ 플레이리스트도 지금 바로 만나보세요💕\n\nCheck out “JAMIE” playlist on Spotify✨\n🔗https://t.co/5tKVERx6cl\n\n#PityParty #Playlist @spotifykr https://t.co/FkdLLCuTSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JAMIE",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "EQUALKorea",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "PityParty",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"text": "Playlist",
+					"indices": [
+						198,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jiminpark07",
+					"name": "JIMINxJAMIE",
+					"id": 220195175,
+					"id_str": "220195175",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						208,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5tKVERx6cl",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv?si=cf286e0ddf7d41d1",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494568316035166200,
+					"id_str": "1494568316035166209",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3F9wHUcAEbc6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3F9wHUcAEbc6x.jpg",
+					"url": "https://t.co/FkdLLCuTSp",
+					"display_url": "pic.twitter.com/FkdLLCuTSp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1494570124971552785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494568316035166200,
+					"id_str": "1494568316035166209",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3F9wHUcAEbc6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3F9wHUcAEbc6x.jpg",
+					"url": "https://t.co/FkdLLCuTSp",
+					"display_url": "pic.twitter.com/FkdLLCuTSp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1494570124971552785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494568340953567200,
+					"id_str": "1494568340953567233",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3F_M8VEAEmqr2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL3F_M8VEAEmqr2.jpg",
+					"url": "https://t.co/FkdLLCuTSp",
+					"display_url": "pic.twitter.com/FkdLLCuTSp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1494570124971552785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54359,
+			"friends_count": 494,
+			"listed_count": 200,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022년 2월 한국 여성 아티스트 대표로 뉴욕 타임스퀘어를 장식한 #JAMIE 😎✨\n@jiminpark07 (#제이미)가 커버를 장식한 #Spotify ‘#EQUALKorea’ 플레이리스트도 지금 바로 만나보세요💕\n\nCheck out “JAMIE” playlist on Spotify✨\n🔗https://t.co/5tKVERx6cl\n\n#PityParty #Playlist @spotifykr https://t.co/FkdLLCuTSp"
+	},
+	{
 		"created_at": "Fri Feb 18 07:04:38 +0000 2022",
 		"id": 1494568525154996200,
 		"id_str": "1494568525154996232",
