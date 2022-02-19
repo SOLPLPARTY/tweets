@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 10:29:28 +0000 2022",
+		"id": 1494975589823832000,
+		"id_str": "1494982459494219778",
+		"full_text": "@SCJAZZY\n#YUNSEOKCHEOL_TRIO\n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin \n\n#한국전래동화 #사랑노래 #어쩌려고그런말을해 \n#익숙하고일정한 #도사님펑크 \n#KoreanFairyTale #Lovesong #Howcouldyou\n#FamiliarandConstant #Dosanimfunk\n#20220221_12PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YUNSEOKCHEOL_TRIO",
+					"indices": [
+						9,
+						27
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "정상이",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "김영진",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						44,
+						57
+					]
+				},
+				{
+					"text": "JungSangE",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "KimYeongJin",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"text": "한국전래동화",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "사랑노래",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "어쩌려고그런말을해",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "도사님펑크",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "KoreanFairyTale",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"text": "Lovesong",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "Howcouldyou",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"text": "FamiliarandConstant",
+					"indices": [
+						167,
+						187
+					]
+				},
+				{
+					"text": "Dosanimfunk",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "20220221_12PM",
+					"indices": [
+						201,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1494975586481016800,
+		"in_reply_to_status_id_str": "1494975586481016832",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40367,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@SCJAZZY\n#YUNSEOKCHEOL_TRIO\n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin \n\n#한국전래동화 #사랑노래 #어쩌려고그런말을해 \n#익숙하고일정한 #도사님펑크 \n#KoreanFairyTale #Lovesong #Howcouldyou\n#FamiliarandConstant #Dosanimfunk\n#20220221_12PM"
+	},
+	{
 		"created_at": "Sat Feb 19 09:29:42 +0000 2022",
 		"id": 1494960328186425300,
 		"id_str": "1494967418954960901",
