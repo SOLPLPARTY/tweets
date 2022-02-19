@@ -1,6 +1,1222 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 15:29:53 +0000 2022",
+		"id": 1495051288450859000,
+		"id_str": "1495058061492379654",
+		"full_text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #로켓펀치\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/e8Lu1IT7Rx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로켓펀치",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "ROCKETPUNCH",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "CHIQUITA",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "치키타",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "YELLOW_PUNCH",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"text": "NEW_COLLECTION",
+					"indices": [
+						141,
+						156
+					]
+				},
+				{
+					"text": "20220228_6PM",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						171,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495051232855343000,
+					"id_str": "1495051232855343106",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99LNdaQAIbae9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99LNdaQAIbae9.jpg",
+					"url": "https://t.co/e8Lu1IT7Rx",
+					"display_url": "pic.twitter.com/e8Lu1IT7Rx",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051288450859010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495051232855343000,
+					"id_str": "1495051232855343106",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99LNdaQAIbae9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99LNdaQAIbae9.jpg",
+					"url": "https://t.co/e8Lu1IT7Rx",
+					"display_url": "pic.twitter.com/e8Lu1IT7Rx",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051288450859010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426634,
+			"friends_count": 12,
+			"listed_count": 1897,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1644915622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 711,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #로켓펀치\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/e8Lu1IT7Rx"
+	},
+	{
+		"created_at": "Sat Feb 19 15:29:48 +0000 2022",
+		"id": 1495051253973680000,
+		"id_str": "1495058040080502784",
+		"full_text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #연희\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #YEONHEE\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/zqsdvhCCJK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "연희",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "ROCKETPUNCH",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "YEONHEE",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "CHIQUITA",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "치키타",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "YELLOW_PUNCH",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "NEW_COLLECTION",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"text": "20220228_6PM",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495051211565076500,
+					"id_str": "1495051211565076485",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99J-JakAUyy4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99J-JakAUyy4u.jpg",
+					"url": "https://t.co/zqsdvhCCJK",
+					"display_url": "pic.twitter.com/zqsdvhCCJK",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051253973680130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495051211565076500,
+					"id_str": "1495051211565076485",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99J-JakAUyy4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99J-JakAUyy4u.jpg",
+					"url": "https://t.co/zqsdvhCCJK",
+					"display_url": "pic.twitter.com/zqsdvhCCJK",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051253973680130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426634,
+			"friends_count": 12,
+			"listed_count": 1897,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1644915622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #연희\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #YEONHEE\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/zqsdvhCCJK"
+	},
+	{
+		"created_at": "Sat Feb 19 15:29:46 +0000 2022",
+		"id": 1495051134238863400,
+		"id_str": "1495058031234719749",
+		"full_text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #윤경\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #YUNKYOUNG\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/3hFUvmMmOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤경",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "ROCKETPUNCH",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "YUNKYOUNG",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "CHIQUITA",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "치키타",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "YELLOW_PUNCH",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "NEW_COLLECTION",
+					"indices": [
+						156,
+						171
+					]
+				},
+				{
+					"text": "20220228_6PM",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						186,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495051085970808800,
+					"id_str": "1495051085970808833",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99CqRaIAEsuSm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99CqRaIAEsuSm.jpg",
+					"url": "https://t.co/3hFUvmMmOo",
+					"display_url": "pic.twitter.com/3hFUvmMmOo",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051134238863363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495051085970808800,
+					"id_str": "1495051085970808833",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99CqRaIAEsuSm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99CqRaIAEsuSm.jpg",
+					"url": "https://t.co/3hFUvmMmOo",
+					"display_url": "pic.twitter.com/3hFUvmMmOo",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051134238863363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426634,
+			"friends_count": 12,
+			"listed_count": 1897,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1644915622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #윤경\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #YUNKYOUNG\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/3hFUvmMmOo"
+	},
+	{
+		"created_at": "Sat Feb 19 15:29:37 +0000 2022",
+		"id": 1495051093667377200,
+		"id_str": "1495057996703010820",
+		"full_text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #다현\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #DAHYUN\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/J4LeCpgWFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다현",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "ROCKETPUNCH",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "DAHYUN",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "CHIQUITA",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "치키타",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "YELLOW_PUNCH",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"text": "NEW_COLLECTION",
+					"indices": [
+						153,
+						168
+					]
+				},
+				{
+					"text": "20220228_6PM",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						183,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495051045281857500,
+					"id_str": "1495051045281857541",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99ASsaAAU8Y53.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99ASsaAAU8Y53.jpg",
+					"url": "https://t.co/J4LeCpgWFC",
+					"display_url": "pic.twitter.com/J4LeCpgWFC",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051093667377152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495051045281857500,
+					"id_str": "1495051045281857541",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FL99ASsaAAU8Y53.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL99ASsaAAU8Y53.jpg",
+					"url": "https://t.co/J4LeCpgWFC",
+					"display_url": "pic.twitter.com/J4LeCpgWFC",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495051093667377152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426634,
+			"friends_count": 12,
+			"listed_count": 1897,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1644915622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #다현\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #DAHYUN\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/J4LeCpgWFC"
+	},
+	{
+		"created_at": "Sat Feb 19 15:29:33 +0000 2022",
+		"id": 1495050997819125800,
+		"id_str": "1495057979384676355",
+		"full_text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #쥬리\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #JURI\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/QVsF9wS23v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쥬리",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "ROCKETPUNCH",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "JURI",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "CHIQUITA",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "치키타",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "YELLOW_PUNCH",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "NEW_COLLECTION",
+					"indices": [
+						151,
+						166
+					]
+				},
+				{
+					"text": "20220228_6PM",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						181,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495050843175137300,
+					"id_str": "1495050843175137285",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FL980hyaMAUP3SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL980hyaMAUP3SV.jpg",
+					"url": "https://t.co/QVsF9wS23v",
+					"display_url": "pic.twitter.com/QVsF9wS23v",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495050997819125771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495050843175137300,
+					"id_str": "1495050843175137285",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FL980hyaMAUP3SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL980hyaMAUP3SV.jpg",
+					"url": "https://t.co/QVsF9wS23v",
+					"display_url": "pic.twitter.com/QVsF9wS23v",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1495050997819125771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426634,
+			"friends_count": 12,
+			"listed_count": 1897,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1644915622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ROCKET PUNCH COLOR COLLECTION\n4TH MINI ALBUM [YELLOW PUNCH]\nPHOTO TIME #쥬리\n\n2022.02.28 6PM OPEN\n\n#ROCKETPUNCH #로켓펀치 #JURI\n#CHIQUITA #치키타\n#YELLOW_PUNCH #NEW_COLLECTION\n#20220228_6PM #COMEBACK https://t.co/QVsF9wS23v"
+	},
+	{
 		"created_at": "Sat Feb 19 14:29:48 +0000 2022",
 		"id": 1495029423602802700,
 		"id_str": "1495042941412384771",
