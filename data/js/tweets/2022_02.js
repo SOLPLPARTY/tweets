@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 03:29:41 +0000 2022",
+		"id": 1495232377484083200,
+		"id_str": "1495239204007202818",
+		"full_text": "🌱공연장과 이벤트존 내 방역 실시 및 손 소독제와 손 세정제를 비치할 예정이며, 입장 시 체온 측정 및 백신 접종 여부 확인 등 관객분들의 안전한 관람을 위해 최선을 다하겠습니다. \n\n🌱&lt;소란데이 2022&gt;의 멤버별 개인 무대와 단체 미니 콘서트는 소란 공식 유튜브에서도 실시간 중계될 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495231910054105000,
+		"in_reply_to_status_id_str": "1495231910054105093",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12993,
+			"friends_count": 1928,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🌱공연장과 이벤트존 내 방역 실시 및 손 소독제와 손 세정제를 비치할 예정이며, 입장 시 체온 측정 및 백신 접종 여부 확인 등 관객분들의 안전한 관람을 위해 최선을 다하겠습니다. \n\n🌱&lt;소란데이 2022&gt;의 멤버별 개인 무대와 단체 미니 콘서트는 소란 공식 유튜브에서도 실시간 중계될 예정입니다."
+	},
+	{
+		"created_at": "Sun Feb 20 03:29:33 +0000 2022",
+		"id": 1495232218511585300,
+		"id_str": "1495239174143762433",
+		"full_text": "🌱 &lt;소란데이 2022&gt;는 백신 접종 완료자와 PCR 음성 확인자만 공연을 관람하실 수 있으며, 공연장과 이벤트존 모두 티켓 소지자에 한하여 입장이 가능함을 안내드립니다. https://t.co/XM0oYplhKy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495232086688813000,
+					"id_str": "1495232086688813056",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAhqSfaUAA3fzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAhqSfaUAA3fzX.jpg",
+					"url": "https://t.co/XM0oYplhKy",
+					"display_url": "pic.twitter.com/XM0oYplhKy",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495232218511585292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495232086688813000,
+					"id_str": "1495232086688813056",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAhqSfaUAA3fzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAhqSfaUAA3fzX.jpg",
+					"url": "https://t.co/XM0oYplhKy",
+					"display_url": "pic.twitter.com/XM0oYplhKy",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495232218511585292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495232086919516200,
+					"id_str": "1495232086919516168",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAhqTWakAgVgEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAhqTWakAgVgEV.jpg",
+					"url": "https://t.co/XM0oYplhKy",
+					"display_url": "pic.twitter.com/XM0oYplhKy",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495232218511585292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495232087078875100,
+					"id_str": "1495232087078875137",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAhqT8aMAEFlTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAhqT8aMAEFlTr.jpg",
+					"url": "https://t.co/XM0oYplhKy",
+					"display_url": "pic.twitter.com/XM0oYplhKy",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495232218511585292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495232087225663500,
+					"id_str": "1495232087225663490",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAhqUfaAAILIOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAhqUfaAAILIOz.jpg",
+					"url": "https://t.co/XM0oYplhKy",
+					"display_url": "pic.twitter.com/XM0oYplhKy",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495232218511585292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495231910054105000,
+		"in_reply_to_status_id_str": "1495231910054105093",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12993,
+			"friends_count": 1928,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌱 &lt;소란데이 2022&gt;는 백신 접종 완료자와 PCR 음성 확인자만 공연을 관람하실 수 있으며, 공연장과 이벤트존 모두 티켓 소지자에 한하여 입장이 가능함을 안내드립니다. https://t.co/XM0oYplhKy"
+	},
+	{
 		"created_at": "Sun Feb 20 03:11:39 +0000 2022",
 		"id": 1495234666932150300,
 		"id_str": "1495234666932150274",
