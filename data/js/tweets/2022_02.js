@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 01:29:26 +0000 2022",
+		"id": 1495204610755412000,
+		"id_str": "1495208944104620039",
+		"full_text": "'The 30th debut anniversary as a singer' KIM MIN JONG to release MV teaser of his new song 'Endless Night' today at 6PM KST! \n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/lUdo7As3o3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMINJONG",
+					"indices": [
+						127,
+						138
+					]
+				},
+				{
+					"text": "김민종",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "KIMMINJONG_EndlessNight",
+					"indices": [
+						144,
+						168
+					]
+				},
+				{
+					"text": "긴밤",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "EndlessNight",
+					"indices": [
+						173,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495204603633467400,
+					"id_str": "1495204603633467392",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAIqkIaAAATj0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAIqkIaAAATj0L.jpg",
+					"url": "https://t.co/lUdo7As3o3",
+					"display_url": "pic.twitter.com/lUdo7As3o3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1495204610755411968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1135,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495204603633467400,
+					"id_str": "1495204603633467392",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAIqkIaAAATj0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAIqkIaAAATj0L.jpg",
+					"url": "https://t.co/lUdo7As3o3",
+					"display_url": "pic.twitter.com/lUdo7As3o3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1495204610755411968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1135,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495204603662864400,
+					"id_str": "1495204603662864388",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAIqkPakAQuyhl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAIqkPakAQuyhl.jpg",
+					"url": "https://t.co/lUdo7As3o3",
+					"display_url": "pic.twitter.com/lUdo7As3o3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1495204610755411968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10614014,
+			"friends_count": 56,
+			"listed_count": 11751,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 1791,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'The 30th debut anniversary as a singer' KIM MIN JONG to release MV teaser of his new song 'Endless Night' today at 6PM KST! \n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight https://t.co/lUdo7As3o3"
+	},
+	{
 		"created_at": "Sat Feb 19 15:29:53 +0000 2022",
 		"id": 1495051288450859000,
 		"id_str": "1495058061492379654",
