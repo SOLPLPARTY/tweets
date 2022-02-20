@@ -1,6 +1,115 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 13:29:32 +0000 2022",
+		"id": 1495387528978788400,
+		"id_str": "1495390161940721674",
+		"full_text": "📢2부(7시 30분~9시 30분) \n예매 : 15,000 / 현매 : 20,000 \n30명 한정, 음료 1잔 제공 \n아티스트와 함께 하는 음감회(진행 : 음악평론가 김윤하)와 짧은 공연\n\n*안내 및 예매 \nhttps://t.co/AthZCTnEKK\n\n#여기저기룰루랄라 \n#룰루랄라레코드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여기저기룰루랄라",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "룰루랄라레코드",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AthZCTnEKK",
+					"expanded_url": "https://nuly.do/EVDb",
+					"display_url": "nuly.do/EVDb",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1495387353430442000,
+		"in_reply_to_status_id_str": "1495387353430441988",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 13,
+			"listed_count": 3,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1644518911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢2부(7시 30분~9시 30분) \n예매 : 15,000 / 현매 : 20,000 \n30명 한정, 음료 1잔 제공 \n아티스트와 함께 하는 음감회(진행 : 음악평론가 김윤하)와 짧은 공연\n\n*안내 및 예매 \nhttps://t.co/AthZCTnEKK\n\n#여기저기룰루랄라 \n#룰루랄라레코드"
+	},
+	{
 		"created_at": "Sun Feb 20 10:29:26 +0000 2022",
 		"id": 1495337623371808800,
 		"id_str": "1495344840510476288",
