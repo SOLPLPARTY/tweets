@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 07:29:24 +0000 2022",
+		"id": 1495661901053034500,
+		"id_str": "1495661921768460294",
+		"full_text": "[소란 | '소란데이' 티켓 오픈 공지]\n\n일 년에 단 한 번 아티스트, 스태프, 팬이 함께하는 소란데이 2022\n\n🌱일시:22.02.26 (토)\n🌱장소:살롱 드 모네\n🌱티켓오픈:22.02.23(수) @인터파크 티켓\n3PM &lt;이태욱&gt;\n4PM &lt;서면호&gt;\n5PM &lt;편유일&gt;\n6PM &lt;미니 콘서트&gt;\n\n#소란 #SORAN #소란데이2022 #SORANDAY2022 https://t.co/y10gr7bgw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소란",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "SORAN",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "소란데이2022",
+					"indices": [
+						200,
+						209
+					]
+				},
+				{
+					"text": "SORANDAY2022",
+					"indices": [
+						210,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495660875285667800,
+					"id_str": "1495660875285667840",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGnpEfaIAA8JQ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGnpEfaIAA8JQ0.jpg",
+					"url": "https://t.co/y10gr7bgw4",
+					"display_url": "pic.twitter.com/y10gr7bgw4",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495661901053034498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495660875285667800,
+					"id_str": "1495660875285667840",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGnpEfaIAA8JQ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGnpEfaIAA8JQ0.jpg",
+					"url": "https://t.co/y10gr7bgw4",
+					"display_url": "pic.twitter.com/y10gr7bgw4",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495661901053034498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495660875285680000,
+					"id_str": "1495660875285680129",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGnpEfaUAE9ae8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGnpEfaUAE9ae8.jpg",
+					"url": "https://t.co/y10gr7bgw4",
+					"display_url": "pic.twitter.com/y10gr7bgw4",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495661901053034498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495660875264708600,
+					"id_str": "1495660875264708611",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGnpEaaUAMuByJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGnpEaaUAMuByJ.jpg",
+					"url": "https://t.co/y10gr7bgw4",
+					"display_url": "pic.twitter.com/y10gr7bgw4",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495661901053034498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495660875268911000,
+					"id_str": "1495660875268911107",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGnpEbacAMO1u3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGnpEbacAMO1u3.jpg",
+					"url": "https://t.co/y10gr7bgw4",
+					"display_url": "pic.twitter.com/y10gr7bgw4",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1495661901053034498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12994,
+			"friends_count": 1928,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[소란 | '소란데이' 티켓 오픈 공지]\n\n일 년에 단 한 번 아티스트, 스태프, 팬이 함께하는 소란데이 2022\n\n🌱일시:22.02.26 (토)\n🌱장소:살롱 드 모네\n🌱티켓오픈:22.02.23(수) @인터파크 티켓\n3PM &lt;이태욱&gt;\n4PM &lt;서면호&gt;\n5PM &lt;편유일&gt;\n6PM &lt;미니 콘서트&gt;\n\n#소란 #SORAN #소란데이2022 #SORANDAY2022 https://t.co/y10gr7bgw4"
+	},
+	{
 		"created_at": "Mon Feb 21 06:29:24 +0000 2022",
 		"id": 1495635265230155800,
 		"id_str": "1495646822148280324",
