@@ -1,6 +1,1188 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 10:11:16 +0000 2022",
+		"id": 1495699824745672700,
+		"id_str": "1495702656932851715",
+		"full_text": "💌홍대 디자인 스퀘어 : 위클리 추천상품💌\n\n임인년의 해! \n무직타이거의 뚱랑이 페이스 모찌 쿠션이 상상마당에 \n입고되었습니다🥰\n\n뚱랑이 페이스 모찌 쿠션은 연령과 취향 상관없이\n선물하기에 너무나도 좋을 것 같아요🧸🎁🛍\n\n상상마당 스마트스토어와 오프라인 매장에서 만나보세요 https://t.co/rJvNBy7ujM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495642442997317600,
+					"id_str": "1495642442997317634",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGW4K3aQAIj3dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGW4K3aQAIj3dV.jpg",
+					"url": "https://t.co/rJvNBy7ujM",
+					"display_url": "pic.twitter.com/rJvNBy7ujM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1495699824745672707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495642442997317600,
+					"id_str": "1495642442997317634",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGW4K3aQAIj3dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGW4K3aQAIj3dV.jpg",
+					"url": "https://t.co/rJvNBy7ujM",
+					"display_url": "pic.twitter.com/rJvNBy7ujM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1495699824745672707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495642442988933000,
+					"id_str": "1495642442988933122",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGW4K1aUAIWKJz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGW4K1aUAIWKJz.jpg",
+					"url": "https://t.co/rJvNBy7ujM",
+					"display_url": "pic.twitter.com/rJvNBy7ujM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1495699824745672707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495642443001528300,
+					"id_str": "1495642443001528320",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGW4K4agAAq5T1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGW4K4agAAq5T1.jpg",
+					"url": "https://t.co/rJvNBy7ujM",
+					"display_url": "pic.twitter.com/rJvNBy7ujM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1495699824745672707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495642443026677800,
+					"id_str": "1495642443026677762",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGW4K-aQAI0fkv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGW4K-aQAI0fkv.jpg",
+					"url": "https://t.co/rJvNBy7ujM",
+					"display_url": "pic.twitter.com/rJvNBy7ujM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1495699824745672707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17689,
+			"friends_count": 1865,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌홍대 디자인 스퀘어 : 위클리 추천상품💌\n\n임인년의 해! \n무직타이거의 뚱랑이 페이스 모찌 쿠션이 상상마당에 \n입고되었습니다🥰\n\n뚱랑이 페이스 모찌 쿠션은 연령과 취향 상관없이\n선물하기에 너무나도 좋을 것 같아요🧸🎁🛍\n\n상상마당 스마트스토어와 오프라인 매장에서 만나보세요 https://t.co/rJvNBy7ujM"
+	},
+	{
+		"created_at": "Mon Feb 21 09:29:44 +0000 2022",
+		"id": 1495688435595624400,
+		"id_str": "1495692202848227335",
+		"full_text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n\nListen now on your favorite platform!\n🎧https://t.co/RkLc9lKVKU\n \n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMINJONG",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "김민종",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "KIMMINJONG_EndlessNight",
+					"indices": [
+						132,
+						156
+					]
+				},
+				{
+					"text": "긴밤",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "EndlessNight",
+					"indices": [
+						161,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RkLc9lKVKU",
+					"expanded_url": "https://smarturl.it/KMJ_EndlessNight",
+					"display_url": "smarturl.it/KMJ_EndlessNig…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10619058,
+			"friends_count": 55,
+			"listed_count": 11756,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 1346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n\nListen now on your favorite platform!\n🎧https://t.co/RkLc9lKVKU\n \n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight"
+	},
+	{
+		"created_at": "Mon Feb 21 09:29:39 +0000 2022",
+		"id": 1495686588411564000,
+		"id_str": "1495692181381783554",
+		"full_text": "OFFICIAL ALBUM COVER\nSHAUN - So Right (Feat. YUNA)\n\n-\nFEB 24, 2022\n6PM KST | 1AM PST \n-\n\n#SHAUN #YUNA #soright #comingsoon #unbound #unboundentertainment #unboundentertainmentgroup #unboundrecords https://t.co/vFLNc6MOfG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHAUN",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "YUNA",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "soright",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "comingsoon",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "unbound",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "unboundentertainment",
+					"indices": [
+						132,
+						153
+					]
+				},
+				{
+					"text": "unboundentertainmentgroup",
+					"indices": [
+						154,
+						180
+					]
+				},
+				{
+					"text": "unboundrecords",
+					"indices": [
+						181,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495686576021536800,
+					"id_str": "1495686576021536773",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FMG_BDMVgAUp5_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMG_BDMVgAUp5_r.jpg",
+					"url": "https://t.co/vFLNc6MOfG",
+					"display_url": "pic.twitter.com/vFLNc6MOfG",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1495686588411564032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495686576021536800,
+					"id_str": "1495686576021536773",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FMG_BDMVgAUp5_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMG_BDMVgAUp5_r.jpg",
+					"url": "https://t.co/vFLNc6MOfG",
+					"display_url": "pic.twitter.com/vFLNc6MOfG",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1495686588411564032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54401,
+			"friends_count": 494,
+			"listed_count": 198,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OFFICIAL ALBUM COVER\nSHAUN - So Right (Feat. YUNA)\n\n-\nFEB 24, 2022\n6PM KST | 1AM PST \n-\n\n#SHAUN #YUNA #soright #comingsoon #unbound #unboundentertainment #unboundentertainmentgroup #unboundrecords https://t.co/vFLNc6MOfG"
+	},
+	{
+		"created_at": "Mon Feb 21 09:29:33 +0000 2022",
+		"id": 1495686144159522800,
+		"id_str": "1495692155775557632",
+		"full_text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n\nMelon➫https://t.co/NtJR3e6S2F\nFLO➫https://t.co/ZWXoSfgDWr\ngenie➫https://t.co/tVAQqPj816\nNAVER➫https://t.co/IP7Mei2Bp1 \n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMINJONG",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"text": "김민종",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "KIMMINJONG_EndlessNight",
+					"indices": [
+						187,
+						211
+					]
+				},
+				{
+					"text": "긴밤",
+					"indices": [
+						212,
+						215
+					]
+				},
+				{
+					"text": "EndlessNight",
+					"indices": [
+						216,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NtJR3e6S2F",
+					"expanded_url": "http://kko.to/ncc5bsu4j",
+					"display_url": "kko.to/ncc5bsu4j",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/ZWXoSfgDWr",
+					"expanded_url": "http://flomuz.io/s/a.BKhkC",
+					"display_url": "flomuz.io/s/a.BKhkC",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/tVAQqPj816",
+					"expanded_url": "http://www.genie.co.kr/TW1E36",
+					"display_url": "genie.co.kr/TW1E36",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/IP7Mei2Bp1",
+					"expanded_url": "http://naver.me/xlKLP8t0",
+					"display_url": "naver.me/xlKLP8t0",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10619058,
+			"friends_count": 55,
+			"listed_count": 11756,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 1274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION] KIM MIN JONG 김민종 〖긴 밤 (Endless Night)〗\n\nMelon➫https://t.co/NtJR3e6S2F\nFLO➫https://t.co/ZWXoSfgDWr\ngenie➫https://t.co/tVAQqPj816\nNAVER➫https://t.co/IP7Mei2Bp1 \n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight"
+	},
+	{
+		"created_at": "Mon Feb 21 09:29:30 +0000 2022",
+		"id": 1495685399062401000,
+		"id_str": "1495692142660009989",
+		"full_text": "※ 음반 판매처 사정에 따라 실수령 일자는 상이할 수 있습니다.\n※ 이미지는 구매를 돕기 위한 예시 이미지로 실제 상품과 차이가 있을 수 있습니다.\n\n#장기하 #ChangKiha #공중부양 #Levitation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장기하",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "ChangKiha",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "공중부양",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "Levitation",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495684729596788700,
+		"in_reply_to_status_id_str": "1495684729596788738",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4003,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "※ 음반 판매처 사정에 따라 실수령 일자는 상이할 수 있습니다.\n※ 이미지는 구매를 돕기 위한 예시 이미지로 실제 상품과 차이가 있을 수 있습니다.\n\n#장기하 #ChangKiha #공중부양 #Levitation"
+	},
+	{
+		"created_at": "Mon Feb 21 09:29:26 +0000 2022",
+		"id": 1495685398630375400,
+		"id_str": "1495692129615630339",
+		"full_text": "[김우주]\n2022.02.23 12PM KST\nNew Single '그날 밤'\n\n#김우주 #음악 #music #인디 #노래 https://t.co/PtEZyu0Uws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						65,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495685382406480000,
+					"id_str": "1495685382406479872",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495685382406479872/pu/img/7ypLpDAw0CGtIA3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495685382406479872/pu/img/7ypLpDAw0CGtIA3a.jpg",
+					"url": "https://t.co/PtEZyu0Uws",
+					"display_url": "pic.twitter.com/PtEZyu0Uws",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1495685398630375424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495685382406480000,
+					"id_str": "1495685382406479872",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495685382406479872/pu/img/7ypLpDAw0CGtIA3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495685382406479872/pu/img/7ypLpDAw0CGtIA3a.jpg",
+					"url": "https://t.co/PtEZyu0Uws",
+					"display_url": "pic.twitter.com/PtEZyu0Uws",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1495685398630375424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 7133,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495685382406479872/pu/vid/480x360/51Zyc1lU5q156l1y.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495685382406479872/pu/vid/360x270/UmdX_8QXpxMce4ji.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1495685382406479872/pu/pl/MTv5my6w1NxbFlco.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495685382406479872/pu/vid/960x720/jEExu-UxRwMWTGK7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n2022.02.23 12PM KST\nNew Single '그날 밤'\n\n#김우주 #음악 #music #인디 #노래 https://t.co/PtEZyu0Uws"
+	},
+	{
 		"created_at": "Mon Feb 21 09:16:06 +0000 2022",
 		"id": 1495688770108153900,
 		"id_str": "1495688770108153856",
