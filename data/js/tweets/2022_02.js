@@ -1,6 +1,722 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 09:29:45 +0000 2022",
+		"id": 1496052628962570200,
+		"id_str": "1496054595881213952",
+		"full_text": "장기하 EP [공중부양]의 타이틀 곡 '부럽지가 않어'의 뮤직비디오가 공개 되었습니다.\n\nMusic Video by Yehwan Song \n\n[MV] 장기하 (Chang Kiha) _ 부럽지가 않어 https://t.co/Tav3wtEQPb - @YouTube https://t.co/LwUy19DLKO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						137,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tav3wtEQPb",
+					"expanded_url": "https://youtu.be/SzyB2xBqkps",
+					"display_url": "youtu.be/SzyB2xBqkps",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496052439250010000,
+					"id_str": "1496052439250010114",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496052439250010114/pu/img/62uFlvckRrOq9Xep.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496052439250010114/pu/img/62uFlvckRrOq9Xep.jpg",
+					"url": "https://t.co/LwUy19DLKO",
+					"display_url": "pic.twitter.com/LwUy19DLKO",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1496052628962570242/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496052439250010000,
+					"id_str": "1496052439250010114",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496052439250010114/pu/img/62uFlvckRrOq9Xep.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496052439250010114/pu/img/62uFlvckRrOq9Xep.jpg",
+					"url": "https://t.co/LwUy19DLKO",
+					"display_url": "pic.twitter.com/LwUy19DLKO",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1496052628962570242/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496052439250010114/pu/vid/1280x720/8-2OX12mlqO04ojs.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496052439250010114/pu/vid/640x360/ZMfBl2COpD_6E-7R.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496052439250010114/pu/vid/480x270/_PC7vu5wAmDxNLzH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1496052439250010114/pu/pl/_V1ml5cvqErB5ryd.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하 EP [공중부양]의 타이틀 곡 '부럽지가 않어'의 뮤직비디오가 공개 되었습니다.\n\nMusic Video by Yehwan Song \n\n[MV] 장기하 (Chang Kiha) _ 부럽지가 않어 https://t.co/Tav3wtEQPb - @YouTube https://t.co/LwUy19DLKO"
+	},
+	{
+		"created_at": "Tue Feb 22 09:29:37 +0000 2022",
+		"id": 1496047807916314600,
+		"id_str": "1496054561815019523",
+		"full_text": "✔️일시\n2022. 2. 26. (토) 6PM\n2022. 2. 27. (일) 5PM\n\n✔️장소\n서강대 메리홀 대극장\n\n✔️예매\nhttps://t.co/Yzu8VbNpnR\n\n@SCJAZZY \n#YUNSEOKCHEOL_TRIO\n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin \n#익숙하고일정한 #FamiliarandConstant",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YUNSEOKCHEOL_TRIO",
+					"indices": [
+						106,
+						124
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "정상이",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "김영진",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						141,
+						154
+					]
+				},
+				{
+					"text": "JungSangE",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "KimYeongJin",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "FamiliarandConstant",
+					"indices": [
+						189,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						96,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yzu8VbNpnR",
+					"expanded_url": "https://bit.ly/35g9tyu",
+					"display_url": "bit.ly/35g9tyu",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1496047803961086000,
+		"in_reply_to_status_id_str": "1496047803961085955",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40377,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️일시\n2022. 2. 26. (토) 6PM\n2022. 2. 27. (일) 5PM\n\n✔️장소\n서강대 메리홀 대극장\n\n✔️예매\nhttps://t.co/Yzu8VbNpnR\n\n@SCJAZZY \n#YUNSEOKCHEOL_TRIO\n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin \n#익숙하고일정한 #FamiliarandConstant"
+	},
+	{
+		"created_at": "Tue Feb 22 09:29:35 +0000 2022",
+		"id": 1496047756607164400,
+		"id_str": "1496054552918904833",
+		"full_text": "Artwork Photography by 민현우\nStyling Directed by 김예영\n\nDesigned by 김영나\nTypeface by 채희준\nMusic Video by 송예환 (track 3)\n\nPresented by 두루두루아티스트컴퍼니\nDistributed by 카카오엔터테인먼트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1496047754053058600,
+		"in_reply_to_status_id_str": "1496047754053058560",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Artwork Photography by 민현우\nStyling Directed by 김예영\n\nDesigned by 김영나\nTypeface by 채희준\nMusic Video by 송예환 (track 3)\n\nPresented by 두루두루아티스트컴퍼니\nDistributed by 카카오엔터테인먼트"
+	},
+	{
+		"created_at": "Tue Feb 22 09:29:29 +0000 2022",
+		"id": 1496047754053058600,
+		"id_str": "1496054527279210498",
+		"full_text": "장기하 첫 솔로 EP [공중부양]이 발매 되었습니다. 음원 스트리밍 사이트에서 확인하실 수 있습니다.\nChang Kiha EP [공중부양] OUT NOW!\n\nAll tracks by 장기하\nCo-Arranged by Alfie Hole (track 2)\nSound Advised by 지윤해\nMastered by 나잠 수\nSpecial Thanks to 이자람 (track 4) https://t.co/BDhJFSbbcm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496047747103076400,
+					"id_str": "1496047747103076358",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMHf-UaMAYIbyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMHf-UaMAYIbyx.jpg",
+					"url": "https://t.co/BDhJFSbbcm",
+					"display_url": "pic.twitter.com/BDhJFSbbcm",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1496047754053058560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496047747103076400,
+					"id_str": "1496047747103076358",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMHf-UaMAYIbyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMHf-UaMAYIbyx.jpg",
+					"url": "https://t.co/BDhJFSbbcm",
+					"display_url": "pic.twitter.com/BDhJFSbbcm",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1496047754053058560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496047747132461000,
+					"id_str": "1496047747132461059",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMHf-bakAMxtK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMHf-bakAMxtK0.jpg",
+					"url": "https://t.co/BDhJFSbbcm",
+					"display_url": "pic.twitter.com/BDhJFSbbcm",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1496047754053058560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하 첫 솔로 EP [공중부양]이 발매 되었습니다. 음원 스트리밍 사이트에서 확인하실 수 있습니다.\nChang Kiha EP [공중부양] OUT NOW!\n\nAll tracks by 장기하\nCo-Arranged by Alfie Hole (track 2)\nSound Advised by 지윤해\nMastered by 나잠 수\nSpecial Thanks to 이자람 (track 4) https://t.co/BDhJFSbbcm"
+	},
+	{
 		"created_at": "Tue Feb 22 09:07:32 +0000 2022",
 		"id": 1496049003024244700,
 		"id_str": "1496049003024244738",
