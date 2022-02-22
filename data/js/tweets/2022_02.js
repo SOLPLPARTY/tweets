@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 06:11:16 +0000 2022",
+		"id": 1495996595149881300,
+		"id_str": "1496004647206928387",
+		"full_text": "[티켓오픈공지]\nCONNECT : 서온X홍예진\nhttps://t.co/JqCOfy1F0L\n\n* 티켓오픈일 : 2022년 2월 24일(목) 오후 7시\n* 공연일 : 2022년 3월 11일(금) 오후 7시30분\n\n#프리즘홀 #prismhall #CONNECT #서온 #홍예진 #멜론티켓 #홍대공연 #공연추천 https://t.co/1LmJjXpNZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "CONNECT",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "서온",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "홍예진",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						164,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JqCOfy1F0L",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=5876",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495996586832588800,
+					"id_str": "1495996586832588801",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FMLY-DdacAEmzS-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMLY-DdacAEmzS-.jpg",
+					"url": "https://t.co/1LmJjXpNZC",
+					"display_url": "pic.twitter.com/1LmJjXpNZC",
+					"expanded_url": "https://twitter.com/prismhall/status/1495996595149881344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 1184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495996586832588800,
+					"id_str": "1495996586832588801",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FMLY-DdacAEmzS-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMLY-DdacAEmzS-.jpg",
+					"url": "https://t.co/1LmJjXpNZC",
+					"display_url": "pic.twitter.com/1LmJjXpNZC",
+					"expanded_url": "https://twitter.com/prismhall/status/1495996595149881344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 1184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 1118,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓오픈공지]\nCONNECT : 서온X홍예진\nhttps://t.co/JqCOfy1F0L\n\n* 티켓오픈일 : 2022년 2월 24일(목) 오후 7시\n* 공연일 : 2022년 3월 11일(금) 오후 7시30분\n\n#프리즘홀 #prismhall #CONNECT #서온 #홍예진 #멜론티켓 #홍대공연 #공연추천 https://t.co/1LmJjXpNZC"
+	},
+	{
 		"created_at": "Tue Feb 22 03:29:36 +0000 2022",
 		"id": 1495957255002464300,
 		"id_str": "1495963961417781250",
