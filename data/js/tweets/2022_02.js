@@ -1,6 +1,1029 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 13:29:45 +0000 2022",
+		"id": 1496113096985051100,
+		"id_str": "1496114993959424001",
+		"full_text": "&lt;Antenna Tigers&gt;\n2022\nCrayons on sketchbook\n\n#Antenna #안테나미술관\n\n#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환 #황현조 https://t.co/IolHSi1OW2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Antenna",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "안테나미술관",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "박새별",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "서동환",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "황현조",
+					"indices": [
+						149,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496109616387989500,
+					"id_str": "1496109616387989508",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_xPXaIAQ8PLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_xPXaIAQ8PLM.jpg",
+					"url": "https://t.co/IolHSi1OW2",
+					"display_url": "pic.twitter.com/IolHSi1OW2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113096985051137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496109616387989500,
+					"id_str": "1496109616387989508",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_xPXaIAQ8PLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_xPXaIAQ8PLM.jpg",
+					"url": "https://t.co/IolHSi1OW2",
+					"display_url": "pic.twitter.com/IolHSi1OW2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113096985051137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109616408969200,
+					"id_str": "1496109616408969216",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_xPcaQAAvujL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_xPcaQAAvujL.jpg",
+					"url": "https://t.co/IolHSi1OW2",
+					"display_url": "pic.twitter.com/IolHSi1OW2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113096985051137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109616396398600,
+					"id_str": "1496109616396398593",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_xPZacAEw1Ge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_xPZacAEw1Ge.jpg",
+					"url": "https://t.co/IolHSi1OW2",
+					"display_url": "pic.twitter.com/IolHSi1OW2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113096985051137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109616413180000,
+					"id_str": "1496109616413179907",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_xPdagAMGIjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_xPdagAMGIjf.jpg",
+					"url": "https://t.co/IolHSi1OW2",
+					"display_url": "pic.twitter.com/IolHSi1OW2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113096985051137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496113087396839400,
+		"in_reply_to_status_id_str": "1496113087396839432",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40377,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&lt;Antenna Tigers&gt;\n2022\nCrayons on sketchbook\n\n#Antenna #안테나미술관\n\n#유희열 #유재석 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #샘김 #이진아 #권진아 #정승환 #윤석철 #적재 #이미주 #서동환 #황현조 https://t.co/IolHSi1OW2"
+	},
+	{
+		"created_at": "Tue Feb 22 13:29:38 +0000 2022",
+		"id": 1496113087396839400,
+		"id_str": "1496114964079198209",
+		"full_text": "&lt;Antenna Tigers&gt;\n\n[작품 구입처]\n➡️ https://t.co/q9dO92qUpm\n\n#Antenna #안테나미술관 https://t.co/3lUM0vvJyS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Antenna",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "안테나미술관",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q9dO92qUpm",
+					"expanded_url": "https://www.29cm.co.kr/product/1344276",
+					"display_url": "29cm.co.kr/product/1344276",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496109531780489200,
+					"id_str": "1496109531780489221",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_sULaIAU8-Vs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_sULaIAU8-Vs.jpg",
+					"url": "https://t.co/3lUM0vvJyS",
+					"display_url": "pic.twitter.com/3lUM0vvJyS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113087396839432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496109531780489200,
+					"id_str": "1496109531780489221",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_sULaIAU8-Vs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_sULaIAU8-Vs.jpg",
+					"url": "https://t.co/3lUM0vvJyS",
+					"display_url": "pic.twitter.com/3lUM0vvJyS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113087396839432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109531642081300,
+					"id_str": "1496109531642081281",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_sTqaMAEfayO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_sTqaMAEfayO.jpg",
+					"url": "https://t.co/3lUM0vvJyS",
+					"display_url": "pic.twitter.com/3lUM0vvJyS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113087396839432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109531625312300,
+					"id_str": "1496109531625312257",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_sTmaUAEx4up.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_sTmaUAEx4up.jpg",
+					"url": "https://t.co/3lUM0vvJyS",
+					"display_url": "pic.twitter.com/3lUM0vvJyS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113087396839432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109531612725200,
+					"id_str": "1496109531612725248",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_sTjaQAAd5ba.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_sTjaQAAd5ba.jpg",
+					"url": "https://t.co/3lUM0vvJyS",
+					"display_url": "pic.twitter.com/3lUM0vvJyS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113087396839432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496113075275337700,
+		"in_reply_to_status_id_str": "1496113075275337734",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40377,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;Antenna Tigers&gt;\n\n[작품 구입처]\n➡️ https://t.co/q9dO92qUpm\n\n#Antenna #안테나미술관 https://t.co/3lUM0vvJyS"
+	},
+	{
+		"created_at": "Tue Feb 22 13:29:30 +0000 2022",
+		"id": 1496113075275337700,
+		"id_str": "1496114930038235136",
+		"full_text": "&lt;Antenna Tigers&gt;\n2022\nCrayons on sketchbook\n\n2022년 임인년(壬寅年)을 맞이하여\n안테나의 기운을 담은\n16마리의 호랑이가 담긴 작품\n\n#Antenna #안테나미술관 https://t.co/VY4cUUx3d1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Antenna",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "안테나미술관",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496109396992327700,
+					"id_str": "1496109396992327684",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_keDaAAQhHTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_keDaAAQhHTe.jpg",
+					"url": "https://t.co/VY4cUUx3d1",
+					"display_url": "pic.twitter.com/VY4cUUx3d1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113075275337734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496109396992327700,
+					"id_str": "1496109396992327684",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_keDaAAQhHTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_keDaAAQhHTe.jpg",
+					"url": "https://t.co/VY4cUUx3d1",
+					"display_url": "pic.twitter.com/VY4cUUx3d1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113075275337734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109396962984000,
+					"id_str": "1496109396962983942",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_kd8aQAY1N1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_kd8aQAY1N1p.jpg",
+					"url": "https://t.co/VY4cUUx3d1",
+					"display_url": "pic.twitter.com/VY4cUUx3d1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113075275337734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109397000753200,
+					"id_str": "1496109397000753152",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_keFakAAN7u7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_keFakAAN7u7.jpg",
+					"url": "https://t.co/VY4cUUx3d1",
+					"display_url": "pic.twitter.com/VY4cUUx3d1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113075275337734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496109396962984000,
+					"id_str": "1496109396962983941",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FMM_kd8aQAUCxLE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMM_kd8aQAUCxLE.jpg",
+					"url": "https://t.co/VY4cUUx3d1",
+					"display_url": "pic.twitter.com/VY4cUUx3d1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496113075275337734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496113064563064800,
+		"in_reply_to_status_id_str": "1496113064563064833",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40377,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;Antenna Tigers&gt;\n2022\nCrayons on sketchbook\n\n2022년 임인년(壬寅年)을 맞이하여\n안테나의 기운을 담은\n16마리의 호랑이가 담긴 작품\n\n#Antenna #안테나미술관 https://t.co/VY4cUUx3d1"
+	},
+	{
 		"created_at": "Tue Feb 22 11:11:17 +0000 2022",
 		"id": 1496067137244663800,
 		"id_str": "1496080144968134661",
@@ -466,7 +1489,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Tue Feb 22 10:29:34 +0000 2022",
 		"id": 1496056909153153000,
 		"id_str": "1496069646734270465",
-		"full_text": "#안녕코리아👋 ғʀᴏᴍ 🚀#샘라이더🪐\n신곡 👨‍🚀𝐒𝐏𝐀𝐂𝐄 𝐌𝐀𝐍👨‍🚀 발매!\n\n🎧음원듣기 https://t.co/fNNlB3q61x https://t.co/9Nf21t3JJg",
+		"full_text": "#안녕코리아👋 ғʀᴏᴍ 🚀#샘라이더🪐\n신곡 👨🚀𝐒𝐏𝐀𝐂𝐄 𝐌𝐀𝐍👨🚀 발매!\n\n🎧음원듣기 https://t.co/fNNlB3q61x https://t.co/9Nf21t3JJg",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -678,7 +1701,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#안녕코리아👋 ғʀᴏᴍ 🚀#샘라이더🪐\n신곡 👨‍🚀𝐒𝐏𝐀𝐂𝐄 𝐌𝐀𝐍👨‍🚀 발매!\n\n🎧음원듣기 https://t.co/fNNlB3q61x https://t.co/9Nf21t3JJg"
+		"text": "#안녕코리아👋 ғʀᴏᴍ 🚀#샘라이더🪐\n신곡 👨🚀𝐒𝐏𝐀𝐂𝐄 𝐌𝐀𝐍👨🚀 발매!\n\n🎧음원듣기 https://t.co/fNNlB3q61x https://t.co/9Nf21t3JJg"
 	},
 	{
 		"created_at": "Tue Feb 22 10:29:26 +0000 2022",
