@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 15:29:25 +0000 2022",
+		"id": 1496500093901492200,
+		"id_str": "1496507494671261702",
+		"full_text": "[Congrats]\n⠀\nHappy 2nd Debut Anniversary\n⠀\n최유리의 데뷔 2주년을 축하합니다!🎉\n팬분들의 사랑과 응원에 항상 감사드리고\n앞으로도 잘 부탁드립니다💛\n\n#Happy_Yuree_Day\n#최유리_데뷔2주년_축하해요 https://t.co/Br03DNa0j5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Happy_Yuree_Day",
+					"indices": [
+						102,
+						118
+					]
+				},
+				{
+					"text": "최유리_데뷔2주년_축하해요",
+					"indices": [
+						119,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496430293171208200,
+					"id_str": "1496430293171208195",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FMRjbFeagAM3015.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMRjbFeagAM3015.jpg",
+					"url": "https://t.co/Br03DNa0j5",
+					"display_url": "pic.twitter.com/Br03DNa0j5",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1496500093901492231/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496430293171208200,
+					"id_str": "1496430293171208195",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FMRjbFeagAM3015.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMRjbFeagAM3015.jpg",
+					"url": "https://t.co/Br03DNa0j5",
+					"display_url": "pic.twitter.com/Br03DNa0j5",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1496500093901492231/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7704,
+			"friends_count": 4,
+			"listed_count": 62,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1645423622",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Congrats]\n⠀\nHappy 2nd Debut Anniversary\n⠀\n최유리의 데뷔 2주년을 축하합니다!🎉\n팬분들의 사랑과 응원에 항상 감사드리고\n앞으로도 잘 부탁드립니다💛\n\n#Happy_Yuree_Day\n#최유리_데뷔2주년_축하해요 https://t.co/Br03DNa0j5"
+	},
+	{
 		"created_at": "Wed Feb 23 15:12:03 +0000 2022",
 		"id": 1496503124797833200,
 		"id_str": "1496503124797833217",
