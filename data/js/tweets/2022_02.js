@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 09:29:56 +0000 2022",
+		"id": 1496410392389914600,
+		"id_str": "1496417028378443781",
+		"full_text": "2022 월간 윤종신 Repair 2월호\n‘너의 여행 (With 정승환)’\n\nMelon https://t.co/NQeZ1pFrfe\nGenie https://t.co/oOgqvNOhDa\nBugs https://t.co/dWWWKE68an\nFLO https://t.co/05W0IDZWwq\n\n#JungSeungHwan\n#너의여행 #월간윤종신",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "너의여행",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						182,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQeZ1pFrfe",
+					"expanded_url": "http://bit.ly/3BQiFWz",
+					"display_url": "bit.ly/3BQiFWz",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/oOgqvNOhDa",
+					"expanded_url": "http://bit.ly/3LNRoZz",
+					"display_url": "bit.ly/3LNRoZz",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/dWWWKE68an",
+					"expanded_url": "http://bit.ly/33LCvWu",
+					"display_url": "bit.ly/33LCvWu",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/05W0IDZWwq",
+					"expanded_url": "http://bit.ly/3h916aU",
+					"display_url": "bit.ly/3h916aU",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1496410389709750300,
+		"in_reply_to_status_id_str": "1496410389709750275",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40390,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 월간 윤종신 Repair 2월호\n‘너의 여행 (With 정승환)’\n\nMelon https://t.co/NQeZ1pFrfe\nGenie https://t.co/oOgqvNOhDa\nBugs https://t.co/dWWWKE68an\nFLO https://t.co/05W0IDZWwq\n\n#JungSeungHwan\n#너의여행 #월간윤종신"
+	},
+	{
+		"created_at": "Wed Feb 23 09:29:48 +0000 2022",
+		"id": 1496410389709750300,
+		"id_str": "1496416994349961220",
+		"full_text": "[#Release] #정승환\n\n2022 월간 윤종신 Repair 2월호\n‘너의 여행 (With 정승환)’\n⠀\nLyrics by 윤종신\nComposed by 정석원\nArranged by 정석원\n\n정승환이 참여한 2022 월간 윤종신 Repair 2월호 ‘너의 여행 (With 정승환)’은 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/Fe0gYsSukZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496410383250505700,
+					"id_str": "1496410383250505728",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FMRRULPaQAAeEt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMRRULPaQAAeEt8.jpg",
+					"url": "https://t.co/Fe0gYsSukZ",
+					"display_url": "pic.twitter.com/Fe0gYsSukZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496410389709750275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496410383250505700,
+					"id_str": "1496410383250505728",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FMRRULPaQAAeEt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMRRULPaQAAeEt8.jpg",
+					"url": "https://t.co/Fe0gYsSukZ",
+					"display_url": "pic.twitter.com/Fe0gYsSukZ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496410389709750275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40390,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #정승환\n\n2022 월간 윤종신 Repair 2월호\n‘너의 여행 (With 정승환)’\n⠀\nLyrics by 윤종신\nComposed by 정석원\nArranged by 정석원\n\n정승환이 참여한 2022 월간 윤종신 Repair 2월호 ‘너의 여행 (With 정승환)’은 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/Fe0gYsSukZ"
+	},
+	{
+		"created_at": "Wed Feb 23 09:29:41 +0000 2022",
+		"id": 1496410353508716500,
+		"id_str": "1496416964591370247",
+		"full_text": "1st ASIA 22°02’25’’ 9PM (KST)\n2nd AMERICA 22°02’25’’ 9PM (PST)\n      ↘︎22°02’26’’ 2PM (KST)\n3rd EUROPE 22°02’26’’ 9PM (CET)\n      ↘︎22°02’27’’ 5AM (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496409504832888800,
+		"in_reply_to_status_id_str": "1496409504832888832",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10624522,
+			"friends_count": 55,
+			"listed_count": 11761,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 261,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1st ASIA 22°02’25’’ 9PM (KST)\n2nd AMERICA 22°02’25’’ 9PM (PST)\n      ↘︎22°02’26’’ 2PM (KST)\n3rd EUROPE 22°02’26’’ 9PM (CET)\n      ↘︎22°02’27’’ 5AM (KST)"
+	},
+	{
+		"created_at": "Wed Feb 23 09:29:31 +0000 2022",
+		"id": 1496410284487241700,
+		"id_str": "1496416926356152320",
+		"full_text": "Playlist ｜ 영원히 봄인 세상이라면 행복할 수 있을까 https://t.co/wdv4KvGdoe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wdv4KvGdoe",
+					"expanded_url": "http://blog.naver.com/chili7272/222655596320",
+					"display_url": "blog.naver.com/chili7272/2226…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2085,
+			"friends_count": 2348,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Playlist ｜ 영원히 봄인 세상이라면 행복할 수 있을까 https://t.co/wdv4KvGdoe"
+	},
+	{
+		"created_at": "Wed Feb 23 09:29:26 +0000 2022",
+		"id": 1496409607106818000,
+		"id_str": "1496416904940068866",
+		"full_text": "[#윤종신] 2022 월간 윤종신 Repair 2월호 '너의 여행 (With 정승환)' 공개✅\n\n🔗 https://t.co/EBbfY0u8SM\n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'One-Way (with Jung Seung Hwan)' is out✅\nListen and watch now🎶\n\n#월간윤종신 #Repair #2월호 #너의여행 #OneWay https://t.co/8W9I8qK4QX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "Repair",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "2월호",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "너의여행",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "OneWay",
+					"indices": [
+						209,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EBbfY0u8SM",
+					"expanded_url": "https://youtu.be/JQM1Ktjf_Qk",
+					"display_url": "youtu.be/JQM1Ktjf_Qk",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496404018104397800,
+					"id_str": "1496404018104397828",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FMRMin0VkAMesbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMRMin0VkAMesbA.jpg",
+					"url": "https://t.co/8W9I8qK4QX",
+					"display_url": "pic.twitter.com/8W9I8qK4QX",
+					"expanded_url": "https://twitter.com/themysticstory/status/1496409607106818048/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496404018104397800,
+					"id_str": "1496404018104397828",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FMRMin0VkAMesbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMRMin0VkAMesbA.jpg",
+					"url": "https://t.co/8W9I8qK4QX",
+					"display_url": "pic.twitter.com/8W9I8qK4QX",
+					"expanded_url": "https://twitter.com/themysticstory/status/1496409607106818048/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60560,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1496404018104397828/vid/480x270/FUAS-tmLJutEygEE.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1496404018104397828/vid/1280x720/e0D-mk5Ii01oLUsW.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1496404018104397828/pl/Ts3QAjBWQ5Tq-rqV.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1496404018104397828/vid/640x360/jZDySw5ryMS1BFmO.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[MV] 2022 월간 윤종신 Repair 2월호 - 너의 여행(with 정승환)",
+						"description": "[#윤종신] 2022 월간 윤종신 Repair 2월호 '너의 여행 (With 정승환)' 공개✅\n\n🔗 https://youtu.be/JQM1Ktjf_Qk\n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'One-Way (with Jung Seung Hwan)' is out✅\nListen and watch now🎶",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/JQM1Ktjf_Qk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33502,
+			"friends_count": 15,
+			"listed_count": 269,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1645607843",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 2022 월간 윤종신 Repair 2월호 '너의 여행 (With 정승환)' 공개✅\n\n🔗 https://t.co/EBbfY0u8SM\n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'One-Way (with Jung Seung Hwan)' is out✅\nListen and watch now🎶\n\n#월간윤종신 #Repair #2월호 #너의여행 #OneWay https://t.co/8W9I8qK4QX"
+	},
+	{
 		"created_at": "Wed Feb 23 09:14:54 +0000 2022",
 		"id": 1496413247775383600,
 		"id_str": "1496413247775383557",
