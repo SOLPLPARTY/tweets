@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 18:29:54 +0000 2022",
+		"id": 1496913663344595000,
+		"id_str": "1496915302768164870",
+		"full_text": "*예매는 마감되었습니다. 현매 입장을 원하시는 분은 7시~7시 반에 장충동 '아파트먼트 기룬'으로 오시면 됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1496913424676114400,
+		"in_reply_to_status_id_str": "1496913424676114441",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 13,
+			"listed_count": 3,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1644518911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*예매는 마감되었습니다. 현매 입장을 원하시는 분은 7시~7시 반에 장충동 '아파트먼트 기룬'으로 오시면 됩니다."
+	},
+	{
+		"created_at": "Thu Feb 24 18:29:45 +0000 2022",
+		"id": 1496913424676114400,
+		"id_str": "1496915264520208388",
+		"full_text": "전화위복의 상황이 되었는데요. 다만 장비 설치와 세팅을 위한 준비 시간이 예정보다  오래 걸리게 될 것 같습니다. 예정대로 1부 시간(12~6시)에는 카페를 자유롭게 이용하실 수 있지만 음악이 재생되기까지 시간이 지연될 수 있는 점 양해 부탁드립니다. 2부 음감회는 예정대로 진행됩니다. https://t.co/PbF2x2FFCZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496913418997026800,
+					"id_str": "1496913418997026816",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FMYa0tbVUAAMOFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMYa0tbVUAAMOFf.jpg",
+					"url": "https://t.co/PbF2x2FFCZ",
+					"display_url": "pic.twitter.com/PbF2x2FFCZ",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1496913424676114441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496913418997026800,
+					"id_str": "1496913418997026816",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FMYa0tbVUAAMOFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMYa0tbVUAAMOFf.jpg",
+					"url": "https://t.co/PbF2x2FFCZ",
+					"display_url": "pic.twitter.com/PbF2x2FFCZ",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1496913424676114441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496913422088228900,
+					"id_str": "1496913422088228878",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FMYa048VUA4v6tV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMYa048VUA4v6tV.jpg",
+					"url": "https://t.co/PbF2x2FFCZ",
+					"display_url": "pic.twitter.com/PbF2x2FFCZ",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1496913424676114441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1496913144429498400,
+		"in_reply_to_status_id_str": "1496913144429498374",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 13,
+			"listed_count": 3,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1644518911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전화위복의 상황이 되었는데요. 다만 장비 설치와 세팅을 위한 준비 시간이 예정보다  오래 걸리게 될 것 같습니다. 예정대로 1부 시간(12~6시)에는 카페를 자유롭게 이용하실 수 있지만 음악이 재생되기까지 시간이 지연될 수 있는 점 양해 부탁드립니다. 2부 음감회는 예정대로 진행됩니다. https://t.co/PbF2x2FFCZ"
+	},
+	{
+		"created_at": "Thu Feb 24 18:29:37 +0000 2022",
+		"id": 1496913144429498400,
+		"id_str": "1496915234518450182",
+		"full_text": "이번 음감회에서는 아래와 같은 장비를 통해 [수몰]이 흐르게 될 예정입니다. 장비에 대한 상세한 내용은 웅진음향 사이트 https://t.co/rw73NBBGv2 을 참고해주세요.\n\n턴테이블 rega Planar 10 \n카트리지 rega Apheta 3\n포노앰프 rega Aura \n앰프 PrimaLuna EVO 300 hybrid \n스피커 PMC MB2se",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rw73NBBGv2",
+					"expanded_url": "http://wjsound.com",
+					"display_url": "wjsound.com",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1496912888585343000,
+		"in_reply_to_status_id_str": "1496912888585342976",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 13,
+			"listed_count": 3,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1644518911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 음감회에서는 아래와 같은 장비를 통해 [수몰]이 흐르게 될 예정입니다. 장비에 대한 상세한 내용은 웅진음향 사이트 https://t.co/rw73NBBGv2 을 참고해주세요.\n\n턴테이블 rega Planar 10 \n카트리지 rega Apheta 3\n포노앰프 rega Aura \n앰프 PrimaLuna EVO 300 hybrid \n스피커 PMC MB2se"
+	},
+	{
+		"created_at": "Thu Feb 24 18:29:28 +0000 2022",
+		"id": 1496912888585343000,
+		"id_str": "1496915196266389504",
+		"full_text": "소리의 질감과 음악이 주는 감동이 꼭 비례한다고는 할 수 없겠지만 좋은 소리를 통해 음악을 듣는 경험은 때로 인식의 범위를 넓혀주기도 합니다. 소리 보다는 음악에 집중하는 시간이겠지만, 음악이 소리로 이루어져 있는 만큼 그 둘을 굳이 구분할 필요는 없겠지요. https://t.co/bLpf75JPjF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496912878032474000,
+					"id_str": "1496912878032474145",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FMYaVOLVUCEmiDQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMYaVOLVUCEmiDQ.jpg",
+					"url": "https://t.co/bLpf75JPjF",
+					"display_url": "pic.twitter.com/bLpf75JPjF",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1496912888585342976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496912878032474000,
+					"id_str": "1496912878032474145",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FMYaVOLVUCEmiDQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMYaVOLVUCEmiDQ.jpg",
+					"url": "https://t.co/bLpf75JPjF",
+					"display_url": "pic.twitter.com/bLpf75JPjF",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1496912888585342976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496912881647906800,
+					"id_str": "1496912881647906816",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FMYaVbpUcAA43kt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMYaVbpUcAA43kt.jpg",
+					"url": "https://t.co/bLpf75JPjF",
+					"display_url": "pic.twitter.com/bLpf75JPjF",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1496912888585342976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496912886018412500,
+					"id_str": "1496912886018412546",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FMYaVr7VEAIPYVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMYaVr7VEAIPYVf.jpg",
+					"url": "https://t.co/bLpf75JPjF",
+					"display_url": "pic.twitter.com/bLpf75JPjF",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1496912888585342976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1496912591859249200,
+		"in_reply_to_status_id_str": "1496912591859249152",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 13,
+			"listed_count": 3,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1644518911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소리의 질감과 음악이 주는 감동이 꼭 비례한다고는 할 수 없겠지만 좋은 소리를 통해 음악을 듣는 경험은 때로 인식의 범위를 넓혀주기도 합니다. 소리 보다는 음악에 집중하는 시간이겠지만, 음악이 소리로 이루어져 있는 만큼 그 둘을 굳이 구분할 필요는 없겠지요. https://t.co/bLpf75JPjF"
+	},
+	{
 		"created_at": "Thu Feb 24 15:29:24 +0000 2022",
 		"id": 1496862491921596400,
 		"id_str": "1496869881597333506",
