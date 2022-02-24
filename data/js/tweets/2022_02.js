@@ -1,6 +1,1117 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 10:08:24 +0000 2022",
+		"id": 1496789097352163300,
+		"id_str": "1496789097352163332",
+		"full_text": "#ONSTAGE #온스테이지\n사랑의 힘을 믿는 간절함, 송예린\nhttps://t.co/KZQVV0akZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZQVV0akZy",
+					"expanded_url": "https://bit.ly/3JN0nZ6",
+					"display_url": "bit.ly/3JN0nZ6",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ONSTAGE #온스테이지\n사랑의 힘을 믿는 간절함, 송예린\nhttps://t.co/KZQVV0akZy"
+	},
+	{
+		"created_at": "Thu Feb 24 09:29:48 +0000 2022",
+		"id": 1496776177645600800,
+		"id_str": "1496779384224903173",
+		"full_text": "[인순이랑 놀고, 인생샷 찍고!📸]\n\n📣 #인순이 유튜브 채널에서 출연자를 모집합니다. \n\n✔조건: 1957년생 🐔 #닭띠 🐔 누구나\n\n✔문의 및 접수: phoebe.park@gushcloud.com\n*접수 시 간단한 자기소개와 사진 첨부\n\n(해당 영상 및 사진은 유튜브 및 SNS에 업로드 됩니다)\n\n#INSOONI https://t.co/oWxaha1moO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "닭띠",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496776051447701500,
+					"id_str": "1496776051447701504",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWd43baIAAS1ha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWd43baIAAS1ha.jpg",
+					"url": "https://t.co/oWxaha1moO",
+					"display_url": "pic.twitter.com/oWxaha1moO",
+					"expanded_url": "https://twitter.com/humap_official/status/1496776177645600771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496776051447701500,
+					"id_str": "1496776051447701504",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWd43baIAAS1ha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWd43baIAAS1ha.jpg",
+					"url": "https://t.co/oWxaha1moO",
+					"display_url": "pic.twitter.com/oWxaha1moO",
+					"expanded_url": "https://twitter.com/humap_official/status/1496776177645600771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[인순이랑 놀고, 인생샷 찍고!📸]\n\n📣 #인순이 유튜브 채널에서 출연자를 모집합니다. \n\n✔조건: 1957년생 🐔 #닭띠 🐔 누구나\n\n✔문의 및 접수: phoebe.park@gushcloud.com\n*접수 시 간단한 자기소개와 사진 첨부\n\n(해당 영상 및 사진은 유튜브 및 SNS에 업로드 됩니다)\n\n#INSOONI https://t.co/oWxaha1moO"
+	},
+	{
+		"created_at": "Thu Feb 24 09:29:43 +0000 2022",
+		"id": 1496775675461746700,
+		"id_str": "1496779361294635011",
+		"full_text": "*자세한 사항은 공지 이미지를 참고 부탁드립니다.\n\n-\n\n✔️일시\n2022. 2. 26. (토) 6PM\n2022. 2. 27. (일) 5PM\n\n✔️장소\n서강대 메리홀 대극장\n\n✔️예매\nhttps://t.co/Yzu8VbMRyj\n\n@SCJAZZY \n#YunSeokCheol #YunSeokCheolTrio\n#윤석철트리오 #익숙하고일정한 #단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"text": "YunSeokCheolTrio",
+					"indices": [
+						152,
+						169
+					]
+				},
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						187,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yzu8VbMRyj",
+					"expanded_url": "https://bit.ly/35g9tyu",
+					"display_url": "bit.ly/35g9tyu",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496775673095987200,
+		"in_reply_to_status_id_str": "1496775673095987200",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40412,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*자세한 사항은 공지 이미지를 참고 부탁드립니다.\n\n-\n\n✔️일시\n2022. 2. 26. (토) 6PM\n2022. 2. 27. (일) 5PM\n\n✔️장소\n서강대 메리홀 대극장\n\n✔️예매\nhttps://t.co/Yzu8VbMRyj\n\n@SCJAZZY \n#YunSeokCheol #YunSeokCheolTrio\n#윤석철트리오 #익숙하고일정한 #단독공연"
+	},
+	{
+		"created_at": "Thu Feb 24 09:29:37 +0000 2022",
+		"id": 1496775673095987200,
+		"id_str": "1496779335352844290",
+		"full_text": "[#Notice] #윤석철\n\n2022 윤석철트리오 단독공연 ‘익숙하고 일정한’\n공연 관람 수칙 안내\n\n🔵 티켓부스 운영 시간: 공연 시작 1시간 전 ~ 공연 시작 30분 후\n🟢 티켓 현장 판매: 66,000원\n⚫️ MD부스 운영 시간: 공연 시작 1시간 전 ~ 공연 시작 10분 전 https://t.co/HHZ2wryTlS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496775382879830000,
+					"id_str": "1496775382879830016",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWdR80aAAAb1VX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWdR80aAAAb1VX.jpg",
+					"url": "https://t.co/HHZ2wryTlS",
+					"display_url": "pic.twitter.com/HHZ2wryTlS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496775673095987200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496775382879830000,
+					"id_str": "1496775382879830016",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWdR80aAAAb1VX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWdR80aAAAb1VX.jpg",
+					"url": "https://t.co/HHZ2wryTlS",
+					"display_url": "pic.twitter.com/HHZ2wryTlS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496775673095987200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496775382884032500,
+					"id_str": "1496775382884032513",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWdR81aIAE7hlm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWdR81aIAE7hlm.jpg",
+					"url": "https://t.co/HHZ2wryTlS",
+					"display_url": "pic.twitter.com/HHZ2wryTlS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496775673095987200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1496775382875635700,
+					"id_str": "1496775382875635714",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWdR8zaAAITt-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWdR8zaAAITt-6.jpg",
+					"url": "https://t.co/HHZ2wryTlS",
+					"display_url": "pic.twitter.com/HHZ2wryTlS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1496775673095987200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40412,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #윤석철\n\n2022 윤석철트리오 단독공연 ‘익숙하고 일정한’\n공연 관람 수칙 안내\n\n🔵 티켓부스 운영 시간: 공연 시작 1시간 전 ~ 공연 시작 30분 후\n🟢 티켓 현장 판매: 66,000원\n⚫️ MD부스 운영 시간: 공연 시작 1시간 전 ~ 공연 시작 10분 전 https://t.co/HHZ2wryTlS"
+	},
+	{
+		"created_at": "Thu Feb 24 09:29:32 +0000 2022",
+		"id": 1496774500582449200,
+		"id_str": "1496779317749370880",
+		"full_text": "[WH3N(웬) - '습관' 바로듣기]\n⠀\n멜론 https://t.co/JHMIw9BVFJ\n벅스 https://t.co/RSzPJZ8iFV\n지니 https://t.co/9byhjiW6SE\n플로 https://t.co/FiGcnRbzw6\n바이브 https://t.co/q4zNMgBoR6\n\n#웬 #습관 #WH3N #Habitual",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬",
+					"indices": [
+						161,
+						163
+					]
+				},
+				{
+					"text": "습관",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "WH3N",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "Habitual",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JHMIw9BVFJ",
+					"expanded_url": "https://bit.ly/3pbu2n4",
+					"display_url": "bit.ly/3pbu2n4",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/RSzPJZ8iFV",
+					"expanded_url": "https://bit.ly/3sekxoQ",
+					"display_url": "bit.ly/3sekxoQ",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/9byhjiW6SE",
+					"expanded_url": "https://bit.ly/3pdKLG5",
+					"display_url": "bit.ly/3pdKLG5",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/FiGcnRbzw6",
+					"expanded_url": "https://bit.ly/3hetZ5e",
+					"display_url": "bit.ly/3hetZ5e",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/q4zNMgBoR6",
+					"expanded_url": "https://bit.ly/3HfrMBh",
+					"display_url": "bit.ly/3HfrMBh",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496771884125343700,
+		"in_reply_to_status_id_str": "1496771884125343763",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7701,
+			"friends_count": 4,
+			"listed_count": 62,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1645423622",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[WH3N(웬) - '습관' 바로듣기]\n⠀\n멜론 https://t.co/JHMIw9BVFJ\n벅스 https://t.co/RSzPJZ8iFV\n지니 https://t.co/9byhjiW6SE\n플로 https://t.co/FiGcnRbzw6\n바이브 https://t.co/q4zNMgBoR6\n\n#웬 #습관 #WH3N #Habitual"
+	},
+	{
+		"created_at": "Thu Feb 24 09:29:28 +0000 2022",
+		"id": 1496774446312398800,
+		"id_str": "1496779300158468101",
+		"full_text": "iScreaM Vol.14 : Peaches (Remixes) \n\nListen now on your favorite platform\n🎧https://t.co/RJlM6RwRYV\n\n#카이 #KAI  \n#엑소 #EXO #weareoneEXO\n#Peaches #Remix\n#SUMIN\n#no2zcat\n#iScreaM\n#ScreaMRecords",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카이",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "Peaches",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "SUMIN",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "no2zcat",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						174,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RJlM6RwRYV",
+					"expanded_url": "https://smarturl.it/iScreaM_Vol14",
+					"display_url": "smarturl.it/iScreaM_Vol14",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10626649,
+			"friends_count": 55,
+			"listed_count": 11769,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2483,
+		"favorite_count": 8284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.14 : Peaches (Remixes) \n\nListen now on your favorite platform\n🎧https://t.co/RJlM6RwRYV\n\n#카이 #KAI  \n#엑소 #EXO #weareoneEXO\n#Peaches #Remix\n#SUMIN\n#no2zcat\n#iScreaM\n#ScreaMRecords"
+	},
+	{
 		"created_at": "Thu Feb 24 09:11:16 +0000 2022",
 		"id": 1496761627126939600,
 		"id_str": "1496774720880283656",
