@@ -1,6 +1,1103 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 09:48:43 +0000 2022",
+		"id": 1497146533673898000,
+		"id_str": "1497146533673897984",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nKozyPop - Seoul Vibes, CREAM [Preview]\nhttps://t.co/3YrvfXDzpe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3YrvfXDzpe",
+					"expanded_url": "https://youtu.be/tVohRtiDDnc",
+					"display_url": "youtu.be/tVohRtiDDnc",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nKozyPop - Seoul Vibes, CREAM [Preview]\nhttps://t.co/3YrvfXDzpe"
+	},
+	{
+		"created_at": "Fri Feb 25 09:29:45 +0000 2022",
+		"id": 1497141466988445700,
+		"id_str": "1497141758442024964",
+		"full_text": "Producer #SOOMANLEE appointed as a research professor in the faculty of Computer Science at #KAIST\n\n-To dominate the world of metaverse with Korea's excellent content and technology, and to train talented people who will lead the global entertainment market in the future. https://t.co/nZRnQ4uQuf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "KAIST",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497139871840112600,
+					"id_str": "1497139871840112645",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497139871840112645/pu/img/Dyug4IihojNT5l0G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497139871840112645/pu/img/Dyug4IihojNT5l0G.jpg",
+					"url": "https://t.co/nZRnQ4uQuf",
+					"display_url": "pic.twitter.com/nZRnQ4uQuf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1497141466988445697/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497139871840112600,
+					"id_str": "1497139871840112645",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497139871840112645/pu/img/Dyug4IihojNT5l0G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497139871840112645/pu/img/Dyug4IihojNT5l0G.jpg",
+					"url": "https://t.co/nZRnQ4uQuf",
+					"display_url": "pic.twitter.com/nZRnQ4uQuf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1497141466988445697/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 24024,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497139871840112645/pu/vid/720x900/uAzJLZiPxNSldkKC.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497139871840112645/pu/vid/480x600/2hMzxYJZFLfxh6cv.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497139871840112645/pu/vid/320x400/hV4OfCIpugf2gK9j.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1497139871840112645/pu/pl/7yBlRIf53nY6BOFG.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10631425,
+			"friends_count": 55,
+			"listed_count": 11773,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 2195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Producer #SOOMANLEE appointed as a research professor in the faculty of Computer Science at #KAIST\n\n-To dominate the world of metaverse with Korea's excellent content and technology, and to train talented people who will lead the global entertainment market in the future. https://t.co/nZRnQ4uQuf"
+	},
+	{
+		"created_at": "Fri Feb 25 09:29:41 +0000 2022",
+		"id": 1497140788496838700,
+		"id_str": "1497141741211766785",
+		"full_text": "트위터 블루룸에서 진행한 장기하 EP [공중부양] 전곡 라이브 영상은 장기하 유튜브 채널에서 확인하실 수 있습니다.\n\n장기하 (Chang Kiha) - EP [공중부양] Live @Twitter Blueroom Live https://t.co/XWxcJ9WKSq 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XWxcJ9WKSq",
+					"expanded_url": "https://youtube.com/playlist?list=PL6l8PAiSe0uefm8YNW0Lc1Dwsy4ee9JX1",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4040,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 블루룸에서 진행한 장기하 EP [공중부양] 전곡 라이브 영상은 장기하 유튜브 채널에서 확인하실 수 있습니다.\n\n장기하 (Chang Kiha) - EP [공중부양] Live @Twitter Blueroom Live https://t.co/XWxcJ9WKSq 출처 @YouTube"
+	},
+	{
+		"created_at": "Fri Feb 25 09:29:33 +0000 2022",
+		"id": 1497137617174818800,
+		"id_str": "1497141707133104130",
+		"full_text": "#에라스무스 ! \n#판타지아에무2022 #박소은 #판타지아에무x박소은 #졸업 #영화졸업 #유어썸머 #복합문화공간에무 #팡타개라지 #에무시네마 #emucinema #pantagarage #emuartspace #광화문 #공연 #밴드 #영화 #토크 #fantasiaemu #fantasiaemu2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에라스무스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "판타지아에무2022",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "판타지아에무x박소은",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"text": "졸업",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "영화졸업",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "복합문화공간에무",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "팡타개라지",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "에무시네마",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "emucinema",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "pantagarage",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "emuartspace",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "광화문",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "밴드",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "토크",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "fantasiaemu",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "fantasiaemu2022",
+					"indices": [
+						150,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497137582987104300,
+		"in_reply_to_status_id_str": "1497137582987104259",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#에라스무스 ! \n#판타지아에무2022 #박소은 #판타지아에무x박소은 #졸업 #영화졸업 #유어썸머 #복합문화공간에무 #팡타개라지 #에무시네마 #emucinema #pantagarage #emuartspace #광화문 #공연 #밴드 #영화 #토크 #fantasiaemu #fantasiaemu2022"
+	},
+	{
+		"created_at": "Fri Feb 25 09:29:31 +0000 2022",
+		"id": 1497137582987104300,
+		"id_str": "1497141698287357954",
+		"full_text": "#판타지아에무 X #박소은\n- 일시 : 3/12(토) 14:30 상영 후 공연\n- 아티스트 : 박소은\n- 장소 : 에무시네마, 팡타개라지\n- 영화 : 졸업\n\n□ 예매 오픈 정보\n- 예매 오픈 : 2/26 (토) 14:00\n-예매처 : 네이버예약 https://t.co/7E15XiAjBx\n\n* 자세한 사항은 인스타그램 (panta.emu) 에서 확인해주세요! https://t.co/knpCqW4Rn7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "판타지아에무",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7E15XiAjBx",
+					"expanded_url": "https://c11.kr/x8zs",
+					"display_url": "c11.kr/x8zs",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497137574565277700,
+					"id_str": "1497137574565277702",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbmsR_acAYlucC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbmsR_acAYlucC.jpg",
+					"url": "https://t.co/knpCqW4Rn7",
+					"display_url": "pic.twitter.com/knpCqW4Rn7",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1497137582987104259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 840,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497137574565277700,
+					"id_str": "1497137574565277702",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbmsR_acAYlucC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbmsR_acAYlucC.jpg",
+					"url": "https://t.co/knpCqW4Rn7",
+					"display_url": "pic.twitter.com/knpCqW4Rn7",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1497137582987104259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 840,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497137574586241000,
+					"id_str": "1497137574586241024",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbmsSEaUAA0GOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbmsSEaUAA0GOr.jpg",
+					"url": "https://t.co/knpCqW4Rn7",
+					"display_url": "pic.twitter.com/knpCqW4Rn7",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1497137582987104259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 840,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#판타지아에무 X #박소은\n- 일시 : 3/12(토) 14:30 상영 후 공연\n- 아티스트 : 박소은\n- 장소 : 에무시네마, 팡타개라지\n- 영화 : 졸업\n\n□ 예매 오픈 정보\n- 예매 오픈 : 2/26 (토) 14:00\n-예매처 : 네이버예약 https://t.co/7E15XiAjBx\n\n* 자세한 사항은 인스타그램 (panta.emu) 에서 확인해주세요! https://t.co/knpCqW4Rn7"
+	},
+	{
+		"created_at": "Fri Feb 25 09:29:26 +0000 2022",
+		"id": 1497135524238139400,
+		"id_str": "1497141681078034432",
+		"full_text": "에코브릿지 ‘밤의 한계 (With 권진아)’\n\nMelon https://t.co/nzvSJLJbHZ \nGenie https://t.co/809pky6cAN\nBugs https://t.co/Zf1zfe8rbv \nFLO https://t.co/1JuerxZqLN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nzvSJLJbHZ",
+					"expanded_url": "http://bit.ly/3JSLYKP",
+					"display_url": "bit.ly/3JSLYKP",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/809pky6cAN",
+					"expanded_url": "http://bit.ly/3vd5Bcr",
+					"display_url": "bit.ly/3vd5Bcr",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/Zf1zfe8rbv",
+					"expanded_url": "http://bit.ly/3t8hcH3",
+					"display_url": "bit.ly/3t8hcH3",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/1JuerxZqLN",
+					"expanded_url": "http://bit.ly/3BR3DzV",
+					"display_url": "bit.ly/3BR3DzV",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497135521306673200,
+		"in_reply_to_status_id_str": "1497135521306673152",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40390,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에코브릿지 ‘밤의 한계 (With 권진아)’\n\nMelon https://t.co/nzvSJLJbHZ \nGenie https://t.co/809pky6cAN\nBugs https://t.co/Zf1zfe8rbv \nFLO https://t.co/1JuerxZqLN"
+	},
+	{
 		"created_at": "Fri Feb 25 09:04:36 +0000 2022",
 		"id": 1497135428587118600,
 		"id_str": "1497135428587118599",
