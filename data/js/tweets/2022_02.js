@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 03:29:38 +0000 2022",
+		"id": 1497043676719030300,
+		"id_str": "1497051132300079115",
+		"full_text": "[LIVE. ON / 파이널 공연 아티스트 소개]\n\n소규모 대중음악공연 지원 사업 ‘LIVE. ON’ 파이널 공연 출연팀을 소개합니다.\n\n✨ 쏜애플 / THORNAPPLE\n\n3월 5일 토요일 오후 6시부터 공연이 펼쳐집니다! 🥳\n▶ LIVE. ON: https://t.co/rLYaNohbTo\n▶ KOCCA MUSIC: https://t.co/u9RftmwgQ5 https://t.co/snBWhUIeOe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rLYaNohbTo",
+					"expanded_url": "https://c11.kr/x76f",
+					"display_url": "c11.kr/x76f",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/u9RftmwgQ5",
+					"expanded_url": "https://c11.kr/x8fp",
+					"display_url": "c11.kr/x8fp",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497035504248062000,
+					"id_str": "1497035504248061960",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FMaJ3AbagAgXGZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMaJ3AbagAgXGZP.jpg",
+					"url": "https://t.co/snBWhUIeOe",
+					"display_url": "pic.twitter.com/snBWhUIeOe",
+					"expanded_url": "https://twitter.com/record_liak/status/1497043676719030272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497035504248062000,
+					"id_str": "1497035504248061960",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FMaJ3AbagAgXGZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMaJ3AbagAgXGZP.jpg",
+					"url": "https://t.co/snBWhUIeOe",
+					"display_url": "pic.twitter.com/snBWhUIeOe",
+					"expanded_url": "https://twitter.com/record_liak/status/1497043676719030272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2007,
+			"friends_count": 1976,
+			"listed_count": 34,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE. ON / 파이널 공연 아티스트 소개]\n\n소규모 대중음악공연 지원 사업 ‘LIVE. ON’ 파이널 공연 출연팀을 소개합니다.\n\n✨ 쏜애플 / THORNAPPLE\n\n3월 5일 토요일 오후 6시부터 공연이 펼쳐집니다! 🥳\n▶ LIVE. ON: https://t.co/rLYaNohbTo\n▶ KOCCA MUSIC: https://t.co/u9RftmwgQ5 https://t.co/snBWhUIeOe"
+	},
+	{
+		"created_at": "Fri Feb 25 03:29:34 +0000 2022",
+		"id": 1497038836979101700,
+		"id_str": "1497051115019546695",
+		"full_text": "[VIDEO] [#인순이] #부캐전성시대\n\n[부캐맛집] 천하의 장미도 당황했다!😳 모든 분파가 모인 SSUL...☆｜부캐전성시대 10화 모아보기\n\n👉 https://t.co/DG7btsZjGQ\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #TV조선",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "부캐전성시대",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "TV조선",
+					"indices": [
+						140,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DG7btsZjGQ",
+					"expanded_url": "https://youtu.be/6qwyFo7Dj6g",
+					"display_url": "youtu.be/6qwyFo7Dj6g",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #부캐전성시대\n\n[부캐맛집] 천하의 장미도 당황했다!😳 모든 분파가 모인 SSUL...☆｜부캐전성시대 10화 모아보기\n\n👉 https://t.co/DG7btsZjGQ\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #TV조선"
+	},
+	{
 		"created_at": "Fri Feb 25 03:13:36 +0000 2022",
 		"id": 1497047099141148700,
 		"id_str": "1497047099141148674",
