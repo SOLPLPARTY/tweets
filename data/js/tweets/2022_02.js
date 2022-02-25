@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 10:29:47 +0000 2022",
+		"id": 1497155822979534800,
+		"id_str": "1497156866081759232",
+		"full_text": "1. Feb 너드커넥션 픽셀 A6 노트🕹\nNERD CONNECTION PIXEL A6 NOTE\n: 6,500원\n\n2. Feb 너드커넥션 픽셀 스티커🕹\nNERD CONNECTION PIXEL STICKER\n: 3,500원\n\n* 본 상품은 2월 28일까지 구매 가능합니다. \n\n#너드커넥션 #너컨 #월간MD #한정굿즈 #2월MD #Feb #마플샵 #수첩 #스티커 #레트로 #픽셀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "월간MD",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "한정굿즈",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "2월MD",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "Feb",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "마플샵",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "수첩",
+					"indices": [
+						192,
+						195
+					]
+				},
+				{
+					"text": "스티커",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "레트로",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "픽셀",
+					"indices": [
+						206,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497155752540409900,
+		"in_reply_to_status_id_str": "1497155752540409857",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1. Feb 너드커넥션 픽셀 A6 노트🕹\nNERD CONNECTION PIXEL A6 NOTE\n: 6,500원\n\n2. Feb 너드커넥션 픽셀 스티커🕹\nNERD CONNECTION PIXEL STICKER\n: 3,500원\n\n* 본 상품은 2월 28일까지 구매 가능합니다. \n\n#너드커넥션 #너컨 #월간MD #한정굿즈 #2월MD #Feb #마플샵 #수첩 #스티커 #레트로 #픽셀"
+	},
+	{
+		"created_at": "Fri Feb 25 10:29:38 +0000 2022",
+		"id": 1497155752540409900,
+		"id_str": "1497156827863265286",
+		"full_text": "NERD CONNECTION PIXEL ver.\n\n👾오직 2월에만 만나볼 수 있는 #너드커넥션 2월 월간 MD👾🕹\n\n픽셀화된 너드커넥션을 마플샵 플러스에서 만나보세요!\n\n🔗https://t.co/sFNUAGXeUK https://t.co/nUOO3B7WIo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						46,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFNUAGXeUK",
+					"expanded_url": "https://marpple.shop/nerdconnection",
+					"display_url": "marpple.shop/nerdconnection",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497155716310003700,
+					"id_str": "1497155716310003716",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497155716310003716/pu/img/31faJ1NSUIMRX7JL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497155716310003716/pu/img/31faJ1NSUIMRX7JL.jpg",
+					"url": "https://t.co/nUOO3B7WIo",
+					"display_url": "pic.twitter.com/nUOO3B7WIo",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1497155752540409857/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497155716310003700,
+					"id_str": "1497155716310003716",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497155716310003716/pu/img/31faJ1NSUIMRX7JL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497155716310003716/pu/img/31faJ1NSUIMRX7JL.jpg",
+					"url": "https://t.co/nUOO3B7WIo",
+					"display_url": "pic.twitter.com/nUOO3B7WIo",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1497155752540409857/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15465,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1497155716310003716/pu/pl/GemmDPSxrjtjLnN8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497155716310003716/pu/vid/720x720/1-Q2Fd6oQSEVTNSl.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497155716310003716/pu/vid/320x320/DQ81DlcCa0wXUl0s.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497155716310003716/pu/vid/540x540/8oG_fBTZbnTMvH0Y.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NERD CONNECTION PIXEL ver.\n\n👾오직 2월에만 만나볼 수 있는 #너드커넥션 2월 월간 MD👾🕹\n\n픽셀화된 너드커넥션을 마플샵 플러스에서 만나보세요!\n\n🔗https://t.co/sFNUAGXeUK https://t.co/nUOO3B7WIo"
+	},
+	{
+		"created_at": "Fri Feb 25 10:29:31 +0000 2022",
+		"id": 1497149378322174000,
+		"id_str": "1497156798016598021",
+		"full_text": "[Behind]\n⠀\nWH3N(웬) Digital Single '습관' 앨범 의 비하인드가 공개되었습니다.\n더 많은 사진은 쇼파르 공식 포스트에서 확인해주세요!\n\n▷https://t.co/3zjWo1HQ4O\n\n#웬 #습관 #WH3N #Habitual https://t.co/4Nwi6Ya9Bh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬",
+					"indices": [
+						116,
+						118
+					]
+				},
+				{
+					"text": "습관",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "WH3N",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "Habitual",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3zjWo1HQ4O",
+					"expanded_url": "http://naver.me/F2w1CDxT",
+					"display_url": "naver.me/F2w1CDxT",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497147663200166000,
+					"id_str": "1497147663200165888",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbv3hFaIAAsNWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbv3hFaIAAsNWc.jpg",
+					"url": "https://t.co/4Nwi6Ya9Bh",
+					"display_url": "pic.twitter.com/4Nwi6Ya9Bh",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1497149378322173957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1247,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497147663200166000,
+					"id_str": "1497147663200165888",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbv3hFaIAAsNWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbv3hFaIAAsNWc.jpg",
+					"url": "https://t.co/4Nwi6Ya9Bh",
+					"display_url": "pic.twitter.com/4Nwi6Ya9Bh",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1497149378322173957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1247,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7701,
+			"friends_count": 4,
+			"listed_count": 62,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1645423622",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Behind]\n⠀\nWH3N(웬) Digital Single '습관' 앨범 의 비하인드가 공개되었습니다.\n더 많은 사진은 쇼파르 공식 포스트에서 확인해주세요!\n\n▷https://t.co/3zjWo1HQ4O\n\n#웬 #습관 #WH3N #Habitual https://t.co/4Nwi6Ya9Bh"
+	},
+	{
 		"created_at": "Fri Feb 25 09:48:43 +0000 2022",
 		"id": 1497146533673898000,
 		"id_str": "1497146533673897984",
