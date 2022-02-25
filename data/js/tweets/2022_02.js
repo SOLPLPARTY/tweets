@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 06:11:16 +0000 2022",
+		"id": 1497077926579564500,
+		"id_str": "1497091810577031175",
+		"full_text": "[티켓오픈공지]\n티키타카콘서트 : 불고기디스코\nhttps://t.co/Zwv5vWDmFm\n\n* 티켓오픈일 : 2022년 2월 28일(월) 오후 7시\n* 공연일 : 2022년 3월 18일(금) 오후 7시30분\n\n1. 예매 45,000원\n2. 본 공연은 지정 좌석제입니다\n\n#프리즘홀 #prismhall #불고기디스코 #티키타카콘서트 #홍대공연 #공연추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "불고기디스코",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "티키타카콘서트",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zwv5vWDmFm",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=5891",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2049,
+			"friends_count": 1118,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓오픈공지]\n티키타카콘서트 : 불고기디스코\nhttps://t.co/Zwv5vWDmFm\n\n* 티켓오픈일 : 2022년 2월 28일(월) 오후 7시\n* 공연일 : 2022년 3월 18일(금) 오후 7시30분\n\n1. 예매 45,000원\n2. 본 공연은 지정 좌석제입니다\n\n#프리즘홀 #prismhall #불고기디스코 #티키타카콘서트 #홍대공연 #공연추천"
+	},
+	{
+		"created_at": "Fri Feb 25 05:29:34 +0000 2022",
+		"id": 1497074811063120000,
+		"id_str": "1497081313844678668",
+		"full_text": "📍코엑스 미디어 타워\n📍파르나스 미디어 타워\n(~2022.3.5까지)\n\n#한국전래동화 #사랑노래\n#어쩌려고그런말을해 \n#익숙하고일정한 #도사님펑크 \n#KoreanFairyTale #Lovesong #Howcouldyou\n#FamiliarandConstant #Dosanimfunk https://t.co/zPrIgmZyd4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국전래동화",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "사랑노래",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "어쩌려고그런말을해",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "도사님펑크",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "KoreanFairyTale",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"text": "Lovesong",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "Howcouldyou",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"text": "FamiliarandConstant",
+					"indices": [
+						123,
+						143
+					]
+				},
+				{
+					"text": "Dosanimfunk",
+					"indices": [
+						144,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497074765651411000,
+					"id_str": "1497074765651410945",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497074765651410945/pu/img/UdeatzBK-X5LoZG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497074765651410945/pu/img/UdeatzBK-X5LoZG1.jpg",
+					"url": "https://t.co/zPrIgmZyd4",
+					"display_url": "pic.twitter.com/zPrIgmZyd4",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497074811063119875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497074765651411000,
+					"id_str": "1497074765651410945",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497074765651410945/pu/img/UdeatzBK-X5LoZG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497074765651410945/pu/img/UdeatzBK-X5LoZG1.jpg",
+					"url": "https://t.co/zPrIgmZyd4",
+					"display_url": "pic.twitter.com/zPrIgmZyd4",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497074811063119875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26924,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497074765651410945/pu/vid/480x852/4qxbpp4LJq81kcpC.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497074765651410945/pu/vid/720x1280/8jMF0Hoe5K9N7K_J.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497074765651410945/pu/vid/320x568/h2Hbqo3oYdGj-2j0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1497074765651410945/pu/pl/MjPDsik_NewXL9WR.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497074734592573400,
+		"in_reply_to_status_id_str": "1497074734592573441",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40390,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍코엑스 미디어 타워\n📍파르나스 미디어 타워\n(~2022.3.5까지)\n\n#한국전래동화 #사랑노래\n#어쩌려고그런말을해 \n#익숙하고일정한 #도사님펑크 \n#KoreanFairyTale #Lovesong #Howcouldyou\n#FamiliarandConstant #Dosanimfunk https://t.co/zPrIgmZyd4"
+	},
+	{
 		"created_at": "Fri Feb 25 05:11:16 +0000 2022",
 		"id": 1497067523308605400,
 		"id_str": "1497076710919000065",
