@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 08:29:25 +0000 2022",
+		"id": 1497481564866834400,
+		"id_str": "1497488961601785856",
+		"full_text": "[LIVE. ON / 파이널공연 아티스트 소개]\n\n소규모 대중음악공연 지원사업 ‘LIVE. ON’ 파이널공연 출연팀을 소개합니다.\n\n✨ 다크미러오브트레지디 / Dark Mirror ov Tragedy\n\n3월 5일(토) 18시부터 공연이 펼쳐집니다!🥳\n▶ LIVE. ON: https://t.co/rLYaNohbTo\n▶ KOCCA MUSIC: https://t.co/u9RftmwgQ5 https://t.co/7AFhkd4yk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rLYaNohbTo",
+					"expanded_url": "https://c11.kr/x76f",
+					"display_url": "c11.kr/x76f",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/u9RftmwgQ5",
+					"expanded_url": "https://c11.kr/x8fp",
+					"display_url": "c11.kr/x8fp",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497039336499720200,
+					"id_str": "1497039336499720198",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FMaNWEraMAY23Gf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMaNWEraMAY23Gf.jpg",
+					"url": "https://t.co/7AFhkd4yk0",
+					"display_url": "pic.twitter.com/7AFhkd4yk0",
+					"expanded_url": "https://twitter.com/record_liak/status/1497481564866834433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497039336499720200,
+					"id_str": "1497039336499720198",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FMaNWEraMAY23Gf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMaNWEraMAY23Gf.jpg",
+					"url": "https://t.co/7AFhkd4yk0",
+					"display_url": "pic.twitter.com/7AFhkd4yk0",
+					"expanded_url": "https://twitter.com/record_liak/status/1497481564866834433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2011,
+			"friends_count": 1976,
+			"listed_count": 34,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE. ON / 파이널공연 아티스트 소개]\n\n소규모 대중음악공연 지원사업 ‘LIVE. ON’ 파이널공연 출연팀을 소개합니다.\n\n✨ 다크미러오브트레지디 / Dark Mirror ov Tragedy\n\n3월 5일(토) 18시부터 공연이 펼쳐집니다!🥳\n▶ LIVE. ON: https://t.co/rLYaNohbTo\n▶ KOCCA MUSIC: https://t.co/u9RftmwgQ5 https://t.co/7AFhkd4yk0"
+	},
+	{
 		"created_at": "Sat Feb 26 06:11:16 +0000 2022",
 		"id": 1497428047980548000,
 		"id_str": "1497454198375559170",
