@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 08:29:29 +0000 2022",
+		"id": 1497843950920650800,
+		"id_str": "1497851369516109827",
+		"full_text": "[LIVE. ON / 파이널 공연 아티스트 소개]\n\n소규모 대중음악공연 지원 사업 ‘LIVE. ON’ 파이널 공연 출연팀을 소개합니다.\n\n✨ 피엘 / PL\n\n3월 5일 토요일 오후 6시부터 공연이 펼쳐집니다! 🥳\n▶ LIVE. ON: https://t.co/rLYaNoyNhY\n▶ KOCCA MUSIC: https://t.co/u9RftmeFYx https://t.co/KNZUOluG0B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rLYaNoyNhY",
+					"expanded_url": "https://c11.kr/x76f",
+					"display_url": "c11.kr/x76f",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/u9RftmeFYx",
+					"expanded_url": "https://c11.kr/x8fp",
+					"display_url": "c11.kr/x8fp",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497040969879154700,
+					"id_str": "1497040969879154691",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FMaO1JfacAMfZ-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMaO1JfacAMfZ-r.jpg",
+					"url": "https://t.co/KNZUOluG0B",
+					"display_url": "pic.twitter.com/KNZUOluG0B",
+					"expanded_url": "https://twitter.com/record_liak/status/1497843950920650753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497040969879154700,
+					"id_str": "1497040969879154691",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FMaO1JfacAMfZ-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMaO1JfacAMfZ-r.jpg",
+					"url": "https://t.co/KNZUOluG0B",
+					"display_url": "pic.twitter.com/KNZUOluG0B",
+					"expanded_url": "https://twitter.com/record_liak/status/1497843950920650753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2010,
+			"friends_count": 1976,
+			"listed_count": 34,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE. ON / 파이널 공연 아티스트 소개]\n\n소규모 대중음악공연 지원 사업 ‘LIVE. ON’ 파이널 공연 출연팀을 소개합니다.\n\n✨ 피엘 / PL\n\n3월 5일 토요일 오후 6시부터 공연이 펼쳐집니다! 🥳\n▶ LIVE. ON: https://t.co/rLYaNoyNhY\n▶ KOCCA MUSIC: https://t.co/u9RftmeFYx https://t.co/KNZUOluG0B"
+	},
+	{
 		"created_at": "Sun Feb 27 03:29:24 +0000 2022",
 		"id": 1497768450449682400,
 		"id_str": "1497775850153988102",
