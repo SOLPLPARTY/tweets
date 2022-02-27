@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 15:29:41 +0000 2022",
+		"id": 1497949625763782700,
+		"id_str": "1497957113657794561",
+		"full_text": "+ 우주를 건너 (Day1)\n+ 여대 앞에 사는 남자 (Day2)\n+ Love Is A Song\n\n@SCJAZZY  \n#윤석철트리오 #윤석철 #정상이 #김영진\n#YunSeokCheol #YunSeokCheolTrio\n#익숙하고일정한 #단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "정상이",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "김영진",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"text": "YunSeokCheolTrio",
+					"indices": [
+						103,
+						120
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497949622701936600,
+		"in_reply_to_status_id_str": "1497949622701936650",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40406,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "+ 우주를 건너 (Day1)\n+ 여대 앞에 사는 남자 (Day2)\n+ Love Is A Song\n\n@SCJAZZY  \n#윤석철트리오 #윤석철 #정상이 #김영진\n#YunSeokCheol #YunSeokCheolTrio\n#익숙하고일정한 #단독공연"
+	},
+	{
+		"created_at": "Sun Feb 27 15:29:34 +0000 2022",
+		"id": 1497949622701936600,
+		"id_str": "1497957083785924613",
+		"full_text": "🎼 SET LIST\n01. 그의 걸음걸이는 이상해\n02. Footmonk\n03. 춘곤\n04. 4월의 D플랫\n05. 독백이라 착각하기 쉽다\n06. 어쩌려고 그런 말을 해\n07. 익숙하고 일정한\n08. 사랑노래\n09. 안녕히 주무세요\n10. 미발매곡🤫\n11. 한국전래동화 + 도사님 펑크\n12. Dear Friend\n13. 즐겁게, 음악 https://t.co/moRzB87c0K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497949608949219300,
+					"id_str": "1497949608949219328",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FMnJO5zagAAFPRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMnJO5zagAAFPRy.jpg",
+					"url": "https://t.co/moRzB87c0K",
+					"display_url": "pic.twitter.com/moRzB87c0K",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497949622701936650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497949608949219300,
+					"id_str": "1497949608949219328",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FMnJO5zagAAFPRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMnJO5zagAAFPRy.jpg",
+					"url": "https://t.co/moRzB87c0K",
+					"display_url": "pic.twitter.com/moRzB87c0K",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497949622701936650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497949609016295400,
+					"id_str": "1497949609016295424",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FMnJO6DaAAA0Jk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMnJO6DaAAA0Jk0.jpg",
+					"url": "https://t.co/moRzB87c0K",
+					"display_url": "pic.twitter.com/moRzB87c0K",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497949622701936650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497949609171521500,
+					"id_str": "1497949609171521537",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FMnJO6oakAEZijZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMnJO6oakAEZijZ.jpg",
+					"url": "https://t.co/moRzB87c0K",
+					"display_url": "pic.twitter.com/moRzB87c0K",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497949622701936650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497949603856937000,
+		"in_reply_to_status_id_str": "1497949603856936964",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40406,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎼 SET LIST\n01. 그의 걸음걸이는 이상해\n02. Footmonk\n03. 춘곤\n04. 4월의 D플랫\n05. 독백이라 착각하기 쉽다\n06. 어쩌려고 그런 말을 해\n07. 익숙하고 일정한\n08. 사랑노래\n09. 안녕히 주무세요\n10. 미발매곡🤫\n11. 한국전래동화 + 도사님 펑크\n12. Dear Friend\n13. 즐겁게, 음악 https://t.co/moRzB87c0K"
+	},
+	{
 		"created_at": "Sun Feb 27 12:29:35 +0000 2022",
 		"id": 1497910857409335300,
 		"id_str": "1497911792588435456",
