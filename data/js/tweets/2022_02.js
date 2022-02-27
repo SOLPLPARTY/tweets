@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 12:29:35 +0000 2022",
+		"id": 1497910857409335300,
+		"id_str": "1497911792588435456",
+		"full_text": "[Official Teaser] \nOlivia Hye (이달의 소녀) - 봄이 되어줄게 I'LL BE YOUR SPRING (Prod.공기남)\n\n2022.03.01 06PM (KST) \n--------------------------------------- \n#OliviaHye #이달의소녀 #공기남\n\nhttps://t.co/jj6rTUcWZJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OliviaHye",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "공기남",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jj6rTUcWZJ",
+					"expanded_url": "https://youtu.be/7EshMjd-eY0",
+					"display_url": "youtu.be/7EshMjd-eY0",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back, Daowl\n                         official home page ▶️https://t.co/NxkguP1kf8",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguP1kf8",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 943,
+			"friends_count": 422,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 5101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1644895889",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official Teaser] \nOlivia Hye (이달의 소녀) - 봄이 되어줄게 I'LL BE YOUR SPRING (Prod.공기남)\n\n2022.03.01 06PM (KST) \n--------------------------------------- \n#OliviaHye #이달의소녀 #공기남\n\nhttps://t.co/jj6rTUcWZJ"
+	},
+	{
+		"created_at": "Sun Feb 27 12:29:33 +0000 2022",
+		"id": 1497904351217688600,
+		"id_str": "1497911783515987969",
+		"full_text": "[#Teaser]\n올리비아 혜 (Olivia Hye) (이달의 소녀) - 봄이 되어줄게 (prod.공기남)\n\n2022.03.01 6PM (KST) \n▶️https://t.co/QXCYKoKnBn\n\n#warnerkpop #warnermusic #KPOP #OliviaHye #이달의소녀 #LOONA #올리비아혜 #봄이되어줄게 #공기남  @loonatheworld https://t.co/HYJlIGubj0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "봄이되어줄게",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "공기남",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						187,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QXCYKoKnBn",
+					"expanded_url": "https://youtu.be/mKHf-USqxSY",
+					"display_url": "youtu.be/mKHf-USqxSY",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497111703817179100,
+					"id_str": "1497111703817179138",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497111703817179138/pu/img/OGW0VtaVKlQ4etH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497111703817179138/pu/img/OGW0VtaVKlQ4etH2.jpg",
+					"url": "https://t.co/HYJlIGubj0",
+					"display_url": "pic.twitter.com/HYJlIGubj0",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1497904351217688579/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497111703817179100,
+					"id_str": "1497111703817179138",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497111703817179138/pu/img/OGW0VtaVKlQ4etH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497111703817179138/pu/img/OGW0VtaVKlQ4etH2.jpg",
+					"url": "https://t.co/HYJlIGubj0",
+					"display_url": "pic.twitter.com/HYJlIGubj0",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1497904351217688579/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9442,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497111703817179138/pu/vid/540x540/94SijvNrLUFnzm_F.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1497111703817179138/pu/pl/EGxAZ8yXg76MJ7um.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497111703817179138/pu/vid/720x720/fduAhv28kufr58EB.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497111703817179138/pu/vid/320x320/Ua4as94MEooYhZrw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54435,
+			"friends_count": 494,
+			"listed_count": 200,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 519,
+		"favorite_count": 976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser]\n올리비아 혜 (Olivia Hye) (이달의 소녀) - 봄이 되어줄게 (prod.공기남)\n\n2022.03.01 6PM (KST) \n▶️https://t.co/QXCYKoKnBn\n\n#warnerkpop #warnermusic #KPOP #OliviaHye #이달의소녀 #LOONA #올리비아혜 #봄이되어줄게 #공기남  @loonatheworld https://t.co/HYJlIGubj0"
+	},
+	{
 		"created_at": "Sun Feb 27 12:14:34 +0000 2022",
 		"id": 1497908013444776000,
 		"id_str": "1497908013444775943",
