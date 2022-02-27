@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 10:11:22 +0000 2022",
+		"id": 1497872062828138500,
+		"id_str": "1497877005668392972",
+		"full_text": "세번째 빵 동행프로젝트는\n\n#아마도이자람밴드\n#효도앤베이스\n#천미지\n\n홍보물은 아마도이자람밴드의 아이밴 보컬 @jjjjjjjjjjaamm 님이 \n직접 그렸습니다\n\n일시/3월13(일) 18:00\n장소/클럽\n입장료/ 3만원\n예약방법/ 입금(하나_771-910167-21407_최현정) 뒤에 문자로 입금자이름발송( 010-8910-1089)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "효도앤베이스",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "천미지",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497871578620924000,
+		"in_reply_to_status_id_str": "1497871578620923905",
+		"in_reply_to_user_id": 1387140522,
+		"in_reply_to_user_id_str": "1387140522",
+		"in_reply_to_screen_name": "club_bbang",
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 875,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "세번째 빵 동행프로젝트는\n\n#아마도이자람밴드\n#효도앤베이스\n#천미지\n\n홍보물은 아마도이자람밴드의 아이밴 보컬 @jjjjjjjjjjaamm 님이 \n직접 그렸습니다\n\n일시/3월13(일) 18:00\n장소/클럽\n입장료/ 3만원\n예약방법/ 입금(하나_771-910167-21407_최현정) 뒤에 문자로 입금자이름발송( 010-8910-1089)"
+	},
+	{
+		"created_at": "Sun Feb 27 10:11:16 +0000 2022",
+		"id": 1497871578620924000,
+		"id_str": "1497876984214474754",
+		"full_text": "https://t.co/ikjP0x10cQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497871574145577000,
+					"id_str": "1497871574145576960",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FMmCQrgaMAAUY9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMmCQrgaMAAUY9d.jpg",
+					"url": "https://t.co/ikjP0x10cQ",
+					"display_url": "pic.twitter.com/ikjP0x10cQ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1497871578620923905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 758,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497871574145577000,
+					"id_str": "1497871574145576960",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FMmCQrgaMAAUY9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMmCQrgaMAAUY9d.jpg",
+					"url": "https://t.co/ikjP0x10cQ",
+					"display_url": "pic.twitter.com/ikjP0x10cQ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1497871578620923905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 758,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 875,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ikjP0x10cQ"
+	},
+	{
+		"created_at": "Sun Feb 27 09:29:41 +0000 2022",
+		"id": 1497860058465841200,
+		"id_str": "1497866516116746243",
+		"full_text": "Trip:Tape # 01\n적재 - 손을 잡는다거나, 같이 걷는다거나\n\nMelon https://t.co/THNKZu4UYd\nGenie https://t.co/lozVtOf0SB \nBugs https://t.co/E677Qkm9f6 \nFLO https://t.co/IfZ6SJAAWy \n\n#Jukjae #트립테이프\n#손을잡는다거나같이걷는다거나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jukjae",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "트립테이프",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "손을잡는다거나같이걷는다거나",
+					"indices": [
+						176,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/THNKZu4UYd",
+					"expanded_url": "http://bit.ly/33Zoy7q",
+					"display_url": "bit.ly/33Zoy7q",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/lozVtOf0SB",
+					"expanded_url": "http://bit.ly/3Iqvh9i",
+					"display_url": "bit.ly/3Iqvh9i",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/E677Qkm9f6",
+					"expanded_url": "http://bit.ly/3K2ZKee",
+					"display_url": "bit.ly/3K2ZKee",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/IfZ6SJAAWy",
+					"expanded_url": "http://bit.ly/3hrs0dS",
+					"display_url": "bit.ly/3hrs0dS",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497860055408218000,
+		"in_reply_to_status_id_str": "1497860055408218113",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40410,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Trip:Tape # 01\n적재 - 손을 잡는다거나, 같이 걷는다거나\n\nMelon https://t.co/THNKZu4UYd\nGenie https://t.co/lozVtOf0SB \nBugs https://t.co/E677Qkm9f6 \nFLO https://t.co/IfZ6SJAAWy \n\n#Jukjae #트립테이프\n#손을잡는다거나같이걷는다거나"
+	},
+	{
+		"created_at": "Sun Feb 27 09:29:31 +0000 2022",
+		"id": 1497860055408218000,
+		"id_str": "1497866477856301057",
+		"full_text": "[#Release] #적재\n\nTrip:Tape # 01\n적재 - 손을 잡는다거나, 같이 걷는다거나\n⠀\nLyrics by 스무살, DOKO(도코)\nComposed by 스무살, DOKO(도코)\nArranged by DOKO(도코), 사승호\n\nTrip:Tape # 01 적재 ‘손을 잡는다거나, 같이 걷는다거나’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/mqIDlZCoHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						11,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497860051037753300,
+					"id_str": "1497860051037753348",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FMl3x8lakAQ65Gv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMl3x8lakAQ65Gv.jpg",
+					"url": "https://t.co/mqIDlZCoHi",
+					"display_url": "pic.twitter.com/mqIDlZCoHi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497860055408218113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497860051037753300,
+					"id_str": "1497860051037753348",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FMl3x8lakAQ65Gv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMl3x8lakAQ65Gv.jpg",
+					"url": "https://t.co/mqIDlZCoHi",
+					"display_url": "pic.twitter.com/mqIDlZCoHi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1497860055408218113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40410,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #적재\n\nTrip:Tape # 01\n적재 - 손을 잡는다거나, 같이 걷는다거나\n⠀\nLyrics by 스무살, DOKO(도코)\nComposed by 스무살, DOKO(도코)\nArranged by DOKO(도코), 사승호\n\nTrip:Tape # 01 적재 ‘손을 잡는다거나, 같이 걷는다거나’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/mqIDlZCoHi"
+	},
+	{
 		"created_at": "Sun Feb 27 08:29:29 +0000 2022",
 		"id": 1497843950920650800,
 		"id_str": "1497851369516109827",
