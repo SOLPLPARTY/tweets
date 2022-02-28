@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 07:29:25 +0000 2022",
+		"id": 1498184827144913000,
+		"id_str": "1498198637846872066",
+		"full_text": "[#News] #윤석철트리오\n\n윤석철트리오, 2022 단독 공연 ‘익숙하고 일정한’ 성황리 마무리\n\n(출처: 텐아시아 | 네이버 TV연예)\n\n✔️ https://t.co/uI1pPKyvR5\n\n@SCJAZZY \n#윤석철트리오 #윤석철 #정상이 #김영진\n#YUNSEOKCHEOL_Trio\n#YunSeokCheol #JungSangE #KimYeongJin\n#익숙하고일정한 #단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "정상이",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "김영진",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "YUNSEOKCHEOL_Trio",
+					"indices": [
+						140,
+						158
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "JungSangE",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "KimYeongJin",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						197,
+						205
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						206,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uI1pPKyvR5",
+					"expanded_url": "http://naver.me/IIZlpn7w",
+					"display_url": "naver.me/IIZlpn7w",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40405,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #윤석철트리오\n\n윤석철트리오, 2022 단독 공연 ‘익숙하고 일정한’ 성황리 마무리\n\n(출처: 텐아시아 | 네이버 TV연예)\n\n✔️ https://t.co/uI1pPKyvR5\n\n@SCJAZZY \n#윤석철트리오 #윤석철 #정상이 #김영진\n#YUNSEOKCHEOL_Trio\n#YunSeokCheol #JungSangE #KimYeongJin\n#익숙하고일정한 #단독공연"
+	},
+	{
+		"created_at": "Mon Feb 28 07:11:17 +0000 2022",
+		"id": 1498191235521073200,
+		"id_str": "1498194074880417794",
+		"full_text": "✨ROLLING PROJECT : CMYK✨\n자세한 사항은 이미지를 참고해주세요!\n\n지원 방법 : 네이버 폼 (https://t.co/aN99ZSCFJ7)\n관련 문의 : 이메일 문의 (rolling_project@naver.com)\n※ DM, 전화 등 이메일 외 문의불가🙅‍♀️\n\n#ROLLINGHALL #ROLLINGPROJECT #CMYK\n#롤링홀 #롤링프로젝트 #인디 #홍대 #공연 https://t.co/R5Dhxb2FM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "ROLLINGPROJECT",
+					"indices": [
+						170,
+						185
+					]
+				},
+				{
+					"text": "CMYK",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "롤링프로젝트",
+					"indices": [
+						197,
+						204
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						209,
+						212
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						213,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aN99ZSCFJ7",
+					"expanded_url": "http://naver.me/5GzknD2K",
+					"display_url": "naver.me/5GzknD2K",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497932413141676000,
+					"id_str": "1497932413141676035",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FMm5l-bacAMEeJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMm5l-bacAMEeJI.jpg",
+					"url": "https://t.co/R5Dhxb2FM5",
+					"display_url": "pic.twitter.com/R5Dhxb2FM5",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1498191235521073152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2036,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1193,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497932413141676000,
+					"id_str": "1497932413141676035",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FMm5l-bacAMEeJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMm5l-bacAMEeJI.jpg",
+					"url": "https://t.co/R5Dhxb2FM5",
+					"display_url": "pic.twitter.com/R5Dhxb2FM5",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1498191235521073152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2036,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1193,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497932413145874400,
+					"id_str": "1497932413145874437",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FMm5l-cagAUgZr7.png",
+					"media_url_https": "https://pbs.twimg.com/media/FMm5l-cagAUgZr7.png",
+					"url": "https://t.co/R5Dhxb2FM5",
+					"display_url": "pic.twitter.com/R5Dhxb2FM5",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1498191235521073152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2036,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1193,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497932413150068700,
+					"id_str": "1497932413150068739",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FMm5l-dagAMUtf7.png",
+					"media_url_https": "https://pbs.twimg.com/media/FMm5l-dagAMUtf7.png",
+					"url": "https://t.co/R5Dhxb2FM5",
+					"display_url": "pic.twitter.com/R5Dhxb2FM5",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1498191235521073152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1193,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2036,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1497932413145874400,
+					"id_str": "1497932413145874432",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FMm5l-cagAA5dYF.png",
+					"media_url_https": "https://pbs.twimg.com/media/FMm5l-cagAA5dYF.png",
+					"url": "https://t.co/R5Dhxb2FM5",
+					"display_url": "pic.twitter.com/R5Dhxb2FM5",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1498191235521073152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2036,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1193,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 390,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨ROLLING PROJECT : CMYK✨\n자세한 사항은 이미지를 참고해주세요!\n\n지원 방법 : 네이버 폼 (https://t.co/aN99ZSCFJ7)\n관련 문의 : 이메일 문의 (rolling_project@naver.com)\n※ DM, 전화 등 이메일 외 문의불가🙅‍♀️\n\n#ROLLINGHALL #ROLLINGPROJECT #CMYK\n#롤링홀 #롤링프로젝트 #인디 #홍대 #공연 https://t.co/R5Dhxb2FM5"
+	},
+	{
 		"created_at": "Mon Feb 28 05:29:27 +0000 2022",
 		"id": 1498164514130325500,
 		"id_str": "1498168446911139845",
