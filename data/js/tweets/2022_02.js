@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 13:11:46 +0000 2022",
+		"id": 1498283328017158100,
+		"id_str": "1498284792911126529",
+		"full_text": "[티키타카 콘서트 : 불고기디스코]\n\n질문은 인스타그램 @tikacon_ 질문폼에 꼭 적어주세요\n\n일시 : 2022년 3월 18일 금요일 오후 7시30분 (입장 : 6시50분)\n\n예매 : https://t.co/geQue6YWoM\n\n#프리즘홀 #prismhall #불고기디스코 #단독공연 #티키타카콘서트 #홍대공연 #공연추천 https://t.co/z7ZUzSmzYu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "불고기디스코",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "티키타카콘서트",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/geQue6YWoM",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=206633",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498283318781296600,
+					"id_str": "1498283318781296642",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FMr4vXzaQAI1DSz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMr4vXzaQAI1DSz.jpg",
+					"url": "https://t.co/z7ZUzSmzYu",
+					"display_url": "pic.twitter.com/z7ZUzSmzYu",
+					"expanded_url": "https://twitter.com/prismhall/status/1498283328017158149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1383,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498283318781296600,
+					"id_str": "1498283318781296642",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FMr4vXzaQAI1DSz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMr4vXzaQAI1DSz.jpg",
+					"url": "https://t.co/z7ZUzSmzYu",
+					"display_url": "pic.twitter.com/z7ZUzSmzYu",
+					"expanded_url": "https://twitter.com/prismhall/status/1498283328017158149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1383,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2051,
+			"friends_count": 1118,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티키타카 콘서트 : 불고기디스코]\n\n질문은 인스타그램 @tikacon_ 질문폼에 꼭 적어주세요\n\n일시 : 2022년 3월 18일 금요일 오후 7시30분 (입장 : 6시50분)\n\n예매 : https://t.co/geQue6YWoM\n\n#프리즘홀 #prismhall #불고기디스코 #단독공연 #티키타카콘서트 #홍대공연 #공연추천 https://t.co/z7ZUzSmzYu"
+	},
+	{
 		"created_at": "Mon Feb 28 11:29:25 +0000 2022",
 		"id": 1498251714717110300,
 		"id_str": "1498259036881526787",
@@ -401,7 +636,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Mon Feb 28 11:11:16 +0000 2022",
 		"id": 1498228984043212800,
 		"id_str": "1498254471952060418",
-		"full_text": "\"서로가 서로를 구한다\" \n🚒RESCUE EACH OTHER 🚒\n폐 소방복 업사이클 브랜드 119REO👩‍🚒👨‍🚒🧑‍🚒\n팝업스토어 &amp; 아트워크 전시\n\n❤️[KT&amp;G 상상마당x 119REO]❤️\n 2022. 3. 1 - 3. 27 \n KT&amp;G 상상마당 홍대 \n\n\"여러분의 가치소비가 세상을 바꿉니다\"\n@ssmadnagdesign\n@slowdesignshop\n@119REO https://t.co/PUCGJcmYSv",
+		"full_text": "\"서로가 서로를 구한다\" \n🚒RESCUE EACH OTHER 🚒\n폐 소방복 업사이클 브랜드 119REO👩🚒👨🚒🧑🚒\n팝업스토어 &amp; 아트워크 전시\n\n❤️[KT&amp;G 상상마당x 119REO]❤️\n 2022. 3. 1 - 3. 27 \n KT&amp;G 상상마당 홍대 \n\n\"여러분의 가치소비가 세상을 바꿉니다\"\n@ssmadnagdesign\n@slowdesignshop\n@119REO https://t.co/PUCGJcmYSv",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -653,7 +888,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "\"서로가 서로를 구한다\" \n🚒RESCUE EACH OTHER 🚒\n폐 소방복 업사이클 브랜드 119REO👩‍🚒👨‍🚒🧑‍🚒\n팝업스토어 &amp; 아트워크 전시\n\n❤️[KT&amp;G 상상마당x 119REO]❤️\n 2022. 3. 1 - 3. 27 \n KT&amp;G 상상마당 홍대 \n\n\"여러분의 가치소비가 세상을 바꿉니다\"\n@ssmadnagdesign\n@slowdesignshop\n@119REO https://t.co/PUCGJcmYSv"
+		"text": "\"서로가 서로를 구한다\" \n🚒RESCUE EACH OTHER 🚒\n폐 소방복 업사이클 브랜드 119REO👩🚒👨🚒🧑🚒\n팝업스토어 &amp; 아트워크 전시\n\n❤️[KT&amp;G 상상마당x 119REO]❤️\n 2022. 3. 1 - 3. 27 \n KT&amp;G 상상마당 홍대 \n\n\"여러분의 가치소비가 세상을 바꿉니다\"\n@ssmadnagdesign\n@slowdesignshop\n@119REO https://t.co/PUCGJcmYSv"
 	},
 	{
 		"created_at": "Mon Feb 28 11:03:59 +0000 2022",
