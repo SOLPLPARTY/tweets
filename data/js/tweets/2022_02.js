@@ -1,6 +1,995 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 09:13:57 +0000 2022",
+		"id": 1498224945289126000,
+		"id_str": "1498224945289125889",
+		"full_text": "#SMTOWN\nSUPER JUNIOR 슈퍼주니어 'Callin'' MV (Winter for Spring ver.)\nhttps://t.co/OvXR7w2JTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OvXR7w2JTq",
+					"expanded_url": "https://youtu.be/i74J9TKRYSw",
+					"display_url": "youtu.be/i74J9TKRYSw",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nSUPER JUNIOR 슈퍼주니어 'Callin'' MV (Winter for Spring ver.)\nhttps://t.co/OvXR7w2JTq"
+	},
+	{
+		"created_at": "Mon Feb 28 09:11:45 +0000 2022",
+		"id": 1498224394178637800,
+		"id_str": "1498224394178637827",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[Live Clip] 김필 (kim feel) - 목소리 (your voice) (acoustic) / Official Live Clip\nhttps://t.co/WbofkL0wUB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WbofkL0wUB",
+					"expanded_url": "https://youtu.be/bCQ1ZyQxonI",
+					"display_url": "youtu.be/bCQ1ZyQxonI",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[Live Clip] 김필 (kim feel) - 목소리 (your voice) (acoustic) / Official Live Clip\nhttps://t.co/WbofkL0wUB"
+	},
+	{
+		"created_at": "Mon Feb 28 09:11:16 +0000 2022",
+		"id": 1498221439266304000,
+		"id_str": "1498224272245985283",
+		"full_text": "상상마당 라이브홀의 2022년 첫 기획공연🎤\n\n차세대 데뷔 3주년 기념 공연\n[ 당신들의 다음 세대 vol.3 ]\n-\n2022년 3월 26일(토) 19:30\nKT&amp;G 상상마당 라이브홀\n티켓 예매 44,000원, 현매 48,000원\n예매 멜론티켓\n문의 02-2014-2022 https://t.co/91yJS81wr1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498209306269057000,
+					"id_str": "1498209306269057024",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FMq1bRtaAAAJC1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMq1bRtaAAAJC1I.jpg",
+					"url": "https://t.co/91yJS81wr1",
+					"display_url": "pic.twitter.com/91yJS81wr1",
+					"expanded_url": "https://twitter.com/SSmadang/status/1498221439266304000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498209306269057000,
+					"id_str": "1498209306269057024",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FMq1bRtaAAAJC1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMq1bRtaAAAJC1I.jpg",
+					"url": "https://t.co/91yJS81wr1",
+					"display_url": "pic.twitter.com/91yJS81wr1",
+					"expanded_url": "https://twitter.com/SSmadang/status/1498221439266304000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498209306252279800,
+					"id_str": "1498209306252279808",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FMq1bRpaAAA1Jms.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMq1bRpaAAA1Jms.jpg",
+					"url": "https://t.co/91yJS81wr1",
+					"display_url": "pic.twitter.com/91yJS81wr1",
+					"expanded_url": "https://twitter.com/SSmadang/status/1498221439266304000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498209306269073400,
+					"id_str": "1498209306269073410",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FMq1bRtaQAINqqr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMq1bRtaQAINqqr.jpg",
+					"url": "https://t.co/91yJS81wr1",
+					"display_url": "pic.twitter.com/91yJS81wr1",
+					"expanded_url": "https://twitter.com/SSmadang/status/1498221439266304000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17678,
+			"friends_count": 1863,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상상마당 라이브홀의 2022년 첫 기획공연🎤\n\n차세대 데뷔 3주년 기념 공연\n[ 당신들의 다음 세대 vol.3 ]\n-\n2022년 3월 26일(토) 19:30\nKT&amp;G 상상마당 라이브홀\n티켓 예매 44,000원, 현매 48,000원\n예매 멜론티켓\n문의 02-2014-2022 https://t.co/91yJS81wr1"
+	},
+	{
+		"created_at": "Mon Feb 28 09:09:57 +0000 2022",
+		"id": 1498223938584957000,
+		"id_str": "1498223938584956929",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n니브 (NIve) - what is life? [Music Video]\nhttps://t.co/RS14bflibj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RS14bflibj",
+					"expanded_url": "https://youtu.be/J80uj83O0y0",
+					"display_url": "youtu.be/J80uj83O0y0",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n니브 (NIve) - what is life? [Music Video]\nhttps://t.co/RS14bflibj"
+	},
+	{
+		"created_at": "Mon Feb 28 08:29:32 +0000 2022",
+		"id": 1498209475756687400,
+		"id_str": "1498213768240717825",
+		"full_text": "뮤직 on stage 이진아×빌리어코스티 '이 봄, 우리는' \n\n✔️일시 : 2022년 3월 27일(일) 3PM\n✔️장소 : 화성아트홀 \n✔️티켓오픈: 2022년 2월 28일(월) 5PM\n✔️예매처 : 화성시 문화재단 아트홀 홈페이지, 인터파크\nhttps://t.co/tnIXEcg95d\n\n#LeeJinAh #이봄우리는 #화성아트홀 #공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "이봄우리는",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "화성아트홀",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						186,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tnIXEcg95d",
+					"expanded_url": "https://bit.ly/3stRvSu",
+					"display_url": "bit.ly/3stRvSu",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1498209472640352300,
+		"in_reply_to_status_id_str": "1498209472640352260",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40405,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤직 on stage 이진아×빌리어코스티 '이 봄, 우리는' \n\n✔️일시 : 2022년 3월 27일(일) 3PM\n✔️장소 : 화성아트홀 \n✔️티켓오픈: 2022년 2월 28일(월) 5PM\n✔️예매처 : 화성시 문화재단 아트홀 홈페이지, 인터파크\nhttps://t.co/tnIXEcg95d\n\n#LeeJinAh #이봄우리는 #화성아트홀 #공연"
+	},
+	{
+		"created_at": "Mon Feb 28 08:29:28 +0000 2022",
+		"id": 1498209472640352300,
+		"id_str": "1498213750905753600",
+		"full_text": "[#Notice] #이진아\n\n이진아가 화성아트홀에서 진행되는 뮤직 on stage 이진아×빌리어코스티 '이 봄, 우리는' 공연에 함께합니다. 자세한 사항은 이어지는 내용을 확인해주세요💗 https://t.co/2aux1e0C7T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498209331606876200,
+					"id_str": "1498209331606876160",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FMq1cwGacAAnAHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMq1cwGacAAnAHi.jpg",
+					"url": "https://t.co/2aux1e0C7T",
+					"display_url": "pic.twitter.com/2aux1e0C7T",
+					"expanded_url": "https://twitter.com/antennamusic/status/1498209472640352260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1507,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498209331606876200,
+					"id_str": "1498209331606876160",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FMq1cwGacAAnAHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMq1cwGacAAnAHi.jpg",
+					"url": "https://t.co/2aux1e0C7T",
+					"display_url": "pic.twitter.com/2aux1e0C7T",
+					"expanded_url": "https://twitter.com/antennamusic/status/1498209472640352260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1507,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40405,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #이진아\n\n이진아가 화성아트홀에서 진행되는 뮤직 on stage 이진아×빌리어코스티 '이 봄, 우리는' 공연에 함께합니다. 자세한 사항은 이어지는 내용을 확인해주세요💗 https://t.co/2aux1e0C7T"
+	},
+	{
 		"created_at": "Mon Feb 28 07:29:25 +0000 2022",
 		"id": 1498184827144913000,
 		"id_str": "1498198637846872066",
@@ -207,7 +1196,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Mon Feb 28 07:11:17 +0000 2022",
 		"id": 1498191235521073200,
 		"id_str": "1498194074880417794",
-		"full_text": "✨ROLLING PROJECT : CMYK✨\n자세한 사항은 이미지를 참고해주세요!\n\n지원 방법 : 네이버 폼 (https://t.co/aN99ZSCFJ7)\n관련 문의 : 이메일 문의 (rolling_project@naver.com)\n※ DM, 전화 등 이메일 외 문의불가🙅‍♀️\n\n#ROLLINGHALL #ROLLINGPROJECT #CMYK\n#롤링홀 #롤링프로젝트 #인디 #홍대 #공연 https://t.co/R5Dhxb2FM5",
+		"full_text": "✨ROLLING PROJECT : CMYK✨\n자세한 사항은 이미지를 참고해주세요!\n\n지원 방법 : 네이버 폼 (https://t.co/aN99ZSCFJ7)\n관련 문의 : 이메일 문의 (rolling_project@naver.com)\n※ DM, 전화 등 이메일 외 문의불가🙅♀️\n\n#ROLLINGHALL #ROLLINGPROJECT #CMYK\n#롤링홀 #롤링프로젝트 #인디 #홍대 #공연 https://t.co/R5Dhxb2FM5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -561,7 +1550,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "✨ROLLING PROJECT : CMYK✨\n자세한 사항은 이미지를 참고해주세요!\n\n지원 방법 : 네이버 폼 (https://t.co/aN99ZSCFJ7)\n관련 문의 : 이메일 문의 (rolling_project@naver.com)\n※ DM, 전화 등 이메일 외 문의불가🙅‍♀️\n\n#ROLLINGHALL #ROLLINGPROJECT #CMYK\n#롤링홀 #롤링프로젝트 #인디 #홍대 #공연 https://t.co/R5Dhxb2FM5"
+		"text": "✨ROLLING PROJECT : CMYK✨\n자세한 사항은 이미지를 참고해주세요!\n\n지원 방법 : 네이버 폼 (https://t.co/aN99ZSCFJ7)\n관련 문의 : 이메일 문의 (rolling_project@naver.com)\n※ DM, 전화 등 이메일 외 문의불가🙅♀️\n\n#ROLLINGHALL #ROLLINGPROJECT #CMYK\n#롤링홀 #롤링프로젝트 #인디 #홍대 #공연 https://t.co/R5Dhxb2FM5"
 	},
 	{
 		"created_at": "Mon Feb 28 05:29:27 +0000 2022",
