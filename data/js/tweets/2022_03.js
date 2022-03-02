@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 02 11:11:21 +0000 2022",
+		"id": 1498973034668957700,
+		"id_str": "1498979268612739072",
+		"full_text": "[천미지 단독 공연 : 미지의 공식] 2022.03.04(금) PM 7:30 https://t.co/V4aFzrfTMZ https://t.co/HldR0buNQr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V4aFzrfTMZ",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222645034440",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498973028209754000,
+					"id_str": "1498973028209754112",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1sBvpVgAA_E0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1sBvpVgAA_E0n.jpg",
+					"url": "https://t.co/HldR0buNQr",
+					"display_url": "pic.twitter.com/HldR0buNQr",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1498973034668957698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498973028209754000,
+					"id_str": "1498973028209754112",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1sBvpVgAA_E0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1sBvpVgAA_E0n.jpg",
+					"url": "https://t.co/HldR0buNQr",
+					"display_url": "pic.twitter.com/HldR0buNQr",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1498973034668957698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8371,
+			"friends_count": 558,
+			"listed_count": 83,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[천미지 단독 공연 : 미지의 공식] 2022.03.04(금) PM 7:30 https://t.co/V4aFzrfTMZ https://t.co/HldR0buNQr"
+	},
+	{
+		"created_at": "Wed Mar 02 11:11:16 +0000 2022",
+		"id": 1498966552162431000,
+		"id_str": "1498979247184134144",
+		"full_text": "2022 내 귀에 드라마 콘서트🙌\n\n노래를 듣는 순간 떠오르는 명장면!\n📌일시\n3월 7일 월 13시 ~ 3월 11일 금 자정-채보훈(더베인)\n3월 14일 월 13시 ~ 3월 18일 금 자정-에이프릴세컨드\n📌티켓 : 22,000원\n📌예매 링크 : https://t.co/Zj2pISWlUB\n\n#LiveAT #프리즘홀 #더베인 #채보훈 #April2nd #콘진원 https://t.co/HLfiLjRz9b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LiveAT",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "프리즘홀",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "더베인",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "채보훈",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "April2nd",
+					"indices": [
+						186,
+						195
+					]
+				},
+				{
+					"text": "콘진원",
+					"indices": [
+						196,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zj2pISWlUB",
+					"expanded_url": "http://www.live-at.kr",
+					"display_url": "live-at.kr",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498966511608025000,
+					"id_str": "1498966511608025088",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1498966511608025088/pu/img/VbSb2nCvXisGXHoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1498966511608025088/pu/img/VbSb2nCvXisGXHoD.jpg",
+					"url": "https://t.co/HLfiLjRz9b",
+					"display_url": "pic.twitter.com/HLfiLjRz9b",
+					"expanded_url": "https://twitter.com/prismhall/status/1498966552162430976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498966511608025000,
+					"id_str": "1498966511608025088",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1498966511608025088/pu/img/VbSb2nCvXisGXHoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1498966511608025088/pu/img/VbSb2nCvXisGXHoD.jpg",
+					"url": "https://t.co/HLfiLjRz9b",
+					"display_url": "pic.twitter.com/HLfiLjRz9b",
+					"expanded_url": "https://twitter.com/prismhall/status/1498966552162430976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 24167,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1498966511608025088/pu/vid/478x270/1a7-lZUc7A02jYiF.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1498966511608025088/pu/vid/638x360/86wJ2qtNyNKjzKiM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1498966511608025088/pu/pl/hxWT3okXtXbGtyUM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1498966511608025088/pu/vid/852x480/Iraawdq0JayJJXQT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2051,
+			"friends_count": 1118,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 내 귀에 드라마 콘서트🙌\n\n노래를 듣는 순간 떠오르는 명장면!\n📌일시\n3월 7일 월 13시 ~ 3월 11일 금 자정-채보훈(더베인)\n3월 14일 월 13시 ~ 3월 18일 금 자정-에이프릴세컨드\n📌티켓 : 22,000원\n📌예매 링크 : https://t.co/Zj2pISWlUB\n\n#LiveAT #프리즘홀 #더베인 #채보훈 #April2nd #콘진원 https://t.co/HLfiLjRz9b"
+	},
+	{
+		"created_at": "Wed Mar 02 10:29:34 +0000 2022",
+		"id": 1498964585755283500,
+		"id_str": "1498968753517871105",
+		"full_text": "Available for purchase at both online and offline stockists. \n#백예린 #yerinbaek https://t.co/xKT3JWEb9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498964580781138000,
+					"id_str": "1498964580781137922",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1kWChaIAI9N_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1kWChaIAI9N_d.jpg",
+					"url": "https://t.co/xKT3JWEb9o",
+					"display_url": "pic.twitter.com/xKT3JWEb9o",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1498964585755283458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498964580781138000,
+					"id_str": "1498964580781137922",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1kWChaIAI9N_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1kWChaIAI9N_d.jpg",
+					"url": "https://t.co/xKT3JWEb9o",
+					"display_url": "pic.twitter.com/xKT3JWEb9o",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1498964585755283458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498964580781150200,
+					"id_str": "1498964580781150208",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1kWChaUAAj_Kn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1kWChaUAAj_Kn.jpg",
+					"url": "https://t.co/xKT3JWEb9o",
+					"display_url": "pic.twitter.com/xKT3JWEb9o",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1498964585755283458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498964580802121700,
+					"id_str": "1498964580802121729",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1kWCmaUAEoO1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1kWCmaUAEoO1I.jpg",
+					"url": "https://t.co/xKT3JWEb9o",
+					"display_url": "pic.twitter.com/xKT3JWEb9o",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1498964585755283458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1498964578276810800,
+		"in_reply_to_status_id_str": "1498964578276810752",
+		"in_reply_to_user_id": 1363697702358319000,
+		"in_reply_to_user_id_str": "1363697702358319104",
+		"in_reply_to_screen_name": "_bvofficial",
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4033,
+			"friends_count": 2,
+			"listed_count": 25,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Available for purchase at both online and offline stockists. \n#백예린 #yerinbaek https://t.co/xKT3JWEb9o"
+	},
+	{
+		"created_at": "Wed Mar 02 10:29:31 +0000 2022",
+		"id": 1498964578276810800,
+		"id_str": "1498968740469391361",
+		"full_text": "[NOTICE]\n⠀\n백예린 1집 'Every letter I sent you.', 2집 'tellusboutyourself', EP '선물' 앨범이 재입고 되었습니다. 온오프라인 구매처에서 백예린 CD를 다시 만나보세요🕊\n\nYerin's previous releases 'Every letter I sent you.', 'tellusboutyourself' and 'Love, Yerin' are now back in stock",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4033,
+			"friends_count": 2,
+			"listed_count": 25,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[NOTICE]\n⠀\n백예린 1집 'Every letter I sent you.', 2집 'tellusboutyourself', EP '선물' 앨범이 재입고 되었습니다. 온오프라인 구매처에서 백예린 CD를 다시 만나보세요🕊\n\nYerin's previous releases 'Every letter I sent you.', 'tellusboutyourself' and 'Love, Yerin' are now back in stock"
+	},
+	{
 		"created_at": "Wed Mar 02 09:29:58 +0000 2022",
 		"id": 1498952564121153500,
 		"id_str": "1498953753776508932",
