@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 10:29:25 +0000 2022",
+		"id": 1499325492834361300,
+		"id_str": "1499331102237933569",
+		"full_text": "David Byrne - Everyone's in Love with You (Cover by Cloud)\n⠀\n오랜만에 돌아온 구름의 커버음원⛅️ 지금 바로 구름 유튜브 채널에서 감상하세요! Listen to the full song on Cloud's YouTube channel.\n\n🔗  https://t.co/jCPLjuYO8a\n⠀\n#구름 #Cloud #CoverbyCloud #davidbyrne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구름",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "Cloud",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "CoverbyCloud",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"text": "davidbyrne",
+					"indices": [
+						213,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jCPLjuYO8a",
+					"expanded_url": "https://youtu.be/wyFQ_fZQVSA",
+					"display_url": "youtu.be/wyFQ_fZQVSA",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4080,
+			"friends_count": 2,
+			"listed_count": 26,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "David Byrne - Everyone's in Love with You (Cover by Cloud)\n⠀\n오랜만에 돌아온 구름의 커버음원⛅️ 지금 바로 구름 유튜브 채널에서 감상하세요! Listen to the full song on Cloud's YouTube channel.\n\n🔗  https://t.co/jCPLjuYO8a\n⠀\n#구름 #Cloud #CoverbyCloud #davidbyrne"
+	},
+	{
 		"created_at": "Thu Mar 03 10:12:28 +0000 2022",
 		"id": 1499326836576297000,
 		"id_str": "1499326836576296963",
