@@ -1,6 +1,1315 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 10:12:28 +0000 2022",
+		"id": 1499326836576297000,
+		"id_str": "1499326836576296963",
+		"full_text": "#ONSTAGE #온스테이지\n무한의 여행자, 텐거(TENGGER)\nhttps://t.co/aTL19sbGkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTL19sbGkW",
+					"expanded_url": "https://bit.ly/3IGSKTJ",
+					"display_url": "bit.ly/3IGSKTJ",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ONSTAGE #온스테이지\n무한의 여행자, 텐거(TENGGER)\nhttps://t.co/aTL19sbGkW"
+	},
+	{
+		"created_at": "Thu Mar 03 10:11:16 +0000 2022",
+		"id": 1499313748846481400,
+		"id_str": "1499326535383326723",
+		"full_text": "&lt;내 귀에 드라마 콘서트(더베인)&gt;\n\n화제의 드라마 속 OST 주인공인 채보훈(더베인)이\n제대 후 선보이는 첫번째 무대!\n\n📌공연 일시\n3월 7일 (월) 오후 1시 ~ 3월 11일(금) 자정\n📌티켓 : 22,000원\n📌예매 링크 : https://t.co/Zj2pISFiSB\n\n#프리즘홀 #prismhall #더베인 #채보훈 #라이브앳 #LIVEAT https://t.co/VpIVy9QoRK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "더베인",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "채보훈",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "라이브앳",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "LIVEAT",
+					"indices": [
+						194,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zj2pISFiSB",
+					"expanded_url": "http://www.live-at.kr",
+					"display_url": "live-at.kr",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499313740420108300,
+					"id_str": "1499313740420108296",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6h5ziaUAg1yL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6h5ziaUAg1yL2.jpg",
+					"url": "https://t.co/VpIVy9QoRK",
+					"display_url": "pic.twitter.com/VpIVy9QoRK",
+					"expanded_url": "https://twitter.com/prismhall/status/1499313748846481411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499313740420108300,
+					"id_str": "1499313740420108296",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6h5ziaUAg1yL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6h5ziaUAg1yL2.jpg",
+					"url": "https://t.co/VpIVy9QoRK",
+					"display_url": "pic.twitter.com/VpIVy9QoRK",
+					"expanded_url": "https://twitter.com/prismhall/status/1499313748846481411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2051,
+			"friends_count": 1118,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;내 귀에 드라마 콘서트(더베인)&gt;\n\n화제의 드라마 속 OST 주인공인 채보훈(더베인)이\n제대 후 선보이는 첫번째 무대!\n\n📌공연 일시\n3월 7일 (월) 오후 1시 ~ 3월 11일(금) 자정\n📌티켓 : 22,000원\n📌예매 링크 : https://t.co/Zj2pISFiSB\n\n#프리즘홀 #prismhall #더베인 #채보훈 #라이브앳 #LIVEAT https://t.co/VpIVy9QoRK"
+	},
+	{
+		"created_at": "Thu Mar 03 09:29:49 +0000 2022",
+		"id": 1499309896218857500,
+		"id_str": "1499316103645999106",
+		"full_text": "@SCJAZZY \n#YUNSEOKCHEOL_TRIO\n#익숙하고일정한 #VIBE매거진\n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YUNSEOKCHEOL_TRIO",
+					"indices": [
+						10,
+						28
+					]
+				},
+				{
+					"text": "익숙하고일정한",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "VIBE매거진",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "정상이",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "김영진",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"text": "JungSangE",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "KimYeongJin",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1499309889008865300,
+		"in_reply_to_status_id_str": "1499309889008865288",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40403,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@SCJAZZY \n#YUNSEOKCHEOL_TRIO\n#익숙하고일정한 #VIBE매거진\n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin"
+	},
+	{
+		"created_at": "Thu Mar 03 09:29:47 +0000 2022",
+		"id": 1499309889008865300,
+		"id_str": "1499316094787596291",
+		"full_text": "[#Media] #윤석철트리오\n \n윤석척트리오 EP ‘익숙하고 일정한’ 발매 기념 인터뷰와 윤석철 플레이리스트가 VIBE 매거진에 공개되었습니다. 지금 VIBE 매거진에서 만나보세요🔵\n\n🟢 윤석척트리오 EP ‘익숙하고 일정한’ VIBE 매거진\nhttps://t.co/4qfUPiJv9r https://t.co/w5rkFX3BXH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Media",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4qfUPiJv9r",
+					"expanded_url": "https://bit.ly/3KbpJQv",
+					"display_url": "bit.ly/3KbpJQv",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499309837276315600,
+					"id_str": "1499309837276315648",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6eWnMagAACryH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6eWnMagAACryH.jpg",
+					"url": "https://t.co/w5rkFX3BXH",
+					"display_url": "pic.twitter.com/w5rkFX3BXH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499309889008865288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499309837276315600,
+					"id_str": "1499309837276315648",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6eWnMagAACryH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6eWnMagAACryH.jpg",
+					"url": "https://t.co/w5rkFX3BXH",
+					"display_url": "pic.twitter.com/w5rkFX3BXH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499309889008865288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1499309837251117000,
+					"id_str": "1499309837251117056",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6eWnGaAAAdKfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6eWnGaAAAdKfm.jpg",
+					"url": "https://t.co/w5rkFX3BXH",
+					"display_url": "pic.twitter.com/w5rkFX3BXH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499309889008865288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1499309837251145700,
+					"id_str": "1499309837251145729",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6eWnGacAEjaYr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6eWnGacAEjaYr.jpg",
+					"url": "https://t.co/w5rkFX3BXH",
+					"display_url": "pic.twitter.com/w5rkFX3BXH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499309889008865288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40403,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Media] #윤석철트리오\n \n윤석척트리오 EP ‘익숙하고 일정한’ 발매 기념 인터뷰와 윤석철 플레이리스트가 VIBE 매거진에 공개되었습니다. 지금 VIBE 매거진에서 만나보세요🔵\n\n🟢 윤석척트리오 EP ‘익숙하고 일정한’ VIBE 매거진\nhttps://t.co/4qfUPiJv9r https://t.co/w5rkFX3BXH"
+	},
+	{
+		"created_at": "Thu Mar 03 09:29:40 +0000 2022",
+		"id": 1499309771673190400,
+		"id_str": "1499316064680828933",
+		"full_text": "[최유리 - ‘이것밖에’ (서른, 아홉 OST Part 3) 바로듣기]\n⠀\n멜론 https://t.co/sFX8PH1FH0\n벅스 https://t.co/bgeJMikDjT\n지니 https://t.co/85cQ40u1VQ\n플로 https://t.co/nTcmg2dWNn\n바이브 https://t.co/IFiBweQfuO\n\n#최유리 #ChoiYuRee \n#이것밖에 #Thats_all #서른아홉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "ChoiYuRee",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "이것밖에",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "Thats_all",
+					"indices": [
+						202,
+						212
+					]
+				},
+				{
+					"text": "서른아홉",
+					"indices": [
+						213,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFX8PH1FH0",
+					"expanded_url": "https://bit.ly/3HCqxfM",
+					"display_url": "bit.ly/3HCqxfM",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/bgeJMikDjT",
+					"expanded_url": "https://bit.ly/3pAd55H",
+					"display_url": "bit.ly/3pAd55H",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/85cQ40u1VQ",
+					"expanded_url": "https://bit.ly/35vw9v0",
+					"display_url": "bit.ly/35vw9v0",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/nTcmg2dWNn",
+					"expanded_url": "https://bit.ly/3tt1TZV",
+					"display_url": "bit.ly/3tt1TZV",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/IFiBweQfuO",
+					"expanded_url": "https://bit.ly/36S0Z1j",
+					"display_url": "bit.ly/36S0Z1j",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1499308608873549800,
+		"in_reply_to_status_id_str": "1499308608873549824",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7701,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1645423622",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[최유리 - ‘이것밖에’ (서른, 아홉 OST Part 3) 바로듣기]\n⠀\n멜론 https://t.co/sFX8PH1FH0\n벅스 https://t.co/bgeJMikDjT\n지니 https://t.co/85cQ40u1VQ\n플로 https://t.co/nTcmg2dWNn\n바이브 https://t.co/IFiBweQfuO\n\n#최유리 #ChoiYuRee \n#이것밖에 #Thats_all #서른아홉"
+	},
+	{
+		"created_at": "Thu Mar 03 09:29:33 +0000 2022",
+		"id": 1499308709654065200,
+		"id_str": "1499316034695663617",
+		"full_text": "sogumm (소금), 임금비 (Keumbee) - '소금비 (Salt Rain)' MV\nsogumm, 임금비의 &lt;소금비&gt; 뮤직비디오가 공개 되었습니다.\n\nhttps://t.co/AqHvc9GHpj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AqHvc9GHpj",
+					"expanded_url": "https://youtu.be/iv91aqUMoO8",
+					"display_url": "youtu.be/iv91aqUMoO8",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4043,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "sogumm (소금), 임금비 (Keumbee) - '소금비 (Salt Rain)' MV\nsogumm, 임금비의 &lt;소금비&gt; 뮤직비디오가 공개 되었습니다.\n\nhttps://t.co/AqHvc9GHpj"
+	},
+	{
+		"created_at": "Thu Mar 03 09:29:29 +0000 2022",
+		"id": 1499308608873549800,
+		"id_str": "1499316017180327938",
+		"full_text": "[OST Release]\n⠀\n최유리 - ‘이것밖에’ (서른, 아홉 OST Part 3)\n2022.03.03. 6PM Release\n⠀\n//\n⠀\n나는 늘 이것밖에 하지 못하지만 \n사실 그게 전부인 사람이라\n\n#최유리 #ChoiYuRee \n#이것밖에 #Thats_all #서른아홉 https://t.co/eqFSG3dvFV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "ChoiYuRee",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "이것밖에",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "Thats_all",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "서른아홉",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499290363307368400,
+					"id_str": "1499290363307368448",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6MpFAaIAAggOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6MpFAaIAAggOg.jpg",
+					"url": "https://t.co/eqFSG3dvFV",
+					"display_url": "pic.twitter.com/eqFSG3dvFV",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1499308608873549824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499290363307368400,
+					"id_str": "1499290363307368448",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FM6MpFAaIAAggOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM6MpFAaIAAggOg.jpg",
+					"url": "https://t.co/eqFSG3dvFV",
+					"display_url": "pic.twitter.com/eqFSG3dvFV",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1499308608873549824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7701,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1645423622",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[OST Release]\n⠀\n최유리 - ‘이것밖에’ (서른, 아홉 OST Part 3)\n2022.03.03. 6PM Release\n⠀\n//\n⠀\n나는 늘 이것밖에 하지 못하지만 \n사실 그게 전부인 사람이라\n\n#최유리 #ChoiYuRee \n#이것밖에 #Thats_all #서른아홉 https://t.co/eqFSG3dvFV"
+	},
+	{
 		"created_at": "Thu Mar 03 09:16:07 +0000 2022",
 		"id": 1499312653856039000,
 		"id_str": "1499312653856038917",
