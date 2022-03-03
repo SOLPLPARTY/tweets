@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 11:29:48 +0000 2022",
+		"id": 1499340113691635700,
+		"id_str": "1499346298054524931",
+		"full_text": "[솔루션스 | 발매]\n\n𝟤𝟢𝟤𝟤.𝟢𝟥.𝟣𝟩 (𝖳𝖧𝖴) 𝟣𝟤𝖯𝖬\n𝐓𝐇𝐄 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 EP [𝐓𝐈𝐌𝐄]\n\nTime (Official Video)\n\n#솔루션스 #TIME  \n#theSOLUTIONS #220317 https://t.co/l7WWOlA6bE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔루션스",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "TIME",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "theSOLUTIONS",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499339991796699100,
+					"id_str": "1499339991796699138",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499339991796699138/pu/img/QLnKfya7XaVxZgFV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499339991796699138/pu/img/QLnKfya7XaVxZgFV.jpg",
+					"url": "https://t.co/l7WWOlA6bE",
+					"display_url": "pic.twitter.com/l7WWOlA6bE",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1499340113691635713/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499339991796699100,
+					"id_str": "1499339991796699138",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499339991796699138/pu/img/QLnKfya7XaVxZgFV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499339991796699138/pu/img/QLnKfya7XaVxZgFV.jpg",
+					"url": "https://t.co/l7WWOlA6bE",
+					"display_url": "pic.twitter.com/l7WWOlA6bE",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1499340113691635713/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 110708,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499339991796699138/pu/vid/1280x720/Tz-eH9E4UU7lIGmA.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499339991796699138/pu/vid/640x360/_Arv5PK1Qv75p247.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499339991796699138/pu/vid/480x270/8_iI02XhFngn7w1g.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1499339991796699138/pu/pl/a94V0FLa7ggN3g0Y.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12997,
+			"friends_count": 1927,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 발매]\n\n𝟤𝟢𝟤𝟤.𝟢𝟥.𝟣𝟩 (𝖳𝖧𝖴) 𝟣𝟤𝖯𝖬\n𝐓𝐇𝐄 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 EP [𝐓𝐈𝐌𝐄]\n\nTime (Official Video)\n\n#솔루션스 #TIME  \n#theSOLUTIONS #220317 https://t.co/l7WWOlA6bE"
+	},
+	{
+		"created_at": "Thu Mar 03 11:29:46 +0000 2022",
+		"id": 1499337344813465600,
+		"id_str": "1499346289238097923",
+		"full_text": "'STUDIO M' 대체불가 감성 보컬 '김민종'의 '긴 밤 (Endless Night)' 무대 | Mnet 220303 방송 \n\nhttps://t.co/LsBsFF20zw \n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMINJONG",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "김민종",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "KIMMINJONG_EndlessNight",
+					"indices": [
+						116,
+						140
+					]
+				},
+				{
+					"text": "긴밤",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "EndlessNight",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LsBsFF20zw",
+					"expanded_url": "http://naver.me/xgGssELJ",
+					"display_url": "naver.me/xgGssELJ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10651630,
+			"friends_count": 56,
+			"listed_count": 11921,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 1485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'STUDIO M' 대체불가 감성 보컬 '김민종'의 '긴 밤 (Endless Night)' 무대 | Mnet 220303 방송 \n\nhttps://t.co/LsBsFF20zw \n\n#KIMMINJONG #김민종\n#KIMMINJONG_EndlessNight\n#긴밤 #EndlessNight"
+	},
+	{
+		"created_at": "Thu Mar 03 11:29:38 +0000 2022",
+		"id": 1499337196477698000,
+		"id_str": "1499346255214006273",
+		"full_text": "* 해당 상품은 [너드커넥션 단독 콘서트 : 롤링 27주년 기념 공연] 공연 현장에서 선판매되며, 추후 마플샵을 통해 온라인으로 구매 가능합니다.\n* 쇼핑백은 유상 판매 됩니다.\n\n#너드커넥션 #슬로건 #공식슬로건 #롤링홀 #롤링27주년기념공연 #단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "슬로건",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "공식슬로건",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "롤링27주년기념공연",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						137,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1499337135089852400,
+		"in_reply_to_status_id_str": "1499337135089852418",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 해당 상품은 [너드커넥션 단독 콘서트 : 롤링 27주년 기념 공연] 공연 현장에서 선판매되며, 추후 마플샵을 통해 온라인으로 구매 가능합니다.\n* 쇼핑백은 유상 판매 됩니다.\n\n#너드커넥션 #슬로건 #공식슬로건 #롤링홀 #롤링27주년기념공연 #단독공연"
+	},
+	{
+		"created_at": "Thu Mar 03 11:29:33 +0000 2022",
+		"id": 1499337182363848700,
+		"id_str": "1499346233390993408",
+		"full_text": "* MD 부스 운영 시간 : 당일 공연 전 60분부터 공연 시작 5분 전까지\n* 공연장 공간이 협소하여 티켓 미소지자는 관객 입장 (공연 30분 전) 이전에 구매하시길 권장드립니다.\n* 부스 운영은 재고 상황에 따라 조기마감될 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1499337135089852400,
+		"in_reply_to_status_id_str": "1499337135089852418",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* MD 부스 운영 시간 : 당일 공연 전 60분부터 공연 시작 5분 전까지\n* 공연장 공간이 협소하여 티켓 미소지자는 관객 입장 (공연 30분 전) 이전에 구매하시길 권장드립니다.\n* 부스 운영은 재고 상황에 따라 조기마감될 수 있습니다."
+	},
+	{
 		"created_at": "Thu Mar 03 10:29:25 +0000 2022",
 		"id": 1499325492834361300,
 		"id_str": "1499331102237933569",
