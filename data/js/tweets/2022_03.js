@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 03:29:35 +0000 2022",
+		"id": 1499220609150029800,
+		"id_str": "1499225445778313218",
+		"full_text": "[D-1]📆\n📨에디전 Eddie Chun (Beautyhandsome) New Single \n'다음 생에 그댈 찾을게요' I’ll Find You In the Next Life\n\n\"이루어질 수 없는 현실에서의 사랑을 다음 생에서라도 꼭 찾겠다는 애절한 곡\"\n2022.03.04.Fri.12pm\n( ｡･_･｡)人(｡･_･｡ ) https://t.co/epC9BlK8UF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499220514534871000,
+					"id_str": "1499220514534871040",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FM5NHWDUUAA72EI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM5NHWDUUAA72EI.jpg",
+					"url": "https://t.co/epC9BlK8UF",
+					"display_url": "pic.twitter.com/epC9BlK8UF",
+					"expanded_url": "https://twitter.com/sugar_records/status/1499220609150029830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 593,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 593,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 347,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499220514534871000,
+					"id_str": "1499220514534871040",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FM5NHWDUUAA72EI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM5NHWDUUAA72EI.jpg",
+					"url": "https://t.co/epC9BlK8UF",
+					"display_url": "pic.twitter.com/epC9BlK8UF",
+					"expanded_url": "https://twitter.com/sugar_records/status/1499220609150029830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 593,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 593,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 347,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-1]📆\n📨에디전 Eddie Chun (Beautyhandsome) New Single \n'다음 생에 그댈 찾을게요' I’ll Find You In the Next Life\n\n\"이루어질 수 없는 현실에서의 사랑을 다음 생에서라도 꼭 찾겠다는 애절한 곡\"\n2022.03.04.Fri.12pm\n( ｡･_･｡)人(｡･_･｡ ) https://t.co/epC9BlK8UF"
+	},
+	{
+		"created_at": "Thu Mar 03 03:29:33 +0000 2022",
+		"id": 1499218007117213700,
+		"id_str": "1499225436978614275",
+		"full_text": "임금비 &amp; 소금의 ‘소금비 (Salt Rain)’가 오늘 오후 6시에 발매됩니다.\n\n2022.03.03 THU 6PM (KST) D-DAY\n\nsogumm, 임금비 &lt;소금비&gt;\n1. Waters of March\n2. 소금비(Salt Rain)\n3. Kissing\n\nPhotography_ 김재윤 https://t.co/ta9341WFy5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498966778407313400,
+					"id_str": "1498966778407313408",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1mV9UUYAAjW83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1mV9UUYAAjW83.jpg",
+					"url": "https://t.co/ta9341WFy5",
+					"display_url": "pic.twitter.com/ta9341WFy5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1499218007117213697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498966778407313400,
+					"id_str": "1498966778407313408",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1mV9UUYAAjW83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1mV9UUYAAjW83.jpg",
+					"url": "https://t.co/ta9341WFy5",
+					"display_url": "pic.twitter.com/ta9341WFy5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1499218007117213697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498966778457706500,
+					"id_str": "1498966778457706497",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1mV9gVUAEgAy2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1mV9gVUAEgAy2.jpg",
+					"url": "https://t.co/ta9341WFy5",
+					"display_url": "pic.twitter.com/ta9341WFy5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1499218007117213697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498966778457694200,
+					"id_str": "1498966778457694208",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FM1mV9gVIAAQh1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM1mV9gVIAAQh1b.jpg",
+					"url": "https://t.co/ta9341WFy5",
+					"display_url": "pic.twitter.com/ta9341WFy5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1499218007117213697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4043,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임금비 &amp; 소금의 ‘소금비 (Salt Rain)’가 오늘 오후 6시에 발매됩니다.\n\n2022.03.03 THU 6PM (KST) D-DAY\n\nsogumm, 임금비 &lt;소금비&gt;\n1. Waters of March\n2. 소금비(Salt Rain)\n3. Kissing\n\nPhotography_ 김재윤 https://t.co/ta9341WFy5"
+	},
+	{
 		"created_at": "Thu Mar 03 03:11:17 +0000 2022",
 		"id": 1499218007649923000,
 		"id_str": "1499220840549867523",
