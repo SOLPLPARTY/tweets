@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 04 10:29:39 +0000 2022",
+		"id": 1499689436069888000,
+		"id_str": "1499693547758493697",
+		"full_text": "💗 ‘choco (Prod. DPR CREAM / Feat. SOLE)’\nhttps://t.co/VSuAokUVAc\n\n#LeeJinAh #아지트라이브\n#람팜팜 #choco #RumPumPum\n#DPRCREAM #SOLE https://t.co/t59dO7srUg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "아지트라이브",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "람팜팜",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "choco",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "RumPumPum",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "DPRCREAM",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "SOLE",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VSuAokUVAc",
+					"expanded_url": "https://youtu.be/CGLssLSR-gU",
+					"display_url": "youtu.be/CGLssLSR-gU",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499689368390615000,
+					"id_str": "1499689368390615044",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499689368390615044/pu/img/Y1_oRATMGw5Y5Lyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499689368390615044/pu/img/Y1_oRATMGw5Y5Lyv.jpg",
+					"url": "https://t.co/t59dO7srUg",
+					"display_url": "pic.twitter.com/t59dO7srUg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499689436069888000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499689368390615000,
+					"id_str": "1499689368390615044",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499689368390615044/pu/img/Y1_oRATMGw5Y5Lyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499689368390615044/pu/img/Y1_oRATMGw5Y5Lyv.jpg",
+					"url": "https://t.co/t59dO7srUg",
+					"display_url": "pic.twitter.com/t59dO7srUg",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499689436069888000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28736,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499689368390615044/pu/vid/480x270/_Bk-31jPhyS3w64i.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499689368390615044/pu/vid/1280x720/bh879f7S-OOpomlU.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499689368390615044/pu/vid/640x360/FLx1QEhokI0D_lod.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1499689368390615044/pu/pl/m81Blmg46j9o2MI5.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1499689340796272600,
+		"in_reply_to_status_id_str": "1499689340796272641",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40407,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗 ‘choco (Prod. DPR CREAM / Feat. SOLE)’\nhttps://t.co/VSuAokUVAc\n\n#LeeJinAh #아지트라이브\n#람팜팜 #choco #RumPumPum\n#DPRCREAM #SOLE https://t.co/t59dO7srUg"
+	},
+	{
+		"created_at": "Fri Mar 04 10:29:30 +0000 2022",
+		"id": 1499689340796272600,
+		"id_str": "1499693509477113858",
+		"full_text": "[#Video] #이진아\n\n이진아 azit beat ‘람팜팜’, ‘choco (Prod. DPR CREAM / Feat. SOLE)’ 라이브 영상이 공개되었습니다. 지금 유튜브 ‘아지트라이브’ 채널에서 만나보실 수 있습니다💗✨\n\n💗 ‘람팜팜’\nhttps://t.co/KpNRdbTYfA https://t.co/jGK6JT3PJ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpNRdbTYfA",
+					"expanded_url": "https://youtu.be/bwFloL-WRW0",
+					"display_url": "youtu.be/bwFloL-WRW0",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499689218893058000,
+					"id_str": "1499689218893058051",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499689218893058051/pu/img/fwytnWooWxTbOjXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499689218893058051/pu/img/fwytnWooWxTbOjXz.jpg",
+					"url": "https://t.co/jGK6JT3PJ1",
+					"display_url": "pic.twitter.com/jGK6JT3PJ1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499689340796272641/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499689218893058000,
+					"id_str": "1499689218893058051",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499689218893058051/pu/img/fwytnWooWxTbOjXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499689218893058051/pu/img/fwytnWooWxTbOjXz.jpg",
+					"url": "https://t.co/jGK6JT3PJ1",
+					"display_url": "pic.twitter.com/jGK6JT3PJ1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1499689340796272641/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28778,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499689218893058051/pu/vid/480x270/ytuCIyNTnSeVQfHx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1499689218893058051/pu/pl/unHqyeHUmOkueGwV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499689218893058051/pu/vid/1280x720/gHHmaqzA5mGoWlEv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499689218893058051/pu/vid/640x360/HWy6p5TLgCE6Np2C.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40407,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #이진아\n\n이진아 azit beat ‘람팜팜’, ‘choco (Prod. DPR CREAM / Feat. SOLE)’ 라이브 영상이 공개되었습니다. 지금 유튜브 ‘아지트라이브’ 채널에서 만나보실 수 있습니다💗✨\n\n💗 ‘람팜팜’\nhttps://t.co/KpNRdbTYfA https://t.co/jGK6JT3PJ1"
+	},
+	{
 		"created_at": "Fri Mar 04 09:29:28 +0000 2022",
 		"id": 1499671100460253200,
 		"id_str": "1499678400650305536",
