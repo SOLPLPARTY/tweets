@@ -1,6 +1,807 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 07 02:11:17 +0000 2022",
+		"id": 1500643977682616300,
+		"id_str": "1500655291767177220",
+		"full_text": "[ 스토리챌린지#1 'Home Sweet Home' ]\n오늘은 홍대에서의 첫 토요일이기도 하고 밤 11시까지\n놀 수 있는날이기도 하지만, 저는 혼자가 편하니까 \n상상마당 안에서 내적으로만 클럽 느낌을 내며 매장 음악을 들으며 앉아있어요.🎶🎶🎶\n⠀\n KT&amp;G 상상마당 홍대 1층 팝업존\n@ssmadangdesign https://t.co/AoK9WXNo8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500643965665943600,
+					"id_str": "1500643965665943554",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FNNbvGvaIAIAnad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNNbvGvaIAIAnad.jpg",
+					"url": "https://t.co/AoK9WXNo8r",
+					"display_url": "pic.twitter.com/AoK9WXNo8r",
+					"expanded_url": "https://twitter.com/SSmadang/status/1500643977682616322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500643965665943600,
+					"id_str": "1500643965665943554",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FNNbvGvaIAIAnad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNNbvGvaIAIAnad.jpg",
+					"url": "https://t.co/AoK9WXNo8r",
+					"display_url": "pic.twitter.com/AoK9WXNo8r",
+					"expanded_url": "https://twitter.com/SSmadang/status/1500643977682616322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17675,
+			"friends_count": 1862,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ 스토리챌린지#1 'Home Sweet Home' ]\n오늘은 홍대에서의 첫 토요일이기도 하고 밤 11시까지\n놀 수 있는날이기도 하지만, 저는 혼자가 편하니까 \n상상마당 안에서 내적으로만 클럽 느낌을 내며 매장 음악을 들으며 앉아있어요.🎶🎶🎶\n⠀\n KT&amp;G 상상마당 홍대 1층 팝업존\n@ssmadangdesign https://t.co/AoK9WXNo8r"
+	},
+	{
+		"created_at": "Mon Mar 07 01:56:27 +0000 2022",
+		"id": 1500651560514302000,
+		"id_str": "1500651560514301952",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n3/7(월) ~ 3/13(일) 엠피엠지 뮤직 스케줄\nhttps://t.co/H79TxRmKPP\n#블로그 #레이블 #기획사 #인디 #인디음악",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H79TxRmKPP",
+					"expanded_url": "https://bit.ly/3CiHudW",
+					"display_url": "bit.ly/3CiHudW",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n3/7(월) ~ 3/13(일) 엠피엠지 뮤직 스케줄\nhttps://t.co/H79TxRmKPP\n#블로그 #레이블 #기획사 #인디 #인디음악"
+	},
+	{
+		"created_at": "Mon Mar 07 01:29:36 +0000 2022",
+		"id": 1500644429551792000,
+		"id_str": "1500644805772197890",
+		"full_text": "✨K-Pop Cross✨\nSonnet(손승연)이 ‘강강술래(Alok Remix)’로 TIDAL'K-Pop Cross’ 플레이리스트 커버를 장식하였습니다😎✨\n\n🎶https://t.co/Qylwyz0Ios\n\n#warnerkpop #warnermusic #Alok #Sonnet #손승연 #김준수 #소리꾼김준수 #강강술래 #AlokRemix https://t.co/m0yRtSojJR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						114,
+						125
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "Alok",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "Sonnet",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "손승연",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "김준수",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "소리꾼김준수",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "강강술래",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "AlokRemix",
+					"indices": [
+						177,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qylwyz0Ios",
+					"expanded_url": "http://TIDAL.link/KPopCross",
+					"display_url": "TIDAL.link/KPopCross",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1500644326988484600,
+					"id_str": "1500644326988484609",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FNNcEIxakAEw36k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNNcEIxakAEw36k.jpg",
+					"url": "https://t.co/m0yRtSojJR",
+					"display_url": "pic.twitter.com/m0yRtSojJR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1500644429551792130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500644326988484600,
+					"id_str": "1500644326988484609",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FNNcEIxakAEw36k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNNcEIxakAEw36k.jpg",
+					"url": "https://t.co/m0yRtSojJR",
+					"display_url": "pic.twitter.com/m0yRtSojJR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1500644429551792130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54517,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Pop Cross✨\nSonnet(손승연)이 ‘강강술래(Alok Remix)’로 TIDAL'K-Pop Cross’ 플레이리스트 커버를 장식하였습니다😎✨\n\n🎶https://t.co/Qylwyz0Ios\n\n#warnerkpop #warnermusic #Alok #Sonnet #손승연 #김준수 #소리꾼김준수 #강강술래 #AlokRemix https://t.co/m0yRtSojJR"
+	},
+	{
+		"created_at": "Mon Mar 07 01:29:27 +0000 2022",
+		"id": 1500643422767829000,
+		"id_str": "1500644767176269826",
+		"full_text": "🥺🥺🙌🙌🙌 https://t.co/amL5XXWzca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/amL5XXWzca",
+					"expanded_url": "https://twitter.com/sonnet_official/status/1499222439753961472",
+					"display_url": "twitter.com/sonnet_officia…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54517,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1499222439753961500,
+		"quoted_status_id_str": "1499222439753961472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/amL5XXWzca",
+			"expanded": "https://twitter.com/sonnet_official/status/1499222439753961472",
+			"display": "twitter.com/sonnet_officia…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 03 03:17:38 +0000 2022",
+			"id": 1499222439753961500,
+			"id_str": "1499222439753961472",
+			"full_text": "🙌🏼같이 뛸 수 있는 그날까지🙌🏼 https://t.co/TPyUPrN6V4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TPyUPrN6V4",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1499222191665459205",
+						"display_url": "twitter.com/Warner_Music_K…",
+						"indices": [
+							19,
+							42
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 339706074,
+				"id_str": "339706074",
+				"name": "Sonnet (손승연)",
+				"screen_name": "sonnet_official",
+				"location": "Seoul Korea",
+				"description": "🎤 Korean Singer / Sonnet Son 🏆 Winner of The Voice of Korea. 🏆 The King of Mask Singer. 🏆 Immortal Song 2",
+				"url": "https://t.co/J6Sw4Rs3gU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J6Sw4Rs3gU",
+								"expanded_url": "http://instagram.com/sonnet__son",
+								"display_url": "instagram.com/sonnet__son",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9526,
+				"friends_count": 111,
+				"listed_count": 80,
+				"created_at": "Thu Jul 21 14:42:56 +0000 2011",
+				"favourites_count": 107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11692,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1334786892978503680/xbxs7SVJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334786892978503680/xbxs7SVJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/339706074/1607072924",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1499222191665459200,
+			"quoted_status_id_str": "1499222191665459205",
+			"quoted_status_permalink": {
+				"url": "https://t.co/TPyUPrN6V4",
+				"expanded": "https://twitter.com/Warner_Music_Kr/status/1499222191665459205",
+				"display": "twitter.com/Warner_Music_K…"
+			},
+			"retweet_count": 4,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🥺🥺🙌🙌🙌 https://t.co/amL5XXWzca"
+	},
+	{
 		"created_at": "Sun Mar 06 09:11:16 +0000 2022",
 		"id": 1500390732577661000,
 		"id_str": "1500398599842279424",
