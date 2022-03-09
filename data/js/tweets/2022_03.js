@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 09 09:29:36 +0000 2022",
+		"id": 1501484715940868000,
+		"id_str": "1501490377089597442",
+		"full_text": "1st ASIA 22°03’11’’ 9PM (KST)\n2nd AMERICA 22°03’11’’ 9PM (PST)\n      ↘︎22°03’12’’ 2PM (KST)\n3rd EUROPE 22°03’12’’ 9PM (CET)\n      ↘︎22°03’13’’ 5AM (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1501484712803504000,
+		"in_reply_to_status_id_str": "1501484712803504129",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10669126,
+			"friends_count": 56,
+			"listed_count": 11936,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1st ASIA 22°03’11’’ 9PM (KST)\n2nd AMERICA 22°03’11’’ 9PM (PST)\n      ↘︎22°03’12’’ 2PM (KST)\n3rd EUROPE 22°03’12’’ 9PM (CET)\n      ↘︎22°03’13’’ 5AM (KST)"
+	},
+	{
+		"created_at": "Wed Mar 09 09:29:29 +0000 2022",
+		"id": 1501484712803504000,
+		"id_str": "1501490347322626049",
+		"full_text": "ScreaM TOGETHER!  \n\nSHOWME #010 : Mar Vista Teaser \n\n#SHOWME #쇼미\n#DJ #MarVista #마비스타\n#ScreaMRecords \n#PinkBlood \n#SMTOWN \n#BeyondLIVE https://t.co/6bkeQDBsfN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "MarVista",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "마비스타",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501484568590778400,
+					"id_str": "1501484568590778371",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501484568590778371/pu/img/V110Ulj5SonkErpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501484568590778371/pu/img/V110Ulj5SonkErpT.jpg",
+					"url": "https://t.co/6bkeQDBsfN",
+					"display_url": "pic.twitter.com/6bkeQDBsfN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1501484712803504129/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501484568590778400,
+					"id_str": "1501484568590778371",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501484568590778371/pu/img/V110Ulj5SonkErpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501484568590778371/pu/img/V110Ulj5SonkErpT.jpg",
+					"url": "https://t.co/6bkeQDBsfN",
+					"display_url": "pic.twitter.com/6bkeQDBsfN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1501484712803504129/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44977,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501484568590778371/pu/vid/1280x720/Jrn8d4N5Mbmf0nxz.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501484568590778371/pu/vid/640x360/aa-gaY6T9YvvhNlK.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501484568590778371/pu/vid/480x270/2ZW9ixkpk2yCGqVQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1501484568590778371/pu/pl/3vg84-gCIbQmDfu4.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10669126,
+			"friends_count": 56,
+			"listed_count": 11936,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 1836,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ScreaM TOGETHER!  \n\nSHOWME #010 : Mar Vista Teaser \n\n#SHOWME #쇼미\n#DJ #MarVista #마비스타\n#ScreaMRecords \n#PinkBlood \n#SMTOWN \n#BeyondLIVE https://t.co/6bkeQDBsfN"
+	},
+	{
 		"created_at": "Wed Mar 09 03:29:30 +0000 2022",
 		"id": 1501398389950275600,
 		"id_str": "1501399753871052800",
