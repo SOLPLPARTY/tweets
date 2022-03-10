@@ -1,6 +1,1144 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 09:29:55 +0000 2022",
+		"id": 1501847829681254400,
+		"id_str": "1501852843501928448",
+		"full_text": "💿NEW MUSIC TODAY💿\n“#P1Harmony(#피원하모니) - Do It Like This (English Version)”를 지금 바로 음원 사이트에서 만나보세요! \n\n🎵https://t.co/qbDlHbieVf\n▶https://t.co/iTXc2GRlEK\n\n#warnerkpop #warnermusic #P1H #Do_It_Like_This #English_Version #DILT @P1H_official https://t.co/SMH4FNgIFu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "P1Harmony",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "피원하모니",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"text": "P1H",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "Do_It_Like_This",
+					"indices": [
+						181,
+						197
+					]
+				},
+				{
+					"text": "English_Version",
+					"indices": [
+						198,
+						214
+					]
+				},
+				{
+					"text": "DILT",
+					"indices": [
+						215,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "P1H_official",
+					"name": "P1Harmony official",
+					"id": 1293462889047629800,
+					"id_str": "1293462889047629825",
+					"indices": [
+						221,
+						234
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qbDlHbieVf",
+					"expanded_url": "https://ada.lnk.to/DILT",
+					"display_url": "ada.lnk.to/DILT",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/iTXc2GRlEK",
+					"expanded_url": "https://youtu.be/69ZC2JhQ3hE",
+					"display_url": "youtu.be/69ZC2JhQ3hE",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501836313808433200,
+					"id_str": "1501836313808433162",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501836313808433162/pu/img/x7KTIlhoIANV5gE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501836313808433162/pu/img/x7KTIlhoIANV5gE-.jpg",
+					"url": "https://t.co/SMH4FNgIFu",
+					"display_url": "pic.twitter.com/SMH4FNgIFu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1501847829681254400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501836313808433200,
+					"id_str": "1501836313808433162",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501836313808433162/pu/img/x7KTIlhoIANV5gE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501836313808433162/pu/img/x7KTIlhoIANV5gE-.jpg",
+					"url": "https://t.co/SMH4FNgIFu",
+					"display_url": "pic.twitter.com/SMH4FNgIFu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1501847829681254400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36536,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501836313808433162/pu/vid/720x720/t1b8af48KFyyJQyn.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501836313808433162/pu/vid/540x540/geSwJdlc0JZyYgBB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1501836313808433162/pu/pl/K0hRc7FQNnGm6cEs.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501836313808433162/pu/vid/320x320/MuIVjH_vNLPClCAU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54523,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“#P1Harmony(#피원하모니) - Do It Like This (English Version)”를 지금 바로 음원 사이트에서 만나보세요! \n\n🎵https://t.co/qbDlHbieVf\n▶https://t.co/iTXc2GRlEK\n\n#warnerkpop #warnermusic #P1H #Do_It_Like_This #English_Version #DILT @P1H_official https://t.co/SMH4FNgIFu"
+	},
+	{
+		"created_at": "Thu Mar 10 09:29:48 +0000 2022",
+		"id": 1501846650620637200,
+		"id_str": "1501852813638385667",
+		"full_text": "당신의 손끝에 머물러 있는 장면들은 무엇인가요? 곧 공개될 생활음악에서 새로운 에피소드를 만나세요.\n\n[생활음악]과 관련된 모든 컨텐츠는 에피소드 SNS 계정과 홈페이지, 유튜브를 통해 선공개됩니다.\n\n🔍촬영장소 #에피소드신촌369\n\n#YouHeeYul\n#생활음악 #에피소드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에피소드신촌369",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "YouHeeYul",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "생활음악",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "에피소드",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501846648603185200,
+		"in_reply_to_status_id_str": "1501846648603185154",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40388,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당신의 손끝에 머물러 있는 장면들은 무엇인가요? 곧 공개될 생활음악에서 새로운 에피소드를 만나세요.\n\n[생활음악]과 관련된 모든 컨텐츠는 에피소드 SNS 계정과 홈페이지, 유튜브를 통해 선공개됩니다.\n\n🔍촬영장소 #에피소드신촌369\n\n#YouHeeYul\n#생활음악 #에피소드"
+	},
+	{
+		"created_at": "Thu Mar 10 09:29:42 +0000 2022",
+		"id": 1501846648603185200,
+		"id_str": "1501852787981926404",
+		"full_text": "[#Teaser] #유희열\n\n&lt;생활음악 EP5. Coming Soon&gt;\n\n“언젠가부터 사진을 쉽게 찍고 지웁니다. 조금 흔들렸어도, 조금 못나게 나왔어도 괜찮을 텐데. 어쩌면 두고두고 나눌 추억이 사라지는 건 아닌가 싶습니다.” - 유희열 작업 노트 中 https://t.co/AocYrxXkIB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501846637278556200,
+					"id_str": "1501846637278556166",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FNehjzoacAY5LCv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNehjzoacAY5LCv.jpg",
+					"url": "https://t.co/AocYrxXkIB",
+					"display_url": "pic.twitter.com/AocYrxXkIB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1501846648603185154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501846637278556200,
+					"id_str": "1501846637278556166",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FNehjzoacAY5LCv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNehjzoacAY5LCv.jpg",
+					"url": "https://t.co/AocYrxXkIB",
+					"display_url": "pic.twitter.com/AocYrxXkIB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1501846648603185154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1501846637274349600,
+					"id_str": "1501846637274349568",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FNehjznaQAAQJOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNehjznaQAAQJOA.jpg",
+					"url": "https://t.co/AocYrxXkIB",
+					"display_url": "pic.twitter.com/AocYrxXkIB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1501846648603185154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1501846637484068900,
+					"id_str": "1501846637484068872",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FNehj0ZaUAgGRIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNehj0ZaUAgGRIw.jpg",
+					"url": "https://t.co/AocYrxXkIB",
+					"display_url": "pic.twitter.com/AocYrxXkIB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1501846648603185154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1501846637467287600,
+					"id_str": "1501846637467287556",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FNehj0VaQAQEXdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNehj0VaQAQEXdj.jpg",
+					"url": "https://t.co/AocYrxXkIB",
+					"display_url": "pic.twitter.com/AocYrxXkIB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1501846648603185154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40388,
+			"friends_count": 10,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #유희열\n\n&lt;생활음악 EP5. Coming Soon&gt;\n\n“언젠가부터 사진을 쉽게 찍고 지웁니다. 조금 흔들렸어도, 조금 못나게 나왔어도 괜찮을 텐데. 어쩌면 두고두고 나눌 추억이 사라지는 건 아닌가 싶습니다.” - 유희열 작업 노트 中 https://t.co/AocYrxXkIB"
+	},
+	{
+		"created_at": "Thu Mar 10 09:29:39 +0000 2022",
+		"id": 1501846074650411000,
+		"id_str": "1501852774925021184",
+		"full_text": "깻잎 논쟁 종결! 근데 새우, 롱패딩 논쟁까지 곁들인.. I MBTI 별 반응 I 에이프릴세컨드•아티초크•Hemeets https://t.co/3rCiqFCczB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3rCiqFCczB",
+					"expanded_url": "http://blog.naver.com/chili7272/222668913759",
+					"display_url": "blog.naver.com/chili7272/2226…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2085,
+			"friends_count": 2346,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "깻잎 논쟁 종결! 근데 새우, 롱패딩 논쟁까지 곁들인.. I MBTI 별 반응 I 에이프릴세컨드•아티초크•Hemeets https://t.co/3rCiqFCczB"
+	},
+	{
+		"created_at": "Thu Mar 10 09:29:34 +0000 2022",
+		"id": 1501845832412569600,
+		"id_str": "1501852753492160520",
+		"full_text": "Keys by 구름\nBass by 구름\nString by d.ear\nChorus by 백예린, 구름\nMIDI Programming by 구름\n⠀\nRecorded, Mixed by 구름 @ tvt club\nMastered by 신재민 @ Philo's Planet\n\n#백예린 #Yerinbaek \n#모니카 #Monika #립제이 #LipJ \n#너머 #Theotherside https://t.co/DkH5oRXrR9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Yerinbaek",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "모니카",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "Monika",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "립제이",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "LipJ",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "너머",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "Theotherside",
+					"indices": [
+						194,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501845821788422100,
+					"id_str": "1501845821788422153",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FNeg0VsagAkMjaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNeg0VsagAkMjaJ.jpg",
+					"url": "https://t.co/DkH5oRXrR9",
+					"display_url": "pic.twitter.com/DkH5oRXrR9",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1501845832412569604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501845821788422100,
+					"id_str": "1501845821788422153",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FNeg0VsagAkMjaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNeg0VsagAkMjaJ.jpg",
+					"url": "https://t.co/DkH5oRXrR9",
+					"display_url": "pic.twitter.com/DkH5oRXrR9",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1501845832412569604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501845816377757700,
+		"in_reply_to_status_id_str": "1501845816377757704",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37615,
+			"friends_count": 2,
+			"listed_count": 204,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Keys by 구름\nBass by 구름\nString by d.ear\nChorus by 백예린, 구름\nMIDI Programming by 구름\n⠀\nRecorded, Mixed by 구름 @ tvt club\nMastered by 신재민 @ Philo's Planet\n\n#백예린 #Yerinbaek \n#모니카 #Monika #립제이 #LipJ \n#너머 #Theotherside https://t.co/DkH5oRXrR9"
+	},
+	{
+		"created_at": "Thu Mar 10 09:29:25 +0000 2022",
+		"id": 1501845816377757700,
+		"id_str": "1501852715248492548",
+		"full_text": "우리는 때로 어두운 마음에서 위로를 얻습니다. \n보이지 않는 곳에서도 언제나 같은 사랑을 나눌 수 있기를 바랍니다.\n⠀\n[Credits] \n⠀\nLyrics by 백예린, 구름\nComposed by 백예린, 구름\nArranged by 구름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501845814981034000,
+		"in_reply_to_status_id_str": "1501845814981033985",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37615,
+			"friends_count": 2,
+			"listed_count": 204,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리는 때로 어두운 마음에서 위로를 얻습니다. \n보이지 않는 곳에서도 언제나 같은 사랑을 나눌 수 있기를 바랍니다.\n⠀\n[Credits] \n⠀\nLyrics by 백예린, 구름\nComposed by 백예린, 구름\nArranged by 구름"
+	},
+	{
 		"created_at": "Thu Mar 10 09:17:28 +0000 2022",
 		"id": 1501849710230868000,
 		"id_str": "1501849710230867970",
