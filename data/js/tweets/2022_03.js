@@ -1,6 +1,1611 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 10:14:29 +0000 2022",
+		"id": 1502226445787345000,
+		"id_str": "1502226445787344902",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n샘 라이더 (Sam Ryder) - SPACE MAN 가사 번역 뮤직비디오\nhttps://t.co/HF57Ul21xz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HF57Ul21xz",
+					"expanded_url": "https://youtu.be/GDAHjupksR0",
+					"display_url": "youtu.be/GDAHjupksR0",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n샘 라이더 (Sam Ryder) - SPACE MAN 가사 번역 뮤직비디오\nhttps://t.co/HF57Ul21xz"
+	},
+	{
+		"created_at": "Fri Mar 11 10:11:28 +0000 2022",
+		"id": 1502214674175041500,
+		"id_str": "1502225686219530246",
+		"full_text": "이번주 토요일 공연 예정이었던  틸더가 멤버분의 코로나 확진으로 캔슬되고 대신  티치가 함께 합니다. https://t.co/85t5jaVJeo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502214669322256400,
+					"id_str": "1502214669322256384",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjwSF1VgAAjht_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjwSF1VgAAjht_.jpg",
+					"url": "https://t.co/85t5jaVJeo",
+					"display_url": "pic.twitter.com/85t5jaVJeo",
+					"expanded_url": "https://twitter.com/clubFF_/status/1502214674175041536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502214669322256400,
+					"id_str": "1502214669322256384",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjwSF1VgAAjht_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjwSF1VgAAjht_.jpg",
+					"url": "https://t.co/85t5jaVJeo",
+					"display_url": "pic.twitter.com/85t5jaVJeo",
+					"expanded_url": "https://twitter.com/clubFF_/status/1502214674175041536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6126,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 토요일 공연 예정이었던  틸더가 멤버분의 코로나 확진으로 캔슬되고 대신  티치가 함께 합니다. https://t.co/85t5jaVJeo"
+	},
+	{
+		"created_at": "Fri Mar 11 10:11:23 +0000 2022",
+		"id": 1502214443886735400,
+		"id_str": "1502225664556277761",
+		"full_text": "긴급공지:  3/13 일요일 공연 예정이었던 불고기디스코가 멤버분의 코로나 확진으로 불가피하게 캔슬이 됐습니다.  그래서 대신  의리의 밴드! “차세대” 가 100분쇼를 해주기로 했습니다 ! 감동 ㅠㅠ \n\n참고로 차세대 100분쇼 이후인 저녁 7시부터는 100% Rock Djing 인 “Just Rock” 이 이어집니다. https://t.co/etBtI5o6C6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502214437700190200,
+					"id_str": "1502214437700190208",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjwEm-VQAAkYQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjwEm-VQAAkYQj.jpg",
+					"url": "https://t.co/etBtI5o6C6",
+					"display_url": "pic.twitter.com/etBtI5o6C6",
+					"expanded_url": "https://twitter.com/clubFF_/status/1502214443886735360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502214437700190200,
+					"id_str": "1502214437700190208",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjwEm-VQAAkYQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjwEm-VQAAkYQj.jpg",
+					"url": "https://t.co/etBtI5o6C6",
+					"display_url": "pic.twitter.com/etBtI5o6C6",
+					"expanded_url": "https://twitter.com/clubFF_/status/1502214443886735360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1502214437771509800,
+					"id_str": "1502214437771509761",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjwEnPVgAEask3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjwEnPVgAEask3.jpg",
+					"url": "https://t.co/etBtI5o6C6",
+					"display_url": "pic.twitter.com/etBtI5o6C6",
+					"expanded_url": "https://twitter.com/clubFF_/status/1502214443886735360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6126,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "긴급공지:  3/13 일요일 공연 예정이었던 불고기디스코가 멤버분의 코로나 확진으로 불가피하게 캔슬이 됐습니다.  그래서 대신  의리의 밴드! “차세대” 가 100분쇼를 해주기로 했습니다 ! 감동 ㅠㅠ \n\n참고로 차세대 100분쇼 이후인 저녁 7시부터는 100% Rock Djing 인 “Just Rock” 이 이어집니다. https://t.co/etBtI5o6C6"
+	},
+	{
+		"created_at": "Fri Mar 11 10:11:16 +0000 2022",
+		"id": 1502211434264285200,
+		"id_str": "1502225638677090305",
+		"full_text": "첫 불시착을 기념하기 위해 D'allant가 보내온 메세지💌\n[달란트 첫 단독콘서트 : touchdown point]\n\n2022년 3월 25일 금요일 오후 7시30분\n\n👇예매 바로가기👇\nhttps://t.co/DVebwL9KqL\n\n1. 예매 45,000원\n2. 입장시 선택한 예매번호는 입장번호입니다.\n\n#프리즘홀 #달란트 #D_allant #touchdown https://t.co/89aMngqoLz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "달란트",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "D_allant",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "touchdown",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DVebwL9KqL",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=206635",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1502211329964523500,
+					"id_str": "1502211329964523522",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502211329964523522/pu/img/scPxfcm3OJ08NaVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502211329964523522/pu/img/scPxfcm3OJ08NaVF.jpg",
+					"url": "https://t.co/89aMngqoLz",
+					"display_url": "pic.twitter.com/89aMngqoLz",
+					"expanded_url": "https://twitter.com/prismhall/status/1502211434264285186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502211329964523500,
+					"id_str": "1502211329964523522",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502211329964523522/pu/img/scPxfcm3OJ08NaVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502211329964523522/pu/img/scPxfcm3OJ08NaVF.jpg",
+					"url": "https://t.co/89aMngqoLz",
+					"display_url": "pic.twitter.com/89aMngqoLz",
+					"expanded_url": "https://twitter.com/prismhall/status/1502211434264285186/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38433,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502211329964523522/pu/vid/640x360/nzrQZZuXVDy86NVE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1502211329964523522/pu/pl/rr2Ed6z3Wh9vTwrw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502211329964523522/pu/vid/480x270/X8DrBuJsAKWXMotC.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502211329964523522/pu/vid/1280x720/BPwMCMpFJMjIwFcE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2048,
+			"friends_count": 1116,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "첫 불시착을 기념하기 위해 D'allant가 보내온 메세지💌\n[달란트 첫 단독콘서트 : touchdown point]\n\n2022년 3월 25일 금요일 오후 7시30분\n\n👇예매 바로가기👇\nhttps://t.co/DVebwL9KqL\n\n1. 예매 45,000원\n2. 입장시 선택한 예매번호는 입장번호입니다.\n\n#프리즘홀 #달란트 #D_allant #touchdown https://t.co/89aMngqoLz"
+	},
+	{
+		"created_at": "Fri Mar 11 09:29:55 +0000 2022",
+		"id": 1502211410310303700,
+		"id_str": "1502215232390787072",
+		"full_text": "𝐌𝐎𝐕𝐍𝐈𝐍𝐆 new single ‘봄날의 우리 (Blooming you and i)’ teaser2022.03.14... https://t.co/1CLliPVcco 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						96,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1CLliPVcco",
+					"expanded_url": "https://youtu.be/HoAlZ-mYgPY",
+					"display_url": "youtu.be/HoAlZ-mYgPY",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝐌𝐎𝐕𝐍𝐈𝐍𝐆 new single ‘봄날의 우리 (Blooming you and i)’ teaser2022.03.14... https://t.co/1CLliPVcco 출처 @YouTube"
+	},
+	{
+		"created_at": "Fri Mar 11 09:29:48 +0000 2022",
+		"id": 1502209141502517200,
+		"id_str": "1502215202267271168",
+		"full_text": "🎤고사리의 밤 2022의 안내책자(?)를 위한 구글폼\n🔗https://t.co/McqihpZryy (link in bio)\n\n* 오지은이 직접 전하는 「고사리의 밤」  안내책자를 받아보실 분들은 구글폼을 작성해주세요! \n\n#오지은 #고사리의밤 #벨로주 #홍대 #폭풍편곡 #커버 #노래방 #고사리 #공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "고사리의밤",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "벨로주",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "폭풍편곡",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "커버",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "노래방",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "고사리",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						165,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/McqihpZryy",
+					"expanded_url": "https://c11.kr/xmlq",
+					"display_url": "c11.kr/xmlq",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1502209075211571200,
+		"in_reply_to_status_id_str": "1502209075211571200",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤고사리의 밤 2022의 안내책자(?)를 위한 구글폼\n🔗https://t.co/McqihpZryy (link in bio)\n\n* 오지은이 직접 전하는 「고사리의 밤」  안내책자를 받아보실 분들은 구글폼을 작성해주세요! \n\n#오지은 #고사리의밤 #벨로주 #홍대 #폭풍편곡 #커버 #노래방 #고사리 #공연"
+	},
+	{
+		"created_at": "Fri Mar 11 09:29:41 +0000 2022",
+		"id": 1502208531592020000,
+		"id_str": "1502215172223795201",
+		"full_text": "⠀\n#백예린 #Yerinbaek\n#모니카 #Monika #립제이 #LipJ\n#너머 #Theotherside",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "Yerinbaek",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"text": "모니카",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "Monika",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "립제이",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "LipJ",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "너머",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "Theotherside",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1502208529826222000,
+		"in_reply_to_status_id_str": "1502208529826222083",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37684,
+			"friends_count": 2,
+			"listed_count": 205,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "⠀\n#백예린 #Yerinbaek\n#모니카 #Monika #립제이 #LipJ\n#너머 #Theotherside"
+	},
+	{
+		"created_at": "Fri Mar 11 09:29:36 +0000 2022",
+		"id": 1502208529826222000,
+		"id_str": "1502215150455377926",
+		"full_text": "백예린 X 모니카&amp;립제이 콜라보 음원 너머(The Other Side)'의 제작 과정을 담은 프로그램 '백%' 2편이 공개되었습니다.\n\n‘너머(The Other Side)’의 라이브 비디오 비하인드를 지금 바로 피버TV 유튜브 채널에서 확인하세요🤍\n⠀\nhttps://t.co/Iutf1mYQ6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iutf1mYQ6n",
+					"expanded_url": "https://youtu.be/hhSbnjmrYO4",
+					"display_url": "youtu.be/hhSbnjmrYO4",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37684,
+			"friends_count": 2,
+			"listed_count": 205,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 X 모니카&amp;립제이 콜라보 음원 너머(The Other Side)'의 제작 과정을 담은 프로그램 '백%' 2편이 공개되었습니다.\n\n‘너머(The Other Side)’의 라이브 비디오 비하인드를 지금 바로 피버TV 유튜브 채널에서 확인하세요🤍\n⠀\nhttps://t.co/Iutf1mYQ6n"
+	},
+	{
+		"created_at": "Fri Mar 11 09:29:28 +0000 2022",
+		"id": 1502208321847128000,
+		"id_str": "1502215116104044546",
+		"full_text": "#Wilcox\n\n📸 𝗟𝗲𝗺𝗼𝗻𝗮𝗱𝗲 ver.\n\n𝖶𝗂𝗅𝖼𝗈𝗑 \n𝗕𝗹𝘂𝗲 &amp; 𝗟𝗲𝗺𝗼𝗻𝗮𝗱𝗲 (𝗙𝗲𝗮𝘁. 𝗖𝗵𝗼𝗶 𝗖𝗲𝗹𝗹𝗼) \n𝟤𝟢𝟤𝟤.𝟢𝟥.𝟣𝟩.𝖯𝖬𝟨(𝖪𝖲𝖳)\n\n#윌콕스 #BluenLemonade \n#블루앤레모네이드 \n#ChoiCello #최첼로 https://t.co/8F3GJp56XK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "BluenLemonade",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "블루앤레모네이드",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "ChoiCello",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "최첼로",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502208313001275400,
+					"id_str": "1502208313001275395",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjqgGsUcAMf3VJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjqgGsUcAMf3VJ.jpg",
+					"url": "https://t.co/8F3GJp56XK",
+					"display_url": "pic.twitter.com/8F3GJp56XK",
+					"expanded_url": "https://twitter.com/inplanet/status/1502208321847128070/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502208313001275400,
+					"id_str": "1502208313001275395",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjqgGsUcAMf3VJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjqgGsUcAMf3VJ.jpg",
+					"url": "https://t.co/8F3GJp56XK",
+					"display_url": "pic.twitter.com/8F3GJp56XK",
+					"expanded_url": "https://twitter.com/inplanet/status/1502208321847128070/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1502208313018110000,
+					"id_str": "1502208313018109954",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FNjqgGwVUAIrtKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNjqgGwVUAIrtKV.jpg",
+					"url": "https://t.co/8F3GJp56XK",
+					"display_url": "pic.twitter.com/8F3GJp56XK",
+					"expanded_url": "https://twitter.com/inplanet/status/1502208321847128070/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 772,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Wilcox\n\n📸 𝗟𝗲𝗺𝗼𝗻𝗮𝗱𝗲 ver.\n\n𝖶𝗂𝗅𝖼𝗈𝗑 \n𝗕𝗹𝘂𝗲 &amp; 𝗟𝗲𝗺𝗼𝗻𝗮𝗱𝗲 (𝗙𝗲𝗮𝘁. 𝗖𝗵𝗼𝗶 𝗖𝗲𝗹𝗹𝗼) \n𝟤𝟢𝟤𝟤.𝟢𝟥.𝟣𝟩.𝖯𝖬𝟨(𝖪𝖲𝖳)\n\n#윌콕스 #BluenLemonade \n#블루앤레모네이드 \n#ChoiCello #최첼로 https://t.co/8F3GJp56XK"
+	},
+	{
 		"created_at": "Fri Mar 11 09:16:14 +0000 2022",
 		"id": 1502211788393173000,
 		"id_str": "1502211788393172997",
