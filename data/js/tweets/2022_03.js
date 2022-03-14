@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 05:29:25 +0000 2022",
+		"id": 1503232877357535200,
+		"id_str": "1503241869270073349",
+		"full_text": "빠더너스 문상훈과 함께한 ‘오지 않는 당신을 기다리며!’\n유튜브 빠더너스 @bdnsstudio 에 장기하편이 업로드되었습니다. 풀버전은 &lt;빠더너스 BDNS&gt; 유튜브 채널에서 확인하실 수 있습니다. https://t.co/mZW36idvUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503232807329570800,
+					"id_str": "1503232807329570816",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503232807329570816/pu/img/h2_8E_lTy2J5AiX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503232807329570816/pu/img/h2_8E_lTy2J5AiX4.jpg",
+					"url": "https://t.co/mZW36idvUU",
+					"display_url": "pic.twitter.com/mZW36idvUU",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503232877357535233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503232807329570800,
+					"id_str": "1503232807329570816",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503232807329570816/pu/img/h2_8E_lTy2J5AiX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503232807329570816/pu/img/h2_8E_lTy2J5AiX4.jpg",
+					"url": "https://t.co/mZW36idvUU",
+					"display_url": "pic.twitter.com/mZW36idvUU",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503232877357535233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17520,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503232807329570816/pu/vid/1280x720/uygIgxRIUAAdK6OI.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503232807329570816/pu/vid/480x270/DBMpq6uxdDi7EMsz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1503232807329570816/pu/pl/e-TWAd4UfPzVUaeZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503232807329570816/pu/vid/640x360/2Yq2V9Yb_LlkP9Lq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4044,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠더너스 문상훈과 함께한 ‘오지 않는 당신을 기다리며!’\n유튜브 빠더너스 @bdnsstudio 에 장기하편이 업로드되었습니다. 풀버전은 &lt;빠더너스 BDNS&gt; 유튜브 채널에서 확인하실 수 있습니다. https://t.co/mZW36idvUU"
+	},
+	{
 		"created_at": "Mon Mar 14 05:11:17 +0000 2022",
 		"id": 1503215932444917800,
 		"id_str": "1503237306555195394",
