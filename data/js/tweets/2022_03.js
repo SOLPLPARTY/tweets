@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 11:29:30 +0000 2022",
+		"id": 1503321567224529000,
+		"id_str": "1503332486931259392",
+		"full_text": "3/18 (금) 밤 11시 55분 @EBS1\n[#박소은] EBS &lt;스페이스 공감&gt;\n-\n3/19 (토) 오후 6시 @현대카드 언더스테이지\n[#이랑] 현대카드 Curated 72 이랑\n-\n3/20 (일) 오후 6시 @현대카드 언더스테이지\n[#이랑] 현대카드 Curated 72 이랑\n\n#오지은 #랄라스윗 #너드커넥션 #박소은 #이랑 #유어썸머 #스케줄 #3월",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "3월",
+					"indices": [
+						201,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EBs1",
+					"name": "EBs1",
+					"id": 14115038,
+					"id_str": "14115038",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1503321500891648000,
+		"in_reply_to_status_id_str": "1503321500891648001",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3/18 (금) 밤 11시 55분 @EBS1\n[#박소은] EBS &lt;스페이스 공감&gt;\n-\n3/19 (토) 오후 6시 @현대카드 언더스테이지\n[#이랑] 현대카드 Curated 72 이랑\n-\n3/20 (일) 오후 6시 @현대카드 언더스테이지\n[#이랑] 현대카드 Curated 72 이랑\n\n#오지은 #랄라스윗 #너드커넥션 #박소은 #이랑 #유어썸머 #스케줄 #3월"
+	},
+	{
+		"created_at": "Mon Mar 14 11:29:24 +0000 2022",
+		"id": 1503321500891648000,
+		"id_str": "1503332465448038402",
+		"full_text": "#유어썸머 3월 셋째 주 스케줄💌\n\n3/15 (화) 오후 8시 @네이버예약\n[#오지은] 고사리의 밤 티켓 오픈\n-\n3/16 (수) \n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt; \n-\n3/16 (수) 오후 8시 @ Arirang Radio 유튜브 채널\n[#너드커넥션] 아리랑 라디오 &lt;Radio’n Us&gt; https://t.co/PtATSOXf9y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503321493648076800,
+					"id_str": "1503321493648076807",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FNze7vwacAc6aq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNze7vwacAc6aq1.jpg",
+					"url": "https://t.co/PtATSOXf9y",
+					"display_url": "pic.twitter.com/PtATSOXf9y",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1503321500891648001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 1276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503321493648076800,
+					"id_str": "1503321493648076807",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FNze7vwacAc6aq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNze7vwacAc6aq1.jpg",
+					"url": "https://t.co/PtATSOXf9y",
+					"display_url": "pic.twitter.com/PtATSOXf9y",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1503321500891648001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 1276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503321493786480600,
+					"id_str": "1503321493786480640",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FNze7wRaUAAUqAa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNze7wRaUAAUqAa.jpg",
+					"url": "https://t.co/PtATSOXf9y",
+					"display_url": "pic.twitter.com/PtATSOXf9y",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1503321500891648001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1277,
+							"h": 1277,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유어썸머 3월 셋째 주 스케줄💌\n\n3/15 (화) 오후 8시 @네이버예약\n[#오지은] 고사리의 밤 티켓 오픈\n-\n3/16 (수) \n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt; \n-\n3/16 (수) 오후 8시 @ Arirang Radio 유튜브 채널\n[#너드커넥션] 아리랑 라디오 &lt;Radio’n Us&gt; https://t.co/PtATSOXf9y"
+	},
+	{
+		"created_at": "Mon Mar 14 10:32:28 +0000 2022",
+		"id": 1503318136988205000,
+		"id_str": "1503318136988205056",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 김동현 (Kim Dong Hyun) - 운명처럼 너를 만나 (Faded Love) / Official Music Video\nhttps://t.co/X7wOWbLVX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X7wOWbLVX5",
+					"expanded_url": "https://youtu.be/M3sbh0VwjP0",
+					"display_url": "youtu.be/M3sbh0VwjP0",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 김동현 (Kim Dong Hyun) - 운명처럼 너를 만나 (Faded Love) / Official Music Video\nhttps://t.co/X7wOWbLVX5"
+	},
+	{
 		"created_at": "Mon Mar 14 09:29:57 +0000 2022",
 		"id": 1503301865983086600,
 		"id_str": "1503302403600355328",
