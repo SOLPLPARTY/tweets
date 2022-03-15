@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 12:29:25 +0000 2022",
+		"id": 1503698862887764000,
+		"id_str": "1503709953667784704",
+		"full_text": "안녕하세요. 룰루랄라레코드입니다. \n3월 22일 발매 예정인 도마 &lt;이유도 없이 나는 섬으로 가네&gt; Vinyl(화이트 컬러반)에 보내주신 관심과 성원에 감사드립니다. 더불어 제대로 수요 예측을 하지 못 한 제작사의 실수와 주문 폭주로 인한 유통 과정에서의 혼란으로 심려를 끼쳐드린 점 사과드립니다. https://t.co/ASU408KR2O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503698849205870600,
+					"id_str": "1503698849205870595",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FN42IuwUYAMqEm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN42IuwUYAMqEm0.jpg",
+					"url": "https://t.co/ASU408KR2O",
+					"display_url": "pic.twitter.com/ASU408KR2O",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1503698862887763969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503698849205870600,
+					"id_str": "1503698849205870595",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FN42IuwUYAMqEm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN42IuwUYAMqEm0.jpg",
+					"url": "https://t.co/ASU408KR2O",
+					"display_url": "pic.twitter.com/ASU408KR2O",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1503698862887763969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503698854134182000,
+					"id_str": "1503698854134181890",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FN42JBHUcAIlsIa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN42JBHUcAIlsIa.jpg",
+					"url": "https://t.co/ASU408KR2O",
+					"display_url": "pic.twitter.com/ASU408KR2O",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1503698862887763969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503698859804962800,
+					"id_str": "1503698859804962818",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FN42JWPVsAIwi-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN42JWPVsAIwi-b.jpg",
+					"url": "https://t.co/ASU408KR2O",
+					"display_url": "pic.twitter.com/ASU408KR2O",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1503698862887763969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1938,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 14,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 룰루랄라레코드입니다. \n3월 22일 발매 예정인 도마 &lt;이유도 없이 나는 섬으로 가네&gt; Vinyl(화이트 컬러반)에 보내주신 관심과 성원에 감사드립니다. 더불어 제대로 수요 예측을 하지 못 한 제작사의 실수와 주문 폭주로 인한 유통 과정에서의 혼란으로 심려를 끼쳐드린 점 사과드립니다. https://t.co/ASU408KR2O"
+	},
+	{
 		"created_at": "Tue Mar 15 11:29:33 +0000 2022",
 		"id": 1503681342390734800,
 		"id_str": "1503694887971131393",
