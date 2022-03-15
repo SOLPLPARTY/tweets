@@ -1,6 +1,1149 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 09:30:01 +0000 2022",
+		"id": 1503663249429983200,
+		"id_str": "1503664808868077568",
+		"full_text": "✔️카드와 현금으로 구매하실 수 있습니다.\n✔️사인 포스터는 1일 22개 한정 판매되며, 공연 관람자 1인당 1개만 구매 가능합니다.\n✔️비닐봉투는 기본 제공하지 않으며 현장에서 별도 구매 가능합니다.\n✔️MD 특성상 구입하신 상품의 교환 및 환불은 불가합니다. \n단, 불량 MD의 경우 교환 가능합니다. https://t.co/ZukyE4MofR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503663245281792000,
+					"id_str": "1503663245281792002",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VwTzVEAIoJqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VwTzVEAIoJqj.jpg",
+					"url": "https://t.co/ZukyE4MofR",
+					"display_url": "pic.twitter.com/ZukyE4MofR",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663249429983235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503663245281792000,
+					"id_str": "1503663245281792002",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VwTzVEAIoJqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VwTzVEAIoJqj.jpg",
+					"url": "https://t.co/ZukyE4MofR",
+					"display_url": "pic.twitter.com/ZukyE4MofR",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663249429983235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503663245298573300,
+					"id_str": "1503663245298573316",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VwT3VIAQmlql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VwT3VIAQmlql.jpg",
+					"url": "https://t.co/ZukyE4MofR",
+					"display_url": "pic.twitter.com/ZukyE4MofR",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663249429983235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1503663184514732000,
+		"in_reply_to_status_id_str": "1503663184514732034",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4041,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️카드와 현금으로 구매하실 수 있습니다.\n✔️사인 포스터는 1일 22개 한정 판매되며, 공연 관람자 1인당 1개만 구매 가능합니다.\n✔️비닐봉투는 기본 제공하지 않으며 현장에서 별도 구매 가능합니다.\n✔️MD 특성상 구입하신 상품의 교환 및 환불은 불가합니다. \n단, 불량 MD의 경우 교환 가능합니다. https://t.co/ZukyE4MofR"
+	},
+	{
+		"created_at": "Tue Mar 15 09:29:55 +0000 2022",
+		"id": 1503663184514732000,
+		"id_str": "1503664783261945858",
+		"full_text": "장기하 단독 공연 [공중부양] MD 안내 \n\n*판매 시간*\n✔️MD의 경우, 공연 전후 공연장 로비에서 판매됩니다.\n✔️판매 시간은 아래와 같습니다.\n- 공연 전: 관람 시간 전 1시간 30분간\n- 공연 후: 공연 종료 후 30분간\n\n*안내 사항*\n✔️공연 MD의 경우 공연 관람자만 구매 가능합니다. https://t.co/EO7rpvptjl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503663179217338400,
+					"id_str": "1503663179217338368",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VsdsVgAAe0KF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VsdsVgAAe0KF.jpg",
+					"url": "https://t.co/EO7rpvptjl",
+					"display_url": "pic.twitter.com/EO7rpvptjl",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663184514732034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503663179217338400,
+					"id_str": "1503663179217338368",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VsdsVgAAe0KF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VsdsVgAAe0KF.jpg",
+					"url": "https://t.co/EO7rpvptjl",
+					"display_url": "pic.twitter.com/EO7rpvptjl",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663184514732034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503663179192184800,
+					"id_str": "1503663179192184836",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VsdmVsAQB5EI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VsdmVsAQB5EI.jpg",
+					"url": "https://t.co/EO7rpvptjl",
+					"display_url": "pic.twitter.com/EO7rpvptjl",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663184514732034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503663179187982300,
+					"id_str": "1503663179187982336",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VsdlVkAAzRQ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VsdlVkAAzRQ1.jpg",
+					"url": "https://t.co/EO7rpvptjl",
+					"display_url": "pic.twitter.com/EO7rpvptjl",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663184514732034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503663179187953700,
+					"id_str": "1503663179187953666",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FN4VsdlVIAIs32x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN4VsdlVIAIs32x.jpg",
+					"url": "https://t.co/EO7rpvptjl",
+					"display_url": "pic.twitter.com/EO7rpvptjl",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503663184514732034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4041,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하 단독 공연 [공중부양] MD 안내 \n\n*판매 시간*\n✔️MD의 경우, 공연 전후 공연장 로비에서 판매됩니다.\n✔️판매 시간은 아래와 같습니다.\n- 공연 전: 관람 시간 전 1시간 30분간\n- 공연 후: 공연 종료 후 30분간\n\n*안내 사항*\n✔️공연 MD의 경우 공연 관람자만 구매 가능합니다. https://t.co/EO7rpvptjl"
+	},
+	{
+		"created_at": "Tue Mar 15 09:29:48 +0000 2022",
+		"id": 1503658269738352600,
+		"id_str": "1503664753444593664",
+		"full_text": "#Wilcox\n\n🎥 𝗠𝗩 𝖳𝖾𝖺𝗌𝖾𝗋\n\n𝖶𝗂𝗅𝖼𝗈𝗑 \n𝗕𝗹𝘂𝗲 &amp; 𝗟𝗲𝗺𝗼𝗻𝗮𝗱𝗲 (𝗙𝗲𝗮𝘁. 𝗖𝗵𝗼𝗶 𝗖𝗲𝗹𝗹𝗼) \n𝟤𝟢𝟤𝟤.𝟢𝟥.𝟣𝟩.𝖯𝖬𝟨(𝖪𝖲𝖳)\n\n#윌콕스 #BluenLemonade \n#블루앤레모네이드 \n#ChoiCello #최첼로 https://t.co/KUNxgaznZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "BluenLemonade",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "블루앤레모네이드",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "ChoiCello",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "최첼로",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503658222657282000,
+					"id_str": "1503658222657282053",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503658222657282053/pu/img/GcrvPE0kzsovQMuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503658222657282053/pu/img/GcrvPE0kzsovQMuF.jpg",
+					"url": "https://t.co/KUNxgaznZg",
+					"display_url": "pic.twitter.com/KUNxgaznZg",
+					"expanded_url": "https://twitter.com/inplanet/status/1503658269738352642/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503658222657282000,
+					"id_str": "1503658222657282053",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503658222657282053/pu/img/GcrvPE0kzsovQMuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503658222657282053/pu/img/GcrvPE0kzsovQMuF.jpg",
+					"url": "https://t.co/KUNxgaznZg",
+					"display_url": "pic.twitter.com/KUNxgaznZg",
+					"expanded_url": "https://twitter.com/inplanet/status/1503658269738352642/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16057,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503658222657282053/pu/vid/640x360/ze15hyquFJjm6-5x.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503658222657282053/pu/vid/480x270/Tl8hnRpSSQVz2Hjh.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503658222657282053/pu/vid/1280x720/_CLQEWw4rjBMJWmQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1503658222657282053/pu/pl/WvfgbMFM_MBuVezo.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 771,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Wilcox\n\n🎥 𝗠𝗩 𝖳𝖾𝖺𝗌𝖾𝗋\n\n𝖶𝗂𝗅𝖼𝗈𝗑 \n𝗕𝗹𝘂𝗲 &amp; 𝗟𝗲𝗺𝗼𝗻𝗮𝗱𝗲 (𝗙𝗲𝗮𝘁. 𝗖𝗵𝗼𝗶 𝗖𝗲𝗹𝗹𝗼) \n𝟤𝟢𝟤𝟤.𝟢𝟥.𝟣𝟩.𝖯𝖬𝟨(𝖪𝖲𝖳)\n\n#윌콕스 #BluenLemonade \n#블루앤레모네이드 \n#ChoiCello #최첼로 https://t.co/KUNxgaznZg"
+	},
+	{
+		"created_at": "Tue Mar 15 09:29:41 +0000 2022",
+		"id": 1503657977785745400,
+		"id_str": "1503664723644059649",
+		"full_text": "Also, the dance crew ‘Team Auspicious’ will be joining the show with their high-quality performance. \n\n1st ASIA 22°03’18’’ 9PM (KST)\n2nd AMERICA 22°03’18’’ 9PM (PDT)\n      ↘︎22°03’19’’ 1PM (KST)\n3rd EUROPE 22°03’19’’ 9PM (CET)\n      ↘︎22°03’20’’ 5AM (KST)\n \n#auspicious_crew https://t.co/rnVZiUH7hv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspicious_crew",
+					"indices": [
+						258,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503632584697593900,
+					"id_str": "1503632584697593859",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FN353oOaQAM-tq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN353oOaQAM-tq6.jpg",
+					"url": "https://t.co/rnVZiUH7hv",
+					"display_url": "pic.twitter.com/rnVZiUH7hv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1503657977785745408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503632584697593900,
+					"id_str": "1503632584697593859",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FN353oOaQAM-tq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN353oOaQAM-tq6.jpg",
+					"url": "https://t.co/rnVZiUH7hv",
+					"display_url": "pic.twitter.com/rnVZiUH7hv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1503657977785745408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1503657965722939400,
+		"in_reply_to_status_id_str": "1503657965722939396",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10686904,
+			"friends_count": 56,
+			"listed_count": 11957,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also, the dance crew ‘Team Auspicious’ will be joining the show with their high-quality performance. \n\n1st ASIA 22°03’18’’ 9PM (KST)\n2nd AMERICA 22°03’18’’ 9PM (PDT)\n      ↘︎22°03’19’’ 1PM (KST)\n3rd EUROPE 22°03’19’’ 9PM (CET)\n      ↘︎22°03’20’’ 5AM (KST)\n \n#auspicious_crew https://t.co/rnVZiUH7hv"
+	},
+	{
+		"created_at": "Tue Mar 15 09:29:38 +0000 2022",
+		"id": 1503657965722939400,
+		"id_str": "1503664710645919744",
+		"full_text": "ScreaM TOGETHER! \nThe March 18th SHOWME’s #011 DJ is DJ TEZZ, the Red Bull DJ 3style 2015 Korea Champion, who has a high reputation as a scratch technician and has led the Korean Hip-hop club scene throughout his career. \n\n#SHOWME #쇼미 \n#DJ #DJTEZZ #디제이테즈\n#ScreaMRecords https://t.co/sku3EQidPy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						223,
+						230
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						231,
+						234
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						236,
+						239
+					]
+				},
+				{
+					"text": "DJTEZZ",
+					"indices": [
+						240,
+						247
+					]
+				},
+				{
+					"text": "디제이테즈",
+					"indices": [
+						248,
+						254
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						255,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503632863602028500,
+					"id_str": "1503632863602028544",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FN36H3OaMAA1c_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN36H3OaMAA1c_c.jpg",
+					"url": "https://t.co/sku3EQidPy",
+					"display_url": "pic.twitter.com/sku3EQidPy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1503657965722939396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503632863602028500,
+					"id_str": "1503632863602028544",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FN36H3OaMAA1c_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN36H3OaMAA1c_c.jpg",
+					"url": "https://t.co/sku3EQidPy",
+					"display_url": "pic.twitter.com/sku3EQidPy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1503657965722939396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10686904,
+			"friends_count": 56,
+			"listed_count": 11957,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 1315,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ScreaM TOGETHER! \nThe March 18th SHOWME’s #011 DJ is DJ TEZZ, the Red Bull DJ 3style 2015 Korea Champion, who has a high reputation as a scratch technician and has led the Korean Hip-hop club scene throughout his career. \n\n#SHOWME #쇼미 \n#DJ #DJTEZZ #디제이테즈\n#ScreaMRecords https://t.co/sku3EQidPy"
+	},
+	{
 		"created_at": "Tue Mar 15 09:15:50 +0000 2022",
 		"id": 1503661239066538000,
 		"id_str": "1503661239066537985",
