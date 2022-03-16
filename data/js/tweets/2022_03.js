@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 16 04:11:16 +0000 2022",
+		"id": 1503932503198863400,
+		"id_str": "1503946980116082690",
+		"full_text": "Indie Pride @클럽FF \n\n2022/03/25 (금) 7pm \n\n이날치, 불고기디스코, 효도앤베이스 \n\nCover : 30000 won (Only Door) \n\n글로벌 슈퍼밴드 “이날치” 의 라이브 클럽 문화의 상생을 위한 “클럽 동행 프로젝트” 일환으로  진행하게 됐습니다.  이날치 에게 깊은 감사와 존경을 표합니다. https://t.co/MZdgBDibax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503932493593940000,
+					"id_str": "1503932493593939973",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FN8Kon7VkAUeQle.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN8Kon7VkAUeQle.jpg",
+					"url": "https://t.co/MZdgBDibax",
+					"display_url": "pic.twitter.com/MZdgBDibax",
+					"expanded_url": "https://twitter.com/clubFF_/status/1503932503198863367/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503932493593940000,
+					"id_str": "1503932493593939973",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FN8Kon7VkAUeQle.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN8Kon7VkAUeQle.jpg",
+					"url": "https://t.co/MZdgBDibax",
+					"display_url": "pic.twitter.com/MZdgBDibax",
+					"expanded_url": "https://twitter.com/clubFF_/status/1503932503198863367/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503932493631656000,
+					"id_str": "1503932493631655942",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FN8KooEVEAYs44b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN8KooEVEAYs44b.jpg",
+					"url": "https://t.co/MZdgBDibax",
+					"display_url": "pic.twitter.com/MZdgBDibax",
+					"expanded_url": "https://twitter.com/clubFF_/status/1503932503198863367/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6125,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Indie Pride @클럽FF \n\n2022/03/25 (금) 7pm \n\n이날치, 불고기디스코, 효도앤베이스 \n\nCover : 30000 won (Only Door) \n\n글로벌 슈퍼밴드 “이날치” 의 라이브 클럽 문화의 상생을 위한 “클럽 동행 프로젝트” 일환으로  진행하게 됐습니다.  이날치 에게 깊은 감사와 존경을 표합니다. https://t.co/MZdgBDibax"
+	},
+	{
+		"created_at": "Wed Mar 16 03:29:41 +0000 2022",
+		"id": 1503935854254776300,
+		"id_str": "1503936513721131008",
+		"full_text": "시티팝 전도사 하세가와 요헤이, KBS전주&lt;Song큐멘터리 백투더뮤직&gt; 유튜브 채널에서 풀버전을 확인하실 수 있습니다. \n\n📍전국방송 일정\n4월 9일(토) 오전 10시 30분 KBS1TV https://t.co/uCuxSl6vIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503935712432820200,
+					"id_str": "1503935712432820225",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503935712432820225/pu/img/Pnnl4AoR6uFGP8TQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503935712432820225/pu/img/Pnnl4AoR6uFGP8TQ.jpg",
+					"url": "https://t.co/uCuxSl6vIa",
+					"display_url": "pic.twitter.com/uCuxSl6vIa",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503935854254776320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503935712432820200,
+					"id_str": "1503935712432820225",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503935712432820225/pu/img/Pnnl4AoR6uFGP8TQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503935712432820225/pu/img/Pnnl4AoR6uFGP8TQ.jpg",
+					"url": "https://t.co/uCuxSl6vIa",
+					"display_url": "pic.twitter.com/uCuxSl6vIa",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1503935854254776320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43443,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503935712432820225/pu/vid/640x360/MxuvcUEDZudFZhUL.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503935712432820225/pu/vid/480x270/aJLmAVbsuf7_ko3r.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1503935712432820225/pu/pl/znLWzhGwCwTm7sLz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1503935712432820225/pu/vid/1280x720/qRIPVqC2v6yKpGc5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4041,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시티팝 전도사 하세가와 요헤이, KBS전주&lt;Song큐멘터리 백투더뮤직&gt; 유튜브 채널에서 풀버전을 확인하실 수 있습니다. \n\n📍전국방송 일정\n4월 9일(토) 오전 10시 30분 KBS1TV https://t.co/uCuxSl6vIa"
+	},
+	{
 		"created_at": "Wed Mar 16 03:11:16 +0000 2022",
 		"id": 1503929049755791400,
 		"id_str": "1503931881196249089",
