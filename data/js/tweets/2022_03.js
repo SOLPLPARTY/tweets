@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 16 14:29:24 +0000 2022",
+		"id": 1504097807010975700,
+		"id_str": "1504102538353721348",
+		"full_text": "[#Teaser]\n빅원 - 바람이 나를 안을 때 (Feat. JAY B)\nBIGONE - Windy Day (Feat. JAY B)\n\n2022.03.18 6PM (KST)\n\n#BIGONE #빅원 #JAYB #제이비 #WindyDay #바람이나를안을때 #TheDialMusic #더다이얼뮤직 @jaybnow_hr https://t.co/j0b7wXVLv7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "BIGONE",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "빅원",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "JAYB",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "제이비",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "WindyDay",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "바람이나를안을때",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "TheDialMusic",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "더다이얼뮤직",
+					"indices": [
+						154,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						162,
+						173
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504097790095286300,
+					"id_str": "1504097790095286273",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FN-g-JYUYAEHqDM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN-g-JYUYAEHqDM.jpg",
+					"url": "https://t.co/j0b7wXVLv7",
+					"display_url": "pic.twitter.com/j0b7wXVLv7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1504097807010975748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504097790095286300,
+					"id_str": "1504097790095286273",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FN-g-JYUYAEHqDM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN-g-JYUYAEHqDM.jpg",
+					"url": "https://t.co/j0b7wXVLv7",
+					"display_url": "pic.twitter.com/j0b7wXVLv7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1504097807010975748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504097790099525600,
+					"id_str": "1504097790099525632",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FN-g-JZVEAA3kNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN-g-JZVEAA3kNy.jpg",
+					"url": "https://t.co/j0b7wXVLv7",
+					"display_url": "pic.twitter.com/j0b7wXVLv7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1504097807010975748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54553,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2577,
+		"favorite_count": 2860,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser]\n빅원 - 바람이 나를 안을 때 (Feat. JAY B)\nBIGONE - Windy Day (Feat. JAY B)\n\n2022.03.18 6PM (KST)\n\n#BIGONE #빅원 #JAYB #제이비 #WindyDay #바람이나를안을때 #TheDialMusic #더다이얼뮤직 @jaybnow_hr https://t.co/j0b7wXVLv7"
+	},
+	{
 		"created_at": "Wed Mar 16 13:58:15 +0000 2022",
 		"id": 1504080041034100700,
 		"id_str": "1504094696720719875",
