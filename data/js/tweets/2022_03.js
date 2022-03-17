@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 03:29:24 +0000 2022",
+		"id": 1504294373798080500,
+		"id_str": "1504298832460402689",
+		"full_text": "[솔루션스 (THE SOLUTIONS) | EP [TIME] 발매]\n\n솔루션스 (THE SOLUTIONS)의 세번째 EP [TIME]이 발매 되었습니다.\n지금 모든 음원사이트를 통해 감상하실 수 있습니다. \nTHE SOLUTIONS's new EP [TIME] is Out Now !\n\n‘청춘 (My Youth)’ M/V 🔗 https://t.co/CUMJcWUU3F\n\n#솔루션스 #THESOLUTIONS https://t.co/JcXwhpe2G5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔루션스",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						213,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CUMJcWUU3F",
+					"expanded_url": "https://bit.ly/34P69ul",
+					"display_url": "bit.ly/34P69ul",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504291538423382000,
+					"id_str": "1504291538423382019",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1504291538423382019/img/IRcBKfneps2FtWvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1504291538423382019/img/IRcBKfneps2FtWvI.jpg",
+					"url": "https://t.co/JcXwhpe2G5",
+					"display_url": "pic.twitter.com/JcXwhpe2G5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1504294373798080518/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504291538423382000,
+					"id_str": "1504291538423382019",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1504291538423382019/img/IRcBKfneps2FtWvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1504291538423382019/img/IRcBKfneps2FtWvI.jpg",
+					"url": "https://t.co/JcXwhpe2G5",
+					"display_url": "pic.twitter.com/JcXwhpe2G5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1504294373798080518/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47964,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1504291538423382019/pl/DfjSOmu9NsdfUqWj.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1504291538423382019/vid/480x270/PNB3x2WyJiFQy1zG.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1504291538423382019/vid/640x360/SksQOMiKVvPHsX7B.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1504291538423382019/vid/1280x720/-gzfKhsv9DeA4Yq0.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12988,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 (THE SOLUTIONS) | EP [TIME] 발매]\n\n솔루션스 (THE SOLUTIONS)의 세번째 EP [TIME]이 발매 되었습니다.\n지금 모든 음원사이트를 통해 감상하실 수 있습니다. \nTHE SOLUTIONS's new EP [TIME] is Out Now !\n\n‘청춘 (My Youth)’ M/V 🔗 https://t.co/CUMJcWUU3F\n\n#솔루션스 #THESOLUTIONS https://t.co/JcXwhpe2G5"
+	},
+	{
 		"created_at": "Thu Mar 17 03:20:12 +0000 2022",
 		"id": 1504296516592173000,
 		"id_str": "1504296516592173062",
