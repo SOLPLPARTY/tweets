@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 11:29:47 +0000 2022",
+		"id": 1504414200377983000,
+		"id_str": "1504419724200976385",
+		"full_text": "*티켓 및 MD 부스 오픈: 공연 1시간 전\n*공연장 입장: 공연 30분 전\n\n공연일시\n3월 18일(금) 8PM\n\n공연장소\n삼각산 정법사\n\n온라인 시청 및 티켓 구매\n라이브앳(https://t.co/KutJJlEYCJ)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KutJJlEYCJ",
+					"expanded_url": "http://live-at.kr",
+					"display_url": "live-at.kr",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1504414116529651700,
+		"in_reply_to_status_id_str": "1504414116529651713",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12991,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*티켓 및 MD 부스 오픈: 공연 1시간 전\n*공연장 입장: 공연 30분 전\n\n공연일시\n3월 18일(금) 8PM\n\n공연장소\n삼각산 정법사\n\n온라인 시청 및 티켓 구매\n라이브앳(https://t.co/KutJJlEYCJ)"
+	},
+	{
+		"created_at": "Thu Mar 17 11:29:42 +0000 2022",
+		"id": 1504414116529651700,
+		"id_str": "1504419702759731206",
+		"full_text": "*공연 진행 시 추워질 수 있는 날씨에 대비하여 따뜻한 외투를 준비하실 것을 권장 드립니다.\n*공연 현장에서는 우천 시를 대비한 우의를 제공하며, 객석 주변으로 난로를 설치하고 핫팩을 제공합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1504413849398567000,
+		"in_reply_to_status_id_str": "1504413849398566912",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12991,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*공연 진행 시 추워질 수 있는 날씨에 대비하여 따뜻한 외투를 준비하실 것을 권장 드립니다.\n*공연 현장에서는 우천 시를 대비한 우의를 제공하며, 객석 주변으로 난로를 설치하고 핫팩을 제공합니다."
+	},
+	{
+		"created_at": "Thu Mar 17 11:29:40 +0000 2022",
+		"id": 1504414078944505900,
+		"id_str": "1504419693922332674",
+		"full_text": "*본 공연은 관련 정부 지침에 따라 별도의 방역패스 및 방문자 등록은 진행하지 않습니다.\n*예매자 본인의 신분증 실물 필참 (사본 불가, 직계가족 대리수령 불가)\n*공연 당일에 한하여 성북 02번 버스의 '한성대입구~정법사' 구간 운행시간이 22:30까지 연장됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1504413849398567000,
+		"in_reply_to_status_id_str": "1504413849398566912",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12991,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*본 공연은 관련 정부 지침에 따라 별도의 방역패스 및 방문자 등록은 진행하지 않습니다.\n*예매자 본인의 신분증 실물 필참 (사본 불가, 직계가족 대리수령 불가)\n*공연 당일에 한하여 성북 02번 버스의 '한성대입구~정법사' 구간 운행시간이 22:30까지 연장됩니다."
+	},
+	{
+		"created_at": "Thu Mar 17 11:29:36 +0000 2022",
+		"id": 1504413849398567000,
+		"id_str": "1504419676650147846",
+		"full_text": "[쏜애플 | 콘서트 '석류의 맛' 공연 정상 진행 안내]\n\n3월 17일(목) 19:00 기상청을 통해 발표된 성북구 성북동 일기 예보입니다.\n3월 18일(금) : 최고기온 11도 / 최저기온 6도 / 구름 많음(강수확률 오전 30%, 오후 20%)\n\n3월 18일(금) 쏜애플 콘서트 '석류의 맛'이 예정대로 진행됨을 알려드립니다. https://t.co/VPt6Dt5LeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504413834412322800,
+					"id_str": "1504413834412322816",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FODAaWNUcAAVWjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FODAaWNUcAAVWjt.jpg",
+					"url": "https://t.co/VPt6Dt5LeX",
+					"display_url": "pic.twitter.com/VPt6Dt5LeX",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1504413849398566912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504413834412322800,
+					"id_str": "1504413834412322816",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FODAaWNUcAAVWjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FODAaWNUcAAVWjt.jpg",
+					"url": "https://t.co/VPt6Dt5LeX",
+					"display_url": "pic.twitter.com/VPt6Dt5LeX",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1504413849398566912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504413834404003800,
+					"id_str": "1504413834404003848",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FODAaWLVgAgpwx4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FODAaWLVgAgpwx4.jpg",
+					"url": "https://t.co/VPt6Dt5LeX",
+					"display_url": "pic.twitter.com/VPt6Dt5LeX",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1504413849398566912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12991,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쏜애플 | 콘서트 '석류의 맛' 공연 정상 진행 안내]\n\n3월 17일(목) 19:00 기상청을 통해 발표된 성북구 성북동 일기 예보입니다.\n3월 18일(금) : 최고기온 11도 / 최저기온 6도 / 구름 많음(강수확률 오전 30%, 오후 20%)\n\n3월 18일(금) 쏜애플 콘서트 '석류의 맛'이 예정대로 진행됨을 알려드립니다. https://t.co/VPt6Dt5LeX"
+	},
+	{
+		"created_at": "Thu Mar 17 11:29:30 +0000 2022",
+		"id": 1504412239574573000,
+		"id_str": "1504419651031375873",
+		"full_text": "[#Teaser]\nBIGONE(빅원) - 바람이 나를 안을 때 (feat.JAY B)\n\n2022.03.18 6PM (KST)\n\n#BIGONE #빅원 #JAYB #제이비 #WindyDay #바람이나를안을때 #TheDialMusic #더다이얼뮤직 @jaybnow_hr https://t.co/Zv5TSxIiv8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "BIGONE",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "빅원",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "JAYB",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "제이비",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "WindyDay",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "바람이나를안을때",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "TheDialMusic",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "더다이얼뮤직",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504405645977858000,
+					"id_str": "1504405645977858049",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504405645977858049/pu/img/mZIfX8Him55ca3Yo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504405645977858049/pu/img/mZIfX8Him55ca3Yo.jpg",
+					"url": "https://t.co/Zv5TSxIiv8",
+					"display_url": "pic.twitter.com/Zv5TSxIiv8",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1504412239574573056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504405645977858000,
+					"id_str": "1504405645977858049",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504405645977858049/pu/img/mZIfX8Him55ca3Yo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504405645977858049/pu/img/mZIfX8Him55ca3Yo.jpg",
+					"url": "https://t.co/Zv5TSxIiv8",
+					"display_url": "pic.twitter.com/Zv5TSxIiv8",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1504412239574573056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25044,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504405645977858049/pu/vid/640x360/_1C1Gx5vJi05aZic.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1504405645977858049/pu/pl/HYOIYASbxHoc069z.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504405645977858049/pu/vid/480x270/hgYLCRc3v1NhBe97.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504405645977858049/pu/vid/1280x720/9ecTpZjavktsWa92.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54579,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1529,
+		"favorite_count": 1674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser]\nBIGONE(빅원) - 바람이 나를 안을 때 (feat.JAY B)\n\n2022.03.18 6PM (KST)\n\n#BIGONE #빅원 #JAYB #제이비 #WindyDay #바람이나를안을때 #TheDialMusic #더다이얼뮤직 @jaybnow_hr https://t.co/Zv5TSxIiv8"
+	},
+	{
 		"created_at": "Thu Mar 17 11:11:16 +0000 2022",
 		"id": 1504404148854280200,
 		"id_str": "1504415064836685836",
