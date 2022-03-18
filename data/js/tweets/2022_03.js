@@ -1,6 +1,778 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 04:11:27 +0000 2022",
+		"id": 1504663697784193000,
+		"id_str": "1504671800394928166",
+		"full_text": "- 곧 공지될 이벤트 플레이리스트 참여도\n모두 준비해두시라요 ( •͈ᴗ-)ᓂ- - -ෆ\n\n✿ 달리, 싱글 &lt;놓아줘&gt;\n✿ 메리추, EP앨범 &lt;Winter Tape&gt;\n\n#솔루션스 #소각소각 #달리 #메리추 #전호권 #사소미 #로지 #씬디플레이리스트 https://t.co/V9ECkdGtsX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔루션스",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "소각소각",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "달리",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "메리추",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "전호권",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "사소미",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "로지",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "씬디플레이리스트",
+					"indices": [
+						139,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504663676871385000,
+					"id_str": "1504663676871385090",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjpF5aIAIM0R9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjpF5aIAIM0R9.jpg",
+					"url": "https://t.co/V9ECkdGtsX",
+					"display_url": "pic.twitter.com/V9ECkdGtsX",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663697784193024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504663676871385000,
+					"id_str": "1504663676871385090",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjpF5aIAIM0R9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjpF5aIAIM0R9.jpg",
+					"url": "https://t.co/V9ECkdGtsX",
+					"display_url": "pic.twitter.com/V9ECkdGtsX",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663697784193024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504663677009809400,
+					"id_str": "1504663677009809410",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjpGaaUAIve6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjpGaaUAIve6i.jpg",
+					"url": "https://t.co/V9ECkdGtsX",
+					"display_url": "pic.twitter.com/V9ECkdGtsX",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663697784193024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1504663692440653800,
+		"in_reply_to_status_id_str": "1504663692440653824",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 2547,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 곧 공지될 이벤트 플레이리스트 참여도\n모두 준비해두시라요 ( •͈ᴗ-)ᓂ- - -ෆ\n\n✿ 달리, 싱글 &lt;놓아줘&gt;\n✿ 메리추, EP앨범 &lt;Winter Tape&gt;\n\n#솔루션스 #소각소각 #달리 #메리추 #전호권 #사소미 #로지 #씬디플레이리스트 https://t.co/V9ECkdGtsX"
+	},
+	{
+		"created_at": "Fri Mar 18 04:11:22 +0000 2022",
+		"id": 1504663692440653800,
+		"id_str": "1504671778924380162",
+		"full_text": "이번달도 다양한 장르의 고품격 곡들이 가득하니\n이 플레이리스트와 함께 다가오는 2022년을 준비해 보아요 (•ө•)♡\n\n🔗Youtube에서 바로듣기: https://t.co/AlIhKZootd\n\n-\n✿ 사소미, 미니앨범 &lt;할시온&gt;\n✿ 로지, 싱글 &lt;WHO AM I&gt; https://t.co/tAEWM5MPTT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AlIhKZootd",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLYAswCaenHgUtxrH6G2fmyikW8CvAnQai",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504663554674544600,
+					"id_str": "1504663554674544641",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjh-raUAEQVoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjh-raUAEQVoo.jpg",
+					"url": "https://t.co/tAEWM5MPTT",
+					"display_url": "pic.twitter.com/tAEWM5MPTT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663692440653824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504663554674544600,
+					"id_str": "1504663554674544641",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjh-raUAEQVoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjh-raUAEQVoo.jpg",
+					"url": "https://t.co/tAEWM5MPTT",
+					"display_url": "pic.twitter.com/tAEWM5MPTT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663692440653824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504663554804547600,
+					"id_str": "1504663554804547585",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjh_KaAAE0V5W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjh_KaAAE0V5W.jpg",
+					"url": "https://t.co/tAEWM5MPTT",
+					"display_url": "pic.twitter.com/tAEWM5MPTT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663692440653824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1504663687151644700,
+		"in_reply_to_status_id_str": "1504663687151644676",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 2547,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번달도 다양한 장르의 고품격 곡들이 가득하니\n이 플레이리스트와 함께 다가오는 2022년을 준비해 보아요 (•ө•)♡\n\n🔗Youtube에서 바로듣기: https://t.co/AlIhKZootd\n\n-\n✿ 사소미, 미니앨범 &lt;할시온&gt;\n✿ 로지, 싱글 &lt;WHO AM I&gt; https://t.co/tAEWM5MPTT"
+	},
+	{
+		"created_at": "Fri Mar 18 04:11:17 +0000 2022",
+		"id": 1504663687151644700,
+		"id_str": "1504671757474709505",
+		"full_text": "[2022년 3월 XINDIE'S 인디 신보 PLAYLIST]\n\n이번주에도 新SONG生SONG에 실린 2&amp;3월 신보소식들을 포함한\n゜❤︎씬디 플레이리스트❤︎ ゜가\n&lt;3월 인디 신보소식&gt;으로 돌아왔습니다!\n-\n✿ 소각소각, 싱글 &lt;어서 와, 지구&gt;\n✿ 솔루션스, 미니앨범 &lt;Time&gt;\n✿ 전호권, 싱글 &lt;영혼&gt; https://t.co/OgZh1dUZAw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504663348478382000,
+					"id_str": "1504663348478382089",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjV-iakAk_GZS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjV-iakAk_GZS.jpg",
+					"url": "https://t.co/OgZh1dUZAw",
+					"display_url": "pic.twitter.com/OgZh1dUZAw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663687151644676/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504663348478382000,
+					"id_str": "1504663348478382089",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjV-iakAk_GZS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjV-iakAk_GZS.jpg",
+					"url": "https://t.co/OgZh1dUZAw",
+					"display_url": "pic.twitter.com/OgZh1dUZAw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663687151644676/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504663348474151000,
+					"id_str": "1504663348474150916",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjV-haAAQOrkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjV-haAAQOrkT.jpg",
+					"url": "https://t.co/OgZh1dUZAw",
+					"display_url": "pic.twitter.com/OgZh1dUZAw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663687151644676/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504663348474159000,
+					"id_str": "1504663348474159104",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjV-haIAARcb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjV-haIAARcb-.jpg",
+					"url": "https://t.co/OgZh1dUZAw",
+					"display_url": "pic.twitter.com/OgZh1dUZAw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663687151644676/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1504663348482539500,
+					"id_str": "1504663348482539521",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FOGjV-jaAAECUgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOGjV-jaAAECUgG.jpg",
+					"url": "https://t.co/OgZh1dUZAw",
+					"display_url": "pic.twitter.com/OgZh1dUZAw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1504663687151644676/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 2547,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022년 3월 XINDIE'S 인디 신보 PLAYLIST]\n\n이번주에도 新SONG生SONG에 실린 2&amp;3월 신보소식들을 포함한\n゜❤︎씬디 플레이리스트❤︎ ゜가\n&lt;3월 인디 신보소식&gt;으로 돌아왔습니다!\n-\n✿ 소각소각, 싱글 &lt;어서 와, 지구&gt;\n✿ 솔루션스, 미니앨범 &lt;Time&gt;\n✿ 전호권, 싱글 &lt;영혼&gt; https://t.co/OgZh1dUZAw"
+	},
+	{
 		"created_at": "Fri Mar 18 03:11:17 +0000 2022",
 		"id": 1504653826850271200,
 		"id_str": "1504656658198315008",
