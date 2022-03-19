@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 19 08:11:16 +0000 2022",
+		"id": 1505080450821222400,
+		"id_str": "1505094542340599812",
+		"full_text": "클럽빵 동행프로젝트4~ 일렉트릭뮤즈와 함께 \n#다정 #김목인 #박연두 #민수홍 네 뮤지션이 함께 합니다\n빵에 따뜻한 봄바람이 부는 날\n3월 27일(일) 18시, 클럽빵\n공연예매는 입금(하나_771-910167-21407_최현정)하고 이름과 인원을 문자메시지(010-89101089) 보내주세요\n#일렉트릭뮤즈 #클럽빵 https://t.co/P381c0u7wu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다정",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "김목인",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "박연두",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "일렉트릭뮤즈",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						172,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505080428365246500,
+					"id_str": "1505080428365246464",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505080428365246464/pu/img/rqSJcJdlPLB2GtYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505080428365246464/pu/img/rqSJcJdlPLB2GtYR.jpg",
+					"url": "https://t.co/P381c0u7wu",
+					"display_url": "pic.twitter.com/P381c0u7wu",
+					"expanded_url": "https://twitter.com/club_bbang/status/1505080450821222400/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505080428365246500,
+					"id_str": "1505080428365246464",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505080428365246464/pu/img/rqSJcJdlPLB2GtYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505080428365246464/pu/img/rqSJcJdlPLB2GtYR.jpg",
+					"url": "https://t.co/P381c0u7wu",
+					"display_url": "pic.twitter.com/P381c0u7wu",
+					"expanded_url": "https://twitter.com/club_bbang/status/1505080450821222400/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5766,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505080428365246464/pu/vid/320x320/szhYCfMbBqeIv8u8.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505080428365246464/pu/vid/540x540/8kIW-0VQveRGPKz5.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505080428365246464/pu/vid/720x720/ZxNxzw95TcBJpKXl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505080428365246464/pu/pl/eBMYn6bSWpJq2zN5.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2523,
+			"friends_count": 872,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클럽빵 동행프로젝트4~ 일렉트릭뮤즈와 함께 \n#다정 #김목인 #박연두 #민수홍 네 뮤지션이 함께 합니다\n빵에 따뜻한 봄바람이 부는 날\n3월 27일(일) 18시, 클럽빵\n공연예매는 입금(하나_771-910167-21407_최현정)하고 이름과 인원을 문자메시지(010-89101089) 보내주세요\n#일렉트릭뮤즈 #클럽빵 https://t.co/P381c0u7wu"
+	},
+	{
 		"created_at": "Sat Mar 19 05:29:24 +0000 2022",
 		"id": 1505044303105589200,
 		"id_str": "1505053807218208769",
