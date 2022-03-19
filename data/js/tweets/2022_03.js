@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 19 05:29:24 +0000 2022",
+		"id": 1505044303105589200,
+		"id_str": "1505053807218208769",
+		"full_text": "D-Day ❄️\n\n키라라 &lt;4&gt; 쇼케이스 서울 공연의 날입니다!\n\n오늘 오후 7시 플랫폼엘 플랫폼 라이브에서 진행되는 키라라 쇼케이스는 오디오비주얼 셋 특성상 공연 시작 이후 지연입장이 힘들 수 있습니다. 이점 고려하시어 공연장에 여유롭게 도착해주시길 부탁드리겠습니다. \n감사합니다. https://t.co/fzcox4MIzV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505044274261360600,
+					"id_str": "1505044274261360641",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FOL9yxqVgAEncmM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOL9yxqVgAEncmM.jpg",
+					"url": "https://t.co/fzcox4MIzV",
+					"display_url": "pic.twitter.com/fzcox4MIzV",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1505044303105589250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505044274261360600,
+					"id_str": "1505044274261360641",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FOL9yxqVgAEncmM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOL9yxqVgAEncmM.jpg",
+					"url": "https://t.co/fzcox4MIzV",
+					"display_url": "pic.twitter.com/fzcox4MIzV",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1505044303105589250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-Day ❄️\n\n키라라 &lt;4&gt; 쇼케이스 서울 공연의 날입니다!\n\n오늘 오후 7시 플랫폼엘 플랫폼 라이브에서 진행되는 키라라 쇼케이스는 오디오비주얼 셋 특성상 공연 시작 이후 지연입장이 힘들 수 있습니다. 이점 고려하시어 공연장에 여유롭게 도착해주시길 부탁드리겠습니다. \n감사합니다. https://t.co/fzcox4MIzV"
+	},
+	{
 		"created_at": "Sat Mar 19 04:11:16 +0000 2022",
 		"id": 1505026214280540200,
 		"id_str": "1505034144866312195",
