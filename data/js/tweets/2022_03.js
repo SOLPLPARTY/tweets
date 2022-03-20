@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 20 15:29:39 +0000 2022",
+		"id": 1505560534900359200,
+		"id_str": "1505567250828439553",
+		"full_text": "KWON EUN BI, Color\n\n2nd Mini Album\nColor Mood\n\n2022.04.04 6PM (KST)\n\n#권은비 #KWONEUNBI #Color https://t.co/kpFbYrwcts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권은비",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "Color",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505560439215689700,
+					"id_str": "1505560439215689730",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FOTTPh9VEAIWG7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOTTPh9VEAIWG7Y.jpg",
+					"url": "https://t.co/kpFbYrwcts",
+					"display_url": "pic.twitter.com/kpFbYrwcts",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560534900359172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505560439215689700,
+					"id_str": "1505560439215689730",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FOTTPh9VEAIWG7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOTTPh9VEAIWG7Y.jpg",
+					"url": "https://t.co/kpFbYrwcts",
+					"display_url": "pic.twitter.com/kpFbYrwcts",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560534900359172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1505560442386587600,
+					"id_str": "1505560442386587661",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FOTTPtxVIA0TA_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOTTPtxVIA0TA_v.jpg",
+					"url": "https://t.co/kpFbYrwcts",
+					"display_url": "pic.twitter.com/kpFbYrwcts",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560534900359172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1505560445247053800,
+					"id_str": "1505560445247053824",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FOTTP4bUYAABfEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOTTP4bUYAABfEU.jpg",
+					"url": "https://t.co/kpFbYrwcts",
+					"display_url": "pic.twitter.com/kpFbYrwcts",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560534900359172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1505560448183140400,
+					"id_str": "1505560448183140358",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FOTTQDXVgAY44wH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOTTQDXVgAY44wH.jpg",
+					"url": "https://t.co/kpFbYrwcts",
+					"display_url": "pic.twitter.com/kpFbYrwcts",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560534900359172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425715,
+			"friends_count": 12,
+			"listed_count": 1894,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1647788489",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 480,
+		"favorite_count": 1122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON EUN BI, Color\n\n2nd Mini Album\nColor Mood\n\n2022.04.04 6PM (KST)\n\n#권은비 #KWONEUNBI #Color https://t.co/kpFbYrwcts"
+	},
+	{
+		"created_at": "Sun Mar 20 15:29:31 +0000 2022",
+		"id": 1505560412313424000,
+		"id_str": "1505567216816775168",
+		"full_text": "KWON EUN BI, Color\n\nPalette Film #1\n\nhttps://t.co/FOwaOfok2e\nhttps://t.co/OkWMme5ti8\n\n2022.04.04 6PM (KST)\n\n#권은비 #KWONEUNBI #Color https://t.co/DLMB4ty3c3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권은비",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "Color",
+					"indices": [
+						124,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FOwaOfok2e",
+					"expanded_url": "https://youtu.be/X4IUqDjqseM",
+					"display_url": "youtu.be/X4IUqDjqseM",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/OkWMme5ti8",
+					"expanded_url": "https://www.vlive.tv/video/279533",
+					"display_url": "vlive.tv/video/279533",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505560294747086800,
+					"id_str": "1505560294747086848",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1505560294747086848/img/svLa-hyGLEWgXhQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1505560294747086848/img/svLa-hyGLEWgXhQY.jpg",
+					"url": "https://t.co/DLMB4ty3c3",
+					"display_url": "pic.twitter.com/DLMB4ty3c3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560412313423872/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505560294747086800,
+					"id_str": "1505560294747086848",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1505560294747086848/img/svLa-hyGLEWgXhQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1505560294747086848/img/svLa-hyGLEWgXhQY.jpg",
+					"url": "https://t.co/DLMB4ty3c3",
+					"display_url": "pic.twitter.com/DLMB4ty3c3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560412313423872/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10802,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1505560294747086848/vid/640x360/KDCdLU9OGwEs40XD.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1505560294747086848/pl/6YUXdJkKNK00LIpI.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1505560294747086848/vid/480x270/uT3DOZjjVQDTjdCz.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1505560294747086848/vid/1280x720/3YlXrtF2VBvggIt6.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425715,
+			"friends_count": 12,
+			"listed_count": 1894,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1647788489",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 476,
+		"favorite_count": 1045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON EUN BI, Color\n\nPalette Film #1\n\nhttps://t.co/FOwaOfok2e\nhttps://t.co/OkWMme5ti8\n\n2022.04.04 6PM (KST)\n\n#권은비 #KWONEUNBI #Color https://t.co/DLMB4ty3c3"
+	},
+	{
+		"created_at": "Sun Mar 20 15:29:27 +0000 2022",
+		"id": 1505560283057561600,
+		"id_str": "1505567199473422337",
+		"full_text": "KWON EUN BI, Color\n\n2nd Mini Album\n𝑪𝒐𝒎𝒊𝒏𝒈 𝑺𝒐𝒐𝒏\n\n2022.04.04 6PM (KST)\n\n#권은비 #KWONEUNBI #Color https://t.co/kDtYoCnsAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권은비",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "Color",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505560246038671400,
+					"id_str": "1505560246038671360",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FOTTESUVsAAjODh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOTTESUVsAAjODh.jpg",
+					"url": "https://t.co/kDtYoCnsAn",
+					"display_url": "pic.twitter.com/kDtYoCnsAn",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560283057561600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505560246038671400,
+					"id_str": "1505560246038671360",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FOTTESUVsAAjODh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOTTESUVsAAjODh.jpg",
+					"url": "https://t.co/kDtYoCnsAn",
+					"display_url": "pic.twitter.com/kDtYoCnsAn",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1505560283057561600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425715,
+			"friends_count": 12,
+			"listed_count": 1894,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1647788489",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 534,
+		"favorite_count": 1313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON EUN BI, Color\n\n2nd Mini Album\n𝑪𝒐𝒎𝒊𝒏𝒈 𝑺𝒐𝒐𝒏\n\n2022.04.04 6PM (KST)\n\n#권은비 #KWONEUNBI #Color https://t.co/kDtYoCnsAn"
+	},
+	{
 		"created_at": "Sun Mar 20 14:29:33 +0000 2022",
 		"id": 1505538029653352400,
 		"id_str": "1505552126466007040",
