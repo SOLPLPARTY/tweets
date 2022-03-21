@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 08:11:31 +0000 2022",
+		"id": 1505814982273159200,
+		"id_str": "1505819378482401282",
+		"full_text": "[공연정보]\n🍿일시 : 4월 2일 토 저녁6시 (오픈 5시 30분)\n🍿장소 : 프리즘홀 (양화로 12길6)\n🍿예매 : 30,000원 계좌입금 (010 2896 9496 기업은행 이기정)\n🍿문의 : 070 - 8150 - 2979\n\n#프리즘홀 #까미뮤직 #한국대중음악상 #19회한대음후보 #신인상 #NOMINEE_ONLY #크럭스 #와비킹 #메탈하드코어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "까미뮤직",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "한국대중음악상",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "19회한대음후보",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "신인상",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "NOMINEE_ONLY",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"text": "크럭스",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "와비킹",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "메탈하드코어",
+					"indices": [
+						189,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1505814980855472000,
+		"in_reply_to_status_id_str": "1505814980855472133",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 1116,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[공연정보]\n🍿일시 : 4월 2일 토 저녁6시 (오픈 5시 30분)\n🍿장소 : 프리즘홀 (양화로 12길6)\n🍿예매 : 30,000원 계좌입금 (010 2896 9496 기업은행 이기정)\n🍿문의 : 070 - 8150 - 2979\n\n#프리즘홀 #까미뮤직 #한국대중음악상 #19회한대음후보 #신인상 #NOMINEE_ONLY #크럭스 #와비킹 #메탈하드코어"
+	},
+	{
+		"created_at": "Mon Mar 21 08:11:22 +0000 2022",
+		"id": 1505814980855472000,
+		"id_str": "1505819340301549568",
+		"full_text": "📣오래 전 데뷔 후 재결성 활동하는 중견 메탈팀으로써 활동 모범으로 부러움 대상이 되고 있는 CRUX @crux\n\n🎙🎙더불어!!! 이 공연에서 더욱 특별히!!\n4월 1일 발매하는 와비킹의 신곡 [1975 기꽈] 의 첫 공개가 이루어지겠습니다.\n완전 신선한 '1옥타브 사나이' 의 목소리를 기대해 주세요❗️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Crux",
+					"name": "Crux",
+					"id": 2589573097,
+					"id_str": "2589573097",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1505814978577956900,
+		"in_reply_to_status_id_str": "1505814978577956867",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 1116,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📣오래 전 데뷔 후 재결성 활동하는 중견 메탈팀으로써 활동 모범으로 부러움 대상이 되고 있는 CRUX @crux\n\n🎙🎙더불어!!! 이 공연에서 더욱 특별히!!\n4월 1일 발매하는 와비킹의 신곡 [1975 기꽈] 의 첫 공개가 이루어지겠습니다.\n완전 신선한 '1옥타브 사나이' 의 목소리를 기대해 주세요❗️"
+	},
+	{
+		"created_at": "Mon Mar 21 08:11:17 +0000 2022",
+		"id": 1505814978577956900,
+		"id_str": "1505819318885531649",
+		"full_text": "‼️긴급공연공지‼️\n[HARD ROCK 1975]\n\n🏆 까미뮤직 프리젠트🏆\n올해 까미뮤직과 함께 하고 영광스럽게도 대중음악상 후보에 오른 두 밴드의 늦은 축하공연을 준비했습니다.\n\n📣 데뷔 1년만의 첫 EP 로 최고령 신인상 후보에 올라 센세이션을 일으킨 말그대로 '중 년 신 인' 강와비 @wabiking_official https://t.co/ZghRiTK11i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505814970185175000,
+					"id_str": "1505814970185175046",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FOW6vLtaUAY36va.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOW6vLtaUAY36va.jpg",
+					"url": "https://t.co/ZghRiTK11i",
+					"display_url": "pic.twitter.com/ZghRiTK11i",
+					"expanded_url": "https://twitter.com/prismhall/status/1505814978577956867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505814970185175000,
+					"id_str": "1505814970185175046",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FOW6vLtaUAY36va.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOW6vLtaUAY36va.jpg",
+					"url": "https://t.co/ZghRiTK11i",
+					"display_url": "pic.twitter.com/ZghRiTK11i",
+					"expanded_url": "https://twitter.com/prismhall/status/1505814978577956867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 1116,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‼️긴급공연공지‼️\n[HARD ROCK 1975]\n\n🏆 까미뮤직 프리젠트🏆\n올해 까미뮤직과 함께 하고 영광스럽게도 대중음악상 후보에 오른 두 밴드의 늦은 축하공연을 준비했습니다.\n\n📣 데뷔 1년만의 첫 EP 로 최고령 신인상 후보에 올라 센세이션을 일으킨 말그대로 '중 년 신 인' 강와비 @wabiking_official https://t.co/ZghRiTK11i"
+	},
+	{
+		"created_at": "Mon Mar 21 07:29:34 +0000 2022",
+		"id": 1505802939151323100,
+		"id_str": "1505808821075300352",
+		"full_text": "3/24 (목)\n[#오지은] EBS 오디오 e지식 &lt;이런 나라도 떠나고 싶다&gt;\n\n#랄라스윗 #김사월 #서영주 #너드커넥션 #오지은 #유어썸머 #스케줄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "서영주",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						85,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1505802916493676500,
+		"in_reply_to_status_id_str": "1505802916493676552",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2182,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3/24 (목)\n[#오지은] EBS 오디오 e지식 &lt;이런 나라도 떠나고 싶다&gt;\n\n#랄라스윗 #김사월 #서영주 #너드커넥션 #오지은 #유어썸머 #스케줄"
+	},
+	{
 		"created_at": "Mon Mar 21 06:58:22 +0000 2022",
 		"id": 1505786471726588000,
 		"id_str": "1505800969635913728",
