@@ -1,10 +1,713 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 11:29:25 +0000 2022",
+		"id": 1505868146166616000,
+		"id_str": "1505869181706772486",
+		"full_text": "#게일 💔𝐥𝐮𝐯 𝐬𝐭𝐚𝐫𝐯𝐞𝐝💔\n이렇게 좋아도 되는 거임? 신곡도?ㅠ\n🎬 https://t.co/fuUsOTL1Pv https://t.co/ZbSG9UwH3u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "게일",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fuUsOTL1Pv",
+					"expanded_url": "https://youtu.be/13HbYJW59_U",
+					"display_url": "youtu.be/13HbYJW59_U",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505867821737255000,
+					"id_str": "1505867821737254915",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505867821737254915/pu/img/UZhvqlaTGEWc78Cw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505867821737254915/pu/img/UZhvqlaTGEWc78Cw.jpg",
+					"url": "https://t.co/ZbSG9UwH3u",
+					"display_url": "pic.twitter.com/ZbSG9UwH3u",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1505868146166616064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505867821737255000,
+					"id_str": "1505867821737254915",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505867821737254915/pu/img/UZhvqlaTGEWc78Cw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505867821737254915/pu/img/UZhvqlaTGEWc78Cw.jpg",
+					"url": "https://t.co/ZbSG9UwH3u",
+					"display_url": "pic.twitter.com/ZbSG9UwH3u",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1505868146166616064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 37287,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505867821737254915/pu/vid/540x540/sB5xapqYnpInFUar.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505867821737254915/pu/vid/320x320/nhDr4Nb6nQJFo9xe.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505867821737254915/pu/pl/gizTR9wt-U5rDc1k.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505867821737254915/pu/vid/720x720/lmW5pAnf-7Gd0ZP3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54645,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#게일 💔𝐥𝐮𝐯 𝐬𝐭𝐚𝐫𝐯𝐞𝐝💔\n이렇게 좋아도 되는 거임? 신곡도?ㅠ\n🎬 https://t.co/fuUsOTL1Pv https://t.co/ZbSG9UwH3u"
+	},
+	{
+		"created_at": "Mon Mar 21 10:29:34 +0000 2022",
+		"id": 1505847173010927600,
+		"id_str": "1505854119063564290",
+		"full_text": "#샘라이더 🚀𝑺𝑷𝑨𝑪𝑬 𝑴𝑨𝑵👨‍🚀\n한국팬들만을 위한 라이브🎤\n#풀영상은워뮤코유튜브에서\n🎬 https://t.co/PKyDpnYCiw https://t.co/4LspBwbPzV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘라이더",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "풀영상은워뮤코유튜브에서",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKyDpnYCiw",
+					"expanded_url": "https://youtu.be/kuhDPQvgr9I",
+					"display_url": "youtu.be/kuhDPQvgr9I",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505846715286532000,
+					"id_str": "1505846715286532100",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505846715286532100/pu/img/pXez3o6YzGJY4wI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505846715286532100/pu/img/pXez3o6YzGJY4wI4.jpg",
+					"url": "https://t.co/4LspBwbPzV",
+					"display_url": "pic.twitter.com/4LspBwbPzV",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1505847173010927617/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505846715286532000,
+					"id_str": "1505846715286532100",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505846715286532100/pu/img/pXez3o6YzGJY4wI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505846715286532100/pu/img/pXez3o6YzGJY4wI4.jpg",
+					"url": "https://t.co/4LspBwbPzV",
+					"display_url": "pic.twitter.com/4LspBwbPzV",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1505847173010927617/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 50425,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505846715286532100/pu/vid/320x320/kPDUOp3r8PcBYm6E.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505846715286532100/pu/vid/540x540/h5m2UeA28XXzIfJ_.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505846715286532100/pu/vid/720x720/GyTqOeOlZz1F6BeH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505846715286532100/pu/pl/tox35QVdlfkT9Zsi.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54645,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#샘라이더 🚀𝑺𝑷𝑨𝑪𝑬 𝑴𝑨𝑵👨‍🚀\n한국팬들만을 위한 라이브🎤\n#풀영상은워뮤코유튜브에서\n🎬 https://t.co/PKyDpnYCiw https://t.co/4LspBwbPzV"
+	},
+	{
+		"created_at": "Mon Mar 21 10:29:30 +0000 2022",
+		"id": 1505846681027297300,
+		"id_str": "1505854106027667461",
+		"full_text": "[#Video] #적재\n\n🎸기타등등 적재함 7화\n기타 전문가 적재가 입문용 기타 골라드립니다. 일단 주문 먼저 하겠읍니다. (ENG)\n🔗https://t.co/HXYUd9mBVf\n\n#Jukjae\n#기타등등적재함 #브이로그\n#입문용기타 #기타추천 https://t.co/jR3TDVrBEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "기타등등적재함",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "입문용기타",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "기타추천",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HXYUd9mBVf",
+					"expanded_url": "https://youtu.be/8gYBBfZDV5M",
+					"display_url": "youtu.be/8gYBBfZDV5M",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505845229727142000,
+					"id_str": "1505845229727141891",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FOXWhGfaMAAu3wR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOXWhGfaMAAu3wR.jpg",
+					"url": "https://t.co/jR3TDVrBEd",
+					"display_url": "pic.twitter.com/jR3TDVrBEd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1505846681027297280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505845229727142000,
+					"id_str": "1505845229727141891",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FOXWhGfaMAAu3wR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOXWhGfaMAAu3wR.jpg",
+					"url": "https://t.co/jR3TDVrBEd",
+					"display_url": "pic.twitter.com/jR3TDVrBEd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1505846681027297280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7073,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1505845229727141891/vid/640x360/hXKwDAHkIGl95klu.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1505845229727141891/pl/ePwW212_KSO5QTgt.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1505845229727141891/vid/480x270/WtmVfZfUPkGWDVE7.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1505845229727141891/vid/1280x720/xOTJTy9zt5u0BnBh.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "기타등등 적재함 7화",
+						"description": "기타 전문가 적재가 입문용 기타 골라드립니다. 일단 주문 먼저 하겠읍니다. (ENG)",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/8gYBBfZDV5M"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 윤석철트리오 EP '익숙하고 일정한’ 2022. 02. 21. 12PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40353,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n🎸기타등등 적재함 7화\n기타 전문가 적재가 입문용 기타 골라드립니다. 일단 주문 먼저 하겠읍니다. (ENG)\n🔗https://t.co/HXYUd9mBVf\n\n#Jukjae\n#기타등등적재함 #브이로그\n#입문용기타 #기타추천 https://t.co/jR3TDVrBEd"
+	},
+	{
 		"created_at": "Mon Mar 21 09:38:11 +0000 2022",
 		"id": 1505841189508898800,
 		"id_str": "1505841189508898816",
-		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너​ Original : 답변완료 from 5 세컨즈 오브 서머 (5 Seconds Of Summer)\nhttps://t.co/FJVpKiwYU8",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 5 세컨즈 오브 서머 (5 Seconds Of Summer)\nhttps://t.co/FJVpKiwYU8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -146,7 +849,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너​ Original : 답변완료 from 5 세컨즈 오브 서머 (5 Seconds Of Summer)\nhttps://t.co/FJVpKiwYU8"
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 5 세컨즈 오브 서머 (5 Seconds Of Summer)\nhttps://t.co/FJVpKiwYU8"
 	},
 	{
 		"created_at": "Mon Mar 21 09:29:49 +0000 2022",
