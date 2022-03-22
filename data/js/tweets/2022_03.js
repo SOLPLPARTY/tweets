@@ -1,6 +1,1289 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 10:11:17 +0000 2022",
+		"id": 1506205343193264000,
+		"id_str": "1506211905978966016",
+		"full_text": "- 긴급 공지 ! : 3월25일 Indie Pride @FF 에 공연할 예정이었던 밴드 “불고기디스코” 가  코로나 로 인해 갑작스럽게 공연을 못하게 됐습니다.  그래서 “이날치 와 “효도앤베이스” 두팀 만 공연할 예정이니 착오 없으시길 바랍니다. \n\n6:15pm 티켓팅 및 입장 시작\n7:00pm 효도앤베이스\n7:50pm 이날치 https://t.co/AkzDxiTeZb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ff",
+					"name": "@ff",
+					"id": 45513,
+					"id_str": "45513",
+					"indices": [
+						30,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506205337212252200,
+					"id_str": "1506205337212252163",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FOcdxiNVcAM5pqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOcdxiNVcAM5pqY.jpg",
+					"url": "https://t.co/AkzDxiTeZb",
+					"display_url": "pic.twitter.com/AkzDxiTeZb",
+					"expanded_url": "https://twitter.com/clubFF_/status/1506205343193264133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506205337212252200,
+					"id_str": "1506205337212252163",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FOcdxiNVcAM5pqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOcdxiNVcAM5pqY.jpg",
+					"url": "https://t.co/AkzDxiTeZb",
+					"display_url": "pic.twitter.com/AkzDxiTeZb",
+					"expanded_url": "https://twitter.com/clubFF_/status/1506205343193264133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1506205337207992300,
+					"id_str": "1506205337207992322",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FOcdxiMUcAIyAMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOcdxiMUcAIyAMC.jpg",
+					"url": "https://t.co/AkzDxiTeZb",
+					"display_url": "pic.twitter.com/AkzDxiTeZb",
+					"expanded_url": "https://twitter.com/clubFF_/status/1506205343193264133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6120,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 긴급 공지 ! : 3월25일 Indie Pride @FF 에 공연할 예정이었던 밴드 “불고기디스코” 가  코로나 로 인해 갑작스럽게 공연을 못하게 됐습니다.  그래서 “이날치 와 “효도앤베이스” 두팀 만 공연할 예정이니 착오 없으시길 바랍니다. \n\n6:15pm 티켓팅 및 입장 시작\n7:00pm 효도앤베이스\n7:50pm 이날치 https://t.co/AkzDxiTeZb"
+	},
+	{
+		"created_at": "Tue Mar 22 09:29:58 +0000 2022",
+		"id": 1506195179488759800,
+		"id_str": "1506201508999749635",
+		"full_text": "#Upcoming\n\n위아더나잇((We Are The Night)의 해석으로 탄생한 한정원 작가의 '시와 산책'📚🎶\n곧, 만나요!🫶🏻❤‍🔥\n⠀\n📚ARTIST: 위아더나잇((We Are The Night)\n📚TITLE: 매일매일\n📚RELEASE: 2022.03.25 FRI PM12\n\n#위아더나잇 #매일매일 #언어그이상 #미러볼뮤직 https://t.co/AxEyD5J5qj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Upcoming",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "위아더나잇",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "매일매일",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "언어그이상",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506194685873729500,
+					"id_str": "1506194685873729538",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506194685873729538/pu/img/kzjkRtBNOhjN7MlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506194685873729538/pu/img/kzjkRtBNOhjN7MlH.jpg",
+					"url": "https://t.co/AxEyD5J5qj",
+					"display_url": "pic.twitter.com/AxEyD5J5qj",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1506195179488759811/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506194685873729500,
+					"id_str": "1506194685873729538",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506194685873729538/pu/img/kzjkRtBNOhjN7MlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506194685873729538/pu/img/kzjkRtBNOhjN7MlH.jpg",
+					"url": "https://t.co/AxEyD5J5qj",
+					"display_url": "pic.twitter.com/AxEyD5J5qj",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1506195179488759811/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22063,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506194685873729538/pu/pl/X4in4jfKbtw9NjLg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506194685873729538/pu/vid/640x360/5OCOvJ74xixyeLXs.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506194685873729538/pu/vid/480x270/FH7G_rRn9QAQkrEM.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506194685873729538/pu/vid/1280x720/vOD8FL0U8QIVfq7f.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/ejIyUUwHsO…",
+			"url": "https://t.co/TNuoTAkFOH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNuoTAkFOH",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ejIyUUwHsO",
+							"expanded_url": "http://youtube.com/mirrorballmusi",
+							"display_url": "youtube.com/mirrorballmusi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9448,
+			"friends_count": 2594,
+			"listed_count": 0,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1644893603",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Upcoming\n\n위아더나잇((We Are The Night)의 해석으로 탄생한 한정원 작가의 '시와 산책'📚🎶\n곧, 만나요!🫶🏻❤‍🔥\n⠀\n📚ARTIST: 위아더나잇((We Are The Night)\n📚TITLE: 매일매일\n📚RELEASE: 2022.03.25 FRI PM12\n\n#위아더나잇 #매일매일 #언어그이상 #미러볼뮤직 https://t.co/AxEyD5J5qj"
+	},
+	{
+		"created_at": "Tue Mar 22 09:29:53 +0000 2022",
+		"id": 1506194377676243000,
+		"id_str": "1506201487642402819",
+		"full_text": "[#윤종신] 2022 월간 윤종신 3월호 '말' 공개✅\n\n🔗 https://t.co/Yn1obt6gw0\n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'Words' is out✅\nListen and watch now🎶\n\n#월간윤종신 #3월호 #말 #Words https://t.co/ODcteGAkvf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "3월호",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "말",
+					"indices": [
+						148,
+						150
+					]
+				},
+				{
+					"text": "Words",
+					"indices": [
+						151,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yn1obt6gw0",
+					"expanded_url": "https://youtu.be/Vcq4Au5ZqXw",
+					"display_url": "youtu.be/Vcq4Au5ZqXw",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506178876132626400,
+					"id_str": "1506178876132626434",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FOcGtWaVcAIAlBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOcGtWaVcAIAlBa.jpg",
+					"url": "https://t.co/ODcteGAkvf",
+					"display_url": "pic.twitter.com/ODcteGAkvf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1506194377676242947/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506178876132626400,
+					"id_str": "1506178876132626434",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FOcGtWaVcAIAlBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOcGtWaVcAIAlBa.jpg",
+					"url": "https://t.co/ODcteGAkvf",
+					"display_url": "pic.twitter.com/ODcteGAkvf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1506194377676242947/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55805,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506178876132626434/vid/640x360/H_pNCW32TTuIOVaw.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506178876132626434/vid/480x270/1lLrOoJqgJCCZRth.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1506178876132626434/pl/Q7MuJ7sHWSKf2UoZ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506178876132626434/vid/1280x720/vfAM8x77AHZYf7-w.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[MV] 2022 월간 윤종신 3월호 - 말",
+						"description": "[#윤종신] 2022 월간 윤종신 3월호 '말' 공개✅\n\n🔗 월간 윤종신 YouTube\n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'Words' is out✅\nListen and watch now🎶\n\n#월간윤종신 #3월호 #말 #Words",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/Vcq4Au5ZqXw"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34481,
+			"friends_count": 15,
+			"listed_count": 280,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1645607843",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 2022 월간 윤종신 3월호 '말' 공개✅\n\n🔗 https://t.co/Yn1obt6gw0\n\n각 음원 사이트에서 지금 바로 확인하세요🎶\n\nThe new song 'Words' is out✅\nListen and watch now🎶\n\n#월간윤종신 #3월호 #말 #Words https://t.co/ODcteGAkvf"
+	},
+	{
+		"created_at": "Tue Mar 22 09:29:45 +0000 2022",
+		"id": 1506194074239660000,
+		"id_str": "1506201453626634240",
+		"full_text": "1st ASIA 22°03’25’’ 9PM (KST) \n2nd AMERICA 22°03’25’’ 9PM (PDT) \n      ↘︎22°03’26’’ 1PM (KST) \n3rd EUROPE 22°03’26’’ 9PM (CET) \n      ↘︎22°03’27’’ 5AM (KST) \n \n#SHOWME #쇼미 \n#DJ #BRLLNT #브릴리언트 \n#ScreaMRecords \n#PinkBlood \n#SMTOWN \n#BeyondLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWME",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "BRLLNT",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "브릴리언트",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						193,
+						207
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						209,
+						219
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						230,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1506194069932097500,
+		"in_reply_to_status_id_str": "1506194069932097538",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10705119,
+			"friends_count": 56,
+			"listed_count": 11990,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1st ASIA 22°03’25’’ 9PM (KST) \n2nd AMERICA 22°03’25’’ 9PM (PDT) \n      ↘︎22°03’26’’ 1PM (KST) \n3rd EUROPE 22°03’26’’ 9PM (CET) \n      ↘︎22°03’27’’ 5AM (KST) \n \n#SHOWME #쇼미 \n#DJ #BRLLNT #브릴리언트 \n#ScreaMRecords \n#PinkBlood \n#SMTOWN \n#BeyondLIVE"
+	},
+	{
+		"created_at": "Tue Mar 22 09:29:37 +0000 2022",
+		"id": 1506194069932097500,
+		"id_str": "1506201423868047362",
+		"full_text": "ScreaM TOGETHER!\nThe March 25th SHOWME's #012 DJ is producer/DJ BRLLNT, who remixed BAEKHYUN – Bambi under ScreaM Records' remix project ‘iScreaM’ &amp; co-produced Christina Aguilera's “Like I Do,“ which won the Best Rap/Sung Performance nomination at the 61st Annual Grammy Awards. https://t.co/3RwEIFN4pc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506193413041180700,
+					"id_str": "1506193413041180674",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FOcS7dNaUAIZRYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOcS7dNaUAIZRYK.jpg",
+					"url": "https://t.co/3RwEIFN4pc",
+					"display_url": "pic.twitter.com/3RwEIFN4pc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1506194069932097538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506193413041180700,
+					"id_str": "1506193413041180674",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FOcS7dNaUAIZRYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOcS7dNaUAIZRYK.jpg",
+					"url": "https://t.co/3RwEIFN4pc",
+					"display_url": "pic.twitter.com/3RwEIFN4pc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1506194069932097538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10705119,
+			"friends_count": 56,
+			"listed_count": 11990,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 1308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ScreaM TOGETHER!\nThe March 25th SHOWME's #012 DJ is producer/DJ BRLLNT, who remixed BAEKHYUN – Bambi under ScreaM Records' remix project ‘iScreaM’ &amp; co-produced Christina Aguilera's “Like I Do,“ which won the Best Rap/Sung Performance nomination at the 61st Annual Grammy Awards. https://t.co/3RwEIFN4pc"
+	},
+	{
+		"created_at": "Tue Mar 22 09:29:30 +0000 2022",
+		"id": 1506193978676326400,
+		"id_str": "1506201394063282179",
+		"full_text": "💜#HONNE 아시아 온라인 팬미팅💜\n📅 3월 29일 (화) 오후 9시 30분 (KST)\n📍 워너뮤직코리아 유튜브 채널\n\n📢라이브 퍼포먼스와 Q&amp;A가 함께하는 HONNE의 아시아 온라인 팬미팅에 초대합니다! HONNE에게 궁금한 질문들을 댓글/멘션에 남겨주세요!\n\n#honneasiameetandgreet #honne https://t.co/EMBgZWmBdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HONNE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "honneasiameetandgreet",
+					"indices": [
+						152,
+						174
+					]
+				},
+				{
+					"text": "honne",
+					"indices": [
+						175,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506115188415942700,
+					"id_str": "1506115188415942656",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506115188415942656/pu/img/A0OtDedMM9HgI4ZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506115188415942656/pu/img/A0OtDedMM9HgI4ZR.jpg",
+					"url": "https://t.co/EMBgZWmBdh",
+					"display_url": "pic.twitter.com/EMBgZWmBdh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506193978676326401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506115188415942700,
+					"id_str": "1506115188415942656",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506115188415942656/pu/img/A0OtDedMM9HgI4ZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506115188415942656/pu/img/A0OtDedMM9HgI4ZR.jpg",
+					"url": "https://t.co/EMBgZWmBdh",
+					"display_url": "pic.twitter.com/EMBgZWmBdh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506193978676326401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29988,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506115188415942656/pu/vid/540x540/Fs2ESxO5gLtf7D3P.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506115188415942656/pu/pl/DScVZFPd30BckyDL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506115188415942656/pu/vid/320x320/ta9h2GJg5X4pJXQB.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506115188415942656/pu/vid/720x720/8r4DsfyAc7-zdApI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54653,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜#HONNE 아시아 온라인 팬미팅💜\n📅 3월 29일 (화) 오후 9시 30분 (KST)\n📍 워너뮤직코리아 유튜브 채널\n\n📢라이브 퍼포먼스와 Q&amp;A가 함께하는 HONNE의 아시아 온라인 팬미팅에 초대합니다! HONNE에게 궁금한 질문들을 댓글/멘션에 남겨주세요!\n\n#honneasiameetandgreet #honne https://t.co/EMBgZWmBdh"
+	},
+	{
 		"created_at": "Tue Mar 22 09:15:46 +0000 2022",
 		"id": 1506197935482040300,
 		"id_str": "1506197935482040322",
