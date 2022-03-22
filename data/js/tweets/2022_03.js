@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 05:29:34 +0000 2022",
+		"id": 1506128835167015000,
+		"id_str": "1506141009910149123",
+		"full_text": "[#Playlist]\n#TWICE(#트와이스) - #TWICE4 (Japanese ver.) 가 TIDAL(@tidal) 'K-Pop x J-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out 'I CAN'T STOP ME (Japanese ver.)’ playlist on TIDAL\n🎶https://t.co/DEBQmIpQpd\n\n#warnermusic #TIDAL @JYPETWICE_JAPAN @JYPETWICE https://t.co/qdamlxXMRp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Playlist",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "TWICE4",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"screen_name": "JYPETWICE_JAPAN",
+					"name": "TWICE JAPAN OFFICIAL",
+					"id": 806020707700215800,
+					"id_str": "806020707700215808",
+					"indices": [
+						214,
+						230
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						231,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DEBQmIpQpd",
+					"expanded_url": "http://tidal.com/browse/playlist/c27c8fc9-0b44-430c-81a2-8e088dbcf07f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506128518278955000,
+					"id_str": "1506128518278955009",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FObX6FYaQAEsRCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObX6FYaQAEsRCQ.jpg",
+					"url": "https://t.co/qdamlxXMRp",
+					"display_url": "pic.twitter.com/qdamlxXMRp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506128835167014915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506128518278955000,
+					"id_str": "1506128518278955009",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FObX6FYaQAEsRCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObX6FYaQAEsRCQ.jpg",
+					"url": "https://t.co/qdamlxXMRp",
+					"display_url": "pic.twitter.com/qdamlxXMRp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506128835167014915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54655,
+			"friends_count": 494,
+			"listed_count": 201,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Playlist]\n#TWICE(#트와이스) - #TWICE4 (Japanese ver.) 가 TIDAL(@tidal) 'K-Pop x J-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out 'I CAN'T STOP ME (Japanese ver.)’ playlist on TIDAL\n🎶https://t.co/DEBQmIpQpd\n\n#warnermusic #TIDAL @JYPETWICE_JAPAN @JYPETWICE https://t.co/qdamlxXMRp"
+	},
+	{
+		"created_at": "Tue Mar 22 05:29:28 +0000 2022",
+		"id": 1506128592371007500,
+		"id_str": "1506140984287154177",
+		"full_text": "YELO(옐로) ‘Ignite’ Released!!\n🤍 https://t.co/NRlLNr60fS https://t.co/vcTztNXC3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NRlLNr60fS",
+					"expanded_url": "https://www.instagram.com/p/CbZJC4BLUOg/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CbZJC4BLUOg/…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506128584729014300,
+					"id_str": "1506128584729014272",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FObX987VsAAgwUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObX987VsAAgwUC.jpg",
+					"url": "https://t.co/vcTztNXC3H",
+					"display_url": "pic.twitter.com/vcTztNXC3H",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1506128592371007491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506128584729014300,
+					"id_str": "1506128584729014272",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FObX987VsAAgwUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObX987VsAAgwUC.jpg",
+					"url": "https://t.co/vcTztNXC3H",
+					"display_url": "pic.twitter.com/vcTztNXC3H",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1506128592371007491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7257,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YELO(옐로) ‘Ignite’ Released!!\n🤍 https://t.co/NRlLNr60fS https://t.co/vcTztNXC3H"
+	},
+	{
 		"created_at": "Tue Mar 22 04:29:34 +0000 2022",
 		"id": 1506114413492781000,
 		"id_str": "1506125911296512003",
