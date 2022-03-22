@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 11:29:25 +0000 2022",
+		"id": 1506224004331360300,
+		"id_str": "1506231568494383106",
+		"full_text": "#뮤즈 #MUSE ⛓𝑪𝒐𝒎𝒑𝒍𝒊𝒂𝒏𝒄𝒆⛓\n📅 8/26 새 앨범 [Will Of The People] 발매!\n🎧음원듣기 https://t.co/vQArsn0OtX https://t.co/Bsb5bGvcei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤즈",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "MUSE",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vQArsn0OtX",
+					"expanded_url": "https://WMK.lnk.to/zknqb8BS",
+					"display_url": "WMK.lnk.to/zknqb8BS",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506223668057329700,
+					"id_str": "1506223668057329670",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506223668057329670/pu/img/MfV7Ow0MlKePOOVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506223668057329670/pu/img/MfV7Ow0MlKePOOVH.jpg",
+					"url": "https://t.co/Bsb5bGvcei",
+					"display_url": "pic.twitter.com/Bsb5bGvcei",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506224004331360256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506223668057329700,
+					"id_str": "1506223668057329670",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506223668057329670/pu/img/MfV7Ow0MlKePOOVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506223668057329670/pu/img/MfV7Ow0MlKePOOVH.jpg",
+					"url": "https://t.co/Bsb5bGvcei",
+					"display_url": "pic.twitter.com/Bsb5bGvcei",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506224004331360256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 47672,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506223668057329670/pu/vid/320x320/Qd7aNUfjf4785Zbv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506223668057329670/pu/pl/sikakGCgo_M2dQ5M.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506223668057329670/pu/vid/540x540/KzGojycQHy_ShiG7.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506223668057329670/pu/vid/720x720/2enasNEYjH0q3AE5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54650,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뮤즈 #MUSE ⛓𝑪𝒐𝒎𝒑𝒍𝒊𝒂𝒏𝒄𝒆⛓\n📅 8/26 새 앨범 [Will Of The People] 발매!\n🎧음원듣기 https://t.co/vQArsn0OtX https://t.co/Bsb5bGvcei"
+	},
+	{
 		"created_at": "Tue Mar 22 10:11:17 +0000 2022",
 		"id": 1506205343193264000,
 		"id_str": "1506211905978966016",
@@ -225,7 +443,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Tue Mar 22 09:29:58 +0000 2022",
 		"id": 1506195179488759800,
 		"id_str": "1506201508999749635",
-		"full_text": "#Upcoming\n\n위아더나잇((We Are The Night)의 해석으로 탄생한 한정원 작가의 '시와 산책'📚🎶\n곧, 만나요!🫶🏻❤‍🔥\n⠀\n📚ARTIST: 위아더나잇((We Are The Night)\n📚TITLE: 매일매일\n📚RELEASE: 2022.03.25 FRI PM12\n\n#위아더나잇 #매일매일 #언어그이상 #미러볼뮤직 https://t.co/AxEyD5J5qj",
+		"full_text": "#Upcoming\n\n위아더나잇((We Are The Night)의 해석으로 탄생한 한정원 작가의 '시와 산책'📚🎶\n곧, 만나요!🫶🏻❤🔥\n⠀\n📚ARTIST: 위아더나잇((We Are The Night)\n📚TITLE: 매일매일\n📚RELEASE: 2022.03.25 FRI PM12\n\n#위아더나잇 #매일매일 #언어그이상 #미러볼뮤직 https://t.co/AxEyD5J5qj",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -471,7 +689,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#Upcoming\n\n위아더나잇((We Are The Night)의 해석으로 탄생한 한정원 작가의 '시와 산책'📚🎶\n곧, 만나요!🫶🏻❤‍🔥\n⠀\n📚ARTIST: 위아더나잇((We Are The Night)\n📚TITLE: 매일매일\n📚RELEASE: 2022.03.25 FRI PM12\n\n#위아더나잇 #매일매일 #언어그이상 #미러볼뮤직 https://t.co/AxEyD5J5qj"
+		"text": "#Upcoming\n\n위아더나잇((We Are The Night)의 해석으로 탄생한 한정원 작가의 '시와 산책'📚🎶\n곧, 만나요!🫶🏻❤🔥\n⠀\n📚ARTIST: 위아더나잇((We Are The Night)\n📚TITLE: 매일매일\n📚RELEASE: 2022.03.25 FRI PM12\n\n#위아더나잇 #매일매일 #언어그이상 #미러볼뮤직 https://t.co/AxEyD5J5qj"
 	},
 	{
 		"created_at": "Tue Mar 22 09:29:53 +0000 2022",
