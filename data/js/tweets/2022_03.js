@@ -1,6 +1,1429 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 23 10:11:17 +0000 2022",
+		"id": 1506569832485257200,
+		"id_str": "1506574293504864257",
+		"full_text": "음식 이야기와 더불어 그리운 시간, 그리운 사람들에 대한 추억과 일상이 담긴 민영 작가님의 에세이 &lt;후쿠오카 그라탕&gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\nㅡ https://t.co/UnqsUNWJpu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506569827661811700,
+					"id_str": "1506569827661811713",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FOhpRq8akAEnS2K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOhpRq8akAEnS2K.jpg",
+					"url": "https://t.co/UnqsUNWJpu",
+					"display_url": "pic.twitter.com/UnqsUNWJpu",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1506569832485257223/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506569827661811700,
+					"id_str": "1506569827661811713",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FOhpRq8akAEnS2K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOhpRq8akAEnS2K.jpg",
+					"url": "https://t.co/UnqsUNWJpu",
+					"display_url": "pic.twitter.com/UnqsUNWJpu",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1506569832485257223/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 214,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1469659b6ad47003",
+			"url": "https://api.twitter.com/1.1/geo/id/1469659b6ad47003.json",
+			"place_type": "poi",
+			"name": "공상온도",
+			"full_name": "공상온도",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음식 이야기와 더불어 그리운 시간, 그리운 사람들에 대한 추억과 일상이 담긴 민영 작가님의 에세이 &lt;후쿠오카 그라탕&gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\nㅡ https://t.co/UnqsUNWJpu"
+	},
+	{
+		"created_at": "Wed Mar 23 10:05:59 +0000 2022",
+		"id": 1506572963092447200,
+		"id_str": "1506572963092447232",
+		"full_text": "#딩고뮤직 #dingo_music\n넬(NELL) - 유희 선공개 [3월 24일(목) 오후 7시 본편 공개!] #Shorts\nhttps://t.co/0fyjtEqiFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0fyjtEqiFF",
+					"expanded_url": "https://youtu.be/nq9REinR_YI",
+					"display_url": "youtu.be/nq9REinR_YI",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 466,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n넬(NELL) - 유희 선공개 [3월 24일(목) 오후 7시 본편 공개!] #Shorts\nhttps://t.co/0fyjtEqiFF"
+	},
+	{
+		"created_at": "Wed Mar 23 09:29:44 +0000 2022",
+		"id": 1506560281534734300,
+		"id_str": "1506563839097282566",
+		"full_text": "⭐⭐⭐⭐⭐\n#찰리XCX 새 앨범 💥𝐂𝐑𝐀𝐒𝐇💥 발매!\n🎧음원듣기 https://t.co/gxeugZqzD5 https://t.co/KiE1ALsn7g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "찰리XCX",
+					"indices": [
+						6,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gxeugZqzD5",
+					"expanded_url": "https://WMK.lnk.to/Kx1EXd0S",
+					"display_url": "WMK.lnk.to/Kx1EXd0S",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506560134205612000,
+					"id_str": "1506560134205612035",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506560134205612035/pu/img/LdJp8iJEIGGla7jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506560134205612035/pu/img/LdJp8iJEIGGla7jd.jpg",
+					"url": "https://t.co/KiE1ALsn7g",
+					"display_url": "pic.twitter.com/KiE1ALsn7g",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506560281534734337/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506560134205612000,
+					"id_str": "1506560134205612035",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506560134205612035/pu/img/LdJp8iJEIGGla7jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506560134205612035/pu/img/LdJp8iJEIGGla7jd.jpg",
+					"url": "https://t.co/KiE1ALsn7g",
+					"display_url": "pic.twitter.com/KiE1ALsn7g",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506560281534734337/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 19986,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506560134205612035/pu/vid/320x320/BL2d1UjhAbrF1Qw4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506560134205612035/pu/pl/WPAnOek-xpNAhBON.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506560134205612035/pu/vid/540x540/hiJ_QRhxlP2UCU2p.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506560134205612035/pu/vid/720x720/tV8n8X-uuTqcTdI3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54662,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⭐⭐⭐⭐⭐\n#찰리XCX 새 앨범 💥𝐂𝐑𝐀𝐒𝐇💥 발매!\n🎧음원듣기 https://t.co/gxeugZqzD5 https://t.co/KiE1ALsn7g"
+	},
+	{
+		"created_at": "Wed Mar 23 09:29:40 +0000 2022",
+		"id": 1506559579240681500,
+		"id_str": "1506563821888065543",
+		"full_text": "[솔루션스 (THE SOLUTIONS) | Playlist Film]\n\n솔루션스 EP [TIME] 전곡의 플레이리스트 필름이 공개되었습니다.\n지금 바로 감상해보세요! \n\nFull ver. 유튜브 'THE SOLUTIONS / 솔루션스'\n🔗 https://t.co/LIBlnqtlhz\n\n#솔루션스 #THESOLUTIONS\n#TIMEplaylistFILM #TIME https://t.co/4wZDT8RkAF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔루션스",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"text": "TIMEplaylistFILM",
+					"indices": [
+						179,
+						196
+					]
+				},
+				{
+					"text": "TIME",
+					"indices": [
+						197,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LIBlnqtlhz",
+					"expanded_url": "https://bit.ly/3txGFve",
+					"display_url": "bit.ly/3txGFve",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506559348059029500,
+					"id_str": "1506559348059029504",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FOhf7FSaQAgMsyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOhf7FSaQAgMsyH.jpg",
+					"url": "https://t.co/4wZDT8RkAF",
+					"display_url": "pic.twitter.com/4wZDT8RkAF",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1506559579240681477/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506559348059029500,
+					"id_str": "1506559348059029504",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FOhf7FSaQAgMsyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOhf7FSaQAgMsyH.jpg",
+					"url": "https://t.co/4wZDT8RkAF",
+					"display_url": "pic.twitter.com/4wZDT8RkAF",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1506559579240681477/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28250,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506559348059029504/vid/1280x720/UOTXALlzKfC6TU6n.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1506559348059029504/pl/rga25dafpNL8VFXd.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506559348059029504/vid/640x360/BuHZ7aRkMNfVIPcF.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1506559348059029504/vid/480x270/DI7lWhRTpTk0k25q.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13002,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 (THE SOLUTIONS) | Playlist Film]\n\n솔루션스 EP [TIME] 전곡의 플레이리스트 필름이 공개되었습니다.\n지금 바로 감상해보세요! \n\nFull ver. 유튜브 'THE SOLUTIONS / 솔루션스'\n🔗 https://t.co/LIBlnqtlhz\n\n#솔루션스 #THESOLUTIONS\n#TIMEplaylistFILM #TIME https://t.co/4wZDT8RkAF"
+	},
+	{
+		"created_at": "Wed Mar 23 09:29:35 +0000 2022",
+		"id": 1506559054373548000,
+		"id_str": "1506563799951843333",
+		"full_text": "#wilcox\n\n영감 충전? 평일에 바다가는 윌콕스 브이로그 | 시화나래, 탄도항, 드라이브\n📹 https://t.co/SGBHCaOeAP\n\n#윌콕스 #브이로그 #Vlog https://t.co/gSVgAjMnYT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "Vlog",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SGBHCaOeAP",
+					"expanded_url": "https://youtu.be/cokgRwGE_yU",
+					"display_url": "youtu.be/cokgRwGE_yU",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506558837335068700,
+					"id_str": "1506558837335068674",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506558837335068674/pu/img/MVKvZlo1a5bGJDG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506558837335068674/pu/img/MVKvZlo1a5bGJDG5.jpg",
+					"url": "https://t.co/gSVgAjMnYT",
+					"display_url": "pic.twitter.com/gSVgAjMnYT",
+					"expanded_url": "https://twitter.com/inplanet/status/1506559054373548034/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506558837335068700,
+					"id_str": "1506558837335068674",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506558837335068674/pu/img/MVKvZlo1a5bGJDG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506558837335068674/pu/img/MVKvZlo1a5bGJDG5.jpg",
+					"url": "https://t.co/gSVgAjMnYT",
+					"display_url": "pic.twitter.com/gSVgAjMnYT",
+					"expanded_url": "https://twitter.com/inplanet/status/1506559054373548034/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36469,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506558837335068674/pu/vid/1280x720/-vD298tWGyX5ea5-.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506558837335068674/pu/vid/640x360/6qVpr2vnJ0FdjA4i.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506558837335068674/pu/vid/480x270/6aqFai1HccpbsGOh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506558837335068674/pu/pl/-6WiE__VQVkRCEH8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 771,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#wilcox\n\n영감 충전? 평일에 바다가는 윌콕스 브이로그 | 시화나래, 탄도항, 드라이브\n📹 https://t.co/SGBHCaOeAP\n\n#윌콕스 #브이로그 #Vlog https://t.co/gSVgAjMnYT"
+	},
+	{
+		"created_at": "Wed Mar 23 09:29:30 +0000 2022",
+		"id": 1506557765686546400,
+		"id_str": "1506563778518949891",
+		"full_text": "투트랙 프로젝트 vol.1\n정승환 '연대기'\n\nMelon https://t.co/i7s37PYsmv\nGenie https://t.co/0EaY1OLB1N\nBugs https://t.co/gemKo9dLke\nFLO https://t.co/xbkrJIuJxt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i7s37PYsmv",
+					"expanded_url": "https://bit.ly/36EM8ak",
+					"display_url": "bit.ly/36EM8ak",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/0EaY1OLB1N",
+					"expanded_url": "https://bit.ly/3Nedwg9",
+					"display_url": "bit.ly/3Nedwg9",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/gemKo9dLke",
+					"expanded_url": "https://bit.ly/3L7V07r",
+					"display_url": "bit.ly/3L7V07r",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/xbkrJIuJxt",
+					"expanded_url": "https://bit.ly/3ujC7HN",
+					"display_url": "bit.ly/3ujC7HN",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506557762675044400,
+		"in_reply_to_status_id_str": "1506557762675044356",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40354,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "투트랙 프로젝트 vol.1\n정승환 '연대기'\n\nMelon https://t.co/i7s37PYsmv\nGenie https://t.co/0EaY1OLB1N\nBugs https://t.co/gemKo9dLke\nFLO https://t.co/xbkrJIuJxt"
+	},
+	{
+		"created_at": "Wed Mar 23 09:29:26 +0000 2022",
+		"id": 1506557762675044400,
+		"id_str": "1506563765516525570",
+		"full_text": "[#Release] #정승환\n\n투트랙 프로젝트 vol.1\n정승환 '연대기'\n⠀\nLyrics by 조동희\nComposed by 조동익\nArranged by 조동익\n\n정승환이 참여한 투트랙 프로젝트 vol.1 '연대기'는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n#JungSeungHwan\n#투트랙프로젝트 #연대기 https://t.co/mPkC20HrxV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "투트랙프로젝트",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "연대기",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506557756698161200,
+					"id_str": "1506557756698161152",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FOheTDGacAAMmBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOheTDGacAAMmBK.jpg",
+					"url": "https://t.co/mPkC20HrxV",
+					"display_url": "pic.twitter.com/mPkC20HrxV",
+					"expanded_url": "https://twitter.com/antennamusic/status/1506557762675044356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506557756698161200,
+					"id_str": "1506557756698161152",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FOheTDGacAAMmBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOheTDGacAAMmBK.jpg",
+					"url": "https://t.co/mPkC20HrxV",
+					"display_url": "pic.twitter.com/mPkC20HrxV",
+					"expanded_url": "https://twitter.com/antennamusic/status/1506557762675044356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40354,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #정승환\n\n투트랙 프로젝트 vol.1\n정승환 '연대기'\n⠀\nLyrics by 조동희\nComposed by 조동익\nArranged by 조동익\n\n정승환이 참여한 투트랙 프로젝트 vol.1 '연대기'는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n#JungSeungHwan\n#투트랙프로젝트 #연대기 https://t.co/mPkC20HrxV"
+	},
+	{
 		"created_at": "Wed Mar 23 09:15:15 +0000 2022",
 		"id": 1506560192871223300,
 		"id_str": "1506560192871223298",
