@@ -1,6 +1,796 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 09:39:23 +0000 2022",
+		"id": 1506928655636656000,
+		"id_str": "1506928655636656129",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n톤즈 앤 아이 (TONES AND I) - EYES DON'T LIE 가사 번역 뮤직비디오\nhttps://t.co/q3u0p6UGPc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3u0p6UGPc",
+					"expanded_url": "https://youtu.be/TlWNIi5jVhQ",
+					"display_url": "youtu.be/TlWNIi5jVhQ",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 465,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n톤즈 앤 아이 (TONES AND I) - EYES DON'T LIE 가사 번역 뮤직비디오\nhttps://t.co/q3u0p6UGPc"
+	},
+	{
+		"created_at": "Thu Mar 24 09:29:48 +0000 2022",
+		"id": 1506921821161296000,
+		"id_str": "1506926242741854211",
+		"full_text": "[송하영 (프로미스나인) - '그래도 나 사랑하지' 바로듣기]\n⠀\n멜론 https://t.co/dPth4vfeL6\n지니 https://t.co/4N8X8mWeo6\n벅스 https://t.co/IpMhSSr22A\n플로 https://t.co/COHoxCWNLb\n바이브 https://t.co/owckOxUeRc \n\n#송하영 #SONGHAYOUNG \n#나의스웨덴세탁소 #그래도_나_사랑하지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "송하영",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "SONGHAYOUNG",
+					"indices": [
+						180,
+						192
+					]
+				},
+				{
+					"text": "나의스웨덴세탁소",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "그래도_나_사랑하지",
+					"indices": [
+						204,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dPth4vfeL6",
+					"expanded_url": "https://bit.ly/3wCVH4C",
+					"display_url": "bit.ly/3wCVH4C",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/4N8X8mWeo6",
+					"expanded_url": "https://bit.ly/3567Pjg",
+					"display_url": "bit.ly/3567Pjg",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/IpMhSSr22A",
+					"expanded_url": "https://bit.ly/3iyUbIE",
+					"display_url": "bit.ly/3iyUbIE",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/COHoxCWNLb",
+					"expanded_url": "https://bit.ly/3qydvKj",
+					"display_url": "bit.ly/3qydvKj",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/owckOxUeRc",
+					"expanded_url": "https://bit.ly/3wyToQf",
+					"display_url": "bit.ly/3wyToQf",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1506918745851285500,
+		"in_reply_to_status_id_str": "1506918745851285505",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7715,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1646989770",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[송하영 (프로미스나인) - '그래도 나 사랑하지' 바로듣기]\n⠀\n멜론 https://t.co/dPth4vfeL6\n지니 https://t.co/4N8X8mWeo6\n벅스 https://t.co/IpMhSSr22A\n플로 https://t.co/COHoxCWNLb\n바이브 https://t.co/owckOxUeRc \n\n#송하영 #SONGHAYOUNG \n#나의스웨덴세탁소 #그래도_나_사랑하지"
+	},
+	{
+		"created_at": "Thu Mar 24 09:29:39 +0000 2022",
+		"id": 1506918995470913500,
+		"id_str": "1506926204527558658",
+		"full_text": "[MV]\n⠀\n송하영 (프로미스나인) - '그래도 나 사랑하지' \n▷https://t.co/aOjv3UihFK\n⠀\n/\n송하영 (프로미스나인) '나의 스웨덴세탁소' #2\n2022.03.24. 6PM Release\n⠀\n#송하영 #SONGHAYOUNG \n#나의스웨덴세탁소 #그래도_나_사랑하지\n#my_SwedenLaundry #still_love_me https://t.co/FezJv0vBWI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "송하영",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "SONGHAYOUNG",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "나의스웨덴세탁소",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "그래도_나_사랑하지",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"text": "my_SwedenLaundry",
+					"indices": [
+						160,
+						177
+					]
+				},
+				{
+					"text": "still_love_me",
+					"indices": [
+						178,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aOjv3UihFK",
+					"expanded_url": "http://youtu.be/Qq8Cd65rrqo",
+					"display_url": "youtu.be/Qq8Cd65rrqo",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506572093307375600,
+					"id_str": "1506572093307375617",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FOhrVjIaUAEsBa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOhrVjIaUAEsBa7.jpg",
+					"url": "https://t.co/FezJv0vBWI",
+					"display_url": "pic.twitter.com/FezJv0vBWI",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1506918995470913540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506572093307375600,
+					"id_str": "1506572093307375617",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FOhrVjIaUAEsBa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOhrVjIaUAEsBa7.jpg",
+					"url": "https://t.co/FezJv0vBWI",
+					"display_url": "pic.twitter.com/FezJv0vBWI",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1506918995470913540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7715,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1646989770",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV]\n⠀\n송하영 (프로미스나인) - '그래도 나 사랑하지' \n▷https://t.co/aOjv3UihFK\n⠀\n/\n송하영 (프로미스나인) '나의 스웨덴세탁소' #2\n2022.03.24. 6PM Release\n⠀\n#송하영 #SONGHAYOUNG \n#나의스웨덴세탁소 #그래도_나_사랑하지\n#my_SwedenLaundry #still_love_me https://t.co/FezJv0vBWI"
+	},
+	{
+		"created_at": "Thu Mar 24 09:29:34 +0000 2022",
+		"id": 1506918745851285500,
+		"id_str": "1506926183090466816",
+		"full_text": "[Release]\n\n스웨덴세탁소 10주년 기념 프로젝트\n&lt;나의 스웨덴세탁소 #2&gt; \n\n송하영 (프로미스나인) - '그래도 나 사랑하지'\n\n2022.03.24. 6PM Release\n⠀\n#송하영 #SONGHAYOUNG \n#나의스웨덴세탁소 #그래도_나_사랑하지\n#my_SwedenLaundry #still_love_me https://t.co/uHiz94WjC9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "송하영",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "SONGHAYOUNG",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "나의스웨덴세탁소",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "그래도_나_사랑하지",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "my_SwedenLaundry",
+					"indices": [
+						150,
+						167
+					]
+				},
+				{
+					"text": "still_love_me",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506572135162323000,
+					"id_str": "1506572135162322946",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506572135162322946/pu/img/LjQrlovZ2i1qAgJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506572135162322946/pu/img/LjQrlovZ2i1qAgJl.jpg",
+					"url": "https://t.co/uHiz94WjC9",
+					"display_url": "pic.twitter.com/uHiz94WjC9",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1506918745851285505/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506572135162323000,
+					"id_str": "1506572135162322946",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506572135162322946/pu/img/LjQrlovZ2i1qAgJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506572135162322946/pu/img/LjQrlovZ2i1qAgJl.jpg",
+					"url": "https://t.co/uHiz94WjC9",
+					"display_url": "pic.twitter.com/uHiz94WjC9",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1506918745851285505/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25237,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506572135162322946/pu/pl/xqJNTYfeWjgtX3nL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506572135162322946/pu/vid/720x720/ODAkp4n416jJkZ-E.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506572135162322946/pu/vid/540x540/i4iiR4dBZRukbj2N.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506572135162322946/pu/vid/320x320/O3GCYt1jWzsSgiC6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7715,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1646989770",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 1119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n스웨덴세탁소 10주년 기념 프로젝트\n&lt;나의 스웨덴세탁소 #2&gt; \n\n송하영 (프로미스나인) - '그래도 나 사랑하지'\n\n2022.03.24. 6PM Release\n⠀\n#송하영 #SONGHAYOUNG \n#나의스웨덴세탁소 #그래도_나_사랑하지\n#my_SwedenLaundry #still_love_me https://t.co/uHiz94WjC9"
+	},
+	{
 		"created_at": "Thu Mar 24 09:15:52 +0000 2022",
 		"id": 1506922738908209200,
 		"id_str": "1506922738908209158",
@@ -152,7 +942,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Thu Mar 24 09:11:26 +0000 2022",
 		"id": 1506919498795810800,
 		"id_str": "1506921619767316480",
-		"full_text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕‍🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕‍🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕‍🦺 운영시간 : 12:00 - 20:00\n🐕‍🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/cQhjTnWa2S",
+		"full_text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕🦺 운영시간 : 12:00 - 20:00\n🐕🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/cQhjTnWa2S",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -352,7 +1142,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕‍🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕‍🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕‍🦺 운영시간 : 12:00 - 20:00\n🐕‍🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/cQhjTnWa2S"
+		"text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕🦺 운영시간 : 12:00 - 20:00\n🐕🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/cQhjTnWa2S"
 	},
 	{
 		"created_at": "Thu Mar 24 09:11:19 +0000 2022",
@@ -499,7 +1289,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Thu Mar 24 09:11:16 +0000 2022",
 		"id": 1506918747780501500,
 		"id_str": "1506921581586620419",
-		"full_text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕‍🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕‍🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕‍🦺 운영시간 : 12:00 - 20:00\n🐕‍🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/UEfxJdHZwb",
+		"full_text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕🦺 운영시간 : 12:00 - 20:00\n🐕🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/UEfxJdHZwb",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -776,7 +1566,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕‍🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕‍🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕‍🦺 운영시간 : 12:00 - 20:00\n🐕‍🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/UEfxJdHZwb"
+		"text": "KT&amp;G 상상마당 홍대 라운지 프로젝트 Vol.20\n\n아워비전 x KT&amp;G상상마당\n&lt;2022 은퇴영웅전&gt;\n🐕🦺 2022. 4. 2(토) ~ 4. 22(금)\n🐕🦺 KT&amp;G 상상마당 홍대 3층 라운지\n🐕🦺 운영시간 : 12:00 - 20:00\n🐕🦺 텀블벅오픈 : 3. 30(수) \n\n15명의 아티스트와 함께 \n평범하고 싶은 영웅, 은퇴특수견의 삶을 이야기합니다. https://t.co/UEfxJdHZwb"
 	},
 	{
 		"created_at": "Thu Mar 24 09:04:23 +0000 2022",
