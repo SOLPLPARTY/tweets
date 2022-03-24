@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 11:29:30 +0000 2022",
+		"id": 1506949458889785300,
+		"id_str": "1506956365620776973",
+		"full_text": "💬 신곡 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄 𝐌𝐄𝐒𝐒 소개해주세요!\n#5세컨즈오브서머 #인터뷰 #풀영상은워뮤코유튜브에서\n🎬https://t.co/agPWmdEJIv https://t.co/ohh1rXYZC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "5세컨즈오브서머",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "풀영상은워뮤코유튜브에서",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/agPWmdEJIv",
+					"expanded_url": "https://youtu.be/Y2z_7EJdMU0",
+					"display_url": "youtu.be/Y2z_7EJdMU0",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506949199249694700,
+					"id_str": "1506949199249694732",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506949199249694732/pu/img/MzG8KD0Yp_Shg-5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506949199249694732/pu/img/MzG8KD0Yp_Shg-5R.jpg",
+					"url": "https://t.co/ohh1rXYZC4",
+					"display_url": "pic.twitter.com/ohh1rXYZC4",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506949458889785348/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506949199249694700,
+					"id_str": "1506949199249694732",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506949199249694732/pu/img/MzG8KD0Yp_Shg-5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506949199249694732/pu/img/MzG8KD0Yp_Shg-5R.jpg",
+					"url": "https://t.co/ohh1rXYZC4",
+					"display_url": "pic.twitter.com/ohh1rXYZC4",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1506949458889785348/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56473,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506949199249694732/pu/vid/540x540/QKhLlgraC1U0IFoI.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506949199249694732/pu/vid/320x320/d63t8o3xZ3SYBFq5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506949199249694732/pu/pl/LJLRvnKbPVtrXg4Y.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506949199249694732/pu/vid/720x720/2blB2VEgFmzg7fq8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54661,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💬 신곡 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄 𝐌𝐄𝐒𝐒 소개해주세요!\n#5세컨즈오브서머 #인터뷰 #풀영상은워뮤코유튜브에서\n🎬https://t.co/agPWmdEJIv https://t.co/ohh1rXYZC4"
+	},
+	{
 		"created_at": "Thu Mar 24 10:44:25 +0000 2022",
 		"id": 1506945020690980900,
 		"id_str": "1506945020690980865",
