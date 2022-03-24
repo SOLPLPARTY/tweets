@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 05:29:35 +0000 2022",
+		"id": 1506862180141916200,
+		"id_str": "1506865790829608961",
+		"full_text": "[NEWS] 멀츠 에스테틱스 울쎄라®, ‘찬란한 순간, 울쎄라와 함께’ 이벤트 진행\n\n👉 https://t.co/YlQ8GtYWuM\n\n#인순이 #INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MERZ #울쎄라",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "MERZ",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "울쎄라",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YlQ8GtYWuM",
+					"expanded_url": "http://www.segyebiz.com/newsView/20220324508480?OutUrl=naver",
+					"display_url": "segyebiz.com/newsView/20220…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] 멀츠 에스테틱스 울쎄라®, ‘찬란한 순간, 울쎄라와 함께’ 이벤트 진행\n\n👉 https://t.co/YlQ8GtYWuM\n\n#인순이 #INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #MERZ #울쎄라"
+	},
+	{
+		"created_at": "Thu Mar 24 05:29:33 +0000 2022",
+		"id": 1506859451697209300,
+		"id_str": "1506865781950271490",
+		"full_text": "2022 이진아 단독공연 ‘Everyday I Sing For Joy'\n\n🌱일시\n2022. 4. 16. (토) 6PM\n2022. 4. 17. (일) 5PM\n\n🌱장소\n서강대학교 메리홀 대극장\n\n🌱티켓 오픈\n2022. 3. 28. (월) 8PM @ 멜론 티켓\n🔗https://t.co/Zl7xrvZw1t\n\n#LeeJinAh\n#EverydayISingForJoy #단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "EverydayISingForJoy",
+					"indices": [
+						179,
+						199
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						200,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zl7xrvZw1t",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=5965",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506859449021268000,
+		"in_reply_to_status_id_str": "1506859449021267974",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40352,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1645092104",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 이진아 단독공연 ‘Everyday I Sing For Joy'\n\n🌱일시\n2022. 4. 16. (토) 6PM\n2022. 4. 17. (일) 5PM\n\n🌱장소\n서강대학교 메리홀 대극장\n\n🌱티켓 오픈\n2022. 3. 28. (월) 8PM @ 멜론 티켓\n🔗https://t.co/Zl7xrvZw1t\n\n#LeeJinAh\n#EverydayISingForJoy #단독공연"
+	},
+	{
 		"created_at": "Thu Mar 24 05:11:16 +0000 2022",
 		"id": 1506858889408839700,
 		"id_str": "1506861182900387847",
