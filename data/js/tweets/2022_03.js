@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 06:29:32 +0000 2022",
+		"id": 1507242428209660000,
+		"id_str": "1507243267129233426",
+		"full_text": "[#이적]\n제 5회 한국대중음악상 '올해의 앨범', '올해의 노래' 포함 4관왕에 빛나는 이적의 정규 3집 《나무로 만든 노래》 LP 최초 발매!\n\n☑️예약 판매\n- 알라딘 https://t.co/KHinfl7mkR\n- 예스24 https://t.co/7l8vv9ePU4\n- 핫트랙스 https://t.co/j4C4UABAzm\n\n@jucklee #정규3집 #나무로만든노래 https://t.co/bklQPR9Egw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "정규3집",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "나무로만든노래",
+					"indices": [
+						199,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KHinfl7mkR",
+					"expanded_url": "https://bit.ly/3wC4XWz",
+					"display_url": "bit.ly/3wC4XWz",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/7l8vv9ePU4",
+					"expanded_url": "https://bit.ly/3JDABXn",
+					"display_url": "bit.ly/3JDABXn",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/j4C4UABAzm",
+					"expanded_url": "https://bit.ly/3DcWkDu",
+					"display_url": "bit.ly/3DcWkDu",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1507242141373718500,
+					"id_str": "1507242141373718528",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FOrMvesUYAAQk-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOrMvesUYAAQk-3.jpg",
+					"url": "https://t.co/bklQPR9Egw",
+					"display_url": "pic.twitter.com/bklQPR9Egw",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1507242428209659905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507242141373718500,
+					"id_str": "1507242141373718528",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FOrMvesUYAAQk-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOrMvesUYAAQk-3.jpg",
+					"url": "https://t.co/bklQPR9Egw",
+					"display_url": "pic.twitter.com/bklQPR9Egw",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1507242428209659905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1506497434159001600,
+		"in_reply_to_status_id_str": "1506497434159001605",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/vinfdGhQL0…",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vinfdGhQL0",
+							"expanded_url": "http://youtube.com/user/musicfarm",
+							"display_url": "youtube.com/user/musicfarm",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9055,
+			"friends_count": 4,
+			"listed_count": 104,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이적]\n제 5회 한국대중음악상 '올해의 앨범', '올해의 노래' 포함 4관왕에 빛나는 이적의 정규 3집 《나무로 만든 노래》 LP 최초 발매!\n\n☑️예약 판매\n- 알라딘 https://t.co/KHinfl7mkR\n- 예스24 https://t.co/7l8vv9ePU4\n- 핫트랙스 https://t.co/j4C4UABAzm\n\n@jucklee #정규3집 #나무로만든노래 https://t.co/bklQPR9Egw"
+	},
+	{
 		"created_at": "Fri Mar 25 06:11:16 +0000 2022",
 		"id": 1507238170424852500,
 		"id_str": "1507238670851579905",
