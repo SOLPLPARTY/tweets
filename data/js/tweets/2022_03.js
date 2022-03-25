@@ -1,6 +1,548 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 01:29:46 +0000 2022",
+		"id": 1507164391229194200,
+		"id_str": "1507167827102474246",
+		"full_text": "선주문 기간 : 2022년 3월 25일 오후 2시 ~ 4월 8일 정오 12시 \n\n예약 시스템이 갖춰진 온라인 사이트를 통해 선주문(사전 예약)이 가능합니다. 오프라인 샵에서의 예약은 다소 번거로우시더라도 각 매장 별 예약 방식(온라인, 방문, 통화 등 매장 별로 상이)에 따른 예약을 부탁드립니다. https://t.co/EEQJT57Psu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1507164388888772600,
+					"id_str": "1507164388888772623",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FOqGBsHVgA8KmGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOqGBsHVgA8KmGF.jpg",
+					"url": "https://t.co/EEQJT57Psu",
+					"display_url": "pic.twitter.com/EEQJT57Psu",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1507164391229194282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 929,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507164388888772600,
+					"id_str": "1507164388888772623",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FOqGBsHVgA8KmGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOqGBsHVgA8KmGF.jpg",
+					"url": "https://t.co/EEQJT57Psu",
+					"display_url": "pic.twitter.com/EEQJT57Psu",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1507164391229194282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 929,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1507164296874131500,
+		"in_reply_to_status_id_str": "1507164296874131469",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 14,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선주문 기간 : 2022년 3월 25일 오후 2시 ~ 4월 8일 정오 12시 \n\n예약 시스템이 갖춰진 온라인 사이트를 통해 선주문(사전 예약)이 가능합니다. 오프라인 샵에서의 예약은 다소 번거로우시더라도 각 매장 별 예약 방식(온라인, 방문, 통화 등 매장 별로 상이)에 따른 예약을 부탁드립니다. https://t.co/EEQJT57Psu"
+	},
+	{
+		"created_at": "Fri Mar 25 01:29:42 +0000 2022",
+		"id": 1507164296874131500,
+		"id_str": "1507167809750671361",
+		"full_text": "다만 정세(팬데믹, 전쟁, 물류대란 등)에 따라 생산과 물류 상황에 변화가 생길 여지가 있어 명확한 발매일은 추후에 고지드릴 수 있을 것 같습니다. 리프레싱반(일반반)의 예약은 다음 기간 동안 진행됩니다.\n\n선주문 기간 : 2022년 3월 25일 오후 2시 ~ 4월 8일 정오 12시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1507164153097584600,
+		"in_reply_to_status_id_str": "1507164153097584662",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 14,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다만 정세(팬데믹, 전쟁, 물류대란 등)에 따라 생산과 물류 상황에 변화가 생길 여지가 있어 명확한 발매일은 추후에 고지드릴 수 있을 것 같습니다. 리프레싱반(일반반)의 예약은 다음 기간 동안 진행됩니다.\n\n선주문 기간 : 2022년 3월 25일 오후 2시 ~ 4월 8일 정오 12시"
+	},
+	{
+		"created_at": "Fri Mar 25 01:29:37 +0000 2022",
+		"id": 1507164153097584600,
+		"id_str": "1507167788301012997",
+		"full_text": "일반반의 추가 제작을 진행하기로 했습니다. 일반반은 아래 선주문 기간 동안의 주문(예약)을 취합해 충분히 수량을 파악한 후 제작을 진행 할 예정입니다. \n다수의 LP공장에 문의한 결과 추가 제작분의 발송과 발매는 9월 즈음 가능할 것으로 예상됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1507163896666226700,
+		"in_reply_to_status_id_str": "1507163896666226714",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 14,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일반반의 추가 제작을 진행하기로 했습니다. 일반반은 아래 선주문 기간 동안의 주문(예약)을 취합해 충분히 수량을 파악한 후 제작을 진행 할 예정입니다. \n다수의 LP공장에 문의한 결과 추가 제작분의 발송과 발매는 9월 즈음 가능할 것으로 예상됩니다."
+	},
+	{
+		"created_at": "Fri Mar 25 01:29:29 +0000 2022",
+		"id": 1507163896666226700,
+		"id_str": "1507167754218086409",
+		"full_text": "음반 소장을 원하는 다수의 팬분들께서 추가 제작 문의를 해주셨습니다. 도마 님의 가까운 친구, 동료분들도 음반을 구하지 못 한 안타까움을 전해오신 분들이 많았습니다. \n결정에 다소 시간이 걸렸지만 도마 님의 팬이라면 한 분이라도 빠짐없이 소장이 가능할 수 있도록 https://t.co/vYqDTyHD1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1507163894220947500,
+					"id_str": "1507163894220947481",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FOqFk5VVgBkzbri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOqFk5VVgBkzbri.jpg",
+					"url": "https://t.co/vYqDTyHD1B",
+					"display_url": "pic.twitter.com/vYqDTyHD1B",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1507163896666226714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 929,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507163894220947500,
+					"id_str": "1507163894220947481",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FOqFk5VVgBkzbri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOqFk5VVgBkzbri.jpg",
+					"url": "https://t.co/vYqDTyHD1B",
+					"display_url": "pic.twitter.com/vYqDTyHD1B",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1507163896666226714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 929,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1507163435582193700,
+		"in_reply_to_status_id_str": "1507163435582193675",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 14,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음반 소장을 원하는 다수의 팬분들께서 추가 제작 문의를 해주셨습니다. 도마 님의 가까운 친구, 동료분들도 음반을 구하지 못 한 안타까움을 전해오신 분들이 많았습니다. \n결정에 다소 시간이 걸렸지만 도마 님의 팬이라면 한 분이라도 빠짐없이 소장이 가능할 수 있도록 https://t.co/vYqDTyHD1B"
+	},
+	{
 		"created_at": "Thu Mar 24 15:29:34 +0000 2022",
 		"id": 1507009665947041800,
 		"id_str": "1507016780597764096",
