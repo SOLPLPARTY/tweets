@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 26 09:29:25 +0000 2022",
+		"id": 1507643522140176400,
+		"id_str": "1507650921551085573",
+		"full_text": "[솔루션스 | The Middle 콰이어 영상]\n\n솔루션스(THE SOLUTIONS) EP [TIME]의 수록곡  \n'The Middle'의 콰이어 영상이 공개되었습니다.\n\n해피로봇 레코드에서는 고영배, 구만, 박솔, 설호승, 윤성현, 이원석, 장경민, 정욱재, 홍다혜가 코러스로 함께했습니다. \n\n지금 바로 확인해 보세요! 🤍 https://t.co/V4QoNGBR0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1507262285961916400,
+					"id_str": "1507262285961916416",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1507262285961916416/img/mczP0_HqmA0-mD68.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1507262285961916416/img/mczP0_HqmA0-mD68.jpg",
+					"url": "https://t.co/V4QoNGBR0E",
+					"display_url": "pic.twitter.com/V4QoNGBR0E",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1507643522140176388/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507262285961916400,
+					"id_str": "1507262285961916416",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1507262285961916416/img/mczP0_HqmA0-mD68.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1507262285961916416/img/mczP0_HqmA0-mD68.jpg",
+					"url": "https://t.co/V4QoNGBR0E",
+					"display_url": "pic.twitter.com/V4QoNGBR0E",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1507643522140176388/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 123456,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1507262285961916416/vid/1280x720/wbvZ1IIdAlo40Xfa.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1507262285961916416/vid/640x360/nToawEfhd55j4ESB.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1507262285961916416/pl/m18bOECzjmfOd4U-.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1507262285961916416/vid/480x270/QsfNpPJ_WJHpYFJs.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13002,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | The Middle 콰이어 영상]\n\n솔루션스(THE SOLUTIONS) EP [TIME]의 수록곡  \n'The Middle'의 콰이어 영상이 공개되었습니다.\n\n해피로봇 레코드에서는 고영배, 구만, 박솔, 설호승, 윤성현, 이원석, 장경민, 정욱재, 홍다혜가 코러스로 함께했습니다. \n\n지금 바로 확인해 보세요! 🤍 https://t.co/V4QoNGBR0E"
+	},
+	{
 		"created_at": "Sat Mar 26 09:02:27 +0000 2022",
 		"id": 1507644136916017200,
 		"id_str": "1507644136916017154",
