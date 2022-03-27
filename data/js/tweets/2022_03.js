@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 27 04:29:24 +0000 2022",
+		"id": 1507924635001761800,
+		"id_str": "1507937810912788482",
+		"full_text": "🎂🍾🎉\n🌙#두아리파 [𝑭𝒖𝒕𝒖𝒓𝒆 𝑵𝒐𝒔𝒕𝒂𝒍𝒈𝒊𝒂] 발매 𝟐주년🌙\n🎧음원듣기 https://t.co/XUsB7bIvHe https://t.co/qdU8Doneu3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "두아리파",
+					"indices": [
+						5,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XUsB7bIvHe",
+					"expanded_url": "https://WMK.lnk.to/MQ5hPAvX",
+					"display_url": "WMK.lnk.to/MQ5hPAvX",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1507924118930440200,
+					"id_str": "1507924118930440192",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1507924118930440192/pu/img/DxbNzSxQqnwxfkJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1507924118930440192/pu/img/DxbNzSxQqnwxfkJt.jpg",
+					"url": "https://t.co/qdU8Doneu3",
+					"display_url": "pic.twitter.com/qdU8Doneu3",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1507924635001761793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507924118930440200,
+					"id_str": "1507924118930440192",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1507924118930440192/pu/img/DxbNzSxQqnwxfkJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1507924118930440192/pu/img/DxbNzSxQqnwxfkJt.jpg",
+					"url": "https://t.co/qdU8Doneu3",
+					"display_url": "pic.twitter.com/qdU8Doneu3",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1507924635001761793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507924118930440192/pu/vid/540x540/AHcEpoW6jVSm0ZAX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1507924118930440192/pu/pl/kYcv7AH2odGIPtIK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507924118930440192/pu/vid/720x720/GUYVvpcuAtVz_T7D.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507924118930440192/pu/vid/320x320/J56JfHi-f75UK21N.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54673,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎂🍾🎉\n🌙#두아리파 [𝑭𝒖𝒕𝒖𝒓𝒆 𝑵𝒐𝒔𝒕𝒂𝒍𝒈𝒊𝒂] 발매 𝟐주년🌙\n🎧음원듣기 https://t.co/XUsB7bIvHe https://t.co/qdU8Doneu3"
+	},
+	{
 		"created_at": "Sun Mar 27 03:14:05 +0000 2022",
 		"id": 1507918856265691100,
 		"id_str": "1507918856265691141",
