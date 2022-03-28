@@ -1,6 +1,1257 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 11:11:38 +0000 2022",
+		"id": 1508397960580989000,
+		"id_str": "1508401423314296836",
+		"full_text": "이번주 3월에서 4월로 가능 클럽빵 공연일정~ 수요일과 일요일은 소박다정~ 금요일과 토요일은 화끈하게 목요일은 은근한 분위기를 느낄수 있어요~ #클럽빵 #밀실 #사애 #웨더보트 #알바스 #레코다메 #미미키스 #베이비슈가 #희야 #변화무쌍 #모스크바서핑클럽 #지누콘다 #코튼스틱 #리뎀션즈 #끌림 https://t.co/zExnm2DGCk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "밀실",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "사애",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "웨더보트",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "알바스",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "레코다메",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "미미키스",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "베이비슈가",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "희야",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "변화무쌍",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "모스크바서핑클럽",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "지누콘다",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "코튼스틱",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "리뎀션즈",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "끌림",
+					"indices": [
+						161,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1508397924816146400,
+					"id_str": "1508397924816146432",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FO7n67iaUAAHuFT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO7n67iaUAAHuFT.jpg",
+					"url": "https://t.co/zExnm2DGCk",
+					"display_url": "pic.twitter.com/zExnm2DGCk",
+					"expanded_url": "https://twitter.com/club_bbang/status/1508397960580988937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508397924816146400,
+					"id_str": "1508397924816146432",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FO7n67iaUAAHuFT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO7n67iaUAAHuFT.jpg",
+					"url": "https://t.co/zExnm2DGCk",
+					"display_url": "pic.twitter.com/zExnm2DGCk",
+					"expanded_url": "https://twitter.com/club_bbang/status/1508397960580988937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 909,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 3월에서 4월로 가능 클럽빵 공연일정~ 수요일과 일요일은 소박다정~ 금요일과 토요일은 화끈하게 목요일은 은근한 분위기를 느낄수 있어요~ #클럽빵 #밀실 #사애 #웨더보트 #알바스 #레코다메 #미미키스 #베이비슈가 #희야 #변화무쌍 #모스크바서핑클럽 #지누콘다 #코튼스틱 #리뎀션즈 #끌림 https://t.co/zExnm2DGCk"
+	},
+	{
+		"created_at": "Mon Mar 28 11:11:31 +0000 2022",
+		"id": 1508368649949974500,
+		"id_str": "1508401393454964745",
+		"full_text": "2022년 4월 5일 낮 12시,\n곽푸른하늘의 정규 3집 앨범 [Nearly (T)here]이 발매됩니다.\n\n2022. 04. 05. (TUE) 12PM\nKwak Pureunhaneul 3rd Album\n[Nearly (T)here] Release https://t.co/2Cjm7feiwF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1508368639187374000,
+					"id_str": "1508368639187374083",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FO7NSSEaUAMaFau.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO7NSSEaUAMaFau.jpg",
+					"url": "https://t.co/2Cjm7feiwF",
+					"display_url": "pic.twitter.com/2Cjm7feiwF",
+					"expanded_url": "https://twitter.com/ctrsound/status/1508368649949974529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1374,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508368639187374000,
+					"id_str": "1508368639187374083",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FO7NSSEaUAMaFau.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO7NSSEaUAMaFau.jpg",
+					"url": "https://t.co/2Cjm7feiwF",
+					"display_url": "pic.twitter.com/2Cjm7feiwF",
+					"expanded_url": "https://twitter.com/ctrsound/status/1508368649949974529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1374,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022년 4월 5일 낮 12시,\n곽푸른하늘의 정규 3집 앨범 [Nearly (T)here]이 발매됩니다.\n\n2022. 04. 05. (TUE) 12PM\nKwak Pureunhaneul 3rd Album\n[Nearly (T)here] Release https://t.co/2Cjm7feiwF"
+	},
+	{
+		"created_at": "Mon Mar 28 11:11:22 +0000 2022",
+		"id": 1508368302912929800,
+		"id_str": "1508401355148378114",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n　\n📌 4th Schedule\n04/01 은종\n04/09 나상현씨밴드\n04/10 전자양\n04/16 크라잉넛\n04/22 정우\n04/23-24 임헌일\n05/06 87DANCE\n05/08 METHOD\n　　\n예매 : 🍈https://t.co/n6wsGjLAqr　\n✦ ... and more\n\n#롤링홀 #롤링27주년 #멜론티켓 https://t.co/RQOUWi5L47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						197,
+						204
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						205,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n6wsGjLAqr",
+					"expanded_url": "http://bit.ly/3mRAzSr",
+					"display_url": "bit.ly/3mRAzSr",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508067193652936700,
+					"id_str": "1508067193652936707",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FO27H18agAM6nWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO27H18agAM6nWW.jpg",
+					"url": "https://t.co/RQOUWi5L47",
+					"display_url": "pic.twitter.com/RQOUWi5L47",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1508368302912929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508067193652936700,
+					"id_str": "1508067193652936707",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FO27H18agAM6nWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO27H18agAM6nWW.jpg",
+					"url": "https://t.co/RQOUWi5L47",
+					"display_url": "pic.twitter.com/RQOUWi5L47",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1508368302912929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n　\n📌 4th Schedule\n04/01 은종\n04/09 나상현씨밴드\n04/10 전자양\n04/16 크라잉넛\n04/22 정우\n04/23-24 임헌일\n05/06 87DANCE\n05/08 METHOD\n　　\n예매 : 🍈https://t.co/n6wsGjLAqr　\n✦ ... and more\n\n#롤링홀 #롤링27주년 #멜론티켓 https://t.co/RQOUWi5L47"
+	},
+	{
+		"created_at": "Mon Mar 28 11:11:17 +0000 2022",
+		"id": 1508366305279107000,
+		"id_str": "1508401333589659654",
+		"full_text": "Big Baby Driver - Where Do We Go @ 재미공작소 2022.03.26 https://t.co/mV9iP33KFV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mV9iP33KFV",
+					"expanded_url": "https://youtu.be/Z0QUp6kBCas",
+					"display_url": "youtu.be/Z0QUp6kBCas",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8373,
+			"friends_count": 557,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Big Baby Driver - Where Do We Go @ 재미공작소 2022.03.26 https://t.co/mV9iP33KFV"
+	},
+	{
+		"created_at": "Mon Mar 28 10:29:34 +0000 2022",
+		"id": 1508390512293646300,
+		"id_str": "1508390835871703050",
+		"full_text": "[#Billlie] 🎼 감성 라이브, &lt;LISTEN STAGE&gt;가 지금 바로 시작됩니다!\n\n▶ https://t.co/ErCtG80CYq\n\n#미스틱스토리 #MYSTICSTORY #LISTENSTAGE #리슨스테이지 #빌리 #하람 #하루나 #문수아 #시윤 #션 #수현 #츠키",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Billlie",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "LISTENSTAGE",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "리슨스테이지",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "하람",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "하루나",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "문수아",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "시윤",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "션",
+					"indices": [
+						148,
+						150
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "츠키",
+					"indices": [
+						155,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ErCtG80CYq",
+					"expanded_url": "https://youtu.be/hr3xlot5hW4",
+					"display_url": "youtu.be/hr3xlot5hW4",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34624,
+			"friends_count": 15,
+			"listed_count": 282,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1645607843",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Billlie] 🎼 감성 라이브, &lt;LISTEN STAGE&gt;가 지금 바로 시작됩니다!\n\n▶ https://t.co/ErCtG80CYq\n\n#미스틱스토리 #MYSTICSTORY #LISTENSTAGE #리슨스테이지 #빌리 #하람 #하루나 #문수아 #시윤 #션 #수현 #츠키"
+	},
+	{
+		"created_at": "Mon Mar 28 10:29:27 +0000 2022",
+		"id": 1508383804381352000,
+		"id_str": "1508390806088032262",
+		"full_text": "[#Teaser] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 Highlight Medley\nhttps://t.co/nY2Y6gqblk\n\n2022. 03. 31. 6PM Release\n\n#KwonJinAh \n#Pink #SillySillyLove\n#흘러가자 #Justlikethis\n#20220331_6PM https://t.co/8sLZZOyy9V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "Pink",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "SillySillyLove",
+					"indices": [
+						144,
+						159
+					]
+				},
+				{
+					"text": "흘러가자",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "Justlikethis",
+					"indices": [
+						166,
+						179
+					]
+				},
+				{
+					"text": "20220331_6PM",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nY2Y6gqblk",
+					"expanded_url": "https://youtu.be/4VWUxVULU0k",
+					"display_url": "youtu.be/4VWUxVULU0k",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508383653407371300,
+					"id_str": "1508383653407371270",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508383653407371270/pu/img/OU7fxBAtdAQmt7kd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508383653407371270/pu/img/OU7fxBAtdAQmt7kd.jpg",
+					"url": "https://t.co/8sLZZOyy9V",
+					"display_url": "pic.twitter.com/8sLZZOyy9V",
+					"expanded_url": "https://twitter.com/antennamusic/status/1508383804381351936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508383653407371300,
+					"id_str": "1508383653407371270",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508383653407371270/pu/img/OU7fxBAtdAQmt7kd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508383653407371270/pu/img/OU7fxBAtdAQmt7kd.jpg",
+					"url": "https://t.co/8sLZZOyy9V",
+					"display_url": "pic.twitter.com/8sLZZOyy9V",
+					"expanded_url": "https://twitter.com/antennamusic/status/1508383804381351936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54988,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508383653407371270/pu/vid/480x270/RJrG6iUp1CK62Qu2.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508383653407371270/pu/vid/1280x720/jyEzG9690EWyLZ4Z.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1508383653407371270/pu/pl/HYPmUgmItjrOdOqm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508383653407371270/pu/vid/640x360/FsrhY834U-B4Rjsc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40360,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 Highlight Medley\nhttps://t.co/nY2Y6gqblk\n\n2022. 03. 31. 6PM Release\n\n#KwonJinAh \n#Pink #SillySillyLove\n#흘러가자 #Justlikethis\n#20220331_6PM https://t.co/8sLZZOyy9V"
+	},
+	{
 		"created_at": "Mon Mar 28 09:44:46 +0000 2022",
 		"id": 1508379560995278800,
 		"id_str": "1508379560995278850",
