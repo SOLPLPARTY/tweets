@@ -1,6 +1,1186 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 29 09:46:03 +0000 2022",
+		"id": 1508742271042158600,
+		"id_str": "1508742271042158592",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n오스틴 (ASTN) - You're Almost There 가사 번역 뮤직비디오\nhttps://t.co/jXeNWfOCXt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jXeNWfOCXt",
+					"expanded_url": "https://youtu.be/CY2Pynd5w_Y",
+					"display_url": "youtu.be/CY2Pynd5w_Y",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 465,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n오스틴 (ASTN) - You're Almost There 가사 번역 뮤직비디오\nhttps://t.co/jXeNWfOCXt"
+	},
+	{
+		"created_at": "Tue Mar 29 09:29:53 +0000 2022",
+		"id": 1508737278688084000,
+		"id_str": "1508738204375166978",
+		"full_text": "#톤즈앤아이 🌪𝐄𝐘𝐄𝐒 𝐃𝐎𝐍'𝐓 𝐋𝐈𝐄🌪\n첫 소절 음색에 서사 십만자 뚝딱,,😭👏\n🎧 https://t.co/MlZk3lxgeb\n🎬 https://t.co/0OotuE6sIe https://t.co/YseaPnduuL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "톤즈앤아이",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MlZk3lxgeb",
+					"expanded_url": "https://WMK.lnk.to/dLQHNycGFC",
+					"display_url": "WMK.lnk.to/dLQHNycGFC",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/0OotuE6sIe",
+					"expanded_url": "https://youtu.be/TlWNIi5jVhQ",
+					"display_url": "youtu.be/TlWNIi5jVhQ",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508736993328513000,
+					"id_str": "1508736993328513026",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508736993328513026/pu/img/U2xorFhQTtKjVivK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508736993328513026/pu/img/U2xorFhQTtKjVivK.jpg",
+					"url": "https://t.co/YseaPnduuL",
+					"display_url": "pic.twitter.com/YseaPnduuL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1508737278688083968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508736993328513000,
+					"id_str": "1508736993328513026",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508736993328513026/pu/img/U2xorFhQTtKjVivK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508736993328513026/pu/img/U2xorFhQTtKjVivK.jpg",
+					"url": "https://t.co/YseaPnduuL",
+					"display_url": "pic.twitter.com/YseaPnduuL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1508737278688083968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 46880,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508736993328513026/pu/vid/540x540/4E6O1F7r7UYqxyn8.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1508736993328513026/pu/pl/4cuO3lJciMW6XidH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508736993328513026/pu/vid/720x720/5sv1BXyARsLEgvnQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508736993328513026/pu/vid/320x320/843k-9C2o7Z3i1e0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54699,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#톤즈앤아이 🌪𝐄𝐘𝐄𝐒 𝐃𝐎𝐍'𝐓 𝐋𝐈𝐄🌪\n첫 소절 음색에 서사 십만자 뚝딱,,😭👏\n🎧 https://t.co/MlZk3lxgeb\n🎬 https://t.co/0OotuE6sIe https://t.co/YseaPnduuL"
+	},
+	{
+		"created_at": "Tue Mar 29 09:29:48 +0000 2022",
+		"id": 1508737154448605200,
+		"id_str": "1508738182967439363",
+		"full_text": "청량한 인디 팝-록을 선사하는 밴드 #왈로우스\n새 앨범 [𝐓𝐞𝐥𝐥 𝐌𝐞 𝐓𝐡𝐚𝐭 𝐈𝐭’𝐬 𝐎𝐯𝐞𝐫] 발매!\n🎧앨범듣기 https://t.co/li7Scg7fsO https://t.co/Y5Xgoh9KAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "왈로우스",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/li7Scg7fsO",
+					"expanded_url": "https://WMK.lnk.to/442es3x1",
+					"display_url": "WMK.lnk.to/442es3x1",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508736987372695600,
+					"id_str": "1508736987372695553",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508736987372695553/pu/img/s2mwTSCHuN6ve9eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508736987372695553/pu/img/s2mwTSCHuN6ve9eD.jpg",
+					"url": "https://t.co/Y5Xgoh9KAu",
+					"display_url": "pic.twitter.com/Y5Xgoh9KAu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1508737154448605191/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508736987372695600,
+					"id_str": "1508736987372695553",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508736987372695553/pu/img/s2mwTSCHuN6ve9eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508736987372695553/pu/img/s2mwTSCHuN6ve9eD.jpg",
+					"url": "https://t.co/Y5Xgoh9KAu",
+					"display_url": "pic.twitter.com/Y5Xgoh9KAu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1508737154448605191/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29279,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508736987372695553/pu/vid/320x320/PArsxklKorVE18u5.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508736987372695553/pu/vid/720x720/2JSyUclsJfcO6EHY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1508736987372695553/pu/pl/lPQrwL3OXdIZdgQN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508736987372695553/pu/vid/540x540/glPjqEEV2XHmBk0_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54699,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청량한 인디 팝-록을 선사하는 밴드 #왈로우스\n새 앨범 [𝐓𝐞𝐥𝐥 𝐌𝐞 𝐓𝐡𝐚𝐭 𝐈𝐭’𝐬 𝐎𝐯𝐞𝐫] 발매!\n🎧앨범듣기 https://t.co/li7Scg7fsO https://t.co/Y5Xgoh9KAu"
+	},
+	{
+		"created_at": "Tue Mar 29 09:29:43 +0000 2022",
+		"id": 1508735437640441900,
+		"id_str": "1508738161542848517",
+		"full_text": "[데이브레이크 | Teaser]\n \n\"이렇게 쉬운 답이 있는걸\"\n\n데이브레이크 X LUCY : Part.1\n01. 쉬운 답\n02. 쉬운 답 (Inst.)\n\n2022.03.31 6PM (KST)\n\n#데이브레이크 #daybreak #루시 #LUCY\n#쉬운답 #쉬운_답 #220331_6PM https://t.co/e8r2eafPyv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "데이브레이크",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "daybreak",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "쉬운답",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "쉬운_답",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "220331_6PM",
+					"indices": [
+						148,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1508734454373957600,
+					"id_str": "1508734454373957636",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FPAaq4PacAMellX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPAaq4PacAMellX.jpg",
+					"url": "https://t.co/e8r2eafPyv",
+					"display_url": "pic.twitter.com/e8r2eafPyv",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1508735437640441856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508734454373957600,
+					"id_str": "1508734454373957636",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FPAaq4PacAMellX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPAaq4PacAMellX.jpg",
+					"url": "https://t.co/e8r2eafPyv",
+					"display_url": "pic.twitter.com/e8r2eafPyv",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1508735437640441856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28486,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1508734454373957636/vid/480x270/0DAsZWsnPdA7BPmt.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1508734454373957636/vid/640x360/yUc8icNjjHlpVacw.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1508734454373957636/pl/Y_wvgVKcsyNHDKcm.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1508734454373957636/vid/1280x720/rwivo1bxH0JxSOF5.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "데이브레이크 X LUCY : Part.1 '쉬운 답' MV Teaser",
+						"description": "\"이렇게 쉬운 답이 있는걸\"\n\n데이브레이크 X LUCY : Part.1\n01. 쉬운 답\n02. 쉬운 답 (Inst.)\n\n2022.03.31 6PM (KST)\n\n#데이브레이크 #daybreak #루시 #LUCY\n#쉬운답 #쉬운_답 #220331_6PM",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12994,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[데이브레이크 | Teaser]\n \n\"이렇게 쉬운 답이 있는걸\"\n\n데이브레이크 X LUCY : Part.1\n01. 쉬운 답\n02. 쉬운 답 (Inst.)\n\n2022.03.31 6PM (KST)\n\n#데이브레이크 #daybreak #루시 #LUCY\n#쉬운답 #쉬운_답 #220331_6PM https://t.co/e8r2eafPyv"
+	},
+	{
+		"created_at": "Tue Mar 29 09:29:38 +0000 2022",
+		"id": 1508731635235229700,
+		"id_str": "1508738140076486657",
+		"full_text": "제 9회 김사월 쇼: 사월을 기다리는 노래들\n\n2022년 4월 23일 토요일 오후 6시\n2022년 4월 24일 일요일 오후 6시\n\n장소\n서강대학교 메리홀 대극장\n\n예매처\n예스24 티켓\n\n#김사월 #2022 #김사월쇼 #사월을기다리는노래들 #메리홀대극장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "김사월쇼",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "사월을기다리는노래들",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"text": "메리홀대극장",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1508731629564739600,
+		"in_reply_to_status_id_str": "1508731629564739591",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제 9회 김사월 쇼: 사월을 기다리는 노래들\n\n2022년 4월 23일 토요일 오후 6시\n2022년 4월 24일 일요일 오후 6시\n\n장소\n서강대학교 메리홀 대극장\n\n예매처\n예스24 티켓\n\n#김사월 #2022 #김사월쇼 #사월을기다리는노래들 #메리홀대극장"
+	},
+	{
+		"created_at": "Tue Mar 29 09:29:34 +0000 2022",
+		"id": 1508731629564739600,
+		"id_str": "1508738122812645378",
+		"full_text": "&lt;제 9회 #김사월 쇼 Story Video Teaser&gt; \n\n4월 한 달 동안 2022년의 김사월쇼를 만드는 사월의 편지를 보내드립니다. \n매주 금요일 자정에 전송합니다. \n\n신청 링크 💌 https://t.co/jXBTArWcP9\n\n*2021년 김사월쇼 메일링을 구독하셨다면 별도의 신청 없이 편지를 받으실 수 있습니다. https://t.co/yI3MRXBYbQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jXBTArWcP9",
+					"expanded_url": "http://url.kr/wja3f9",
+					"display_url": "url.kr/wja3f9",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508731005582323700,
+					"id_str": "1508731005582323719",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508731005582323719/pu/img/Dfk_omNmaN7QYBE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508731005582323719/pu/img/Dfk_omNmaN7QYBE4.jpg",
+					"url": "https://t.co/yI3MRXBYbQ",
+					"display_url": "pic.twitter.com/yI3MRXBYbQ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1508731629564739591/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508731005582323700,
+					"id_str": "1508731005582323719",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508731005582323719/pu/img/Dfk_omNmaN7QYBE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508731005582323719/pu/img/Dfk_omNmaN7QYBE4.jpg",
+					"url": "https://t.co/yI3MRXBYbQ",
+					"display_url": "pic.twitter.com/yI3MRXBYbQ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1508731629564739591/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30363,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508731005582323719/pu/vid/1280x720/QY0pjeBe_3vxHEG2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1508731005582323719/pu/pl/-Q3GBRz3DcG0IvcY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508731005582323719/pu/vid/640x360/OA_sWs3AG-ZVlWgY.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508731005582323719/pu/vid/480x270/YlXrTCFbnd6qktf9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;제 9회 #김사월 쇼 Story Video Teaser&gt; \n\n4월 한 달 동안 2022년의 김사월쇼를 만드는 사월의 편지를 보내드립니다. \n매주 금요일 자정에 전송합니다. \n\n신청 링크 💌 https://t.co/jXBTArWcP9\n\n*2021년 김사월쇼 메일링을 구독하셨다면 별도의 신청 없이 편지를 받으실 수 있습니다. https://t.co/yI3MRXBYbQ"
+	},
+	{
 		"created_at": "Tue Mar 29 09:08:39 +0000 2022",
 		"id": 1508732861397885000,
 		"id_str": "1508732861397884928",
