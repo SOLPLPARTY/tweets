@@ -1,6 +1,1790 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 30 10:29:38 +0000 2022",
+		"id": 1509108634818850800,
+		"id_str": "1509115630158589959",
+		"full_text": "박소은 정규 2집 선공개 싱글\n「말리부오렌지」\n2022.04.06 12pm\n\n#박소은 #정규2집 #선공개싱글 #말리부오렌지 #4월6일 #발매 https://t.co/yhNwzLUva0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "정규2집",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "선공개싱글",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "말리부오렌지",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "4월6일",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						75,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509108626015015000,
+					"id_str": "1509108626015014915",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFuTL0aUAMVD6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFuTL0aUAMVD6h.jpg",
+					"url": "https://t.co/yhNwzLUva0",
+					"display_url": "pic.twitter.com/yhNwzLUva0",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1509108634818850819/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509108626015015000,
+					"id_str": "1509108626015014915",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFuTL0aUAMVD6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFuTL0aUAMVD6h.jpg",
+					"url": "https://t.co/yhNwzLUva0",
+					"display_url": "pic.twitter.com/yhNwzLUva0",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1509108634818850819/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2184,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박소은 정규 2집 선공개 싱글\n「말리부오렌지」\n2022.04.06 12pm\n\n#박소은 #정규2집 #선공개싱글 #말리부오렌지 #4월6일 #발매 https://t.co/yhNwzLUva0"
+	},
+	{
+		"created_at": "Wed Mar 30 10:29:29 +0000 2022",
+		"id": 1509108176695795700,
+		"id_str": "1509115591948488716",
+		"full_text": "[#Teaser] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 D-1\n\n2022. 03. 31. 6PM Release\n\n#KwonJinAh\n#Pink #SillySillyLove\n#흘러가자 #Justlikethis\n#20220331_6PM https://t.co/stkbQRVC4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "Pink",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "SillySillyLove",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"text": "흘러가자",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "Justlikethis",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "20220331_6PM",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509067846026170400,
+					"id_str": "1509067846026170369",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFJNehakAEyRLg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFJNehakAEyRLg.jpg",
+					"url": "https://t.co/stkbQRVC4x",
+					"display_url": "pic.twitter.com/stkbQRVC4x",
+					"expanded_url": "https://twitter.com/antennamusic/status/1509108176695795717/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509067846026170400,
+					"id_str": "1509067846026170369",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFJNehakAEyRLg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFJNehakAEyRLg.jpg",
+					"url": "https://t.co/stkbQRVC4x",
+					"display_url": "pic.twitter.com/stkbQRVC4x",
+					"expanded_url": "https://twitter.com/antennamusic/status/1509108176695795717/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40369,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Teaser] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 D-1\n\n2022. 03. 31. 6PM Release\n\n#KwonJinAh\n#Pink #SillySillyLove\n#흘러가자 #Justlikethis\n#20220331_6PM https://t.co/stkbQRVC4x"
+	},
+	{
+		"created_at": "Wed Mar 30 10:29:24 +0000 2022",
+		"id": 1509101039563296800,
+		"id_str": "1509115570523881477",
+		"full_text": "#오스틴 🌵𝒀𝒐𝒖’𝒓𝒆 𝑨𝒍𝒎𝒐𝒔𝒕 𝑻𝒉𝒆𝒓𝒆🌵\n새 EP 앨범 [You’re Almost There] 발매!\n🎧음원듣기 https://t.co/tAe5qxdZyd https://t.co/xyAvitjBjE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오스틴",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tAe5qxdZyd",
+					"expanded_url": "https://WMK.lnk.to/lVLVanI7",
+					"display_url": "WMK.lnk.to/lVLVanI7",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509100621240189000,
+					"id_str": "1509100621240188930",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509100621240188930/pu/img/_hhDJwvwO26P0AG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509100621240188930/pu/img/_hhDJwvwO26P0AG8.jpg",
+					"url": "https://t.co/xyAvitjBjE",
+					"display_url": "pic.twitter.com/xyAvitjBjE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1509101039563296774/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509100621240189000,
+					"id_str": "1509100621240188930",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509100621240188930/pu/img/_hhDJwvwO26P0AG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509100621240188930/pu/img/_hhDJwvwO26P0AG8.jpg",
+					"url": "https://t.co/xyAvitjBjE",
+					"display_url": "pic.twitter.com/xyAvitjBjE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1509101039563296774/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30196,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509100621240188930/pu/vid/320x320/HikSDtsVhN68LEOl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509100621240188930/pu/vid/540x540/qwY4bBP5Lj-99NDY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509100621240188930/pu/pl/fOWkr0Mlyh2a0LG6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509100621240188930/pu/vid/720x720/d3iri-TIV04lfqgn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54702,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오스틴 🌵𝒀𝒐𝒖’𝒓𝒆 𝑨𝒍𝒎𝒐𝒔𝒕 𝑻𝒉𝒆𝒓𝒆🌵\n새 EP 앨범 [You’re Almost There] 발매!\n🎧음원듣기 https://t.co/tAe5qxdZyd https://t.co/xyAvitjBjE"
+	},
+	{
+		"created_at": "Wed Mar 30 10:11:16 +0000 2022",
+		"id": 1509097075614847000,
+		"id_str": "1509111008006127620",
+		"full_text": "2022년 4월 5일 낮 12시,\n곽푸른하늘의 정규 3집 앨범 [Nearly (T)here]이 발매됩니다.\n\n2022. 04. 05. (TUE) 12PM\nKwak Pureunhaneul 3rd Album\n[Nearly (T)here] Release\n\n#곽푸른하늘 #NearlyThere https://t.co/Nw4lMknW2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽푸른하늘",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "NearlyThere",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509097024708575200,
+					"id_str": "1509097024708575238",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509097024708575238/pu/img/xtF_ZRJ3smZey1R1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509097024708575238/pu/img/xtF_ZRJ3smZey1R1.jpg",
+					"url": "https://t.co/Nw4lMknW2l",
+					"display_url": "pic.twitter.com/Nw4lMknW2l",
+					"expanded_url": "https://twitter.com/ctrsound/status/1509097075614846977/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509097024708575200,
+					"id_str": "1509097024708575238",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509097024708575238/pu/img/xtF_ZRJ3smZey1R1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509097024708575238/pu/img/xtF_ZRJ3smZey1R1.jpg",
+					"url": "https://t.co/Nw4lMknW2l",
+					"display_url": "pic.twitter.com/Nw4lMknW2l",
+					"expanded_url": "https://twitter.com/ctrsound/status/1509097075614846977/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20522,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509097024708575238/pu/vid/480x270/RyQoTygjG1TzdQo9.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509097024708575238/pu/vid/1280x720/G0AUyg14IpyLkdqK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509097024708575238/pu/pl/ZqnEDKoQX0QctdkG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509097024708575238/pu/vid/640x360/QDdWl-3U5FsaMcbx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022년 4월 5일 낮 12시,\n곽푸른하늘의 정규 3집 앨범 [Nearly (T)here]이 발매됩니다.\n\n2022. 04. 05. (TUE) 12PM\nKwak Pureunhaneul 3rd Album\n[Nearly (T)here] Release\n\n#곽푸른하늘 #NearlyThere https://t.co/Nw4lMknW2l"
+	},
+	{
+		"created_at": "Wed Mar 30 09:30:04 +0000 2022",
+		"id": 1509098844688052200,
+		"id_str": "1509100637228834816",
+		"full_text": "[#Playlist]\n#ITZY - #Voltage 가 #TIDAL(@tidal) 'K-Pop x J-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\nCheck out ‘Voltage’ playlist on TIDAL\n\n🎶https://t.co/WsptknqB2w\n\n#warnerkpop #warnermusic #KPOP #JPOP #Voltage @JYPEITZY_JP @ITZYofficial https://t.co/PMEHWAXvpN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Playlist",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "Voltage",
+					"indices": [
+						20,
+						28
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "JPOP",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "Voltage",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "JYPEITZY_JP",
+					"name": "ITZY JAPAN OFFICIAL",
+					"id": 1432678126035759000,
+					"id_str": "1432678126035759106",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						207,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WsptknqB2w",
+					"expanded_url": "https://tidal.com/browse/playlist/c27c8fc9-0b44-430c-81a2-8e088dbcf07f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509098623056765000,
+					"id_str": "1509098623056764936",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFlM75UYAgTidN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFlM75UYAgTidN.jpg",
+					"url": "https://t.co/PMEHWAXvpN",
+					"display_url": "pic.twitter.com/PMEHWAXvpN",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1509098844688052228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509098623056765000,
+					"id_str": "1509098623056764936",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFlM75UYAgTidN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFlM75UYAgTidN.jpg",
+					"url": "https://t.co/PMEHWAXvpN",
+					"display_url": "pic.twitter.com/PMEHWAXvpN",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1509098844688052228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54702,
+			"friends_count": 494,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 421,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Playlist]\n#ITZY - #Voltage 가 #TIDAL(@tidal) 'K-Pop x J-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\nCheck out ‘Voltage’ playlist on TIDAL\n\n🎶https://t.co/WsptknqB2w\n\n#warnerkpop #warnermusic #KPOP #JPOP #Voltage @JYPEITZY_JP @ITZYofficial https://t.co/PMEHWAXvpN"
+	},
+	{
+		"created_at": "Wed Mar 30 09:29:55 +0000 2022",
+		"id": 1509096746101907500,
+		"id_str": "1509100599001993219",
+		"full_text": "‘preview of us’는 첫 정규앨범의 작업 과정의 일부이며, 현장에 함께 해주는 관객들과의 소통으로 비로소 완성됩니다.\n\nSURL의 네 멤버들이 라이브로서 표현하고자 하는 정규 1집 ［of us］에 대한 이야기와 감정을 현장에서 느껴보시길 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1509096711754780700,
+		"in_reply_to_status_id_str": "1509096711754780675",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12994,
+			"friends_count": 1926,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘preview of us’는 첫 정규앨범의 작업 과정의 일부이며, 현장에 함께 해주는 관객들과의 소통으로 비로소 완성됩니다.\n\nSURL의 네 멤버들이 라이브로서 표현하고자 하는 정규 1집 ［of us］에 대한 이야기와 감정을 현장에서 느껴보시길 바랍니다."
+	},
+	{
+		"created_at": "Wed Mar 30 09:29:47 +0000 2022",
+		"id": 1509096711754780700,
+		"id_str": "1509100565023887363",
+		"full_text": "이들의 첫 번째 정규앨범 &lt;of us&gt;의 곡들을 가장 먼저 들어볼 수 있는 콘서트인 ‘preview of us’에서는 정규 1집의 트랙들을 주축으로 한 보다 정교한 곡 구성과 다양한 시각적 연출효과를 통해 최고의 퍼포먼스를 선보일 것입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1509096654204731400,
+		"in_reply_to_status_id_str": "1509096654204731408",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12994,
+			"friends_count": 1926,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이들의 첫 번째 정규앨범 &lt;of us&gt;의 곡들을 가장 먼저 들어볼 수 있는 콘서트인 ‘preview of us’에서는 정규 1집의 트랙들을 주축으로 한 보다 정교한 곡 구성과 다양한 시각적 연출효과를 통해 최고의 퍼포먼스를 선보일 것입니다."
+	},
+	{
+		"created_at": "Wed Mar 30 09:29:41 +0000 2022",
+		"id": 1509096654204731400,
+		"id_str": "1509100543624552448",
+		"full_text": "SURL concert 'preview of us' \n\n지난 3월, SXSW 2022를 다녀오며 국내 활동과 함께 활발하게 해외 활동을 시작한 SURL이 한층 더 성장한 자신들의 이야기를 담은 첫 번째 정규앨범 &lt;of us&gt;의 발매를 앞두고 프리뷰 콘서트를 진행합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1509096601905938400,
+		"in_reply_to_status_id_str": "1509096601905938435",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12994,
+			"friends_count": 1926,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "SURL concert 'preview of us' \n\n지난 3월, SXSW 2022를 다녀오며 국내 활동과 함께 활발하게 해외 활동을 시작한 SURL이 한층 더 성장한 자신들의 이야기를 담은 첫 번째 정규앨범 &lt;of us&gt;의 발매를 앞두고 프리뷰 콘서트를 진행합니다."
+	},
+	{
+		"created_at": "Wed Mar 30 09:29:32 +0000 2022",
+		"id": 1509096601905938400,
+		"id_str": "1509100501731840002",
+		"full_text": "[SURL | 설]\n\nSURL concert 'preview of us' \n\n▫️ 일시: 2022년 4월 22일(금) ~ 24일(일) / 금 8PM, 토 6PM, 일 5PM\n▫️ 장소: 노들섬 라이브하우스 (서울특별시 용산구 양녕로 445)\n▫️ 티켓: 77,000원\n▫️ 예매처 INTERPARK / YES24 \n▫️ 티켓오픈 : 4월 4일 월요일 6시 https://t.co/VZ2pKl9Jzx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509096399841132500,
+					"id_str": "1509096399841132551",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFjLhxaAAcjqis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFjLhxaAAcjqis.jpg",
+					"url": "https://t.co/VZ2pKl9Jzx",
+					"display_url": "pic.twitter.com/VZ2pKl9Jzx",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1509096601905938435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509096399841132500,
+					"id_str": "1509096399841132551",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FPFjLhxaAAcjqis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPFjLhxaAAcjqis.jpg",
+					"url": "https://t.co/VZ2pKl9Jzx",
+					"display_url": "pic.twitter.com/VZ2pKl9Jzx",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1509096601905938435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12994,
+			"friends_count": 1926,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SURL | 설]\n\nSURL concert 'preview of us' \n\n▫️ 일시: 2022년 4월 22일(금) ~ 24일(일) / 금 8PM, 토 6PM, 일 5PM\n▫️ 장소: 노들섬 라이브하우스 (서울특별시 용산구 양녕로 445)\n▫️ 티켓: 77,000원\n▫️ 예매처 INTERPARK / YES24 \n▫️ 티켓오픈 : 4월 4일 월요일 6시 https://t.co/VZ2pKl9Jzx"
+	},
+	{
+		"created_at": "Wed Mar 30 09:29:24 +0000 2022",
+		"id": 1509096012337483800,
+		"id_str": "1509100471906148355",
+		"full_text": "[BEHIND] [#인순이] #부캐전성시대\n\n '부캐전성시대' AVA 인자벨라 스페셜 클립 \n촬영 현장 비하인드🎥\n\n#행복! 오 소중한 행복을 주세요🎶\n \n👉 유튜브 : https://t.co/JhXWdkogne\n👉 V LIVE : https://t.co/WtHxefVuj1\n\n#INSOONI #HUMAPCONTENTS #휴맵컨텐츠 #AVA인자벨라 #비하인드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "부캐전성시대",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "행복",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "AVA인자벨라",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						195,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JhXWdkogne",
+					"expanded_url": "https://youtu.be/KjKLg6qFuH8",
+					"display_url": "youtu.be/KjKLg6qFuH8",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/WtHxefVuj1",
+					"expanded_url": "https://vlive.tv/schedule/1-21064",
+					"display_url": "vlive.tv/schedule/1-210…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[BEHIND] [#인순이] #부캐전성시대\n\n '부캐전성시대' AVA 인자벨라 스페셜 클립 \n촬영 현장 비하인드🎥\n\n#행복! 오 소중한 행복을 주세요🎶\n \n👉 유튜브 : https://t.co/JhXWdkogne\n👉 V LIVE : https://t.co/WtHxefVuj1\n\n#INSOONI #HUMAPCONTENTS #휴맵컨텐츠 #AVA인자벨라 #비하인드"
+	},
+	{
 		"created_at": "Wed Mar 30 09:14:04 +0000 2022",
 		"id": 1509096612231975000,
 		"id_str": "1509096612231974917",
