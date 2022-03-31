@@ -1,6 +1,947 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 31 09:29:58 +0000 2022",
+		"id": 1509461560778899500,
+		"id_str": "1509463001228787714",
+		"full_text": "[NEWS] 꿈 향해 힘차게 JUMP! … 동명대, ‘Do-ing 토크콘서트 JUMP’ 개최\n\n👉 https://t.co/puAd8MDmXk\n\n#인순이 #INSOONI #HUMAPCONTENTS #휴맵컨텐츠 #토크콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "토크콘서트",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/puAd8MDmXk",
+					"expanded_url": "http://naver.me/IFKsEmjg",
+					"display_url": "naver.me/IFKsEmjg",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] 꿈 향해 힘차게 JUMP! … 동명대, ‘Do-ing 토크콘서트 JUMP’ 개최\n\n👉 https://t.co/puAd8MDmXk\n\n#인순이 #INSOONI #HUMAPCONTENTS #휴맵컨텐츠 #토크콘서트"
+	},
+	{
+		"created_at": "Thu Mar 31 09:29:53 +0000 2022",
+		"id": 1509456956008075300,
+		"id_str": "1509462979775016961",
+		"full_text": "💞 권진아 DS 'Pink!'\n\nMelon https://t.co/caYsQQoncC\nGenie https://t.co/0zzOU4gPkW\nBugs https://t.co/V89PYeRQ4m\nFLO https://t.co/htbbqZFgyM\n\n#KwonJinAh\n#Pink #SillySillyLove\n#흘러가자 #Justlikethis\n#20220331_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "Pink",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "SillySillyLove",
+					"indices": [
+						153,
+						168
+					]
+				},
+				{
+					"text": "흘러가자",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "Justlikethis",
+					"indices": [
+						175,
+						188
+					]
+				},
+				{
+					"text": "20220331_6PM",
+					"indices": [
+						189,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/caYsQQoncC",
+					"expanded_url": "http://bit.ly/3tVu0CA",
+					"display_url": "bit.ly/3tVu0CA",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/0zzOU4gPkW",
+					"expanded_url": "http://bit.ly/3uF0srT",
+					"display_url": "bit.ly/3uF0srT",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/V89PYeRQ4m",
+					"expanded_url": "http://bit.ly/3uHIdSz",
+					"display_url": "bit.ly/3uHIdSz",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/htbbqZFgyM",
+					"expanded_url": "http://bit.ly/3JXqeOy",
+					"display_url": "bit.ly/3JXqeOy",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509456952069615600,
+		"in_reply_to_status_id_str": "1509456952069615617",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40363,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💞 권진아 DS 'Pink!'\n\nMelon https://t.co/caYsQQoncC\nGenie https://t.co/0zzOU4gPkW\nBugs https://t.co/V89PYeRQ4m\nFLO https://t.co/htbbqZFgyM\n\n#KwonJinAh\n#Pink #SillySillyLove\n#흘러가자 #Justlikethis\n#20220331_6PM"
+	},
+	{
+		"created_at": "Thu Mar 31 09:29:46 +0000 2022",
+		"id": 1509456952069615600,
+		"id_str": "1509462949706059776",
+		"full_text": "[#Release] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 'Pink!' MV\nhttps://t.co/Qk8HWzc3iI\n\n🎬 Film by STUDIO SAPIENS\n\nLyrics by 권진아\nComposed by 권진아\nArranged by 박문치\n\n권진아 DS 'Pink!'는 지금 모든 음원사이트에서 감상하실 수 있습니다💞 https://t.co/OIut8tU880",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qk8HWzc3iI",
+					"expanded_url": "https://youtu.be/v5lkiuAcJQU",
+					"display_url": "youtu.be/v5lkiuAcJQU",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509456540209938400,
+					"id_str": "1509456540209938434",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509456540209938434/pu/img/D7ivANYn3gYF7dHA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509456540209938434/pu/img/D7ivANYn3gYF7dHA.jpg",
+					"url": "https://t.co/OIut8tU880",
+					"display_url": "pic.twitter.com/OIut8tU880",
+					"expanded_url": "https://twitter.com/antennamusic/status/1509456952069615617/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509456540209938400,
+					"id_str": "1509456540209938434",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509456540209938434/pu/img/D7ivANYn3gYF7dHA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509456540209938434/pu/img/D7ivANYn3gYF7dHA.jpg",
+					"url": "https://t.co/OIut8tU880",
+					"display_url": "pic.twitter.com/OIut8tU880",
+					"expanded_url": "https://twitter.com/antennamusic/status/1509456952069615617/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140014,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509456540209938434/pu/pl/xtk7bY3o2LmLWi09.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509456540209938434/pu/vid/640x360/za_ljS8EEtRo9qg2.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509456540209938434/pu/vid/1280x720/tQtr3DkJ6pF6NgrK.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509456540209938434/pu/vid/480x270/twnfKKXymCjT-XqZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40363,
+			"friends_count": 11,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 'Pink!' MV\nhttps://t.co/Qk8HWzc3iI\n\n🎬 Film by STUDIO SAPIENS\n\nLyrics by 권진아\nComposed by 권진아\nArranged by 박문치\n\n권진아 DS 'Pink!'는 지금 모든 음원사이트에서 감상하실 수 있습니다💞 https://t.co/OIut8tU880"
+	},
+	{
+		"created_at": "Thu Mar 31 09:29:37 +0000 2022",
+		"id": 1509455710203035600,
+		"id_str": "1509462911495950343",
+		"full_text": "곽진언 미니앨범\nAlbum Teaser #2\n\n🌫 2022. 04. 06 6PM (KST) Release\n\n#곽진언 #KwakJineon\n#정릉 #미니앨범 #20220406_6PM https://t.co/uUbVzJuWqY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"text": "정릉",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "20220406_6PM",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509438168063692800,
+					"id_str": "1509438168063692802",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509438168063692802/pu/img/s7SUAkqfbzeM3fI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509438168063692802/pu/img/s7SUAkqfbzeM3fI0.jpg",
+					"url": "https://t.co/uUbVzJuWqY",
+					"display_url": "pic.twitter.com/uUbVzJuWqY",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1509455710203035659/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509438168063692800,
+					"id_str": "1509438168063692802",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509438168063692802/pu/img/s7SUAkqfbzeM3fI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509438168063692802/pu/img/s7SUAkqfbzeM3fI0.jpg",
+					"url": "https://t.co/uUbVzJuWqY",
+					"display_url": "pic.twitter.com/uUbVzJuWqY",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1509455710203035659/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509438168063692802/pu/pl/Htig5jraAfLAb0Xb.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509438168063692802/pu/vid/480x270/cHYJnboTSYxOiACJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509438168063692802/pu/vid/1280x720/Ke9jdpL9xjLXWhjQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509438168063692802/pu/vid/640x360/Xb9G9k9b7cwxhkSL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/vinfdGhQL0…",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vinfdGhQL0",
+							"expanded_url": "http://youtube.com/user/musicfarm",
+							"display_url": "youtube.com/user/musicfarm",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9051,
+			"friends_count": 4,
+			"listed_count": 104,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "곽진언 미니앨범\nAlbum Teaser #2\n\n🌫 2022. 04. 06 6PM (KST) Release\n\n#곽진언 #KwakJineon\n#정릉 #미니앨범 #20220406_6PM https://t.co/uUbVzJuWqY"
+	},
+	{
+		"created_at": "Thu Mar 31 09:29:33 +0000 2022",
+		"id": 1509455557522264000,
+		"id_str": "1509462894320230404",
+		"full_text": "[CREDIT] \nProduced by 데이브레이크 daybreak\n\nLyrics by 이원석 Lee Wonseok\nComposed by 조원상 Cho Wonsang, 윤종신 Yoon Jongshin, 이원석 Lee Wonseok\nArranged by 데이브레이크 daybreak, 홍준 Hong Jun\nString arranged by O.YEON\n\n#데이브레이크 #daybreak #루시 #LUCY\n#쉬운답 #쉬운_답",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "데이브레이크",
+					"indices": [
+						197,
+						204
+					]
+				},
+				{
+					"text": "daybreak",
+					"indices": [
+						205,
+						214
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						215,
+						218
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "쉬운답",
+					"indices": [
+						225,
+						229
+					]
+				},
+				{
+					"text": "쉬운_답",
+					"indices": [
+						230,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1509455469814894600,
+		"in_reply_to_status_id_str": "1509455469814894594",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12992,
+			"friends_count": 1926,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[CREDIT] \nProduced by 데이브레이크 daybreak\n\nLyrics by 이원석 Lee Wonseok\nComposed by 조원상 Cho Wonsang, 윤종신 Yoon Jongshin, 이원석 Lee Wonseok\nArranged by 데이브레이크 daybreak, 홍준 Hong Jun\nString arranged by O.YEON\n\n#데이브레이크 #daybreak #루시 #LUCY\n#쉬운답 #쉬운_답"
+	},
+	{
 		"created_at": "Thu Mar 31 09:11:55 +0000 2022",
 		"id": 1509458457497256000,
 		"id_str": "1509458457497255936",
