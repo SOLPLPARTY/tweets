@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 31 13:29:34 +0000 2022",
+		"id": 1509519041186373600,
+		"id_str": "1509523297091956739",
+		"full_text": "On April 1st, South Korean rapper and producer 방 aka V A NN will release his first full-length album. The highly anticipated 10-song debut is 30 minutes of crisp, lo-fi beats, chilled multi-instrumental soundscapes, and deeply personal lyrics. https://t.co/tw6LKfZmFn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509518969824497700,
+					"id_str": "1509518969824497665",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509518969824497665/pu/img/WZROU9sM9yrvIpRX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509518969824497665/pu/img/WZROU9sM9yrvIpRX.jpg",
+					"url": "https://t.co/tw6LKfZmFn",
+					"display_url": "pic.twitter.com/tw6LKfZmFn",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509519041186373634/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509518969824497700,
+					"id_str": "1509518969824497665",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509518969824497665/pu/img/WZROU9sM9yrvIpRX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509518969824497665/pu/img/WZROU9sM9yrvIpRX.jpg",
+					"url": "https://t.co/tw6LKfZmFn",
+					"display_url": "pic.twitter.com/tw6LKfZmFn",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509519041186373634/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11636,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509518969824497665/pu/vid/320x320/8m5Lr5LtAOpHN1sx.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509518969824497665/pu/vid/720x720/pKs9TblUhh1Pw1uq.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509518969824497665/pu/vid/540x540/fDNn-VQGfPCZfdl3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509518969824497665/pu/pl/x2lnXXa-1j1IhV6w.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509518962522210300,
+		"in_reply_to_status_id_str": "1509518962522210306",
+		"in_reply_to_user_id": 1354376069487333400,
+		"in_reply_to_user_id_str": "1354376069487333378",
+		"in_reply_to_screen_name": "flippedcoinm",
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42,
+			"friends_count": 9,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On April 1st, South Korean rapper and producer 방 aka V A NN will release his first full-length album. The highly anticipated 10-song debut is 30 minutes of crisp, lo-fi beats, chilled multi-instrumental soundscapes, and deeply personal lyrics. https://t.co/tw6LKfZmFn"
+	},
+	{
 		"created_at": "Thu Mar 31 13:11:17 +0000 2022",
 		"id": 1509515871588274200,
 		"id_str": "1509518695080644611",
