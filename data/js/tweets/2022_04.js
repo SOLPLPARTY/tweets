@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 01 05:29:41 +0000 2022",
+		"id": 1509751369879941000,
+		"id_str": "1509764919880822803",
+		"full_text": "Watch Now! \n\nhttps://t.co/UoyvNRKU99 https://t.co/YL3kdYo4iX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UoyvNRKU99",
+					"expanded_url": "https://youtu.be/ESt3dlg5j5I",
+					"display_url": "youtu.be/ESt3dlg5j5I",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509751269929676800,
+					"id_str": "1509751269929676801",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509751269929676801/pu/img/MTDMhl0LvyocbucN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509751269929676801/pu/img/MTDMhl0LvyocbucN.jpg",
+					"url": "https://t.co/YL3kdYo4iX",
+					"display_url": "pic.twitter.com/YL3kdYo4iX",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509751369879941122/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509751269929676800,
+					"id_str": "1509751269929676801",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1509751269929676801/pu/img/MTDMhl0LvyocbucN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1509751269929676801/pu/img/MTDMhl0LvyocbucN.jpg",
+					"url": "https://t.co/YL3kdYo4iX",
+					"display_url": "pic.twitter.com/YL3kdYo4iX",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509751369879941122/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38246,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509751269929676801/pu/vid/640x360/Q-HfiNFAfoU9C3f3.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509751269929676801/pu/vid/1280x720/csW-yFGJa9eLDNBO.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1509751269929676801/pu/pl/Hu7pg-Il8fOqReFx.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1509751269929676801/pu/vid/480x270/UXaIOFAWZYtJNKDK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509750807536992300,
+		"in_reply_to_status_id_str": "1509750807536992271",
+		"in_reply_to_user_id": 1354376069487333400,
+		"in_reply_to_user_id_str": "1354376069487333378",
+		"in_reply_to_screen_name": "flippedcoinm",
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 9,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Now! \n\nhttps://t.co/UoyvNRKU99 https://t.co/YL3kdYo4iX"
+	},
+	{
+		"created_at": "Fri Apr 01 05:29:37 +0000 2022",
+		"id": 1509750807536992300,
+		"id_str": "1509764902667399197",
+		"full_text": "\" I do hope people who listen to this album will live together. At least that’s what I thought. Because someone like myself is alive.\" - Dongsu Kang https://t.co/yl2zRbVfrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509750803242053600,
+					"id_str": "1509750803242053634",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FPO2W0aacAI8yiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPO2W0aacAI8yiF.jpg",
+					"url": "https://t.co/yl2zRbVfrT",
+					"display_url": "pic.twitter.com/yl2zRbVfrT",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509750807536992271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509750803242053600,
+					"id_str": "1509750803242053634",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FPO2W0aacAI8yiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPO2W0aacAI8yiF.jpg",
+					"url": "https://t.co/yl2zRbVfrT",
+					"display_url": "pic.twitter.com/yl2zRbVfrT",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509750807536992271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509750800268300300,
+		"in_reply_to_status_id_str": "1509750800268300289",
+		"in_reply_to_user_id": 1354376069487333400,
+		"in_reply_to_user_id_str": "1354376069487333378",
+		"in_reply_to_screen_name": "flippedcoinm",
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 9,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118caea4a6876c6",
+			"url": "https://api.twitter.com/1.1/geo/id/0118caea4a6876c6.json",
+			"place_type": "city",
+			"name": "용산구",
+			"full_name": "대한민국 용산구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.948708198697,
+							37.505957133047
+						],
+						[
+							127.011971399668,
+							37.505957133047
+						],
+						[
+							127.011971399668,
+							37.5481625308819
+						],
+						[
+							126.948708198697,
+							37.5481625308819
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\" I do hope people who listen to this album will live together. At least that’s what I thought. Because someone like myself is alive.\" - Dongsu Kang https://t.co/yl2zRbVfrT"
+	},
+	{
+		"created_at": "Fri Apr 01 05:29:34 +0000 2022",
+		"id": 1509750800268300300,
+		"id_str": "1509764889602142245",
+		"full_text": "In Korea, it’s not easy to find young musicians who dove so deeply into post-punk the way Soumbalgwang does. https://t.co/cFm8kpD1ra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1509750794870202400,
+					"id_str": "1509750794870202381",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FPO2WVOaIA0vWBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPO2WVOaIA0vWBj.jpg",
+					"url": "https://t.co/cFm8kpD1ra",
+					"display_url": "pic.twitter.com/cFm8kpD1ra",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509750800268300289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509750794870202400,
+					"id_str": "1509750794870202381",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FPO2WVOaIA0vWBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPO2WVOaIA0vWBj.jpg",
+					"url": "https://t.co/cFm8kpD1ra",
+					"display_url": "pic.twitter.com/cFm8kpD1ra",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509750800268300289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1509750794878582800,
+					"id_str": "1509750794878582784",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FPO2WVQaAAARLCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPO2WVQaAAARLCL.jpg",
+					"url": "https://t.co/cFm8kpD1ra",
+					"display_url": "pic.twitter.com/cFm8kpD1ra",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509750800268300289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1509750795247714300,
+					"id_str": "1509750795247714307",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FPO2WWoagAMq3eJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPO2WWoagAMq3eJ.jpg",
+					"url": "https://t.co/cFm8kpD1ra",
+					"display_url": "pic.twitter.com/cFm8kpD1ra",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509750800268300289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1509750795054760000,
+					"id_str": "1509750795054759936",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FPO2WV6aQAAjZJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPO2WV6aQAAjZJ1.jpg",
+					"url": "https://t.co/cFm8kpD1ra",
+					"display_url": "pic.twitter.com/cFm8kpD1ra",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1509750800268300289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509750791682556000,
+		"in_reply_to_status_id_str": "1509750791682555907",
+		"in_reply_to_user_id": 1354376069487333400,
+		"in_reply_to_user_id_str": "1354376069487333378",
+		"in_reply_to_screen_name": "flippedcoinm",
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 9,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Korea, it’s not easy to find young musicians who dove so deeply into post-punk the way Soumbalgwang does. https://t.co/cFm8kpD1ra"
+	},
+	{
 		"created_at": "Fri Apr 01 05:11:17 +0000 2022",
 		"id": 1509745261802709000,
 		"id_str": "1509760287762788374",
