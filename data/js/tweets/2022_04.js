@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 03 07:30:04 +0000 2022",
+		"id": 1510514190255267800,
+		"id_str": "1510519992118296581",
+		"full_text": "live SUM 2022 #cott\n\ncott이 4월 30일 토요일에 live SUM 2022에 출연합니다! 자세한 사항은 @SUM_festival 에서 확인해주세요👀\n\n-\n✨️4월 30일 라인업✨️\n\n꿈속을 유영하는 밴드 cott(콧)\n\n&lt;live SUM 2022&gt;\n\n2022.4.30 (토) 6pm\n2022.5.1 (일) 6pm\n@ WATCHA HALL\nYES24 TICKET\n\n#cott #콧 https://t.co/2nkgEUytsh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						220,
+						225
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						226,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SUM_festival",
+					"name": "festival SUM",
+					"id": 1509478657227518000,
+					"id_str": "1509478657227517956",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1510514181333991400,
+					"id_str": "1510514181333991425",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FPZspRaaQAEy5lM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPZspRaaQAEy5lM.jpg",
+					"url": "https://t.co/2nkgEUytsh",
+					"display_url": "pic.twitter.com/2nkgEUytsh",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1510514190255267842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510514181333991400,
+					"id_str": "1510514181333991425",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FPZspRaaQAEy5lM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPZspRaaQAEy5lM.jpg",
+					"url": "https://t.co/2nkgEUytsh",
+					"display_url": "pic.twitter.com/2nkgEUytsh",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1510514190255267842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "live SUM 2022 #cott\n\ncott이 4월 30일 토요일에 live SUM 2022에 출연합니다! 자세한 사항은 @SUM_festival 에서 확인해주세요👀\n\n-\n✨️4월 30일 라인업✨️\n\n꿈속을 유영하는 밴드 cott(콧)\n\n&lt;live SUM 2022&gt;\n\n2022.4.30 (토) 6pm\n2022.5.1 (일) 6pm\n@ WATCHA HALL\nYES24 TICKET\n\n#cott #콧 https://t.co/2nkgEUytsh"
+	},
+	{
 		"created_at": "Sun Apr 03 06:11:17 +0000 2022",
 		"id": 1510488305913065500,
 		"id_str": "1510500162073989121",
