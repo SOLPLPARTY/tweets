@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 10:58:15 +0000 2022",
+		"id": 1510930238779232300,
+		"id_str": "1510934768048914438",
+		"full_text": "https://t.co/dhz4nqA31k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dhz4nqA31k",
+					"expanded_url": "https://twitter.com/_SUBUN/status/1510342475382071296?s=20&t=YBwf-MXy_KwhFLEuT02TVg",
+					"display_url": "twitter.com/_SUBUN/status/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1510227861906501600,
+		"in_reply_to_status_id_str": "1510227861906501633",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7667,
+			"friends_count": 43,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1510342475382071300,
+		"quoted_status_id_str": "1510342475382071296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dhz4nqA31k",
+			"expanded": "https://twitter.com/_SUBUN/status/1510342475382071296?s=20&t=YBwf-MXy_KwhFLEuT02TVg",
+			"display": "twitter.com/_SUBUN/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 02 19:44:41 +0000 2022",
+			"id": 1510342475382071300,
+			"id_str": "1510342475382071296",
+			"full_text": "https://t.co/t8F1XwoeFK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1510342468578865200,
+						"id_str": "1510342468578865155",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FPXQeRjUcAMphQq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPXQeRjUcAMphQq.jpg",
+						"url": "https://t.co/t8F1XwoeFK",
+						"display_url": "pic.twitter.com/t8F1XwoeFK",
+						"expanded_url": "https://twitter.com/_SUBUN/status/1510342475382071296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1510342468578865200,
+						"id_str": "1510342468578865155",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FPXQeRjUcAMphQq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPXQeRjUcAMphQq.jpg",
+						"url": "https://t.co/t8F1XwoeFK",
+						"display_url": "pic.twitter.com/t8F1XwoeFK",
+						"expanded_url": "https://twitter.com/_SUBUN/status/1510342475382071296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181522929,
+				"id_str": "181522929",
+				"name": "J👀",
+				"screen_name": "_SUBUN",
+				"location": "CONTACT DM ᵒ̴̶̷̥́ ·̫ ᵒ̴̶̷̣̥̀",
+				"description": "@subunNFT @sailorsubmarine",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1116,
+				"friends_count": 419,
+				"listed_count": 3,
+				"created_at": "Sun Aug 22 12:15:23 +0000 2010",
+				"favourites_count": 5715,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7967,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510344221797933057/DopIwnVj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510344221797933057/DopIwnVj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181522929/1642759245",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/dhz4nqA31k"
+	},
+	{
+		"created_at": "Mon Apr 04 10:29:31 +0000 2022",
+		"id": 1510918050819715000,
+		"id_str": "1510927540042543105",
+		"full_text": "[#하현우] MV Release https://t.co/CaEkEjOFj8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하현우",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CaEkEjOFj8",
+					"expanded_url": "https://twitter.com/hahyunwooo/status/1510917747491844102",
+					"display_url": "twitter.com/hahyunwooo/sta…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/iMdQEFM1HE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iMdQEFM1HE",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 12,
+			"listed_count": 9,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1510917747491844000,
+		"quoted_status_id_str": "1510917747491844102",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CaEkEjOFj8",
+			"expanded": "https://twitter.com/hahyunwooo/status/1510917747491844102",
+			"display": "twitter.com/hahyunwooo/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 04 09:50:37 +0000 2022",
+			"id": 1510917747491844000,
+			"id_str": "1510917747491844102",
+			"full_text": "&lt;나의 적&gt; MV Release\n\n'Anti ego' 앨범의 세계관을 담은 첫 번째 뮤직비디오가 공개되었습니다. \n'나의 적'과 이어지는 '뿔'의 뮤직비디오도 곧 공개될 예정으로 많은 관심 부탁드립니다.\n\n'나의 적' MV 풀버전 👉https://t.co/29ciiKWQqa\n\n#국카스텐 #하현우 #Antiego #나의적 #이재인 #HOBINFILM https://t.co/PSf0Cmr33g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "국카스텐",
+						"indices": [
+							161,
+							166
+						]
+					},
+					{
+						"text": "하현우",
+						"indices": [
+							167,
+							171
+						]
+					},
+					{
+						"text": "Antiego",
+						"indices": [
+							172,
+							180
+						]
+					},
+					{
+						"text": "나의적",
+						"indices": [
+							181,
+							185
+						]
+					},
+					{
+						"text": "이재인",
+						"indices": [
+							186,
+							190
+						]
+					},
+					{
+						"text": "HOBINFILM",
+						"indices": [
+							191,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/29ciiKWQqa",
+						"expanded_url": "https://youtu.be/Cq3Ty2BOi9Q",
+						"display_url": "youtu.be/Cq3Ty2BOi9Q",
+						"indices": [
+							136,
+							159
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1510917679648895000,
+						"id_str": "1510917679648894987",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1510917679648894987/pu/img/jfH0yfKmWUVR9hB-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1510917679648894987/pu/img/jfH0yfKmWUVR9hB-.jpg",
+						"url": "https://t.co/PSf0Cmr33g",
+						"display_url": "pic.twitter.com/PSf0Cmr33g",
+						"expanded_url": "https://twitter.com/HahyunwooO/status/1510917747491844102/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1510917679648895000,
+						"id_str": "1510917679648894987",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1510917679648894987/pu/img/jfH0yfKmWUVR9hB-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1510917679648894987/pu/img/jfH0yfKmWUVR9hB-.jpg",
+						"url": "https://t.co/PSf0Cmr33g",
+						"display_url": "pic.twitter.com/PSf0Cmr33g",
+						"expanded_url": "https://twitter.com/HahyunwooO/status/1510917747491844102/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 67942,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1510917679648894987/pu/vid/480x270/2mxFc6otOwacu_mO.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1510917679648894987/pu/pl/IXD1G1BEOFp-rAI2.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1510917679648894987/pu/vid/640x360/p5QtL8ZXRqdo5l02.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1510917679648894987/pu/vid/1280x720/d_bs_H0XlK7ZLSm9.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1157304066671669200,
+				"id_str": "1157304066671669250",
+				"name": "hahyunwoo_official",
+				"screen_name": "HahyunwooO",
+				"location": "",
+				"description": "밴드 국카스텐(guckkasten)의 보컬 ‘하현우’의 공식 계정입니다!",
+				"url": "https://t.co/DRxjDRwuLN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DRxjDRwuLN",
+								"expanded_url": "https://www.youtube.com/channel/UC26ztmn44-egMqCiGBaI8bg",
+								"display_url": "youtube.com/channel/UC26zt…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2089,
+				"friends_count": 0,
+				"listed_count": 3,
+				"created_at": "Fri Aug 02 14:56:05 +0000 2019",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510918979660902401/4skmBstW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510918979660902401/4skmBstW_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 166,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 38,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "[#하현우] MV Release https://t.co/CaEkEjOFj8"
+	},
+	{
 		"created_at": "Mon Apr 04 09:42:55 +0000 2022",
 		"id": 1510915813095534600,
 		"id_str": "1510915813095534597",
