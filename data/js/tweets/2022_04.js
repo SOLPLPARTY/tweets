@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 09:11:26 +0000 2022",
+		"id": 1510890817116061700,
+		"id_str": "1510907886901374979",
+		"full_text": "안녕하세요-! 씬디티켓라운지입니다-! 오늘은 서울음악창작지원센터의 음원제작지원 사업인 '마스터클래스' 소식을 들고왔어요-! \n\n지원 접수는 4월 8일까지 오후 6시까지 입니다. 많은 뮤지션 여러분의 관심과 지원 부탁드립니다-!\n\n✨공고 및 신청서 교부 : https://t.co/NWmjbv8Szc https://t.co/Lxmq6KKsJr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NWmjbv8Szc",
+					"expanded_url": "https://c11.kr/22_masterclass",
+					"display_url": "c11.kr/22_masterclass",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510890801668460500,
+					"id_str": "1510890801668460544",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FPfDLdfakAAxiNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPfDLdfakAAxiNZ.jpg",
+					"url": "https://t.co/Lxmq6KKsJr",
+					"display_url": "pic.twitter.com/Lxmq6KKsJr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1510890817116061698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510890801668460500,
+					"id_str": "1510890801668460544",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FPfDLdfakAAxiNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPfDLdfakAAxiNZ.jpg",
+					"url": "https://t.co/Lxmq6KKsJr",
+					"display_url": "pic.twitter.com/Lxmq6KKsJr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1510890817116061698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2741,
+			"friends_count": 2542,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요-! 씬디티켓라운지입니다-! 오늘은 서울음악창작지원센터의 음원제작지원 사업인 '마스터클래스' 소식을 들고왔어요-! \n\n지원 접수는 4월 8일까지 오후 6시까지 입니다. 많은 뮤지션 여러분의 관심과 지원 부탁드립니다-!\n\n✨공고 및 신청서 교부 : https://t.co/NWmjbv8Szc https://t.co/Lxmq6KKsJr"
+	},
+	{
+		"created_at": "Mon Apr 04 09:11:17 +0000 2022",
+		"id": 1510882345125314600,
+		"id_str": "1510907848733216768",
+		"full_text": "한주가 시작되고 만물이 살아나고 덩달아 어둠도 꿈틀꿈틀 이럴때일수록 만남이 소중한 한주~ 이번주 공연일정입니다 #클럽빵 #공기별 #김민섭 #권장혁 #김재슬 #손서정 #굿우드 #파파더캅 #팔도보부상 #선셋온더브릿지 #사이버파크게임랜드 #칠보장 #잔치잔치 #펑크온파이어 #신잔디 #물과음 #민수홍 https://t.co/kp7Ze91pFI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "공기별",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "김민섭",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "권장혁",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "김재슬",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "손서정",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "굿우드",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "파파더캅",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "팔도보부상",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "선셋온더브릿지",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "사이버파크게임랜드",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "칠보장",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "잔치잔치",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "펑크온파이어",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "신잔디",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "물과음",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						159,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1510882331732877300,
+					"id_str": "1510882331732877315",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FPe7echaIAMlS2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPe7echaIAMlS2k.jpg",
+					"url": "https://t.co/kp7Ze91pFI",
+					"display_url": "pic.twitter.com/kp7Ze91pFI",
+					"expanded_url": "https://twitter.com/club_bbang/status/1510882345125314562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510882331732877300,
+					"id_str": "1510882331732877315",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FPe7echaIAMlS2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPe7echaIAMlS2k.jpg",
+					"url": "https://t.co/kp7Ze91pFI",
+					"display_url": "pic.twitter.com/kp7Ze91pFI",
+					"expanded_url": "https://twitter.com/club_bbang/status/1510882345125314562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2531,
+			"friends_count": 909,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한주가 시작되고 만물이 살아나고 덩달아 어둠도 꿈틀꿈틀 이럴때일수록 만남이 소중한 한주~ 이번주 공연일정입니다 #클럽빵 #공기별 #김민섭 #권장혁 #김재슬 #손서정 #굿우드 #파파더캅 #팔도보부상 #선셋온더브릿지 #사이버파크게임랜드 #칠보장 #잔치잔치 #펑크온파이어 #신잔디 #물과음 #민수홍 https://t.co/kp7Ze91pFI"
+	},
+	{
 		"created_at": "Mon Apr 04 07:29:35 +0000 2022",
 		"id": 1510881371493134300,
 		"id_str": "1510882258479194118",
