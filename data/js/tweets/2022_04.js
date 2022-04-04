@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 12:29:35 +0000 2022",
+		"id": 1510949128091562000,
+		"id_str": "1510957753740763137",
+		"full_text": "4/9 (토) @ 세월호 기억공간 앞\n[#이랑] 국민대회\n\n#박소은 #랄라스윗 #서영주 #박재현 #너드커넥션 #오지은 #아마도이자람밴드 #이랑 #유어썸머 #스케줄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "서영주",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "박재현",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						86,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1510949126619361300,
+		"in_reply_to_status_id_str": "1510949126619361286",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2189,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4/9 (토) @ 세월호 기억공간 앞\n[#이랑] 국민대회\n\n#박소은 #랄라스윗 #서영주 #박재현 #너드커넥션 #오지은 #아마도이자람밴드 #이랑 #유어썸머 #스케줄"
+	},
+	{
+		"created_at": "Mon Apr 04 12:29:30 +0000 2022",
+		"id": 1510949126619361300,
+		"id_str": "1510957732316209158",
+		"full_text": "4/7 (목) \n[#오지은] EBS 오디오 e지식 &lt;이런 나라도 떠나고 싶다&gt;\n-\n4/8 (금) 밤 11시 55분 @ EBS1\n[#아마도이자람밴드] EBS &lt;스페이스 공감&gt; \n-\n4/8 (금) 밤 11시 55분 @ EBS1\n[#너드커넥션] EBS &lt;스페이스 공감&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1510949123796529200,
+		"in_reply_to_status_id_str": "1510949123796529158",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2189,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4/7 (목) \n[#오지은] EBS 오디오 e지식 &lt;이런 나라도 떠나고 싶다&gt;\n-\n4/8 (금) 밤 11시 55분 @ EBS1\n[#아마도이자람밴드] EBS &lt;스페이스 공감&gt; \n-\n4/8 (금) 밤 11시 55분 @ EBS1\n[#너드커넥션] EBS &lt;스페이스 공감&gt;"
+	},
+	{
+		"created_at": "Mon Apr 04 12:29:28 +0000 2022",
+		"id": 1510949123796529200,
+		"id_str": "1510957723436920836",
+		"full_text": "#유어썸머 4월 첫째 주 스케줄💌\n\n4/6 (수) 정오\n[#박소은] 싱글 &lt;말리부오렌지&gt; 발매\n-\n4/6 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n4/6 (수) 오후 8시 @ Arirang Radio 유튜브 채널\n[#서영주, #박재현 (#너드커넥션)] 아리랑 라디오 &lt;Radio’n Us&gt; https://t.co/jkbD970UDD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "서영주",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "박재현",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						154,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1510948956523565000,
+					"id_str": "1510948956523565057",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FPf4EhNVkAEvuM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPf4EhNVkAEvuM6.jpg",
+					"url": "https://t.co/jkbD970UDD",
+					"display_url": "pic.twitter.com/jkbD970UDD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1510949123796529158/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510948956523565000,
+					"id_str": "1510948956523565057",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FPf4EhNVkAEvuM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPf4EhNVkAEvuM6.jpg",
+					"url": "https://t.co/jkbD970UDD",
+					"display_url": "pic.twitter.com/jkbD970UDD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1510949123796529158/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510948956536148000,
+					"id_str": "1510948956536147972",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FPf4EhQVkAQ1PEJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPf4EhQVkAQ1PEJ.jpg",
+					"url": "https://t.co/jkbD970UDD",
+					"display_url": "pic.twitter.com/jkbD970UDD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1510949123796529158/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510948956506759200,
+					"id_str": "1510948956506759168",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FPf4EhJVIAA9ZDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPf4EhJVIAA9ZDJ.jpg",
+					"url": "https://t.co/jkbD970UDD",
+					"display_url": "pic.twitter.com/jkbD970UDD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1510949123796529158/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2189,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유어썸머 4월 첫째 주 스케줄💌\n\n4/6 (수) 정오\n[#박소은] 싱글 &lt;말리부오렌지&gt; 발매\n-\n4/6 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n4/6 (수) 오후 8시 @ Arirang Radio 유튜브 채널\n[#서영주, #박재현 (#너드커넥션)] 아리랑 라디오 &lt;Radio’n Us&gt; https://t.co/jkbD970UDD"
+	},
+	{
 		"created_at": "Mon Apr 04 10:58:15 +0000 2022",
 		"id": 1510930238779232300,
 		"id_str": "1510934768048914438",
