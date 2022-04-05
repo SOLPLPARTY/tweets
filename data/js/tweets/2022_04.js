@@ -1,6 +1,1570 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 03:58:19 +0000 2022",
+		"id": 1511176805545296000,
+		"id_str": "1511191476356755459",
+		"full_text": "[The 14th Seoul Jazz Festival 2022]\n\n일정 : 5월 27일(금) ~ 29일(일), 오후1시~10시 예정(금, 토, 일 3일 동일)\n장소 : 올림픽공원내 88잔디마당(May Forest Stage)\n라인업/티켓정보 : 추후공지\n*공연시간은 타임테이블을 통해 상세 공개됩니다.\n\nWhat’s NEXT? https://t.co/rz71WIst13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511174795458596900,
+					"id_str": "1511174795458596870",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511174795458596870/pu/img/-8ym1MiJt7Yu6l5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511174795458596870/pu/img/-8ym1MiJt7Yu6l5f.jpg",
+					"url": "https://t.co/rz71WIst13",
+					"display_url": "pic.twitter.com/rz71WIst13",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1511176805545295874/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511174795458596900,
+					"id_str": "1511174795458596870",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511174795458596870/pu/img/-8ym1MiJt7Yu6l5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511174795458596870/pu/img/-8ym1MiJt7Yu6l5f.jpg",
+					"url": "https://t.co/rz71WIst13",
+					"display_url": "pic.twitter.com/rz71WIst13",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1511176805545295874/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29729,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511174795458596870/pu/vid/540x540/gmhxaRxygIsRk5ph.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511174795458596870/pu/vid/720x720/d06OsCwOqN6UTSQw.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511174795458596870/pu/vid/320x320/XvP68qYs67NFwsvG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511174795458596870/pu/pl/0t5W8-e1u_fmLwOJ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4051,
+			"friends_count": 2,
+			"listed_count": 38,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[The 14th Seoul Jazz Festival 2022]\n\n일정 : 5월 27일(금) ~ 29일(일), 오후1시~10시 예정(금, 토, 일 3일 동일)\n장소 : 올림픽공원내 88잔디마당(May Forest Stage)\n라인업/티켓정보 : 추후공지\n*공연시간은 타임테이블을 통해 상세 공개됩니다.\n\nWhat’s NEXT? https://t.co/rz71WIst13"
+	},
+	{
+		"created_at": "Tue Apr 05 03:58:15 +0000 2022",
+		"id": 1511176802621923300,
+		"id_str": "1511191459071987718",
+		"full_text": "[The 14th Seoul Jazz Festival 2022]\n\n일정 : 5월 27일(금) ~ 29일(일), 오후1시~10시 예정(금, 토, 일 3일 동일)\n장소 : 올림픽공원내 88잔디마당(May Forest Stage)\n라인업/티켓정보 : 추후공지\n*공연시간은 타임테이블을 통해 상세 공개됩니다.\n\nWhat’s NEXT? https://t.co/YV1An06LAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511160071966773200,
+					"id_str": "1511160071966773250",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FPi4FDhVUAIQtJQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPi4FDhVUAIQtJQ.jpg",
+					"url": "https://t.co/YV1An06LAV",
+					"display_url": "pic.twitter.com/YV1An06LAV",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1511176802621923330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511160071966773200,
+					"id_str": "1511160071966773250",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FPi4FDhVUAIQtJQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPi4FDhVUAIQtJQ.jpg",
+					"url": "https://t.co/YV1An06LAV",
+					"display_url": "pic.twitter.com/YV1An06LAV",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1511176802621923330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4051,
+			"friends_count": 2,
+			"listed_count": 38,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 352,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[The 14th Seoul Jazz Festival 2022]\n\n일정 : 5월 27일(금) ~ 29일(일), 오후1시~10시 예정(금, 토, 일 3일 동일)\n장소 : 올림픽공원내 88잔디마당(May Forest Stage)\n라인업/티켓정보 : 추후공지\n*공연시간은 타임테이블을 통해 상세 공개됩니다.\n\nWhat’s NEXT? https://t.co/YV1An06LAV"
+	},
+	{
+		"created_at": "Tue Apr 05 03:29:56 +0000 2022",
+		"id": 1511180594746921000,
+		"id_str": "1511184335721881600",
+		"full_text": "[#Video] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n📍코엑스 미디어 타워\n📍파르나스 미디어 타워\n(~2022.4.14까지)\n\n#KwonJinAh #Pink #SillySillyLove\n#흘러가자 #Justlikethis https://t.co/WcVd8RGCAw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "Pink",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "SillySillyLove",
+					"indices": [
+						112,
+						127
+					]
+				},
+				{
+					"text": "흘러가자",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "Justlikethis",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511180545891647500,
+					"id_str": "1511180545891647488",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511180545891647488/pu/img/ZJtvm0ytv2TDIqyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511180545891647488/pu/img/ZJtvm0ytv2TDIqyI.jpg",
+					"url": "https://t.co/WcVd8RGCAw",
+					"display_url": "pic.twitter.com/WcVd8RGCAw",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511180594746920968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511180545891647500,
+					"id_str": "1511180545891647488",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511180545891647488/pu/img/ZJtvm0ytv2TDIqyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511180545891647488/pu/img/ZJtvm0ytv2TDIqyI.jpg",
+					"url": "https://t.co/WcVd8RGCAw",
+					"display_url": "pic.twitter.com/WcVd8RGCAw",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511180594746920968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29738,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511180545891647488/pu/vid/1280x720/E5ckyX1-QVyCm8MY.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511180545891647488/pu/vid/640x360/9Dx_ZdFIHapWB1Or.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511180545891647488/pu/vid/480x270/wdrJFZz_ncFU1l3C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511180545891647488/pu/pl/X1INjRTrVu80NPTn.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1511180512437895200,
+		"in_reply_to_status_id_str": "1511180512437895175",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40359,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n📍코엑스 미디어 타워\n📍파르나스 미디어 타워\n(~2022.4.14까지)\n\n#KwonJinAh #Pink #SillySillyLove\n#흘러가자 #Justlikethis https://t.co/WcVd8RGCAw"
+	},
+	{
+		"created_at": "Tue Apr 05 03:29:52 +0000 2022",
+		"id": 1511180512437895200,
+		"id_str": "1511184318479192068",
+		"full_text": "[#Video] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n📍코엑스 미디어 타워\n📍파르나스 미디어 타워\n(~2022.4.14까지)\n\n#KwonJinAh #Pink #SillySillyLove\n#흘러가자 #Justlikethis https://t.co/8jo2HwNCYh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "Pink",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "SillySillyLove",
+					"indices": [
+						112,
+						127
+					]
+				},
+				{
+					"text": "흘러가자",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "Justlikethis",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511180472407453700,
+					"id_str": "1511180472407453702",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511180472407453702/pu/img/6xkD0av2PSY-bZHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511180472407453702/pu/img/6xkD0av2PSY-bZHB.jpg",
+					"url": "https://t.co/8jo2HwNCYh",
+					"display_url": "pic.twitter.com/8jo2HwNCYh",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511180512437895175/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511180472407453700,
+					"id_str": "1511180472407453702",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511180472407453702/pu/img/6xkD0av2PSY-bZHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511180472407453702/pu/img/6xkD0av2PSY-bZHB.jpg",
+					"url": "https://t.co/8jo2HwNCYh",
+					"display_url": "pic.twitter.com/8jo2HwNCYh",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511180512437895175/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29802,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511180472407453702/pu/vid/640x360/13rdCH3I_Za867dA.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511180472407453702/pu/vid/1280x720/p5Uj3p2g_l2RZVFh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511180472407453702/pu/pl/_w-HRUeo5-87O9Lj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511180472407453702/pu/vid/480x270/vgWXSrNgtAEE4qSb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40359,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n📍코엑스 미디어 타워\n📍파르나스 미디어 타워\n(~2022.4.14까지)\n\n#KwonJinAh #Pink #SillySillyLove\n#흘러가자 #Justlikethis https://t.co/8jo2HwNCYh"
+	},
+	{
+		"created_at": "Tue Apr 05 03:29:44 +0000 2022",
+		"id": 1511177607538421800,
+		"id_str": "1511184284467486722",
+		"full_text": "D-1\n우스운 슬픔을 담아, \n말리부에 오렌지를 타서 먹는 상상을.\n\n박소은 정규 2집 선공개 싱글\n「말리부오렌지」\n2022.04.06 12pm\n\n#박소은 #정규2집 #선공개싱글 #말리부오렌지 #4월6일 #정오 #발매 https://t.co/FxziFVWRYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "정규2집",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "선공개싱글",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "말리부오렌지",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "4월6일",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "정오",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						118,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511177567021453300,
+					"id_str": "1511177567021453312",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511177567021453312/pu/img/O3LAhbmT-YeRa9Ld.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511177567021453312/pu/img/O3LAhbmT-YeRa9Ld.jpg",
+					"url": "https://t.co/FxziFVWRYm",
+					"display_url": "pic.twitter.com/FxziFVWRYm",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1511177607538421761/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 998,
+							"h": 998,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 998,
+							"h": 998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511177567021453300,
+					"id_str": "1511177567021453312",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511177567021453312/pu/img/O3LAhbmT-YeRa9Ld.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511177567021453312/pu/img/O3LAhbmT-YeRa9Ld.jpg",
+					"url": "https://t.co/FxziFVWRYm",
+					"display_url": "pic.twitter.com/FxziFVWRYm",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1511177607538421761/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 998,
+							"h": 998,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 998,
+							"h": 998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11778,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511177567021453312/pu/pl/zS9_v8jniVI10xFV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511177567021453312/pu/vid/540x540/kP6UysoUOSbyRsMa.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511177567021453312/pu/vid/720x720/T-VZzpmYBxACBb-3.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511177567021453312/pu/vid/320x320/Cjf4_TDADkKsO5fo.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-1\n우스운 슬픔을 담아, \n말리부에 오렌지를 타서 먹는 상상을.\n\n박소은 정규 2집 선공개 싱글\n「말리부오렌지」\n2022.04.06 12pm\n\n#박소은 #정규2집 #선공개싱글 #말리부오렌지 #4월6일 #정오 #발매 https://t.co/FxziFVWRYm"
+	},
+	{
+		"created_at": "Tue Apr 05 03:29:36 +0000 2022",
+		"id": 1511176902861811700,
+		"id_str": "1511184250430701577",
+		"full_text": "[#곽진언]\n곽진언 미니앨범 '정릉' 발매 D-1🌸\n봄과 함께 찾아온 이번 주 활동 스케줄 안내드립니다!\n\n📆 more info ≫ https://t.co/vYhpuyHHah\n\n#곽진언 #KwakJineon\n#눈내리던날 #그대의것 #비밀 #202호\n#정릉 #미니앨범 #20220406_6PM https://t.co/lZN1ss1R2q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "눈내리던날",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "그대의것",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "비밀",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "202호",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "정릉",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "20220406_6PM",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vYhpuyHHah",
+					"expanded_url": "https://www.musicfarm.co.kr/schedule",
+					"display_url": "musicfarm.co.kr/schedule",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511176898101260300,
+					"id_str": "1511176898101260289",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FPjHYdwaMAET9Ym.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPjHYdwaMAET9Ym.jpg",
+					"url": "https://t.co/lZN1ss1R2q",
+					"display_url": "pic.twitter.com/lZN1ss1R2q",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1511176902861811713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511176898101260300,
+					"id_str": "1511176898101260289",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FPjHYdwaMAET9Ym.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPjHYdwaMAET9Ym.jpg",
+					"url": "https://t.co/lZN1ss1R2q",
+					"display_url": "pic.twitter.com/lZN1ss1R2q",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1511176902861811713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/vinfdGhQL0…",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vinfdGhQL0",
+							"expanded_url": "http://youtube.com/user/musicfarm",
+							"display_url": "youtube.com/user/musicfarm",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9054,
+			"friends_count": 4,
+			"listed_count": 104,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#곽진언]\n곽진언 미니앨범 '정릉' 발매 D-1🌸\n봄과 함께 찾아온 이번 주 활동 스케줄 안내드립니다!\n\n📆 more info ≫ https://t.co/vYhpuyHHah\n\n#곽진언 #KwakJineon\n#눈내리던날 #그대의것 #비밀 #202호\n#정릉 #미니앨범 #20220406_6PM https://t.co/lZN1ss1R2q"
+	},
+	{
+		"created_at": "Tue Apr 05 03:29:30 +0000 2022",
+		"id": 1511173689894613000,
+		"id_str": "1511184224711327744",
+		"full_text": "[NEWS] [영상 와이라노]그래요 난~ 난 꿈이 있어요\n\n👉 https://t.co/0ddes63coh \n\n#인순이 #INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #동명대학교 #THE_JUMP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "동명대학교",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "THE_JUMP",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0ddes63coh",
+					"expanded_url": "http://naver.me/FFn7bCbo",
+					"display_url": "naver.me/FFn7bCbo",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] [영상 와이라노]그래요 난~ 난 꿈이 있어요\n\n👉 https://t.co/0ddes63coh \n\n#인순이 #INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #동명대학교 #THE_JUMP"
+	},
+	{
 		"created_at": "Tue Apr 05 03:13:49 +0000 2022",
 		"id": 1511180278940639200,
 		"id_str": "1511180278940639232",
