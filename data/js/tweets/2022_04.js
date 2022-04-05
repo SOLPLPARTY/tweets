@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 09:29:41 +0000 2022",
+		"id": 1511269092850045000,
+		"id_str": "1511274870847545348",
+		"full_text": "[SURL | 발매 공지]\n\nSURL Single [Around] will be released on April 11, 6PM (KST)\nSURL 싱글 [한바퀴] 2022.04.11. 월요일 오후 6시 발매됩니다.\n\n#SURL #설 #밴드설 #說 #정규앨범선공개싱글 #한바퀴 https://t.co/qnTlfyh9yb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SURL",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						127,
+						129
+					]
+				},
+				{
+					"text": "밴드설",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "說",
+					"indices": [
+						135,
+						137
+					]
+				},
+				{
+					"text": "정규앨범선공개싱글",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "한바퀴",
+					"indices": [
+						149,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511269031680299000,
+					"id_str": "1511269031680299009",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FPkbLWFaUAEU9Bl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPkbLWFaUAEU9Bl.jpg",
+					"url": "https://t.co/qnTlfyh9yb",
+					"display_url": "pic.twitter.com/qnTlfyh9yb",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1511269092850044928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511269031680299000,
+					"id_str": "1511269031680299009",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FPkbLWFaUAEU9Bl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPkbLWFaUAEU9Bl.jpg",
+					"url": "https://t.co/qnTlfyh9yb",
+					"display_url": "pic.twitter.com/qnTlfyh9yb",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1511269092850044928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12991,
+			"friends_count": 1926,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SURL | 발매 공지]\n\nSURL Single [Around] will be released on April 11, 6PM (KST)\nSURL 싱글 [한바퀴] 2022.04.11. 월요일 오후 6시 발매됩니다.\n\n#SURL #설 #밴드설 #說 #정규앨범선공개싱글 #한바퀴 https://t.co/qnTlfyh9yb"
+	},
+	{
+		"created_at": "Tue Apr 05 09:29:32 +0000 2022",
+		"id": 1511267407003889700,
+		"id_str": "1511274832616435713",
+		"full_text": "[김우주]\n다가오는 4월 8일 오후 8시\n망원동 카페 '아이다호'에서 아티스트 '김우주'의 공연이 있습니다. \n많은 관심 부탁드립니다!\n\n✅ 공연 정보\n일시 : 2022년 4월 8일 금요일 오후 8시\n장소 : 아이다호 (마포구 망원동 338-79 2층)\n티켓 : 자율 모금 (현금/계좌이체 가능)\n\n#김우주 #공연 #인디 https://t.co/CMV26ncSY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511228857562845200,
+					"id_str": "1511228857562845187",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FPj2o51aUAM31vp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPj2o51aUAM31vp.jpg",
+					"url": "https://t.co/CMV26ncSY8",
+					"display_url": "pic.twitter.com/CMV26ncSY8",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1511267407003889669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511228857562845200,
+					"id_str": "1511228857562845187",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FPj2o51aUAM31vp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPj2o51aUAM31vp.jpg",
+					"url": "https://t.co/CMV26ncSY8",
+					"display_url": "pic.twitter.com/CMV26ncSY8",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1511267407003889669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 8,
+			"listed_count": 18,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n다가오는 4월 8일 오후 8시\n망원동 카페 '아이다호'에서 아티스트 '김우주'의 공연이 있습니다. \n많은 관심 부탁드립니다!\n\n✅ 공연 정보\n일시 : 2022년 4월 8일 금요일 오후 8시\n장소 : 아이다호 (마포구 망원동 338-79 2층)\n티켓 : 자율 모금 (현금/계좌이체 가능)\n\n#김우주 #공연 #인디 https://t.co/CMV26ncSY8"
+	},
+	{
 		"created_at": "Tue Apr 05 08:29:31 +0000 2022",
 		"id": 1511258587406139400,
 		"id_str": "1511259727099006977",
