@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 13:29:24 +0000 2022",
+		"id": 1511328943751966700,
+		"id_str": "1511335196410486789",
+		"full_text": "[#Video] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 ‘Pink!’ Official Lyric Video\nhttps://t.co/cVEfJQ5ZW9\n\n#KwonJinAh #Pink https://t.co/IYjrlgv9G2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "Pink",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cVEfJQ5ZW9",
+					"expanded_url": "https://youtu.be/zv5sMI3eyTI",
+					"display_url": "youtu.be/zv5sMI3eyTI",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511328847442382800,
+					"id_str": "1511328847442382851",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511328847442382851/pu/img/ACk6Qgsvo7I83Y-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511328847442382851/pu/img/ACk6Qgsvo7I83Y-_.jpg",
+					"url": "https://t.co/IYjrlgv9G2",
+					"display_url": "pic.twitter.com/IYjrlgv9G2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511328943751966722/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511328847442382800,
+					"id_str": "1511328847442382851",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511328847442382851/pu/img/ACk6Qgsvo7I83Y-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511328847442382851/pu/img/ACk6Qgsvo7I83Y-_.jpg",
+					"url": "https://t.co/IYjrlgv9G2",
+					"display_url": "pic.twitter.com/IYjrlgv9G2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511328943751966722/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511328847442382851/pu/vid/1280x720/Xho9GQZl-LIak5VZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511328847442382851/pu/vid/480x270/ysPC_ntY6u506llz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511328847442382851/pu/pl/KJZ7viR0CNgPjg-T.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511328847442382851/pu/vid/640x360/1MNNAPQPtb5f81wr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40352,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Video] #권진아\n\n권진아 DS 'Pink!'\nKwon Jin Ah DS 'Pink!'\n\n💞 ‘Pink!’ Official Lyric Video\nhttps://t.co/cVEfJQ5ZW9\n\n#KwonJinAh #Pink https://t.co/IYjrlgv9G2"
+	},
+	{
 		"created_at": "Tue Apr 05 12:29:24 +0000 2022",
 		"id": 1511305417422475300,
 		"id_str": "1511320097868156933",
