@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 12:29:24 +0000 2022",
+		"id": 1511305417422475300,
+		"id_str": "1511320097868156933",
+		"full_text": "🤯이번 #그래미 휩쓴🧹 그 노래 #라이브\n🔊#실크소닉 ✨𝑳𝒆𝒂𝒗𝒆 𝒕𝒉𝒆 𝑫𝒐𝒐𝒓 𝑶𝒑𝒆𝒏✨\n\n🎧음원듣기 https://t.co/MlSCAmy3MP https://t.co/WVoKLRcjuq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그래미",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "실크소닉",
+					"indices": [
+						24,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MlSCAmy3MP",
+					"expanded_url": "https://WMK.lnk.to/SilkSonic",
+					"display_url": "WMK.lnk.to/SilkSonic",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511305192087736300,
+					"id_str": "1511305192087736324",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511305192087736324/pu/img/FOpnD5hXQ0i6yAT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511305192087736324/pu/img/FOpnD5hXQ0i6yAT7.jpg",
+					"url": "https://t.co/WVoKLRcjuq",
+					"display_url": "pic.twitter.com/WVoKLRcjuq",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1511305417422475268/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511305192087736300,
+					"id_str": "1511305192087736324",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511305192087736324/pu/img/FOpnD5hXQ0i6yAT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511305192087736324/pu/img/FOpnD5hXQ0i6yAT7.jpg",
+					"url": "https://t.co/WVoKLRcjuq",
+					"display_url": "pic.twitter.com/WVoKLRcjuq",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1511305417422475268/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29446,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511305192087736324/pu/vid/720x720/QEUURkVfA4yLaKTw.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511305192087736324/pu/vid/320x320/JPNcbS-A_0BM_oRo.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511305192087736324/pu/pl/DXN6mh1AZuGjVBFp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511305192087736324/pu/vid/540x540/NuDPdZJ2im2wVNxu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56501,
+			"friends_count": 493,
+			"listed_count": 199,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🤯이번 #그래미 휩쓴🧹 그 노래 #라이브\n🔊#실크소닉 ✨𝑳𝒆𝒂𝒗𝒆 𝒕𝒉𝒆 𝑫𝒐𝒐𝒓 𝑶𝒑𝒆𝒏✨\n\n🎧음원듣기 https://t.co/MlSCAmy3MP https://t.co/WVoKLRcjuq"
+	},
+	{
 		"created_at": "Tue Apr 05 12:03:58 +0000 2022",
 		"id": 1511313696198328300,
 		"id_str": "1511313696198328320",
