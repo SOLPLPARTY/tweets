@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 04:29:25 +0000 2022",
+		"id": 1511557322207744000,
+		"id_str": "1511561690923646976",
+		"full_text": "TVXQ! 동방신기 'Hug' MV\n\nhttps://t.co/f6ZsiezE39\n\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#동방신기 #TVXQ! #東方神起\n#Hug https://t.co/wOhNfieWtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "Hug",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f6ZsiezE39",
+					"expanded_url": "https://youtu.be/xQ635vE2RQI",
+					"display_url": "youtu.be/xQ635vE2RQI",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511557292650508300,
+					"id_str": "1511557292650508292",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FPohWV4VsAQ1Gpw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPohWV4VsAQ1Gpw.jpg",
+					"url": "https://t.co/wOhNfieWtT",
+					"display_url": "pic.twitter.com/wOhNfieWtT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1511557322207744004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511557292650508300,
+					"id_str": "1511557292650508292",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FPohWV4VsAQ1Gpw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPohWV4VsAQ1Gpw.jpg",
+					"url": "https://t.co/wOhNfieWtT",
+					"display_url": "pic.twitter.com/wOhNfieWtT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1511557322207744004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10740184,
+			"friends_count": 56,
+			"listed_count": 12034,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2226,
+		"favorite_count": 3637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TVXQ! 동방신기 'Hug' MV\n\nhttps://t.co/f6ZsiezE39\n\n#SM_Remastering_Project #RemasterMV \n#리마스터링프로젝트\n#SMSTATION \n#동방신기 #TVXQ! #東方神起\n#Hug https://t.co/wOhNfieWtT"
+	},
+	{
 		"created_at": "Wed Apr 06 03:29:47 +0000 2022",
 		"id": 1511543712660484000,
 		"id_str": "1511546683468955649",
