@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 10:29:43 +0000 2022",
+		"id": 1511648073113833500,
+		"id_str": "1511652365237211138",
+		"full_text": "[#곽진언]\n곽진언의 '그대의 것' #MR은거들뿐 Live를\n1theK Original 채널에서 확인하세요🎤\n\n🔗 𝗙𝘂𝗹𝗹 𝗩𝗲𝗿. https://t.co/Ucg7dTZWOm\n\n#곽진언 #KwakJineon #정릉 #미니앨범\n#눈내리던날 #그대의것 #비밀 #202호",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "MR은거들뿐",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "정릉",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "눈내리던날",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "그대의것",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "비밀",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "202호",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ucg7dTZWOm",
+					"expanded_url": "https://youtu.be/vd7xWns4CvA",
+					"display_url": "youtu.be/vd7xWns4CvA",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/vinfdGhQL0…",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vinfdGhQL0",
+							"expanded_url": "http://youtube.com/user/musicfarm",
+							"display_url": "youtube.com/user/musicfarm",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9056,
+			"friends_count": 4,
+			"listed_count": 104,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#곽진언]\n곽진언의 '그대의 것' #MR은거들뿐 Live를\n1theK Original 채널에서 확인하세요🎤\n\n🔗 𝗙𝘂𝗹𝗹 𝗩𝗲𝗿. https://t.co/Ucg7dTZWOm\n\n#곽진언 #KwakJineon #정릉 #미니앨범\n#눈내리던날 #그대의것 #비밀 #202호"
+	},
+	{
+		"created_at": "Wed Apr 06 10:29:41 +0000 2022",
+		"id": 1511646187212124200,
+		"id_str": "1511652356340998145",
+		"full_text": "▪️예매처 : 인터파크 티켓\n▪️티켓 오픈 일정\n💛4/12 (화) 10:00 ~ 4/13 (수) 23:59(KST) 팬클럽 인증\n💚4/14 (목) 10:00 ~ 4/15 (금) 23:59(KST) 팬클럽 선예매\n💙4/18 (월) 20:00(KST) 일반예매\n\n#JungSeungHwan #US \n#LET_US_MEET #팬미팅",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						145,
+						159
+					]
+				},
+				{
+					"text": "US",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "LET_US_MEET",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "팬미팅",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1511646093662384000,
+		"in_reply_to_status_id_str": "1511646093662384129",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40357,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪️예매처 : 인터파크 티켓\n▪️티켓 오픈 일정\n💛4/12 (화) 10:00 ~ 4/13 (수) 23:59(KST) 팬클럽 인증\n💚4/14 (목) 10:00 ~ 4/15 (금) 23:59(KST) 팬클럽 선예매\n💙4/18 (월) 20:00(KST) 일반예매\n\n#JungSeungHwan #US \n#LET_US_MEET #팬미팅"
+	},
+	{
+		"created_at": "Wed Apr 06 10:29:38 +0000 2022",
+		"id": 1511646093662384000,
+		"id_str": "1511652343288324100",
+		"full_text": "[#Video] #정승환\n\n정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’ Teaser💛💚💙\n\nJUNG SEUNG HWAN OFFICIAL FAN CLUB ‘US’ 2ND FAN MEETING ‘LET US MEET’ Teaser💛💚💙\n\n🔗 https://t.co/lgipxQwL42\n\n▪️일시 : 22.05.07. (토) 18:00\n▪️장소 : 코엑스 아티움\n▪️예매처 : 인터파크 티켓 https://t.co/t73VTMzoZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lgipxQwL42",
+					"expanded_url": "https://youtu.be/0mc2jR0Qq18",
+					"display_url": "youtu.be/0mc2jR0Qq18",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511638602425716700,
+					"id_str": "1511638602425716736",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpvZF4acAA0Dhn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpvZF4acAA0Dhn.jpg",
+					"url": "https://t.co/t73VTMzoZF",
+					"display_url": "pic.twitter.com/t73VTMzoZF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511646093662384129/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511638602425716700,
+					"id_str": "1511638602425716736",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpvZF4acAA0Dhn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpvZF4acAA0Dhn.jpg",
+					"url": "https://t.co/t73VTMzoZF",
+					"display_url": "pic.twitter.com/t73VTMzoZF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511646093662384129/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48149,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511638602425716736/vid/480x270/fqQuBVops0qqonBi.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511638602425716736/vid/640x360/IqeWUYQTjY4_lR3v.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1511638602425716736/pl/_s5FIxB8whB0ZU2t.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1511638602425716736/vid/1280x720/mwAf9ZBNQCmxHAYt.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’ Teaser💛💚💙",
+						"description": "▪️일시 : 22.05.07. (토) 18:00\n▪️장소 : 코엑스 아티움\n▪️예매처 : 인터파크 티켓",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/0mc2jR0Qq18"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40357,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\n정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’ Teaser💛💚💙\n\nJUNG SEUNG HWAN OFFICIAL FAN CLUB ‘US’ 2ND FAN MEETING ‘LET US MEET’ Teaser💛💚💙\n\n🔗 https://t.co/lgipxQwL42\n\n▪️일시 : 22.05.07. (토) 18:00\n▪️장소 : 코엑스 아티움\n▪️예매처 : 인터파크 티켓 https://t.co/t73VTMzoZF"
+	},
+	{
+		"created_at": "Wed Apr 06 10:29:34 +0000 2022",
+		"id": 1511641933214408700,
+		"id_str": "1511652326079090689",
+		"full_text": "곽진언 - 미니앨범 [정릉]\n\n1. 눈 내리던 날\n2. 그대의 것 (*title)\n3. 비밀\n4. 202호\n\nMelon • https://t.co/aioccvmtx2\nGenie • https://t.co/NYrgM18hBn\nBugs • https://t.co/TmPIDJiVvd\nFLO • https://t.co/Rf7YeY9GhD\nVIBE • https://t.co/kHfMEbHTUE\n\n#곽진언 #KwakJineon #미니앨범 #정릉 https://t.co/VnyonYzONq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						223,
+						234
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "정릉",
+					"indices": [
+						241,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aioccvmtx2",
+					"expanded_url": "https://bit.ly/3j7Px4y",
+					"display_url": "bit.ly/3j7Px4y",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/NYrgM18hBn",
+					"expanded_url": "https://bit.ly/3ucnkQk",
+					"display_url": "bit.ly/3ucnkQk",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/TmPIDJiVvd",
+					"expanded_url": "https://bit.ly/36WyNe9",
+					"display_url": "bit.ly/36WyNe9",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/Rf7YeY9GhD",
+					"expanded_url": "https://bit.ly/3xdwQF3",
+					"display_url": "bit.ly/3xdwQF3",
+					"indices": [
+						162,
+						185
+					]
+				},
+				{
+					"url": "https://t.co/kHfMEbHTUE",
+					"expanded_url": "https://bit.ly/3r8rXct",
+					"display_url": "bit.ly/3r8rXct",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511641028289130500,
+					"id_str": "1511641028289130496",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FPptgZcUcAAuqXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPptgZcUcAAuqXP.jpg",
+					"url": "https://t.co/VnyonYzONq",
+					"display_url": "pic.twitter.com/VnyonYzONq",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1511641933214408710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511641028289130500,
+					"id_str": "1511641028289130496",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FPptgZcUcAAuqXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPptgZcUcAAuqXP.jpg",
+					"url": "https://t.co/VnyonYzONq",
+					"display_url": "pic.twitter.com/VnyonYzONq",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1511641933214408710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1511630611731325000,
+		"in_reply_to_status_id_str": "1511630611731324933",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/vinfdGhQL0…",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vinfdGhQL0",
+							"expanded_url": "http://youtube.com/user/musicfarm",
+							"display_url": "youtube.com/user/musicfarm",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9056,
+			"friends_count": 4,
+			"listed_count": 104,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "곽진언 - 미니앨범 [정릉]\n\n1. 눈 내리던 날\n2. 그대의 것 (*title)\n3. 비밀\n4. 202호\n\nMelon • https://t.co/aioccvmtx2\nGenie • https://t.co/NYrgM18hBn\nBugs • https://t.co/TmPIDJiVvd\nFLO • https://t.co/Rf7YeY9GhD\nVIBE • https://t.co/kHfMEbHTUE\n\n#곽진언 #KwakJineon #미니앨범 #정릉 https://t.co/VnyonYzONq"
+	},
+	{
 		"created_at": "Wed Apr 06 09:38:50 +0000 2022",
 		"id": 1511639558957412400,
 		"id_str": "1511639558957412357",
