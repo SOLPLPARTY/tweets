@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 11:29:28 +0000 2022",
+		"id": 1511662290319585300,
+		"id_str": "1511667400793591817",
+		"full_text": "🪴&lt;오늘도 삽질2&gt; 1삽\nhttps://t.co/SspbGAp7lo\n\n@le_petit_piano @pptnznoshel \n#페퍼톤스 #Peppertones\n#오늘도삽질 #스튜디오훜 https://t.co/Fk6Js6h3T7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "오늘도삽질",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "스튜디오훜",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SspbGAp7lo",
+					"expanded_url": "https://youtu.be/el5ReXXeq0g",
+					"display_url": "youtu.be/el5ReXXeq0g",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511662248896643000,
+					"id_str": "1511662248896643076",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511662248896643076/pu/img/_kvyAMkKsiPo7ghm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511662248896643076/pu/img/_kvyAMkKsiPo7ghm.jpg",
+					"url": "https://t.co/Fk6Js6h3T7",
+					"display_url": "pic.twitter.com/Fk6Js6h3T7",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511662290319585280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511662248896643000,
+					"id_str": "1511662248896643076",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1511662248896643076/pu/img/_kvyAMkKsiPo7ghm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1511662248896643076/pu/img/_kvyAMkKsiPo7ghm.jpg",
+					"url": "https://t.co/Fk6Js6h3T7",
+					"display_url": "pic.twitter.com/Fk6Js6h3T7",
+					"expanded_url": "https://twitter.com/antennamusic/status/1511662290319585280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10403,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511662248896643076/pu/vid/1280x720/dWeBdk715JYGltvz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511662248896643076/pu/pl/oodkDT_cqOIUi_Vp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511662248896643076/pu/vid/480x270/jOyR3xQLdHGZhX_8.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511662248896643076/pu/vid/640x360/cl5fel5xZsVJ52tx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1511661989042749400,
+		"in_reply_to_status_id_str": "1511661989042749445",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40358,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🪴&lt;오늘도 삽질2&gt; 1삽\nhttps://t.co/SspbGAp7lo\n\n@le_petit_piano @pptnznoshel \n#페퍼톤스 #Peppertones\n#오늘도삽질 #스튜디오훜 https://t.co/Fk6Js6h3T7"
+	},
+	{
 		"created_at": "Wed Apr 06 10:29:43 +0000 2022",
 		"id": 1511648073113833500,
 		"id_str": "1511652365237211138",
