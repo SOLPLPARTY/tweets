@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 09:11:17 +0000 2022",
+		"id": 1511977080229089300,
+		"id_str": "1511995012342550532",
+		"full_text": "N.Flying 소극장 콘서트 : 우만합\n팬클럽 선예매가 곧 시작됩니다!\n\n✅ 3개지역 각각 팬클럽 인증 필요\n✅ 전 지역 금요일 회차만 선예매 가능\n✅ 일반예매는 내일(4/8) 8PM\n\nhttps://t.co/UsQKxpFVYZ\n\n#NFlying #엔플라잉 #상상마당 #우만합 https://t.co/l4XrOFRFvB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NFlying",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "엔플라잉",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "우만합",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UsQKxpFVYZ",
+					"expanded_url": "https://ticket.melon.com/performance/bridge.htm?brgId=100317",
+					"display_url": "ticket.melon.com/performance/br…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511626296014819300,
+					"id_str": "1511626296014819330",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpgG3caUAIDPvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpgG3caUAIDPvp.jpg",
+					"url": "https://t.co/l4XrOFRFvB",
+					"display_url": "pic.twitter.com/l4XrOFRFvB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1511977080229089282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511626296014819300,
+					"id_str": "1511626296014819330",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpgG3caUAIDPvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpgG3caUAIDPvp.jpg",
+					"url": "https://t.co/l4XrOFRFvB",
+					"display_url": "pic.twitter.com/l4XrOFRFvB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1511977080229089282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511626295993827300,
+					"id_str": "1511626295993827332",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpgG3XaAAQMhLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpgG3XaAAQMhLy.jpg",
+					"url": "https://t.co/l4XrOFRFvB",
+					"display_url": "pic.twitter.com/l4XrOFRFvB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1511977080229089282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511626296014811100,
+					"id_str": "1511626296014811141",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpgG3caMAUGlcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpgG3caMAUGlcd.jpg",
+					"url": "https://t.co/l4XrOFRFvB",
+					"display_url": "pic.twitter.com/l4XrOFRFvB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1511977080229089282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17688,
+			"friends_count": 1858,
+			"listed_count": 288,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "N.Flying 소극장 콘서트 : 우만합\n팬클럽 선예매가 곧 시작됩니다!\n\n✅ 3개지역 각각 팬클럽 인증 필요\n✅ 전 지역 금요일 회차만 선예매 가능\n✅ 일반예매는 내일(4/8) 8PM\n\nhttps://t.co/UsQKxpFVYZ\n\n#NFlying #엔플라잉 #상상마당 #우만합 https://t.co/l4XrOFRFvB"
+	},
+	{
 		"created_at": "Thu Apr 07 06:58:18 +0000 2022",
 		"id": 1511958222261067800,
 		"id_str": "1511961545785462784",
