@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 14:58:18 +0000 2022",
+		"id": 1512069987632320500,
+		"id_str": "1512082343430746129",
+		"full_text": "[🕘︎ time table]\n2022.04.09 NAVER NOW LIVE STREAM\n\n🔊 21:00-21:30 alex bunny @ynnubxela \n🔊 21:30-22:00 yunji @yunjiofficial\n🔊 22:00-22:30 SORIN @sorinies \n\n📺 Episode 46 슬픔의 케이팝 텔레비전 1탄\n🥺 4월 2일 토요일 저녁 9시 네이버 NOW에서!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ynnubxela",
+					"name": "alexx🥇",
+					"id": 2881024500,
+					"id_str": "2881024500",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "yunjiofficial",
+					"name": "yunji",
+					"id": 720350573833228300,
+					"id_str": "720350573833228288",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "sorinies",
+					"name": "SORIN",
+					"id": 8287752,
+					"id_str": "8287752",
+					"indices": [
+						142,
+						151
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1512068831019438000,
+		"in_reply_to_status_id_str": "1512068831019438081",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7664,
+			"friends_count": 43,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🕘︎ time table]\n2022.04.09 NAVER NOW LIVE STREAM\n\n🔊 21:00-21:30 alex bunny @ynnubxela \n🔊 21:30-22:00 yunji @yunjiofficial\n🔊 22:00-22:30 SORIN @sorinies \n\n📺 Episode 46 슬픔의 케이팝 텔레비전 1탄\n🥺 4월 2일 토요일 저녁 9시 네이버 NOW에서!"
+	},
+	{
+		"created_at": "Thu Apr 07 14:58:15 +0000 2022",
+		"id": 1512068831019438000,
+		"id_str": "1512082330046787587",
+		"full_text": "슬픔의케이팝파티 Episode.46\n슬케파 고별방송 특집 1탄!\n&lt;슬픔의 케이팝 텔레비전&gt; ①\n\n파티가 끝나고 헛헛한 마음에 TV를 켰는데 엥? 세상이 케이팝이 됐어! alex bunny, yunji, SORIN이 프로듀싱한 케이팝 컨텐츠를 보러오세요!\n\n4월 9일 토요일 밤 9시 모두의 케이팝 티비\nhttps://t.co/34S2C5GwNK https://t.co/LJtgwjiJmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5GwNK",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512068823838785500,
+					"id_str": "1512068823838785538",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FPvylYDagAINd2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPvylYDagAINd2U.jpg",
+					"url": "https://t.co/LJtgwjiJmg",
+					"display_url": "pic.twitter.com/LJtgwjiJmg",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1512068831019438081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512068823838785500,
+					"id_str": "1512068823838785538",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FPvylYDagAINd2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPvylYDagAINd2U.jpg",
+					"url": "https://t.co/LJtgwjiJmg",
+					"display_url": "pic.twitter.com/LJtgwjiJmg",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1512068831019438081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7664,
+			"friends_count": 43,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 Episode.46\n슬케파 고별방송 특집 1탄!\n&lt;슬픔의 케이팝 텔레비전&gt; ①\n\n파티가 끝나고 헛헛한 마음에 TV를 켰는데 엥? 세상이 케이팝이 됐어! alex bunny, yunji, SORIN이 프로듀싱한 케이팝 컨텐츠를 보러오세요!\n\n4월 9일 토요일 밤 9시 모두의 케이팝 티비\nhttps://t.co/34S2C5GwNK https://t.co/LJtgwjiJmg"
+	},
+	{
 		"created_at": "Thu Apr 07 13:29:35 +0000 2022",
 		"id": 1512056342831562800,
 		"id_str": "1512060017037524996",
