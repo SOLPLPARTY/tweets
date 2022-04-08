@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 22:58:15 +0000 2022",
+		"id": 1512550859464331300,
+		"id_str": "1512565513850916870",
+		"full_text": "KCON 2022 Premiere in Chicago\n📢 TICKET SALES OPEN D-7\n🗓️ April 15, 5PM (CDT)\n\nGet the quickest updates on KCON 2022 Premier Chicago performance on @kconusa ! \n\n🔗https://t.co/r0kTatyTP7\n\n#KCON2022Premiere #KCON #Chicago https://t.co/3PwYAGyrUb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						186,
+						203
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "Chicago",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kconusa",
+					"name": "KCONUSA",
+					"id": 739451875,
+					"id_str": "739451875",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r0kTatyTP7",
+					"expanded_url": "http://ticketmaster.com",
+					"display_url": "ticketmaster.com",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512357783567421400,
+					"id_str": "1512357783567421440",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FPz5ZC7VUAAbun4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPz5ZC7VUAAbun4.jpg",
+					"url": "https://t.co/3PwYAGyrUb",
+					"display_url": "pic.twitter.com/3PwYAGyrUb",
+					"expanded_url": "https://twitter.com/KCON_official/status/1512550859464331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512357783567421400,
+					"id_str": "1512357783567421440",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FPz5ZC7VUAAbun4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPz5ZC7VUAAbun4.jpg",
+					"url": "https://t.co/3PwYAGyrUb",
+					"display_url": "pic.twitter.com/3PwYAGyrUb",
+					"expanded_url": "https://twitter.com/KCON_official/status/1512550859464331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512357725589553200,
+					"id_str": "1512357725589553152",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FPz5Vq8VQAAj2mY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPz5Vq8VQAAj2mY.jpg",
+					"url": "https://t.co/3PwYAGyrUb",
+					"display_url": "pic.twitter.com/3PwYAGyrUb",
+					"expanded_url": "https://twitter.com/KCON_official/status/1512550859464331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512357725589569500,
+					"id_str": "1512357725589569541",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FPz5Vq8VgAUOQXD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPz5Vq8VgAUOQXD.jpg",
+					"url": "https://t.co/3PwYAGyrUb",
+					"display_url": "pic.twitter.com/3PwYAGyrUb",
+					"expanded_url": "https://twitter.com/KCON_official/status/1512550859464331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433417,
+			"friends_count": 76,
+			"listed_count": 1066,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1647473526",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 Premiere in Chicago\n📢 TICKET SALES OPEN D-7\n🗓️ April 15, 5PM (CDT)\n\nGet the quickest updates on KCON 2022 Premier Chicago performance on @kconusa ! \n\n🔗https://t.co/r0kTatyTP7\n\n#KCON2022Premiere #KCON #Chicago https://t.co/3PwYAGyrUb"
+	},
+	{
 		"created_at": "Fri Apr 08 19:11:17 +0000 2022",
 		"id": 1512505651926343700,
 		"id_str": "1512508395588395015",
