@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 11:11:16 +0000 2022",
+		"id": 1512384896584806400,
+		"id_str": "1512387598639157250",
+		"full_text": "[곽푸른하늘 2022 단독공연]\n\n• 일시 : 2022년 4월 29일 (금) 오후 8시\n• 장소 : (서울 마포구 잔다리로 32 서문빌딩 지하1층)\n• 러닝타임 : 90분\n• 티켓 : 전석 55,000원\n• 티켓오픈 : 2022년 4월 11일 (월) 오후 8시 멜론티켓 / https://t.co/3uEk56QEdK\n• 주최/주관 씨티알싸운드 https://t.co/RJXVYH3oyF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3uEk56QEdK",
+					"expanded_url": "http://ticket.melon.com",
+					"display_url": "ticket.melon.com",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512384889634816000,
+					"id_str": "1512384889634816005",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0SC05aAAUOCQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0SC05aAAUOCQR.jpg",
+					"url": "https://t.co/RJXVYH3oyF",
+					"display_url": "pic.twitter.com/RJXVYH3oyF",
+					"expanded_url": "https://twitter.com/ctrsound/status/1512384896584806401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512384889634816000,
+					"id_str": "1512384889634816005",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0SC05aAAUOCQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0SC05aAAUOCQR.jpg",
+					"url": "https://t.co/RJXVYH3oyF",
+					"display_url": "pic.twitter.com/RJXVYH3oyF",
+					"expanded_url": "https://twitter.com/ctrsound/status/1512384896584806401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 193,
+			"listed_count": 0,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[곽푸른하늘 2022 단독공연]\n\n• 일시 : 2022년 4월 29일 (금) 오후 8시\n• 장소 : (서울 마포구 잔다리로 32 서문빌딩 지하1층)\n• 러닝타임 : 90분\n• 티켓 : 전석 55,000원\n• 티켓오픈 : 2022년 4월 11일 (월) 오후 8시 멜론티켓 / https://t.co/3uEk56QEdK\n• 주최/주관 씨티알싸운드 https://t.co/RJXVYH3oyF"
+	},
+	{
+		"created_at": "Fri Apr 08 10:29:33 +0000 2022",
+		"id": 1512370691785781200,
+		"id_str": "1512377096877887491",
+		"full_text": "[#Video] #권진아\n⠀\n권진아가 출연한 ‘리벌스트랙2’ 두 번째 편이 공개되었습니다. 지금 유튜브 ‘studio Grr’ 채널에서 만나보실 수 있습니다💞\n\n🔗https://t.co/KTNCqEQ6OH\n⠀\n#KwonJinAh\n#studioGrr #리벌스트랙 https://t.co/CCSKyy5jsL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "studioGrr",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "리벌스트랙",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KTNCqEQ6OH",
+					"expanded_url": "https://youtu.be/kILOzsScgq0",
+					"display_url": "youtu.be/kILOzsScgq0",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512370683040649200,
+					"id_str": "1512370683040649219",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0FH5NaUAMIH-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0FH5NaUAMIH-F.jpg",
+					"url": "https://t.co/CCSKyy5jsL",
+					"display_url": "pic.twitter.com/CCSKyy5jsL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1512370691785781249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512370683040649200,
+					"id_str": "1512370683040649219",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0FH5NaUAMIH-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0FH5NaUAMIH-F.jpg",
+					"url": "https://t.co/CCSKyy5jsL",
+					"display_url": "pic.twitter.com/CCSKyy5jsL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1512370691785781249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40367,
+			"friends_count": 10,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #권진아\n⠀\n권진아가 출연한 ‘리벌스트랙2’ 두 번째 편이 공개되었습니다. 지금 유튜브 ‘studio Grr’ 채널에서 만나보실 수 있습니다💞\n\n🔗https://t.co/KTNCqEQ6OH\n⠀\n#KwonJinAh\n#studioGrr #리벌스트랙 https://t.co/CCSKyy5jsL"
+	},
+	{
+		"created_at": "Fri Apr 08 10:29:30 +0000 2022",
+		"id": 1512368075324027000,
+		"id_str": "1512377083829313540",
+		"full_text": "장기가 아래 달린 사람인 장기하님이 진용진님을 만나 종일 신세한탄만 하다 왔습니다. \n\n풀버전은 &lt;터키즈온더블럭&gt; 유튜브 채널에서 확인하실 수 있습니다.\n\nhttps://t.co/TVR7nBz8U9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TVR7nBz8U9",
+					"expanded_url": "https://youtu.be/yCRKYU4sNPw",
+					"display_url": "youtu.be/yCRKYU4sNPw",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4044,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기가 아래 달린 사람인 장기하님이 진용진님을 만나 종일 신세한탄만 하다 왔습니다. \n\n풀버전은 &lt;터키즈온더블럭&gt; 유튜브 채널에서 확인하실 수 있습니다.\n\nhttps://t.co/TVR7nBz8U9"
+	},
+	{
 		"created_at": "Fri Apr 08 09:35:05 +0000 2022",
 		"id": 1512363391351808000,
 		"id_str": "1512363391351808003",
