@@ -1,6 +1,812 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 04:11:16 +0000 2022",
+		"id": 1512263972556140500,
+		"id_str": "1512281901918261254",
+		"full_text": "&lt;H a lot &amp; Lacuna : 롤링 27주년 기념 공연&gt;\n\n· 일시 : 2022년 05월 05일 (목) 오후 5시\n· 장소 : 롤링홀\n· 출연 : H a lot(에이치얼랏), Lacuna(라쿠나)\n· 예매 : 멜론티켓 2022년 04월 15일 (금) 오후 8시 예매오픈\n\nDesign by 오이웍스\n\n#HaLot #에이치얼랏 #Lacuna #라쿠나\n#롤링홀 #롤링27주년 https://t.co/AlRjdGYEEU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HaLot",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "에이치얼랏",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "Lacuna",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "라쿠나",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						208,
+						212
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						213,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511599523625603000,
+					"id_str": "1511599523625603076",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpHwghakAQbtK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpHwghakAQbtK8.jpg",
+					"url": "https://t.co/AlRjdGYEEU",
+					"display_url": "pic.twitter.com/AlRjdGYEEU",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1512263972556140544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511599523625603000,
+					"id_str": "1511599523625603076",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpHwghakAQbtK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPpHwghakAQbtK8.jpg",
+					"url": "https://t.co/AlRjdGYEEU",
+					"display_url": "pic.twitter.com/AlRjdGYEEU",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1512263972556140544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;H a lot &amp; Lacuna : 롤링 27주년 기념 공연&gt;\n\n· 일시 : 2022년 05월 05일 (목) 오후 5시\n· 장소 : 롤링홀\n· 출연 : H a lot(에이치얼랏), Lacuna(라쿠나)\n· 예매 : 멜론티켓 2022년 04월 15일 (금) 오후 8시 예매오픈\n\nDesign by 오이웍스\n\n#HaLot #에이치얼랏 #Lacuna #라쿠나\n#롤링홀 #롤링27주년 https://t.co/AlRjdGYEEU"
+	},
+	{
+		"created_at": "Fri Apr 08 03:29:52 +0000 2022",
+		"id": 1512267809388392400,
+		"id_str": "1512271480977080321",
+		"full_text": "“타지 생활, 사회 생활을 하다 보면 나의 이상과 현실의 괴리감을 적잖이 느낄 수 있죠, 그 괴리감에서 오는 허전함을 같이 달래 보면 좋을 것 같아 준비했습니다, 슬픔을 함께 덜어내보아요.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1512267784629403600,
+		"in_reply_to_status_id_str": "1512267784629403649",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“타지 생활, 사회 생활을 하다 보면 나의 이상과 현실의 괴리감을 적잖이 느낄 수 있죠, 그 괴리감에서 오는 허전함을 같이 달래 보면 좋을 것 같아 준비했습니다, 슬픔을 함께 덜어내보아요.”"
+	},
+	{
+		"created_at": "Fri Apr 08 03:29:44 +0000 2022",
+		"id": 1512267784629403600,
+		"id_str": "1512271446944501760",
+		"full_text": "📻벅스 뮤직캐스트 @ BOUT : @ 박소은 \n\n벅스 뮤직캐스트 @ BOUT (어바웃) 박소은 편이 공개되었습니다. 지금 바로 벅스에서 청취해보세요! \n\n🔗https://t.co/DNrZpQTdMp\n\n* 벅스 이용권이 없어도 청취 가능합니다!\n\n#박소은 #말리부오렌지 #벅스라디오 #벅스뮤직캐스트 #어바웃 #청취 #라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "말리부오렌지",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "벅스라디오",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "벅스뮤직캐스트",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "어바웃",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "청취",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DNrZpQTdMp",
+					"expanded_url": "https://c11.kr/ye78",
+					"display_url": "c11.kr/ye78",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📻벅스 뮤직캐스트 @ BOUT : @ 박소은 \n\n벅스 뮤직캐스트 @ BOUT (어바웃) 박소은 편이 공개되었습니다. 지금 바로 벅스에서 청취해보세요! \n\n🔗https://t.co/DNrZpQTdMp\n\n* 벅스 이용권이 없어도 청취 가능합니다!\n\n#박소은 #말리부오렌지 #벅스라디오 #벅스뮤직캐스트 #어바웃 #청취 #라디오"
+	},
+	{
+		"created_at": "Fri Apr 08 03:29:36 +0000 2022",
+		"id": 1512265454609637400,
+		"id_str": "1512271412962205701",
+		"full_text": "오씰(OSCiiL), 달지 - 살금살금 https://t.co/iXwv3JtHyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iXwv3JtHyX",
+					"expanded_url": "http://blog.naver.com/chili7272/222695079449",
+					"display_url": "blog.naver.com/chili7272/2226…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2086,
+			"friends_count": 2345,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오씰(OSCiiL), 달지 - 살금살금 https://t.co/iXwv3JtHyX"
+	},
+	{
+		"created_at": "Fri Apr 08 03:29:34 +0000 2022",
+		"id": 1512263968651243500,
+		"id_str": "1512271404078702596",
+		"full_text": "🎼 하루 끝 감성 라이브, &lt;LISTEN STAGE&gt; 4월의 라인업을 공개합니다\n\n4월 20일(WED) daybreak (LEE WONSEOK), LUCY (CHOI SANGYEOP, SHIN GWANGIL)\n\n*미스틱스토리 공식 유튜브 채널에서 저녁 7시 30분부터 스트리밍으로 보실 수 있습니다.\n\n#LISTENSTAGE #리슨스테이지 #LUCY #루시 #최상엽 #신광일 https://t.co/LnPxH1Eyop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISTENSTAGE",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"text": "리슨스테이지",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "최상엽",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "신광일",
+					"indices": [
+						211,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512097640733118500,
+					"id_str": "1512097640733118464",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwMyvWakAAkFjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwMyvWakAAkFjf.jpg",
+					"url": "https://t.co/LnPxH1Eyop",
+					"display_url": "pic.twitter.com/LnPxH1Eyop",
+					"expanded_url": "https://twitter.com/themysticstory/status/1512263968651243520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512097640733118500,
+					"id_str": "1512097640733118464",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FPwMyvWakAAkFjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPwMyvWakAAkFjf.jpg",
+					"url": "https://t.co/LnPxH1Eyop",
+					"display_url": "pic.twitter.com/LnPxH1Eyop",
+					"expanded_url": "https://twitter.com/themysticstory/status/1512263968651243520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34764,
+			"friends_count": 15,
+			"listed_count": 283,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1649236388",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎼 하루 끝 감성 라이브, &lt;LISTEN STAGE&gt; 4월의 라인업을 공개합니다\n\n4월 20일(WED) daybreak (LEE WONSEOK), LUCY (CHOI SANGYEOP, SHIN GWANGIL)\n\n*미스틱스토리 공식 유튜브 채널에서 저녁 7시 30분부터 스트리밍으로 보실 수 있습니다.\n\n#LISTENSTAGE #리슨스테이지 #LUCY #루시 #최상엽 #신광일 https://t.co/LnPxH1Eyop"
+	},
+	{
 		"created_at": "Fri Apr 08 03:10:06 +0000 2022",
 		"id": 1512266506146623500,
 		"id_str": "1512266506146623493",
