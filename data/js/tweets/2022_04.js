@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 01:29:25 +0000 2022",
+		"id": 1512237053014343700,
+		"id_str": "1512241167500550153",
+		"full_text": "유대리도 아침부터 메일받고 무한 반복 중인 칼!\n\n왜 난 못받았나 자책말고 신청하자 샤리레터 https://t.co/O4MLDAEMr6 https://t.co/GERZzGi6t9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O4MLDAEMr6",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSeTWv2tKeU1BGlevIJ0ClaxS4DSEHtnFoF7SXdBmoSOxT_ztQ/viewform",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/GERZzGi6t9",
+					"expanded_url": "https://twitter.com/aprilsour/status/1512234207460102150",
+					"display_url": "twitter.com/aprilsour/stat…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 22,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1512234207460102100,
+		"quoted_status_id_str": "1512234207460102150",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GERZzGi6t9",
+			"expanded": "https://twitter.com/aprilsour/status/1512234207460102150",
+			"display": "twitter.com/aprilsour/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 08 01:01:45 +0000 2022",
+			"id": 1512234207460102100,
+			"id_str": "1512234207460102150",
+			"full_text": "두번째 메일 잘 도착했나요? 이번 메일에는 프라이빗 링크로 음악을 하나 보냈습니다. 즐겁게 들어주세요💌 https://t.co/BpAiwxX71N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1512234192335417300,
+						"id_str": "1512234192335417344",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyI_FtaMAAr6fu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyI_FtaMAAr6fu.jpg",
+						"url": "https://t.co/BpAiwxX71N",
+						"display_url": "pic.twitter.com/BpAiwxX71N",
+						"expanded_url": "https://twitter.com/aprilsour/status/1512234207460102150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 874,
+								"h": 875,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 875,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1512234192335417300,
+						"id_str": "1512234192335417344",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyI_FtaMAAr6fu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyI_FtaMAAr6fu.jpg",
+						"url": "https://t.co/BpAiwxX71N",
+						"display_url": "pic.twitter.com/BpAiwxX71N",
+						"expanded_url": "https://twitter.com/aprilsour/status/1512234207460102150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 874,
+								"h": 875,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 875,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1512234192318656500,
+						"id_str": "1512234192318656514",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyI_FpacAIGVsG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyI_FpacAIGVsG.jpg",
+						"url": "https://t.co/BpAiwxX71N",
+						"display_url": "pic.twitter.com/BpAiwxX71N",
+						"expanded_url": "https://twitter.com/aprilsour/status/1512234207460102150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 743,
+								"h": 743,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 743,
+								"h": 743,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1512234192348024800,
+						"id_str": "1512234192348024833",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyI_FwakAESx6N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyI_FwakAESx6N.jpg",
+						"url": "https://t.co/BpAiwxX71N",
+						"display_url": "pic.twitter.com/BpAiwxX71N",
+						"expanded_url": "https://twitter.com/aprilsour/status/1512234207460102150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568866057,
+				"id_str": "568866057",
+				"name": "김사월",
+				"screen_name": "aprilsour",
+				"location": "",
+				"description": "Kim Sawol🎸 문의 : nina@yoursummer.net",
+				"url": "https://t.co/4kFOcrfv18",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4kFOcrfv18",
+								"expanded_url": "https://linktr.ee/kimsawol",
+								"display_url": "linktr.ee/kimsawol",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15865,
+				"friends_count": 896,
+				"listed_count": 61,
+				"created_at": "Wed May 02 04:12:49 +0000 2012",
+				"favourites_count": 11929,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15764,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1508734068136972290/nsxu7GGX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508734068136972290/nsxu7GGX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1648545136",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유대리도 아침부터 메일받고 무한 반복 중인 칼!\n\n왜 난 못받았나 자책말고 신청하자 샤리레터 https://t.co/O4MLDAEMr6 https://t.co/GERZzGi6t9"
+	},
+	{
 		"created_at": "Fri Apr 08 01:11:17 +0000 2022",
 		"id": 1512233765703233500,
 		"id_str": "1512236604802445348",
