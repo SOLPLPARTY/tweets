@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 07:11:17 +0000 2022",
+		"id": 1512312247208489000,
+		"id_str": "1512327200867033090",
+		"full_text": "[지고 Solo Show @ 재미공작소] 2022.04.29(금) PM 7:30 https://t.co/DxfFloRfCi https://t.co/G6dv8nhkYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DxfFloRfCi",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222695235919",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512312240975716400,
+					"id_str": "1512312240975716359",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FPzP-HjVIAcLNrJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPzP-HjVIAcLNrJ.jpg",
+					"url": "https://t.co/G6dv8nhkYA",
+					"display_url": "pic.twitter.com/G6dv8nhkYA",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1512312247208488962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512312240975716400,
+					"id_str": "1512312240975716359",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FPzP-HjVIAcLNrJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPzP-HjVIAcLNrJ.jpg",
+					"url": "https://t.co/G6dv8nhkYA",
+					"display_url": "pic.twitter.com/G6dv8nhkYA",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1512312247208488962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8366,
+			"friends_count": 557,
+			"listed_count": 0,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[지고 Solo Show @ 재미공작소] 2022.04.29(금) PM 7:30 https://t.co/DxfFloRfCi https://t.co/G6dv8nhkYA"
+	},
+	{
 		"created_at": "Fri Apr 08 06:11:16 +0000 2022",
 		"id": 1512304880999825400,
 		"id_str": "1512312101003485184",
