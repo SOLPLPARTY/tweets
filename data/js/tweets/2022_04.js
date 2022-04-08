@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 11:29:37 +0000 2022",
+		"id": 1512390847073259500,
+		"id_str": "1512392214843998213",
+		"full_text": "세월호참사 8주기 국민대회에 이랑이 함께합니다.\n\n🔸2022년 4월 9일 토요일 16시\n🔸서울시의회 앞 세월호 기억공간\n\n#이랑 #세월호참사8주기 #국민대회 #🎗 https://t.co/S6w7nsWLuz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "세월호참사8주기",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "국민대회",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512390837917065200,
+					"id_str": "1512390837917065217",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0XdD-aIAEKKQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0XdD-aIAEKKQu.jpg",
+					"url": "https://t.co/S6w7nsWLuz",
+					"display_url": "pic.twitter.com/S6w7nsWLuz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1512390847073259528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 905,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512390837917065200,
+					"id_str": "1512390837917065217",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FP0XdD-aIAEKKQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP0XdD-aIAEKKQu.jpg",
+					"url": "https://t.co/S6w7nsWLuz",
+					"display_url": "pic.twitter.com/S6w7nsWLuz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1512390847073259528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 905,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2186,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세월호참사 8주기 국민대회에 이랑이 함께합니다.\n\n🔸2022년 4월 9일 토요일 16시\n🔸서울시의회 앞 세월호 기억공간\n\n#이랑 #세월호참사8주기 #국민대회 #🎗 https://t.co/S6w7nsWLuz"
+	},
+	{
+		"created_at": "Fri Apr 08 11:29:31 +0000 2022",
+		"id": 1512389886304784400,
+		"id_str": "1512392189166428166",
+		"full_text": "#엘라헨더슨 🩹𝐔𝐠𝐥𝐲🩹\n가사도 좋은데 보컬 호소력 머선일,,(•̥̥̥⌓•̥̥̥)\n\n🎧 https://t.co/uLflWpMOg1\n🎬 https://t.co/wUlCiSMdoF https://t.co/Y5vTEfGKWP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엘라헨더슨",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uLflWpMOg1",
+					"expanded_url": "https://WMK.lnk.to/3Qac7hSO",
+					"display_url": "WMK.lnk.to/3Qac7hSO",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/wUlCiSMdoF",
+					"expanded_url": "https://youtu.be/8NV8ghfYeIk",
+					"display_url": "youtu.be/8NV8ghfYeIk",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512389547073618000,
+					"id_str": "1512389547073617923",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1512389547073617923/pu/img/1IuP3lxtrXgOokgS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1512389547073617923/pu/img/1IuP3lxtrXgOokgS.jpg",
+					"url": "https://t.co/Y5vTEfGKWP",
+					"display_url": "pic.twitter.com/Y5vTEfGKWP",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1512389886304784390/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512389547073618000,
+					"id_str": "1512389547073617923",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1512389547073617923/pu/img/1IuP3lxtrXgOokgS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1512389547073617923/pu/img/1IuP3lxtrXgOokgS.jpg",
+					"url": "https://t.co/Y5vTEfGKWP",
+					"display_url": "pic.twitter.com/Y5vTEfGKWP",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1512389886304784390/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44878,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1512389547073617923/pu/pl/FrxEVwAlrCewDFUu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1512389547073617923/pu/vid/540x540/rwh2_cWORPVBLZyR.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1512389547073617923/pu/vid/720x720/YgM-jUZ2GVkWspKH.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1512389547073617923/pu/vid/320x320/cH_DE7XnupCbXgOH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56554,
+			"friends_count": 493,
+			"listed_count": 197,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#엘라헨더슨 🩹𝐔𝐠𝐥𝐲🩹\n가사도 좋은데 보컬 호소력 머선일,,(•̥̥̥⌓•̥̥̥)\n\n🎧 https://t.co/uLflWpMOg1\n🎬 https://t.co/wUlCiSMdoF https://t.co/Y5vTEfGKWP"
+	},
+	{
 		"created_at": "Fri Apr 08 11:11:16 +0000 2022",
 		"id": 1512384896584806400,
 		"id_str": "1512387598639157250",
