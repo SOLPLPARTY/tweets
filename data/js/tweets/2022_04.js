@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 01:11:17 +0000 2022",
+		"id": 1512233765703233500,
+		"id_str": "1512236604802445348",
+		"full_text": "📢13th KT&amp;G SKOPF 작가 공모📢\n\nKT&amp;G 상상마당 한국사진가 지원 프로그램(KT&amp;G SKOPF)은 \n한국사진의 흐름을 바람직한 방향으로 이끌어 나갈 가능성을 갖고 있는 \n젊은 사진가를 발굴하고 지원하는 프로그램입니다.\n\n자세한 내용은\n[상상마당 홈페이지] &gt; [아티스트지원] / [고객지원] https://t.co/3qv4UgIcr5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512229058859643000,
+					"id_str": "1512229058859642880",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FPyEUSBaMAAd0lY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPyEUSBaMAAd0lY.jpg",
+					"url": "https://t.co/3qv4UgIcr5",
+					"display_url": "pic.twitter.com/3qv4UgIcr5",
+					"expanded_url": "https://twitter.com/SSmadang/status/1512233765703233571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512229058859643000,
+					"id_str": "1512229058859642880",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FPyEUSBaMAAd0lY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPyEUSBaMAAd0lY.jpg",
+					"url": "https://t.co/3qv4UgIcr5",
+					"display_url": "pic.twitter.com/3qv4UgIcr5",
+					"expanded_url": "https://twitter.com/SSmadang/status/1512233765703233571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512229058838659000,
+					"id_str": "1512229058838659079",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FPyEUR8aAAcruJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPyEUR8aAAcruJi.jpg",
+					"url": "https://t.co/3qv4UgIcr5",
+					"display_url": "pic.twitter.com/3qv4UgIcr5",
+					"expanded_url": "https://twitter.com/SSmadang/status/1512233765703233571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512229058855448600,
+					"id_str": "1512229058855448576",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FPyEUSAaMAAb88S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPyEUSAaMAAb88S.jpg",
+					"url": "https://t.co/3qv4UgIcr5",
+					"display_url": "pic.twitter.com/3qv4UgIcr5",
+					"expanded_url": "https://twitter.com/SSmadang/status/1512233765703233571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17685,
+			"friends_count": 1858,
+			"listed_count": 288,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢13th KT&amp;G SKOPF 작가 공모📢\n\nKT&amp;G 상상마당 한국사진가 지원 프로그램(KT&amp;G SKOPF)은 \n한국사진의 흐름을 바람직한 방향으로 이끌어 나갈 가능성을 갖고 있는 \n젊은 사진가를 발굴하고 지원하는 프로그램입니다.\n\n자세한 내용은\n[상상마당 홈페이지] &gt; [아티스트지원] / [고객지원] https://t.co/3qv4UgIcr5"
+	},
+	{
 		"created_at": "Thu Apr 07 16:29:24 +0000 2022",
 		"id": 1512098297934397400,
 		"id_str": "1512105270574555140",
