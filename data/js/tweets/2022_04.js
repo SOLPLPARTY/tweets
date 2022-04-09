@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 09 05:29:34 +0000 2022",
+		"id": 1512654142795247600,
+		"id_str": "1512663991725735938",
+		"full_text": "그리고, 앨범만큼이나 역대급!\n프로필 촬영 현장을 멜론 매거진에서 만나보세요🌸\n\n🔗https://t.co/YLM3M97nyc\n\n#곽진언 #KwakJineon #미니앨범 #정릉\n#눈내리던날 #그대의것 #비밀 #202호",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "정릉",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "눈내리던날",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "그대의것",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "비밀",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "202호",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YLM3M97nyc",
+					"expanded_url": "http://kko.to/XwX7beSHc",
+					"display_url": "kko.to/XwX7beSHc",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1512654140253499400,
+		"in_reply_to_status_id_str": "1512654140253499392",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/vinfdGhQL0…",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vinfdGhQL0",
+							"expanded_url": "http://youtube.com/user/musicfarm",
+							"display_url": "youtube.com/user/musicfarm",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9052,
+			"friends_count": 4,
+			"listed_count": 104,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그리고, 앨범만큼이나 역대급!\n프로필 촬영 현장을 멜론 매거진에서 만나보세요🌸\n\n🔗https://t.co/YLM3M97nyc\n\n#곽진언 #KwakJineon #미니앨범 #정릉\n#눈내리던날 #그대의것 #비밀 #202호"
+	},
+	{
 		"created_at": "Sat Apr 09 05:11:17 +0000 2022",
 		"id": 1512644596383158300,
 		"id_str": "1512659389815140354",
