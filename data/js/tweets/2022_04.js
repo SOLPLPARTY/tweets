@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 09 06:58:15 +0000 2022",
+		"id": 1512680448568475600,
+		"id_str": "1512686309030170624",
+		"full_text": "[🕘︎ time table]\n2022.04.09 NAVER NOW LIVE STREAM\n\n🔊 21:00-21:30 alex bunny @ynnubxela \n🔊 21:30-22:00 yunji @yunjiofficial\n🔊 22:00-22:30 SORIN @sorinies \n\n📺 Episode 46 슬픔의 케이팝 텔레비전 1탄\n🥺 4월 9일 토요일 저녁 9시 네이버 NOW에서!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ynnubxela",
+					"name": "alexx🥇",
+					"id": 2881024500,
+					"id_str": "2881024500",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "yunjiofficial",
+					"name": "yunji",
+					"id": 720350573833228300,
+					"id_str": "720350573833228288",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "sorinies",
+					"name": "SORIN",
+					"id": 8287752,
+					"id_str": "8287752",
+					"indices": [
+						142,
+						151
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1512068831019438000,
+		"in_reply_to_status_id_str": "1512068831019438081",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7667,
+			"friends_count": 43,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🕘︎ time table]\n2022.04.09 NAVER NOW LIVE STREAM\n\n🔊 21:00-21:30 alex bunny @ynnubxela \n🔊 21:30-22:00 yunji @yunjiofficial\n🔊 22:00-22:30 SORIN @sorinies \n\n📺 Episode 46 슬픔의 케이팝 텔레비전 1탄\n🥺 4월 9일 토요일 저녁 9시 네이버 NOW에서!"
+	},
+	{
+		"created_at": "Sat Apr 09 06:29:40 +0000 2022",
+		"id": 1512676114514477000,
+		"id_str": "1512679116880982018",
+		"full_text": "[PHOTO]\n⠀\nSUNMI X 'Let's play with Sunmi' Behind\n⠀\n#선미 #SUNMI\n#선미야클럽 #Sunmiya_Club\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/rk4Ivuzo6b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "선미야클럽",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "Sunmiya_Club",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "어비스컴퍼니",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						91,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512676029122637800,
+					"id_str": "1512676029122637825",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4a1YAacAEi8ex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4a1YAacAEi8ex.jpg",
+					"url": "https://t.co/rk4Ivuzo6b",
+					"display_url": "pic.twitter.com/rk4Ivuzo6b",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1512676114514477061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512676029122637800,
+					"id_str": "1512676029122637825",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4a1YAacAEi8ex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4a1YAacAEi8ex.jpg",
+					"url": "https://t.co/rk4Ivuzo6b",
+					"display_url": "pic.twitter.com/rk4Ivuzo6b",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1512676114514477061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512676029126815700,
+					"id_str": "1512676029126815745",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4a1YBaMAEwA_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4a1YBaMAEwA_Y.jpg",
+					"url": "https://t.co/rk4Ivuzo6b",
+					"display_url": "pic.twitter.com/rk4Ivuzo6b",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1512676114514477061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512676029139415000,
+					"id_str": "1512676029139415041",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4a1YEacAEhZTm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4a1YEacAEhZTm.jpg",
+					"url": "https://t.co/rk4Ivuzo6b",
+					"display_url": "pic.twitter.com/rk4Ivuzo6b",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1512676114514477061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1512676029105852400,
+					"id_str": "1512676029105852416",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FP4a1X8aUAAAiqn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP4a1X8aUAAAiqn.jpg",
+					"url": "https://t.co/rk4Ivuzo6b",
+					"display_url": "pic.twitter.com/rk4Ivuzo6b",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1512676114514477061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153049,
+			"friends_count": 8,
+			"listed_count": 255,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[PHOTO]\n⠀\nSUNMI X 'Let's play with Sunmi' Behind\n⠀\n#선미 #SUNMI\n#선미야클럽 #Sunmiya_Club\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/rk4Ivuzo6b"
+	},
+	{
+		"created_at": "Sat Apr 09 06:29:31 +0000 2022",
+		"id": 1512671421528703000,
+		"id_str": "1512679078687563777",
+		"full_text": "#너드커넥션 #backintime #Ukraine\n#songforukraine #스페이스공감 #공감 \n\nhttps://t.co/CM9nt9qwZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "backintime",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"text": "Ukraine",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "songforukraine",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						52,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CM9nt9qwZE",
+					"expanded_url": "https://youtu.be/Udbp2aZ0Qro",
+					"display_url": "youtu.be/Udbp2aZ0Qro",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1512454683822293000,
+		"in_reply_to_status_id_str": "1512454683822292996",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2186,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#너드커넥션 #backintime #Ukraine\n#songforukraine #스페이스공감 #공감 \n\nhttps://t.co/CM9nt9qwZE"
+	},
+	{
 		"created_at": "Sat Apr 09 05:29:34 +0000 2022",
 		"id": 1512654142795247600,
 		"id_str": "1512663991725735938",
