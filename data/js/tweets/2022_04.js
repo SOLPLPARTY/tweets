@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 10 11:29:25 +0000 2022",
+		"id": 1513112276315697200,
+		"id_str": "1513116938750279681",
+		"full_text": "[STATION] 태용 (TAEYONG) X 원슈타인 (Wonstein) 'Love Theory' ROOM TOUR V-log #2\n\nhttps://t.co/OHUKHfsiIs\n\n[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST\n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/ko1PaRw5LB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						196,
+						207
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						209,
+						213
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OHUKHfsiIs",
+					"expanded_url": "https://youtu.be/in-4bGMOWFI",
+					"display_url": "youtu.be/in-4bGMOWFI",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513110068488667100,
+					"id_str": "1513110068488667137",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1513110068488667137/img/sIyr7Pm20q48C-W_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1513110068488667137/img/sIyr7Pm20q48C-W_.jpg",
+					"url": "https://t.co/ko1PaRw5LB",
+					"display_url": "pic.twitter.com/ko1PaRw5LB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513112276315697157/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513110068488667100,
+					"id_str": "1513110068488667137",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1513110068488667137/img/sIyr7Pm20q48C-W_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1513110068488667137/img/sIyr7Pm20q48C-W_.jpg",
+					"url": "https://t.co/ko1PaRw5LB",
+					"display_url": "pic.twitter.com/ko1PaRw5LB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513112276315697157/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 56000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1513110068488667137/vid/320x568/w6DXRDkkrpYascA0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1513110068488667137/pl/Xvd3_iQcljeaHKz0.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1513110068488667137/vid/720x1280/Bc1XgwerEvGvPwV1.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1513110068488667137/vid/480x852/9ql7KWgAUQJ-mUgd.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10752555,
+			"friends_count": 56,
+			"listed_count": 12049,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1743,
+		"favorite_count": 4589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 태용 (TAEYONG) X 원슈타인 (Wonstein) 'Love Theory' ROOM TOUR V-log #2\n\nhttps://t.co/OHUKHfsiIs\n\n[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST\n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/ko1PaRw5LB"
+	},
+	{
 		"created_at": "Sun Apr 10 10:29:59 +0000 2022",
 		"id": 1513095459706863600,
 		"id_str": "1513101984320131079",
