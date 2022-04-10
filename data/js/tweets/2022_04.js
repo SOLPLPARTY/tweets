@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 10 10:11:23 +0000 2022",
+		"id": 1513092543273382000,
+		"id_str": "1513097301887172614",
+		"full_text": "2022년 4월 30일 토요일\n저녁 6시 반부터 ※ 도어오픈 6시\n\n클럽빵\n\n천용성\n선과영 ― 구 복태와한군\n단편선\n\n예매 3만\n현매 3만 5천\n\n※ 예매방법\n― 하나 771-910167-21407 최현정으로 입금\n― 010-8910-1089로 메시지 전송 (공연명 : 클럽빵 동행 프로젝트 5 / 임금자 : ○○○ / 예매수량 : ○○○)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1513092321877041200,
+		"in_reply_to_status_id_str": "1513092321877041156",
+		"in_reply_to_user_id": 1387140522,
+		"in_reply_to_user_id_str": "1387140522",
+		"in_reply_to_screen_name": "club_bbang",
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 909,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2022년 4월 30일 토요일\n저녁 6시 반부터 ※ 도어오픈 6시\n\n클럽빵\n\n천용성\n선과영 ― 구 복태와한군\n단편선\n\n예매 3만\n현매 3만 5천\n\n※ 예매방법\n― 하나 771-910167-21407 최현정으로 입금\n― 010-8910-1089로 메시지 전송 (공연명 : 클럽빵 동행 프로젝트 5 / 임금자 : ○○○ / 예매수량 : ○○○)"
+	},
+	{
+		"created_at": "Sun Apr 10 10:11:17 +0000 2022",
+		"id": 1513092321877041200,
+		"id_str": "1513097276276760581",
+		"full_text": "클럽빵 동행 프로젝트 5\n클럽빵 X 오소리웍스\n1994년 오픈, 20년이 훌쩍 넘는 시간동안 씬을 지키며 수많은 아티스트들의 산실로서 기능해온 모던록 라이브클럽 빵과 씬의 동료들이 함께 만드는 《클럽빵 동행 프로젝트》, 역사와 전통(since 2019)의 인디팝 명가 오소리웍스도 함께 합니다. https://t.co/p4hbk4Da04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513092311529697300,
+					"id_str": "1513092311529697282",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-VcM0aMAIqmVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-VcM0aMAIqmVC.jpg",
+					"url": "https://t.co/p4hbk4Da04",
+					"display_url": "pic.twitter.com/p4hbk4Da04",
+					"expanded_url": "https://twitter.com/club_bbang/status/1513092321877041156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513092311529697300,
+					"id_str": "1513092311529697282",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-VcM0aMAIqmVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-VcM0aMAIqmVC.jpg",
+					"url": "https://t.co/p4hbk4Da04",
+					"display_url": "pic.twitter.com/p4hbk4Da04",
+					"expanded_url": "https://twitter.com/club_bbang/status/1513092321877041156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 909,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클럽빵 동행 프로젝트 5\n클럽빵 X 오소리웍스\n1994년 오픈, 20년이 훌쩍 넘는 시간동안 씬을 지키며 수많은 아티스트들의 산실로서 기능해온 모던록 라이브클럽 빵과 씬의 동료들이 함께 만드는 《클럽빵 동행 프로젝트》, 역사와 전통(since 2019)의 인디팝 명가 오소리웍스도 함께 합니다. https://t.co/p4hbk4Da04"
+	},
+	{
+		"created_at": "Sun Apr 10 09:29:32 +0000 2022",
+		"id": 1513081857474109400,
+		"id_str": "1513086768769343495",
+		"full_text": "[STATION] 태용 (TAEYONG) X 원슈타인 (Wonstein) 'Love Theory' ROOM TOUR V-log #1 \n\nhttps://t.co/NBb23V3WWX \n\n[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/fJSvCcRpMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						183,
+						192
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						199,
+						210
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						212,
+						216
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						217,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NBb23V3WWX",
+					"expanded_url": "https://youtu.be/NXNYd-H_7Js",
+					"display_url": "youtu.be/NXNYd-H_7Js",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513080767538114600,
+					"id_str": "1513080767538114561",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1513080767538114561/img/Td2eVMEJDXsSSnPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1513080767538114561/img/Td2eVMEJDXsSSnPT.jpg",
+					"url": "https://t.co/fJSvCcRpMF",
+					"display_url": "pic.twitter.com/fJSvCcRpMF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513081857474109440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513080767538114600,
+					"id_str": "1513080767538114561",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1513080767538114561/img/Td2eVMEJDXsSSnPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1513080767538114561/img/Td2eVMEJDXsSSnPT.jpg",
+					"url": "https://t.co/fJSvCcRpMF",
+					"display_url": "pic.twitter.com/fJSvCcRpMF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513081857474109440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 36117,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1513080767538114561/vid/320x568/eATPWAgU6-vouC_i.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1513080767538114561/vid/720x1280/7P6z1848S7KCrtq2.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1513080767538114561/vid/480x852/QorvaUpOQmkUCEH8.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1513080767538114561/pl/x5S9s64qxcTPH_iM.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10753314,
+			"friends_count": 56,
+			"listed_count": 12044,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2777,
+		"favorite_count": 6599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 태용 (TAEYONG) X 원슈타인 (Wonstein) 'Love Theory' ROOM TOUR V-log #1 \n\nhttps://t.co/NBb23V3WWX \n\n[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/fJSvCcRpMF"
+	},
+	{
 		"created_at": "Sun Apr 10 09:15:54 +0000 2022",
 		"id": 1513083339388846000,
 		"id_str": "1513083339388846086",
