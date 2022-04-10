@@ -1,6 +1,1131 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 10 10:29:59 +0000 2022",
+		"id": 1513095459706863600,
+		"id_str": "1513101984320131079",
+		"full_text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/VmThFOKB1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513095432670490600,
+					"id_str": "1513095432670490624",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YR3-XMAAzc_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YR3-XMAAzc_r.jpg",
+					"url": "https://t.co/VmThFOKB1z",
+					"display_url": "pic.twitter.com/VmThFOKB1z",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095459706863618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513095432670490600,
+					"id_str": "1513095432670490624",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YR3-XMAAzc_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YR3-XMAAzc_r.jpg",
+					"url": "https://t.co/VmThFOKB1z",
+					"display_url": "pic.twitter.com/VmThFOKB1z",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095459706863618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10753440,
+			"friends_count": 56,
+			"listed_count": 12047,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2185,
+		"favorite_count": 5602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/VmThFOKB1z"
+	},
+	{
+		"created_at": "Sun Apr 10 10:29:51 +0000 2022",
+		"id": 1513095406015549400,
+		"id_str": "1513101950249836547",
+		"full_text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/IPiClnuGKA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513095383148380200,
+					"id_str": "1513095383148380162",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YO_fXwAITuHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YO_fXwAITuHN.jpg",
+					"url": "https://t.co/IPiClnuGKA",
+					"display_url": "pic.twitter.com/IPiClnuGKA",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095406015549443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513095383148380200,
+					"id_str": "1513095383148380162",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YO_fXwAITuHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YO_fXwAITuHN.jpg",
+					"url": "https://t.co/IPiClnuGKA",
+					"display_url": "pic.twitter.com/IPiClnuGKA",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095406015549443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10753440,
+			"friends_count": 56,
+			"listed_count": 12047,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2044,
+		"favorite_count": 5752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/IPiClnuGKA"
+	},
+	{
+		"created_at": "Sun Apr 10 10:29:43 +0000 2022",
+		"id": 1513095356401160200,
+		"id_str": "1513101916208865280",
+		"full_text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/ytE0ZHdx0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513095311434334200,
+					"id_str": "1513095311434334208",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YK0VaQAAnEDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YK0VaQAAnEDL.jpg",
+					"url": "https://t.co/ytE0ZHdx0g",
+					"display_url": "pic.twitter.com/ytE0ZHdx0g",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095356401160197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513095311434334200,
+					"id_str": "1513095311434334208",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YK0VaQAAnEDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YK0VaQAAnEDL.jpg",
+					"url": "https://t.co/ytE0ZHdx0g",
+					"display_url": "pic.twitter.com/ytE0ZHdx0g",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095356401160197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10753440,
+			"friends_count": 56,
+			"listed_count": 12047,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1947,
+		"favorite_count": 4912,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/ytE0ZHdx0g"
+	},
+	{
+		"created_at": "Sun Apr 10 10:29:38 +0000 2022",
+		"id": 1513095344111771600,
+		"id_str": "1513101894725652483",
+		"full_text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/MWrTHdIDTD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513095241347534800,
+					"id_str": "1513095241347534850",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YGvPakAIVqc9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YGvPakAIVqc9.jpg",
+					"url": "https://t.co/MWrTHdIDTD",
+					"display_url": "pic.twitter.com/MWrTHdIDTD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095344111771653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513095241347534800,
+					"id_str": "1513095241347534850",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YGvPakAIVqc9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YGvPakAIVqc9.jpg",
+					"url": "https://t.co/MWrTHdIDTD",
+					"display_url": "pic.twitter.com/MWrTHdIDTD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095344111771653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10753440,
+			"friends_count": 56,
+			"listed_count": 12047,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1908,
+		"favorite_count": 5023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/MWrTHdIDTD"
+	},
+	{
+		"created_at": "Sun Apr 10 10:29:34 +0000 2022",
+		"id": 1513095200796659700,
+		"id_str": "1513101877432487942",
+		"full_text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/8NYUsNANnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513095168106594300,
+					"id_str": "1513095168106594306",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YCeZagAIvVLn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YCeZagAIvVLn.jpg",
+					"url": "https://t.co/8NYUsNANnl",
+					"display_url": "pic.twitter.com/8NYUsNANnl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095200796659714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513095168106594300,
+					"id_str": "1513095168106594306",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-YCeZagAIvVLn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-YCeZagAIvVLn.jpg",
+					"url": "https://t.co/8NYUsNANnl",
+					"display_url": "pic.twitter.com/8NYUsNANnl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513095200796659714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10753440,
+			"friends_count": 56,
+			"listed_count": 12047,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1919,
+		"favorite_count": 5105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 태용 (TAEYONG) X 원슈타인  〖Love Theory〗\n➫ 2022.04.14 6PM KST \n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory \n#NCT #NCT127 https://t.co/8NYUsNANnl"
+	},
+	{
 		"created_at": "Sun Apr 10 10:11:23 +0000 2022",
 		"id": 1513092543273382000,
 		"id_str": "1513097301887172614",
