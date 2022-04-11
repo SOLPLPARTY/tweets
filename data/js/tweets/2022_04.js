@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 11 03:11:17 +0000 2022",
+		"id": 1513351138388684800,
+		"id_str": "1513353966616256517",
+		"full_text": "&lt;KAY BROWN 단독 콘서트 'VARIETY' : 롤링 27주년 기념 공연&gt;\n\n· 일시 : 2022년 05월 13일 (금) 오후 8시\n· 장소 : 롤링홀\n· 출연 : KAY BROWN\n· 예매 : 멜론티켓 2022년 04월 18일 (월) 오후 8시 예매오픈\n\nDesign by 오이웍스\n\n#롤링홀\n#케이브라운 #KAYBROWN #VARIETY\n#롤링27주년 #멜론티켓 https://t.co/wQgNmogEue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "케이브라운",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "KAYBROWN",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "VARIETY",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						208,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513092622570909700,
+					"id_str": "1513092622570909696",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-VuTiacAABMFc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-VuTiacAABMFc.jpg",
+					"url": "https://t.co/wQgNmogEue",
+					"display_url": "pic.twitter.com/wQgNmogEue",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1513351138388684811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513092622570909700,
+					"id_str": "1513092622570909696",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FP-VuTiacAABMFc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP-VuTiacAABMFc.jpg",
+					"url": "https://t.co/wQgNmogEue",
+					"display_url": "pic.twitter.com/wQgNmogEue",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1513351138388684811/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 444,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;KAY BROWN 단독 콘서트 'VARIETY' : 롤링 27주년 기념 공연&gt;\n\n· 일시 : 2022년 05월 13일 (금) 오후 8시\n· 장소 : 롤링홀\n· 출연 : KAY BROWN\n· 예매 : 멜론티켓 2022년 04월 18일 (월) 오후 8시 예매오픈\n\nDesign by 오이웍스\n\n#롤링홀\n#케이브라운 #KAYBROWN #VARIETY\n#롤링27주년 #멜론티켓 https://t.co/wQgNmogEue"
+	},
+	{
+		"created_at": "Mon Apr 11 02:29:27 +0000 2022",
+		"id": 1513343343291367400,
+		"id_str": "1513343442662871049",
+		"full_text": "[VIDEO] [#권혁수] #SNL코리아\n\nSNL 코리아 시즌2 #박하선 하이라이트 | 돌아온 블랙하선\n\n👉 https://t.co/VUhO78qCRH\n\nSNL 코리아 시즌2 박하선 하이라이트 | 복학생이지만 20학번 3편\n\n👉 https://t.co/4vUOaJYFUF\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "박하선",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						173,
+						187
+					]
+				},
+				{
+					"text": "SNL",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						200,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUhO78qCRH",
+					"expanded_url": "https://youtu.be/B_GqKFe27T4",
+					"display_url": "youtu.be/B_GqKFe27T4",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/4vUOaJYFUF",
+					"expanded_url": "https://youtu.be/ED8VP61NJQU",
+					"display_url": "youtu.be/ED8VP61NJQU",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #SNL코리아\n\nSNL 코리아 시즌2 #박하선 하이라이트 | 돌아온 블랙하선\n\n👉 https://t.co/VUhO78qCRH\n\nSNL 코리아 시즌2 박하선 하이라이트 | 복학생이지만 20학번 3편\n\n👉 https://t.co/4vUOaJYFUF\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay"
+	},
+	{
 		"created_at": "Mon Apr 11 01:58:35 +0000 2022",
 		"id": 1513335673129865200,
 		"id_str": "1513335673129865217",
