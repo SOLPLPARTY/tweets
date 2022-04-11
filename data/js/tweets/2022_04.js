@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 11 11:29:28 +0000 2022",
+		"id": 1513472679075987500,
+		"id_str": "1513479340582965248",
+		"full_text": "[https://t.co/qxBNHaU1w6.D x JEONJU IFF | 페스티벌]\n\n5월 5일 전주국제영화제와 콜라보로 전주돔에서 개최되는 Have A Nice Day에 소란이 출연합니다. 자세한 내용은 https://t.co/CJMJzDy4LC.d 인스타그램에서 확인하실 수 있습니다\n\n#HaveANiceDay #해브어나이스데이 #전주국제영화제 #민트페이퍼 https://t.co/kcDUcoW5p8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HaveANiceDay",
+					"indices": [
+						163,
+						176
+					]
+				},
+				{
+					"text": "해브어나이스데이",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "전주국제영화제",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						196,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qxBNHaU1w6",
+					"expanded_url": "http://H.AN",
+					"display_url": "H.AN",
+					"indices": [
+						1,
+						24
+					]
+				},
+				{
+					"url": "https://t.co/CJMJzDy4LC",
+					"expanded_url": "http://h.an",
+					"display_url": "h.an",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513453104624443400,
+					"id_str": "1513453104624443395",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQDdlH1aIAM1_R1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQDdlH1aIAM1_R1.jpg",
+					"url": "https://t.co/kcDUcoW5p8",
+					"display_url": "pic.twitter.com/kcDUcoW5p8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1513472679075987472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513453104624443400,
+					"id_str": "1513453104624443395",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQDdlH1aIAM1_R1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQDdlH1aIAM1_R1.jpg",
+					"url": "https://t.co/kcDUcoW5p8",
+					"display_url": "pic.twitter.com/kcDUcoW5p8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1513472679075987472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513453104800628700,
+					"id_str": "1513453104800628740",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQDdlIfagAQc_RB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQDdlIfagAQc_RB.jpg",
+					"url": "https://t.co/kcDUcoW5p8",
+					"display_url": "pic.twitter.com/kcDUcoW5p8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1513472679075987472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12993,
+			"friends_count": 1927,
+			"listed_count": 251,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[https://t.co/qxBNHaU1w6.D x JEONJU IFF | 페스티벌]\n\n5월 5일 전주국제영화제와 콜라보로 전주돔에서 개최되는 Have A Nice Day에 소란이 출연합니다. 자세한 내용은 https://t.co/CJMJzDy4LC.d 인스타그램에서 확인하실 수 있습니다\n\n#HaveANiceDay #해브어나이스데이 #전주국제영화제 #민트페이퍼 https://t.co/kcDUcoW5p8"
+	},
+	{
 		"created_at": "Mon Apr 11 10:29:43 +0000 2022",
 		"id": 1513458201773375500,
 		"id_str": "1513464304955236352",
