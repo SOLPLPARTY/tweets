@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 08:11:17 +0000 2022",
+		"id": 1513783853366005800,
+		"id_str": "1513791852104851460",
+		"full_text": "숙면에 도움이 된다고 알려진 자연유래 12가지 성분들을 최적의 비율로 배합해 긴장 완화 및 수면리듬 개선에 도움을 주는 &lt;슬리핑 보틀&gt;이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 당장 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3 https://t.co/49bAYq3hFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513783846839656400,
+					"id_str": "1513783846839656450",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIKY2maIAINuFC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIKY2maIAINuFC.jpg",
+					"url": "https://t.co/49bAYq3hFk",
+					"display_url": "pic.twitter.com/49bAYq3hFk",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1513783853366005767/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513783846839656400,
+					"id_str": "1513783846839656450",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIKY2maIAINuFC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIKY2maIAINuFC.jpg",
+					"url": "https://t.co/49bAYq3hFk",
+					"display_url": "pic.twitter.com/49bAYq3hFk",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1513783853366005767/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 214,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1469659b6ad47003",
+			"url": "https://api.twitter.com/1.1/geo/id/1469659b6ad47003.json",
+			"place_type": "poi",
+			"name": "공상온도",
+			"full_name": "공상온도",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "숙면에 도움이 된다고 알려진 자연유래 12가지 성분들을 최적의 비율로 배합해 긴장 완화 및 수면리듬 개선에 도움을 주는 &lt;슬리핑 보틀&gt;이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 당장 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3 https://t.co/49bAYq3hFk"
+	},
+	{
+		"created_at": "Tue Apr 12 07:29:34 +0000 2022",
+		"id": 1513780097626431500,
+		"id_str": "1513781355955511299",
+		"full_text": "2) 유통사 직배 레코드샵\n\n메타복스\n향음악사\n김밥레코드\n곽엘피\n아트버스터\n회현디스크\n소너스\n홍대널판\n라운드\n뮤직가이드\n세일뮤직\n드림레코드\n올리버\n테리픽잼\n소리곳간 알\n도프\n타이드스퀘어\n마인\n스피츠\n신나라레코드\n핫트랙스\n교보 대구점 \n\n3) 그 밖에 도매상을 통해 입고되는 레코드샵 https://t.co/lz7KL8gOQd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513780094309105700,
+					"id_str": "1513780094309105668",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIG-bVaAAQu9OD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIG-bVaAAQu9OD.jpg",
+					"url": "https://t.co/lz7KL8gOQd",
+					"display_url": "pic.twitter.com/lz7KL8gOQd",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1513780097626431497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513780094309105700,
+					"id_str": "1513780094309105668",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIG-bVaAAQu9OD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIG-bVaAAQu9OD.jpg",
+					"url": "https://t.co/lz7KL8gOQd",
+					"display_url": "pic.twitter.com/lz7KL8gOQd",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1513780097626431497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1513779796177666000,
+		"in_reply_to_status_id_str": "1513779796177666049",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 16,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2) 유통사 직배 레코드샵\n\n메타복스\n향음악사\n김밥레코드\n곽엘피\n아트버스터\n회현디스크\n소너스\n홍대널판\n라운드\n뮤직가이드\n세일뮤직\n드림레코드\n올리버\n테리픽잼\n소리곳간 알\n도프\n타이드스퀘어\n마인\n스피츠\n신나라레코드\n핫트랙스\n교보 대구점 \n\n3) 그 밖에 도매상을 통해 입고되는 레코드샵 https://t.co/lz7KL8gOQd"
+	},
+	{
+		"created_at": "Tue Apr 12 07:29:29 +0000 2022",
+		"id": 1513779796177666000,
+		"id_str": "1513781334476480512",
+		"full_text": "회기동 단편선 &lt;백년&gt; 바이닐은 유통 과정에 따라 아래 매장들에서 예약 구매가 가능합니다.(매장 별 수량 상이, 매장에 따라서는 예약 없이 발매 후 판매하는 곳도 있습니다) \n\n1) 알라딘, 예스24 등 대형 온라인 사이트(현재 일시 품절). 시간이 지나면 예약 취소분이 다시 풀리는 경우도 있음. https://t.co/IflTUI2Mtj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513779785818067000,
+					"id_str": "1513779785818066945",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIGseHaUAEWCvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIGseHaUAEWCvT.jpg",
+					"url": "https://t.co/IflTUI2Mtj",
+					"display_url": "pic.twitter.com/IflTUI2Mtj",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1513779796177666049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 621,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1096,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513779785818067000,
+					"id_str": "1513779785818066945",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIGseHaUAEWCvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIGseHaUAEWCvT.jpg",
+					"url": "https://t.co/IflTUI2Mtj",
+					"display_url": "pic.twitter.com/IflTUI2Mtj",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1513779796177666049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 621,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1096,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513779793157927000,
+					"id_str": "1513779793157926918",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIGs5dXsAYetqb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIGs5dXsAYetqb.jpg",
+					"url": "https://t.co/IflTUI2Mtj",
+					"display_url": "pic.twitter.com/IflTUI2Mtj",
+					"expanded_url": "https://twitter.com/rulooralarecord/status/1513779796177666049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1985,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 871,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 16,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "회기동 단편선 &lt;백년&gt; 바이닐은 유통 과정에 따라 아래 매장들에서 예약 구매가 가능합니다.(매장 별 수량 상이, 매장에 따라서는 예약 없이 발매 후 판매하는 곳도 있습니다) \n\n1) 알라딘, 예스24 등 대형 온라인 사이트(현재 일시 품절). 시간이 지나면 예약 취소분이 다시 풀리는 경우도 있음. https://t.co/IflTUI2Mtj"
+	},
+	{
 		"created_at": "Tue Apr 12 07:11:17 +0000 2022",
 		"id": 1513767457038934000,
 		"id_str": "1513776752581033985",
