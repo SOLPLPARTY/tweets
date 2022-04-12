@@ -1,6 +1,1165 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 14:11:16 +0000 2022",
+		"id": 1513848600501301200,
+		"id_str": "1513882448446304256",
+		"full_text": "벚꽃이 흩날리는 봄날~ 라일락이 향기를 더하고 멋진 봄날~ 클럽빵 공연일정입니다 더러 확진이 있지만 엔데믹~ #클럽빵 #아이오와 #백승이 #규리 #김치훈 #오굿굿 #파란별 #크램 #덕 #반말 #시골 #난파선 #락앤칠 #콘트라젤리 #시발점 #어슬렁 #체셔 #청요일 #새닉밴드 #순이우주로 #전다인 #윈터폴 https://t.co/4xu4YdSsvn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "아이오와",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "백승이",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "규리",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "김치훈",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "오굿굿",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "파란별",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "크램",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "덕",
+					"indices": [
+						100,
+						102
+					]
+				},
+				{
+					"text": "반말",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "시골",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "난파선",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "락앤칠",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "시발점",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "어슬렁",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "체셔",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "청요일",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "새닉밴드",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "순이우주로",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "전다인",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "윈터폴",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513848594570580000,
+					"id_str": "1513848594570579974",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FQJFRqsakAYzFL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQJFRqsakAYzFL1.jpg",
+					"url": "https://t.co/4xu4YdSsvn",
+					"display_url": "pic.twitter.com/4xu4YdSsvn",
+					"expanded_url": "https://twitter.com/club_bbang/status/1513848600501301251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513848594570580000,
+					"id_str": "1513848594570579974",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FQJFRqsakAYzFL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQJFRqsakAYzFL1.jpg",
+					"url": "https://t.co/4xu4YdSsvn",
+					"display_url": "pic.twitter.com/4xu4YdSsvn",
+					"expanded_url": "https://twitter.com/club_bbang/status/1513848600501301251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 910,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벚꽃이 흩날리는 봄날~ 라일락이 향기를 더하고 멋진 봄날~ 클럽빵 공연일정입니다 더러 확진이 있지만 엔데믹~ #클럽빵 #아이오와 #백승이 #규리 #김치훈 #오굿굿 #파란별 #크램 #덕 #반말 #시골 #난파선 #락앤칠 #콘트라젤리 #시발점 #어슬렁 #체셔 #청요일 #새닉밴드 #순이우주로 #전다인 #윈터폴 https://t.co/4xu4YdSsvn"
+	},
+	{
+		"created_at": "Tue Apr 12 13:29:44 +0000 2022",
+		"id": 1513867472591798300,
+		"id_str": "1513871995452153873",
+		"full_text": "@SCJAZZY \n#YUNSEOKCHEOL_TRIO \n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin \n#라이브플레이리스트 #LivePlaylist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YUNSEOKCHEOL_TRIO",
+					"indices": [
+						10,
+						28
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "정상이",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "김영진",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"text": "JungSangE",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "KimYeongJin",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"text": "라이브플레이리스트",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "LivePlaylist",
+					"indices": [
+						96,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1513867468464615400,
+		"in_reply_to_status_id_str": "1513867468464615427",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40361,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@SCJAZZY \n#YUNSEOKCHEOL_TRIO \n#윤석철 #정상이 #김영진 \n#YunSeokCheol #JungSangE #KimYeongJin \n#라이브플레이리스트 #LivePlaylist"
+	},
+	{
+		"created_at": "Tue Apr 12 13:29:37 +0000 2022",
+		"id": 1513867468464615400,
+		"id_str": "1513871965538369540",
+		"full_text": "[#Video] #윤석철트리오\n\n윤석철트리오 Live Playlist\n익숙하고, 일정한 🔵\n\n🔗https://t.co/znV0VE7eya \n\n01. 한국전래동화\n02. 도사님 펑크\n03. 사랑노래 \n04. 어쩌려고 그런 말을 해\n05. 익숙하고 일정한 https://t.co/SMirg0ol4W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/znV0VE7eya",
+					"expanded_url": "https://youtu.be/WtJx7HvsBFM",
+					"display_url": "youtu.be/WtJx7HvsBFM",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513867370666037200,
+					"id_str": "1513867370666037254",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1513867370666037254/pu/img/ha5gP7zrz0j8tTUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1513867370666037254/pu/img/ha5gP7zrz0j8tTUQ.jpg",
+					"url": "https://t.co/SMirg0ol4W",
+					"display_url": "pic.twitter.com/SMirg0ol4W",
+					"expanded_url": "https://twitter.com/antennamusic/status/1513867468464615427/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513867370666037200,
+					"id_str": "1513867370666037254",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1513867370666037254/pu/img/ha5gP7zrz0j8tTUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1513867370666037254/pu/img/ha5gP7zrz0j8tTUQ.jpg",
+					"url": "https://t.co/SMirg0ol4W",
+					"display_url": "pic.twitter.com/SMirg0ol4W",
+					"expanded_url": "https://twitter.com/antennamusic/status/1513867468464615427/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1513867370666037254/pu/vid/640x360/SFPQ4YY7daKTeIGz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1513867370666037254/pu/pl/tekQ35EsPnrInqVq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1513867370666037254/pu/vid/1280x720/5yPMwkZhg6MxqC7u.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1513867370666037254/pu/vid/480x270/QayeGBQAvRIk956N.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40361,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #윤석철트리오\n\n윤석철트리오 Live Playlist\n익숙하고, 일정한 🔵\n\n🔗https://t.co/znV0VE7eya \n\n01. 한국전래동화\n02. 도사님 펑크\n03. 사랑노래 \n04. 어쩌려고 그런 말을 해\n05. 익숙하고 일정한 https://t.co/SMirg0ol4W"
+	},
+	{
+		"created_at": "Tue Apr 12 13:29:35 +0000 2022",
+		"id": 1513859096952590300,
+		"id_str": "1513871956491350025",
+		"full_text": "하아.. 🥰 https://t.co/AxO3Hx6vtf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AxO3Hx6vtf",
+					"expanded_url": "https://twitter.com/aprilsour/status/1513857370124075008",
+					"display_url": "twitter.com/aprilsour/stat…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 22,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513857370124075000,
+		"quoted_status_id_str": "1513857370124075008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AxO3Hx6vtf",
+			"expanded": "https://twitter.com/aprilsour/status/1513857370124075008",
+			"display": "twitter.com/aprilsour/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 12 12:31:37 +0000 2022",
+			"id": 1513857370124075000,
+			"id_str": "1513857370124075008",
+			"full_text": "@YoursummerKR ㅋㅋㅋㅋㅋㅋㅋㅋㅋ마니또인가요",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YoursummerKR",
+						"name": "유어썸머 your summer",
+						"id": 404720294,
+						"id_str": "404720294",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1513856637085585400,
+			"in_reply_to_status_id_str": "1513856637085585410",
+			"in_reply_to_user_id": 404720294,
+			"in_reply_to_user_id_str": "404720294",
+			"in_reply_to_screen_name": "YoursummerKR",
+			"user": {
+				"id": 568866057,
+				"id_str": "568866057",
+				"name": "김사월",
+				"screen_name": "aprilsour",
+				"location": "",
+				"description": "Kim Sawol🎸 문의 : nina@yoursummer.net",
+				"url": "https://t.co/4kFOcrfv18",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4kFOcrfv18",
+								"expanded_url": "https://linktr.ee/kimsawol",
+								"display_url": "linktr.ee/kimsawol",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15880,
+				"friends_count": 896,
+				"listed_count": 61,
+				"created_at": "Wed May 02 04:12:49 +0000 2012",
+				"favourites_count": 11939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15771,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1508734068136972290/nsxu7GGX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508734068136972290/nsxu7GGX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1648545136",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하아.. 🥰 https://t.co/AxO3Hx6vtf"
+	},
+	{
+		"created_at": "Tue Apr 12 13:29:30 +0000 2022",
+		"id": 1513858877716299800,
+		"id_str": "1513871934760570884",
+		"full_text": "♥️ https://t.co/Oolp19T1DE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oolp19T1DE",
+					"expanded_url": "https://twitter.com/heaventomorrow/status/1513856771114561537",
+					"display_url": "twitter.com/heaventomorrow…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 22,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513856771114561500,
+		"quoted_status_id_str": "1513856771114561537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Oolp19T1DE",
+			"expanded": "https://twitter.com/heaventomorrow/status/1513856771114561537",
+			"display": "twitter.com/heaventomorrow…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 12 12:29:14 +0000 2022",
+			"id": 1513856771114561500,
+			"id_str": "1513856771114561537",
+			"full_text": "@aprilsour 유대리 누구짘ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 누구실깤ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aprilsour",
+						"name": "김사월",
+						"id": 568866057,
+						"id_str": "568866057",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1513855890952454100,
+			"in_reply_to_status_id_str": "1513855890952454150",
+			"in_reply_to_user_id": 568866057,
+			"in_reply_to_user_id_str": "568866057",
+			"in_reply_to_screen_name": "aprilsour",
+			"user": {
+				"id": 128304069,
+				"id_str": "128304069",
+				"name": "오지은🌿",
+				"screen_name": "heaventomorrow",
+				"location": "",
+				"description": "이 인형 엄마껀데",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88022,
+				"friends_count": 927,
+				"listed_count": 626,
+				"created_at": "Wed Mar 31 18:45:04 +0000 2010",
+				"favourites_count": 10746,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59375,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1513856255936581632/7WfOrxo6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513856255936581632/7WfOrxo6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/128304069/1649766251",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "♥️ https://t.co/Oolp19T1DE"
+	},
+	{
 		"created_at": "Tue Apr 12 12:29:33 +0000 2022",
 		"id": 1513856637085585400,
 		"id_str": "1513856847366795270",
