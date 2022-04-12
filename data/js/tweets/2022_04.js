@@ -1,6 +1,856 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 10:29:42 +0000 2022",
+		"id": 1513819347885904000,
+		"id_str": "1513826686751711235",
+		"full_text": "SM Universe 가 제공하는 방과 후 프로그램 참가자를 모집합니다.\n\n지원 기간 : 2022.04.11(월)~2022.04.20(목)\n수업 일정 : 2022.05.09 개강 (8주 과정)\n수업 시간 : 주 5회 / 오후 6:30~10:00\n지원 링크 : https://t.co/uGopHu24XZ\n문의 : admissions@smuniverse.com\n\n#smu #smuniverse #Presmu https://t.co/zTjDamm2D1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "smu",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "smuniverse",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"text": "Presmu",
+					"indices": [
+						218,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uGopHu24XZ",
+					"expanded_url": "http://smuniverse.com",
+					"display_url": "smuniverse.com",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513819343133749200,
+					"id_str": "1513819343133749248",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIqrAmaMAAu9He.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIqrAmaMAAu9He.jpg",
+					"url": "https://t.co/zTjDamm2D1",
+					"display_url": "pic.twitter.com/zTjDamm2D1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513819347885903874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513819343133749200,
+					"id_str": "1513819343133749248",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIqrAmaMAAu9He.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIqrAmaMAAu9He.jpg",
+					"url": "https://t.co/zTjDamm2D1",
+					"display_url": "pic.twitter.com/zTjDamm2D1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513819347885903874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513819343125368800,
+					"id_str": "1513819343125368833",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIqrAkaUAEhQuY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIqrAkaUAEhQuY.jpg",
+					"url": "https://t.co/zTjDamm2D1",
+					"display_url": "pic.twitter.com/zTjDamm2D1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513819347885903874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513819343137951700,
+					"id_str": "1513819343137951757",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIqrAnaUA0UkBD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIqrAnaUA0UkBD.jpg",
+					"url": "https://t.co/zTjDamm2D1",
+					"display_url": "pic.twitter.com/zTjDamm2D1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513819347885903874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513819343129550800,
+					"id_str": "1513819343129550849",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FQIqrAlaIAErZer.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQIqrAlaIAErZer.jpg",
+					"url": "https://t.co/zTjDamm2D1",
+					"display_url": "pic.twitter.com/zTjDamm2D1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1513819347885903874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10757165,
+			"friends_count": 56,
+			"listed_count": 12057,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 554,
+		"favorite_count": 2234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM Universe 가 제공하는 방과 후 프로그램 참가자를 모집합니다.\n\n지원 기간 : 2022.04.11(월)~2022.04.20(목)\n수업 일정 : 2022.05.09 개강 (8주 과정)\n수업 시간 : 주 5회 / 오후 6:30~10:00\n지원 링크 : https://t.co/uGopHu24XZ\n문의 : admissions@smuniverse.com\n\n#smu #smuniverse #Presmu https://t.co/zTjDamm2D1"
+	},
+	{
+		"created_at": "Tue Apr 12 10:29:39 +0000 2022",
+		"id": 1513814867874300000,
+		"id_str": "1513826673682169856",
+		"full_text": "공연일시: 4월 23일(일) 오후 6시\n공연장소: 현대카드 언더스테이지\n티켓구매: 🍈🎫👇🏼\nhttps://t.co/Vxd0JaNagM https://t.co/d0PKevDeNY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vxd0JaNagM",
+					"expanded_url": "https://bit.ly/3uUXLTi",
+					"display_url": "bit.ly/3uUXLTi",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513814860945305600,
+					"id_str": "1513814860945305603",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FQImmHJaMAMycbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQImmHJaMAMycbR.jpg",
+					"url": "https://t.co/d0PKevDeNY",
+					"display_url": "pic.twitter.com/d0PKevDeNY",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1513814867874299908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513814860945305600,
+					"id_str": "1513814860945305603",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FQImmHJaMAMycbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQImmHJaMAMycbR.jpg",
+					"url": "https://t.co/d0PKevDeNY",
+					"display_url": "pic.twitter.com/d0PKevDeNY",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1513814867874299908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1513814858076418000,
+		"in_reply_to_status_id_str": "1513814858076418051",
+		"in_reply_to_user_id": 1354376069487333400,
+		"in_reply_to_user_id_str": "1354376069487333378",
+		"in_reply_to_screen_name": "flippedcoinm",
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 10,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연일시: 4월 23일(일) 오후 6시\n공연장소: 현대카드 언더스테이지\n티켓구매: 🍈🎫👇🏼\nhttps://t.co/Vxd0JaNagM https://t.co/d0PKevDeNY"
+	},
+	{
+		"created_at": "Tue Apr 12 10:29:34 +0000 2022",
+		"id": 1513814858076418000,
+		"id_str": "1513826652282892294",
+		"full_text": "고정관념에 혼란을 느끼는 자신의 감정을 음악으로 전환시킨다. 자신의 내면과 외부 환경을 섬세하게 감각하며 미세한 간극을 과감하게 표현하는 그의 음악은 세상의 가장자리에서 시대를 대변한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1513814855136215000,
+		"in_reply_to_status_id_str": "1513814855136215043",
+		"in_reply_to_user_id": 1354376069487333400,
+		"in_reply_to_user_id_str": "1354376069487333378",
+		"in_reply_to_screen_name": "flippedcoinm",
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 10,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "고정관념에 혼란을 느끼는 자신의 감정을 음악으로 전환시킨다. 자신의 내면과 외부 환경을 섬세하게 감각하며 미세한 간극을 과감하게 표현하는 그의 음악은 세상의 가장자리에서 시대를 대변한다."
+	},
+	{
+		"created_at": "Tue Apr 12 10:29:28 +0000 2022",
+		"id": 1513814855136215000,
+		"id_str": "1513826630875201538",
+		"full_text": "현대카드 윤상 curated 06 \n[HAEPAARY] 단독 공연 오프닝 게스트\n \n육체와 정신이 존재하는 현장을 음악을 통해 캡처하는 전자음악가 \n🎛 NET GALA @NETGALA_ 🎛 https://t.co/ixvLW1Okrp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NETGALA_",
+					"name": "NÆT gSHINPA",
+					"id": 350223879,
+					"id_str": "350223879",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513814845887762400,
+					"id_str": "1513814845887762432",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FQImlPDaUAAze1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQImlPDaUAAze1e.jpg",
+					"url": "https://t.co/ixvLW1Okrp",
+					"display_url": "pic.twitter.com/ixvLW1Okrp",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1513814855136215043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 971,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1657,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513814845887762400,
+					"id_str": "1513814845887762432",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FQImlPDaUAAze1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQImlPDaUAAze1e.jpg",
+					"url": "https://t.co/ixvLW1Okrp",
+					"display_url": "pic.twitter.com/ixvLW1Okrp",
+					"expanded_url": "https://twitter.com/flippedcoinm/status/1513814855136215043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 971,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1657,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 10,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현대카드 윤상 curated 06 \n[HAEPAARY] 단독 공연 오프닝 게스트\n \n육체와 정신이 존재하는 현장을 음악을 통해 캡처하는 전자음악가 \n🎛 NET GALA @NETGALA_ 🎛 https://t.co/ixvLW1Okrp"
+	},
+	{
+		"created_at": "Tue Apr 12 10:29:26 +0000 2022",
+		"id": 1513813795155570700,
+		"id_str": "1513826621983232004",
+		"full_text": "https://t.co/tjjxbdWXNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tjjxbdWXNO",
+					"expanded_url": "http://naver.me/FXLA10CV",
+					"display_url": "naver.me/FXLA10CV",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1513694558386745300,
+		"in_reply_to_status_id_str": "1513694558386745345",
+		"in_reply_to_user_id": 1491651207051415600,
+		"in_reply_to_user_id_str": "1491651207051415556",
+		"in_reply_to_screen_name": "rulooralarecord",
+		"user": {
+			"id": 1491651207051415600,
+			"id_str": "1491651207051415556",
+			"name": "한장의 룰루랄라",
+			"screen_name": "rulooralarecord",
+			"location": "",
+			"description": "음악의 결을 붙잡아 마음에 새기는 일",
+			"url": "https://t.co/UlPV4ZIrJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlPV4ZIrJA",
+							"expanded_url": "https://linktr.ee/rulooralarecords",
+							"display_url": "linktr.ee/rulooralarecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 16,
+			"listed_count": 4,
+			"created_at": "Thu Feb 10 05:52:27 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491651436332994560/QI62onIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1491651207051415556/1645890901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/tjjxbdWXNO"
+	},
+	{
 		"created_at": "Tue Apr 12 10:15:43 +0000 2022",
 		"id": 1513823167839543300,
 		"id_str": "1513823167839543296",
