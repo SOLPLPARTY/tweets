@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 11:29:42 +0000 2022",
+		"id": 1514200432809496600,
+		"id_str": "1514204175541972994",
+		"full_text": "https://t.co/wMCdGfZdgH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514200369337073700,
+					"id_str": "1514200369337073672",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514200369337073672/pu/img/DARBT2A0K9OW8u8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514200369337073672/pu/img/DARBT2A0K9OW8u8V.jpg",
+					"url": "https://t.co/wMCdGfZdgH",
+					"display_url": "pic.twitter.com/wMCdGfZdgH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1514200432809496579/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514200369337073700,
+					"id_str": "1514200369337073672",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514200369337073672/pu/img/DARBT2A0K9OW8u8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514200369337073672/pu/img/DARBT2A0K9OW8u8V.jpg",
+					"url": "https://t.co/wMCdGfZdgH",
+					"display_url": "pic.twitter.com/wMCdGfZdgH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1514200432809496579/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							181
+						],
+						"duration_millis": 14825,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1514200369337073672/pu/pl/rKlcsIkOznZhMu-h.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200369337073672/pu/vid/476x270/dTrZelp9NzScL-cT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200369337073672/pu/vid/636x360/7Qbgi3Fxame1vlPz.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200369337073672/pu/vid/1272x720/6y7cjIEjfQwgcVSP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40362,
+			"friends_count": 9,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wMCdGfZdgH"
+	},
+	{
+		"created_at": "Wed Apr 13 11:29:33 +0000 2022",
+		"id": 1514200309748629500,
+		"id_str": "1514204137273143296",
+		"full_text": "🪴&lt;오늘도 삽질2&gt; 2삽\nhttps://t.co/mAIFHpubp1\n\n@le_petit_piano @pptnzexpress \n#페퍼톤스 #Peppertones #유희열 \n#오늘도삽질 #스튜디오훜 https://t.co/fx7vEYkuPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "오늘도삽질",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "스튜디오훜",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						61,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mAIFHpubp1",
+					"expanded_url": "https://youtu.be/VhhG2kHFQzg",
+					"display_url": "youtu.be/VhhG2kHFQzg",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514200247467393000,
+					"id_str": "1514200247467393028",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514200247467393028/pu/img/uqRT6a-GSAYZ6NEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514200247467393028/pu/img/uqRT6a-GSAYZ6NEA.jpg",
+					"url": "https://t.co/fx7vEYkuPO",
+					"display_url": "pic.twitter.com/fx7vEYkuPO",
+					"expanded_url": "https://twitter.com/antennamusic/status/1514200309748629505/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514200247467393000,
+					"id_str": "1514200247467393028",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514200247467393028/pu/img/uqRT6a-GSAYZ6NEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514200247467393028/pu/img/uqRT6a-GSAYZ6NEA.jpg",
+					"url": "https://t.co/fx7vEYkuPO",
+					"display_url": "pic.twitter.com/fx7vEYkuPO",
+					"expanded_url": "https://twitter.com/antennamusic/status/1514200309748629505/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"duration_millis": 12308,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200247467393028/pu/vid/642x360/o3uj_u5jcO2MjpeY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1514200247467393028/pu/pl/2EDonU3nezcfRQcJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200247467393028/pu/vid/1280x716/a1O6yc5YfPNXtim7.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200247467393028/pu/vid/482x270/dFLfpPPEHVa9QShE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1514200227338924000,
+		"in_reply_to_status_id_str": "1514200227338924035",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40362,
+			"friends_count": 9,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🪴&lt;오늘도 삽질2&gt; 2삽\nhttps://t.co/mAIFHpubp1\n\n@le_petit_piano @pptnzexpress \n#페퍼톤스 #Peppertones #유희열 \n#오늘도삽질 #스튜디오훜 https://t.co/fx7vEYkuPO"
+	},
+	{
+		"created_at": "Wed Apr 13 11:29:28 +0000 2022",
+		"id": 1514200227338924000,
+		"id_str": "1514204115806703623",
+		"full_text": "[#Video] #정재형 #이장원\n\n정재형의 GOATA 무브먼트와 이장원의 사회 생활, 그리고 특별 게스트 유희열과 함께 완성한 창신동 콩포지숑🪴✨ &lt;오늘도 삽질2&gt; 2삽은 지금 스튜디오 훜에서 만나보실 수 있습니다🌿 https://t.co/5NRIZcalKX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514200174062862300,
+					"id_str": "1514200174062862340",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514200174062862340/pu/img/5LlfCuC7w0rUcbdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514200174062862340/pu/img/5LlfCuC7w0rUcbdT.jpg",
+					"url": "https://t.co/5NRIZcalKX",
+					"display_url": "pic.twitter.com/5NRIZcalKX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1514200227338924035/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514200174062862300,
+					"id_str": "1514200174062862340",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514200174062862340/pu/img/5LlfCuC7w0rUcbdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514200174062862340/pu/img/5LlfCuC7w0rUcbdT.jpg",
+					"url": "https://t.co/5NRIZcalKX",
+					"display_url": "pic.twitter.com/5NRIZcalKX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1514200227338924035/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13405,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200174062862340/pu/vid/1280x720/dftgtU5Sgv7zi44j.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1514200174062862340/pu/pl/8c3lZT0V3KwNJQgx.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200174062862340/pu/vid/640x360/VtzlCpq6eez5yZ5d.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514200174062862340/pu/vid/480x270/OoFHMj1YJXEqNYVH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40362,
+			"friends_count": 9,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정재형 #이장원\n\n정재형의 GOATA 무브먼트와 이장원의 사회 생활, 그리고 특별 게스트 유희열과 함께 완성한 창신동 콩포지숑🪴✨ &lt;오늘도 삽질2&gt; 2삽은 지금 스튜디오 훜에서 만나보실 수 있습니다🌿 https://t.co/5NRIZcalKX"
+	},
+	{
 		"created_at": "Wed Apr 13 11:19:40 +0000 2022",
 		"id": 1514201648414924800,
 		"id_str": "1514201648414924800",
