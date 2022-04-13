@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 10:29:30 +0000 2022",
+		"id": 1514180053361471500,
+		"id_str": "1514189025069912293",
+		"full_text": "#부제라 #Budjerah 🍃𝐓𝐚𝐥𝐤 (𝐟𝐞𝐚𝐭. 𝐌𝐀𝐘-𝐀)🍃\n눈여겨 봐야 할👀 신인 등장👥👤👥\n🎧음원듣기 https://t.co/4uuuLuwSkG https://t.co/qV1icUCbh6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부제라",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Budjerah",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4uuuLuwSkG",
+					"expanded_url": "https://wmk.lnk.to/lSoFSTEw",
+					"display_url": "wmk.lnk.to/lSoFSTEw",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514179841159049200,
+					"id_str": "1514179841159049217",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514179841159049217/pu/img/CryBgLYIOCQVF0-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514179841159049217/pu/img/CryBgLYIOCQVF0-1.jpg",
+					"url": "https://t.co/qV1icUCbh6",
+					"display_url": "pic.twitter.com/qV1icUCbh6",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1514180053361471493/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514179841159049200,
+					"id_str": "1514179841159049217",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514179841159049217/pu/img/CryBgLYIOCQVF0-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514179841159049217/pu/img/CryBgLYIOCQVF0-1.jpg",
+					"url": "https://t.co/qV1icUCbh6",
+					"display_url": "pic.twitter.com/qV1icUCbh6",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1514180053361471493/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27986,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514179841159049217/pu/vid/320x320/2PjnzCPoviDIjayI.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514179841159049217/pu/vid/540x540/GSQJ51NHIKSIXrcl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1514179841159049217/pu/pl/D1RZS4E-oGzTNTXF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514179841159049217/pu/vid/720x720/BVUlRki1JHoSgkoy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56652,
+			"friends_count": 493,
+			"listed_count": 196,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#부제라 #Budjerah 🍃𝐓𝐚𝐥𝐤 (𝐟𝐞𝐚𝐭. 𝐌𝐀𝐘-𝐀)🍃\n눈여겨 봐야 할👀 신인 등장👥👤👥\n🎧음원듣기 https://t.co/4uuuLuwSkG https://t.co/qV1icUCbh6"
+	},
+	{
 		"created_at": "Wed Apr 13 09:29:39 +0000 2022",
 		"id": 1514166866734096400,
 		"id_str": "1514173961893986309",
