@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 02:29:24 +0000 2022",
+		"id": 1514430517017383000,
+		"id_str": "1514430593169338374",
+		"full_text": "NCT TAEYONG X Wonstein’s new single ‘Love Theory’ and its MV drop at 6PM (KST) today! \n\n‘Love Theory’ is a cheerful love song with an upbeat charm!\n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory #NCT #NCT127 https://t.co/DMJbWw9Bgx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYONG",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "Wonstein",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "원슈타인",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "LoveTheory",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						195,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514430510222643200,
+					"id_str": "1514430510222643201",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQRWhnbVkAE5DAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQRWhnbVkAE5DAe.jpg",
+					"url": "https://t.co/DMJbWw9Bgx",
+					"display_url": "pic.twitter.com/DMJbWw9Bgx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1514430517017382913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514430510222643200,
+					"id_str": "1514430510222643201",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FQRWhnbVkAE5DAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQRWhnbVkAE5DAe.jpg",
+					"url": "https://t.co/DMJbWw9Bgx",
+					"display_url": "pic.twitter.com/DMJbWw9Bgx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1514430517017382913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10760304,
+			"friends_count": 56,
+			"listed_count": 12063,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1082,
+		"favorite_count": 3442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NCT TAEYONG X Wonstein’s new single ‘Love Theory’ and its MV drop at 6PM (KST) today! \n\n‘Love Theory’ is a cheerful love song with an upbeat charm!\n\n#TAEYONG #태용 #Wonstein #원슈타인 #LoveTheory #NCT #NCT127 https://t.co/DMJbWw9Bgx"
+	},
+	{
 		"created_at": "Thu Apr 14 02:12:13 +0000 2022",
 		"id": 1514426266425856000,
 		"id_str": "1514426266425856002",
