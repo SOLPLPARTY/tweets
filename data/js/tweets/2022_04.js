@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 03:29:30 +0000 2022",
+		"id": 1514802738756198400,
+		"id_str": "1514808104742916102",
+		"full_text": "“어느새 겨울 또 어느새 봄을 맞이하겠지\n그때도 내 곁은 니가 지키겠지\n⠀\n저을게요 노를\n오늘 저녁노을을 향해 항해하게\n키를 잡은 손을 믿고 맡길 테니”\n⠀\n우주왕복선싸이드미러 New Single\n「어느새 봄」\n2022.04.19 12pm\n⠀\n#우주왕복선싸이드미러 #우싸미 #싱글 #어느새봄 #발매 #new #single https://t.co/ruxZpaXrNA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "우싸미",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "어느새봄",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "new",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "single",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514802734008258600,
+					"id_str": "1514802734008258560",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWpD5FaUAAbwEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWpD5FaUAAbwEL.jpg",
+					"url": "https://t.co/ruxZpaXrNA",
+					"display_url": "pic.twitter.com/ruxZpaXrNA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1514802738756198404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514802734008258600,
+					"id_str": "1514802734008258560",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWpD5FaUAAbwEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWpD5FaUAAbwEL.jpg",
+					"url": "https://t.co/ruxZpaXrNA",
+					"display_url": "pic.twitter.com/ruxZpaXrNA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1514802738756198404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514802734016663600,
+					"id_str": "1514802734016663561",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWpD5HakAkSvA2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWpD5HakAkSvA2.jpg",
+					"url": "https://t.co/ruxZpaXrNA",
+					"display_url": "pic.twitter.com/ruxZpaXrNA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1514802738756198404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514802734167650300,
+					"id_str": "1514802734167650305",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWpD5racAEtTKB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWpD5racAEtTKB.jpg",
+					"url": "https://t.co/ruxZpaXrNA",
+					"display_url": "pic.twitter.com/ruxZpaXrNA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1514802738756198404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514802734167654400,
+					"id_str": "1514802734167654401",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FQWpD5ragAEZDTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQWpD5ragAEZDTC.jpg",
+					"url": "https://t.co/ruxZpaXrNA",
+					"display_url": "pic.twitter.com/ruxZpaXrNA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1514802738756198404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2192,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“어느새 겨울 또 어느새 봄을 맞이하겠지\n그때도 내 곁은 니가 지키겠지\n⠀\n저을게요 노를\n오늘 저녁노을을 향해 항해하게\n키를 잡은 손을 믿고 맡길 테니”\n⠀\n우주왕복선싸이드미러 New Single\n「어느새 봄」\n2022.04.19 12pm\n⠀\n#우주왕복선싸이드미러 #우싸미 #싱글 #어느새봄 #발매 #new #single https://t.co/ruxZpaXrNA"
+	},
+	{
 		"created_at": "Fri Apr 15 03:11:17 +0000 2022",
 		"id": 1514800689179881500,
 		"id_str": "1514803518166560770",
