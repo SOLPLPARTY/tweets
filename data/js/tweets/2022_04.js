@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 10:29:25 +0000 2022",
+		"id": 1514909066560422000,
+		"id_str": "1514913778852409345",
+		"full_text": "[#손태진] T Factory X FLO &lt;덕콘&gt; 공연 라이브 안내✔\n\n따뜻한 봄날, 손태진과 &lt;덕콘&gt;에서 함께하고 싶다면?\n🔗 https://t.co/zh6ZEePtU0\n링크를 통해 콘서트를 생중계로 만나보세요💛\n\n#SONTAEJIN #TJSON #덕콘 #THECON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "덕콘",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "THECON",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zh6ZEePtU0",
+					"expanded_url": "https://bit.ly/37gY0Ai",
+					"display_url": "bit.ly/37gY0Ai",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34852,
+			"friends_count": 15,
+			"listed_count": 284,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1649236388",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] T Factory X FLO &lt;덕콘&gt; 공연 라이브 안내✔\n\n따뜻한 봄날, 손태진과 &lt;덕콘&gt;에서 함께하고 싶다면?\n🔗 https://t.co/zh6ZEePtU0\n링크를 통해 콘서트를 생중계로 만나보세요💛\n\n#SONTAEJIN #TJSON #덕콘 #THECON"
+	},
+	{
 		"created_at": "Fri Apr 15 10:05:20 +0000 2022",
 		"id": 1514907720901488600,
 		"id_str": "1514907720901488645",
@@ -152,7 +295,7 @@ Grailbird.data.tweets_2022_04 =
 		"created_at": "Fri Apr 15 10:02:53 +0000 2022",
 		"id": 1514907103634231300,
 		"id_str": "1514907103634231298",
-		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n아 술 취해서 연락 좀 하지 마🙅‍♀️ |  스테이시 라이언, 제이원케이  - Don't Text Me When You're Drunk (가사/한글/해석)\nhttps://t.co/UoHFJ7D8Gp",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n아 술 취해서 연락 좀 하지 마🙅♀️ |  스테이시 라이언, 제이원케이  - Don't Text Me When You're Drunk (가사/한글/해석)\nhttps://t.co/UoHFJ7D8Gp",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -287,7 +430,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n아 술 취해서 연락 좀 하지 마🙅‍♀️ |  스테이시 라이언, 제이원케이  - Don't Text Me When You're Drunk (가사/한글/해석)\nhttps://t.co/UoHFJ7D8Gp"
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n아 술 취해서 연락 좀 하지 마🙅♀️ |  스테이시 라이언, 제이원케이  - Don't Text Me When You're Drunk (가사/한글/해석)\nhttps://t.co/UoHFJ7D8Gp"
 	},
 	{
 		"created_at": "Fri Apr 15 09:57:53 +0000 2022",
