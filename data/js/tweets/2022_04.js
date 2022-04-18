@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 10:29:43 +0000 2022",
+		"id": 1515996811802345500,
+		"id_str": "1516001018038865921",
+		"full_text": "[#Notice] #정승환\n\n&lt;정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’&gt;\n잠시 후 오후 8시, 일반예매 오픈💛💚💙\n\n▶️ 정승환 공식 팬클럽 US（어스）2기 팬미팅 ‘LET US MEET’\nhttps://t.co/xq9wH38hvW\n\n#JungSeungHwan #US \n#LET_US_MEET #팬미팅 https://t.co/NbKqKhWm50",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"text": "US",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "LET_US_MEET",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "팬미팅",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xq9wH38hvW",
+					"expanded_url": "https://bit.ly/3vsyYpS",
+					"display_url": "bit.ly/3vsyYpS",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/NbKqKhWm50",
+					"expanded_url": "https://twitter.com/antennamusic/status/1513389350591299587",
+					"display_url": "twitter.com/antennamusic/s…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40367,
+			"friends_count": 9,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513389350591299600,
+		"quoted_status_id_str": "1513389350591299587",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NbKqKhWm50",
+			"expanded": "https://twitter.com/antennamusic/status/1513389350591299587",
+			"display": "twitter.com/antennamusic/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 11 05:31:53 +0000 2022",
+			"id": 1513389350591299600,
+			"id_str": "1513389350591299587",
+			"full_text": "[#Notice] #정승환\n\n&lt;정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’&gt;\n\n켜켜이 쌓인 시간의 먼지를 털어내고\n다시금 인사를 건넬 수 있게 되었네요.\n어떻게 지내고 계셨나요?\n\n기나긴 겨울에도 반드시 끝이 있듯\n이 기다림도 언젠간 끝날 거라고 믿었던 시간들. https://t.co/u17jAVOiKk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Notice",
+						"indices": [
+							1,
+							8
+						]
+					},
+					{
+						"text": "정승환",
+						"indices": [
+							10,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1513388841427939300,
+						"id_str": "1513388841427939333",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/FQCjIgxaMAU3zmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQCjIgxaMAU3zmV.jpg",
+						"url": "https://t.co/u17jAVOiKk",
+						"display_url": "pic.twitter.com/u17jAVOiKk",
+						"expanded_url": "https://twitter.com/antennamusic/status/1513389350591299587/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1513388841427939300,
+						"id_str": "1513388841427939333",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/FQCjIgxaMAU3zmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQCjIgxaMAU3zmV.jpg",
+						"url": "https://t.co/u17jAVOiKk",
+						"display_url": "pic.twitter.com/u17jAVOiKk",
+						"expanded_url": "https://twitter.com/antennamusic/status/1513389350591299587/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266004552,
+				"id_str": "266004552",
+				"name": "안테나 Antenna",
+				"screen_name": "antennamusic",
+				"location": "대한민국 서울",
+				"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+				"url": "https://t.co/XSWWwEPbf8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XSWWwEPbf8",
+								"expanded_url": "http://www.antenna.co.kr",
+								"display_url": "antenna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40367,
+				"friends_count": 9,
+				"listed_count": 386,
+				"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4854,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 13,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #정승환\n\n&lt;정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’&gt;\n잠시 후 오후 8시, 일반예매 오픈💛💚💙\n\n▶️ 정승환 공식 팬클럽 US（어스）2기 팬미팅 ‘LET US MEET’\nhttps://t.co/xq9wH38hvW\n\n#JungSeungHwan #US \n#LET_US_MEET #팬미팅 https://t.co/NbKqKhWm50"
+	},
+	{
+		"created_at": "Mon Apr 18 10:29:41 +0000 2022",
+		"id": 1515994887694712800,
+		"id_str": "1516001009117675523",
+		"full_text": "인스타그램\n@ onara_ganara\n@ s0geum_\n@ putmeonthemoonlight\n@ pomme_comme\n@ codnjs062_oo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1515994734179029000,
+		"in_reply_to_status_id_str": "1515994734179028999",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2193,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "인스타그램\n@ onara_ganara\n@ s0geum_\n@ putmeonthemoonlight\n@ pomme_comme\n@ codnjs062_oo"
+	},
+	{
+		"created_at": "Mon Apr 18 10:29:32 +0000 2022",
+		"id": 1515990811452014600,
+		"id_str": "1516000970924339204",
+		"full_text": "2022 PIPFF STAGE Line-up\n◾6.24(금) / 선우정아\n◾6.25(토) / 10CM\n\n위치 : 평창 올림픽메달플라자\n\n#PIPFF #피프스테이지 #PIPFFSTAGE\n#선우정아 #sunwoojunga #swja\n#10CM #십센치 #권정열",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PIPFF",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "피프스테이지",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "PIPFFSTAGE",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "sunwoojunga",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "swja",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "십센치",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						139,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1515990645902823400,
+		"in_reply_to_status_id_str": "1515990645902823427",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 22,
+			"listed_count": 102,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2022 PIPFF STAGE Line-up\n◾6.24(금) / 선우정아\n◾6.25(토) / 10CM\n\n위치 : 평창 올림픽메달플라자\n\n#PIPFF #피프스테이지 #PIPFFSTAGE\n#선우정아 #sunwoojunga #swja\n#10CM #십센치 #권정열"
+	},
+	{
+		"created_at": "Mon Apr 18 10:29:24 +0000 2022",
+		"id": 1515989588942069800,
+		"id_str": "1516000941081829382",
+		"full_text": "루비레코드  2022년 채용공고가 이번주 목요일 마감됩니다 ~04/21\n\n디자인 / 영상 / 공간운영파트 \n\n포트폴리오+이력서+자소서를\nrubyrecords@rubyrecord.com 으로 보내주세요^^ https://t.co/7cdPVmRftF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1515989586509369300,
+					"id_str": "1515989586509369349",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FQngfzMVEAUFHbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQngfzMVEAUFHbF.jpg",
+					"url": "https://t.co/7cdPVmRftF",
+					"display_url": "pic.twitter.com/7cdPVmRftF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1515989588942069761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1043,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 1043,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515989586509369300,
+					"id_str": "1515989586509369349",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FQngfzMVEAUFHbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQngfzMVEAUFHbF.jpg",
+					"url": "https://t.co/7cdPVmRftF",
+					"display_url": "pic.twitter.com/7cdPVmRftF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1515989588942069761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1043,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 1043,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은 음악으로 빛나는 일상 💎 루비레코드\n#루비튜브 Rubytube #인천여관X루비살롱 rubysalon\n#모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhVO1VS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7606,
+			"friends_count": 8265,
+			"listed_count": 194,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01685eee514bfb4a",
+			"url": "https://api.twitter.com/1.1/geo/id/01685eee514bfb4a.json",
+			"place_type": "city",
+			"name": "중구",
+			"full_name": "대한민국 중구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.592646397111,
+							37.4294897539181
+						],
+						[
+							126.644132161358,
+							37.4294897539181
+						],
+						[
+							126.644132161358,
+							37.4926495711362
+						],
+						[
+							126.592646397111,
+							37.4926495711362
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "루비레코드  2022년 채용공고가 이번주 목요일 마감됩니다 ~04/21\n\n디자인 / 영상 / 공간운영파트 \n\n포트폴리오+이력서+자소서를\nrubyrecords@rubyrecord.com 으로 보내주세요^^ https://t.co/7cdPVmRftF"
+	},
+	{
 		"created_at": "Mon Apr 18 09:29:34 +0000 2022",
 		"id": 1515983736323854300,
 		"id_str": "1515985880619569153",
