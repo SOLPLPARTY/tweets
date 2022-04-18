@@ -1,6 +1,625 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 09:29:34 +0000 2022",
+		"id": 1515983736323854300,
+		"id_str": "1515985880619569153",
+		"full_text": "[#Video] #정승환\n\n정승환과 성시경이 함께 부른\n‘이 바보야’ 영상이 공개되었습니다🎤\n두 사람의 완벽한 듀엣과 함께 하루 마무리하세요☺️✨\n\n🎙성시경 유튜브 채널\nhttps://t.co/nYhZWClJBW\n\n#JungSeungHwan #이바보야 #성시경 https://t.co/0BMtbi4zvi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"text": "이바보야",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "성시경",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nYhZWClJBW",
+					"expanded_url": "https://youtu.be/O7oKw79H-Nc",
+					"display_url": "youtu.be/O7oKw79H-Nc",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1515983663703675000,
+					"id_str": "1515983663703674881",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515983663703674881/pu/img/Flt47QO-j6mdvnnX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515983663703674881/pu/img/Flt47QO-j6mdvnnX.jpg",
+					"url": "https://t.co/0BMtbi4zvi",
+					"display_url": "pic.twitter.com/0BMtbi4zvi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1515983736323854340/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515983663703675000,
+					"id_str": "1515983663703674881",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515983663703674881/pu/img/Flt47QO-j6mdvnnX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515983663703674881/pu/img/Flt47QO-j6mdvnnX.jpg",
+					"url": "https://t.co/0BMtbi4zvi",
+					"display_url": "pic.twitter.com/0BMtbi4zvi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1515983736323854340/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16713,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515983663703674881/pu/vid/480x270/wC2SaLPA9kC2Nz2J.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1515983663703674881/pu/pl/iXE7PnkWs-wiOXj2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515983663703674881/pu/vid/640x360/sy2vqTN5TE2lrOot.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1515983663703674881/pu/vid/1280x720/Y4pzJRuZ--nyTR01.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40369,
+			"friends_count": 9,
+			"listed_count": 386,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\n정승환과 성시경이 함께 부른\n‘이 바보야’ 영상이 공개되었습니다🎤\n두 사람의 완벽한 듀엣과 함께 하루 마무리하세요☺️✨\n\n🎙성시경 유튜브 채널\nhttps://t.co/nYhZWClJBW\n\n#JungSeungHwan #이바보야 #성시경 https://t.co/0BMtbi4zvi"
+	},
+	{
+		"created_at": "Mon Apr 18 09:29:27 +0000 2022",
+		"id": 1515983277714477000,
+		"id_str": "1515985850433216514",
+		"full_text": "페썸이가 유썸 식구들과 재미있는 것을 하고 있다. 꼭 보러 갈테다. https://t.co/Si7lLAyFfe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Si7lLAyFfe",
+					"expanded_url": "https://twitter.com/sum_festival/status/1515978740144439297",
+					"display_url": "twitter.com/sum_festival/s…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2193,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1515978740144439300,
+		"quoted_status_id_str": "1515978740144439297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Si7lLAyFfe",
+			"expanded": "https://twitter.com/sum_festival/status/1515978740144439297",
+			"display": "twitter.com/sum_festival/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 18 09:01:11 +0000 2022",
+			"id": 1515978740144439300,
+			"id_str": "1515978740144439297",
+			"full_text": "박소은이 live SUM에서 담아낼 #청춘 은?\n\n여러분들의 청춘으로 기록될 오늘을 위해,\n진솔한 감정이 담긴 제 음악을 칠해보려 합니다.\n\n#liveSUM #liveSUM2022 #박소은 #cott #콧 #너드커넥션 #우주히피 #라이브썸 #유어썸머 #왓챠홀 #환상의섬 #꿈 https://t.co/mF4wkPUrDi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청춘",
+						"indices": [
+							20,
+							23
+						]
+					},
+					{
+						"text": "liveSUM",
+						"indices": [
+							79,
+							87
+						]
+					},
+					{
+						"text": "liveSUM2022",
+						"indices": [
+							88,
+							100
+						]
+					},
+					{
+						"text": "박소은",
+						"indices": [
+							101,
+							105
+						]
+					},
+					{
+						"text": "cott",
+						"indices": [
+							106,
+							111
+						]
+					},
+					{
+						"text": "콧",
+						"indices": [
+							112,
+							114
+						]
+					},
+					{
+						"text": "너드커넥션",
+						"indices": [
+							115,
+							121
+						]
+					},
+					{
+						"text": "우주히피",
+						"indices": [
+							122,
+							127
+						]
+					},
+					{
+						"text": "라이브썸",
+						"indices": [
+							128,
+							133
+						]
+					},
+					{
+						"text": "유어썸머",
+						"indices": [
+							134,
+							139
+						]
+					},
+					{
+						"text": "왓챠홀",
+						"indices": [
+							140,
+							144
+						]
+					},
+					{
+						"text": "환상의섬",
+						"indices": [
+							145,
+							150
+						]
+					},
+					{
+						"text": "꿈",
+						"indices": [
+							151,
+							153
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1515978175658233900,
+						"id_str": "1515978175658233856",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FQnWHmdakAAophP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQnWHmdakAAophP.jpg",
+						"url": "https://t.co/mF4wkPUrDi",
+						"display_url": "pic.twitter.com/mF4wkPUrDi",
+						"expanded_url": "https://twitter.com/SUM_festival/status/1515978740144439297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1515978175658233900,
+						"id_str": "1515978175658233856",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/FQnWHmdakAAophP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQnWHmdakAAophP.jpg",
+						"url": "https://t.co/mF4wkPUrDi",
+						"display_url": "pic.twitter.com/mF4wkPUrDi",
+						"expanded_url": "https://twitter.com/SUM_festival/status/1515978740144439297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1509478657227518000,
+				"id_str": "1509478657227517956",
+				"name": "festival SUM",
+				"screen_name": "SUM_festival",
+				"location": "",
+				"description": "▪️live SUM 2022\n4월 30일 - 5월 1일 6PM\n@왓챠홀 / 예스24티켓\n\n▪️festival SUM 2022\n6월 4일 - 5일\n@예스24라이브홀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24,
+				"friends_count": 2,
+				"listed_count": 0,
+				"created_at": "Thu Mar 31 10:32:30 +0000 2022",
+				"favourites_count": 34,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510906233334931457/Z1su-5H1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510906233334931457/Z1su-5H1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509478657227517956/1648723241",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페썸이가 유썸 식구들과 재미있는 것을 하고 있다. 꼭 보러 갈테다. https://t.co/Si7lLAyFfe"
+	},
+	{
 		"created_at": "Mon Apr 18 09:11:22 +0000 2022",
 		"id": 1515978692362596400,
 		"id_str": "1515981300578107393",
