@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 06:11:24 +0000 2022",
+		"id": 1515932330698834000,
+		"id_str": "1515936009904701441",
+		"full_text": "📣공연 연기 안내\n\n4.22&amp;23 양일 진행될 예정이었던 [회기동 단편선 &lt;백년&gt; 발매 및 재미공작소 쇼케이스 10주년 기념 특별 공연]이 아티스트의 건강상의 이유로 연기되었습니다. 예매해주신 분들께는 네이버 예약을 통한 환불이 진행될 예정이며 공연 일정은 조만간 다시 공지하도록 하겠습니다🙏🏻 https://t.co/Cb46rChKlO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1515932273035473000,
+					"id_str": "1515932273035472896",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FQmsXt3UcAAsAsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQmsXt3UcAAsAsn.jpg",
+					"url": "https://t.co/Cb46rChKlO",
+					"display_url": "pic.twitter.com/Cb46rChKlO",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1515932330698833922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515932273035473000,
+					"id_str": "1515932273035472896",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FQmsXt3UcAAsAsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQmsXt3UcAAsAsn.jpg",
+					"url": "https://t.co/Cb46rChKlO",
+					"display_url": "pic.twitter.com/Cb46rChKlO",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1515932330698833922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1509745261802709000,
+		"in_reply_to_status_id_str": "1509745261802708992",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8360,
+			"friends_count": 557,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣공연 연기 안내\n\n4.22&amp;23 양일 진행될 예정이었던 [회기동 단편선 &lt;백년&gt; 발매 및 재미공작소 쇼케이스 10주년 기념 특별 공연]이 아티스트의 건강상의 이유로 연기되었습니다. 예매해주신 분들께는 네이버 예약을 통한 환불이 진행될 예정이며 공연 일정은 조만간 다시 공지하도록 하겠습니다🙏🏻 https://t.co/Cb46rChKlO"
+	},
+	{
+		"created_at": "Mon Apr 18 06:11:17 +0000 2022",
+		"id": 1515924802149974000,
+		"id_str": "1515935980104175619",
+		"full_text": "🙌이번주 금요일🙌\n[티키타카 콘서트 : 전유동]\n\n'모든' 관객이 직접 묻고 유동님이 즉답하는 신개념 Q&amp;A 토크 페스티벌!\n퇴근길을 대신하는 합법적 인터뷰 [티키타카 콘서트 전유동]\n\n‼️자세한 내용은 인스타그램 @tikacon_ 프로필 링크트리에‼️\n\n#프리즘홀 #prismhall #전유동 #단독공연 #티키타카 https://t.co/qanOuHN0fc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "전유동",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "티키타카",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1515924789567058000,
+					"id_str": "1515924789567057921",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FQmlkHxacAECAXD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQmlkHxacAECAXD.jpg",
+					"url": "https://t.co/qanOuHN0fc",
+					"display_url": "pic.twitter.com/qanOuHN0fc",
+					"expanded_url": "https://twitter.com/prismhall/status/1515924802149974018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515924789567058000,
+					"id_str": "1515924789567057921",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FQmlkHxacAECAXD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQmlkHxacAECAXD.jpg",
+					"url": "https://t.co/qanOuHN0fc",
+					"display_url": "pic.twitter.com/qanOuHN0fc",
+					"expanded_url": "https://twitter.com/prismhall/status/1515924802149974018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 1114,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙌이번주 금요일🙌\n[티키타카 콘서트 : 전유동]\n\n'모든' 관객이 직접 묻고 유동님이 즉답하는 신개념 Q&amp;A 토크 페스티벌!\n퇴근길을 대신하는 합법적 인터뷰 [티키타카 콘서트 전유동]\n\n‼️자세한 내용은 인스타그램 @tikacon_ 프로필 링크트리에‼️\n\n#프리즘홀 #prismhall #전유동 #단독공연 #티키타카 https://t.co/qanOuHN0fc"
+	},
+	{
 		"created_at": "Mon Apr 18 05:11:17 +0000 2022",
 		"id": 1515919125784461300,
 		"id_str": "1515920880584507396",
