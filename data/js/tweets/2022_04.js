@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 11:58:15 +0000 2022",
+		"id": 1516371036249346000,
+		"id_str": "1516385686257029123",
+		"full_text": "SWITH! 빨리 보러 오세요💜\nHurry up, SWITH💜\nSWITH! 早く見にきてね💜\n\n📍KCON official - https://t.co/5JFVoB9nz8\n📍TVING - https://t.co/z8WSLFhGQq\n\n#KCON #KCON2022Premiere https://t.co/8N9dwdz1Xw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						133,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5JFVoB9nz8",
+					"expanded_url": "https://youtu.be/U3CrI13uERE",
+					"display_url": "youtu.be/U3CrI13uERE",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/z8WSLFhGQq",
+					"expanded_url": "https://www.tving.com/player/C51247",
+					"display_url": "tving.com/player/C51247",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1516370974404272000,
+					"id_str": "1516370974404272131",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1516370974404272131/pu/img/3NKuk3FmAFOHr6Rz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1516370974404272131/pu/img/3NKuk3FmAFOHr6Rz.jpg",
+					"url": "https://t.co/8N9dwdz1Xw",
+					"display_url": "pic.twitter.com/8N9dwdz1Xw",
+					"expanded_url": "https://twitter.com/KCON_official/status/1516371036249346048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516370974404272000,
+					"id_str": "1516370974404272131",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1516370974404272131/pu/img/3NKuk3FmAFOHr6Rz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1516370974404272131/pu/img/3NKuk3FmAFOHr6Rz.jpg",
+					"url": "https://t.co/8N9dwdz1Xw",
+					"display_url": "pic.twitter.com/8N9dwdz1Xw",
+					"expanded_url": "https://twitter.com/KCON_official/status/1516371036249346048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14652,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1516370974404272131/pu/vid/540x540/ThS3BjeznkyhVSZH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1516370974404272131/pu/pl/Dc-I6hnYfEk4zqJW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1516370974404272131/pu/vid/720x720/zHT6-9cFaQpsVWRA.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1516370974404272131/pu/vid/320x320/br4BW-AyeUL55dUL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433826,
+			"friends_count": 76,
+			"listed_count": 1066,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1647473526",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "SWITH! 빨리 보러 오세요💜\nHurry up, SWITH💜\nSWITH! 早く見にきてね💜\n\n📍KCON official - https://t.co/5JFVoB9nz8\n📍TVING - https://t.co/z8WSLFhGQq\n\n#KCON #KCON2022Premiere https://t.co/8N9dwdz1Xw"
+	},
+	{
+		"created_at": "Tue Apr 19 11:29:28 +0000 2022",
+		"id": 1516371635087224800,
+		"id_str": "1516378442849308675",
+		"full_text": "#나인NINE9 #콘서트\n이번주 일요일 #피크박스\n올해 마지막 #단콘!!\n\n#예매는인터파크\n#구름아래소극장 #Concert\n#나인 #NINE9 #디어클라우드 https://t.co/aJv9fQKwVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인NINE9",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "피크박스",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "단콘",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "예매는인터파크",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "구름아래소극장",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "Concert",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "NINE9",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516371626421813200,
+					"id_str": "1516371626421813251",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FQs79cxagAMmUIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQs79cxagAMmUIO.jpg",
+					"url": "https://t.co/aJv9fQKwVi",
+					"display_url": "pic.twitter.com/aJv9fQKwVi",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1516371635087224832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516371626421813200,
+					"id_str": "1516371626421813251",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FQs79cxagAMmUIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQs79cxagAMmUIO.jpg",
+					"url": "https://t.co/aJv9fQKwVi",
+					"display_url": "pic.twitter.com/aJv9fQKwVi",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1516371635087224832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2618,
+			"friends_count": 321,
+			"listed_count": 31,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 22142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#나인NINE9 #콘서트\n이번주 일요일 #피크박스\n올해 마지막 #단콘!!\n\n#예매는인터파크\n#구름아래소극장 #Concert\n#나인 #NINE9 #디어클라우드 https://t.co/aJv9fQKwVi"
+	},
+	{
 		"created_at": "Tue Apr 19 10:58:42 +0000 2022",
 		"id": 1516368920197800000,
 		"id_str": "1516370701833449473",
