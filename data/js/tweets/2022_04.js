@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 01:11:23 +0000 2022",
+		"id": 1516217903989035000,
+		"id_str": "1516222896502448134",
+		"full_text": "#시올 #사애 #민광진 #전호권 #삵 #피라 #앨리스 #하우캔아이 #갓오브유니버스 #본 #스프링스 #무지개99 #콘트라젤리 #덥 #송인효 #김라프 #피카 #박연두 #레코다메 #레이디버드 #클럽빵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시올",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "사애",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "민광진",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "전호권",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "삵",
+					"indices": [
+						18,
+						20
+					]
+				},
+				{
+					"text": "피라",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "앨리스",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "하우캔아이",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "갓오브유니버스",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "본",
+					"indices": [
+						46,
+						48
+					]
+				},
+				{
+					"text": "스프링스",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "무지개99",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "덥",
+					"indices": [
+						69,
+						71
+					]
+				},
+				{
+					"text": "송인효",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "김라프",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "피카",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "박연두",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "레코다메",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "레이디버드",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1516217793724969000,
+		"in_reply_to_status_id_str": "1516217793724968960",
+		"in_reply_to_user_id": 1387140522,
+		"in_reply_to_user_id_str": "1387140522",
+		"in_reply_to_screen_name": "club_bbang",
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 910,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#시올 #사애 #민광진 #전호권 #삵 #피라 #앨리스 #하우캔아이 #갓오브유니버스 #본 #스프링스 #무지개99 #콘트라젤리 #덥 #송인효 #김라프 #피카 #박연두 #레코다메 #레이디버드 #클럽빵"
+	},
+	{
+		"created_at": "Tue Apr 19 01:11:17 +0000 2022",
+		"id": 1516217793724969000,
+		"id_str": "1516222870879453185",
+		"full_text": "봄이 달리네요 걷잡을수 없는 녹색~ 거리두기도 없어지고 좀더 자유로운 일상~ 어디서 복병이 나타날지 모르니 긴장을 놓지 않고~ 클럽빵은 어제나 오늘이나 달리고 있어요 함께 해요~ https://t.co/RONiSiaDLF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516217779783086000,
+					"id_str": "1516217779783086080",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FQqwCZYaMAAAstU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQqwCZYaMAAAstU.jpg",
+					"url": "https://t.co/RONiSiaDLF",
+					"display_url": "pic.twitter.com/RONiSiaDLF",
+					"expanded_url": "https://twitter.com/club_bbang/status/1516217793724968960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516217779783086000,
+					"id_str": "1516217779783086080",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FQqwCZYaMAAAstU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQqwCZYaMAAAstU.jpg",
+					"url": "https://t.co/RONiSiaDLF",
+					"display_url": "pic.twitter.com/RONiSiaDLF",
+					"expanded_url": "https://twitter.com/club_bbang/status/1516217793724968960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 910,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "봄이 달리네요 걷잡을수 없는 녹색~ 거리두기도 없어지고 좀더 자유로운 일상~ 어디서 복병이 나타날지 모르니 긴장을 놓지 않고~ 클럽빵은 어제나 오늘이나 달리고 있어요 함께 해요~ https://t.co/RONiSiaDLF"
+	},
+	{
 		"created_at": "Mon Apr 18 22:29:26 +0000 2022",
 		"id": 1516178243522506800,
 		"id_str": "1516182139464781831",
