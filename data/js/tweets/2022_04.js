@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 13:11:17 +0000 2022",
+		"id": 1516403045516836900,
+		"id_str": "1516404064665362433",
+		"full_text": "내일(수)클럽빵은 싱어송라이터 공연~ 주로 포크입니다 넷인데 #사애 #시올 #민광진 #전호권 사애는 화단으로 공연할때도 있는데 꽤 오래 활동한 뮤지션, 시올은 기타나 MR반주에 맞춰노래~민광진은 정직한 뮤지션? 전호권은 KMA 후보에 오른바 있어요 좀 썰렁한 빵에서 음악에 집중할 자리~ #클럽빵 https://t.co/iuowzlzxOI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사애",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "시올",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "민광진",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "전호권",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						161,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516403032485134300,
+					"id_str": "1516403032485134340",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtYhheaAAQHgjk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtYhheaAAQHgjk.jpg",
+					"url": "https://t.co/iuowzlzxOI",
+					"display_url": "pic.twitter.com/iuowzlzxOI",
+					"expanded_url": "https://twitter.com/club_bbang/status/1516403045516836868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516403032485134300,
+					"id_str": "1516403032485134340",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtYhheaAAQHgjk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtYhheaAAQHgjk.jpg",
+					"url": "https://t.co/iuowzlzxOI",
+					"display_url": "pic.twitter.com/iuowzlzxOI",
+					"expanded_url": "https://twitter.com/club_bbang/status/1516403045516836868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 910,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일(수)클럽빵은 싱어송라이터 공연~ 주로 포크입니다 넷인데 #사애 #시올 #민광진 #전호권 사애는 화단으로 공연할때도 있는데 꽤 오래 활동한 뮤지션, 시올은 기타나 MR반주에 맞춰노래~민광진은 정직한 뮤지션? 전호권은 KMA 후보에 오른바 있어요 좀 썰렁한 빵에서 음악에 집중할 자리~ #클럽빵 https://t.co/iuowzlzxOI"
+	},
+	{
 		"created_at": "Tue Apr 19 11:58:15 +0000 2022",
 		"id": 1516371036249346000,
 		"id_str": "1516385686257029123",
