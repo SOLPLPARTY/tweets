@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 14:29:42 +0000 2022",
+		"id": 1516422840740114400,
+		"id_str": "1516423800421761038",
+		"full_text": "🌵चार सौ बीस Radio meets Wackids🌵\n\n0420水 생기스튜디오 15:00-??:??\n\n입장료 : 20,000won\n\n아기다리고기다리던 악당 와키즈의 420 스페샬 세샨! \n\n동표사 음반들도 판매합니다! https://t.co/WTFSLZQ4mT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516422834788405200,
+					"id_str": "1516422834788405250",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtqiKzakAIRt0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtqiKzakAIRt0I.jpg",
+					"url": "https://t.co/WTFSLZQ4mT",
+					"display_url": "pic.twitter.com/WTFSLZQ4mT",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1516422840740114436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516422834788405200,
+					"id_str": "1516422834788405250",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtqiKzakAIRt0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtqiKzakAIRt0I.jpg",
+					"url": "https://t.co/WTFSLZQ4mT",
+					"display_url": "pic.twitter.com/WTFSLZQ4mT",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1516422840740114436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516422834792571000,
+					"id_str": "1516422834792570880",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtqiK0aIAAejlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtqiK0aIAAejlx.jpg",
+					"url": "https://t.co/WTFSLZQ4mT",
+					"display_url": "pic.twitter.com/WTFSLZQ4mT",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1516422840740114436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516422835098759200,
+					"id_str": "1516422835098759169",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtqiL9aMAETM16.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtqiL9aMAETM16.jpg",
+					"url": "https://t.co/WTFSLZQ4mT",
+					"display_url": "pic.twitter.com/WTFSLZQ4mT",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1516422840740114436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516422835237167000,
+					"id_str": "1516422835237167109",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtqiMeaIAU95rI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtqiMeaIAU95rI.jpg",
+					"url": "https://t.co/WTFSLZQ4mT",
+					"display_url": "pic.twitter.com/WTFSLZQ4mT",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1516422840740114436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1107,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1745,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1649863226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌵चार सौ बीस Radio meets Wackids🌵\n\n0420水 생기스튜디오 15:00-??:??\n\n입장료 : 20,000won\n\n아기다리고기다리던 악당 와키즈의 420 스페샬 세샨! \n\n동표사 음반들도 판매합니다! https://t.co/WTFSLZQ4mT"
+	},
+	{
+		"created_at": "Tue Apr 19 14:29:33 +0000 2022",
+		"id": 1516421388223279000,
+		"id_str": "1516423761968439308",
+		"full_text": "4.20 내일은 음원+라디오+TV에서 만나요^^\n\n12:00 #우예린 신곡 제비꽃피는날 발매\n\n1:00 #우예린 KBS 2라디오 #임백천의백뮤직 (106.1Mhz/ 매일 낮 12시~2시 방송) 유튜브도 송출 \"라이브도 식후경\" 코너\n\n1:00 #모트 KBS1TV #아마도마지막존재 25화 : LP네버다이\n\n#루비레코드 https://t.co/0WvSRI6Ril",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우예린",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "우예린",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "임백천의백뮤직",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "아마도마지막존재",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "루비레코드",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516421384817483800,
+					"id_str": "1516421384817483777",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtpNxPaIAESCC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtpNxPaIAESCC8.jpg",
+					"url": "https://t.co/0WvSRI6Ril",
+					"display_url": "pic.twitter.com/0WvSRI6Ril",
+					"expanded_url": "https://twitter.com/ruby_records/status/1516421388223279104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516421384817483800,
+					"id_str": "1516421384817483777",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FQtpNxPaIAESCC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQtpNxPaIAESCC8.jpg",
+					"url": "https://t.co/0WvSRI6Ril",
+					"display_url": "pic.twitter.com/0WvSRI6Ril",
+					"expanded_url": "https://twitter.com/ruby_records/status/1516421388223279104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은 음악으로 빛나는 일상 💎 루비레코드\n#루비튜브 Rubytube #인천여관X루비살롱 rubysalon\n#모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhVO1VS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7604,
+			"friends_count": 8263,
+			"listed_count": 194,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4.20 내일은 음원+라디오+TV에서 만나요^^\n\n12:00 #우예린 신곡 제비꽃피는날 발매\n\n1:00 #우예린 KBS 2라디오 #임백천의백뮤직 (106.1Mhz/ 매일 낮 12시~2시 방송) 유튜브도 송출 \"라이브도 식후경\" 코너\n\n1:00 #모트 KBS1TV #아마도마지막존재 25화 : LP네버다이\n\n#루비레코드 https://t.co/0WvSRI6Ril"
+	},
+	{
 		"created_at": "Tue Apr 19 14:11:25 +0000 2022",
 		"id": 1516405849828339700,
 		"id_str": "1516419198163070990",
