@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 04:29:48 +0000 2022",
+		"id": 1516625257544577000,
+		"id_str": "1516635220384137219",
+		"full_text": "aespa’s 1st mini album, ‘Savage’, wins the main award at the top 3 global design awards ‘iF Design Award’! Its packaging that incorporates the virtual experience of ‘KWANGYA’ receives high praise!\n\n#aespa #æspa #에스파\n#Savage #iFDesignAward https://t.co/7VwqXACtmB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						211,
+						215
+					]
+				},
+				{
+					"text": "Savage",
+					"indices": [
+						216,
+						223
+					]
+				},
+				{
+					"text": "iFDesignAward",
+					"indices": [
+						224,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516625250644938800,
+					"id_str": "1516625250644938752",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwioUoUUAA9cBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwioUoUUAA9cBQ.jpg",
+					"url": "https://t.co/7VwqXACtmB",
+					"display_url": "pic.twitter.com/7VwqXACtmB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516625257544577024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516625250644938800,
+					"id_str": "1516625250644938752",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwioUoUUAA9cBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwioUoUUAA9cBQ.jpg",
+					"url": "https://t.co/7VwqXACtmB",
+					"display_url": "pic.twitter.com/7VwqXACtmB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516625257544577024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516625250682687500,
+					"id_str": "1516625250682687488",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwioUxUUAA7bkm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwioUxUUAA7bkm.jpg",
+					"url": "https://t.co/7VwqXACtmB",
+					"display_url": "pic.twitter.com/7VwqXACtmB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516625257544577024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10769218,
+			"friends_count": 56,
+			"listed_count": 12086,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1381,
+		"favorite_count": 4874,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa’s 1st mini album, ‘Savage’, wins the main award at the top 3 global design awards ‘iF Design Award’! Its packaging that incorporates the virtual experience of ‘KWANGYA’ receives high praise!\n\n#aespa #æspa #에스파\n#Savage #iFDesignAward https://t.co/7VwqXACtmB"
+	},
+	{
+		"created_at": "Wed Apr 20 04:29:45 +0000 2022",
+		"id": 1516623194144223200,
+		"id_str": "1516635207327232002",
+		"full_text": "'어썸하은' 나하은, SM과 전속 계약! '차세대 K팝 아티스트' 성장 기대!\n\n‘awesomehaeun’ NA HAEUN signs an exclusive contract with SM Entertainment! Excitement is high for the next generation of K-POP star!\n\n#나하은 #NAHAEUN https://t.co/iYjLNht7w0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나하은",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "NAHAEUN",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516623189119410200,
+					"id_str": "1516623189119410182",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwgwU2VIAYRvPP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwgwU2VIAYRvPP.jpg",
+					"url": "https://t.co/iYjLNht7w0",
+					"display_url": "pic.twitter.com/iYjLNht7w0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516623194144223235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1196,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516623189119410200,
+					"id_str": "1516623189119410182",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwgwU2VIAYRvPP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwgwU2VIAYRvPP.jpg",
+					"url": "https://t.co/iYjLNht7w0",
+					"display_url": "pic.twitter.com/iYjLNht7w0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516623194144223235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1196,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10769218,
+			"friends_count": 56,
+			"listed_count": 12086,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4981,
+		"favorite_count": 17506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'어썸하은' 나하은, SM과 전속 계약! '차세대 K팝 아티스트' 성장 기대!\n\n‘awesomehaeun’ NA HAEUN signs an exclusive contract with SM Entertainment! Excitement is high for the next generation of K-POP star!\n\n#나하은 #NAHAEUN https://t.co/iYjLNht7w0"
+	},
+	{
+		"created_at": "Wed Apr 20 04:29:37 +0000 2022",
+		"id": 1516622148797755400,
+		"id_str": "1516635173336535044",
+		"full_text": "LIM YOONA is confirmed to star as a lead in the upcoming romantic comedy ‘King the Land’, building upon her acting portfolio with this hotelier role!\n\n#임윤아 #LIMYOONA\n#킹더랜드 #KingTheLand \n#소녀시대 #GirlsGeneration https://t.co/e2tGqxLUbL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "킹더랜드",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "KingTheLand",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						192,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516622141545885700,
+					"id_str": "1516622141545885696",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"url": "https://t.co/e2tGqxLUbL",
+					"display_url": "pic.twitter.com/e2tGqxLUbL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516622148797755394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516622141545885700,
+					"id_str": "1516622141545885696",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"url": "https://t.co/e2tGqxLUbL",
+					"display_url": "pic.twitter.com/e2tGqxLUbL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516622148797755394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10769218,
+			"friends_count": 56,
+			"listed_count": 12086,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2204,
+		"favorite_count": 6201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIM YOONA is confirmed to star as a lead in the upcoming romantic comedy ‘King the Land’, building upon her acting portfolio with this hotelier role!\n\n#임윤아 #LIMYOONA\n#킹더랜드 #KingTheLand \n#소녀시대 #GirlsGeneration https://t.co/e2tGqxLUbL"
+	},
+	{
+		"created_at": "Wed Apr 20 04:29:34 +0000 2022",
+		"id": 1516621581023608800,
+		"id_str": "1516635160288059393",
+		"full_text": "해당 오디션 클립 영상의 ‘좋아요 수’가 심사에 반영되니 여러분의 많은 응원 부탁드립니다✨\n\n#너드커넥션 #너컨 #그레이트서울인베이전 #GreatSeoulInvasion #밴드 #Band #MrG #TheGreat #Mnet밴드서바이벌 #Mnet #엠넷",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "그레이트서울인베이전",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"text": "GreatSeoulInvasion",
+					"indices": [
+						75,
+						94
+					]
+				},
+				{
+					"text": "밴드",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "Band",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "MrG",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "TheGreat",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "Mnet밴드서바이벌",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						138,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1516621510303424500,
+		"in_reply_to_status_id_str": "1516621510303424512",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2192,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해당 오디션 클립 영상의 ‘좋아요 수’가 심사에 반영되니 여러분의 많은 응원 부탁드립니다✨\n\n#너드커넥션 #너컨 #그레이트서울인베이전 #GreatSeoulInvasion #밴드 #Band #MrG #TheGreat #Mnet밴드서바이벌 #Mnet #엠넷"
+	},
+	{
 		"created_at": "Wed Apr 20 04:04:56 +0000 2022",
 		"id": 1516628959407972400,
 		"id_str": "1516628959407972361",
