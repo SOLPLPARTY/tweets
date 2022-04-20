@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 15:58:15 +0000 2022",
+		"id": 1516793597148143600,
+		"id_str": "1516808471303397377",
+		"full_text": "슬케파 고별방송에 대한 시청자 청문회!!\n\n슬케파에 대한 의문, 항의, 끝인사! 뭐든 좋습니다! 마지막 방송을 앞둔 슬케파에 하고 싶은 이야기들을 해주세요! 4월 30일 DJ들이 디제잉으로 청문에 답변하겠습니다! 아래 링크에서 참여하세요! \n\n4월 25일 월요일 자정까지 🎉\nhttps://t.co/IBOGOncgdp https://t.co/DYyA7ZM9Wm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IBOGOncgdp",
+					"expanded_url": "https://forms.gle/48j9cgbWW1NZXYWL8",
+					"display_url": "forms.gle/48j9cgbWW1NZXY…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1516793588394659800,
+					"id_str": "1516793588394659840",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FQy7u3nakAA_Kzd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQy7u3nakAA_Kzd.jpg",
+					"url": "https://t.co/DYyA7ZM9Wm",
+					"display_url": "pic.twitter.com/DYyA7ZM9Wm",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1516793597148143616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516793588394659800,
+					"id_str": "1516793588394659840",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FQy7u3nakAA_Kzd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQy7u3nakAA_Kzd.jpg",
+					"url": "https://t.co/DYyA7ZM9Wm",
+					"display_url": "pic.twitter.com/DYyA7ZM9Wm",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1516793597148143616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7662,
+			"friends_count": 43,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬케파 고별방송에 대한 시청자 청문회!!\n\n슬케파에 대한 의문, 항의, 끝인사! 뭐든 좋습니다! 마지막 방송을 앞둔 슬케파에 하고 싶은 이야기들을 해주세요! 4월 30일 DJ들이 디제잉으로 청문에 답변하겠습니다! 아래 링크에서 참여하세요! \n\n4월 25일 월요일 자정까지 🎉\nhttps://t.co/IBOGOncgdp https://t.co/DYyA7ZM9Wm"
+	},
+	{
+		"created_at": "Wed Apr 20 15:29:26 +0000 2022",
+		"id": 1516789810626961400,
+		"id_str": "1516801222652661760",
+		"full_text": "#문화체육관광부 #라이브온 #Liveon #아리랑TV \n#인디 #인디뮤지션 #인디밴드 #버스커 \n#록 #롹 #메탈 #모던록 #포크 #하드록 \n#재즈 #알앤비 #가수 #뮤지션 #싱어송라이터\n#레이블 #인디레이블 https://t.co/MOzyRDglxz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화체육관광부",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "라이브온",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "Liveon",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "아리랑TV",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "인디뮤지션",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "인디밴드",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "버스커",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "록",
+					"indices": [
+						54,
+						56
+					]
+				},
+				{
+					"text": "롹",
+					"indices": [
+						57,
+						59
+					]
+				},
+				{
+					"text": "메탈",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "모던록",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "포크",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "하드록",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "재즈",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "알앤비",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "가수",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "뮤지션",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "싱어송라이터",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "인디레이블",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MOzyRDglxz",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1516789672164626434",
+					"display_url": "twitter.com/messenger_yoon…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2613,
+			"friends_count": 321,
+			"listed_count": 31,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 22145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516789672164626400,
+		"quoted_status_id_str": "1516789672164626434",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MOzyRDglxz",
+			"expanded": "https://twitter.com/messenger_yoon/status/1516789672164626434",
+			"display": "twitter.com/messenger_yoon…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 20 14:43:33 +0000 2022",
+			"id": 1516789672164626400,
+			"id_str": "1516789672164626434",
+			"full_text": "#지원사업\n작년에 진행되었던 '라이브온' 이 올해에도 진행 됩니다\n작년과 달리 기획사당 지원팀 수 제한이 없으니 \n소속 뮤지션 분들은 모두모두 지원해주시고요\n지원 자격도 많이 낮췄으니 해당 되시는 분들은 \n마감 전에 꼭 지원하시기 바랍니다\n#한국음악레이블산업협회 #음레협 https://t.co/sASlLvZgms",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "지원사업",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "한국음악레이블산업협회",
+						"indices": [
+							134,
+							146
+						]
+					},
+					{
+						"text": "음레협",
+						"indices": [
+							147,
+							151
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1516789669056610300,
+						"id_str": "1516789669056610314",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FQy4Ku8aAAoGswB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQy4Ku8aAAoGswB.jpg",
+						"url": "https://t.co/sASlLvZgms",
+						"display_url": "pic.twitter.com/sASlLvZgms",
+						"expanded_url": "https://twitter.com/messenger_yoon/status/1516789672164626434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1257,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1031,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1516789669056610300,
+						"id_str": "1516789669056610314",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FQy4Ku8aAAoGswB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQy4Ku8aAAoGswB.jpg",
+						"url": "https://t.co/sASlLvZgms",
+						"display_url": "pic.twitter.com/sASlLvZgms",
+						"expanded_url": "https://twitter.com/messenger_yoon/status/1516789672164626434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1257,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1031,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150566482,
+				"id_str": "150566482",
+				"name": "메신져윤(Messenger_Yoon)",
+				"screen_name": "messenger_yoon",
+				"location": "대한민국",
+				"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+				"url": "https://t.co/hvpc0ZvCMw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hvpc0ZvCMw",
+								"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+								"display_url": "youtube.com/channel/UCVCr7…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2613,
+				"friends_count": 321,
+				"listed_count": 31,
+				"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+				"favourites_count": 22145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5833,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#문화체육관광부 #라이브온 #Liveon #아리랑TV \n#인디 #인디뮤지션 #인디밴드 #버스커 \n#록 #롹 #메탈 #모던록 #포크 #하드록 \n#재즈 #알앤비 #가수 #뮤지션 #싱어송라이터\n#레이블 #인디레이블 https://t.co/MOzyRDglxz"
+	},
+	{
 		"created_at": "Wed Apr 20 15:11:23 +0000 2022",
 		"id": 1516792298066960400,
 		"id_str": "1516796676878573570",
