@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 10:29:28 +0000 2022",
+		"id": 1517080705649582000,
+		"id_str": "1517088118188523521",
+		"full_text": "이수정(LEE SU JEONG)\nLyrics Image\n\n03. 진작에 헤어질 걸 그랬어\n04. 체온\n05. 거울\n06. Cosmos\n\n1st Mini Album [My Name]\n2022.04.26 6PM (KST)\n\n#이수정 #LEESUJEONG #MyName https://t.co/l37E9nmmls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수정",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "LEESUJEONG",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"text": "MyName",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517039390299607000,
+					"id_str": "1517039390299607040",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ2bSbEVUAAodCC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ2bSbEVUAAodCC.jpg",
+					"url": "https://t.co/l37E9nmmls",
+					"display_url": "pic.twitter.com/l37E9nmmls",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517080705649582080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1835,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517039390299607000,
+					"id_str": "1517039390299607040",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ2bSbEVUAAodCC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ2bSbEVUAAodCC.jpg",
+					"url": "https://t.co/l37E9nmmls",
+					"display_url": "pic.twitter.com/l37E9nmmls",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517080705649582080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1835,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517039397715148800,
+					"id_str": "1517039397715148800",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ2bS2sVgAAdlFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ2bS2sVgAAdlFi.jpg",
+					"url": "https://t.co/l37E9nmmls",
+					"display_url": "pic.twitter.com/l37E9nmmls",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517080705649582080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1835,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517039404904116200,
+					"id_str": "1517039404904116229",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ2bTReUcAU9Bxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ2bTReUcAU9Bxm.jpg",
+					"url": "https://t.co/l37E9nmmls",
+					"display_url": "pic.twitter.com/l37E9nmmls",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517080705649582080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1835,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517039412822962200,
+					"id_str": "1517039412822962176",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ2bTu-UcAA0qv-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ2bTu-UcAA0qv-.jpg",
+					"url": "https://t.co/l37E9nmmls",
+					"display_url": "pic.twitter.com/l37E9nmmls",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517080705649582080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1835,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424948,
+			"friends_count": 12,
+			"listed_count": 1886,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1650362855",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이수정(LEE SU JEONG)\nLyrics Image\n\n03. 진작에 헤어질 걸 그랬어\n04. 체온\n05. 거울\n06. Cosmos\n\n1st Mini Album [My Name]\n2022.04.26 6PM (KST)\n\n#이수정 #LEESUJEONG #MyName https://t.co/l37E9nmmls"
+	},
+	{
+		"created_at": "Thu Apr 21 10:29:25 +0000 2022",
+		"id": 1517078024579162000,
+		"id_str": "1517088105161007104",
+		"full_text": "신곡 💎𝐀𝐛𝐨𝐮𝐭 𝐃𝐚𝐦𝐧 𝐓𝐢𝐦𝐞💎으로 돌아온\n🦋#리조 #Team워너 #인터뷰 공개!💅\n🎥풀영상 https://t.co/syO9d2CTWN https://t.co/JQle4JXXLp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리조",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "Team워너",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						40,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/syO9d2CTWN",
+					"expanded_url": "https://youtu.be/BWLggIPQyAU",
+					"display_url": "youtu.be/BWLggIPQyAU",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517076940083052500,
+					"id_str": "1517076940083052544",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517076940083052544/pu/img/dybcZrNcPUVzDWLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517076940083052544/pu/img/dybcZrNcPUVzDWLw.jpg",
+					"url": "https://t.co/JQle4JXXLp",
+					"display_url": "pic.twitter.com/JQle4JXXLp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1517078024579162112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517076940083052500,
+					"id_str": "1517076940083052544",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517076940083052544/pu/img/dybcZrNcPUVzDWLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517076940083052544/pu/img/dybcZrNcPUVzDWLw.jpg",
+					"url": "https://t.co/JQle4JXXLp",
+					"display_url": "pic.twitter.com/JQle4JXXLp",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1517078024579162112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58808,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517076940083052544/pu/vid/540x540/6sHSko2Mvx54TnzX.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517076940083052544/pu/vid/320x320/htLa7AdvgKhvTrGd.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517076940083052544/pu/vid/720x720/l6nBo1Ig6UozaVNe.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517076940083052544/pu/pl/szDHA9SujRRN_Ofa.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56905,
+			"friends_count": 494,
+			"listed_count": 0,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신곡 💎𝐀𝐛𝐨𝐮𝐭 𝐃𝐚𝐦𝐧 𝐓𝐢𝐦𝐞💎으로 돌아온\n🦋#리조 #Team워너 #인터뷰 공개!💅\n🎥풀영상 https://t.co/syO9d2CTWN https://t.co/JQle4JXXLp"
+	},
+	{
 		"created_at": "Thu Apr 21 09:33:06 +0000 2022",
 		"id": 1517073933425471500,
 		"id_str": "1517073933425471488",
