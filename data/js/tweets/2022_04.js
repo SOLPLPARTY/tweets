@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 13:11:20 +0000 2022",
+		"id": 1517491147048120300,
+		"id_str": "1517491240648028164",
+		"full_text": "내일은 토요일 오늘이 토요일인줄~ 암튼 내일은 싱어송리이터들이 봄~ 일상~ 세상 이야기를 펼쳐요~ 슈퍼스타는 없지만 멋진 친구들과 봄 저녁을 함께~ #덥 #김찬민 #김재슬 #송인효 #클럽빵 https://t.co/uOUq3schul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덥",
+					"indices": [
+						83,
+						85
+					]
+				},
+				{
+					"text": "김찬민",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "김재슬",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "송인효",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						101,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517491139599007700,
+					"id_str": "1517491139599007744",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ82JsWaAAAoj0E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ82JsWaAAAoj0E.jpg",
+					"url": "https://t.co/uOUq3schul",
+					"display_url": "pic.twitter.com/uOUq3schul",
+					"expanded_url": "https://twitter.com/club_bbang/status/1517491147048120320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517491139599007700,
+					"id_str": "1517491139599007744",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ82JsWaAAAoj0E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ82JsWaAAAoj0E.jpg",
+					"url": "https://t.co/uOUq3schul",
+					"display_url": "pic.twitter.com/uOUq3schul",
+					"expanded_url": "https://twitter.com/club_bbang/status/1517491147048120320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 910,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일은 토요일 오늘이 토요일인줄~ 암튼 내일은 싱어송리이터들이 봄~ 일상~ 세상 이야기를 펼쳐요~ 슈퍼스타는 없지만 멋진 친구들과 봄 저녁을 함께~ #덥 #김찬민 #김재슬 #송인효 #클럽빵 https://t.co/uOUq3schul"
+	},
+	{
+		"created_at": "Fri Apr 22 13:11:16 +0000 2022",
+		"id": 1517488390790283300,
+		"id_str": "1517491227582775296",
+		"full_text": "📢 4/23 공연 현장 안내\n⠀\n&lt;임헌일 단독 콘서트：롤링 27주년 기념 공연&gt;\n· 티켓수령 : 5시 (현장구매 가능)\n· 입장 : 5시 30분 \n· 공연시작 : 6시\n· 출연 : 임헌일\n⠀\n#임헌일  #단독콘서트\n#롤링홀 #롤링27주년 \n#홍대 #공연 #인디 #멜론티켓 https://t.co/99WkNk37bR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임헌일",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517085977785045000,
+					"id_str": "1517085977785044992",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3FqK-akAA0-A_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3FqK-akAA0-A_.jpg",
+					"url": "https://t.co/99WkNk37bR",
+					"display_url": "pic.twitter.com/99WkNk37bR",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1517488390790283265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517085977785045000,
+					"id_str": "1517085977785044992",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3FqK-akAA0-A_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3FqK-akAA0-A_.jpg",
+					"url": "https://t.co/99WkNk37bR",
+					"display_url": "pic.twitter.com/99WkNk37bR",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1517488390790283265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517085977214611500,
+					"id_str": "1517085977214611457",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3FqI2acAEc5Uh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3FqI2acAEc5Uh.jpg",
+					"url": "https://t.co/99WkNk37bR",
+					"display_url": "pic.twitter.com/99WkNk37bR",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1517488390790283265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 467,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 4/23 공연 현장 안내\n⠀\n&lt;임헌일 단독 콘서트：롤링 27주년 기념 공연&gt;\n· 티켓수령 : 5시 (현장구매 가능)\n· 입장 : 5시 30분 \n· 공연시작 : 6시\n· 출연 : 임헌일\n⠀\n#임헌일  #단독콘서트\n#롤링홀 #롤링27주년 \n#홍대 #공연 #인디 #멜론티켓 https://t.co/99WkNk37bR"
+	},
+	{
 		"created_at": "Fri Apr 22 11:29:32 +0000 2022",
 		"id": 1517459405780164600,
 		"id_str": "1517465622954795008",
