@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 01:58:33 +0000 2022",
+		"id": 1517307225068384300,
+		"id_str": "1517321931111997441",
+		"full_text": "KCON 2022 Premiere CONVENTION GUIDE🎡\n\nKPOPの聖地、SEOUL👑\nときめき溢れるアーティストとの出会い、TOKYO☕\nダンスとライブビューイングで1つになったLA🎬\n\nSEOUL、TOKYO、LAでKCONコンベンションをお楽しみください！\n*CHICAGOではSHOWのみ行われます。\n\n#KCON #KCON2022Premiere https://t.co/P72RxfruHV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						171,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517306723119165400,
+					"id_str": "1517306723119165440",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6ObPbUcAAcNJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6ObPbUcAAcNJp.jpg",
+					"url": "https://t.co/P72RxfruHV",
+					"display_url": "pic.twitter.com/P72RxfruHV",
+					"expanded_url": "https://twitter.com/KCON_official/status/1517307225068384257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1921,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517306723119165400,
+					"id_str": "1517306723119165440",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6ObPbUcAAcNJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6ObPbUcAAcNJp.jpg",
+					"url": "https://t.co/P72RxfruHV",
+					"display_url": "pic.twitter.com/P72RxfruHV",
+					"expanded_url": "https://twitter.com/KCON_official/status/1517307225068384257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1921,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517307218625851400,
+		"in_reply_to_status_id_str": "1517307218625851392",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433866,
+			"friends_count": 76,
+			"listed_count": 1070,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1650581781",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON 2022 Premiere CONVENTION GUIDE🎡\n\nKPOPの聖地、SEOUL👑\nときめき溢れるアーティストとの出会い、TOKYO☕\nダンスとライブビューイングで1つになったLA🎬\n\nSEOUL、TOKYO、LAでKCONコンベンションをお楽しみください！\n*CHICAGOではSHOWのみ行われます。\n\n#KCON #KCON2022Premiere https://t.co/P72RxfruHV"
+	},
+	{
+		"created_at": "Fri Apr 22 01:58:24 +0000 2022",
+		"id": 1517307218625851400,
+		"id_str": "1517321892822241281",
+		"full_text": "KCON 2022 Premiere CONVENTION GUIDE🎡\n\nKPOP의 성지, SEOUL👑\n설렘 가득한 아티스트와의 만남, TOKYO☕\n춤과 라이브뷰잉으로 하나된 LA🎬\n\nSEOUL, TOKYO, LA에서 KCON 컨벤션을 즐겨보세요! \n*CHICAGO에서는 SHOW만 진행됩니다.\n\n#KCON #KCON2022Premiere https://t.co/MufwkMJ22T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						169,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517306590763778000,
+					"id_str": "1517306590763778051",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6OTiXVgAMgsQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6OTiXVgAMgsQs.jpg",
+					"url": "https://t.co/MufwkMJ22T",
+					"display_url": "pic.twitter.com/MufwkMJ22T",
+					"expanded_url": "https://twitter.com/KCON_official/status/1517307218625851392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1921,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517306590763778000,
+					"id_str": "1517306590763778051",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6OTiXVgAMgsQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6OTiXVgAMgsQs.jpg",
+					"url": "https://t.co/MufwkMJ22T",
+					"display_url": "pic.twitter.com/MufwkMJ22T",
+					"expanded_url": "https://twitter.com/KCON_official/status/1517307218625851392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1921,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517307213336891400,
+		"in_reply_to_status_id_str": "1517307213336891392",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433866,
+			"friends_count": 76,
+			"listed_count": 1070,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1650581781",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 Premiere CONVENTION GUIDE🎡\n\nKPOP의 성지, SEOUL👑\n설렘 가득한 아티스트와의 만남, TOKYO☕\n춤과 라이브뷰잉으로 하나된 LA🎬\n\nSEOUL, TOKYO, LA에서 KCON 컨벤션을 즐겨보세요! \n*CHICAGO에서는 SHOW만 진행됩니다.\n\n#KCON #KCON2022Premiere https://t.co/MufwkMJ22T"
+	},
+	{
 		"created_at": "Fri Apr 22 01:11:16 +0000 2022",
 		"id": 1517306373880524800,
 		"id_str": "1517310033834430465",
