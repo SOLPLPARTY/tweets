@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 11:29:32 +0000 2022",
+		"id": 1517459405780164600,
+		"id_str": "1517465622954795008",
+		"full_text": "[#Video] #적재\n\n🎸기타등등 적재함 10화\n적재의 야간작업실 막방일 vlog (ENG)\n🔗https://t.co/XjT69IVGA7\n\n#Jukjae\n#기타등등적재함 #브이로그\n#모닝루틴 #야간작업실 https://t.co/X0cRHEpCJQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "기타등등적재함",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "모닝루틴",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "야간작업실",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XjT69IVGA7",
+					"expanded_url": "https://youtu.be/pPBaF0jyFdI",
+					"display_url": "youtu.be/pPBaF0jyFdI",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517458423746801700,
+					"id_str": "1517458423746801665",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ8ZG85aUAE2sPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ8ZG85aUAE2sPb.jpg",
+					"url": "https://t.co/X0cRHEpCJQ",
+					"display_url": "pic.twitter.com/X0cRHEpCJQ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1517459405780164608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517458423746801700,
+					"id_str": "1517458423746801665",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ8ZG85aUAE2sPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ8ZG85aUAE2sPb.jpg",
+					"url": "https://t.co/X0cRHEpCJQ",
+					"display_url": "pic.twitter.com/X0cRHEpCJQ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1517459405780164608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15915,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1517458423746801665/pl/3ksfRh2s05gojNJh.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1517458423746801665/vid/480x270/FCwG0Zbmrx-VX2u8.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1517458423746801665/vid/640x360/43ttInkTmRRlM0rT.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1517458423746801665/vid/1280x720/OoWTyd9MK_bQRaVk.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "🎸기타등등 적재함 10화 | 적재의 야간작업실 막방일 vlog",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/pPBaF0jyFdI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40388,
+			"friends_count": 9,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n🎸기타등등 적재함 10화\n적재의 야간작업실 막방일 vlog (ENG)\n🔗https://t.co/XjT69IVGA7\n\n#Jukjae\n#기타등등적재함 #브이로그\n#모닝루틴 #야간작업실 https://t.co/X0cRHEpCJQ"
+	},
+	{
 		"created_at": "Fri Apr 22 10:29:57 +0000 2022",
 		"id": 1517443797336031200,
 		"id_str": "1517450628548767746",
