@@ -1,6 +1,966 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 10:29:57 +0000 2022",
+		"id": 1517443797336031200,
+		"id_str": "1517450628548767746",
+		"full_text": "#JungSeungHwan #US \n#LET_US_MEET #팬미팅",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "US",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "LET_US_MEET",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"text": "팬미팅",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517443096325378000,
+		"in_reply_to_status_id_str": "1517443096325378049",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40387,
+			"friends_count": 9,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#JungSeungHwan #US \n#LET_US_MEET #팬미팅"
+	},
+	{
+		"created_at": "Fri Apr 22 10:29:51 +0000 2022",
+		"id": 1517443255277076500,
+		"id_str": "1517450602946650112",
+		"full_text": "[#권혁수] [#애드리브싸이퍼]\n\n빙구림들 수빙수 횟집으로 \n초대하려고 하는데 #괜찮으시겠어요 🐟🐠\n\n오메가3 처럼 통통 튀는 혁뚜 보러\n#권혁수감성 으로 출동🚨\n\n👉 https://t.co/3vLXopXaOF\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #수빙수 #안국건강 https://t.co/ouk2Q8Wvn6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "애드리브싸이퍼",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "괜찮으시겠어요",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						143,
+						157
+					]
+				},
+				{
+					"text": "수빙수",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "안국건강",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3vLXopXaOF",
+					"expanded_url": "https://youtu.be/7ERA_KoypTk",
+					"display_url": "youtu.be/7ERA_KoypTk",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517443249111441400,
+					"id_str": "1517443249111441409",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ8KmGYaIAEct_a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ8KmGYaIAEct_a.jpg",
+					"url": "https://t.co/ouk2Q8Wvn6",
+					"display_url": "pic.twitter.com/ouk2Q8Wvn6",
+					"expanded_url": "https://twitter.com/humap_official/status/1517443255277076480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517443249111441400,
+					"id_str": "1517443249111441409",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ8KmGYaIAEct_a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ8KmGYaIAEct_a.jpg",
+					"url": "https://t.co/ouk2Q8Wvn6",
+					"display_url": "pic.twitter.com/ouk2Q8Wvn6",
+					"expanded_url": "https://twitter.com/humap_official/status/1517443255277076480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#애드리브싸이퍼]\n\n빙구림들 수빙수 횟집으로 \n초대하려고 하는데 #괜찮으시겠어요 🐟🐠\n\n오메가3 처럼 통통 튀는 혁뚜 보러\n#권혁수감성 으로 출동🚨\n\n👉 https://t.co/3vLXopXaOF\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #수빙수 #안국건강 https://t.co/ouk2Q8Wvn6"
+	},
+	{
+		"created_at": "Fri Apr 22 10:29:45 +0000 2022",
+		"id": 1517443096325378000,
+		"id_str": "1517450577348804609",
+		"full_text": "[#Video] #정승환\n\n정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’ Teaser 2💛💚💙\n\nJUNG SEUNG HWAN OFFICIAL FAN CLUB ‘US’ 2ND FAN MEETING ‘LET US MEET’ Teaser 2💛💚💙\n\n🔗 https://t.co/w2Khf56ZnQ\n\n▪️일시 : 22.05.07. (토) 18:00\n▪️장소 : 코엑스 아티움\n▪️예매처 : 인터파크 티켓 https://t.co/x16rPY6vk7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2Khf56ZnQ",
+					"expanded_url": "https://youtu.be/lT_p7Y5CWKc",
+					"display_url": "youtu.be/lT_p7Y5CWKc",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517428698491723800,
+					"id_str": "1517428698491723776",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7_Xk4UYAA6ws2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7_Xk4UYAA6ws2.jpg",
+					"url": "https://t.co/x16rPY6vk7",
+					"display_url": "pic.twitter.com/x16rPY6vk7",
+					"expanded_url": "https://twitter.com/antennamusic/status/1517443096325378049/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517428698491723800,
+					"id_str": "1517428698491723776",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ7_Xk4UYAA6ws2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ7_Xk4UYAA6ws2.jpg",
+					"url": "https://t.co/x16rPY6vk7",
+					"display_url": "pic.twitter.com/x16rPY6vk7",
+					"expanded_url": "https://twitter.com/antennamusic/status/1517443096325378049/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59605,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1517428698491723776/vid/640x360/dc96Z2rMkg_20N4i.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1517428698491723776/vid/480x270/3wkqZ7bfQUXz7kRB.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1517428698491723776/vid/1280x720/qDOGh9JhUiFhIm8S.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1517428698491723776/pl/XF9Nk8ErbXUrSneE.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’ Teaser 2💛💚💙",
+						"description": "▪️일시 : 22.05.07. (토) 18:00\n\n▪️장소 : 코엑스 아티움\n\n▪️예매처 : 인터파크 티켓",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/lT_p7Y5CWKc"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 권진아 DS ‘Pink!’ 2022. 03. 31. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40387,
+			"friends_count": 9,
+			"listed_count": 387,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n\n정승환 공식 팬클럽 US(어스) 2기 팬미팅 ‘LET US MEET’ Teaser 2💛💚💙\n\nJUNG SEUNG HWAN OFFICIAL FAN CLUB ‘US’ 2ND FAN MEETING ‘LET US MEET’ Teaser 2💛💚💙\n\n🔗 https://t.co/w2Khf56ZnQ\n\n▪️일시 : 22.05.07. (토) 18:00\n▪️장소 : 코엑스 아티움\n▪️예매처 : 인터파크 티켓 https://t.co/x16rPY6vk7"
+	},
+	{
+		"created_at": "Fri Apr 22 10:29:39 +0000 2022",
+		"id": 1517443093737312300,
+		"id_str": "1517450551767838720",
+		"full_text": "이수정(LEE SU JEONG)\nLyrics Image\n\n달을 걸어서 (*Title)\n\n1st Mini Album [My Name]\n2022.04.26 6PM (KST)\n\n#이수정 #LEESUJEONG #MyName https://t.co/7Ax89F3NnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수정",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "LEESUJEONG",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "MyName",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517360367625666600,
+					"id_str": "1517360367625666560",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6_NwyVgAAPZyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6_NwyVgAAPZyx.jpg",
+					"url": "https://t.co/7Ax89F3NnU",
+					"display_url": "pic.twitter.com/7Ax89F3NnU",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517443093737312257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1835,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517360367625666600,
+					"id_str": "1517360367625666560",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6_NwyVgAAPZyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6_NwyVgAAPZyx.jpg",
+					"url": "https://t.co/7Ax89F3NnU",
+					"display_url": "pic.twitter.com/7Ax89F3NnU",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517443093737312257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1835,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424920,
+			"friends_count": 12,
+			"listed_count": 1886,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1650362855",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이수정(LEE SU JEONG)\nLyrics Image\n\n달을 걸어서 (*Title)\n\n1st Mini Album [My Name]\n2022.04.26 6PM (KST)\n\n#이수정 #LEESUJEONG #MyName https://t.co/7Ax89F3NnU"
+	},
+	{
+		"created_at": "Fri Apr 22 10:29:29 +0000 2022",
+		"id": 1517436222544564200,
+		"id_str": "1517450513561837568",
+		"full_text": "[NEWS] 캠퍼스멘토, 가수 #인순이 ˙해밀학교˙와 교육기부 MOU 체결\n\n👉 https://t.co/48CNkAIG4d \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #캠퍼스멘토",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "캠퍼스멘토",
+					"indices": [
+						102,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/48CNkAIG4d",
+					"expanded_url": "http://naver.me/GSgui0Ig",
+					"display_url": "naver.me/GSgui0Ig",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] 캠퍼스멘토, 가수 #인순이 ˙해밀학교˙와 교육기부 MOU 체결\n\n👉 https://t.co/48CNkAIG4d \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #캠퍼스멘토"
+	},
+	{
 		"created_at": "Fri Apr 22 10:12:51 +0000 2022",
 		"id": 1517446326052552700,
 		"id_str": "1517446326052552704",
@@ -1184,7 +2144,7 @@ Grailbird.data.tweets_2022_04 =
 		"created_at": "Fri Apr 22 09:29:32 +0000 2022",
 		"id": 1517431011117727700,
 		"id_str": "1517435424830066692",
-		"full_text": "리차드파커스가 들려주는 책 '긴긴밤'📚🎶의 이야기.\n곧, 만나요!🫶🏻❤‍🔥\n📚ARTIST: 리차드파커스\n📚TITLE: 긴긴밤\n📚RELEASE: 2022.04.25 MON 12:00 (KST)\n\n#미러볼뮤직 #리차드파커스 #레이블임 #서점리스본 #언어그이상 https://t.co/NKy0wr3f2K",
+		"full_text": "리차드파커스가 들려주는 책 '긴긴밤'📚🎶의 이야기.\n곧, 만나요!🫶🏻❤🔥\n📚ARTIST: 리차드파커스\n📚TITLE: 긴긴밤\n📚RELEASE: 2022.04.25 MON 12:00 (KST)\n\n#미러볼뮤직 #리차드파커스 #레이블임 #서점리스본 #언어그이상 https://t.co/NKy0wr3f2K",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1430,7 +2390,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "리차드파커스가 들려주는 책 '긴긴밤'📚🎶의 이야기.\n곧, 만나요!🫶🏻❤‍🔥\n📚ARTIST: 리차드파커스\n📚TITLE: 긴긴밤\n📚RELEASE: 2022.04.25 MON 12:00 (KST)\n\n#미러볼뮤직 #리차드파커스 #레이블임 #서점리스본 #언어그이상 https://t.co/NKy0wr3f2K"
+		"text": "리차드파커스가 들려주는 책 '긴긴밤'📚🎶의 이야기.\n곧, 만나요!🫶🏻❤🔥\n📚ARTIST: 리차드파커스\n📚TITLE: 긴긴밤\n📚RELEASE: 2022.04.25 MON 12:00 (KST)\n\n#미러볼뮤직 #리차드파커스 #레이블임 #서점리스본 #언어그이상 https://t.co/NKy0wr3f2K"
 	},
 	{
 		"created_at": "Fri Apr 22 09:29:27 +0000 2022",
