@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 01:11:16 +0000 2022",
+		"id": 1517306373880524800,
+		"id_str": "1517310033834430465",
+		"full_text": "[News : EarpEarp POP-UP Open]\n⠀\n스토리챌린지#2 ‘BPC CREW’와 떠나는 캠핑\n⠀\n어프어프의 귀여운 마스코트\nBuni , Puni , Cuni 와 떠나는 즐거운 캠핑 여행!\n⠀\n주소 : 서울 마포구 어울마당로65 상상마당 1층 디자인스퀘어\n기간 : 4월19일(화) ~ 5월29일(일) https://t.co/bEadveOm9w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517305987379581000,
+					"id_str": "1517305987379580929",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6NwalVUAE46Xr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6NwalVUAE46Xr.jpg",
+					"url": "https://t.co/bEadveOm9w",
+					"display_url": "pic.twitter.com/bEadveOm9w",
+					"expanded_url": "https://twitter.com/SSmadang/status/1517306373880524801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517305987379581000,
+					"id_str": "1517305987379580929",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ6NwalVUAE46Xr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ6NwalVUAE46Xr.jpg",
+					"url": "https://t.co/bEadveOm9w",
+					"display_url": "pic.twitter.com/bEadveOm9w",
+					"expanded_url": "https://twitter.com/SSmadang/status/1517306373880524801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17675,
+			"friends_count": 1856,
+			"listed_count": 288,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News : EarpEarp POP-UP Open]\n⠀\n스토리챌린지#2 ‘BPC CREW’와 떠나는 캠핑\n⠀\n어프어프의 귀여운 마스코트\nBuni , Puni , Cuni 와 떠나는 즐거운 캠핑 여행!\n⠀\n주소 : 서울 마포구 어울마당로65 상상마당 1층 디자인스퀘어\n기간 : 4월19일(화) ~ 5월29일(일) https://t.co/bEadveOm9w"
+	},
+	{
 		"created_at": "Thu Apr 21 23:58:29 +0000 2022",
 		"id": 1517285130699563000,
 		"id_str": "1517291714897133568",
