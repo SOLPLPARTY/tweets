@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 23 10:29:25 +0000 2022",
+		"id": 1517805480642445300,
+		"id_str": "1517812881424846856",
+		"full_text": "이수정(LEE SU JEONG)\nAlbum Preview\n\nTRACK LIST\n01. My Name\n02. 달을 걸어서 (*Title)\n03. 진작에 헤어질 걸 그랬어\n04. 체온\n05. 거울\n06. Cosmos\n\nhttps://t.co/Ehl9sicQKw\n\n1st Mini Album [My Name]\n2022.04.26 6PM (KST)\n\n#이수정 #LEESUJEONG #MyName #달을걸어서 https://t.co/GYVYE7S7gU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수정",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "LEESUJEONG",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "MyName",
+					"indices": [
+						209,
+						216
+					]
+				},
+				{
+					"text": "달을걸어서",
+					"indices": [
+						217,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ehl9sicQKw",
+					"expanded_url": "https://youtu.be/rF5e6tq1u38",
+					"display_url": "youtu.be/rF5e6tq1u38",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517769146167345200,
+					"id_str": "1517769146167345152",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517769146167345152/pu/img/qd4DDjUumzUh6YEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517769146167345152/pu/img/qd4DDjUumzUh6YEc.jpg",
+					"url": "https://t.co/GYVYE7S7gU",
+					"display_url": "pic.twitter.com/GYVYE7S7gU",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517805480642445312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517769146167345200,
+					"id_str": "1517769146167345152",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517769146167345152/pu/img/qd4DDjUumzUh6YEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517769146167345152/pu/img/qd4DDjUumzUh6YEc.jpg",
+					"url": "https://t.co/GYVYE7S7gU",
+					"display_url": "pic.twitter.com/GYVYE7S7gU",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1517805480642445312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18084,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517769146167345152/pu/vid/1280x720/Pe4Aj_sT1oHI8BLS.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517769146167345152/pu/vid/480x270/3iTuE2BVkD-x-gib.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517769146167345152/pu/pl/mb2jcNjotFRS24T3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517769146167345152/pu/vid/640x360/fsmBgIQHLucmMN9j.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424906,
+			"friends_count": 12,
+			"listed_count": 1887,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1650362855",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이수정(LEE SU JEONG)\nAlbum Preview\n\nTRACK LIST\n01. My Name\n02. 달을 걸어서 (*Title)\n03. 진작에 헤어질 걸 그랬어\n04. 체온\n05. 거울\n06. Cosmos\n\nhttps://t.co/Ehl9sicQKw\n\n1st Mini Album [My Name]\n2022.04.26 6PM (KST)\n\n#이수정 #LEESUJEONG #MyName #달을걸어서 https://t.co/GYVYE7S7gU"
+	},
+	{
 		"created_at": "Sat Apr 23 10:03:16 +0000 2022",
 		"id": 1517806300272332800,
 		"id_str": "1517806300272332802",
