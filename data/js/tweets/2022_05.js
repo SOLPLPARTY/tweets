@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 02 00:58:47 +0000 2022",
+		"id": 1520930622130122800,
+		"id_str": "1520930769375531010",
+		"full_text": "@Zzz51082432 SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Zzz51082432",
+					"name": "Zzz",
+					"id": 1520087613008343000,
+					"id_str": "1520087613008343041",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1520712715227963400,
+		"in_reply_to_status_id_str": "1520712715227963394",
+		"in_reply_to_user_id": 1520087613008343000,
+		"in_reply_to_user_id_str": "1520087613008343041",
+		"in_reply_to_screen_name": "Zzz51082432",
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Zzz51082432 SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다"
+	},
+	{
+		"created_at": "Mon May 02 00:58:45 +0000 2022",
+		"id": 1520930540538396700,
+		"id_str": "1520930760563298305",
+		"full_text": "@guy_isgood SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guy_isgood",
+					"name": "거래계(츠무기굿즈구매시시향지증정)",
+					"id": 1428758687741472800,
+					"id_str": "1428758687741472769",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1520721765336375300,
+		"in_reply_to_status_id_str": "1520721765336375297",
+		"in_reply_to_user_id": 1428758687741472800,
+		"in_reply_to_user_id_str": "1428758687741472769",
+		"in_reply_to_screen_name": "guy_isgood",
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@guy_isgood SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다"
+	},
+	{
+		"created_at": "Mon May 02 00:58:37 +0000 2022",
+		"id": 1520930518870597600,
+		"id_str": "1520930726522368000",
+		"full_text": "@justintimKorea SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "justintimKorea",
+					"name": "탬버린입니담",
+					"id": 702523453434245100,
+					"id_str": "702523453434245120",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1520729917004034000,
+		"in_reply_to_status_id_str": "1520729917004034048",
+		"in_reply_to_user_id": 702523453434245100,
+		"in_reply_to_user_id_str": "702523453434245120",
+		"in_reply_to_screen_name": "justintimKorea",
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@justintimKorea SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다"
+	},
+	{
+		"created_at": "Mon May 02 00:58:30 +0000 2022",
+		"id": 1520930452248297500,
+		"id_str": "1520930696709218309",
+		"full_text": "@just_bfflove SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "just_bfflove",
+					"name": "민형이",
+					"id": 893675190055338000,
+					"id_str": "893675190055337984",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1520741560467734500,
+		"in_reply_to_status_id_str": "1520741560467734528",
+		"in_reply_to_user_id": 893675190055338000,
+		"in_reply_to_user_id_str": "893675190055337984",
+		"in_reply_to_screen_name": "just_bfflove",
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@just_bfflove SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다"
+	},
+	{
+		"created_at": "Mon May 02 00:58:24 +0000 2022",
+		"id": 1520930347654914000,
+		"id_str": "1520930671040024577",
+		"full_text": "@mymarrk SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mymarrk",
+					"name": "my",
+					"id": 1355925429421367300,
+					"id_str": "1355925429421367299",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1520748655875358700,
+		"in_reply_to_status_id_str": "1520748655875358720",
+		"in_reply_to_user_id": 1355925429421367300,
+		"in_reply_to_user_id_str": "1355925429421367299",
+		"in_reply_to_screen_name": "mymarrk",
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@mymarrk SJF 입니다 공식 예매처가 아닌 타인으로부터 양도 받거나 개인거래 인터넷 중고거래 사이트 및 기타 거래 방법으로 구매한 티켓은 취소 및 환불이 불가하며 그로 인한 피해 및 문제는 주최사 티켓 예매처에서 책임지지 않습니다 불법거래 적발 시 무통보 예매취소&amp;법적 제재 조치가 있을 수 있습니다"
+	},
+	{
 		"created_at": "Sun May 01 15:29:25 +0000 2022",
 		"id": 1520785966914363400,
 		"id_str": "1520787481221906442",
