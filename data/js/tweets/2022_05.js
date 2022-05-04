@@ -1,6 +1,1021 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 04 03:58:24 +0000 2022",
+		"id": 1521686137751818200,
+		"id_str": "1521700746051432448",
+		"full_text": "[OWV LOGIN] 全然減ってないOWVのペットボトルのようにQWVからの愛も一生減らないよ💜 QWVと共にKCON 2022 Premiereログイン完了🕹️✨\n\n#KCON #KCON2022Premiere #OWV @owv_official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						91,
+						108
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						109,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owv_official",
+					"name": "OWV",
+					"id": 1250972513003167700,
+					"id_str": "1250972513003167744",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1521686135541436400,
+		"in_reply_to_status_id_str": "1521686135541436416",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435051,
+			"friends_count": 76,
+			"listed_count": 1071,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1650581781",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[OWV LOGIN] 全然減ってないOWVのペットボトルのようにQWVからの愛も一生減らないよ💜 QWVと共にKCON 2022 Premiereログイン完了🕹️✨\n\n#KCON #KCON2022Premiere #OWV @owv_official"
+	},
+	{
+		"created_at": "Wed May 04 03:58:18 +0000 2022",
+		"id": 1521686135541436400,
+		"id_str": "1521700720440971265",
+		"full_text": "[OWV LOGIN] OWV 물병의 물처럼 QWV 사랑, 줄어들지 않잖아💜 QWV와 함께 KCON 2022 Premiere 로그인 완료🕹️✨\n\n#KCON #KCON2022Premiere #OWV @owv_official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owv_official",
+					"name": "OWV",
+					"id": 1250972513003167700,
+					"id_str": "1250972513003167744",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1521686053035200500,
+		"in_reply_to_status_id_str": "1521686053035200517",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435051,
+			"friends_count": 76,
+			"listed_count": 1071,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1650581781",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[OWV LOGIN] OWV 물병의 물처럼 QWV 사랑, 줄어들지 않잖아💜 QWV와 함께 KCON 2022 Premiere 로그인 완료🕹️✨\n\n#KCON #KCON2022Premiere #OWV @owv_official"
+	},
+	{
+		"created_at": "Wed May 04 03:58:15 +0000 2022",
+		"id": 1521686053035200500,
+		"id_str": "1521700707426082817",
+		"full_text": "[OWV LOGIN] OWV's love for QWV is as full as the water bottle of OWV's💜 KCON 2022 Premiere LOGIN completed with QWV🕹️✨\n\n#KCON #KCON2022Premiere #OWV @owv_official https://t.co/0nQGGmLFG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						126,
+						143
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owv_official",
+					"name": "OWV",
+					"id": 1250972513003167700,
+					"id_str": "1250972513003167744",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521653690922258400,
+					"id_str": "1521653690922258434",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FR4Aef4VEAEMtY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR4Aef4VEAEMtY6.jpg",
+					"url": "https://t.co/0nQGGmLFG6",
+					"display_url": "pic.twitter.com/0nQGGmLFG6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1521686053035200517/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521653690922258400,
+					"id_str": "1521653690922258434",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FR4Aef4VEAEMtY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR4Aef4VEAEMtY6.jpg",
+					"url": "https://t.co/0nQGGmLFG6",
+					"display_url": "pic.twitter.com/0nQGGmLFG6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1521686053035200517/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 232365,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1521653690922258434/vid/320x568/-8cmgiCg4t4QZwRg.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1521653690922258434/pl/hBTIdNCdxzXBw0xn.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1521653690922258434/vid/720x1280/oNMT4Of6XQtRVVL-.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1521653690922258434/vid/480x852/rWECYkDaGs_ehkX7.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[KCON 2022 Premiere LOGIN] OWV",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435051,
+			"friends_count": 76,
+			"listed_count": 1071,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1650581781",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[OWV LOGIN] OWV's love for QWV is as full as the water bottle of OWV's💜 KCON 2022 Premiere LOGIN completed with QWV🕹️✨\n\n#KCON #KCON2022Premiere #OWV @owv_official https://t.co/0nQGGmLFG6"
+	},
+	{
+		"created_at": "Wed May 04 03:29:33 +0000 2022",
+		"id": 1521691497359642600,
+		"id_str": "1521693485455319045",
+		"full_text": "5월 5일 목요일 밤 10시, 계피가 함께한 KBS1 100번째 어린이날 특집 쇼큐멘터리 ‘다 어린이’가 방송됩니다!\n\n“우리 모두 다 어린이였다.”\n\n📍2022년 5월 5일 밤 10시\n📍KBS1\n📍다 어린이\n\n#계피 #어린이날 #어린이날특집 #쇼큐멘터리 #다어린이 #5월5일 #KBS1 #방송 https://t.co/LLCveTPKA1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "어린이날",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "어린이날특집",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "쇼큐멘터리",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "다어린이",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "5월5일",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "KBS1",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "방송",
+					"indices": [
+						161,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521691427637723100,
+					"id_str": "1521691427637723137",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521691427637723137/pu/img/RlsUrXjcnwTKhIsb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521691427637723137/pu/img/RlsUrXjcnwTKhIsb.jpg",
+					"url": "https://t.co/LLCveTPKA1",
+					"display_url": "pic.twitter.com/LLCveTPKA1",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1521691497359642627/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521691427637723100,
+					"id_str": "1521691427637723137",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521691427637723137/pu/img/RlsUrXjcnwTKhIsb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521691427637723137/pu/img/RlsUrXjcnwTKhIsb.jpg",
+					"url": "https://t.co/LLCveTPKA1",
+					"display_url": "pic.twitter.com/LLCveTPKA1",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1521691497359642627/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27886,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521691427637723137/pu/vid/1280x720/NI-VJATycyIt-XAA.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521691427637723137/pu/vid/480x270/VcSemDra8uehqvt4.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521691427637723137/pu/vid/640x360/pgeRie_vlSYgblx7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1521691427637723137/pu/pl/JoGGj_6bCy-x3QnF.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2202,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5월 5일 목요일 밤 10시, 계피가 함께한 KBS1 100번째 어린이날 특집 쇼큐멘터리 ‘다 어린이’가 방송됩니다!\n\n“우리 모두 다 어린이였다.”\n\n📍2022년 5월 5일 밤 10시\n📍KBS1\n📍다 어린이\n\n#계피 #어린이날 #어린이날특집 #쇼큐멘터리 #다어린이 #5월5일 #KBS1 #방송 https://t.co/LLCveTPKA1"
+	},
+	{
+		"created_at": "Wed May 04 03:29:30 +0000 2022",
+		"id": 1521689870971797500,
+		"id_str": "1521693472167714822",
+		"full_text": "[NEW RELEASE] \nArtist: 콤아겐즈 Komagens\nTitle: 야호 Yaho \nType: Digital Single\nGenre: Reggae/Dub\nDistribute: 동양표준음향사\n\n지니: https://t.co/dMPay5AZ3C\nVIBE:  https://t.co/wp8iBCiewb\nMelon: https://t.co/AW6Bl0s5a6\nFLO: https://t.co/2SrgyVC2dq\n벅스: https://t.co/Hmhai6RUQA https://t.co/I6RDSBmfqk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dMPay5AZ3C",
+					"expanded_url": "https://bit.ly/3vV77i4",
+					"display_url": "bit.ly/3vV77i4",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/wp8iBCiewb",
+					"expanded_url": "https://bit.ly/38TKL9a",
+					"display_url": "bit.ly/38TKL9a",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/AW6Bl0s5a6",
+					"expanded_url": "https://bit.ly/3sbx387",
+					"display_url": "bit.ly/3sbx387",
+					"indices": [
+						179,
+						202
+					]
+				},
+				{
+					"url": "https://t.co/2SrgyVC2dq",
+					"expanded_url": "https://bit.ly/3kCNFl7",
+					"display_url": "bit.ly/3kCNFl7",
+					"indices": [
+						208,
+						231
+					]
+				},
+				{
+					"url": "https://t.co/Hmhai6RUQA",
+					"expanded_url": "https://bit.ly/37cRRoH",
+					"display_url": "bit.ly/37cRRoH",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1521689811467194400,
+					"id_str": "1521689811467194368",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521689811467194368/pu/img/pld8Ikfzd97ayQAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521689811467194368/pu/img/pld8Ikfzd97ayQAb.jpg",
+					"url": "https://t.co/I6RDSBmfqk",
+					"display_url": "pic.twitter.com/I6RDSBmfqk",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1521689870971797504/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521689811467194400,
+					"id_str": "1521689811467194368",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521689811467194368/pu/img/pld8Ikfzd97ayQAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521689811467194368/pu/img/pld8Ikfzd97ayQAb.jpg",
+					"url": "https://t.co/I6RDSBmfqk",
+					"display_url": "pic.twitter.com/I6RDSBmfqk",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1521689870971797504/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							135,
+							142
+						],
+						"duration_millis": 47130,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1521689811467194368/pu/pl/-LiSWLEimgb-h5-b.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521689811467194368/pu/vid/480x504/ncHWCnatSf-l2ZER.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521689811467194368/pu/vid/320x336/3W8034LH4-CIGk3G.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521689811467194368/pu/vid/720x756/3Wy-0flomwSKWbr4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1743,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1651635957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEW RELEASE] \nArtist: 콤아겐즈 Komagens\nTitle: 야호 Yaho \nType: Digital Single\nGenre: Reggae/Dub\nDistribute: 동양표준음향사\n\n지니: https://t.co/dMPay5AZ3C\nVIBE:  https://t.co/wp8iBCiewb\nMelon: https://t.co/AW6Bl0s5a6\nFLO: https://t.co/2SrgyVC2dq\n벅스: https://t.co/Hmhai6RUQA https://t.co/I6RDSBmfqk"
+	},
+	{
 		"created_at": "Wed May 04 03:09:25 +0000 2022",
 		"id": 1521688420560498700,
 		"id_str": "1521688420560498688",
