@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 05 05:58:20 +0000 2022",
+		"id": 1522078887206740000,
+		"id_str": "1522093318066352129",
+		"full_text": "💜드.디.어 이번주 주말 KCON 2022 Premiere in Seoul 개최💜\n\n뭔 하루가 툔둥이 셀카보다 끝나네🤦‍♀️\n제 하루, 일주일, 365일 드립니다!!\n\n시간을 지배하는 자, TO1 셀카 공개🥰\n\n#KCON #KCON2022Premiere #TO1 #티오원 @TO1_offcl https://t.co/pOWtUtVnzi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						124,
+						141
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						147,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521815724360368000,
+					"id_str": "1521815724360368128",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FR6TVqAagAA9pUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR6TVqAagAA9pUJ.jpg",
+					"url": "https://t.co/pOWtUtVnzi",
+					"display_url": "pic.twitter.com/pOWtUtVnzi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522078887206739968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521815724360368000,
+					"id_str": "1521815724360368128",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FR6TVqAagAA9pUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR6TVqAagAA9pUJ.jpg",
+					"url": "https://t.co/pOWtUtVnzi",
+					"display_url": "pic.twitter.com/pOWtUtVnzi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522078887206739968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521815724532338700,
+					"id_str": "1521815724532338689",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FR6TVqpakAEY4ap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR6TVqpakAEY4ap.jpg",
+					"url": "https://t.co/pOWtUtVnzi",
+					"display_url": "pic.twitter.com/pOWtUtVnzi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522078887206739968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521815724695916500,
+					"id_str": "1521815724695916544",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FR6TVrQakAAt8EB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR6TVrQakAAt8EB.jpg",
+					"url": "https://t.co/pOWtUtVnzi",
+					"display_url": "pic.twitter.com/pOWtUtVnzi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522078887206739968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521815724825915400,
+					"id_str": "1521815724825915393",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FR6TVrvaMAE061y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR6TVrvaMAE061y.jpg",
+					"url": "https://t.co/pOWtUtVnzi",
+					"display_url": "pic.twitter.com/pOWtUtVnzi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522078887206739968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435345,
+			"friends_count": 76,
+			"listed_count": 1073,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜드.디.어 이번주 주말 KCON 2022 Premiere in Seoul 개최💜\n\n뭔 하루가 툔둥이 셀카보다 끝나네🤦‍♀️\n제 하루, 일주일, 365일 드립니다!!\n\n시간을 지배하는 자, TO1 셀카 공개🥰\n\n#KCON #KCON2022Premiere #TO1 #티오원 @TO1_offcl https://t.co/pOWtUtVnzi"
+	},
+	{
 		"created_at": "Thu May 05 03:58:23 +0000 2022",
 		"id": 1522051687212814300,
 		"id_str": "1522063129311592449",
@@ -536,7 +859,7 @@ Grailbird.data.tweets_2022_05 =
 		"created_at": "Thu May 05 03:44:45 +0000 2022",
 		"id": 1522059697490079700,
 		"id_str": "1522059697490079744",
-		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너​ Original : 답변완료 from 제이미 밀러 (Jamie Miller)\nhttps://t.co/n8LACq1GBa",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 제이미 밀러 (Jamie Miller)\nhttps://t.co/n8LACq1GBa",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -678,7 +1001,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너​ Original : 답변완료 from 제이미 밀러 (Jamie Miller)\nhttps://t.co/n8LACq1GBa"
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Original : 답변완료 from 제이미 밀러 (Jamie Miller)\nhttps://t.co/n8LACq1GBa"
 	},
 	{
 		"created_at": "Thu May 05 03:29:40 +0000 2022",
