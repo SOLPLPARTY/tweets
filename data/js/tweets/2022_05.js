@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 14:11:25 +0000 2022",
+		"id": 1522550299201659000,
+		"id_str": "1522579792285028354",
+		"full_text": "- 타이틀 : 더더(THETHE) : EP 9.5TH DRAMATIC IRONY 2022 발매 기념 콘서트\n- 일시 : 2022년 5월 7일 토요일 오후 6시 (입장 : 17시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979\n\n👇예매 바로가기👇\nhttps://t.co/RKfhVGGqXu\n\n#프리즘홀 #prismhall #더더 #단독공연 #발매공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "더더",
+					"indices": [
+						200,
+						203
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "발매공연",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RKfhVGGqXu",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=206795",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522550295020011500,
+		"in_reply_to_status_id_str": "1522550295020011520",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2041,
+			"friends_count": 1116,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 타이틀 : 더더(THETHE) : EP 9.5TH DRAMATIC IRONY 2022 발매 기념 콘서트\n- 일시 : 2022년 5월 7일 토요일 오후 6시 (입장 : 17시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979\n\n👇예매 바로가기👇\nhttps://t.co/RKfhVGGqXu\n\n#프리즘홀 #prismhall #더더 #단독공연 #발매공연"
+	},
+	{
+		"created_at": "Fri May 06 14:11:17 +0000 2022",
+		"id": 1522550295020011500,
+		"id_str": "1522579758202114054",
+		"full_text": "✨드디어 내일 공연입니다🙌\n더더(THETHE) : EP 9.5TH DRAMATIC IRONY 2022 발매 기념 콘서트\n\n한국에 모던록을 심은 대표 밴드 더더(THETHE). \n9.5집 &lt;DRAMATIC IRONY&gt; 발매기념 콘서트\n\n어떤 곡들과 어떤 모습들을 보여줄지 기대가 되는 공연입니다✨ https://t.co/EOh9p5xoHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522550286019338200,
+					"id_str": "1522550286019338240",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FSEvaxbaIAALV78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSEvaxbaIAALV78.jpg",
+					"url": "https://t.co/EOh9p5xoHK",
+					"display_url": "pic.twitter.com/EOh9p5xoHK",
+					"expanded_url": "https://twitter.com/prismhall/status/1522550295020011520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522550286019338200,
+					"id_str": "1522550286019338240",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FSEvaxbaIAALV78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSEvaxbaIAALV78.jpg",
+					"url": "https://t.co/EOh9p5xoHK",
+					"display_url": "pic.twitter.com/EOh9p5xoHK",
+					"expanded_url": "https://twitter.com/prismhall/status/1522550295020011520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2041,
+			"friends_count": 1116,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨드디어 내일 공연입니다🙌\n더더(THETHE) : EP 9.5TH DRAMATIC IRONY 2022 발매 기념 콘서트\n\n한국에 모던록을 심은 대표 밴드 더더(THETHE). \n9.5집 &lt;DRAMATIC IRONY&gt; 발매기념 콘서트\n\n어떤 곡들과 어떤 모습들을 보여줄지 기대가 되는 공연입니다✨ https://t.co/EOh9p5xoHK"
+	},
+	{
 		"created_at": "Fri May 06 12:29:25 +0000 2022",
 		"id": 1522539671934632000,
 		"id_str": "1522554121957654528",
