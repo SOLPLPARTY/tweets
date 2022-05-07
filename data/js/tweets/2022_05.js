@@ -1,6 +1,1804 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 09:58:43 +0000 2022",
+		"id": 1522876787965194200,
+		"id_str": "1522878586713255942",
+		"full_text": "해바라기는 툐원만 본다매?\n태양보다 더 빛나서...🌻\nme now 티오원바라기🥰\n잠시 후 7시, KCON 2022 Premiere에서 만나요💜\nJust gonna drop these selfies here...📸✨\nSee you tonight on KCON!\n現場でパシャパシャ！📸✨\n今夜、会いましょう！\n\n#KCON #KCON2022Premiere #TO1 #티오원 https://t.co/9njUtivdwT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						176,
+						193
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						199,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522876767794774000,
+					"id_str": "1522876767794774016",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FSJYWg0aQAAxqA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSJYWg0aQAAxqA4.jpg",
+					"url": "https://t.co/9njUtivdwT",
+					"display_url": "pic.twitter.com/9njUtivdwT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522876787965194240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522876767794774000,
+					"id_str": "1522876767794774016",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FSJYWg0aQAAxqA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSJYWg0aQAAxqA4.jpg",
+					"url": "https://t.co/9njUtivdwT",
+					"display_url": "pic.twitter.com/9njUtivdwT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522876787965194240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436326,
+			"friends_count": 76,
+			"listed_count": 1079,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "해바라기는 툐원만 본다매?\n태양보다 더 빛나서...🌻\nme now 티오원바라기🥰\n잠시 후 7시, KCON 2022 Premiere에서 만나요💜\nJust gonna drop these selfies here...📸✨\nSee you tonight on KCON!\n現場でパシャパシャ！📸✨\n今夜、会いましょう！\n\n#KCON #KCON2022Premiere #TO1 #티오원 https://t.co/9njUtivdwT"
+	},
+	{
+		"created_at": "Sat May 07 09:58:40 +0000 2022",
+		"id": 1522876075457810400,
+		"id_str": "1522878573673127936",
+		"full_text": "리허설 스포일러 @VIVIZ_official !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #VIVIZ #비비지 https://t.co/F1O7sSBxYy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						145,
+						162
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "비비지",
+					"indices": [
+						170,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VIVIZ_official",
+					"name": "VIVIZ",
+					"id": 1441319485638463500,
+					"id_str": "1441319485638463495",
+					"indices": [
+						9,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522870073777856500,
+					"id_str": "1522870073777856512",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522870073777856512/pu/img/kbH1DHkM2QFIvOY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522870073777856512/pu/img/kbH1DHkM2QFIvOY6.jpg",
+					"url": "https://t.co/F1O7sSBxYy",
+					"display_url": "pic.twitter.com/F1O7sSBxYy",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522876075457810432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522870073777856500,
+					"id_str": "1522870073777856512",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522870073777856512/pu/img/kbH1DHkM2QFIvOY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522870073777856512/pu/img/kbH1DHkM2QFIvOY6.jpg",
+					"url": "https://t.co/F1O7sSBxYy",
+					"display_url": "pic.twitter.com/F1O7sSBxYy",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522876075457810432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10577,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522870073777856512/pu/vid/640x360/fZnFZtw8MZf7z8qx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1522870073777856512/pu/pl/KKsaa9BgsylW2aBo.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522870073777856512/pu/vid/480x270/2NTGXmCzCyJRtLA1.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522870073777856512/pu/vid/1280x720/VNE5wumUcfbypTPq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436326,
+			"friends_count": 76,
+			"listed_count": 1079,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 997,
+		"favorite_count": 1919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "리허설 스포일러 @VIVIZ_official !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #VIVIZ #비비지 https://t.co/F1O7sSBxYy"
+	},
+	{
+		"created_at": "Sat May 07 09:58:34 +0000 2022",
+		"id": 1522875993769525200,
+		"id_str": "1522878548066938881",
+		"full_text": "리허설 스포일러 @loonatheworld !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #LOONA #이달의소녀 https://t.co/0P4osHzWS4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						144,
+						161
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						169,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522870145483669500,
+					"id_str": "1522870145483669505",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522870145483669505/pu/img/Vx0o3RlE3vHz__l5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522870145483669505/pu/img/Vx0o3RlE3vHz__l5.jpg",
+					"url": "https://t.co/0P4osHzWS4",
+					"display_url": "pic.twitter.com/0P4osHzWS4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875993769525248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522870145483669500,
+					"id_str": "1522870145483669505",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522870145483669505/pu/img/Vx0o3RlE3vHz__l5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522870145483669505/pu/img/Vx0o3RlE3vHz__l5.jpg",
+					"url": "https://t.co/0P4osHzWS4",
+					"display_url": "pic.twitter.com/0P4osHzWS4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875993769525248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10577,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522870145483669505/pu/vid/1280x720/P0wm08wzKZsu7H0R.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1522870145483669505/pu/pl/xnReHp9rBkHrs_jr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522870145483669505/pu/vid/640x360/NqSrJxnS-nRFQ2v1.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522870145483669505/pu/vid/480x270/AXEfmgMZwHZ_dSmh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436326,
+			"friends_count": 76,
+			"listed_count": 1079,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 567,
+		"favorite_count": 1078,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "리허설 스포일러 @loonatheworld !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #LOONA #이달의소녀 https://t.co/0P4osHzWS4"
+	},
+	{
+		"created_at": "Sat May 07 09:58:32 +0000 2022",
+		"id": 1522875765066702800,
+		"id_str": "1522878539200176135",
+		"full_text": "리허설 스포일러 @BraveGirls !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #BraveGirls #브레이브걸스 https://t.co/AJkzdJeFzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						141,
+						158
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BraveGirls",
+					"name": "Brave Girls",
+					"id": 222457842,
+					"id_str": "222457842",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522875516596134000,
+					"id_str": "1522875516596133889",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522875516596133889/pu/img/Eo8h5Tg7s3-6-alU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522875516596133889/pu/img/Eo8h5Tg7s3-6-alU.jpg",
+					"url": "https://t.co/AJkzdJeFzk",
+					"display_url": "pic.twitter.com/AJkzdJeFzk",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875765066702849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522875516596134000,
+					"id_str": "1522875516596133889",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522875516596133889/pu/img/Eo8h5Tg7s3-6-alU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522875516596133889/pu/img/Eo8h5Tg7s3-6-alU.jpg",
+					"url": "https://t.co/AJkzdJeFzk",
+					"display_url": "pic.twitter.com/AJkzdJeFzk",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875765066702849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10577,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1522875516596133889/pu/pl/AS6PyOFzjx3jN2nT.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875516596133889/pu/vid/1280x720/alE_AaSfab6CuOJ8.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875516596133889/pu/vid/480x270/21qVWbqkC6gGtVyW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875516596133889/pu/vid/640x360/BUmzs1lkNPrPptl2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436326,
+			"friends_count": 76,
+			"listed_count": 1079,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "리허설 스포일러 @BraveGirls !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #BraveGirls #브레이브걸스 https://t.co/AJkzdJeFzk"
+	},
+	{
+		"created_at": "Sat May 07 09:58:22 +0000 2022",
+		"id": 1522875567942811600,
+		"id_str": "1522878500952326144",
+		"full_text": "리허설 스포일러 @NMIXX_official !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 https://t.co/xejRIhZ9Ia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						145,
+						162
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "엔믹스",
+					"indices": [
+						170,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NMIXX_official",
+					"name": "NMIXX",
+					"id": 1392302226782052400,
+					"id_str": "1392302226782052355",
+					"indices": [
+						9,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522875337247719400,
+					"id_str": "1522875337247719424",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522875337247719424/pu/img/ZVvLCsVvr9Xp3OeX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522875337247719424/pu/img/ZVvLCsVvr9Xp3OeX.jpg",
+					"url": "https://t.co/xejRIhZ9Ia",
+					"display_url": "pic.twitter.com/xejRIhZ9Ia",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875567942811654/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522875337247719400,
+					"id_str": "1522875337247719424",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522875337247719424/pu/img/ZVvLCsVvr9Xp3OeX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522875337247719424/pu/img/ZVvLCsVvr9Xp3OeX.jpg",
+					"url": "https://t.co/xejRIhZ9Ia",
+					"display_url": "pic.twitter.com/xejRIhZ9Ia",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875567942811654/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18585,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875337247719424/pu/vid/640x360/IoXtXCkxqAxVDBGp.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875337247719424/pu/vid/1280x720/bq2RIvXSVpB84RHs.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1522875337247719424/pu/pl/rl_zH5WYwxivnMH0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875337247719424/pu/vid/480x270/rM_04JgVZE8Mrkbg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436326,
+			"friends_count": 76,
+			"listed_count": 1079,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 594,
+		"favorite_count": 1855,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "리허설 스포일러 @NMIXX_official !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 https://t.co/xejRIhZ9Ia"
+	},
+	{
+		"created_at": "Sat May 07 09:58:14 +0000 2022",
+		"id": 1522875412766146600,
+		"id_str": "1522878466949103616",
+		"full_text": "리허설 스포일러 @Highlight_AUent !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #HIGHLIGHT #하이라이트 https://t.co/CiicJxjp9N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						146,
+						163
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						175,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522875218104295400,
+					"id_str": "1522875218104295424",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522875218104295424/pu/img/A29R9tdIYPUCG4ZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522875218104295424/pu/img/A29R9tdIYPUCG4ZY.jpg",
+					"url": "https://t.co/CiicJxjp9N",
+					"display_url": "pic.twitter.com/CiicJxjp9N",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875412766146561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522875218104295400,
+					"id_str": "1522875218104295424",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522875218104295424/pu/img/A29R9tdIYPUCG4ZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522875218104295424/pu/img/A29R9tdIYPUCG4ZY.jpg",
+					"url": "https://t.co/CiicJxjp9N",
+					"display_url": "pic.twitter.com/CiicJxjp9N",
+					"expanded_url": "https://twitter.com/KCON_official/status/1522875412766146561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12312,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1522875218104295424/pu/pl/MggDAv4gBpGh1GeO.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875218104295424/pu/vid/1280x720/OpYWyjvz4K9kD0Zw.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875218104295424/pu/vid/480x270/hFzOFP9__i3Gke3Z.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1522875218104295424/pu/vid/640x360/y4oxvstx_oEIarbw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436326,
+			"friends_count": 76,
+			"listed_count": 1079,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 401,
+		"favorite_count": 451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "리허설 스포일러 @Highlight_AUent !\n\nSee you on KCON 2022 Premiere at 7 PM KST!\n오늘 밤 7시 KCON 2022 Premiere에서 만나요!\n今夜 7時 KCON 2022 Premiereで会いましょう！\n\n#KCON #KCON2022Premiere #HIGHLIGHT #하이라이트 https://t.co/CiicJxjp9N"
+	},
+	{
+		"created_at": "Sat May 07 09:29:40 +0000 2022",
+		"id": 1522867089421500400,
+		"id_str": "1522871275315683334",
+		"full_text": "아기싱어 PART3\n‘You’re my hero’\n\nMelon https://t.co/y3r1hULRKH\nGenie https://t.co/1YBB47dXSd\nBugs https://t.co/NPS9jqVEXz\nFLO https://t.co/bqsFqoUdHH\n\n@le_petit_piano \n#JungJaeHyung #YoureMyHero\n#KBS #아기싱어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungJaeHyung",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"text": "YoureMyHero",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "아기싱어",
+					"indices": [
+						196,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y3r1hULRKH",
+					"expanded_url": "http://bit.ly/3KTKZdm",
+					"display_url": "bit.ly/3KTKZdm",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/1YBB47dXSd",
+					"expanded_url": "http://bit.ly/3w8zZDP",
+					"display_url": "bit.ly/3w8zZDP",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/NPS9jqVEXz",
+					"expanded_url": "http://bit.ly/3KSYvxZ",
+					"display_url": "bit.ly/3KSYvxZ",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/bqsFqoUdHH",
+					"expanded_url": "http://bit.ly/3sff5Sg",
+					"display_url": "bit.ly/3sff5Sg",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1522867086699405300,
+		"in_reply_to_status_id_str": "1522867086699405313",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40384,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아기싱어 PART3\n‘You’re my hero’\n\nMelon https://t.co/y3r1hULRKH\nGenie https://t.co/1YBB47dXSd\nBugs https://t.co/NPS9jqVEXz\nFLO https://t.co/bqsFqoUdHH\n\n@le_petit_piano \n#JungJaeHyung #YoureMyHero\n#KBS #아기싱어"
+	},
+	{
+		"created_at": "Sat May 07 09:29:31 +0000 2022",
+		"id": 1522867086699405300,
+		"id_str": "1522871237139210240",
+		"full_text": "[#Release] #정재형\n\n아기싱어 PART3\n‘You’re my hero’\n\nLyrics by 정재형\nComposed by 정재형\nArranged by 정재형\n\n정재형이 작사, 작곡, 편곡한 KBS2 &lt;국민동요 프로젝트 아기싱어&gt; PART3 ‘You’re my hero’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/c0Rm2So0Lh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522867079640412200,
+					"id_str": "1522867079640412162",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FSJPiloacAIEcZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSJPiloacAIEcZX.jpg",
+					"url": "https://t.co/c0Rm2So0Lh",
+					"display_url": "pic.twitter.com/c0Rm2So0Lh",
+					"expanded_url": "https://twitter.com/antennamusic/status/1522867086699405313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522867079640412200,
+					"id_str": "1522867079640412162",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FSJPiloacAIEcZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSJPiloacAIEcZX.jpg",
+					"url": "https://t.co/c0Rm2So0Lh",
+					"display_url": "pic.twitter.com/c0Rm2So0Lh",
+					"expanded_url": "https://twitter.com/antennamusic/status/1522867086699405313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40384,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1648202451",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #정재형\n\n아기싱어 PART3\n‘You’re my hero’\n\nLyrics by 정재형\nComposed by 정재형\nArranged by 정재형\n\n정재형이 작사, 작곡, 편곡한 KBS2 &lt;국민동요 프로젝트 아기싱어&gt; PART3 ‘You’re my hero’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧 https://t.co/c0Rm2So0Lh"
+	},
+	{
 		"created_at": "Sat May 07 08:58:14 +0000 2022",
 		"id": 1522853837454729200,
 		"id_str": "1522863367572049922",
