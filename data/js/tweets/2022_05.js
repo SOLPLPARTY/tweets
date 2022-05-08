@@ -1,6 +1,924 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 08 06:58:45 +0000 2022",
+		"id": 1523195484591902700,
+		"id_str": "1523195682735083520",
+		"full_text": "KCON 2022 Premiere in Seoul that WJSN visited\nSEOUL HASHTAG QUEST👑\n\nGet a photo shoot and also a prize at K-POP's home!\nUJUNG! We still have enough time left to enjoy💜\n(You have a chance to get a signed CD and the collect book)\n\n⏰Event hours : 12:00 ~ 18:00\n\n#KCONQUESTSEOUL https://t.co/MIP51VmXr2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONQUESTSEOUL",
+					"indices": [
+						259,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523194581839659000,
+					"id_str": "1523194581839659009",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5ZuZaQAEiESQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5ZuZaQAEiESQ.jpg",
+					"url": "https://t.co/MIP51VmXr2",
+					"display_url": "pic.twitter.com/MIP51VmXr2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195484591902720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523194581839659000,
+					"id_str": "1523194581839659009",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5ZuZaQAEiESQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5ZuZaQAEiESQ.jpg",
+					"url": "https://t.co/MIP51VmXr2",
+					"display_url": "pic.twitter.com/MIP51VmXr2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195484591902720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523194582032613400,
+					"id_str": "1523194582032613377",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5ZvHagAEG297.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5ZvHagAEG297.jpg",
+					"url": "https://t.co/MIP51VmXr2",
+					"display_url": "pic.twitter.com/MIP51VmXr2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195484591902720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1523195471661236200,
+		"in_reply_to_status_id_str": "1523195471661236224",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438695,
+			"friends_count": 76,
+			"listed_count": 1083,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 454,
+		"favorite_count": 749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 Premiere in Seoul that WJSN visited\nSEOUL HASHTAG QUEST👑\n\nGet a photo shoot and also a prize at K-POP's home!\nUJUNG! We still have enough time left to enjoy💜\n(You have a chance to get a signed CD and the collect book)\n\n⏰Event hours : 12:00 ~ 18:00\n\n#KCONQUESTSEOUL https://t.co/MIP51VmXr2"
+	},
+	{
+		"created_at": "Sun May 08 06:58:38 +0000 2022",
+		"id": 1523195471661236200,
+		"id_str": "1523195656781053952",
+		"full_text": "우주소녀도 방문한 KCON 2022 Premiere in Seoul\nSEOUL HASHTAG QUEST👑\n\nK-POP 성지에서 인증샷도 찍고 경품 응모도 참여하세요!\n우정! 늦지 않았으니 얼른 와서 즐겨요💜\n(아티스트 사인 CD와 콜렉트북을 얻을 수 있는 기회도 있다는데..)\n\n⏰운영시간 : 12:00~18:00\n\n#KCONQUESTSEOUL @WJSN_Cosmic https://t.co/8yYu75ZlGz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONQUESTSEOUL",
+					"indices": [
+						177,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WJSN_Cosmic",
+					"name": "우주소녀",
+					"id": 4439470045,
+					"id_str": "4439470045",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523194544434860000,
+					"id_str": "1523194544434860034",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5XjDaUAIxcWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5XjDaUAIxcWu.jpg",
+					"url": "https://t.co/8yYu75ZlGz",
+					"display_url": "pic.twitter.com/8yYu75ZlGz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195471661236224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523194544434860000,
+					"id_str": "1523194544434860034",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5XjDaUAIxcWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5XjDaUAIxcWu.jpg",
+					"url": "https://t.co/8yYu75ZlGz",
+					"display_url": "pic.twitter.com/8yYu75ZlGz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195471661236224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523194544673951700,
+					"id_str": "1523194544673951744",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5Xj8akAA1Em8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5Xj8akAA1Em8.jpg",
+					"url": "https://t.co/8yYu75ZlGz",
+					"display_url": "pic.twitter.com/8yYu75ZlGz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195471661236224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523194544837492700,
+					"id_str": "1523194544837492736",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5XkjaAAAW92r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5XkjaAAAW92r.jpg",
+					"url": "https://t.co/8yYu75ZlGz",
+					"display_url": "pic.twitter.com/8yYu75ZlGz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195471661236224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523194544988524500,
+					"id_str": "1523194544988524545",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN5XlHakAEFkQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN5XlHakAEFkQG.jpg",
+					"url": "https://t.co/8yYu75ZlGz",
+					"display_url": "pic.twitter.com/8yYu75ZlGz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523195471661236224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438695,
+			"friends_count": 76,
+			"listed_count": 1083,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 932,
+		"favorite_count": 1373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우주소녀도 방문한 KCON 2022 Premiere in Seoul\nSEOUL HASHTAG QUEST👑\n\nK-POP 성지에서 인증샷도 찍고 경품 응모도 참여하세요!\n우정! 늦지 않았으니 얼른 와서 즐겨요💜\n(아티스트 사인 CD와 콜렉트북을 얻을 수 있는 기회도 있다는데..)\n\n⏰운영시간 : 12:00~18:00\n\n#KCONQUESTSEOUL @WJSN_Cosmic https://t.co/8yYu75ZlGz"
+	},
+	{
+		"created_at": "Sun May 08 06:58:34 +0000 2022",
+		"id": 1523194044901249000,
+		"id_str": "1523195639198232582",
+		"full_text": "MASTER QUESTは本日締め切りました。\nKCON 2022 Premiere in Seoulは7時にご覧いただけます！\n\n✔韓国居住者はTVING、海外居住者はYouTube KCON officialおよびMnet K-POPチャンネルでご覧いただけます。\n \n#KCON #KCON2022Premiere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						143,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1523194043081330700,
+		"in_reply_to_status_id_str": "1523194043081330688",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438695,
+			"friends_count": 76,
+			"listed_count": 1083,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "MASTER QUESTは本日締め切りました。\nKCON 2022 Premiere in Seoulは7時にご覧いただけます！\n\n✔韓国居住者はTVING、海外居住者はYouTube KCON officialおよびMnet K-POPチャンネルでご覧いただけます。\n \n#KCON #KCON2022Premiere"
+	},
+	{
+		"created_at": "Sun May 08 06:58:27 +0000 2022",
+		"id": 1523194043081330700,
+		"id_str": "1523195609133449216",
+		"full_text": "MASTER QUEST는 금일 마감하였습니다.\nKCON 2022 Premiere in Seoul은 7시에 만날 수 있습니다!\n\n✔한국 거주자는 TVING, 해외 거주자는 YouTube KCON official 및 Mnet K-POP 채널에서 시청 가능합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1523194040220807200,
+		"in_reply_to_status_id_str": "1523194040220807168",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438695,
+			"friends_count": 76,
+			"listed_count": 1083,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "MASTER QUEST는 금일 마감하였습니다.\nKCON 2022 Premiere in Seoul은 7시에 만날 수 있습니다!\n\n✔한국 거주자는 TVING, 해외 거주자는 YouTube KCON official 및 Mnet K-POP 채널에서 시청 가능합니다."
+	},
+	{
+		"created_at": "Sun May 08 06:58:21 +0000 2022",
+		"id": 1523194040220807200,
+		"id_str": "1523195583221043200",
+		"full_text": "MASTER QUEST is finished for today.\nYou can meet the KCON 2022 Premiere in Seoul at 7PM!\n\n✔ Korean residents can see KCON at TVING, and oversea residents can enjoy KCON at KCON official and Mnet K-POP channels. \n \n#KCON #KCON2022Premiere https://t.co/oip3BAEqiG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						220,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523190876545351700,
+					"id_str": "1523190876545351680",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN2CDGaAAA67gF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN2CDGaAAA67gF.jpg",
+					"url": "https://t.co/oip3BAEqiG",
+					"display_url": "pic.twitter.com/oip3BAEqiG",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523194040220807168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523190876545351700,
+					"id_str": "1523190876545351680",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FSN2CDGaAAA67gF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSN2CDGaAAA67gF.jpg",
+					"url": "https://t.co/oip3BAEqiG",
+					"display_url": "pic.twitter.com/oip3BAEqiG",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523194040220807168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438695,
+			"friends_count": 76,
+			"listed_count": 1083,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MASTER QUEST is finished for today.\nYou can meet the KCON 2022 Premiere in Seoul at 7PM!\n\n✔ Korean residents can see KCON at TVING, and oversea residents can enjoy KCON at KCON official and Mnet K-POP channels. \n \n#KCON #KCON2022Premiere https://t.co/oip3BAEqiG"
+	},
+	{
 		"created_at": "Sun May 08 06:11:17 +0000 2022",
 		"id": 1523171912708362200,
 		"id_str": "1523183738049507328",
