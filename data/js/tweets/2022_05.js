@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 10:29:25 +0000 2022",
+		"id": 1523603693408465000,
+		"id_str": "1523611088247574528",
+		"full_text": "[#Teaser] #정승환\n\n정승환 DS '안녕이란 말'\nJung Seung Hwan 'And The End'\n\n▪️ Concept Photo B\n\n2022. 05. 13. 6PM Release\n\n#JungSeungHwan\n#안녕이란말 #AndTheEnd \n#20220513_6PM https://t.co/CTsu2vi9yA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"text": "안녕이란말",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "AndTheEnd",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "20220513_6PM",
+					"indices": [
+						144,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523599274864705500,
+					"id_str": "1523599274864705536",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FSTpd9ZagAAHF4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSTpd9ZagAAHF4P.jpg",
+					"url": "https://t.co/CTsu2vi9yA",
+					"display_url": "pic.twitter.com/CTsu2vi9yA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1523603693408464896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523599274864705500,
+					"id_str": "1523599274864705536",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FSTpd9ZagAAHF4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSTpd9ZagAAHF4P.jpg",
+					"url": "https://t.co/CTsu2vi9yA",
+					"display_url": "pic.twitter.com/CTsu2vi9yA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1523603693408464896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523599274856292400,
+					"id_str": "1523599274856292353",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FSTpd9XaIAEWjZS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSTpd9XaIAEWjZS.jpg",
+					"url": "https://t.co/CTsu2vi9yA",
+					"display_url": "pic.twitter.com/CTsu2vi9yA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1523603693408464896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1351,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523599274868899800,
+					"id_str": "1523599274868899845",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FSTpd9aagAU-qbY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSTpd9aagAU-qbY.jpg",
+					"url": "https://t.co/CTsu2vi9yA",
+					"display_url": "pic.twitter.com/CTsu2vi9yA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1523603693408464896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40392,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #정승환\n\n정승환 DS '안녕이란 말'\nJung Seung Hwan 'And The End'\n\n▪️ Concept Photo B\n\n2022. 05. 13. 6PM Release\n\n#JungSeungHwan\n#안녕이란말 #AndTheEnd \n#20220513_6PM https://t.co/CTsu2vi9yA"
+	},
+	{
 		"created_at": "Mon May 09 10:08:36 +0000 2022",
 		"id": 1523605848760541200,
 		"id_str": "1523605848760541184",
