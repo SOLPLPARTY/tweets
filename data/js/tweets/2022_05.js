@@ -1,6 +1,1254 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 03:11:19 +0000 2022",
+		"id": 1523497997866217500,
+		"id_str": "1523500837342916609",
+		"full_text": "&lt;KAY BROWN 단독 콘서트 'VARIETY' : 롤링 27주년 기념 공연&gt;\n두번째 게스트 라인업 공개❗️\n　\n엄청난 아티스트들의 무대를 직접 보고싶다면?!\n멜론티켓 바로가기 👉https://t.co/YdKzjbGcEa\n　\n#롤링홀 #ROLLINGHALL\n#KAYBROWN #케이브라운 #단독콘서트\n#롤링27주년 #홍대 #공연 #인디 #멜론티켓 https://t.co/NFfcMUsqFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "KAYBROWN",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "케이브라운",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						195,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YdKzjbGcEa",
+					"expanded_url": "http://bit.ly/3uuisWQ",
+					"display_url": "bit.ly/3uuisWQ",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523217147585253400,
+					"id_str": "1523217147585253377",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FSON7OWaUAEBBNa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FSON7OWaUAEBBNa.png",
+					"url": "https://t.co/NFfcMUsqFR",
+					"display_url": "pic.twitter.com/NFfcMUsqFR",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1523497997866217474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523217147585253400,
+					"id_str": "1523217147585253377",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FSON7OWaUAEBBNa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FSON7OWaUAEBBNa.png",
+					"url": "https://t.co/NFfcMUsqFR",
+					"display_url": "pic.twitter.com/NFfcMUsqFR",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1523497997866217474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;KAY BROWN 단독 콘서트 'VARIETY' : 롤링 27주년 기념 공연&gt;\n두번째 게스트 라인업 공개❗️\n　\n엄청난 아티스트들의 무대를 직접 보고싶다면?!\n멜론티켓 바로가기 👉https://t.co/YdKzjbGcEa\n　\n#롤링홀 #ROLLINGHALL\n#KAYBROWN #케이브라운 #단독콘서트\n#롤링27주년 #홍대 #공연 #인디 #멜론티켓 https://t.co/NFfcMUsqFR"
+	},
+	{
+		"created_at": "Mon May 09 03:11:17 +0000 2022",
+		"id": 1523495387713400800,
+		"id_str": "1523500828073787392",
+		"full_text": "#김혼 #밀실 #백승이 #권장혁 #세베루스 #조태준 #존기븐 #어슬렁 #새닉밴드 #스크린스 #선셋온더브릿지 #사이버파크게임랜드 #체셔 #윈터폴 #피스쿼드 #펑크온파이어 #신 #곽주나 #민수홍 #물과음 #클럽빵 #clubbbang #홍대앞라이브 #인디 #라이브클럽 #봄날은간다 https://t.co/rgxzzu35Fo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김혼",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "밀실",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "백승이",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "권장혁",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "세베루스",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "조태준",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "존기븐",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "어슬렁",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "새닉밴드",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "스크린스",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "선셋온더브릿지",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "사이버파크게임랜드",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "체셔",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "윈터폴",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "피스쿼드",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "펑크온파이어",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "신",
+					"indices": [
+						94,
+						96
+					]
+				},
+				{
+					"text": "곽주나",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "물과음",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "clubbbang",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "홍대앞라이브",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "라이브클럽",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "봄날은간다",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523495381107372000,
+					"id_str": "1523495381107372032",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FSSK-i_acAAF4FG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSSK-i_acAAF4FG.jpg",
+					"url": "https://t.co/rgxzzu35Fo",
+					"display_url": "pic.twitter.com/rgxzzu35Fo",
+					"expanded_url": "https://twitter.com/club_bbang/status/1523495387713400832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523495381107372000,
+					"id_str": "1523495381107372032",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FSSK-i_acAAF4FG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSSK-i_acAAF4FG.jpg",
+					"url": "https://t.co/rgxzzu35Fo",
+					"display_url": "pic.twitter.com/rgxzzu35Fo",
+					"expanded_url": "https://twitter.com/club_bbang/status/1523495387713400832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2531,
+			"friends_count": 910,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#김혼 #밀실 #백승이 #권장혁 #세베루스 #조태준 #존기븐 #어슬렁 #새닉밴드 #스크린스 #선셋온더브릿지 #사이버파크게임랜드 #체셔 #윈터폴 #피스쿼드 #펑크온파이어 #신 #곽주나 #민수홍 #물과음 #클럽빵 #clubbbang #홍대앞라이브 #인디 #라이브클럽 #봄날은간다 https://t.co/rgxzzu35Fo"
+	},
+	{
+		"created_at": "Mon May 09 03:06:03 +0000 2022",
+		"id": 1523499511384985600,
+		"id_str": "1523499511384985600",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n지세희 – Butterfly [Teaser]\nhttps://t.co/4ANBlvxzNn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ANBlvxzNn",
+					"expanded_url": "https://youtu.be/QB7BA-_DkY8",
+					"display_url": "youtu.be/QB7BA-_DkY8",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n지세희 – Butterfly [Teaser]\nhttps://t.co/4ANBlvxzNn"
+	},
+	{
+		"created_at": "Mon May 09 02:48:41 +0000 2022",
+		"id": 1523495140555321300,
+		"id_str": "1523495140555321344",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n5/9(월) ~ 5/15(일) 엠피엠지 뮤직 스케줄\nhttps://t.co/OK7kFab21K\n#블로그 #레이블 #기획사 #인디 #인디음악",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OK7kFab21K",
+					"expanded_url": "https://bit.ly/3wfXjPU",
+					"display_url": "bit.ly/3wfXjPU",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n5/9(월) ~ 5/15(일) 엠피엠지 뮤직 스케줄\nhttps://t.co/OK7kFab21K\n#블로그 #레이블 #기획사 #인디 #인디음악"
+	},
+	{
+		"created_at": "Mon May 09 02:29:35 +0000 2022",
+		"id": 1523489285558902800,
+		"id_str": "1523490336101867520",
+		"full_text": "[VIDEO] [#권혁수] #SNL코리아\n\nSNL 코리아 시즌2 #임창정 하이라이트 | #복학생이지만_20학번 5편\n\n👉 https://t.co/1XI8zU27ce\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "임창정",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "복학생이지만_20학번",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"text": "SNL",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						140,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1XI8zU27ce",
+					"expanded_url": "https://youtu.be/tdx3eF6Ndnc",
+					"display_url": "youtu.be/tdx3eF6Ndnc",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #SNL코리아\n\nSNL 코리아 시즌2 #임창정 하이라이트 | #복학생이지만_20학번 5편\n\n👉 https://t.co/1XI8zU27ce\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay"
+	},
+	{
+		"created_at": "Mon May 09 02:29:30 +0000 2022",
+		"id": 1523482891086446600,
+		"id_str": "1523490314656395266",
+		"full_text": "[📰] 최유리, 6월 단독 콘서트 ‘욕심의 반대편으로’ 개최…오늘(9일) 티켓 오픈\n(출처 : 문화뉴스 | 네이버 TV연예)\n\nhttps://t.co/xSnbCF6wzC\n\n#최유리 #욕심의_반대편으로 \n#CHOIYUREE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "욕심의_반대편으로",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "CHOIYUREE",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xSnbCF6wzC",
+					"expanded_url": "http://naver.me/57Xu5upD",
+					"display_url": "naver.me/57Xu5upD",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2izsAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2izsAi",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7706,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1651584080",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📰] 최유리, 6월 단독 콘서트 ‘욕심의 반대편으로’ 개최…오늘(9일) 티켓 오픈\n(출처 : 문화뉴스 | 네이버 TV연예)\n\nhttps://t.co/xSnbCF6wzC\n\n#최유리 #욕심의_반대편으로 \n#CHOIYUREE"
+	},
+	{
 		"created_at": "Mon May 09 01:11:17 +0000 2022",
 		"id": 1523467924572229600,
 		"id_str": "1523470628447084544",
