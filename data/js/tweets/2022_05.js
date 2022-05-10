@@ -1,6 +1,1187 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 03:58:15 +0000 2022",
+		"id": 1523862536013348900,
+		"id_str": "1523875035231965184",
+		"full_text": "[SJF ANNOUNCEMENT: 타임테이블 공개] \n\n제14회 서울재즈페스티벌 2022의 타임테이블을 공개합니다!\n.\nThe 14th Seoul Jazz Festival 2022\n5월 27일(금)~29일(일) | 올림픽공원 88잔디마당 \n* 타임테이블 및 아티스트는 변동될 수 있습니다. https://t.co/H1yBhTjFFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523862525481459700,
+					"id_str": "1523862525481459712",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXY5KXaIAA6R0H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXY5KXaIAA6R0H.jpg",
+					"url": "https://t.co/H1yBhTjFFt",
+					"display_url": "pic.twitter.com/H1yBhTjFFt",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1523862536013348864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523862525481459700,
+					"id_str": "1523862525481459712",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXY5KXaIAA6R0H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXY5KXaIAA6R0H.jpg",
+					"url": "https://t.co/H1yBhTjFFt",
+					"display_url": "pic.twitter.com/H1yBhTjFFt",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1523862536013348864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5550,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF ANNOUNCEMENT: 타임테이블 공개] \n\n제14회 서울재즈페스티벌 2022의 타임테이블을 공개합니다!\n.\nThe 14th Seoul Jazz Festival 2022\n5월 27일(금)~29일(일) | 올림픽공원 88잔디마당 \n* 타임테이블 및 아티스트는 변동될 수 있습니다. https://t.co/H1yBhTjFFt"
+	},
+	{
+		"created_at": "Tue May 10 03:30:00 +0000 2022",
+		"id": 1523866874895044600,
+		"id_str": "1523867927757348866",
+		"full_text": "[#NEWS] 손태진, 팀 구원할 에이스 활약…\"90% 정도 보여줬다\" (올 탁구나!)\n\n▶ https://t.co/D76E9DcGNk\n\n#손태진 #SONTAEJIN #TJSON #tvN #올탁구나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "올탁구나",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D76E9DcGNk",
+					"expanded_url": "https://bit.ly/3wnk4lk",
+					"display_url": "bit.ly/3wnk4lk",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34983,
+			"friends_count": 15,
+			"listed_count": 284,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 손태진, 팀 구원할 에이스 활약…\"90% 정도 보여줬다\" (올 탁구나!)\n\n▶ https://t.co/D76E9DcGNk\n\n#손태진 #SONTAEJIN #TJSON #tvN #올탁구나"
+	},
+	{
+		"created_at": "Tue May 10 03:29:52 +0000 2022",
+		"id": 1523862211697193000,
+		"id_str": "1523867893724758022",
+		"full_text": "[#NEWS] 민서, 시크+힙한 매력 '내 맘대로' 안무 연습 영상 공개\n\n▶ https://t.co/3UrY9mgIjA\n\n#MINSEO #민서 #MNSO #mOS #내맘대로 #Self_Trip #dance_practice #choreography",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "mOS",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "내맘대로",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "Self_Trip",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "dance_practice",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"text": "choreography",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3UrY9mgIjA",
+					"expanded_url": "https://bit.ly/38irkqj",
+					"display_url": "bit.ly/38irkqj",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34983,
+			"friends_count": 15,
+			"listed_count": 284,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 민서, 시크+힙한 매력 '내 맘대로' 안무 연습 영상 공개\n\n▶ https://t.co/3UrY9mgIjA\n\n#MINSEO #민서 #MNSO #mOS #내맘대로 #Self_Trip #dance_practice #choreography"
+	},
+	{
+		"created_at": "Tue May 10 03:29:45 +0000 2022",
+		"id": 1523861623924211700,
+		"id_str": "1523867863882289152",
+		"full_text": "Teaser Image\n\n박소은 정규 2집 두번째 선공개 싱글 \n\n〖반복되는 모든 게 날 괴롭게 해요〗\n2022.05.16 12PM\n\n#박소은\n#싱글 #반복되는모든게날괴롭게해요\n#정규2집 #선공개싱글 https://t.co/2S3SnMTYAQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "반복되는모든게날괴롭게해요",
+					"indices": [
+						84,
+						98
+					]
+				},
+				{
+					"text": "정규2집",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "선공개싱글",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523861609969774600,
+					"id_str": "1523861609969774593",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXYD30acAECtlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXYD30acAECtlP.jpg",
+					"url": "https://t.co/2S3SnMTYAQ",
+					"display_url": "pic.twitter.com/2S3SnMTYAQ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1523861623924211712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1887,
+							"h": 1887,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523861609969774600,
+					"id_str": "1523861609969774593",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXYD30acAECtlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXYD30acAECtlP.jpg",
+					"url": "https://t.co/2S3SnMTYAQ",
+					"display_url": "pic.twitter.com/2S3SnMTYAQ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1523861623924211712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1887,
+							"h": 1887,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523861609986551800,
+					"id_str": "1523861609986551809",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXYD34acAEjT8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXYD34acAEjT8w.jpg",
+					"url": "https://t.co/2S3SnMTYAQ",
+					"display_url": "pic.twitter.com/2S3SnMTYAQ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1523861623924211712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1412,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523861609986551800,
+					"id_str": "1523861609986551808",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXYD34acAA2kx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXYD34acAA2kx0.jpg",
+					"url": "https://t.co/2S3SnMTYAQ",
+					"display_url": "pic.twitter.com/2S3SnMTYAQ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1523861623924211712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1590,
+							"h": 1590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2223,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Teaser Image\n\n박소은 정규 2집 두번째 선공개 싱글 \n\n〖반복되는 모든 게 날 괴롭게 해요〗\n2022.05.16 12PM\n\n#박소은\n#싱글 #반복되는모든게날괴롭게해요\n#정규2집 #선공개싱글 https://t.co/2S3SnMTYAQ"
+	},
+	{
+		"created_at": "Tue May 10 03:29:39 +0000 2022",
+		"id": 1523857337093550000,
+		"id_str": "1523867838196465664",
+		"full_text": "⛰콤아겐즈 “야호” 릴리즈 파티!\n\n▫️2022년 5월 14일(토) 저녁 8시\nat 생기스튜디오 @senggistudio \n\n▫️예매: 20,000원\n▫️현매: 25,000원\n▪️예매 링크 https://t.co/6wnvMUQ2ST\n\n▫️Special Guest: EJO \n\n▫️Selecta:\n▪️Ejo\n▪️Kimsando \n▪️MHMD \n▪️Salamanda \n▪️SGSY https://t.co/TpFqRG8KC7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenggiStudio",
+					"name": "Senggi Studio",
+					"id": 1309994624132366300,
+					"id_str": "1309994624132366336",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6wnvMUQ2ST",
+					"expanded_url": "https://forms.gle/QgUu5xivsaHLvRkf9",
+					"display_url": "forms.gle/QgUu5xivsaHLvR…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523857329237553200,
+					"id_str": "1523857329237553158",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXUKs2UcAYwu-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXUKs2UcAYwu-g.jpg",
+					"url": "https://t.co/TpFqRG8KC7",
+					"display_url": "pic.twitter.com/TpFqRG8KC7",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1523857337093550080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1878,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523857329237553200,
+					"id_str": "1523857329237553158",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FSXUKs2UcAYwu-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSXUKs2UcAYwu-g.jpg",
+					"url": "https://t.co/TpFqRG8KC7",
+					"display_url": "pic.twitter.com/TpFqRG8KC7",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1523857337093550080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1878,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1742,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1651635957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⛰콤아겐즈 “야호” 릴리즈 파티!\n\n▫️2022년 5월 14일(토) 저녁 8시\nat 생기스튜디오 @senggistudio \n\n▫️예매: 20,000원\n▫️현매: 25,000원\n▪️예매 링크 https://t.co/6wnvMUQ2ST\n\n▫️Special Guest: EJO \n\n▫️Selecta:\n▪️Ejo\n▪️Kimsando \n▪️MHMD \n▪️Salamanda \n▪️SGSY https://t.co/TpFqRG8KC7"
+	},
+	{
+		"created_at": "Tue May 10 03:29:32 +0000 2022",
+		"id": 1523856563798102000,
+		"id_str": "1523867808337207297",
+		"full_text": "JohnKnow 1st Album Showcase\n존노우 1집 회피형애착 앨범 쇼케이스\n게스트 - 박연두\n2022년 5월 22일 저녁 6시\n홍대 스트레인지 프룻 Strange Fruit\n선착순 입장\n\n예매 20,000원 현매 25,000원\n국민은행 02-4801-04-141074 (예금주 이정원)\n\n예매, 공연문의 DM https://t.co/Vs2SLdn17A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523856518885507000,
+					"id_str": "1523856518885507072",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523856518885507072/pu/img/kGtoqqjY_Sts_CPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523856518885507072/pu/img/kGtoqqjY_Sts_CPA.jpg",
+					"url": "https://t.co/Vs2SLdn17A",
+					"display_url": "pic.twitter.com/Vs2SLdn17A",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1523856563798102016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523856518885507000,
+					"id_str": "1523856518885507072",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523856518885507072/pu/img/kGtoqqjY_Sts_CPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523856518885507072/pu/img/kGtoqqjY_Sts_CPA.jpg",
+					"url": "https://t.co/Vs2SLdn17A",
+					"display_url": "pic.twitter.com/Vs2SLdn17A",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1523856563798102016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523856518885507072/pu/vid/540x540/6d-cSFCIyWsaTD7I.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523856518885507072/pu/vid/320x320/0Nw-MvtJt6n3bdqB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1523856518885507072/pu/pl/MF9o_4lRGShIfACr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523856518885507072/pu/vid/720x720/YqqXsQs5Gw5RFCYN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1742,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1651635957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JohnKnow 1st Album Showcase\n존노우 1집 회피형애착 앨범 쇼케이스\n게스트 - 박연두\n2022년 5월 22일 저녁 6시\n홍대 스트레인지 프룻 Strange Fruit\n선착순 입장\n\n예매 20,000원 현매 25,000원\n국민은행 02-4801-04-141074 (예금주 이정원)\n\n예매, 공연문의 DM https://t.co/Vs2SLdn17A"
+	},
+	{
 		"created_at": "Tue May 10 03:06:21 +0000 2022",
 		"id": 1523861975171682300,
 		"id_str": "1523861975171682304",
