@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 05:29:31 +0000 2022",
+		"id": 1523896471929557000,
+		"id_str": "1523898003324604417",
+		"full_text": "KWON YURI kicks off her official social media channel with the photoshoot project '유리한 봄'! Look forward to a variety of content to come!\n\n#권유리 #KWONYURI\n#유리한봄 \n#소녀시대 #GirlsGeneration https://t.co/t2d8lijZvc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "유리한봄",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						166,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523896463058559000,
+					"id_str": "1523896463058558976",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FSX3wlsUYAAVMVk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSX3wlsUYAAVMVk.jpg",
+					"url": "https://t.co/t2d8lijZvc",
+					"display_url": "pic.twitter.com/t2d8lijZvc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1523896471929556993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523896463058559000,
+					"id_str": "1523896463058558976",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FSX3wlsUYAAVMVk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSX3wlsUYAAVMVk.jpg",
+					"url": "https://t.co/t2d8lijZvc",
+					"display_url": "pic.twitter.com/t2d8lijZvc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1523896471929556993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523896463062757400,
+					"id_str": "1523896463062757378",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FSX3wltUcAIdwBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSX3wltUcAIdwBX.jpg",
+					"url": "https://t.co/t2d8lijZvc",
+					"display_url": "pic.twitter.com/t2d8lijZvc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1523896471929556993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523896463238987800,
+					"id_str": "1523896463238987776",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FSX3wmXVgAAxeXl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSX3wmXVgAAxeXl.jpg",
+					"url": "https://t.co/t2d8lijZvc",
+					"display_url": "pic.twitter.com/t2d8lijZvc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1523896471929556993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1523896463234723800,
+					"id_str": "1523896463234723840",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FSX3wmWUcAAAUmi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSX3wmWUcAAAUmi.jpg",
+					"url": "https://t.co/t2d8lijZvc",
+					"display_url": "pic.twitter.com/t2d8lijZvc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1523896471929556993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10809248,
+			"friends_count": 56,
+			"listed_count": 12152,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 927,
+		"favorite_count": 3065,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON YURI kicks off her official social media channel with the photoshoot project '유리한 봄'! Look forward to a variety of content to come!\n\n#권유리 #KWONYURI\n#유리한봄 \n#소녀시대 #GirlsGeneration https://t.co/t2d8lijZvc"
+	},
+	{
 		"created_at": "Tue May 10 03:58:15 +0000 2022",
 		"id": 1523862536013348900,
 		"id_str": "1523875035231965184",
