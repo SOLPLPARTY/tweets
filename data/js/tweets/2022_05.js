@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 06:58:19 +0000 2022",
+		"id": 1523905675658678300,
+		"id_str": "1523920350404395008",
+		"full_text": "[SJF ANNOUNCEMENT- 라인업 소개]\n#피터신코티 #PeterCincotti\n.\n18세에 빌보드 재즈 차트 사상 최연소 1위를 차지한 재즈 피아니스트 겸 싱어송라이터, 피터 신코티(Peter Cincotti)\n.\nThe 14th Seoul Jazz Festival 2022\n5월 27일(금)~29일(일) | 올림픽공원 88잔디마당 https://t.co/jMYTfiT0NQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "피터신코티",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "PeterCincotti",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523458760206741500,
+					"id_str": "1523458760206741505",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523458760206741505/pu/img/sL5mTLZu2HbhrwKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523458760206741505/pu/img/sL5mTLZu2HbhrwKJ.jpg",
+					"url": "https://t.co/jMYTfiT0NQ",
+					"display_url": "pic.twitter.com/jMYTfiT0NQ",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1523905675658678272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523458760206741500,
+					"id_str": "1523458760206741505",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523458760206741505/pu/img/sL5mTLZu2HbhrwKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523458760206741505/pu/img/sL5mTLZu2HbhrwKJ.jpg",
+					"url": "https://t.co/jMYTfiT0NQ",
+					"display_url": "pic.twitter.com/jMYTfiT0NQ",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1523905675658678272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 23898,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523458760206741505/pu/vid/480x600/9Yn91rG8eWP8QiuE.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523458760206741505/pu/vid/320x400/-4_Rzyc6JHwH1weI.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523458760206741505/pu/vid/720x900/kiRS66jA-GW4OcOS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1523458760206741505/pu/pl/Zou7qHbKZwUiqKAY.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5543,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF ANNOUNCEMENT- 라인업 소개]\n#피터신코티 #PeterCincotti\n.\n18세에 빌보드 재즈 차트 사상 최연소 1위를 차지한 재즈 피아니스트 겸 싱어송라이터, 피터 신코티(Peter Cincotti)\n.\nThe 14th Seoul Jazz Festival 2022\n5월 27일(금)~29일(일) | 올림픽공원 88잔디마당 https://t.co/jMYTfiT0NQ"
+	},
+	{
+		"created_at": "Tue May 10 06:58:15 +0000 2022",
+		"id": 1523905674249441300,
+		"id_str": "1523920333157380096",
+		"full_text": "KCON 2022 Premiere MD VOICE KEYRING SPOILER💜\n\n🗓️DATE : 4/18 ~ 5/31 11:59PM (KST)\n\n🔗[KR] https://t.co/bGFBSQ5bbK\n🔗[ENG] https://t.co/MifEppU5Wr\n🔗[CN] https://t.co/J8Umnp4Y53\n🔗[JP] https://t.co/6z3WxJXiEW\n\n#KCON #KCON2022Premiere https://t.co/Pgm18dfPLs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						210,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bGFBSQ5bbK",
+					"expanded_url": "https://bit.ly/37kImDQ",
+					"display_url": "bit.ly/37kImDQ",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/MifEppU5Wr",
+					"expanded_url": "https://bit.ly/3yjiNhG",
+					"display_url": "bit.ly/3yjiNhG",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/J8Umnp4Y53",
+					"expanded_url": "https://bit.ly/3OXlJGJ",
+					"display_url": "bit.ly/3OXlJGJ",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/6z3WxJXiEW",
+					"expanded_url": "https://bit.ly/3MMmzUK",
+					"display_url": "bit.ly/3MMmzUK",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523857703101399000,
+					"id_str": "1523857703101399040",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523857703101399040/pu/img/KHzFtFdh4c__drPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523857703101399040/pu/img/KHzFtFdh4c__drPj.jpg",
+					"url": "https://t.co/Pgm18dfPLs",
+					"display_url": "pic.twitter.com/Pgm18dfPLs",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523905674249441280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523857703101399000,
+					"id_str": "1523857703101399040",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523857703101399040/pu/img/KHzFtFdh4c__drPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523857703101399040/pu/img/KHzFtFdh4c__drPj.jpg",
+					"url": "https://t.co/Pgm18dfPLs",
+					"display_url": "pic.twitter.com/Pgm18dfPLs",
+					"expanded_url": "https://twitter.com/KCON_official/status/1523905674249441280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 98198,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1523857703101399040/pu/pl/TU-mm3kEEhjsbPSV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523857703101399040/pu/vid/480x270/w0BYXzesprpa9C0d.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523857703101399040/pu/vid/1280x720/q6ujLBE4TCnyJ0kX.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523857703101399040/pu/vid/640x360/walbxeXAnZaf9DcF.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441378,
+			"friends_count": 76,
+			"listed_count": 1088,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 Premiere MD VOICE KEYRING SPOILER💜\n\n🗓️DATE : 4/18 ~ 5/31 11:59PM (KST)\n\n🔗[KR] https://t.co/bGFBSQ5bbK\n🔗[ENG] https://t.co/MifEppU5Wr\n🔗[CN] https://t.co/J8Umnp4Y53\n🔗[JP] https://t.co/6z3WxJXiEW\n\n#KCON #KCON2022Premiere https://t.co/Pgm18dfPLs"
+	},
+	{
 		"created_at": "Tue May 10 05:29:31 +0000 2022",
 		"id": 1523896471929557000,
 		"id_str": "1523898003324604417",
