@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 13:29:25 +0000 2022",
+		"id": 1524373768876937200,
+		"id_str": "1524381162218606596",
+		"full_text": "[#민서] '내 맘대로 (#Self_Trip)' MV 비하인드 네이버 포스트 OPEN ✔️\n\n'내 맘대로' [mOS 2.74] Update를 완료합니다💛\nNAVER POST🔗 https://t.co/2qA5RYw62B\nYouTube🔗 https://t.co/UFQqe0iWyA\n\n#MINSEO #MNSO #mOS #내맘대로 #NaverPost #Behind_Clip https://t.co/yI0y8AUPTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Self_Trip",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "mOS",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "내맘대로",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "NaverPost",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "Behind_Clip",
+					"indices": [
+						192,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2qA5RYw62B",
+					"expanded_url": "http://naver.me/xOvn1vHQ",
+					"display_url": "naver.me/xOvn1vHQ",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/UFQqe0iWyA",
+					"expanded_url": "https://youtu.be/PxPB6kPUlLA",
+					"display_url": "youtu.be/PxPB6kPUlLA",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524372917337092000,
+					"id_str": "1524372917337092096",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FSepF4MacAAWTb6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSepF4MacAAWTb6.jpg",
+					"url": "https://t.co/yI0y8AUPTE",
+					"display_url": "pic.twitter.com/yI0y8AUPTE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524373768876937217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524372917337092000,
+					"id_str": "1524372917337092096",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FSepF4MacAAWTb6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSepF4MacAAWTb6.jpg",
+					"url": "https://t.co/yI0y8AUPTE",
+					"display_url": "pic.twitter.com/yI0y8AUPTE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524373768876937217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524372946709803000,
+					"id_str": "1524372946709803009",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FSepHlnacAEGHeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSepHlnacAEGHeP.jpg",
+					"url": "https://t.co/yI0y8AUPTE",
+					"display_url": "pic.twitter.com/yI0y8AUPTE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524373768876937217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524372946827223000,
+					"id_str": "1524372946827223041",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FSepHmDaIAEywla.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSepHmDaIAEywla.jpg",
+					"url": "https://t.co/yI0y8AUPTE",
+					"display_url": "pic.twitter.com/yI0y8AUPTE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524373768876937217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34986,
+			"friends_count": 15,
+			"listed_count": 284,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] '내 맘대로 (#Self_Trip)' MV 비하인드 네이버 포스트 OPEN ✔️\n\n'내 맘대로' [mOS 2.74] Update를 완료합니다💛\nNAVER POST🔗 https://t.co/2qA5RYw62B\nYouTube🔗 https://t.co/UFQqe0iWyA\n\n#MINSEO #MNSO #mOS #내맘대로 #NaverPost #Behind_Clip https://t.co/yI0y8AUPTE"
+	},
+	{
 		"created_at": "Wed May 11 11:29:35 +0000 2022",
 		"id": 1524346360136351700,
 		"id_str": "1524351003851730948",
