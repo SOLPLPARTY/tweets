@@ -1,6 +1,982 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 11:11:16 +0000 2022",
+		"id": 1524341445553180700,
+		"id_str": "1524346398027784192",
+		"full_text": "어느 92년생 장녀들의 같지만 다른 이야기, 짧다면 짧고 길다면 긴 30년의 삶을 기록한 &lt;92년생 K-장녀&gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\n—\n\n#92년생k장녀 #여행 #청춘 #우정 https://t.co/qZBVC78GMw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "92년생k장녀",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "여행",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "청춘",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "우정",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9NRc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/XipgX93bH3",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524341439903441000,
+					"id_str": "1524341439903440897",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FSeMdpnaIAEAhrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSeMdpnaIAEAhrZ.jpg",
+					"url": "https://t.co/qZBVC78GMw",
+					"display_url": "pic.twitter.com/qZBVC78GMw",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1524341445553180673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524341439903441000,
+					"id_str": "1524341439903440897",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FSeMdpnaIAEAhrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSeMdpnaIAEAhrZ.jpg",
+					"url": "https://t.co/qZBVC78GMw",
+					"display_url": "pic.twitter.com/qZBVC78GMw",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1524341445553180673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400,
+			"friends_count": 214,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1469659b6ad47003",
+			"url": "https://api.twitter.com/1.1/geo/id/1469659b6ad47003.json",
+			"place_type": "poi",
+			"name": "공상온도",
+			"full_name": "공상온도",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						],
+						[
+							126.91974610090254,
+							37.557641961668054
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어느 92년생 장녀들의 같지만 다른 이야기, 짧다면 짧고 길다면 긴 30년의 삶을 기록한 &lt;92년생 K-장녀&gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lM9NRc\nhttps://t.co/XipgX93bH3\n—\n\n#92년생k장녀 #여행 #청춘 #우정 https://t.co/qZBVC78GMw"
+	},
+	{
+		"created_at": "Wed May 11 10:29:46 +0000 2022",
+		"id": 1524331373770997800,
+		"id_str": "1524335952981901315",
+		"full_text": "[#민서] stage&amp;FLO:취향의 발견 LIVE 오픈 ✔\n\n훅 떠나고 싶은 수요일 오후엔🌇\n'내 맘대로 (#Self_Trip)'LIVE CLIP 보러 GO! \n🔗 https://t.co/eh7fWze19e\n\n▶️ 내 맘대로 (#Self_Trip) PLAY \n🔗 https://t.co/7cRznJAPwv\n\n#MINSEO #MNSO #mOS #내맘대로 #FLO #취향의발견 #LIVE #LIVECLIP https://t.co/wI4jtF1xQA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Self_Trip",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "Self_Trip",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "mOS",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "내맘대로",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "취향의발견",
+					"indices": [
+						206,
+						212
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "LIVECLIP",
+					"indices": [
+						219,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eh7fWze19e",
+					"expanded_url": "https://youtu.be/8S1PK3ymFsc",
+					"display_url": "youtu.be/8S1PK3ymFsc",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/7cRznJAPwv",
+					"expanded_url": "http://kko.to/fo2rPPCng",
+					"display_url": "kko.to/fo2rPPCng",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524331276282769400,
+					"id_str": "1524331276282769410",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FSeDODLaMAIW4WM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSeDODLaMAIW4WM.jpg",
+					"url": "https://t.co/wI4jtF1xQA",
+					"display_url": "pic.twitter.com/wI4jtF1xQA",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524331373770997760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524331276282769400,
+					"id_str": "1524331276282769410",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FSeDODLaMAIW4WM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSeDODLaMAIW4WM.jpg",
+					"url": "https://t.co/wI4jtF1xQA",
+					"display_url": "pic.twitter.com/wI4jtF1xQA",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524331373770997760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524331276387647500,
+					"id_str": "1524331276387647489",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FSeDODkagAEOdcN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSeDODkagAEOdcN.jpg",
+					"url": "https://t.co/wI4jtF1xQA",
+					"display_url": "pic.twitter.com/wI4jtF1xQA",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524331373770997760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524331318938828800,
+					"id_str": "1524331318938828801",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FSeDQiFaAAE6NOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSeDQiFaAAE6NOo.jpg",
+					"url": "https://t.co/wI4jtF1xQA",
+					"display_url": "pic.twitter.com/wI4jtF1xQA",
+					"expanded_url": "https://twitter.com/themysticstory/status/1524331373770997760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34983,
+			"friends_count": 15,
+			"listed_count": 284,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] stage&amp;FLO:취향의 발견 LIVE 오픈 ✔\n\n훅 떠나고 싶은 수요일 오후엔🌇\n'내 맘대로 (#Self_Trip)'LIVE CLIP 보러 GO! \n🔗 https://t.co/eh7fWze19e\n\n▶️ 내 맘대로 (#Self_Trip) PLAY \n🔗 https://t.co/7cRznJAPwv\n\n#MINSEO #MNSO #mOS #내맘대로 #FLO #취향의발견 #LIVE #LIVECLIP https://t.co/wI4jtF1xQA"
+	},
+	{
+		"created_at": "Wed May 11 10:29:38 +0000 2022",
+		"id": 1524330918768365600,
+		"id_str": "1524335918957703168",
+		"full_text": "📀 공기남 - 잠시멈출래(Feat. 1ho, 0back)\n\n지난 겨울 정규앨범 [오선지 정규2집]으로 많은 이들에게 위로와 공감을 선사했던 싱어송라이터 공기남이, 반년만에 새로운 싱글 ‘잠시멈출래’로 돌아왔다. \n답답하고 복잡한 일상 속에서 잠시 멈춰서서 웃음짓게 하기를 바란다.\n\nhttps://t.co/RbuUjJWCRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RbuUjJWCRv",
+					"expanded_url": "https://www.youtube.com/watch?v=4hXbG2omGVw",
+					"display_url": "youtube.com/watch?v=4hXbG2…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back, Daowl\n                         official home page ▶️https://t.co/NxkguP1kf8",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguP1kf8",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 946,
+			"friends_count": 422,
+			"listed_count": 9,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 5200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1652263987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📀 공기남 - 잠시멈출래(Feat. 1ho, 0back)\n\n지난 겨울 정규앨범 [오선지 정규2집]으로 많은 이들에게 위로와 공감을 선사했던 싱어송라이터 공기남이, 반년만에 새로운 싱글 ‘잠시멈출래’로 돌아왔다. \n답답하고 복잡한 일상 속에서 잠시 멈춰서서 웃음짓게 하기를 바란다.\n\nhttps://t.co/RbuUjJWCRv"
+	},
+	{
+		"created_at": "Wed May 11 10:29:29 +0000 2022",
+		"id": 1524328649427943400,
+		"id_str": "1524335880692977668",
+		"full_text": "[#Teaser] #정승환\n\n정승환 DS '안녕이란 말'\nJung Seung Hwan 'And The End'\n\n▪ Pre-listening\nhttps://t.co/DlM2gD59Ih\n\n2022. 05. 13. 6PM Release\n\n#JungSeungHwan\n#안녕이란말 #AndTheEnd\n#20220513_6PM https://t.co/A3T2Hs8QLn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"text": "안녕이란말",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "AndTheEnd",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "20220513_6PM",
+					"indices": [
+						164,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DlM2gD59Ih",
+					"expanded_url": "https://youtu.be/4dV57bEyzT8",
+					"display_url": "youtu.be/4dV57bEyzT8",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524328603500281900,
+					"id_str": "1524328603500281856",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524328603500281856/pu/img/lsT7aJTNV6LHnfcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524328603500281856/pu/img/lsT7aJTNV6LHnfcq.jpg",
+					"url": "https://t.co/A3T2Hs8QLn",
+					"display_url": "pic.twitter.com/A3T2Hs8QLn",
+					"expanded_url": "https://twitter.com/antennamusic/status/1524328649427943424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 508,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524328603500281900,
+					"id_str": "1524328603500281856",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524328603500281856/pu/img/lsT7aJTNV6LHnfcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524328603500281856/pu/img/lsT7aJTNV6LHnfcq.jpg",
+					"url": "https://t.co/A3T2Hs8QLn",
+					"display_url": "pic.twitter.com/A3T2Hs8QLn",
+					"expanded_url": "https://twitter.com/antennamusic/status/1524328649427943424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 508,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							127
+						],
+						"duration_millis": 28528,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524328603500281856/pu/vid/906x360/sVV6lLIF0IiQdHSU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1524328603500281856/pu/pl/PSeD5IN0OISdwIfu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524328603500281856/pu/vid/680x270/33jcFph1kE6CjVwg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524328603500281856/pu/vid/1280x508/0TJcUU1o-wudNXpI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40396,
+			"friends_count": 11,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #정승환\n\n정승환 DS '안녕이란 말'\nJung Seung Hwan 'And The End'\n\n▪ Pre-listening\nhttps://t.co/DlM2gD59Ih\n\n2022. 05. 13. 6PM Release\n\n#JungSeungHwan\n#안녕이란말 #AndTheEnd\n#20220513_6PM https://t.co/A3T2Hs8QLn"
+	},
+	{
 		"created_at": "Wed May 11 10:04:19 +0000 2022",
 		"id": 1524329547977543700,
 		"id_str": "1524329547977543681",
