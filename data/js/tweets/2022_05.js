@@ -1,10 +1,121 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 02:58:20 +0000 2022",
+		"id": 1524207849928552400,
+		"id_str": "1524222344612528131",
+		"full_text": "STAYC가 직접 알려주는 KCON 2022 Premiere Viewing Party in LA💜\n영상을 통해 자세한 내용을 확인해보세요🥰\n\nSTAYCが直接教えてくれるKCON 2022 Premiere Viewing Party in LA💜\n映像にて詳しい内容をご確認ください🥰\n\n🗓️DATE : 2022.05.20 ~ 2022.05.21 (PST)\n\n#KCON #KCON2022Premiere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						199,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1524207670059626500,
+		"in_reply_to_status_id_str": "1524207670059626498",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441457,
+			"friends_count": 76,
+			"listed_count": 1088,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "STAYC가 직접 알려주는 KCON 2022 Premiere Viewing Party in LA💜\n영상을 통해 자세한 내용을 확인해보세요🥰\n\nSTAYCが直接教えてくれるKCON 2022 Premiere Viewing Party in LA💜\n映像にて詳しい内容をご確認ください🥰\n\n🗓️DATE : 2022.05.20 ~ 2022.05.21 (PST)\n\n#KCON #KCON2022Premiere"
+	},
+	{
 		"created_at": "Tue May 10 13:13:58 +0000 2022",
 		"id": 1524014887432720400,
 		"id_str": "1524014887432720384",
-		"full_text": "#딩고뮤직 #dingo_music\n지금 이 시각 누워있는 분??! 저요~!!🙋🏻‍♀️🙋🏻‍♀️ l 5월 12일 목요일 오후 7시 본영상 공개 #Shorts\nhttps://t.co/Fy2gpw3wHJ",
+		"full_text": "#딩고뮤직 #dingo_music\n지금 이 시각 누워있는 분??! 저요~!!🙋🏻♀️🙋🏻♀️ l 5월 12일 목요일 오후 7시 본영상 공개 #Shorts\nhttps://t.co/Fy2gpw3wHJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -146,7 +257,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n지금 이 시각 누워있는 분??! 저요~!!🙋🏻‍♀️🙋🏻‍♀️ l 5월 12일 목요일 오후 7시 본영상 공개 #Shorts\nhttps://t.co/Fy2gpw3wHJ"
+		"text": "#딩고뮤직 #dingo_music\n지금 이 시각 누워있는 분??! 저요~!!🙋🏻♀️🙋🏻♀️ l 5월 12일 목요일 오후 7시 본영상 공개 #Shorts\nhttps://t.co/Fy2gpw3wHJ"
 	},
 	{
 		"created_at": "Tue May 10 11:58:15 +0000 2022",
