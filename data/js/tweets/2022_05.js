@@ -1,6 +1,1103 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 10:04:19 +0000 2022",
+		"id": 1524329547977543700,
+		"id_str": "1524329547977543681",
+		"full_text": "#딩고뮤직 #dingo_music\n취중고백 노래방 라이브 full ver | 차트인노래방 EP.1-2 러블리즈 박지우(JIN)\nhttps://t.co/S5LTwZSJz3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S5LTwZSJz3",
+					"expanded_url": "https://youtu.be/tvCZizEWJKM",
+					"display_url": "youtu.be/tvCZizEWJKM",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n취중고백 노래방 라이브 full ver | 차트인노래방 EP.1-2 러블리즈 박지우(JIN)\nhttps://t.co/S5LTwZSJz3"
+	},
+	{
+		"created_at": "Wed May 11 09:29:57 +0000 2022",
+		"id": 1524319413243023400,
+		"id_str": "1524320898332954626",
+		"full_text": "[신곡 MV]\n공기남 - 잠시멈출래(feat.1ho,0back)\nhttps://t.co/2uF63tDUBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2uF63tDUBq",
+					"expanded_url": "https://youtu.be/aup9VnHLims",
+					"display_url": "youtu.be/aup9VnHLims",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back, Daowl\n                         official home page ▶️https://t.co/NxkguP1kf8",
+			"url": "https://t.co/8brmSjSfbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSjSfbN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguP1kf8",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 946,
+			"friends_count": 422,
+			"listed_count": 9,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 5199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1652263987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신곡 MV]\n공기남 - 잠시멈출래(feat.1ho,0back)\nhttps://t.co/2uF63tDUBq"
+	},
+	{
+		"created_at": "Wed May 11 09:29:51 +0000 2022",
+		"id": 1524314737147744300,
+		"id_str": "1524320872663764993",
+		"full_text": "김사월 - 둥글게 • OUT NOW\n\n내 안에 사는 여리고 순수한 어린아이를 달래듯, 김사월 ‘둥글게’\n🔗https://t.co/CiHE3pmCTY\n\n@aprilsour\n#김사월 #싱글 #둥글게 #발매 #new #Single https://t.co/E40ok2TOzZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "둥글게",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "new",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "Single",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aprilsour",
+					"name": "김사월",
+					"id": 568866057,
+					"id_str": "568866057",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CiHE3pmCTY",
+					"expanded_url": "https://youtu.be/K5k_Nxf-N7Y",
+					"display_url": "youtu.be/K5k_Nxf-N7Y",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524314047188902000,
+					"id_str": "1524314047188901888",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"url": "https://t.co/E40ok2TOzZ",
+					"display_url": "pic.twitter.com/E40ok2TOzZ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1524314737147744257/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524314047188902000,
+					"id_str": "1524314047188901888",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"url": "https://t.co/E40ok2TOzZ",
+					"display_url": "pic.twitter.com/E40ok2TOzZ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1524314737147744257/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/vid/1280x720/317o9krGX4WVxVAn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/pl/BYHWafyZrrI9Hr-E.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/vid/480x270/tpLajhq0rGp0zy2Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/vid/640x360/pDJfFL_tqwqFdU3q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2229,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김사월 - 둥글게 • OUT NOW\n\n내 안에 사는 여리고 순수한 어린아이를 달래듯, 김사월 ‘둥글게’\n🔗https://t.co/CiHE3pmCTY\n\n@aprilsour\n#김사월 #싱글 #둥글게 #발매 #new #Single https://t.co/E40ok2TOzZ"
+	},
+	{
+		"created_at": "Wed May 11 09:29:49 +0000 2022",
+		"id": 1524314413003550700,
+		"id_str": "1524320863826370562",
+		"full_text": "김사월 - 둥글게 • OUT NOW\n\n내 안에 사는 여리고 순수한 어린아이를 달래듯, 김사월 ‘둥글게’ https://t.co/emWKLUIpS0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524314047188902000,
+					"id_str": "1524314047188901888",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"url": "https://t.co/emWKLUIpS0",
+					"display_url": "pic.twitter.com/emWKLUIpS0",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1524314413003550720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524314047188902000,
+					"id_str": "1524314047188901888",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524314047188901888/pu/img/ffuIYqkhbzQINumE.jpg",
+					"url": "https://t.co/emWKLUIpS0",
+					"display_url": "pic.twitter.com/emWKLUIpS0",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1524314413003550720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/vid/1280x720/317o9krGX4WVxVAn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/pl/BYHWafyZrrI9Hr-E.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/vid/480x270/tpLajhq0rGp0zy2Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524314047188901888/pu/vid/640x360/pDJfFL_tqwqFdU3q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2229,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김사월 - 둥글게 • OUT NOW\n\n내 안에 사는 여리고 순수한 어린아이를 달래듯, 김사월 ‘둥글게’ https://t.co/emWKLUIpS0"
+	},
+	{
+		"created_at": "Wed May 11 09:29:34 +0000 2022",
+		"id": 1524314234531721200,
+		"id_str": "1524320804472868869",
+		"full_text": "Spotify : https://t.co/JkxESUeMYj\nApple Music : https://t.co/LuqyA41vof\n멜론 : https://t.co/H0xTXndLht\n지니 : https://t.co/YiGAqIjJCi\n벅스 : https://t.co/vzfr0wQgvZ\nFLO : https://t.co/uRrIi8F0b9\nVIBE : https://t.co/KBcvvAZ0xn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JkxESUeMYj",
+					"expanded_url": "https://open.spotify.com/album/5cHwFrbtl2aJcCZGLMtGCg?si=Q-JSvzv4Sn-iIfsbnsB9Hg",
+					"display_url": "open.spotify.com/album/5cHwFrbt…",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/LuqyA41vof",
+					"expanded_url": "https://music.apple.com/us/album/moon-single/1623140888",
+					"display_url": "music.apple.com/us/album/moon-…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/H0xTXndLht",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10949255",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/YiGAqIjJCi",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82681482",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/vzfr0wQgvZ",
+					"expanded_url": "https://music.bugs.co.kr/album/20467211?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/20467211…",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/uRrIi8F0b9",
+					"expanded_url": "https://www.music-flo.com/detail/album/edhnehhdz/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/KBcvvAZ0xn",
+					"expanded_url": "https://vibe.naver.com/album/7551624",
+					"display_url": "vibe.naver.com/album/7551624",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524314199110733800,
+		"in_reply_to_status_id_str": "1524314199110733824",
+		"in_reply_to_user_id": 76964739,
+		"in_reply_to_user_id_str": "76964739",
+		"in_reply_to_screen_name": "inplanet",
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1426,
+			"friends_count": 769,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify : https://t.co/JkxESUeMYj\nApple Music : https://t.co/LuqyA41vof\n멜론 : https://t.co/H0xTXndLht\n지니 : https://t.co/YiGAqIjJCi\n벅스 : https://t.co/vzfr0wQgvZ\nFLO : https://t.co/uRrIi8F0b9\nVIBE : https://t.co/KBcvvAZ0xn"
+	},
+	{
+		"created_at": "Wed May 11 09:29:28 +0000 2022",
+		"id": 1524314199110733800,
+		"id_str": "1524320778271006726",
+		"full_text": "#Wilcox\n\n달이 예쁘다는 건 순전히 다 핑계였어\n그냥 보고 싶었던 거지\n\n☽\n𝗪𝗶𝗹𝗰𝗼𝘅 달이 예쁘다고 (𝙈𝙊𝙊𝙉) \n\n지금 모든 음원사이트에서 감상하실 수 있습니다.\n\n#윌콕스 #달이예쁘다고 #MOON https://t.co/yrI102sdFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "달이예쁘다고",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "MOON",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524314187983298600,
+					"id_str": "1524314187983298560",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FSdzrYTVIAAtVLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSdzrYTVIAAtVLf.jpg",
+					"url": "https://t.co/yrI102sdFv",
+					"display_url": "pic.twitter.com/yrI102sdFv",
+					"expanded_url": "https://twitter.com/inplanet/status/1524314199110733824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524314187983298600,
+					"id_str": "1524314187983298560",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FSdzrYTVIAAtVLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSdzrYTVIAAtVLf.jpg",
+					"url": "https://t.co/yrI102sdFv",
+					"display_url": "pic.twitter.com/yrI102sdFv",
+					"expanded_url": "https://twitter.com/inplanet/status/1524314199110733824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1426,
+			"friends_count": 769,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Wilcox\n\n달이 예쁘다는 건 순전히 다 핑계였어\n그냥 보고 싶었던 거지\n\n☽\n𝗪𝗶𝗹𝗰𝗼𝘅 달이 예쁘다고 (𝙈𝙊𝙊𝙉) \n\n지금 모든 음원사이트에서 감상하실 수 있습니다.\n\n#윌콕스 #달이예쁘다고 #MOON https://t.co/yrI102sdFv"
+	},
+	{
 		"created_at": "Wed May 11 09:11:47 +0000 2022",
 		"id": 1524316328152117200,
 		"id_str": "1524316328152117248",
@@ -145,7 +1242,7 @@ Grailbird.data.tweets_2022_05 =
 		"created_at": "Wed May 11 09:11:16 +0000 2022",
 		"id": 1524313369250988000,
 		"id_str": "1524316199173165056",
-		"full_text": "🙋‍♂️ 피규어 좋아하는 사람 주목 !\n\n2012년 1기를 시작으로 피규어 제작에 필요한 모든 것!!\n캐릭터 컨셉부터 합평에 전시까지! \n👉 KT&amp;G 상상마당 아트토이 작가 양성 프로젝트\n\n✔️ 접수 : 2022.05.02~2022.06.05\n️ 시간 : 매주 토, 15:00-18:00\n️ 정원 : 15명 * 상상마당 홈페이지 온라인 신청 https://t.co/vCZs7Lge0q",
+		"full_text": "🙋♂️ 피규어 좋아하는 사람 주목 !\n\n2012년 1기를 시작으로 피규어 제작에 필요한 모든 것!!\n캐릭터 컨셉부터 합평에 전시까지! \n👉 KT&amp;G 상상마당 아트토이 작가 양성 프로젝트\n\n✔️ 접수 : 2022.05.02~2022.06.05\n️ 시간 : 매주 토, 15:00-18:00\n️ 정원 : 15명 * 상상마당 홈페이지 온라인 신청 https://t.co/vCZs7Lge0q",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -314,7 +1411,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🙋‍♂️ 피규어 좋아하는 사람 주목 !\n\n2012년 1기를 시작으로 피규어 제작에 필요한 모든 것!!\n캐릭터 컨셉부터 합평에 전시까지! \n👉 KT&amp;G 상상마당 아트토이 작가 양성 프로젝트\n\n✔️ 접수 : 2022.05.02~2022.06.05\n️ 시간 : 매주 토, 15:00-18:00\n️ 정원 : 15명 * 상상마당 홈페이지 온라인 신청 https://t.co/vCZs7Lge0q"
+		"text": "🙋♂️ 피규어 좋아하는 사람 주목 !\n\n2012년 1기를 시작으로 피규어 제작에 필요한 모든 것!!\n캐릭터 컨셉부터 합평에 전시까지! \n👉 KT&amp;G 상상마당 아트토이 작가 양성 프로젝트\n\n✔️ 접수 : 2022.05.02~2022.06.05\n️ 시간 : 매주 토, 15:00-18:00\n️ 정원 : 15명 * 상상마당 홈페이지 온라인 신청 https://t.co/vCZs7Lge0q"
 	},
 	{
 		"created_at": "Wed May 11 09:08:39 +0000 2022",
