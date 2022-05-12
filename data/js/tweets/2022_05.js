@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 07:13:26 +0000 2022",
+		"id": 1524648929614188500,
+		"id_str": "1524648929614188545",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n진심으로 사랑하는 사랑이 있다면, 이 노래를 함께 들어주세요💛 | 케시 (keshi)  - UNDERSTAND (가사/한글/해석)\nhttps://t.co/FUaVnkEDZe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FUaVnkEDZe",
+					"expanded_url": "https://youtu.be/ALy7QQ3lQvU",
+					"display_url": "youtu.be/ALy7QQ3lQvU",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n진심으로 사랑하는 사랑이 있다면, 이 노래를 함께 들어주세요💛 | 케시 (keshi)  - UNDERSTAND (가사/한글/해석)\nhttps://t.co/FUaVnkEDZe"
+	},
+	{
+		"created_at": "Thu May 12 06:58:15 +0000 2022",
+		"id": 1524630451796603000,
+		"id_str": "1524645108926271488",
+		"full_text": "[SJF ANNOUNCEMENT- 라인업 소개]\n#프렙 #prep\n.\n신나는 펑키 사운드와 매력적인 보컬의 시티팝 선두 주자, 프렙(prep)\n.\nThe 14th Seoul Jazz Festival 2022\n5월 27일(금)~29일(일) | 올림픽공원 88잔디마당 https://t.co/KPbzcv8YJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프렙",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "prep",
+					"indices": [
+						31,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523466370750369800,
+					"id_str": "1523466370750369793",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523466370750369793/pu/img/DDDb5A3N8hYpvApM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523466370750369793/pu/img/DDDb5A3N8hYpvApM.jpg",
+					"url": "https://t.co/KPbzcv8YJ6",
+					"display_url": "pic.twitter.com/KPbzcv8YJ6",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1524630451796602880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523466370750369800,
+					"id_str": "1523466370750369793",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523466370750369793/pu/img/DDDb5A3N8hYpvApM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523466370750369793/pu/img/DDDb5A3N8hYpvApM.jpg",
+					"url": "https://t.co/KPbzcv8YJ6",
+					"display_url": "pic.twitter.com/KPbzcv8YJ6",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1524630451796602880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 22814,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523466370750369793/pu/vid/320x400/UQ9DvHrWO5Mz1yLj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1523466370750369793/pu/pl/E6Cl0Ti3Fj132qmE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523466370750369793/pu/vid/720x900/iW4fBZusXWOkG0Vj.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523466370750369793/pu/vid/480x600/RzwZmeSgm6y7vrQ-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "대한민국 서울",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "https://t.co/KGNX6yblrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGNX6yblrF",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5526,
+			"friends_count": 2,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511177673183150080/3q7r_4ep_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1649127810",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF ANNOUNCEMENT- 라인업 소개]\n#프렙 #prep\n.\n신나는 펑키 사운드와 매력적인 보컬의 시티팝 선두 주자, 프렙(prep)\n.\nThe 14th Seoul Jazz Festival 2022\n5월 27일(금)~29일(일) | 올림픽공원 88잔디마당 https://t.co/KPbzcv8YJ6"
+	},
+	{
 		"created_at": "Thu May 12 05:11:17 +0000 2022",
 		"id": 1524606586278187000,
 		"id_str": "1524618189606461441",
