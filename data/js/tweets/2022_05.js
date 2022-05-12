@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 05:11:17 +0000 2022",
+		"id": 1524606586278187000,
+		"id_str": "1524618189606461441",
+		"full_text": "매주 일요일날은 뮤직 테마 파티가 있습니다! \n\n5/15 (일) Indie Night : 8pm - 2am \n5/22 (일) Emo Night : 5pm - 2am =&gt; 공연팀 : 브리니클레인,신스네이크,뉴클리어이디엇츠,바닐레어\n\n#이모나잇 #인디나잇 #인디락 #이모펑크 #이모코어 #팝펑크 #브릿팝 https://t.co/nXrGgTQ8me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이모나잇",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "인디나잇",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "인디락",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "이모펑크",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "이모코어",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "팝펑크",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "브릿팝",
+					"indices": [
+						166,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524606576736161800,
+					"id_str": "1524606576736161793",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FSh9mpSVUAEqeo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSh9mpSVUAEqeo_.jpg",
+					"url": "https://t.co/nXrGgTQ8me",
+					"display_url": "pic.twitter.com/nXrGgTQ8me",
+					"expanded_url": "https://twitter.com/clubFF_/status/1524606586278187008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1645,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524606576736161800,
+					"id_str": "1524606576736161793",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FSh9mpSVUAEqeo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSh9mpSVUAEqeo_.jpg",
+					"url": "https://t.co/nXrGgTQ8me",
+					"display_url": "pic.twitter.com/nXrGgTQ8me",
+					"expanded_url": "https://twitter.com/clubFF_/status/1524606586278187008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1645,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524606576744550400,
+					"id_str": "1524606576744550400",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FSh9mpUVUAAHsYC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSh9mpUVUAAHsYC.jpg",
+					"url": "https://t.co/nXrGgTQ8me",
+					"display_url": "pic.twitter.com/nXrGgTQ8me",
+					"expanded_url": "https://twitter.com/clubFF_/status/1524606586278187008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6128,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매주 일요일날은 뮤직 테마 파티가 있습니다! \n\n5/15 (일) Indie Night : 8pm - 2am \n5/22 (일) Emo Night : 5pm - 2am =&gt; 공연팀 : 브리니클레인,신스네이크,뉴클리어이디엇츠,바닐레어\n\n#이모나잇 #인디나잇 #인디락 #이모펑크 #이모코어 #팝펑크 #브릿팝 https://t.co/nXrGgTQ8me"
+	},
+	{
 		"created_at": "Thu May 12 03:29:56 +0000 2022",
 		"id": 1524589604606967800,
 		"id_str": "1524592687663529985",
