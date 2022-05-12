@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 14:29:25 +0000 2022",
+		"id": 1524749655615357000,
+		"id_str": "1524758649146679296",
+		"full_text": "[#민서] 내 맘대로 HIP한 #내맘대로챌린지 😎\n\n🔗 https://t.co/vVOSqKa9uV\n\n▶ 내 맘대로 (#Self_Trip) PLAY \n🔗 https://t.co/7cRznJAPwv\n\n#MINSEO #MNSO #MINSEO_TIKTOK #mOS #내맘대로 #Self_Trip #Selftrip_challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "내맘대로챌린지",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "Self_Trip",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "MINSEO_TIKTOK",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "mOS",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "내맘대로",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "Self_Trip",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "Selftrip_challenge",
+					"indices": [
+						161,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVOSqKa9uV",
+					"expanded_url": "https://vt.tiktok.com/ZSdHQqHNE/?k=1",
+					"display_url": "vt.tiktok.com/ZSdHQqHNE/?k=1",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/7cRznJAPwv",
+					"expanded_url": "http://kko.to/fo2rPPCng",
+					"display_url": "kko.to/fo2rPPCng",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34976,
+			"friends_count": 15,
+			"listed_count": 0,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 내 맘대로 HIP한 #내맘대로챌린지 😎\n\n🔗 https://t.co/vVOSqKa9uV\n\n▶ 내 맘대로 (#Self_Trip) PLAY \n🔗 https://t.co/7cRznJAPwv\n\n#MINSEO #MNSO #MINSEO_TIKTOK #mOS #내맘대로 #Self_Trip #Selftrip_challenge"
+	},
+	{
 		"created_at": "Thu May 12 14:18:32 +0000 2022",
 		"id": 1524755910932934700,
 		"id_str": "1524755910932934656",
