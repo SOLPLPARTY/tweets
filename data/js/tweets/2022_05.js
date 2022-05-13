@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 14:58:15 +0000 2022",
+		"id": 1525118729171783700,
+		"id_str": "1525128292084465665",
+		"full_text": "@kconjapan 今週末Breaking Liveのお知らせや全ての現場中継を@kconjapanでご覧ください！(そうです。Breaking Live今週も行います。明日会いましょう。💙)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kconjapan",
+					"name": "KCON Japan",
+					"id": 3017029196,
+					"id_str": "3017029196",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "kconjapan",
+					"name": "KCON Japan",
+					"id": 3017029196,
+					"id_str": "3017029196",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1525083453796098000,
+		"in_reply_to_status_id_str": "1525083453796098049",
+		"in_reply_to_user_id": 3017029196,
+		"in_reply_to_user_id_str": "3017029196",
+		"in_reply_to_screen_name": "kconjapan",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441778,
+			"friends_count": 76,
+			"listed_count": 1093,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@kconjapan 今週末Breaking Liveのお知らせや全ての現場中継を@kconjapanでご覧ください！(そうです。Breaking Live今週も行います。明日会いましょう。💙)"
+	},
+	{
 		"created_at": "Fri May 13 13:11:17 +0000 2022",
 		"id": 1525098535871516700,
 		"id_str": "1525101373196587008",
