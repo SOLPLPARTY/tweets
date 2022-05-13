@@ -1,6 +1,851 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 09:11:19 +0000 2022",
+		"id": 1525040985176014800,
+		"id_str": "1525040985176014848",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] Seori - Beautiful Night / Official Music Video\nhttps://t.co/5TZ8hCOTnt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5TZ8hCOTnt",
+					"expanded_url": "https://youtu.be/WAPaqop-X4o",
+					"display_url": "youtu.be/WAPaqop-X4o",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] Seori - Beautiful Night / Official Music Video\nhttps://t.co/5TZ8hCOTnt"
+	},
+	{
+		"created_at": "Fri May 13 09:11:17 +0000 2022",
+		"id": 1525038148178174000,
+		"id_str": "1525040975588073472",
+		"full_text": "Coming Up Next!\n&lt;일상의 'Not Normal'한 아트 포스터展&gt;\n🖼️‍ 2022. 5. 19(목) ~ 6. 12(일)\n🖼️‍ KT&amp;G 상상마당 홍대 3층 라운지\n‍🖼️‍ 운영시간 : 12:00 - 20:00\n-\n평범하지만 특별한 일상이 담긴 아트워크 전시\n-\n그리고 홍대 디자인스퀘어에서 판매되는 \n일러스트레이터 &lt;낫노멀&gt;작가의 굿즈까지 https://t.co/SvvxRUUmMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525005709725040600,
+					"id_str": "1525005709725040640",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525005709725040640/pu/img/I1xNhmk8TZ7pGonI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525005709725040640/pu/img/I1xNhmk8TZ7pGonI.jpg",
+					"url": "https://t.co/SvvxRUUmMF",
+					"display_url": "pic.twitter.com/SvvxRUUmMF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1525038148178173953/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525005709725040600,
+					"id_str": "1525005709725040640",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525005709725040640/pu/img/I1xNhmk8TZ7pGonI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525005709725040640/pu/img/I1xNhmk8TZ7pGonI.jpg",
+					"url": "https://t.co/SvvxRUUmMF",
+					"display_url": "pic.twitter.com/SvvxRUUmMF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1525038148178173953/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 45822,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525005709725040640/pu/pl/l-yFFbWpDrlVxq5I.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525005709725040640/pu/vid/720x900/MbAFFETYcahvRE7p.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525005709725040640/pu/vid/480x600/EjxXtueaTAmDeOay.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525005709725040640/pu/vid/320x400/d7F1_dWH1Cgr2Gnw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17653,
+			"friends_count": 1852,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520963778933788672/v8TgJxmF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520963778933788672/v8TgJxmF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1651460998",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Coming Up Next!\n&lt;일상의 'Not Normal'한 아트 포스터展&gt;\n🖼️‍ 2022. 5. 19(목) ~ 6. 12(일)\n🖼️‍ KT&amp;G 상상마당 홍대 3층 라운지\n‍🖼️‍ 운영시간 : 12:00 - 20:00\n-\n평범하지만 특별한 일상이 담긴 아트워크 전시\n-\n그리고 홍대 디자인스퀘어에서 판매되는 \n일러스트레이터 &lt;낫노멀&gt;작가의 굿즈까지 https://t.co/SvvxRUUmMF"
+	},
+	{
+		"created_at": "Fri May 13 09:09:20 +0000 2022",
+		"id": 1525040487341518800,
+		"id_str": "1525040487341518849",
+		"full_text": "#쇼파르뮤직 #Shofar_Music\n[Playlist] 우린 또 여전히 함께인 것뿐이야\nhttps://t.co/sbMvBCxJ5d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Shofar_Music",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sbMvBCxJ5d",
+					"expanded_url": "https://youtu.be/pqYzJR-FW0Y",
+					"display_url": "youtu.be/pqYzJR-FW0Y",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#쇼파르뮤직 #Shofar_Music\n[Playlist] 우린 또 여전히 함께인 것뿐이야\nhttps://t.co/sbMvBCxJ5d"
+	},
+	{
+		"created_at": "Fri May 13 08:29:33 +0000 2022",
+		"id": 1525024218781745200,
+		"id_str": "1525030472811692032",
+		"full_text": "[#Photo] #권진아\n\n권진아가 함께한 나일론뮤직 ‘Silly Silly Love’ 라이브 클립과 화보 사진이 공개되었습니다📸✨\n\n🎬’Silly Silly Love’ SPECIAL LIVE CLIP \nhttps://t.co/MWEWamFVnk\n\n#KwonJinAh #SillySillyLove\n#나일론 #나일론뮤직\n#nylon #nylonmusic #nylonkorea https://t.co/dBf4yStiF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photo",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "SillySillyLove",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "나일론",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "나일론뮤직",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "nylon",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "nylonmusic",
+					"indices": [
+						185,
+						196
+					]
+				},
+				{
+					"text": "nylonkorea",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MWEWamFVnk",
+					"expanded_url": "https://youtu.be/gXzjaIppWD4",
+					"display_url": "youtu.be/gXzjaIppWD4",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1525024141552005000,
+					"id_str": "1525024141552005120",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FSn5YHcaMAAIq5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSn5YHcaMAAIq5g.jpg",
+					"url": "https://t.co/dBf4yStiF1",
+					"display_url": "pic.twitter.com/dBf4yStiF1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1525024218781745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525024141552005000,
+					"id_str": "1525024141552005120",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FSn5YHcaMAAIq5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSn5YHcaMAAIq5g.jpg",
+					"url": "https://t.co/dBf4yStiF1",
+					"display_url": "pic.twitter.com/dBf4yStiF1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1525024218781745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1525024141631713300,
+					"id_str": "1525024141631713280",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FSn5YHvacAAbHID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSn5YHvacAAbHID.jpg",
+					"url": "https://t.co/dBf4yStiF1",
+					"display_url": "pic.twitter.com/dBf4yStiF1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1525024218781745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1525024141765939200,
+					"id_str": "1525024141765939201",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FSn5YIPakAE-Al3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSn5YIPakAE-Al3.jpg",
+					"url": "https://t.co/dBf4yStiF1",
+					"display_url": "pic.twitter.com/dBf4yStiF1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1525024218781745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1525024141887557600,
+					"id_str": "1525024141887557635",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FSn5YIsaUAM-qC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSn5YIsaUAM-qC_.jpg",
+					"url": "https://t.co/dBf4yStiF1",
+					"display_url": "pic.twitter.com/dBf4yStiF1",
+					"expanded_url": "https://twitter.com/antennamusic/status/1525024218781745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40378,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Photo] #권진아\n\n권진아가 함께한 나일론뮤직 ‘Silly Silly Love’ 라이브 클립과 화보 사진이 공개되었습니다📸✨\n\n🎬’Silly Silly Love’ SPECIAL LIVE CLIP \nhttps://t.co/MWEWamFVnk\n\n#KwonJinAh #SillySillyLove\n#나일론 #나일론뮤직\n#nylon #nylonmusic #nylonkorea https://t.co/dBf4yStiF1"
+	},
+	{
 		"created_at": "Fri May 13 07:58:39 +0000 2022",
 		"id": 1525011208918777900,
 		"id_str": "1525022698627383296",
