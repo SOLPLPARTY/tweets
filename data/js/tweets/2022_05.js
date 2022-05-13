@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 06:11:16 +0000 2022",
+		"id": 1524988015310909400,
+		"id_str": "1524995676437979136",
+		"full_text": "팬데믹 시대에 살아남은 음악 팬들을 위한 인터뷰집 &lt; No Music New Life &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\n— https://t.co/3DkQYUf470",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524988008860004400,
+					"id_str": "1524988008860004352",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FSnYg6rUsAAlXUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSnYg6rUsAAlXUO.jpg",
+					"url": "https://t.co/3DkQYUf470",
+					"display_url": "pic.twitter.com/3DkQYUf470",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1524988015310909440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524988008860004400,
+					"id_str": "1524988008860004352",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FSnYg6rUsAAlXUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSnYg6rUsAAlXUO.jpg",
+					"url": "https://t.co/3DkQYUf470",
+					"display_url": "pic.twitter.com/3DkQYUf470",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1524988015310909440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 401,
+			"friends_count": 214,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팬데믹 시대에 살아남은 음악 팬들을 위한 인터뷰집 &lt; No Music New Life &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\n— https://t.co/3DkQYUf470"
+	},
+	{
+		"created_at": "Fri May 13 05:29:40 +0000 2022",
+		"id": 1524976935872635000,
+		"id_str": "1524985205311905792",
+		"full_text": "💿예약 판매 오픈 이벤트\n예약 판매 기간 동안 예스24, 알라딘 2개의 구매처에서  &lt;너드커넥션 singles 18-21&gt; 사인반 랜덤 발송 이벤트가 진행됩니다.\n\n✔️예약 판매 일정 : 2022.05.13 (금) ~ 2022.05.19 (목)\n✔️CD 발매 일정 : 2022.05.20 (금)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524976867639709700,
+		"in_reply_to_status_id_str": "1524976867639709696",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2234,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💿예약 판매 오픈 이벤트\n예약 판매 기간 동안 예스24, 알라딘 2개의 구매처에서  &lt;너드커넥션 singles 18-21&gt; 사인반 랜덤 발송 이벤트가 진행됩니다.\n\n✔️예약 판매 일정 : 2022.05.13 (금) ~ 2022.05.19 (목)\n✔️CD 발매 일정 : 2022.05.20 (금)"
+	},
+	{
+		"created_at": "Fri May 13 05:29:34 +0000 2022",
+		"id": 1524976911331754000,
+		"id_str": "1524985179701379072",
+		"full_text": "💿온라인 예약 구매\n・ 알라딘 https://t.co/ipiXCpPE7S\n・ 예스24 https://t.co/Fnk3gUVw6w\n・ 인터파크 https://t.co/Pf1uflSTUp\n・ 핫트랙스 https://t.co/wIBGD6MUzl\n・ 신나라레코드 https://t.co/2oa6nfy7Hr\n・ KTOWN4U https://t.co/ytOhWolUlK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ipiXCpPE7S",
+					"expanded_url": "http://bit.ly/3yPPX91",
+					"display_url": "bit.ly/3yPPX91",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/Fnk3gUVw6w",
+					"expanded_url": "http://bit.ly/3PfWzmF",
+					"display_url": "bit.ly/3PfWzmF",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/Pf1uflSTUp",
+					"expanded_url": "http://bit.ly/3l7JEWc",
+					"display_url": "bit.ly/3l7JEWc",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/wIBGD6MUzl",
+					"expanded_url": "http://bit.ly/3l7zg0y",
+					"display_url": "bit.ly/3l7zg0y",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/2oa6nfy7Hr",
+					"expanded_url": "http://bit.ly/39eMw0E",
+					"display_url": "bit.ly/39eMw0E",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/ytOhWolUlK",
+					"expanded_url": "http://bit.ly/3l7DdT2",
+					"display_url": "bit.ly/3l7DdT2",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524976867639709700,
+		"in_reply_to_status_id_str": "1524976867639709696",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2234,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿온라인 예약 구매\n・ 알라딘 https://t.co/ipiXCpPE7S\n・ 예스24 https://t.co/Fnk3gUVw6w\n・ 인터파크 https://t.co/Pf1uflSTUp\n・ 핫트랙스 https://t.co/wIBGD6MUzl\n・ 신나라레코드 https://t.co/2oa6nfy7Hr\n・ KTOWN4U https://t.co/ytOhWolUlK"
+	},
+	{
 		"created_at": "Fri May 13 04:29:32 +0000 2022",
 		"id": 1524966074361729000,
 		"id_str": "1524970071843643396",
