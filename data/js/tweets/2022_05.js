@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 14 03:29:24 +0000 2022",
+		"id": 1525310225804165000,
+		"id_str": "1525317329063747586",
+		"full_text": "⠀\n“반복되는 모든 게 날 괴롭게 해요\n잘못되어 가고 있는 게 날 깨어 있게 해요”\n⠀\n💿\n박소은 정규 2집 두번째 선공개 싱글\n⠀\n[반복되는 모든 게 날 괴롭게 해요]\n2022.05.16 12PM\n⠀\n#박소은\n#싱글 #반복되는모든게날괴롭게해요\n#정규2집 #선공개싱글 https://t.co/tJXoRX7o1A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "반복되는모든게날괴롭게해요",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"text": "정규2집",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "선공개싱글",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525310197769842700,
+					"id_str": "1525310197769842689",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525310197769842689/pu/img/csLuDAhapB_PX4OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525310197769842689/pu/img/csLuDAhapB_PX4OW.jpg",
+					"url": "https://t.co/tJXoRX7o1A",
+					"display_url": "pic.twitter.com/tJXoRX7o1A",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1525310225804165120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525310197769842700,
+					"id_str": "1525310197769842689",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525310197769842689/pu/img/csLuDAhapB_PX4OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525310197769842689/pu/img/csLuDAhapB_PX4OW.jpg",
+					"url": "https://t.co/tJXoRX7o1A",
+					"display_url": "pic.twitter.com/tJXoRX7o1A",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1525310225804165120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15936,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525310197769842689/pu/vid/1280x720/rQeylBSTxOyF7qwe.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525310197769842689/pu/vid/480x270/vAAiqIXzOu7AA0vE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525310197769842689/pu/pl/lmZ7WF2Hq-JxWcQh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525310197769842689/pu/vid/640x360/9AzJECGW1z1JpCrI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2234,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\n“반복되는 모든 게 날 괴롭게 해요\n잘못되어 가고 있는 게 날 깨어 있게 해요”\n⠀\n💿\n박소은 정규 2집 두번째 선공개 싱글\n⠀\n[반복되는 모든 게 날 괴롭게 해요]\n2022.05.16 12PM\n⠀\n#박소은\n#싱글 #반복되는모든게날괴롭게해요\n#정규2집 #선공개싱글 https://t.co/tJXoRX7o1A"
+	},
+	{
 		"created_at": "Sat May 14 02:29:24 +0000 2022",
 		"id": 1525298013869985800,
 		"id_str": "1525302229456105474",
