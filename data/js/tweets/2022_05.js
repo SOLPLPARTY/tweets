@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 00:58:15 +0000 2022",
+		"id": 1525627512608653300,
+		"id_str": "1525641675036581888",
+		"full_text": "💎Join the Membership\nhttps://t.co/3htPBHj3vK\nJoin the Membership and set reminder!\n\n*Korean residents, please check TVING.\n*한국 거주자는 TVING을 통해 시청해주세요.\n\n#KCON #KCON2022Premiere https://t.co/c58IqUp31l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						157,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHj3vK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/c58IqUp31l",
+					"expanded_url": "https://twitter.com/kconjapan/status/1525627024462733312",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442361,
+			"friends_count": 76,
+			"listed_count": 1098,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525627024462733300,
+		"quoted_status_id_str": "1525627024462733312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c58IqUp31l",
+			"expanded": "https://twitter.com/kconjapan/status/1525627024462733312",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 15 00:00:02 +0000 2022",
+			"id": 1525627024462733300,
+			"id_str": "1525627024462733312",
+			"full_text": "KCON 2022 Premiere\n今日のラインナップを公開します！  \n\n#ENJIN\n#INI\n#JO1\n#OCTPATH\n#OWV\n#TO1 *Pre-recorded\n\n📍 KCON official - https://t.co/kHGuk2A4FO\n📍 Mnet K-POP - https://t.co/9QwOUF5PXZ https://t.co/lZ9b5B6va7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ENJIN",
+						"indices": [
+							39,
+							45
+						]
+					},
+					{
+						"text": "INI",
+						"indices": [
+							46,
+							50
+						]
+					},
+					{
+						"text": "JO1",
+						"indices": [
+							51,
+							55
+						]
+					},
+					{
+						"text": "OCTPATH",
+						"indices": [
+							56,
+							64
+						]
+					},
+					{
+						"text": "OWV",
+						"indices": [
+							65,
+							69
+						]
+					},
+					{
+						"text": "TO1",
+						"indices": [
+							70,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kHGuk2A4FO",
+						"expanded_url": "https://youtu.be/oGy9JtGKj4w",
+						"display_url": "youtu.be/oGy9JtGKj4w",
+						"indices": [
+							108,
+							131
+						]
+					},
+					{
+						"url": "https://t.co/9QwOUF5PXZ",
+						"expanded_url": "https://youtu.be/mWP0vTfhcVc",
+						"display_url": "youtu.be/mWP0vTfhcVc",
+						"indices": [
+							147,
+							170
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1525106975293710300,
+						"id_str": "1525106975293710345",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/FSpEtrLaIAkdWGo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSpEtrLaIAkdWGo.jpg",
+						"url": "https://t.co/lZ9b5B6va7",
+						"display_url": "pic.twitter.com/lZ9b5B6va7",
+						"expanded_url": "https://twitter.com/kconjapan/status/1525627024462733312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1525106975293710300,
+						"id_str": "1525106975293710345",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/FSpEtrLaIAkdWGo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSpEtrLaIAkdWGo.jpg",
+						"url": "https://t.co/lZ9b5B6va7",
+						"display_url": "pic.twitter.com/lZ9b5B6va7",
+						"expanded_url": "https://twitter.com/kconjapan/status/1525627024462733312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n💜 KCON 2022 Premiere💜 \n2022年5月14日(土)〜15日(日) 開催💜",
+				"url": "https://t.co/8gSPgazIMl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8gSPgazIMl",
+								"expanded_url": "https://www.mwave.me/jp/kcon",
+								"display_url": "mwave.me/jp/kcon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195228,
+				"friends_count": 157,
+				"listed_count": 407,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6511,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1504238707670335488/NDPqv_RZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504238707670335488/NDPqv_RZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1650583791",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 529,
+			"favorite_count": 1466,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 27,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💎Join the Membership\nhttps://t.co/3htPBHj3vK\nJoin the Membership and set reminder!\n\n*Korean residents, please check TVING.\n*한국 거주자는 TVING을 통해 시청해주세요.\n\n#KCON #KCON2022Premiere https://t.co/c58IqUp31l"
+	},
+	{
 		"created_at": "Sat May 14 15:06:22 +0000 2022",
 		"id": 1525492722722693000,
 		"id_str": "1525492722722693120",
