@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 09:58:26 +0000 2022",
+		"id": 1525770493512814600,
+		"id_str": "1525777617663696896",
+		"full_text": "30分後、7時に始まるKCON 2022 Premiere in Tokyo\nグローバルの方々も一緒に楽しみましょう💜\n\n▶  KCON official - https://t.co/hx2xJJwAy6\n▶ Mnet K-POP - https://t.co/cjET7UTzVn\n▶ TVING : https://t.co/z8WSLF0DOq\n\n#KCON #KCON2022Premiere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						184,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hx2xJJwAy6",
+					"expanded_url": "https://youtu.be/oGy9JtGKj4w",
+					"display_url": "youtu.be/oGy9JtGKj4w",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/cjET7UTzVn",
+					"expanded_url": "https://youtu.be/mWP0vTfhcVc",
+					"display_url": "youtu.be/mWP0vTfhcVc",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/z8WSLF0DOq",
+					"expanded_url": "https://www.tving.com/player/C51247",
+					"display_url": "tving.com/player/C51247",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1525770489448505300,
+		"in_reply_to_status_id_str": "1525770489448505344",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442502,
+			"friends_count": 76,
+			"listed_count": 1099,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "30分後、7時に始まるKCON 2022 Premiere in Tokyo\nグローバルの方々も一緒に楽しみましょう💜\n\n▶  KCON official - https://t.co/hx2xJJwAy6\n▶ Mnet K-POP - https://t.co/cjET7UTzVn\n▶ TVING : https://t.co/z8WSLF0DOq\n\n#KCON #KCON2022Premiere"
+	},
+	{
+		"created_at": "Sun May 15 09:58:22 +0000 2022",
+		"id": 1525770489448505300,
+		"id_str": "1525777600433606659",
+		"full_text": "30분 후 7시에 시작될 KCON 2022 Premiere in Tokyo\n글로벌 모든 분들 함께 즐겨요💜\n\n▶  KCON official - https://t.co/hx2xJJwAy6\n▶ Mnet K-POP - https://t.co/cjET7UTzVn\n▶ TVING : https://t.co/z8WSLF0DOq\n\n#KCON #KCON2022Premiere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						184,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hx2xJJwAy6",
+					"expanded_url": "https://youtu.be/oGy9JtGKj4w",
+					"display_url": "youtu.be/oGy9JtGKj4w",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/cjET7UTzVn",
+					"expanded_url": "https://youtu.be/mWP0vTfhcVc",
+					"display_url": "youtu.be/mWP0vTfhcVc",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/z8WSLF0DOq",
+					"expanded_url": "https://www.tving.com/player/C51247",
+					"display_url": "tving.com/player/C51247",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1525770484549558300,
+		"in_reply_to_status_id_str": "1525770484549558273",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442502,
+			"friends_count": 76,
+			"listed_count": 1099,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "30분 후 7시에 시작될 KCON 2022 Premiere in Tokyo\n글로벌 모든 분들 함께 즐겨요💜\n\n▶  KCON official - https://t.co/hx2xJJwAy6\n▶ Mnet K-POP - https://t.co/cjET7UTzVn\n▶ TVING : https://t.co/z8WSLF0DOq\n\n#KCON #KCON2022Premiere"
+	},
+	{
 		"created_at": "Sun May 15 06:29:32 +0000 2022",
 		"id": 1525716635788554200,
 		"id_str": "1525725045997305857",
