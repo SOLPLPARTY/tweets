@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 16 01:29:24 +0000 2022",
+		"id": 1525997436157579300,
+		"id_str": "1526011904770072577",
+		"full_text": "시드(Syd)의 첫 단독 내한 공연 티켓이 이번주 수요일(5월 18일) 오후 8시에 오픈됩니다.\n\n공연 일시 : 2022년 7월 31일 일요일 6PM\n장소 : YES24 라이브홀\n가격 : 전석 88,000 원 (1층 스탠딩 / 2층 지정좌석)\n관람 연령: 만 15세 이상\n예매처: 인터파크/YES24\n\nhttps://t.co/8lkvwjYSUt https://t.co/Ev7PaTwexs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8lkvwjYSUt",
+					"expanded_url": "http://highjinkx.com/syd",
+					"display_url": "highjinkx.com/syd",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1525997391727317000,
+					"id_str": "1525997391727316992",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525997391727316992/pu/img/89X2I6EYc0sDFKIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525997391727316992/pu/img/89X2I6EYc0sDFKIo.jpg",
+					"url": "https://t.co/Ev7PaTwexs",
+					"display_url": "pic.twitter.com/Ev7PaTwexs",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1525997436157579265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525997391727317000,
+					"id_str": "1525997391727316992",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525997391727316992/pu/img/89X2I6EYc0sDFKIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525997391727316992/pu/img/89X2I6EYc0sDFKIo.jpg",
+					"url": "https://t.co/Ev7PaTwexs",
+					"display_url": "pic.twitter.com/Ev7PaTwexs",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1525997436157579265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16975,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525997391727316992/pu/vid/320x320/5GuRc1w_H0bnhmW3.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525997391727316992/pu/vid/720x720/dKjxQJJbkFYQBlML.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525997391727316992/pu/vid/540x540/eOtJ3Y-3g6L8jujS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525997391727316992/pu/pl/HbNJUnLjpPYhG53c.m3u8?tag=12&container=fmp4&v=ae3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시드(Syd)의 첫 단독 내한 공연 티켓이 이번주 수요일(5월 18일) 오후 8시에 오픈됩니다.\n\n공연 일시 : 2022년 7월 31일 일요일 6PM\n장소 : YES24 라이브홀\n가격 : 전석 88,000 원 (1층 스탠딩 / 2층 지정좌석)\n관람 연령: 만 15세 이상\n예매처: 인터파크/YES24\n\nhttps://t.co/8lkvwjYSUt https://t.co/Ev7PaTwexs"
+	},
+	{
 		"created_at": "Sun May 15 15:29:35 +0000 2022",
 		"id": 1525854097525846000,
 		"id_str": "1525860954868695041",
