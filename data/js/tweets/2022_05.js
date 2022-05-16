@@ -1,6 +1,1092 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 16 09:11:58 +0000 2022",
+		"id": 1526128313634201600,
+		"id_str": "1526128313634201602",
+		"full_text": "#SMTOWN\nHYO 효연 'DEEP' MV\nhttps://t.co/uJ8hEvr64r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uJ8hEvr64r",
+					"expanded_url": "https://youtu.be/4DTkTJPtDZI",
+					"display_url": "youtu.be/4DTkTJPtDZI",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nHYO 효연 'DEEP' MV\nhttps://t.co/uJ8hEvr64r"
+	},
+	{
+		"created_at": "Mon May 16 09:11:17 +0000 2022",
+		"id": 1526110202185060400,
+		"id_str": "1526128139012800512",
+		"full_text": "[Notice] #우만합춘천 엔피아 이야기 모집! 🙌\n\n춘천공연에서 N.Flying과 나누고 싶은 여러분의 이야기를 작성해주세요!\nPlease write down your story that you would like to share with N.Flying in Chuncheon!\n\nhttps://t.co/DNEdV3pbzo\n※ 작성기간: 5/16(월) 17:00 ~ 5/18(수) 23:59 https://t.co/GmwqAn7PnF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우만합춘천",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DNEdV3pbzo",
+					"expanded_url": "http://bit.ly/LMT_Chuncheon",
+					"display_url": "bit.ly/LMT_Chuncheon",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526102529313890300,
+					"id_str": "1526102529313890304",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FS3OKi6UYAA9rlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS3OKi6UYAA9rlv.jpg",
+					"url": "https://t.co/GmwqAn7PnF",
+					"display_url": "pic.twitter.com/GmwqAn7PnF",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1526110202185060354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526102529313890300,
+					"id_str": "1526102529313890304",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FS3OKi6UYAA9rlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS3OKi6UYAA9rlv.jpg",
+					"url": "https://t.co/GmwqAn7PnF",
+					"display_url": "pic.twitter.com/GmwqAn7PnF",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1526110202185060354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526102597643341800,
+					"id_str": "1526102597643341824",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FS3OOhdVEAAdChV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS3OOhdVEAAdChV.jpg",
+					"url": "https://t.co/GmwqAn7PnF",
+					"display_url": "pic.twitter.com/GmwqAn7PnF",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1526110202185060354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333941242,
+			"id_str": "333941242",
+			"name": "KT&G 상상마당 라이브홀",
+			"screen_name": "ssLiveHall",
+			"location": "37.5509155,126.9210433",
+			"description": "상상마당 지하 2층에 서식중입니다. 라이브홀에서 진행되는 모든 공연에 관한 문의 환영! 홍대 주변 날씨, 맛집 등 온갖 문의 환영!",
+			"url": "https://t.co/laYCcDbsAQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/laYCcDbsAQ",
+							"expanded_url": "http://www.sangsangmadang.com/livehall",
+							"display_url": "sangsangmadang.com/livehall",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5789,
+			"friends_count": 2514,
+			"listed_count": 79,
+			"created_at": "Tue Jul 12 09:59:42 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E1C6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333941242/1440833687",
+			"profile_link_color": "ABB8AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "192638",
+			"profile_text_color": "5F7D7E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Notice] #우만합춘천 엔피아 이야기 모집! 🙌\n\n춘천공연에서 N.Flying과 나누고 싶은 여러분의 이야기를 작성해주세요!\nPlease write down your story that you would like to share with N.Flying in Chuncheon!\n\nhttps://t.co/DNEdV3pbzo\n※ 작성기간: 5/16(월) 17:00 ~ 5/18(수) 23:59 https://t.co/GmwqAn7PnF"
+	},
+	{
+		"created_at": "Mon May 16 09:03:31 +0000 2022",
+		"id": 1526126187797307400,
+		"id_str": "1526126187797307393",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n로키드 (Lokid) - Perfume (Feat. 송지은) [Live Clip]\nhttps://t.co/Px7hmSaDUZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Px7hmSaDUZ",
+					"expanded_url": "https://youtu.be/W15Aii-JfIk",
+					"display_url": "youtu.be/W15Aii-JfIk",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n로키드 (Lokid) - Perfume (Feat. 송지은) [Live Clip]\nhttps://t.co/Px7hmSaDUZ"
+	},
+	{
+		"created_at": "Mon May 16 08:54:51 +0000 2022",
+		"id": 1526124004343357400,
+		"id_str": "1526124004343357440",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n인스타하다 이 노래 들어보셨죠?\nhttps://t.co/AJDYvcdgA7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AJDYvcdgA7",
+					"expanded_url": "https://youtu.be/156zEyBIdPM",
+					"display_url": "youtu.be/156zEyBIdPM",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n인스타하다 이 노래 들어보셨죠?\nhttps://t.co/AJDYvcdgA7"
+	},
+	{
+		"created_at": "Mon May 16 08:29:40 +0000 2022",
+		"id": 1526111877113458700,
+		"id_str": "1526117665852506113",
+		"full_text": "[생활음악]과 관련된 모든 컨텐츠는 에피소드 SNS 계정과 홈페이지, 유튜브를 통해 선공개됩니다.\n\n🔍촬영장소 #에피소드수유838\n\n#YouHeeYul\n#생활음악 #에피소드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에피소드수유838",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "YouHeeYul",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "생활음악",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "에피소드",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526111873976135700,
+		"in_reply_to_status_id_str": "1526111873976135681",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40388,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[생활음악]과 관련된 모든 컨텐츠는 에피소드 SNS 계정과 홈페이지, 유튜브를 통해 선공개됩니다.\n\n🔍촬영장소 #에피소드수유838\n\n#YouHeeYul\n#생활음악 #에피소드"
+	},
+	{
+		"created_at": "Mon May 16 08:29:33 +0000 2022",
+		"id": 1526111873976135700,
+		"id_str": "1526117640279838721",
+		"full_text": "[#Teaser] #유희열\n\n&lt;생활음악 EP7. Coming Soon&gt;\n\n요즘 여러분의 하루는 어떻게 시작되고 있나요? \n창문을 활짝 열고, 쏟아지는 봄볕을 만끽하는 행복은 충분히 누리고 있나요? 얼마 남지 않은 이 계절과 꼭 어울리는 생활음악이 찾아옵니다. \n마음 설레는 일곱 번째 에피소드를 기대해주세요. https://t.co/bpDUH2Y9UK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526111866258219000,
+					"id_str": "1526111866258219008",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FS3WqBvUYAAMC6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS3WqBvUYAAMC6Y.jpg",
+					"url": "https://t.co/bpDUH2Y9UK",
+					"display_url": "pic.twitter.com/bpDUH2Y9UK",
+					"expanded_url": "https://twitter.com/antennamusic/status/1526111873976135681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526111866258219000,
+					"id_str": "1526111866258219008",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FS3WqBvUYAAMC6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS3WqBvUYAAMC6Y.jpg",
+					"url": "https://t.co/bpDUH2Y9UK",
+					"display_url": "pic.twitter.com/bpDUH2Y9UK",
+					"expanded_url": "https://twitter.com/antennamusic/status/1526111873976135681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40388,
+			"friends_count": 10,
+			"listed_count": 384,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #유희열\n\n&lt;생활음악 EP7. Coming Soon&gt;\n\n요즘 여러분의 하루는 어떻게 시작되고 있나요? \n창문을 활짝 열고, 쏟아지는 봄볕을 만끽하는 행복은 충분히 누리고 있나요? 얼마 남지 않은 이 계절과 꼭 어울리는 생활음악이 찾아옵니다. \n마음 설레는 일곱 번째 에피소드를 기대해주세요. https://t.co/bpDUH2Y9UK"
+	},
+	{
+		"created_at": "Mon May 16 08:29:30 +0000 2022",
+		"id": 1526105234908811300,
+		"id_str": "1526117627244036096",
+		"full_text": "#시가렛츠애프터섹스 #시가렛애프터섹스 #섹후땡 #cigarettesaftersex #cas #온콘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시가렛츠애프터섹스",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "시가렛애프터섹스",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"text": "섹후땡",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "cigarettesaftersex",
+					"indices": [
+						26,
+						45
+					]
+				},
+				{
+					"text": "cas",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "온콘",
+					"indices": [
+						51,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526105231624671200,
+		"in_reply_to_status_id_str": "1526105231624671233",
+		"in_reply_to_user_id": 1354376069487333400,
+		"in_reply_to_user_id_str": "1354376069487333378",
+		"in_reply_to_screen_name": "flippedcoinm",
+		"user": {
+			"id": 1354376069487333400,
+			"id_str": "1354376069487333378",
+			"name": "flippedcoinmusic",
+			"screen_name": "flippedcoinm",
+			"location": "",
+			"description": "레이블보단 느슨하게, 유통사보단 든든한\n신개념의 뮤직 콘텐츠 에이전시 🎰🪙🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 10,
+			"listed_count": 1,
+			"created_at": "Wed Jan 27 10:31:09 +0000 2021",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354376442784563202/wGlBhi7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354376069487333378/1620269929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#시가렛츠애프터섹스 #시가렛애프터섹스 #섹후땡 #cigarettesaftersex #cas #온콘"
+	},
+	{
 		"created_at": "Mon May 16 06:58:15 +0000 2022",
 		"id": 1526080004169379800,
 		"id_str": "1526094659843510272",
