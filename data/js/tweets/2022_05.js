@@ -1,6 +1,838 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 16 04:11:20 +0000 2022",
+		"id": 1526048933734035500,
+		"id_str": "1526052654669086720",
+		"full_text": "[단편선 x 오소영 : 단오절 2022] 2022.06.03(금) PM 8:00 https://t.co/e4tsLRa70a https://t.co/3d4pyObgyY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4tsLRa70a",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222734314147",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526048927576797200,
+					"id_str": "1526048927576797184",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FS2dag4UsAAUmRA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS2dag4UsAAUmRA.jpg",
+					"url": "https://t.co/3d4pyObgyY",
+					"display_url": "pic.twitter.com/3d4pyObgyY",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1526048933734035456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526048927576797200,
+					"id_str": "1526048927576797184",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FS2dag4UsAAUmRA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS2dag4UsAAUmRA.jpg",
+					"url": "https://t.co/3d4pyObgyY",
+					"display_url": "pic.twitter.com/3d4pyObgyY",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1526048933734035456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8392,
+			"friends_count": 557,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단편선 x 오소영 : 단오절 2022] 2022.06.03(금) PM 8:00 https://t.co/e4tsLRa70a https://t.co/3d4pyObgyY"
+	},
+	{
+		"created_at": "Mon May 16 04:11:17 +0000 2022",
+		"id": 1526045824727552000,
+		"id_str": "1526052641557598211",
+		"full_text": "🎉파랑새극장 Reopen 3주년 기념 대관할인 프로모션\n\n2022년 6월, 파랑새극장이 새단장 3주년을 맞이합니다!\n\n함께해주신 모두에게 감사한 마음을 담아 6~8월 평일 대관료 특별할인을 진행합니다.(*상세 내용 이미지 참고)\n\n멋진 공연으로 파랑새극장 새단장 3주년을 함께 축하해주세요! https://t.co/pgIXHyfeNF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526040587442733000,
+					"id_str": "1526040587442733056",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FS2V1DdaQAAL1Kx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS2V1DdaQAAL1Kx.jpg",
+					"url": "https://t.co/pgIXHyfeNF",
+					"display_url": "pic.twitter.com/pgIXHyfeNF",
+					"expanded_url": "https://twitter.com/parangsae_hall/status/1526045824727552000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526040587442733000,
+					"id_str": "1526040587442733056",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FS2V1DdaQAAL1Kx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS2V1DdaQAAL1Kx.jpg",
+					"url": "https://t.co/pgIXHyfeNF",
+					"display_url": "pic.twitter.com/pgIXHyfeNF",
+					"expanded_url": "https://twitter.com/parangsae_hall/status/1526045824727552000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526040587442716700,
+					"id_str": "1526040587442716674",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FS2V1DdaAAI-AQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS2V1DdaAAI-AQi.jpg",
+					"url": "https://t.co/pgIXHyfeNF",
+					"display_url": "pic.twitter.com/pgIXHyfeNF",
+					"expanded_url": "https://twitter.com/parangsae_hall/status/1526045824727552000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526040587455332400,
+					"id_str": "1526040587455332352",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FS2V1DgagAAU8p3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS2V1DgagAAU8p3.jpg",
+					"url": "https://t.co/pgIXHyfeNF",
+					"display_url": "pic.twitter.com/pgIXHyfeNF",
+					"expanded_url": "https://twitter.com/parangsae_hall/status/1526045824727552000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526040587451121700,
+					"id_str": "1526040587451121664",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FS2V1DfaQAAIiW7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS2V1DfaQAAIiW7.jpg",
+					"url": "https://t.co/pgIXHyfeNF",
+					"display_url": "pic.twitter.com/pgIXHyfeNF",
+					"expanded_url": "https://twitter.com/parangsae_hall/status/1526045824727552000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1120917323248832500,
+			"id_str": "1120917323248832512",
+			"name": "파랑새극장",
+			"screen_name": "parangsae_hall",
+			"location": "대한민국 종로구 ",
+			"description": "서울시 종로구 대학로 116. 혜화역 도보1분. 음악 공연 및 영상 상영 Music theater in Hyehwa, Daehak-ro, Seoul, Since 1984 https://t.co/rJt1LEK4OS\n공연 및 대관문의 parangsae.theater@00ground.kr",
+			"url": "https://t.co/rJt1LEK4OS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rJt1LEK4OS",
+							"expanded_url": "http://parangsae.theater",
+							"display_url": "parangsae.theater",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rJt1LEK4OS",
+							"expanded_url": "http://parangsae.theater",
+							"display_url": "parangsae.theater",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 507,
+			"listed_count": 1,
+			"created_at": "Wed Apr 24 05:08:10 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123502666242375680/wLJlkUBI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123502666242375680/wLJlkUBI_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉파랑새극장 Reopen 3주년 기념 대관할인 프로모션\n\n2022년 6월, 파랑새극장이 새단장 3주년을 맞이합니다!\n\n함께해주신 모두에게 감사한 마음을 담아 6~8월 평일 대관료 특별할인을 진행합니다.(*상세 내용 이미지 참고)\n\n멋진 공연으로 파랑새극장 새단장 3주년을 함께 축하해주세요! https://t.co/pgIXHyfeNF"
+	},
+	{
+		"created_at": "Mon May 16 03:29:40 +0000 2022",
+		"id": 1526037320327393300,
+		"id_str": "1526042170347724802",
+		"full_text": "KyU - Wish for Summer https://t.co/Z6j1usmqev",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z6j1usmqev",
+					"expanded_url": "http://blog.naver.com/chili7272/222734265364",
+					"display_url": "blog.naver.com/chili7272/2227…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfG7wZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfG7wZO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 2342,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526032930036137984/PpWDBPz4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526032930036137984/PpWDBPz4_normal.jpg",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KyU - Wish for Summer https://t.co/Z6j1usmqev"
+	},
+	{
+		"created_at": "Mon May 16 03:29:32 +0000 2022",
+		"id": 1526035029515976700,
+		"id_str": "1526042135119679488",
+		"full_text": "cott(콧) New EP\n[TWIST]\n2022.05.19 12pm\n\n#cott #콧 #TWIST #발매 #New #EP https://t.co/imdsfaLxzL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						46,
+						48
+					]
+				},
+				{
+					"text": "TWIST",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "New",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						65,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526034955641704400,
+					"id_str": "1526034955641704450",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526034955641704450/pu/img/o1xPR0LmWKt7PdmL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526034955641704450/pu/img/o1xPR0LmWKt7PdmL.jpg",
+					"url": "https://t.co/imdsfaLxzL",
+					"display_url": "pic.twitter.com/imdsfaLxzL",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1526035029515976705/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526034955641704400,
+					"id_str": "1526034955641704450",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526034955641704450/pu/img/o1xPR0LmWKt7PdmL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526034955641704450/pu/img/o1xPR0LmWKt7PdmL.jpg",
+					"url": "https://t.co/imdsfaLxzL",
+					"display_url": "pic.twitter.com/imdsfaLxzL",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1526035029515976705/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23273,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526034955641704450/pu/vid/720x720/xw2xP3B7f2nRZAlK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526034955641704450/pu/pl/UBQI2Frb9boBYPLO.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526034955641704450/pu/vid/540x540/Cn4LkbbbkZJPL5yl.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526034955641704450/pu/vid/320x320/TRv0ABoeeE5TZUoJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2236,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "cott(콧) New EP\n[TWIST]\n2022.05.19 12pm\n\n#cott #콧 #TWIST #발매 #New #EP https://t.co/imdsfaLxzL"
+	},
+	{
 		"created_at": "Mon May 16 03:11:33 +0000 2022",
 		"id": 1526034711868584000,
 		"id_str": "1526037609931325441",
