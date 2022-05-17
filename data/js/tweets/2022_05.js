@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 10:58:21 +0000 2022",
+		"id": 1526516919372632000,
+		"id_str": "1526517474321174528",
+		"full_text": "오늘 참석하신 분들의 같은 마음과 바람이 모여 종린님의 기나긴 투쟁이 의미있는 결과를 가져올 수 있길 바랍니다! https://t.co/S1BplzMvrK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526516908199006200,
+					"id_str": "1526516908199006208",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9HCkjUUAAtco4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9HCkjUUAAtco4.jpg",
+					"url": "https://t.co/S1BplzMvrK",
+					"display_url": "pic.twitter.com/S1BplzMvrK",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1526516919372632066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526516908199006200,
+					"id_str": "1526516908199006208",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9HCkjUUAAtco4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9HCkjUUAAtco4.jpg",
+					"url": "https://t.co/S1BplzMvrK",
+					"display_url": "pic.twitter.com/S1BplzMvrK",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1526516919372632066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526515895287545900,
+		"in_reply_to_status_id_str": "1526515895287545856",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7755,
+			"friends_count": 43,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 참석하신 분들의 같은 마음과 바람이 모여 종린님의 기나긴 투쟁이 의미있는 결과를 가져올 수 있길 바랍니다! https://t.co/S1BplzMvrK"
+	},
+	{
+		"created_at": "Tue May 17 10:58:14 +0000 2022",
+		"id": 1526515895287545900,
+		"id_str": "1526517444566720513",
+		"full_text": "장비 문제로 오늘 예상보다 조금 일찍 공연을 마쳤습니다. 평일 오후 가장 바쁘고 혼잡한 시간에 힘을 모으러 와주신 분들께 감사의 인사를 드립니다 🫶🏻",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7755,
+			"friends_count": 43,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "장비 문제로 오늘 예상보다 조금 일찍 공연을 마쳤습니다. 평일 오후 가장 바쁘고 혼잡한 시간에 힘을 모으러 와주신 분들께 감사의 인사를 드립니다 🫶🏻"
+	},
+	{
+		"created_at": "Tue May 17 10:29:36 +0000 2022",
+		"id": 1526505124650070000,
+		"id_str": "1526510238748246017",
+		"full_text": "[#정인] 전부 노래 잘함 EP.4 오픈✔\n\n정인의 목소리를 쏙 빼닮은 열정인 엄홍인씨⛰️ 등장?!\n지금 YouTube '스튜디오 피넛버터'에서 확인하세요🔥\n🔗 https://t.co/uCt4LM3VkY\n\n#JUNGIN #스튜디오피넛버터 #전부노래잘함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "스튜디오피넛버터",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "전부노래잘함",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uCt4LM3VkY",
+					"expanded_url": "https://youtu.be/dc9_c9vcbQM",
+					"display_url": "youtu.be/dc9_c9vcbQM",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34991,
+			"friends_count": 15,
+			"listed_count": 286,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] 전부 노래 잘함 EP.4 오픈✔\n\n정인의 목소리를 쏙 빼닮은 열정인 엄홍인씨⛰️ 등장?!\n지금 YouTube '스튜디오 피넛버터'에서 확인하세요🔥\n🔗 https://t.co/uCt4LM3VkY\n\n#JUNGIN #스튜디오피넛버터 #전부노래잘함"
+	},
+	{
+		"created_at": "Tue May 17 10:29:30 +0000 2022",
+		"id": 1526495527025660000,
+		"id_str": "1526510213041381376",
+		"full_text": "#와이돈위 신곡 🤔𝐉𝐮𝐬𝐭 𝐅𝐫𝐢𝐞𝐧𝐝𝐬👀 공개!\n🎧음원듣기 https://t.co/3vaJSkGvsV\n🎥자막뮤비 https://t.co/xwYMVzRqzk https://t.co/u5FbAbLpxg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "와이돈위",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3vaJSkGvsV",
+					"expanded_url": "https://WMK.lnk.to/8ZYcN2fG",
+					"display_url": "WMK.lnk.to/8ZYcN2fG",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/xwYMVzRqzk",
+					"expanded_url": "https://youtu.be/kfNMN1dZURU",
+					"display_url": "youtu.be/kfNMN1dZURU",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526495252059668500,
+					"id_str": "1526495252059668482",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526495252059668482/pu/img/OTJD4E3Dzt1ID22y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526495252059668482/pu/img/OTJD4E3Dzt1ID22y.jpg",
+					"url": "https://t.co/u5FbAbLpxg",
+					"display_url": "pic.twitter.com/u5FbAbLpxg",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1526495527025659904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526495252059668500,
+					"id_str": "1526495252059668482",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526495252059668482/pu/img/OTJD4E3Dzt1ID22y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526495252059668482/pu/img/OTJD4E3Dzt1ID22y.jpg",
+					"url": "https://t.co/u5FbAbLpxg",
+					"display_url": "pic.twitter.com/u5FbAbLpxg",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1526495527025659904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34868,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526495252059668482/pu/vid/320x320/f3b83yOx85yr95vh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526495252059668482/pu/pl/HCCt092GLl8FRztR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526495252059668482/pu/vid/540x540/qw2xa4bPsvBtkBT7.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526495252059668482/pu/vid/720x720/Lpfgn8fSNbiE6m00.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73986,
+			"friends_count": 494,
+			"listed_count": 204,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#와이돈위 신곡 🤔𝐉𝐮𝐬𝐭 𝐅𝐫𝐢𝐞𝐧𝐝𝐬👀 공개!\n🎧음원듣기 https://t.co/3vaJSkGvsV\n🎥자막뮤비 https://t.co/xwYMVzRqzk https://t.co/u5FbAbLpxg"
+	},
+	{
 		"created_at": "Tue May 17 10:11:19 +0000 2022",
 		"id": 1526503492415680500,
 		"id_str": "1526505638221725697",
