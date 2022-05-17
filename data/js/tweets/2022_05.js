@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 12:11:17 +0000 2022",
+		"id": 1526527430676328400,
+		"id_str": "1526535826682830848",
+		"full_text": "🔥THANK YOU, SOLD OUT🔥\n[O.O.O 단독콘서트 : WE YELL O]\n2분 컷 매진 감사합니다‼️\n\n여러분들의 뜨거운 성원에 힘입어 추가티켓을 오픈할 예정입니다.\n\n최대한 이번주 중으로 티켓 오픈 공지 및 티켓 오픈을 진행할 예정이니 기다려주세요🙌\n\nO.O.O와 함께 뛰어놀 그날을 기다리며, 소리질러~! https://t.co/u9ixB4QFmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526527424829067300,
+					"id_str": "1526527424829067264",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9QmuDUEAABDMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9QmuDUEAABDMp.jpg",
+					"url": "https://t.co/u9ixB4QFmU",
+					"display_url": "pic.twitter.com/u9ixB4QFmU",
+					"expanded_url": "https://twitter.com/prismhall/status/1526527430676328449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1662,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526527424829067300,
+					"id_str": "1526527424829067264",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9QmuDUEAABDMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9QmuDUEAABDMp.jpg",
+					"url": "https://t.co/u9ixB4QFmU",
+					"display_url": "pic.twitter.com/u9ixB4QFmU",
+					"expanded_url": "https://twitter.com/prismhall/status/1526527430676328449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1662,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2041,
+			"friends_count": 1116,
+			"listed_count": 0,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥THANK YOU, SOLD OUT🔥\n[O.O.O 단독콘서트 : WE YELL O]\n2분 컷 매진 감사합니다‼️\n\n여러분들의 뜨거운 성원에 힘입어 추가티켓을 오픈할 예정입니다.\n\n최대한 이번주 중으로 티켓 오픈 공지 및 티켓 오픈을 진행할 예정이니 기다려주세요🙌\n\nO.O.O와 함께 뛰어놀 그날을 기다리며, 소리질러~! https://t.co/u9ixB4QFmU"
+	},
+	{
 		"created_at": "Tue May 17 10:58:21 +0000 2022",
 		"id": 1526516919372632000,
 		"id_str": "1526517474321174528",
