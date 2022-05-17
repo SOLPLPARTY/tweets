@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 12:29:33 +0000 2022",
+		"id": 1526535421475569700,
+		"id_str": "1526540423388450818",
+		"full_text": "유어썸머 5월 셋째 주 스케줄💌\n\n5/18 (수)\n[랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n5/19 (목) 정오\n[cott] EP &lt;TWIST&gt; 발매\n-\n5/19 (목)\n[오지은] EBS 오디오e지식 &lt;이런 나라도 떠나고 싶다&gt;\n#랄라스윗 #cott #콧 #오지은 #유어썸머 #스케줄 https://t.co/3RvAil82nJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						163,
+						165
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						177,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526535412633981000,
+					"id_str": "1526535412633980928",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9X3q8aUAAdImS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9X3q8aUAAdImS.jpg",
+					"url": "https://t.co/3RvAil82nJ",
+					"display_url": "pic.twitter.com/3RvAil82nJ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1526535421475569665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526535412633981000,
+					"id_str": "1526535412633980928",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FS9X3q8aUAAdImS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS9X3q8aUAAdImS.jpg",
+					"url": "https://t.co/3RvAil82nJ",
+					"display_url": "pic.twitter.com/3RvAil82nJ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1526535421475569665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2235,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유어썸머 5월 셋째 주 스케줄💌\n\n5/18 (수)\n[랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n5/19 (목) 정오\n[cott] EP &lt;TWIST&gt; 발매\n-\n5/19 (목)\n[오지은] EBS 오디오e지식 &lt;이런 나라도 떠나고 싶다&gt;\n#랄라스윗 #cott #콧 #오지은 #유어썸머 #스케줄 https://t.co/3RvAil82nJ"
+	},
+	{
 		"created_at": "Tue May 17 12:11:17 +0000 2022",
 		"id": 1526527430676328400,
 		"id_str": "1526535826682830848",
