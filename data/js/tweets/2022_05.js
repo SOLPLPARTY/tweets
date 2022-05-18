@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 10:30:00 +0000 2022",
+		"id": 1526866021281570800,
+		"id_str": "1526872727495352320",
+		"full_text": "▪️ 유의 사항\n - 모든 콘테스트 참여자의 영상은 추후 안테나에서 제작하는 콘텐츠에 공개될 수 있습니다.\n - 콘테스트에 참여하는 계정은 반드시 공개 상태의 계정이어야 합니다.\n - 당첨자 발표 전 게시물 삭제 및 계정 비공개 전환 시 당첨자 선정에서 제외될 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526866020035489800,
+		"in_reply_to_status_id_str": "1526866020035489794",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪️ 유의 사항\n - 모든 콘테스트 참여자의 영상은 추후 안테나에서 제작하는 콘텐츠에 공개될 수 있습니다.\n - 콘테스트에 참여하는 계정은 반드시 공개 상태의 계정이어야 합니다.\n - 당첨자 발표 전 게시물 삭제 및 계정 비공개 전환 시 당첨자 선정에서 제외될 수 있습니다."
+	},
+	{
+		"created_at": "Wed May 18 10:29:51 +0000 2022",
+		"id": 1526866020035489800,
+		"id_str": "1526872689247412227",
+		"full_text": "▪️ 참여 방법\n 1. 정승환 ‘안녕이란 말’을 완곡한 커버 영상을 촬영한다. (가창, 연주 등 참여 방식은 자유)\n 2. 유튜브, 인스타그램, 페이스북에 #정승환 #안녕이란말 #안녕이란말커버 해시태그와 함께 업로드한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "안녕이란말",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "안녕이란말커버",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526866018597216300,
+		"in_reply_to_status_id_str": "1526866018597216257",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪️ 참여 방법\n 1. 정승환 ‘안녕이란 말’을 완곡한 커버 영상을 촬영한다. (가창, 연주 등 참여 방식은 자유)\n 2. 유튜브, 인스타그램, 페이스북에 #정승환 #안녕이란말 #안녕이란말커버 해시태그와 함께 업로드한다."
+	},
+	{
+		"created_at": "Wed May 18 10:29:43 +0000 2022",
+		"id": 1526866018597216300,
+		"id_str": "1526872655177175042",
+		"full_text": "[정승환 DS '안녕이란 말' 커버 콘테스트]\n\n▪️ 참여 기간\n 5월 18일(수) 오후 7시 ~ 5월 25일(수) 오후 7시\n\n▪️ 당첨자 발표\n 5월 31일(화) 오후 6시\n\n▪️ 당첨자 리워드\n 정승환과 함께 ‘안녕이란 말’ 듀엣 라이브 콘텐츠 촬영 (1명)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526866014687752200,
+		"in_reply_to_status_id_str": "1526866014687752193",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[정승환 DS '안녕이란 말' 커버 콘테스트]\n\n▪️ 참여 기간\n 5월 18일(수) 오후 7시 ~ 5월 25일(수) 오후 7시\n\n▪️ 당첨자 발표\n 5월 31일(화) 오후 6시\n\n▪️ 당첨자 리워드\n 정승환과 함께 ‘안녕이란 말’ 듀엣 라이브 콘텐츠 촬영 (1명)"
+	},
+	{
+		"created_at": "Wed May 18 10:29:34 +0000 2022",
+		"id": 1526866014687752200,
+		"id_str": "1526872616430182400",
+		"full_text": "[#Notice] #정승환\n\n정승환 DS '안녕이란 말' 발매를 기념하여 커버 콘테스트를 개최합니다. 참여 기간, 참여 방법 등 자세한 사항은 이어지는 내용을 확인해 주세요🎤\n\n#JungSeungHwan\n#안녕이란말 #AndTheEnd\n#커버콘테스트 https://t.co/Y8YAWktdbf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"text": "안녕이란말",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "AndTheEnd",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "커버콘테스트",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526865900002939000,
+					"id_str": "1526865900002938881",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526865900002938881/pu/img/NK2atpXREetW27RX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526865900002938881/pu/img/NK2atpXREetW27RX.jpg",
+					"url": "https://t.co/Y8YAWktdbf",
+					"display_url": "pic.twitter.com/Y8YAWktdbf",
+					"expanded_url": "https://twitter.com/antennamusic/status/1526866014687752193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526865900002939000,
+					"id_str": "1526865900002938881",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526865900002938881/pu/img/NK2atpXREetW27RX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526865900002938881/pu/img/NK2atpXREetW27RX.jpg",
+					"url": "https://t.co/Y8YAWktdbf",
+					"display_url": "pic.twitter.com/Y8YAWktdbf",
+					"expanded_url": "https://twitter.com/antennamusic/status/1526866014687752193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140006,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526865900002938881/pu/vid/1280x720/lLI4Vk7hPoimmVVN.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526865900002938881/pu/vid/480x270/3HFSqvvBxAtlSupB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526865900002938881/pu/vid/640x360/nUQebr41QJjQbN27.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526865900002938881/pu/pl/hg7GUVhbEwXxdfZe.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #정승환\n\n정승환 DS '안녕이란 말' 발매를 기념하여 커버 콘테스트를 개최합니다. 참여 기간, 참여 방법 등 자세한 사항은 이어지는 내용을 확인해 주세요🎤\n\n#JungSeungHwan\n#안녕이란말 #AndTheEnd\n#커버콘테스트 https://t.co/Y8YAWktdbf"
+	},
+	{
+		"created_at": "Wed May 18 10:29:32 +0000 2022",
+		"id": 1526865177517478000,
+		"id_str": "1526872607517290496",
+		"full_text": "[NOTICE]\n\n선미(SUNMI) 'Fellowship' Lyrics Video 조회수 이벤트\n📺 https://t.co/0FwijzxHPK\n\n자세한 이벤트 내용은 '선미야클럽' 디스코드 페이지에서 확인하세요!\n🔗 https://t.co/9D1UG7RKvP\n\n#선미 #SUNMI #Fellowship \n#선미야클럽 #Sunmiya_Club\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/tZfK2lYQtO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "Fellowship",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "선미야클럽",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "Sunmiya_Club",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"text": "어비스컴퍼니",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						199,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0FwijzxHPK",
+					"expanded_url": "https://youtu.be/a9NZ-pIoFts",
+					"display_url": "youtu.be/a9NZ-pIoFts",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/9D1UG7RKvP",
+					"expanded_url": "https://discord.com/invite/sunmiyaclub",
+					"display_url": "discord.com/invite/sunmiya…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526859842354237400,
+					"id_str": "1526859842354237443",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FTB-791VUAMkErq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTB-791VUAMkErq.jpg",
+					"url": "https://t.co/tZfK2lYQtO",
+					"display_url": "pic.twitter.com/tZfK2lYQtO",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1526865177517477893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526859842354237400,
+					"id_str": "1526859842354237443",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FTB-791VUAMkErq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTB-791VUAMkErq.jpg",
+					"url": "https://t.co/tZfK2lYQtO",
+					"display_url": "pic.twitter.com/tZfK2lYQtO",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1526865177517477893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157807,
+			"friends_count": 8,
+			"listed_count": 263,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n\n선미(SUNMI) 'Fellowship' Lyrics Video 조회수 이벤트\n📺 https://t.co/0FwijzxHPK\n\n자세한 이벤트 내용은 '선미야클럽' 디스코드 페이지에서 확인하세요!\n🔗 https://t.co/9D1UG7RKvP\n\n#선미 #SUNMI #Fellowship \n#선미야클럽 #Sunmiya_Club\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/tZfK2lYQtO"
+	},
+	{
 		"created_at": "Wed May 18 09:58:15 +0000 2022",
 		"id": 1526850084486492200,
 		"id_str": "1526864734074589184",
