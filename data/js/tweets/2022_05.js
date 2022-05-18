@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 06:29:25 +0000 2022",
+		"id": 1526809150063538200,
+		"id_str": "1526812180322164736",
+		"full_text": "오늘 오후 8시 시드 첫 내한 공연 티켓 판매가 시작됩니다! https://t.co/LAB0j4kpyu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LAB0j4kpyu",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1524894704667889664",
+					"display_url": "twitter.com/HIGHJINKXX/sta…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524894704667889700,
+		"quoted_status_id_str": "1524894704667889664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LAB0j4kpyu",
+			"expanded": "https://twitter.com/HIGHJINKXX/status/1524894704667889664",
+			"display": "twitter.com/HIGHJINKXX/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 12 23:30:03 +0000 2022",
+			"id": 1524894704667889700,
+			"id_str": "1524894704667889664",
+			"full_text": "[Syd Live in Seoul]\n\n디 인터넷(The Internet )의 리드 보컬이자\n미래 지향적인 R&amp;B/소울의 아이콘\n5년 만의 솔로 앨범 'Broken Hearts Club'으로 돌아온\n시드(Syd)의 첫 단독 내한 공연. https://t.co/lPEVPn5RiD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1524888917061042200,
+						"id_str": "1524888917061042181",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/FSl-ZA9agAUdV71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSl-ZA9agAUdV71.jpg",
+						"url": "https://t.co/lPEVPn5RiD",
+						"display_url": "pic.twitter.com/lPEVPn5RiD",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1524894704667889664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1639,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1524888917061042200,
+						"id_str": "1524888917061042181",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/FSl-ZA9agAUdV71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSl-ZA9agAUdV71.jpg",
+						"url": "https://t.co/lPEVPn5RiD",
+						"display_url": "pic.twitter.com/lPEVPn5RiD",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1524894704667889664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1639,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985865748638650400,
+				"id_str": "985865748638650368",
+				"name": "HIGHJINKX 하이징크스",
+				"screen_name": "HIGHJINKXX",
+				"location": "대한민국 서울",
+				"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+				"url": "https://t.co/jgdOjxpuHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jgdOjxpuHL",
+								"expanded_url": "https://www.highjinkxmm.com",
+								"display_url": "highjinkxmm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UEZd1zJqKQ",
+								"expanded_url": "http://highjinkx.com",
+								"display_url": "highjinkx.com",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/bYHM3gw6rB",
+								"expanded_url": "http://highjinkxmm.com",
+								"display_url": "highjinkxmm.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 560,
+				"friends_count": 26,
+				"listed_count": 4,
+				"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+				"favourites_count": 373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 773,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 294,
+			"favorite_count": 177,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 오후 8시 시드 첫 내한 공연 티켓 판매가 시작됩니다! https://t.co/LAB0j4kpyu"
+	},
+	{
 		"created_at": "Wed May 18 06:12:41 +0000 2022",
 		"id": 1526807968368365600,
 		"id_str": "1526807968368365568",
