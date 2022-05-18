@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 13:29:36 +0000 2022",
+		"id": 1526914890442903600,
+		"id_str": "1526917924627394560",
+		"full_text": "💿NEW MUSIC TODAY💿\n“AB6IX (에이비식스) - SAVIOR”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/46nhSQu7Ll\n\n#warnermusic #warnerkpop #KPOP #AB6IX #에이비식스 #SAVIOR #ATOB @AB6IX @BN_Music https://t.co/zE2iUSsK7s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "에이비식스",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "SAVIOR",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "ATOB",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AB6IX",
+					"name": "AB6IX",
+					"id": 1096344582902575100,
+					"id_str": "1096344582902575104",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"screen_name": "BN_Music",
+					"name": "BRANDNEW MUSIC",
+					"id": 346501698,
+					"id_str": "346501698",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/46nhSQu7Ll",
+					"expanded_url": "http://WMK.lnk.to/AtoB",
+					"display_url": "WMK.lnk.to/AtoB",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526914822985891800,
+					"id_str": "1526914822985891840",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526914822985891840/pu/img/Gj8vYL41ZSCm3ZeU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526914822985891840/pu/img/Gj8vYL41ZSCm3ZeU.jpg",
+					"url": "https://t.co/zE2iUSsK7s",
+					"display_url": "pic.twitter.com/zE2iUSsK7s",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1526914890442903552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526914822985891800,
+					"id_str": "1526914822985891840",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526914822985891840/pu/img/Gj8vYL41ZSCm3ZeU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526914822985891840/pu/img/Gj8vYL41ZSCm3ZeU.jpg",
+					"url": "https://t.co/zE2iUSsK7s",
+					"display_url": "pic.twitter.com/zE2iUSsK7s",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1526914890442903552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44990,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526914822985891840/pu/vid/320x320/a0wJAZIezZWjX4Mm.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526914822985891840/pu/vid/540x540/tKv-QtYBYlay3f5-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526914822985891840/pu/pl/Zt8dAfCO_e-5qYgk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526914822985891840/pu/vid/720x720/kmP9MxYGpFzEZ1-e.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74872,
+			"friends_count": 494,
+			"listed_count": 204,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“AB6IX (에이비식스) - SAVIOR”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/46nhSQu7Ll\n\n#warnermusic #warnerkpop #KPOP #AB6IX #에이비식스 #SAVIOR #ATOB @AB6IX @BN_Music https://t.co/zE2iUSsK7s"
+	},
+	{
+		"created_at": "Wed May 18 13:29:27 +0000 2022",
+		"id": 1526911192643448800,
+		"id_str": "1526917886354259968",
+		"full_text": "HYO &amp; WENDY at Wendy's Young Street 🕷💙 \n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 @GirlsGeneration\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 @RVsmtown\n#웬디의영스트리트 #영스트리트 https://t.co/E579dGzbfg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526911167288856600,
+					"id_str": "1526911167288856576",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"url": "https://t.co/E579dGzbfg",
+					"display_url": "pic.twitter.com/E579dGzbfg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1526911192643448833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526911167288856600,
+					"id_str": "1526911167288856576",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"url": "https://t.co/E579dGzbfg",
+					"display_url": "pic.twitter.com/E579dGzbfg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1526911192643448833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10824423,
+			"friends_count": 56,
+			"listed_count": 12173,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4741,
+		"favorite_count": 13346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYO &amp; WENDY at Wendy's Young Street 🕷💙 \n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 @GirlsGeneration\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 @RVsmtown\n#웬디의영스트리트 #영스트리트 https://t.co/E579dGzbfg"
+	},
+	{
 		"created_at": "Wed May 18 13:11:24 +0000 2022",
 		"id": 1526901175164887000,
 		"id_str": "1526913343675580418",
