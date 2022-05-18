@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 11:29:47 +0000 2022",
+		"id": 1526887553533714400,
+		"id_str": "1526887771050323969",
+		"full_text": "#매들린더퍼슨 🤡𝐌𝐄𝐀𝐍!🤡\n틱톡이 발굴한 띵곡 추천👍\n🎧음원듣기 https://t.co/9TAI0SqzdG https://t.co/TvAMfx3XBu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매들린더퍼슨",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9TAI0SqzdG",
+					"expanded_url": "https://wmk.lnk.to/tofzrs5x",
+					"display_url": "wmk.lnk.to/tofzrs5x",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526887324906360800,
+					"id_str": "1526887324906360832",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526887324906360832/pu/img/M7F_nkKtjBwPvGZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526887324906360832/pu/img/M7F_nkKtjBwPvGZE.jpg",
+					"url": "https://t.co/TvAMfx3XBu",
+					"display_url": "pic.twitter.com/TvAMfx3XBu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1526887553533714432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526887324906360800,
+					"id_str": "1526887324906360832",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526887324906360832/pu/img/M7F_nkKtjBwPvGZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526887324906360832/pu/img/M7F_nkKtjBwPvGZE.jpg",
+					"url": "https://t.co/TvAMfx3XBu",
+					"display_url": "pic.twitter.com/TvAMfx3XBu",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1526887553533714432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31489,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526887324906360832/pu/vid/540x540/8i1mcL6mKMu4LKaN.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526887324906360832/pu/vid/720x720/EI-3pYBg4kydGkZf.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526887324906360832/pu/pl/OnfVdio3XtPi5Q6E.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526887324906360832/pu/vid/320x320/xsPSB5Qoh0ZRDRn0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74784,
+			"friends_count": 494,
+			"listed_count": 204,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매들린더퍼슨 🤡𝐌𝐄𝐀𝐍!🤡\n틱톡이 발굴한 띵곡 추천👍\n🎧음원듣기 https://t.co/9TAI0SqzdG https://t.co/TvAMfx3XBu"
+	},
+	{
+		"created_at": "Wed May 18 11:29:38 +0000 2022",
+		"id": 1526881969124290600,
+		"id_str": "1526887732693577728",
+		"full_text": "@le_petit_piano @pptnznoshel \n#JungJaeHyung #페퍼톤스 #Peppertones\n#오늘도삽질 #스튜디오훜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungJaeHyung",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"text": "오늘도삽질",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "스튜디오훜",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526881965286502400,
+		"in_reply_to_status_id_str": "1526881965286502400",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@le_petit_piano @pptnznoshel \n#JungJaeHyung #페퍼톤스 #Peppertones\n#오늘도삽질 #스튜디오훜"
+	},
+	{
+		"created_at": "Wed May 18 11:29:32 +0000 2022",
+		"id": 1526881965286502400,
+		"id_str": "1526887706915229696",
+		"full_text": "[#Video] #정재형 #이장원\n\n졍앤쟝과 특별 게스트 라치카가 함께한 스트릿 삽질 파이터 홈 가드닝🌷✨ &lt;오늘도 삽질2&gt; 6삽은 지금 스튜디오 훜에서 만나보실 수 있습니다🍃\n\n🪴&lt;오늘도 삽질2&gt; 6삽\nhttps://t.co/wPJC6KaEFb https://t.co/yyb0vQIpic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wPJC6KaEFb",
+					"expanded_url": "https://youtu.be/D1_7bVAOryg",
+					"display_url": "youtu.be/D1_7bVAOryg",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526881902313242600,
+					"id_str": "1526881902313242624",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526881902313242624/pu/img/olzqgaSihBEoaBKL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526881902313242624/pu/img/olzqgaSihBEoaBKL.jpg",
+					"url": "https://t.co/yyb0vQIpic",
+					"display_url": "pic.twitter.com/yyb0vQIpic",
+					"expanded_url": "https://twitter.com/antennamusic/status/1526881965286502400/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526881902313242600,
+					"id_str": "1526881902313242624",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526881902313242624/pu/img/olzqgaSihBEoaBKL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526881902313242624/pu/img/olzqgaSihBEoaBKL.jpg",
+					"url": "https://t.co/yyb0vQIpic",
+					"display_url": "pic.twitter.com/yyb0vQIpic",
+					"expanded_url": "https://twitter.com/antennamusic/status/1526881965286502400/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 696,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							87
+						],
+						"duration_millis": 12271,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526881902313242624/pu/vid/1280x696/X04nrxzlZFhAxNb9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526881902313242624/pu/pl/rbcbnEfBL6mkpvxe.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526881902313242624/pu/vid/662x360/_RmFzNUSV4IyOMdF.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526881902313242624/pu/vid/496x270/qPnxV3oyrz8KkCkW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정재형 #이장원\n\n졍앤쟝과 특별 게스트 라치카가 함께한 스트릿 삽질 파이터 홈 가드닝🌷✨ &lt;오늘도 삽질2&gt; 6삽은 지금 스튜디오 훜에서 만나보실 수 있습니다🍃\n\n🪴&lt;오늘도 삽질2&gt; 6삽\nhttps://t.co/wPJC6KaEFb https://t.co/yyb0vQIpic"
+	},
+	{
 		"created_at": "Wed May 18 10:30:00 +0000 2022",
 		"id": 1526866021281570800,
 		"id_str": "1526872727495352320",
