@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 01:29:32 +0000 2022",
+		"id": 1526735978676641800,
+		"id_str": "1526736713195954177",
+		"full_text": "[#NEWS] “전천후 능력자란 이런 것” 김이나, 가요 방송계 종횡무진\n\n▶️ https://t.co/rme2wsxCmI\n\n#김이나 #공이나칠까 #별이빛나는밤에 #청춘스타 #결혼과이혼사이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "공이나칠까",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "별이빛나는밤에",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "청춘스타",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "결혼과이혼사이",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rme2wsxCmI",
+					"expanded_url": "http://naver.me/xA3cvso1",
+					"display_url": "naver.me/xA3cvso1",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34984,
+			"friends_count": 15,
+			"listed_count": 286,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] “전천후 능력자란 이런 것” 김이나, 가요 방송계 종횡무진\n\n▶️ https://t.co/rme2wsxCmI\n\n#김이나 #공이나칠까 #별이빛나는밤에 #청춘스타 #결혼과이혼사이"
+	},
+	{
+		"created_at": "Wed May 18 01:29:27 +0000 2022",
+		"id": 1526735918412877800,
+		"id_str": "1526736691725312000",
+		"full_text": "[📰] 최유리, '욕심의 반대편으로' 콘셉트 포토 공개\n(출처 : 뉴시스 | 네이버 TV연예)\n\nhttps://t.co/mQw4KM2B1t\n \n#최유리 #욕심의_반대편으로 \n#CHOIYUREE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "욕심의_반대편으로",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "CHOIYUREE",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mQw4KM2B1t",
+					"expanded_url": "http://naver.me/Fx4Kpd9D",
+					"display_url": "naver.me/Fx4Kpd9D",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2izsAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2izsAi",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7705,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1651584080",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📰] 최유리, '욕심의 반대편으로' 콘셉트 포토 공개\n(출처 : 뉴시스 | 네이버 TV연예)\n\nhttps://t.co/mQw4KM2B1t\n \n#최유리 #욕심의_반대편으로 \n#CHOIYUREE"
+	},
+	{
 		"created_at": "Tue May 17 23:58:30 +0000 2022",
 		"id": 1526699363698761700,
 		"id_str": "1526713802078752769",
