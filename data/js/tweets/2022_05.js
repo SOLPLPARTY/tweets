@@ -1,10 +1,440 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 08:11:16 +0000 2022",
+		"id": 1527197604198527000,
+		"id_str": "1527200202268057601",
+		"full_text": "#우만합부산 Flashback ✨\n\n5월 내내 N.Flying과 떠나는 #상상마당뮤직트립 \n두번째 부산공연 살짝 엿보기 👀\n\n지난주 목요일 저녁 여러분은 어떤 마음이셨는지,\n그리고 오늘 하늘이 질 때 어떤 마음일지\n제가 참 궁금해요..💙\n\n특별한 이번주도 #우만합춘천 에서 행복하게 만나요! https://t.co/rIiHsvL5Vx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우만합부산",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "상상마당뮤직트립",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "우만합춘천",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527196447565054000,
+					"id_str": "1527196447565053953",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FTGxE99agAEf6ML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTGxE99agAEf6ML.jpg",
+					"url": "https://t.co/rIiHsvL5Vx",
+					"display_url": "pic.twitter.com/rIiHsvL5Vx",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1527197604198526977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527196447565054000,
+					"id_str": "1527196447565053953",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FTGxE99agAEf6ML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTGxE99agAEf6ML.jpg",
+					"url": "https://t.co/rIiHsvL5Vx",
+					"display_url": "pic.twitter.com/rIiHsvL5Vx",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1527197604198526977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527196447560839200,
+					"id_str": "1527196447560839169",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FTGxE98aMAEygtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTGxE98aMAEygtj.jpg",
+					"url": "https://t.co/rIiHsvL5Vx",
+					"display_url": "pic.twitter.com/rIiHsvL5Vx",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1527197604198526977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527196447585992700,
+					"id_str": "1527196447585992704",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FTGxE-CaAAANlIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTGxE-CaAAANlIB.jpg",
+					"url": "https://t.co/rIiHsvL5Vx",
+					"display_url": "pic.twitter.com/rIiHsvL5Vx",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1527197604198526977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527196447573446700,
+					"id_str": "1527196447573446657",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FTGxE9_akAEXi9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTGxE9_akAEXi9g.jpg",
+					"url": "https://t.co/rIiHsvL5Vx",
+					"display_url": "pic.twitter.com/rIiHsvL5Vx",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1527197604198526977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333941242,
+			"id_str": "333941242",
+			"name": "KT&G 상상마당 라이브홀",
+			"screen_name": "ssLiveHall",
+			"location": "37.5509155,126.9210433",
+			"description": "상상마당 지하 2층에 서식중입니다. 라이브홀에서 진행되는 모든 공연에 관한 문의 환영! 홍대 주변 날씨, 맛집 등 온갖 문의 환영!",
+			"url": "https://t.co/laYCcDbsAQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/laYCcDbsAQ",
+							"expanded_url": "http://www.sangsangmadang.com/livehall",
+							"display_url": "sangsangmadang.com/livehall",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5789,
+			"friends_count": 2515,
+			"listed_count": 79,
+			"created_at": "Tue Jul 12 09:59:42 +0000 2011",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E1C6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333941242/1440833687",
+			"profile_link_color": "ABB8AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "192638",
+			"profile_text_color": "5F7D7E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#우만합부산 Flashback ✨\n\n5월 내내 N.Flying과 떠나는 #상상마당뮤직트립 \n두번째 부산공연 살짝 엿보기 👀\n\n지난주 목요일 저녁 여러분은 어떤 마음이셨는지,\n그리고 오늘 하늘이 질 때 어떤 마음일지\n제가 참 궁금해요..💙\n\n특별한 이번주도 #우만합춘천 에서 행복하게 만나요! https://t.co/rIiHsvL5Vx"
+	},
+	{
+		"created_at": "Thu May 19 07:29:27 +0000 2022",
+		"id": 1527175905470484500,
+		"id_str": "1527189678142652416",
+		"full_text": "청취한 후 감상평을 “지니 앱 오디오 재생화면 하단의 댓글 탭”에 남겨주시면 추첨을 통해 사인이 담긴 앨범을 증정해주는 이벤트까지 준비되어 있다고 하니 놓치지 말고 참여해보세요. 김수영의 &lt; #라이브하우스 &gt;는 지니 뮤직 어플리케이션을 통해 감상하실 수 있습니다💚\n\n#msbsound #지니 #genie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브하우스",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "msbsound",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "genie",
+					"indices": [
+						169,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527175722858856400,
+		"in_reply_to_status_id_str": "1527175722858856448",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8774,
+			"friends_count": 22,
+			"listed_count": 102,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "청취한 후 감상평을 “지니 앱 오디오 재생화면 하단의 댓글 탭”에 남겨주시면 추첨을 통해 사인이 담긴 앨범을 증정해주는 이벤트까지 준비되어 있다고 하니 놓치지 말고 참여해보세요. 김수영의 &lt; #라이브하우스 &gt;는 지니 뮤직 어플리케이션을 통해 감상하실 수 있습니다💚\n\n#msbsound #지니 #genie"
+	},
+	{
 		"created_at": "Thu May 19 06:29:25 +0000 2022",
 		"id": 1527167171536765000,
 		"id_str": "1527174567227187201",
-		"full_text": "[Album Pre-order]\n⠀\n최유리 EP '욕심의 반대편으로'의 예약판매가 시작되었습니다.\n​⠀\n자세한 사항은 알라딘, 핫트랙스, Yes24, 인터파크, 신나라 등 온라인 판매처를 통해 확인해주세요.\n⠀\n▪ Album Release\n2022.05.26 6PM\n⠀\n#최유리 #욕심의_반대편으로 #CHOIYUREE #예약판매 https://t.co/gf3MVu8dEW",
+		"full_text": "[Album Pre-order]\n⠀\n최유리 EP '욕심의 반대편으로'의 예약판매가 시작되었습니다.\n⠀\n자세한 사항은 알라딘, 핫트랙스, Yes24, 인터파크, 신나라 등 온라인 판매처를 통해 확인해주세요.\n⠀\n▪ Album Release\n2022.05.26 6PM\n⠀\n#최유리 #욕심의_반대편으로 #CHOIYUREE #예약판매 https://t.co/gf3MVu8dEW",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -202,7 +632,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[Album Pre-order]\n⠀\n최유리 EP '욕심의 반대편으로'의 예약판매가 시작되었습니다.\n​⠀\n자세한 사항은 알라딘, 핫트랙스, Yes24, 인터파크, 신나라 등 온라인 판매처를 통해 확인해주세요.\n⠀\n▪ Album Release\n2022.05.26 6PM\n⠀\n#최유리 #욕심의_반대편으로 #CHOIYUREE #예약판매 https://t.co/gf3MVu8dEW"
+		"text": "[Album Pre-order]\n⠀\n최유리 EP '욕심의 반대편으로'의 예약판매가 시작되었습니다.\n⠀\n자세한 사항은 알라딘, 핫트랙스, Yes24, 인터파크, 신나라 등 온라인 판매처를 통해 확인해주세요.\n⠀\n▪ Album Release\n2022.05.26 6PM\n⠀\n#최유리 #욕심의_반대편으로 #CHOIYUREE #예약판매 https://t.co/gf3MVu8dEW"
 	},
 	{
 		"created_at": "Thu May 19 06:11:17 +0000 2022",
