@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 11:29:31 +0000 2022",
+		"id": 1527244542105202700,
+		"id_str": "1527250093228924928",
+		"full_text": "보라미유와 함께한 두 번째 대학교 축제!🎊\n뜨거운 열기로 반겨 준 한국외대 너무 감사합니다💜 https://t.co/BSwL2GOYuh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527244507510542300,
+					"id_str": "1527244507510542338",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHcybNVEAIf1du.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHcybNVEAIf1du.jpg",
+					"url": "https://t.co/BSwL2GOYuh",
+					"display_url": "pic.twitter.com/BSwL2GOYuh",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1527244542105202693/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527244507510542300,
+					"id_str": "1527244507510542338",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHcybNVEAIf1du.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHcybNVEAIf1du.jpg",
+					"url": "https://t.co/BSwL2GOYuh",
+					"display_url": "pic.twitter.com/BSwL2GOYuh",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1527244542105202693/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2izsAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2izsAi",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7702,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1651584080",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보라미유와 함께한 두 번째 대학교 축제!🎊\n뜨거운 열기로 반겨 준 한국외대 너무 감사합니다💜 https://t.co/BSwL2GOYuh"
+	},
+	{
 		"created_at": "Thu May 19 11:08:07 +0000 2022",
 		"id": 1527244707624935400,
 		"id_str": "1527244707624935424",
