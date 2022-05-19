@@ -1,6 +1,1976 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 10:11:22 +0000 2022",
+		"id": 1527224834354073600,
+		"id_str": "1527230423826599936",
+		"full_text": "현실과 이상 사이에서 고군분투하는 숱한 고민들이 낱낱이 밝혀지는 노지은 작가님의 산문집 &lt; 이중생활 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\n— https://t.co/YlCed61Jfg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527224829098659800,
+					"id_str": "1527224829098659840",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHK4_aVEAA1NQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHK4_aVEAA1NQv.jpg",
+					"url": "https://t.co/YlCed61Jfg",
+					"display_url": "pic.twitter.com/YlCed61Jfg",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1527224834354073600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527224829098659800,
+					"id_str": "1527224829098659840",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHK4_aVEAA1NQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHK4_aVEAA1NQv.jpg",
+					"url": "https://t.co/YlCed61Jfg",
+					"display_url": "pic.twitter.com/YlCed61Jfg",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1527224834354073600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 402,
+			"friends_count": 214,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현실과 이상 사이에서 고군분투하는 숱한 고민들이 낱낱이 밝혀지는 노지은 작가님의 산문집 &lt; 이중생활 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\n— https://t.co/YlCed61Jfg"
+	},
+	{
+		"created_at": "Thu May 19 10:11:17 +0000 2022",
+		"id": 1527214984400318500,
+		"id_str": "1527230402225741825",
+		"full_text": "🔥[1DAY] BUILT ON FIRE🔥\n&lt;BUILT ON FIRE&gt; 아트북의 저자이며 &lt;HANDS IN FACTORY&gt;를 이끌고 있는 업템포 작가가 시원한 특강으로 여러분을 찾아 옵니다! 혜자스러운 수강료까지 \n✔️ 일정 : 2022.05.28(토) 14:00-16:00\n✔️ 수강료 : 10,000원 \n✔️ 정원 : 40명 \n* 자세한 내용은 상상마당 홈페이지에서 https://t.co/zDaYbGkWVG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527214960988012500,
+					"id_str": "1527214960988012545",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHB6l1aQAE6Yqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHB6l1aQAE6Yqt.jpg",
+					"url": "https://t.co/zDaYbGkWVG",
+					"display_url": "pic.twitter.com/zDaYbGkWVG",
+					"expanded_url": "https://twitter.com/SSmadang/status/1527214984400318465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527214960988012500,
+					"id_str": "1527214960988012545",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHB6l1aQAE6Yqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHB6l1aQAE6Yqt.jpg",
+					"url": "https://t.co/zDaYbGkWVG",
+					"display_url": "pic.twitter.com/zDaYbGkWVG",
+					"expanded_url": "https://twitter.com/SSmadang/status/1527214984400318465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17643,
+			"friends_count": 1850,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520963778933788672/v8TgJxmF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520963778933788672/v8TgJxmF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1651460998",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥[1DAY] BUILT ON FIRE🔥\n&lt;BUILT ON FIRE&gt; 아트북의 저자이며 &lt;HANDS IN FACTORY&gt;를 이끌고 있는 업템포 작가가 시원한 특강으로 여러분을 찾아 옵니다! 혜자스러운 수강료까지 \n✔️ 일정 : 2022.05.28(토) 14:00-16:00\n✔️ 수강료 : 10,000원 \n✔️ 정원 : 40명 \n* 자세한 내용은 상상마당 홈페이지에서 https://t.co/zDaYbGkWVG"
+	},
+	{
+		"created_at": "Thu May 19 09:58:25 +0000 2022",
+		"id": 1527212569416433700,
+		"id_str": "1527227165779050499",
+		"full_text": "[DANCE PRACTICE] 歌もダンスも才能、実力もMAXであるNMIXXの振り付け映像をフルバージョンで確認するNSWER募集❤️\n\n*DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM会員およびTVING利用券のお持ちの方に公開されます\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 @NMIXX_official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						161,
+						178
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "엔믹스",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NMIXX_official",
+					"name": "NMIXX",
+					"id": 1392302226782052400,
+					"id_str": "1392302226782052355",
+					"indices": [
+						191,
+						206
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1527212566635655200,
+		"in_reply_to_status_id_str": "1527212566635655168",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442851,
+			"friends_count": 76,
+			"listed_count": 1103,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[DANCE PRACTICE] 歌もダンスも才能、実力もMAXであるNMIXXの振り付け映像をフルバージョンで確認するNSWER募集❤️\n\n*DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM会員およびTVING利用券のお持ちの方に公開されます\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 @NMIXX_official"
+	},
+	{
+		"created_at": "Thu May 19 09:58:17 +0000 2022",
+		"id": 1527212566635655200,
+		"id_str": "1527227131696140288",
+		"full_text": "[DANCE PRACTICE] 춤노래재능실력 MAX인 NMIXX 안무영상 풀버전으로 확인할 NSWER 모집❤️\n\n* DANCE PRACTICE FULL영상은 YouTube KCON official 채널 PREMIUM 회원 및 TVING 이용권 보유자에게 공개됩니다.\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 @NMIXX_official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "엔믹스",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NMIXX_official",
+					"name": "NMIXX",
+					"id": 1392302226782052400,
+					"id_str": "1392302226782052355",
+					"indices": [
+						186,
+						201
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1527212472414875600,
+		"in_reply_to_status_id_str": "1527212472414875649",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442851,
+			"friends_count": 76,
+			"listed_count": 1103,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE] 춤노래재능실력 MAX인 NMIXX 안무영상 풀버전으로 확인할 NSWER 모집❤️\n\n* DANCE PRACTICE FULL영상은 YouTube KCON official 채널 PREMIUM 회원 및 TVING 이용권 보유자에게 공개됩니다.\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 @NMIXX_official"
+	},
+	{
+		"created_at": "Thu May 19 09:58:15 +0000 2022",
+		"id": 1527212472414875600,
+		"id_str": "1527227122783223808",
+		"full_text": "[DANCE PRACTICE] Looking for NSWER willing to check NMIXX quick❤️\n\n* DANCE PRACTICE FULL video is available to YouTube KCON official channel's PREMIUM members and TVING subscribers.\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 @NMIXX_official https://t.co/hG404COcL7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						189,
+						206
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "엔믹스",
+					"indices": [
+						214,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NMIXX_official",
+					"name": "NMIXX",
+					"id": 1392302226782052400,
+					"id_str": "1392302226782052355",
+					"indices": [
+						219,
+						234
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527158454065934300,
+					"id_str": "1527158454065934336",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527158454065934336/pu/img/hWWMS5MXlUBXHKUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527158454065934336/pu/img/hWWMS5MXlUBXHKUN.jpg",
+					"url": "https://t.co/hG404COcL7",
+					"display_url": "pic.twitter.com/hG404COcL7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1527212472414875649/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527158454065934300,
+					"id_str": "1527158454065934336",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527158454065934336/pu/img/hWWMS5MXlUBXHKUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527158454065934336/pu/img/hWWMS5MXlUBXHKUN.jpg",
+					"url": "https://t.co/hG404COcL7",
+					"display_url": "pic.twitter.com/hG404COcL7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1527212472414875649/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21955,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527158454065934336/pu/vid/1280x720/-vBo3wPXqQ7tgJKL.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527158454065934336/pu/vid/480x270/xpr5RSarRlqoZ1Zw.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527158454065934336/pu/vid/640x360/Rs8ZqF9zHwrQ_7JG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1527158454065934336/pu/pl/VM5ieIM8hJ5lOJec.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442851,
+			"friends_count": 76,
+			"listed_count": 1103,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 668,
+		"favorite_count": 2768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[DANCE PRACTICE] Looking for NSWER willing to check NMIXX quick❤️\n\n* DANCE PRACTICE FULL video is available to YouTube KCON official channel's PREMIUM members and TVING subscribers.\n\n#KCON #KCON2022Premiere #NMIXX #엔믹스 @NMIXX_official https://t.co/hG404COcL7"
+	},
+	{
+		"created_at": "Thu May 19 09:50:58 +0000 2022",
+		"id": 1527225288953778200,
+		"id_str": "1527225288953778176",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[Live] 시그리드, 브링 미 더 호라이존 - Bad Life | 한글자막 라이브\nhttps://t.co/kevBtNVk8V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kevBtNVk8V",
+					"expanded_url": "https://youtu.be/RkA3pNLx7x8",
+					"display_url": "youtu.be/RkA3pNLx7x8",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[Live] 시그리드, 브링 미 더 호라이존 - Bad Life | 한글자막 라이브\nhttps://t.co/kevBtNVk8V"
+	},
+	{
+		"created_at": "Thu May 19 09:29:54 +0000 2022",
+		"id": 1527217714821202000,
+		"id_str": "1527219987865296896",
+		"full_text": "'물고기' Music Video Teaser\n⠀\n🐠Yerin Baek Single [물고기]\n2022.05.24 (Tue) 6PM KST\n\nhttps://t.co/wQYEvJJInn\n⠀\n#백예린 #yerinbaek #물고기 #pisces https://t.co/b6jlDv1m42",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "pisces",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wQYEvJJInn",
+					"expanded_url": "http://youtu.be/1PSR5mSMVtE",
+					"display_url": "youtu.be/1PSR5mSMVtE",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527217659011793000,
+					"id_str": "1527217659011792896",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527217659011792896/pu/img/KfZCEeMIJO5t0st-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527217659011792896/pu/img/KfZCEeMIJO5t0st-.jpg",
+					"url": "https://t.co/b6jlDv1m42",
+					"display_url": "pic.twitter.com/b6jlDv1m42",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1527217714821201920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527217659011793000,
+					"id_str": "1527217659011792896",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527217659011792896/pu/img/KfZCEeMIJO5t0st-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527217659011792896/pu/img/KfZCEeMIJO5t0st-.jpg",
+					"url": "https://t.co/b6jlDv1m42",
+					"display_url": "pic.twitter.com/b6jlDv1m42",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1527217714821201920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23314,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527217659011792896/pu/vid/1280x720/VF-piI41Wf2DvsLc.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527217659011792896/pu/vid/480x270/3av3v_O1gz8oyCRr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1527217659011792896/pu/pl/LLGYad0f4OAm1NiL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527217659011792896/pu/vid/640x360/dBQhcrs6UzfoIPUk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYrjXq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYrjXq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41615,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524289217148297216/YygSWaMw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524289217148297216/YygSWaMw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 814,
+		"favorite_count": 841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'물고기' Music Video Teaser\n⠀\n🐠Yerin Baek Single [물고기]\n2022.05.24 (Tue) 6PM KST\n\nhttps://t.co/wQYEvJJInn\n⠀\n#백예린 #yerinbaek #물고기 #pisces https://t.co/b6jlDv1m42"
+	},
+	{
+		"created_at": "Thu May 19 09:29:50 +0000 2022",
+		"id": 1527216962845257700,
+		"id_str": "1527219970597343239",
+		"full_text": "#1nonly ✨𝐒𝐭𝐚𝐥𝐤𝐢𝐧𝐠 (𝐅𝐞𝐚𝐭. 𝐒𝐡𝐚𝐝𝐲 𝐌𝐨𝐨𝐧)✨\n정신 차려보면 무한반복 중🙄(그만큼 좋다는 뜻)\n🎧음원듣기 https://t.co/bqloGDI8rH https://t.co/CXyVZm4a5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1nonly",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bqloGDI8rH",
+					"expanded_url": "https://wmk.lnk.to/UllkubLS",
+					"display_url": "wmk.lnk.to/UllkubLS",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527216651762118700,
+					"id_str": "1527216651762118656",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527216651762118656/pu/img/LObDT__ZF8lgb2ZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527216651762118656/pu/img/LObDT__ZF8lgb2ZP.jpg",
+					"url": "https://t.co/CXyVZm4a5j",
+					"display_url": "pic.twitter.com/CXyVZm4a5j",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1527216962845257729/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527216651762118700,
+					"id_str": "1527216651762118656",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527216651762118656/pu/img/LObDT__ZF8lgb2ZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527216651762118656/pu/img/LObDT__ZF8lgb2ZP.jpg",
+					"url": "https://t.co/CXyVZm4a5j",
+					"display_url": "pic.twitter.com/CXyVZm4a5j",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1527216962845257729/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 38872,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1527216651762118656/pu/pl/1KLOwGKwQTWDoZAj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527216651762118656/pu/vid/320x320/mrrDcSdL6ncVdqV4.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527216651762118656/pu/vid/720x720/P_gvi1CVDZPz-ChS.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1527216651762118656/pu/vid/540x540/qF3PYZs_U1tu7PZO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75342,
+			"friends_count": 494,
+			"listed_count": 206,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#1nonly ✨𝐒𝐭𝐚𝐥𝐤𝐢𝐧𝐠 (𝐅𝐞𝐚𝐭. 𝐒𝐡𝐚𝐝𝐲 𝐌𝐨𝐨𝐧)✨\n정신 차려보면 무한반복 중🙄(그만큼 좋다는 뜻)\n🎧음원듣기 https://t.co/bqloGDI8rH https://t.co/CXyVZm4a5j"
+	},
+	{
+		"created_at": "Thu May 19 09:29:42 +0000 2022",
+		"id": 1527216220197757000,
+		"id_str": "1527219940696244225",
+		"full_text": "[VIDEO] [#권혁수] #SNL코리아\n\nF학점 받아서 킹받은 복학생 권혁수ㅣSNL 코리아 하이라이트\n\n👉 https://t.co/PcaJ0nV5w2 \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay #shorts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"text": "SNL",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						147,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PcaJ0nV5w2",
+					"expanded_url": "https://youtube.com/shorts/veGiiTz7u68?feature=share",
+					"display_url": "youtube.com/shorts/veGiiTz…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #SNL코리아\n\nF학점 받아서 킹받은 복학생 권혁수ㅣSNL 코리아 하이라이트\n\n👉 https://t.co/PcaJ0nV5w2 \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay #shorts"
+	},
+	{
+		"created_at": "Thu May 19 09:29:35 +0000 2022",
+		"id": 1527213869504266200,
+		"id_str": "1527219910857871361",
+		"full_text": "🔍촬영장소 #에피소드수유838\n\n#YouHeeYul\n#생활음악 #에피소드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에피소드수유838",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "YouHeeYul",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "생활음악",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "에피소드",
+					"indices": [
+						35,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527213865062514700,
+		"in_reply_to_status_id_str": "1527213865062514689",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🔍촬영장소 #에피소드수유838\n\n#YouHeeYul\n#생활음악 #에피소드"
+	},
+	{
+		"created_at": "Thu May 19 09:29:27 +0000 2022",
+		"id": 1527213865062514700,
+		"id_str": "1527219876837920768",
+		"full_text": "[#Teaser] #유희열\n\n&lt;생활음악 EP7. Coming Soon&gt;\n\n유희열의 생활음악, 그 일곱 번째 에피소드가 내일 오전에 공개됩니다. 당신의 기분 좋은 하루를 연주하는 곡이 되길 바라며.\n\n[생활음악]과 관련된 모든 컨텐츠는 에피소드 SNS 계정과 홈페이지, 유튜브를 통해 선공개됩니다. https://t.co/mAd85Z7d4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527213857608827000,
+					"id_str": "1527213857608826880",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHA6XbUAAAin4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHA6XbUAAAin4D.jpg",
+					"url": "https://t.co/mAd85Z7d4x",
+					"display_url": "pic.twitter.com/mAd85Z7d4x",
+					"expanded_url": "https://twitter.com/antennamusic/status/1527213865062514689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527213857608827000,
+					"id_str": "1527213857608826880",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHA6XbUAAAin4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHA6XbUAAAin4D.jpg",
+					"url": "https://t.co/mAd85Z7d4x",
+					"display_url": "pic.twitter.com/mAd85Z7d4x",
+					"expanded_url": "https://twitter.com/antennamusic/status/1527213865062514689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 정승환 DS ‘안녕이란 말’ 2022. 05. 13. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40356,
+			"friends_count": 10,
+			"listed_count": 385,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1652090436",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #유희열\n\n&lt;생활음악 EP7. Coming Soon&gt;\n\n유희열의 생활음악, 그 일곱 번째 에피소드가 내일 오전에 공개됩니다. 당신의 기분 좋은 하루를 연주하는 곡이 되길 바라며.\n\n[생활음악]과 관련된 모든 컨텐츠는 에피소드 SNS 계정과 홈페이지, 유튜브를 통해 선공개됩니다. https://t.co/mAd85Z7d4x"
+	},
+	{
 		"created_at": "Thu May 19 09:08:33 +0000 2022",
 		"id": 1527214617595740200,
 		"id_str": "1527214617595740160",
