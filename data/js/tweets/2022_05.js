@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 06:29:25 +0000 2022",
+		"id": 1527167171536765000,
+		"id_str": "1527174567227187201",
+		"full_text": "[Album Pre-order]\n⠀\n최유리 EP '욕심의 반대편으로'의 예약판매가 시작되었습니다.\n​⠀\n자세한 사항은 알라딘, 핫트랙스, Yes24, 인터파크, 신나라 등 온라인 판매처를 통해 확인해주세요.\n⠀\n▪ Album Release\n2022.05.26 6PM\n⠀\n#최유리 #욕심의_반대편으로 #CHOIYUREE #예약판매 https://t.co/gf3MVu8dEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "욕심의_반대편으로",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "CHOIYUREE",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "예약판매",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527114295686836200,
+					"id_str": "1527114295686836226",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FTFmXGXVsAIYam4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTFmXGXVsAIYam4.jpg",
+					"url": "https://t.co/gf3MVu8dEW",
+					"display_url": "pic.twitter.com/gf3MVu8dEW",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1527167171536764929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 246,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 435,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527114295686836200,
+					"id_str": "1527114295686836226",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FTFmXGXVsAIYam4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTFmXGXVsAIYam4.jpg",
+					"url": "https://t.co/gf3MVu8dEW",
+					"display_url": "pic.twitter.com/gf3MVu8dEW",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1527167171536764929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 246,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 435,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2izsAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2izsAi",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7704,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1651584080",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Album Pre-order]\n⠀\n최유리 EP '욕심의 반대편으로'의 예약판매가 시작되었습니다.\n​⠀\n자세한 사항은 알라딘, 핫트랙스, Yes24, 인터파크, 신나라 등 온라인 판매처를 통해 확인해주세요.\n⠀\n▪ Album Release\n2022.05.26 6PM\n⠀\n#최유리 #욕심의_반대편으로 #CHOIYUREE #예약판매 https://t.co/gf3MVu8dEW"
+	},
+	{
 		"created_at": "Thu May 19 06:11:17 +0000 2022",
 		"id": 1527155494540157000,
 		"id_str": "1527170003866378241",
