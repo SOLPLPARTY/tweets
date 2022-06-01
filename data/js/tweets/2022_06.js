@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 01 06:29:25 +0000 2022",
+		"id": 1531881694135201800,
+		"id_str": "1531885610155315200",
+		"full_text": "[📰] \n갓세븐, 새 앨범 'GOT7' 초동 판매량 37만 돌파!! 자체 최고 기록 경신!!\n\n🔗https://t.co/S7BKicQNg4\n\n#GOT7 #갓세븐 @GOT7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOT7",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "갓세븐",
+					"indices": [
+						85,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GOT7",
+					"name": "GOT7 (갓세븐)",
+					"id": 1518887466740387800,
+					"id_str": "1518887466740387840",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S7BKicQNg4",
+					"expanded_url": "https://rollingstone.co.kr/modules/catalogue/cg_view.html?cc=1010&no=1815",
+					"display_url": "rollingstone.co.kr/modules/catalo…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84571,
+			"friends_count": 494,
+			"listed_count": 209,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1273,
+		"favorite_count": 1686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📰] \n갓세븐, 새 앨범 'GOT7' 초동 판매량 37만 돌파!! 자체 최고 기록 경신!!\n\n🔗https://t.co/S7BKicQNg4\n\n#GOT7 #갓세븐 @GOT7"
+	},
+	{
 		"created_at": "Wed Jun 01 05:29:25 +0000 2022",
 		"id": 1531867092009427000,
 		"id_str": "1531870511344586758",
