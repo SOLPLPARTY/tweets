@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 01 15:29:24 +0000 2022",
+		"id": 1532017462472220700,
+		"id_str": "1532021503612567553",
+		"full_text": "[#민서] 네이버 NOW. 'studio 문나잇' 완료✔️\n\n민서의 라이브로 오늘도 감성 Full 충전 완료💛\n오늘 밤 민나잇 하시고, 남은 한 주도 화이팅🥰\n\n▶️ 내 맘대로 (#Self_Trip) PLAY \n🔗 https://t.co/7cRznJAPwv\n\n#MINSEO #MNSO #네이버NOW #studio문나잇 https://t.co/rcRgfBJUr0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Self_Trip",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "studio문나잇",
+					"indices": [
+						167,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7cRznJAPwv",
+					"expanded_url": "http://kko.to/fo2rPPCng",
+					"display_url": "kko.to/fo2rPPCng",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532017265461592000,
+					"id_str": "1532017265461592064",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FULRlgGagAAIpr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULRlgGagAAIpr4.jpg",
+					"url": "https://t.co/rcRgfBJUr0",
+					"display_url": "pic.twitter.com/rcRgfBJUr0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1532017462472220672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532017265461592000,
+					"id_str": "1532017265461592064",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FULRlgGagAAIpr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULRlgGagAAIpr4.jpg",
+					"url": "https://t.co/rcRgfBJUr0",
+					"display_url": "pic.twitter.com/rcRgfBJUr0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1532017462472220672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532017295119515600,
+					"id_str": "1532017295119515649",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FULRnOlagAEDGJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULRnOlagAEDGJO.jpg",
+					"url": "https://t.co/rcRgfBJUr0",
+					"display_url": "pic.twitter.com/rcRgfBJUr0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1532017462472220672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532017295148880000,
+					"id_str": "1532017295148879873",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FULRnOsakAEdW17.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULRnOsakAEdW17.jpg",
+					"url": "https://t.co/rcRgfBJUr0",
+					"display_url": "pic.twitter.com/rcRgfBJUr0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1532017462472220672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35090,
+			"friends_count": 15,
+			"listed_count": 291,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 네이버 NOW. 'studio 문나잇' 완료✔️\n\n민서의 라이브로 오늘도 감성 Full 충전 완료💛\n오늘 밤 민나잇 하시고, 남은 한 주도 화이팅🥰\n\n▶️ 내 맘대로 (#Self_Trip) PLAY \n🔗 https://t.co/7cRznJAPwv\n\n#MINSEO #MNSO #네이버NOW #studio문나잇 https://t.co/rcRgfBJUr0"
+	},
+	{
 		"created_at": "Wed Jun 01 12:29:25 +0000 2022",
 		"id": 1531961258282324000,
 		"id_str": "1531976208229056512",
