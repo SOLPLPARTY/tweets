@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 01 12:29:25 +0000 2022",
+		"id": 1531961258282324000,
+		"id_str": "1531976208229056512",
+		"full_text": "[#민서] 네이버 NOW. 'studio문나잇' 출연✔️\n\n6월의 첫 시작은⁉️ \n잠시 후 9시 'studio 문나잇'에서 민서와 함께🌕\n🔗 https://t.co/a2DXbRhuip\n\n#MINSEO #MNSO #네이버NOW #studio문나잇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "studio문나잇",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a2DXbRhuip",
+					"expanded_url": "https://now.naver.com/player/923",
+					"display_url": "now.naver.com/player/923",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35089,
+			"friends_count": 15,
+			"listed_count": 291,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 네이버 NOW. 'studio문나잇' 출연✔️\n\n6월의 첫 시작은⁉️ \n잠시 후 9시 'studio 문나잇'에서 민서와 함께🌕\n🔗 https://t.co/a2DXbRhuip\n\n#MINSEO #MNSO #네이버NOW #studio문나잇"
+	},
+	{
 		"created_at": "Wed Jun 01 11:29:35 +0000 2022",
 		"id": 1531954489506537500,
 		"id_str": "1531961149704527873",
