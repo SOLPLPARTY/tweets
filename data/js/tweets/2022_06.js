@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 12:11:16 +0000 2022",
+		"id": 1532325168617783300,
+		"id_str": "1532334030410203138",
+		"full_text": "🔥내일 8시 프리즘홀 🔥 https://t.co/PQNtvVV85p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PQNtvVV85p",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1532244328021491713",
+					"display_url": "twitter.com/stqpkiraradj/s…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2040,
+			"friends_count": 1117,
+			"listed_count": 29,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532244328021491700,
+		"quoted_status_id_str": "1532244328021491713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PQNtvVV85p",
+			"expanded": "https://twitter.com/stqpkiraradj/status/1532244328021491713",
+			"display": "twitter.com/stqpkiraradj/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 02 06:14:50 +0000 2022",
+			"id": 1532244328021491700,
+			"id_str": "1532244328021491713",
+			"full_text": "내일 8시 프리즘홀 그단공 2-1 에서 만나욤\n키라라의 월간기획공연 ‘그냥하는 단독공연’이 오랜 준비 끝에 시즌2로 부활합니다 그 역사적인 첫 공연에서 여러분을 만나고 싶어욧\n내일 공연 현매도 있습니닷 많이많이 만나잉 https://t.co/HOLDb7ctLR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1532244315723792400,
+						"id_str": "1532244315723792384",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/FUOgFkPUAAAW9W1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUOgFkPUAAAW9W1.jpg",
+						"url": "https://t.co/HOLDb7ctLR",
+						"display_url": "pic.twitter.com/HOLDb7ctLR",
+						"expanded_url": "https://twitter.com/stqpkiraradj/status/1532244328021491713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 840,
+								"h": 1196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 1196,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1532244315723792400,
+						"id_str": "1532244315723792384",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/FUOgFkPUAAAW9W1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUOgFkPUAAAW9W1.jpg",
+						"url": "https://t.co/HOLDb7ctLR",
+						"display_url": "pic.twitter.com/HOLDb7ctLR",
+						"expanded_url": "https://twitter.com/stqpkiraradj/status/1532244328021491713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 840,
+								"h": 1196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 1196,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1417147997977137200,
+				"id_str": "1417147997977137158",
+				"name": "키라라 KIRARA",
+				"screen_name": "stqpkiraradj",
+				"location": "",
+				"description": "이쁘고 강합니다 / official / contact & booking (국내) : kami_inter@naver.com / contact & booking (Europe) : jerome@earthbeat.nl / 외주, 레슨 문의 : stqproject@gmail.com",
+				"url": "https://t.co/aaWBFJRvZh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aaWBFJRvZh",
+								"expanded_url": "http://kirararararararara.com",
+								"display_url": "kirararararararara.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 797,
+				"friends_count": 0,
+				"listed_count": 1,
+				"created_at": "Mon Jul 19 15:43:22 +0000 2021",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 409,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1507881076286316546/Ys_zVArM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507881076286316546/Ys_zVArM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1417147997977137158/1648341849",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥내일 8시 프리즘홀 🔥 https://t.co/PQNtvVV85p"
+	},
+	{
 		"created_at": "Thu Jun 02 10:32:59 +0000 2022",
 		"id": 1532309294988656600,
 		"id_str": "1532309294988656641",
