@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 03:11:24 +0000 2022",
+		"id": 1532195549084061700,
+		"id_str": "1532198165683781641",
+		"full_text": "&lt;사거리 그오빠(지현우) 단독 콘서트 '오빠가 왔다' : 롤링 27주년 기념 공연&gt; \n· 일시 : 2022년 07월 09일 (토) 오후 5시, 07월 10일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 사거리 그오빠\n· 예매 : 멜론티켓 2022년 06월 08일 (수) 오후 8시 예매오픈\n　\n#롤링홀 #사거리그오빠 #공연 #멜론티켓 https://t.co/fkLHFDFF7C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "사거리그오빠",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						190,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527553680551350300,
+					"id_str": "1527553680551350273",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FTL1-qiakAE_hQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTL1-qiakAE_hQt.jpg",
+					"url": "https://t.co/fkLHFDFF7C",
+					"display_url": "pic.twitter.com/fkLHFDFF7C",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1532195549084061696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527553680551350300,
+					"id_str": "1527553680551350273",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FTL1-qiakAE_hQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTL1-qiakAE_hQt.jpg",
+					"url": "https://t.co/fkLHFDFF7C",
+					"display_url": "pic.twitter.com/fkLHFDFF7C",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1532195549084061696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 491,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;사거리 그오빠(지현우) 단독 콘서트 '오빠가 왔다' : 롤링 27주년 기념 공연&gt; \n· 일시 : 2022년 07월 09일 (토) 오후 5시, 07월 10일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 사거리 그오빠\n· 예매 : 멜론티켓 2022년 06월 08일 (수) 오후 8시 예매오픈\n　\n#롤링홀 #사거리그오빠 #공연 #멜론티켓 https://t.co/fkLHFDFF7C"
+	},
+	{
+		"created_at": "Thu Jun 02 03:11:17 +0000 2022",
+		"id": 1532195304652644400,
+		"id_str": "1532198135874854915",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;네미시스 단독 콘서트 '우리, 다시' : 롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 07월 03일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 네미시스\n· 예매 : 🥝멜론티켓 https://t.co/DaCT6NrOmL\n　\n#롤링홀 #네미시스 #우리다시 #멜론티켓 https://t.co/MyEtp1ABB3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "네미시스",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "우리다시",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DaCT6NrOmL",
+					"expanded_url": "https://bit.ly/3lOZVzK",
+					"display_url": "bit.ly/3lOZVzK",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530108137738764300,
+					"id_str": "1530108137738764289",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1530108137738764289/pu/img/d35nRX0UZdhLBCCk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1530108137738764289/pu/img/d35nRX0UZdhLBCCk.jpg",
+					"url": "https://t.co/MyEtp1ABB3",
+					"display_url": "pic.twitter.com/MyEtp1ABB3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1532195304652644353/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530108137738764300,
+					"id_str": "1530108137738764289",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1530108137738764289/pu/img/d35nRX0UZdhLBCCk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1530108137738764289/pu/img/d35nRX0UZdhLBCCk.jpg",
+					"url": "https://t.co/MyEtp1ABB3",
+					"display_url": "pic.twitter.com/MyEtp1ABB3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1532195304652644353/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1530108137738764289/pu/vid/540x540/QDprWER8OXJhIkQT.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1530108137738764289/pu/vid/720x720/TCVanI3pVvhPH5pD.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1530108137738764289/pu/vid/320x320/8optwya-7cK4u9xc.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1530108137738764289/pu/pl/NQNLa6KiyiZNeBLd.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 491,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;네미시스 단독 콘서트 '우리, 다시' : 롤링 27주년 기념 공연&gt;\n· 일시 : 2022년 07월 03일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 네미시스\n· 예매 : 🥝멜론티켓 https://t.co/DaCT6NrOmL\n　\n#롤링홀 #네미시스 #우리다시 #멜론티켓 https://t.co/MyEtp1ABB3"
+	},
+	{
 		"created_at": "Thu Jun 02 02:10:18 +0000 2022",
 		"id": 1532182788505424000,
 		"id_str": "1532182788505423872",
