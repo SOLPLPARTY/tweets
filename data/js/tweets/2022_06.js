@@ -1,10 +1,962 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 07:11:23 +0000 2022",
+		"id": 1532609841931309000,
+		"id_str": "1532620947269816320",
+		"full_text": "Retro Night @FF \n\n2022/06/05 (일) 9pm - All Night \nDJs : Shane, Jamie, Eddie \n\n70s,80s,90s  Pop/Rock/Disco/Rnb/Dance\n\nNo Cover !!! https://t.co/mYSrSGhsR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ff",
+					"name": "@ff",
+					"id": 45513,
+					"id_str": "45513",
+					"indices": [
+						12,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532609829646176300,
+					"id_str": "1532609829646176257",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTshRtVEAEDdtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTshRtVEAEDdtj.jpg",
+					"url": "https://t.co/mYSrSGhsR0",
+					"display_url": "pic.twitter.com/mYSrSGhsR0",
+					"expanded_url": "https://twitter.com/clubFF_/status/1532609841931309057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1645,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532609829646176300,
+					"id_str": "1532609829646176257",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTshRtVEAEDdtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTshRtVEAEDdtj.jpg",
+					"url": "https://t.co/mYSrSGhsR0",
+					"display_url": "pic.twitter.com/mYSrSGhsR0",
+					"expanded_url": "https://twitter.com/clubFF_/status/1532609841931309057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1645,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6119,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retro Night @FF \n\n2022/06/05 (일) 9pm - All Night \nDJs : Shane, Jamie, Eddie \n\n70s,80s,90s  Pop/Rock/Disco/Rnb/Dance\n\nNo Cover !!! https://t.co/mYSrSGhsR0"
+	},
+	{
+		"created_at": "Fri Jun 03 07:11:17 +0000 2022",
+		"id": 1532608800007458800,
+		"id_str": "1532620921604915200",
+		"full_text": "이번주 금토일 (6/3-5) 클럽FF 공연 일정 입니다.\n6/3 금 7:30pm - 데드챈트,투지,이디어츠,캐치더영\n6/4 토 7pm - 아월,87댄스,안녕바다,잭킹콩\n6/5 일 5:30pm - 노쉘터,폴루터,ADXHD,겟투더포잊트,턴포아워 https://t.co/rV7pJyk2fi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532608782999556000,
+					"id_str": "1532608782999556096",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTrkWpVEAAPJYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTrkWpVEAAPJYA.jpg",
+					"url": "https://t.co/rV7pJyk2fi",
+					"display_url": "pic.twitter.com/rV7pJyk2fi",
+					"expanded_url": "https://twitter.com/clubFF_/status/1532608800007458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532608782999556000,
+					"id_str": "1532608782999556096",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTrkWpVEAAPJYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTrkWpVEAAPJYA.jpg",
+					"url": "https://t.co/rV7pJyk2fi",
+					"display_url": "pic.twitter.com/rV7pJyk2fi",
+					"expanded_url": "https://twitter.com/clubFF_/status/1532608800007458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532608782986907600,
+					"id_str": "1532608782986907648",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTrkWmUEAApYwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTrkWmUEAApYwb.jpg",
+					"url": "https://t.co/rV7pJyk2fi",
+					"display_url": "pic.twitter.com/rV7pJyk2fi",
+					"expanded_url": "https://twitter.com/clubFF_/status/1532608800007458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532608782986924000,
+					"id_str": "1532608782986924032",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTrkWmUUAAwWn4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTrkWmUUAAwWn4.jpg",
+					"url": "https://t.co/rV7pJyk2fi",
+					"display_url": "pic.twitter.com/rV7pJyk2fi",
+					"expanded_url": "https://twitter.com/clubFF_/status/1532608800007458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1624,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6119,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 금토일 (6/3-5) 클럽FF 공연 일정 입니다.\n6/3 금 7:30pm - 데드챈트,투지,이디어츠,캐치더영\n6/4 토 7pm - 아월,87댄스,안녕바다,잭킹콩\n6/5 일 5:30pm - 노쉘터,폴루터,ADXHD,겟투더포잊트,턴포아워 https://t.co/rV7pJyk2fi"
+	},
+	{
+		"created_at": "Fri Jun 03 06:29:55 +0000 2022",
+		"id": 1532605236208353300,
+		"id_str": "1532610512449679361",
+		"full_text": "spotify &gt; https://t.co/f8Nvp1kKKI\n⠀\n#블루바이닐 #bluevinyl #bvplaylist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루바이닐",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "bluevinyl",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "bvplaylist",
+					"indices": [
+						57,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f8Nvp1kKKI",
+					"expanded_url": "https://open.spotify.com/playlist/0V17aeUyVGVNnh5m1WIRnc?si=eafaf2ed7ddc4965",
+					"display_url": "open.spotify.com/playlist/0V17a…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532603605152592000,
+		"in_reply_to_status_id_str": "1532603605152591872",
+		"in_reply_to_user_id": 1363697702358319000,
+		"in_reply_to_user_id_str": "1363697702358319104",
+		"in_reply_to_screen_name": "_bvofficial",
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4514,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "spotify &gt; https://t.co/f8Nvp1kKKI\n⠀\n#블루바이닐 #bluevinyl #bvplaylist"
+	},
+	{
+		"created_at": "Fri Jun 03 06:29:46 +0000 2022",
+		"id": 1532603810018828300,
+		"id_str": "1532610474184949760",
+		"full_text": "[Event]\n\n2022 보라미유 단독 콘서트 'Feeling' 이벤트\n\n보라미유 단독 콘서트 'Feeling'을 함께 즐기고 싶은 친구를 태그 후 공연에 대한 기대평을 아래 인스타그램 게시글 댓글로 남겨주세요💜\n\n🍋 https://t.co/aWgkoe2KxE\n\n※ 본 이벤트는 인스타그램에서만 진행됩니다.\n\n#BORAMIYU #Feeling https://t.co/lk9ywpDSAC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "Feeling",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aWgkoe2KxE",
+					"expanded_url": "http://bit.ly/3z9EOQq",
+					"display_url": "bit.ly/3z9EOQq",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532603804784283600,
+					"id_str": "1532603804784283648",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTnClWUUAAYx_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTnClWUUAAYx_h.jpg",
+					"url": "https://t.co/lk9ywpDSAC",
+					"display_url": "pic.twitter.com/lk9ywpDSAC",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1532603810018828289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532603804784283600,
+					"id_str": "1532603804784283648",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTnClWUUAAYx_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTnClWUUAAYx_h.jpg",
+					"url": "https://t.co/lk9ywpDSAC",
+					"display_url": "pic.twitter.com/lk9ywpDSAC",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1532603810018828289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7697,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1653040493",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Event]\n\n2022 보라미유 단독 콘서트 'Feeling' 이벤트\n\n보라미유 단독 콘서트 'Feeling'을 함께 즐기고 싶은 친구를 태그 후 공연에 대한 기대평을 아래 인스타그램 게시글 댓글로 남겨주세요💜\n\n🍋 https://t.co/aWgkoe2KxE\n\n※ 본 이벤트는 인스타그램에서만 진행됩니다.\n\n#BORAMIYU #Feeling https://t.co/lk9ywpDSAC"
+	},
+	{
+		"created_at": "Fri Jun 03 06:29:37 +0000 2022",
+		"id": 1532603605152592000,
+		"id_str": "1532610436016885760",
+		"full_text": "Blue Vinyl starts a playlist that will be select with the artist. Check out the first topic, 'You who know me better than me, a song I want to play to my precious people.'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532603603638435800,
+		"in_reply_to_status_id_str": "1532603603638435840",
+		"in_reply_to_user_id": 1363697702358319000,
+		"in_reply_to_user_id_str": "1363697702358319104",
+		"in_reply_to_screen_name": "_bvofficial",
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4514,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Blue Vinyl starts a playlist that will be select with the artist. Check out the first topic, 'You who know me better than me, a song I want to play to my precious people.'"
+	},
+	{
+		"created_at": "Fri Jun 03 06:29:34 +0000 2022",
+		"id": 1532603603638435800,
+		"id_str": "1532610422968295424",
+		"full_text": "BV Playlist #1.\n\"너만 알 수 있는 내 마음을, 복잡한 나만의 언어를 알아봐 줘\"\n첫 번째 주제는 '나보다 나를 더 잘 아는 너, 소중한 내 사람들에게 들려주고 싶은 노래'들로 선곡해보았습니다. 같이 나눠요🫧🐬",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532603597783199700,
+		"in_reply_to_status_id_str": "1532603597783199754",
+		"in_reply_to_user_id": 1363697702358319000,
+		"in_reply_to_user_id_str": "1363697702358319104",
+		"in_reply_to_screen_name": "_bvofficial",
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4514,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "BV Playlist #1.\n\"너만 알 수 있는 내 마음을, 복잡한 나만의 언어를 알아봐 줘\"\n첫 번째 주제는 '나보다 나를 더 잘 아는 너, 소중한 내 사람들에게 들려주고 싶은 노래'들로 선곡해보았습니다. 같이 나눠요🫧🐬"
+	},
+	{
 		"created_at": "Fri Jun 03 06:11:17 +0000 2022",
 		"id": 1532595435071688700,
 		"id_str": "1532605824463474688",
-		"full_text": "[콘서트 기획자 워크숍]의 모든 것!\n🥁무엇이든 물어보세요.\n-\n커리큘럼은 어떻게 진행되는지!\n졸업 공연에는 어떤 지원이 있는지!\n특강 선생님들은 누가 오시는지!\n-\n📌과정 설명회 일정\n🗓22. 06. 04 (토) 15:00\n🧑‍💻 zoom에서 만나요\n-\n자세한 내용은 상상마당 아카데미 홈페이지에서! https://t.co/9kHEqUTixT",
+		"full_text": "[콘서트 기획자 워크숍]의 모든 것!\n🥁무엇이든 물어보세요.\n-\n커리큘럼은 어떻게 진행되는지!\n졸업 공연에는 어떤 지원이 있는지!\n특강 선생님들은 누가 오시는지!\n-\n📌과정 설명회 일정\n🗓22. 06. 04 (토) 15:00\n🧑💻 zoom에서 만나요\n-\n자세한 내용은 상상마당 아카데미 홈페이지에서! https://t.co/9kHEqUTixT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -245,7 +1197,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[콘서트 기획자 워크숍]의 모든 것!\n🥁무엇이든 물어보세요.\n-\n커리큘럼은 어떻게 진행되는지!\n졸업 공연에는 어떤 지원이 있는지!\n특강 선생님들은 누가 오시는지!\n-\n📌과정 설명회 일정\n🗓22. 06. 04 (토) 15:00\n🧑‍💻 zoom에서 만나요\n-\n자세한 내용은 상상마당 아카데미 홈페이지에서! https://t.co/9kHEqUTixT"
+		"text": "[콘서트 기획자 워크숍]의 모든 것!\n🥁무엇이든 물어보세요.\n-\n커리큘럼은 어떻게 진행되는지!\n졸업 공연에는 어떤 지원이 있는지!\n특강 선생님들은 누가 오시는지!\n-\n📌과정 설명회 일정\n🗓22. 06. 04 (토) 15:00\n🧑💻 zoom에서 만나요\n-\n자세한 내용은 상상마당 아카데미 홈페이지에서! https://t.co/9kHEqUTixT"
 	},
 	{
 		"created_at": "Fri Jun 03 05:29:44 +0000 2022",
