@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 13:29:29 +0000 2022",
+		"id": 1533067784195674000,
+		"id_str": "1533078490395852800",
+		"full_text": "여러분들 덕에 기쁜 마음으로 마무리할 수 있었던 첫 공연이었습니다🥰\n모두 조심히 귀가하시고 내일도 함께 좋은 시간 보내요💛\n\n#최유리 #CHOIYUREE \n#욕심의_반대편으로 #단독콘서트 https://t.co/zstIdoFVff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "CHOIYUREE",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "욕심의_반대편으로",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533067748837798000,
+					"id_str": "1533067748837797888",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FUaM_roVsAAO0BM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUaM_roVsAAO0BM.jpg",
+					"url": "https://t.co/zstIdoFVff",
+					"display_url": "pic.twitter.com/zstIdoFVff",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1533067784195674112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533067748837798000,
+					"id_str": "1533067748837797888",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FUaM_roVsAAO0BM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUaM_roVsAAO0BM.jpg",
+					"url": "https://t.co/zstIdoFVff",
+					"display_url": "pic.twitter.com/zstIdoFVff",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1533067784195674112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7701,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1653040493",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분들 덕에 기쁜 마음으로 마무리할 수 있었던 첫 공연이었습니다🥰\n모두 조심히 귀가하시고 내일도 함께 좋은 시간 보내요💛\n\n#최유리 #CHOIYUREE \n#욕심의_반대편으로 #단독콘서트 https://t.co/zstIdoFVff"
+	},
+	{
 		"created_at": "Sat Jun 04 13:11:23 +0000 2022",
 		"id": 1533071238846763000,
 		"id_str": "1533073935159500801",
