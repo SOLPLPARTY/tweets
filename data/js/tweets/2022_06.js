@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 09:11:16 +0000 2022",
+		"id": 1533010674015735800,
+		"id_str": "1533013507402305537",
+		"full_text": "[PAIR PLAY : vol.1 허드x바닐레어]\nJUMP와 DANCE가 허용되는 22년 6월6일!\n컨트리부터 락까지 장르를 넘나드는 밴드 허드\n시원한 사운드로 솔직한 이야기를 풀어내는 밴드 바닐레어\n✅ 공연일시\n2022.06.06(월) 6PM\n\n📍 공연장소\nKT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n스탠딩 44,000원 https://t.co/700W8Rhlsj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532595879294943200,
+					"id_str": "1532595879294943232",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTf1QmaQAA38Tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTf1QmaQAA38Tw.jpg",
+					"url": "https://t.co/700W8Rhlsj",
+					"display_url": "pic.twitter.com/700W8Rhlsj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1533010674015735808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532595879294943200,
+					"id_str": "1532595879294943232",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTf1QmaQAA38Tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTf1QmaQAA38Tw.jpg",
+					"url": "https://t.co/700W8Rhlsj",
+					"display_url": "pic.twitter.com/700W8Rhlsj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1533010674015735808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532595879299121200,
+					"id_str": "1532595879299121152",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTf1QnaAAAsnDt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTf1QnaAAAsnDt.jpg",
+					"url": "https://t.co/700W8Rhlsj",
+					"display_url": "pic.twitter.com/700W8Rhlsj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1533010674015735808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532595879311720400,
+					"id_str": "1532595879311720448",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTf1QqaQAADsCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTf1QqaQAADsCU.jpg",
+					"url": "https://t.co/700W8Rhlsj",
+					"display_url": "pic.twitter.com/700W8Rhlsj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1533010674015735808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532595879294959600,
+					"id_str": "1532595879294959621",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTf1QmagAUZ0bc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTf1QmagAUZ0bc.jpg",
+					"url": "https://t.co/700W8Rhlsj",
+					"display_url": "pic.twitter.com/700W8Rhlsj",
+					"expanded_url": "https://twitter.com/SSmadang/status/1533010674015735808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17606,
+			"friends_count": 1849,
+			"listed_count": 288,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520963778933788672/v8TgJxmF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520963778933788672/v8TgJxmF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1651460998",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PAIR PLAY : vol.1 허드x바닐레어]\nJUMP와 DANCE가 허용되는 22년 6월6일!\n컨트리부터 락까지 장르를 넘나드는 밴드 허드\n시원한 사운드로 솔직한 이야기를 풀어내는 밴드 바닐레어\n✅ 공연일시\n2022.06.06(월) 6PM\n\n📍 공연장소\nKT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n스탠딩 44,000원 https://t.co/700W8Rhlsj"
+	},
+	{
+		"created_at": "Sat Jun 04 09:08:35 +0000 2022",
+		"id": 1533012830013649000,
+		"id_str": "1533012830013648901",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n#톰그래넌 속이 다 뻥 뚫리는 #RemindMe 라이브 #Shorts\nhttps://t.co/dRlmGFpJHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				},
+				{
+					"text": "톰그래넌",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "RemindMe",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dRlmGFpJHw",
+					"expanded_url": "https://youtu.be/Ekg_7Zgsnr8",
+					"display_url": "youtu.be/Ekg_7Zgsnr8",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n#톰그래넌 속이 다 뻥 뚫리는 #RemindMe 라이브 #Shorts\nhttps://t.co/dRlmGFpJHw"
+	},
+	{
+		"created_at": "Sat Jun 04 08:58:19 +0000 2022",
+		"id": 1533004310157889500,
+		"id_str": "1533010248985976835",
+		"full_text": "어그로는 다 끌어두고 미정이라니 추앙받지 못할 소리라고요. 그치만 미정은 어디까지나 미정이니까요.\n그래서 여러분들께 제안 드리고 싶은 내용이 있어요.\n그게 무엇이냐면 잠시 후에 공개됩니다. 아마도 내일 모레쯤.\n#서울인기 #2022서울인기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울인기",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "2022서울인기",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1533004091160670200,
+		"in_reply_to_status_id_str": "1533004091160670208",
+		"in_reply_to_user_id": 736106747572543500,
+		"in_reply_to_user_id_str": "736106747572543488",
+		"in_reply_to_screen_name": "seoulsoldout",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "난지한강공원 중앙잔디광장",
+			"description": "형님 저녀석이랑 언제 밥 한번 먹을까요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2422,
+			"friends_count": 1098,
+			"listed_count": 9,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어그로는 다 끌어두고 미정이라니 추앙받지 못할 소리라고요. 그치만 미정은 어디까지나 미정이니까요.\n그래서 여러분들께 제안 드리고 싶은 내용이 있어요.\n그게 무엇이냐면 잠시 후에 공개됩니다. 아마도 내일 모레쯤.\n#서울인기 #2022서울인기"
+	},
+	{
 		"created_at": "Fri Jun 03 16:08:52 +0000 2022",
 		"id": 1532756209656246300,
 		"id_str": "1532756209656246272",
