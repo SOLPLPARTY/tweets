@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 13:11:23 +0000 2022",
+		"id": 1533071238846763000,
+		"id_str": "1533073935159500801",
+		"full_text": "@sugarui 단오절에 함께해주셔서 감사합니다😌 책도 재미있게 읽어주시길🙏🏻",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sugarui",
+					"name": "슈가루이",
+					"id": 194112148,
+					"id_str": "194112148",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532982237297541000,
+		"in_reply_to_status_id_str": "1532982237297541120",
+		"in_reply_to_user_id": 194112148,
+		"in_reply_to_user_id_str": "194112148",
+		"in_reply_to_screen_name": "sugarui",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8400,
+			"friends_count": 558,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@sugarui 단오절에 함께해주셔서 감사합니다😌 책도 재미있게 읽어주시길🙏🏻"
+	},
+	{
+		"created_at": "Sat Jun 04 13:11:16 +0000 2022",
+		"id": 1533071068549722000,
+		"id_str": "1533073905291755521",
+		"full_text": "📢 6/5 공연 현장 안내\n⠀\n&lt;YB와 함께하는 해양보호 캠페인 \"Song of the Angry Whale WITH YB\" : 롤링홀 27주년 기념 공연&gt;\n· 티켓수령 : 5시30분 (현장구매 가능)\n· 입장 : 6시 20분 \n· 공연시작 : 7시\n· 출연 : YB (게스트 : 프루던스)\n⠀\n#롤링홀 #YB #해양보호캠페인\n#롤링27주년 #멜론티켓 https://t.co/GG2pqF8XBw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "YB",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "해양보호캠페인",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						189,
+						196
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						197,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1531877328732958700,
+					"id_str": "1531877328732958720",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FUJSUHKaMAAYBPB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUJSUHKaMAAYBPB.jpg",
+					"url": "https://t.co/GG2pqF8XBw",
+					"display_url": "pic.twitter.com/GG2pqF8XBw",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1533071068549722113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531877328732958700,
+					"id_str": "1531877328732958720",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FUJSUHKaMAAYBPB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUJSUHKaMAAYBPB.jpg",
+					"url": "https://t.co/GG2pqF8XBw",
+					"display_url": "pic.twitter.com/GG2pqF8XBw",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1533071068549722113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531877343840862200,
+					"id_str": "1531877343840862208",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FUJSU_cagAAA2Hp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUJSU_cagAAA2Hp.jpg",
+					"url": "https://t.co/GG2pqF8XBw",
+					"display_url": "pic.twitter.com/GG2pqF8XBw",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1533071068549722113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 493,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 6/5 공연 현장 안내\n⠀\n&lt;YB와 함께하는 해양보호 캠페인 \"Song of the Angry Whale WITH YB\" : 롤링홀 27주년 기념 공연&gt;\n· 티켓수령 : 5시30분 (현장구매 가능)\n· 입장 : 6시 20분 \n· 공연시작 : 7시\n· 출연 : YB (게스트 : 프루던스)\n⠀\n#롤링홀 #YB #해양보호캠페인\n#롤링27주년 #멜론티켓 https://t.co/GG2pqF8XBw"
+	},
+	{
+		"created_at": "Sat Jun 04 12:29:30 +0000 2022",
+		"id": 1533050415042171000,
+		"id_str": "1533063391111270400",
+		"full_text": "권진아가 함께하는 WSG워너비 ‘어마어마해’가 발매되었습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/0e5M3rNIs3 \nGenie https://t.co/HOSjrPOVTG \nBugs https://t.co/oTqfIj3Xdw \nFLO https://t.co/1rbDXyRIV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0e5M3rNIs3",
+					"expanded_url": "http://bit.ly/395Htji",
+					"display_url": "bit.ly/395Htji",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/HOSjrPOVTG",
+					"expanded_url": "http://bit.ly/3zhTxIU",
+					"display_url": "bit.ly/3zhTxIU",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/oTqfIj3Xdw",
+					"expanded_url": "http://bit.ly/398V6yn",
+					"display_url": "bit.ly/398V6yn",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/1rbDXyRIV3",
+					"expanded_url": "http://bit.ly/3Mc7ISM",
+					"display_url": "bit.ly/3Mc7ISM",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1533050412156469200,
+		"in_reply_to_status_id_str": "1533050412156469249",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40377,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아가 함께하는 WSG워너비 ‘어마어마해’가 발매되었습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/0e5M3rNIs3 \nGenie https://t.co/HOSjrPOVTG \nBugs https://t.co/oTqfIj3Xdw \nFLO https://t.co/1rbDXyRIV3"
+	},
+	{
 		"created_at": "Sat Jun 04 11:29:24 +0000 2022",
 		"id": 1533043613395189800,
 		"id_str": "1533048269730893825",
