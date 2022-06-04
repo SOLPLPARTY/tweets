@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 11:29:24 +0000 2022",
+		"id": 1533043613395189800,
+		"id_str": "1533048269730893825",
+		"full_text": "드디어 성사된 만남..! 침착맨, 주호민, 그리고 원곡자 백예린.. 그들이 함께 하는 달달한 라이브와 알찬 인터뷰까지, 지금 바로 '침펄인물사전'에서 확인하세요!\n\nhttps://t.co/ntRQqnauNB\n\n#백예린 #yerinbaek #침펄인물사전 https://t.co/nUyAzbIOwQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "침펄인물사전",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ntRQqnauNB",
+					"expanded_url": "https://youtu.be/aB8Xgn6JKXw",
+					"display_url": "youtu.be/aB8Xgn6JKXw",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1533043606264885200,
+					"id_str": "1533043606264885249",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FUZ3CZiaMAE1X-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUZ3CZiaMAE1X-A.jpg",
+					"url": "https://t.co/nUyAzbIOwQ",
+					"display_url": "pic.twitter.com/nUyAzbIOwQ",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1533043613395189763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533043606264885200,
+					"id_str": "1533043606264885249",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FUZ3CZiaMAE1X-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUZ3CZiaMAE1X-A.jpg",
+					"url": "https://t.co/nUyAzbIOwQ",
+					"display_url": "pic.twitter.com/nUyAzbIOwQ",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1533043613395189763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43321,
+			"friends_count": 2,
+			"listed_count": 218,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 성사된 만남..! 침착맨, 주호민, 그리고 원곡자 백예린.. 그들이 함께 하는 달달한 라이브와 알찬 인터뷰까지, 지금 바로 '침펄인물사전'에서 확인하세요!\n\nhttps://t.co/ntRQqnauNB\n\n#백예린 #yerinbaek #침펄인물사전 https://t.co/nUyAzbIOwQ"
+	},
+	{
 		"created_at": "Sat Jun 04 09:29:24 +0000 2022",
 		"id": 1533011937541337000,
 		"id_str": "1533018071278960640",
