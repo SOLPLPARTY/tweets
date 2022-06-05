@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 05 11:29:39 +0000 2022",
+		"id": 1533407795239735300,
+		"id_str": "1533410718183301120",
+		"full_text": "함께해서 너무나도 행복했던 이틀이었습니다😊\n공연을 즐기러 와주신 모든 분들 감사드려요! 앞으로도 유리의 단짝으로 함께해요💛🐯💛\n\n#최유리 #CHOIYUREE \n#욕심의_반대편으로 #단독콘서트 https://t.co/1TMWieLGYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "CHOIYUREE",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "욕심의_반대편으로",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533407761764978700,
+					"id_str": "1533407761764978688",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FUfCPCfUEAAaBQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUfCPCfUEAAaBQ7.jpg",
+					"url": "https://t.co/1TMWieLGYZ",
+					"display_url": "pic.twitter.com/1TMWieLGYZ",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1533407795239735296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533407761764978700,
+					"id_str": "1533407761764978688",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FUfCPCfUEAAaBQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUfCPCfUEAAaBQ7.jpg",
+					"url": "https://t.co/1TMWieLGYZ",
+					"display_url": "pic.twitter.com/1TMWieLGYZ",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1533407795239735296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7702,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1653040493",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "함께해서 너무나도 행복했던 이틀이었습니다😊\n공연을 즐기러 와주신 모든 분들 감사드려요! 앞으로도 유리의 단짝으로 함께해요💛🐯💛\n\n#최유리 #CHOIYUREE \n#욕심의_반대편으로 #단독콘서트 https://t.co/1TMWieLGYZ"
+	},
+	{
+		"created_at": "Sun Jun 05 11:29:31 +0000 2022",
+		"id": 1533396670687637500,
+		"id_str": "1533410684142329856",
+		"full_text": "15. 그녀가 말했다\n16. 위로\n17. 나의 모양\n18. 끝\n19. 운이 좋았지\n+ 마음이 그래\n+ 흘러가자\n\n#KwonJinAh\n#TheDreamer #단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "TheDreamer",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						86,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533396666971476000,
+		"in_reply_to_status_id_str": "1533396666971475968",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40377,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "15. 그녀가 말했다\n16. 위로\n17. 나의 모양\n18. 끝\n19. 운이 좋았지\n+ 마음이 그래\n+ 흘러가자\n\n#KwonJinAh\n#TheDreamer #단독공연"
+	},
+	{
+		"created_at": "Sun Jun 05 11:29:29 +0000 2022",
+		"id": 1533396666971476000,
+		"id_str": "1533410675292241920",
+		"full_text": "🎼 #권진아 SET LIST\n\n01. Fly away\n02. Pink!\n03. KNOCK\n04. 쪽쪽\n05. Lonely Night\n06. Silly Silly Love\n07. 꽃말\n08. 뭔가 잘못됐어\n09. 여행가\n10. 우리의 방식\n11. 그녀가 되길\n12. You already have\n13. 스물\n14. 오늘 뭐 했는지 말해봐 https://t.co/1uAV6Y12iA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						2,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533395887162269700,
+					"id_str": "1533395887162269697",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUe3b2JaIAEQwcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUe3b2JaIAEQwcx.jpg",
+					"url": "https://t.co/1uAV6Y12iA",
+					"display_url": "pic.twitter.com/1uAV6Y12iA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1533396666971475968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533395887162269700,
+					"id_str": "1533395887162269697",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUe3b2JaIAEQwcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUe3b2JaIAEQwcx.jpg",
+					"url": "https://t.co/1uAV6Y12iA",
+					"display_url": "pic.twitter.com/1uAV6Y12iA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1533396666971475968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1533395887166484500,
+					"id_str": "1533395887166484480",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUe3b2KacAAGG5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUe3b2KacAAGG5P.jpg",
+					"url": "https://t.co/1uAV6Y12iA",
+					"display_url": "pic.twitter.com/1uAV6Y12iA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1533396666971475968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1533395887170683000,
+					"id_str": "1533395887170682882",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUe3b2LagAIFJjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUe3b2LagAIFJjy.jpg",
+					"url": "https://t.co/1uAV6Y12iA",
+					"display_url": "pic.twitter.com/1uAV6Y12iA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1533396666971475968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1533395887195828200,
+					"id_str": "1533395887195828224",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUe3b2RaMAAVyKz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUe3b2RaMAAVyKz.jpg",
+					"url": "https://t.co/1uAV6Y12iA",
+					"display_url": "pic.twitter.com/1uAV6Y12iA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1533396666971475968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533396658071154700,
+		"in_reply_to_status_id_str": "1533396658071154688",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40377,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎼 #권진아 SET LIST\n\n01. Fly away\n02. Pink!\n03. KNOCK\n04. 쪽쪽\n05. Lonely Night\n06. Silly Silly Love\n07. 꽃말\n08. 뭔가 잘못됐어\n09. 여행가\n10. 우리의 방식\n11. 그녀가 되길\n12. You already have\n13. 스물\n14. 오늘 뭐 했는지 말해봐 https://t.co/1uAV6Y12iA"
+	},
+	{
 		"created_at": "Sun Jun 05 09:29:33 +0000 2022",
 		"id": 1533375313651986400,
 		"id_str": "1533380493089046528",
