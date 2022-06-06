@@ -1,6 +1,867 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 11:29:29 +0000 2022",
+		"id": 1533760009456300000,
+		"id_str": "1533773064084889607",
+		"full_text": "방금 사진을 게시했습니다 @Seoul, Korea https://t.co/roIAJVwh9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoul",
+					"name": "Seoul",
+					"id": 1564242998,
+					"id_str": "1564242998",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/roIAJVwh9x",
+					"expanded_url": "https://www.instagram.com/p/CedfKJplaqU/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/CedfKJplaqU/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1742,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1651635957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.51502,
+				127.01648
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				127.01648,
+				37.51502
+			]
+		},
+		"place": {
+			"id": "0190ea0c6981204e",
+			"url": "https://api.twitter.com/1.1/geo/id/0190ea0c6981204e.json",
+			"place_type": "city",
+			"name": "강남구",
+			"full_name": "대한민국 강남구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.005165636288,
+							37.4385022172146
+						],
+						[
+							127.106354128286,
+							37.4385022172146
+						],
+						[
+							127.106354128286,
+							37.5386131091282
+						],
+						[
+							127.005165636288,
+							37.5386131091282
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @Seoul, Korea https://t.co/roIAJVwh9x"
+	},
+	{
+		"created_at": "Mon Jun 06 11:29:25 +0000 2022",
+		"id": 1533758097650598000,
+		"id_str": "1533773046640787457",
+		"full_text": "🎼 하루 끝 감성 라이브, &lt;LISTEN STAGE&gt; 6월의 라인업을 공개합니다🌇\n\n6월 8일(WED) LUCY (SHIN YECHAN)\n\n*미스틱스토리 공식 유튜브 채널에서 저녁 7시 30분부터 스트리밍으로 보실 수 있습니다.\n\n#LISTENSTAGE #리슨스테이지 #LUCY #루시 #신예찬 #YECHAN https://t.co/Z4nkEb2jDO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISTENSTAGE",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "리슨스테이지",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "신예찬",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "YECHAN",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533677533006540800,
+					"id_str": "1533677533006540800",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FUi3lyraMAAdkrA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUi3lyraMAAdkrA.jpg",
+					"url": "https://t.co/Z4nkEb2jDO",
+					"display_url": "pic.twitter.com/Z4nkEb2jDO",
+					"expanded_url": "https://twitter.com/themysticstory/status/1533758097650597889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533677533006540800,
+					"id_str": "1533677533006540800",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FUi3lyraMAAdkrA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUi3lyraMAAdkrA.jpg",
+					"url": "https://t.co/Z4nkEb2jDO",
+					"display_url": "pic.twitter.com/Z4nkEb2jDO",
+					"expanded_url": "https://twitter.com/themysticstory/status/1533758097650597889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35127,
+			"friends_count": 15,
+			"listed_count": 290,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎼 하루 끝 감성 라이브, &lt;LISTEN STAGE&gt; 6월의 라인업을 공개합니다🌇\n\n6월 8일(WED) LUCY (SHIN YECHAN)\n\n*미스틱스토리 공식 유튜브 채널에서 저녁 7시 30분부터 스트리밍으로 보실 수 있습니다.\n\n#LISTENSTAGE #리슨스테이지 #LUCY #루시 #신예찬 #YECHAN https://t.co/Z4nkEb2jDO"
+	},
+	{
+		"created_at": "Mon Jun 06 10:58:46 +0000 2022",
+		"id": 1533760654167146500,
+		"id_str": "1533765336067190786",
+		"full_text": "이 조건에 부합하는 장소를 제보하고 싶다면,\n프로필 링크의 타입폼에서 6월 20일 자정까지 신청해주세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533760652317446100,
+		"in_reply_to_status_id_str": "1533760652317446144",
+		"in_reply_to_user_id": 736106747572543500,
+		"in_reply_to_user_id_str": "736106747572543488",
+		"in_reply_to_screen_name": "seoulsoldout",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "형님 저녀석이랑 언제 밥 한번 먹을까요",
+			"url": "https://t.co/QCgjzvsaHJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QCgjzvsaHJ",
+							"expanded_url": "https://url.kr/2kj4ve",
+							"display_url": "url.kr/2kj4ve",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2636,
+			"friends_count": 1100,
+			"listed_count": 9,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 1931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 조건에 부합하는 장소를 제보하고 싶다면,\n프로필 링크의 타입폼에서 6월 20일 자정까지 신청해주세요!"
+	},
+	{
+		"created_at": "Mon Jun 06 10:58:37 +0000 2022",
+		"id": 1533760652317446100,
+		"id_str": "1533765297857085442",
+		"full_text": "서울인기가 열리기 위한 장소 조건은\n1.서울/경기권 지역\n2.2,000명 이상 수용 가능한 장소\n3.소음으로 인한 민원문제가 없는 곳\n4.(조정 가능한 부분이나) 새벽까지 이용할 수 있는 장소가 우선\n입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533760650409033700,
+		"in_reply_to_status_id_str": "1533760650409033728",
+		"in_reply_to_user_id": 736106747572543500,
+		"in_reply_to_user_id_str": "736106747572543488",
+		"in_reply_to_screen_name": "seoulsoldout",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "형님 저녀석이랑 언제 밥 한번 먹을까요",
+			"url": "https://t.co/QCgjzvsaHJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QCgjzvsaHJ",
+							"expanded_url": "https://url.kr/2kj4ve",
+							"display_url": "url.kr/2kj4ve",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2636,
+			"friends_count": 1100,
+			"listed_count": 9,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 1931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서울인기가 열리기 위한 장소 조건은\n1.서울/경기권 지역\n2.2,000명 이상 수용 가능한 장소\n3.소음으로 인한 민원문제가 없는 곳\n4.(조정 가능한 부분이나) 새벽까지 이용할 수 있는 장소가 우선\n입니다."
+	},
+	{
+		"created_at": "Mon Jun 06 10:58:31 +0000 2022",
+		"id": 1533760650409033700,
+		"id_str": "1533765272225648646",
+		"full_text": "서울인기 페스티벌을 우정의 베이스캠프로 삼을 수 있는 이 기회에 도전해주세요. 서울인기는 다시 우정으로부터 출발합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533760648529997800,
+		"in_reply_to_status_id_str": "1533760648529997824",
+		"in_reply_to_user_id": 736106747572543500,
+		"in_reply_to_user_id_str": "736106747572543488",
+		"in_reply_to_screen_name": "seoulsoldout",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "형님 저녀석이랑 언제 밥 한번 먹을까요",
+			"url": "https://t.co/QCgjzvsaHJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QCgjzvsaHJ",
+							"expanded_url": "https://url.kr/2kj4ve",
+							"display_url": "url.kr/2kj4ve",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2636,
+			"friends_count": 1100,
+			"listed_count": 9,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 1931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서울인기 페스티벌을 우정의 베이스캠프로 삼을 수 있는 이 기회에 도전해주세요. 서울인기는 다시 우정으로부터 출발합니다."
+	},
+	{
+		"created_at": "Mon Jun 06 10:58:27 +0000 2022",
+		"id": 1533760648529997800,
+		"id_str": "1533765254991183872",
+		"full_text": "제보를 통해 채택되신 분에게는 채택자 포함 친구 다섯명과 함께, 평생 서울인기에 올 수 있는 무료 입장권을 드립니다.친구는 쉬우나 우정은 얼마나 어려운지요. 한번 만남으로도 친구는 되지만, 오랜 세월이 아니면 우정은 불가능하기 때문입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533760646567067600,
+		"in_reply_to_status_id_str": "1533760646567067649",
+		"in_reply_to_user_id": 736106747572543500,
+		"in_reply_to_user_id_str": "736106747572543488",
+		"in_reply_to_screen_name": "seoulsoldout",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "형님 저녀석이랑 언제 밥 한번 먹을까요",
+			"url": "https://t.co/QCgjzvsaHJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QCgjzvsaHJ",
+							"expanded_url": "https://url.kr/2kj4ve",
+							"display_url": "url.kr/2kj4ve",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2636,
+			"friends_count": 1100,
+			"listed_count": 9,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 1931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제보를 통해 채택되신 분에게는 채택자 포함 친구 다섯명과 함께, 평생 서울인기에 올 수 있는 무료 입장권을 드립니다.친구는 쉬우나 우정은 얼마나 어려운지요. 한번 만남으로도 친구는 되지만, 오랜 세월이 아니면 우정은 불가능하기 때문입니다."
+	},
+	{
+		"created_at": "Mon Jun 06 10:58:21 +0000 2022",
+		"id": 1533760646567067600,
+		"id_str": "1533765229254950913",
+		"full_text": "우리는 우리에게 어울리는 장소가 어때야 하는지 잘 알고 있습니다. 다만 더 큰 가능성과 정확한 선택을 위해 여러분에게 우정을 구합니다. 평소에 눈여겨보신 적당한 장소가 있다면, 또 그 장소의 소유주를 알고 계시다면, 저희에게 제보 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1533760644583141400,
+		"in_reply_to_status_id_str": "1533760644583141376",
+		"in_reply_to_user_id": 736106747572543500,
+		"in_reply_to_user_id_str": "736106747572543488",
+		"in_reply_to_screen_name": "seoulsoldout",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "형님 저녀석이랑 언제 밥 한번 먹을까요",
+			"url": "https://t.co/QCgjzvsaHJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QCgjzvsaHJ",
+							"expanded_url": "https://url.kr/2kj4ve",
+							"display_url": "url.kr/2kj4ve",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2636,
+			"friends_count": 1100,
+			"listed_count": 9,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 1931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리는 우리에게 어울리는 장소가 어때야 하는지 잘 알고 있습니다. 다만 더 큰 가능성과 정확한 선택을 위해 여러분에게 우정을 구합니다. 평소에 눈여겨보신 적당한 장소가 있다면, 또 그 장소의 소유주를 알고 계시다면, 저희에게 제보 부탁드립니다."
+	},
+	{
 		"created_at": "Mon Jun 06 09:29:56 +0000 2022",
 		"id": 1533739475519410200,
 		"id_str": "1533742978870697985",
