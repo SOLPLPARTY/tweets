@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 04:29:25 +0000 2022",
+		"id": 1534017991003672600,
+		"id_str": "1534029737718317057",
+		"full_text": "SM Co-CEOs LEE SUNG SU and TAK YOUNG JUN are selected as 'Indie Power Players' by US Billboard and reaffirmed SM's global status!\n\nhttps://t.co/TMnQZ0oS6s\n\n#이성수 #LEESUNGSU #탁영준 #TAKYOUNGJUN #SM #SMentertainment #IndiePowerPlayers https://t.co/efD6taPMXx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이성수",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "LEESUNGSU",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "탁영준",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "TAKYOUNGJUN",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "SM",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "SMentertainment",
+					"indices": [
+						194,
+						210
+					]
+				},
+				{
+					"text": "IndiePowerPlayers",
+					"indices": [
+						211,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TMnQZ0oS6s",
+					"expanded_url": "https://bit.ly/3H36fNF",
+					"display_url": "bit.ly/3H36fNF",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534017977821298700,
+					"id_str": "1534017977821298688",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FUntOScaAAATEYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUntOScaAAATEYK.jpg",
+					"url": "https://t.co/efD6taPMXx",
+					"display_url": "pic.twitter.com/efD6taPMXx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534017991003672578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534017977821298700,
+					"id_str": "1534017977821298688",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FUntOScaAAATEYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUntOScaAAATEYK.jpg",
+					"url": "https://t.co/efD6taPMXx",
+					"display_url": "pic.twitter.com/efD6taPMXx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534017991003672578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10872851,
+			"friends_count": 56,
+			"listed_count": 12270,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 2050,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM Co-CEOs LEE SUNG SU and TAK YOUNG JUN are selected as 'Indie Power Players' by US Billboard and reaffirmed SM's global status!\n\nhttps://t.co/TMnQZ0oS6s\n\n#이성수 #LEESUNGSU #탁영준 #TAKYOUNGJUN #SM #SMentertainment #IndiePowerPlayers https://t.co/efD6taPMXx"
+	},
+	{
 		"created_at": "Tue Jun 07 03:29:30 +0000 2022",
 		"id": 1534014663268049000,
 		"id_str": "1534014663268048896",
