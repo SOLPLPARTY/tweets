@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 10:29:29 +0000 2022",
+		"id": 1534106219295584300,
+		"id_str": "1534120352313384962",
+		"full_text": "2022 SMile Music Festival 참가자 모집이 마감 되었습니다. 💕\n\n보내주신 성원에 감사 드리며, 공정한 심사를 통해 함께 할 팀을 선정하겠습니다.\n\n앞으로 진행될 2022 SMF에 많은 관심과 응원 부탁 드립니다!  😄\n\n#SMEntertainment #SMTOWN #SMile #SMF #유스보이스 #YouthVoice https://t.co/Kj4E0xSbKs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "SMF",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "유스보이스",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "YouthVoice",
+					"indices": [
+						178,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534105605018767400,
+					"id_str": "1534105605018767361",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FUo863MUUAEmrTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUo863MUUAEmrTz.jpg",
+					"url": "https://t.co/Kj4E0xSbKs",
+					"display_url": "pic.twitter.com/Kj4E0xSbKs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534106219295584256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534105605018767400,
+					"id_str": "1534105605018767361",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FUo863MUUAEmrTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUo863MUUAEmrTz.jpg",
+					"url": "https://t.co/Kj4E0xSbKs",
+					"display_url": "pic.twitter.com/Kj4E0xSbKs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534106219295584256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10873692,
+			"friends_count": 56,
+			"listed_count": 12269,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 1982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 SMile Music Festival 참가자 모집이 마감 되었습니다. 💕\n\n보내주신 성원에 감사 드리며, 공정한 심사를 통해 함께 할 팀을 선정하겠습니다.\n\n앞으로 진행될 2022 SMF에 많은 관심과 응원 부탁 드립니다!  😄\n\n#SMEntertainment #SMTOWN #SMile #SMF #유스보이스 #YouthVoice https://t.co/Kj4E0xSbKs"
+	},
+	{
 		"created_at": "Tue Jun 07 10:04:37 +0000 2022",
 		"id": 1534114096961835000,
 		"id_str": "1534114096961835009",
