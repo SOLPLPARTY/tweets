@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 01:11:16 +0000 2022",
+		"id": 1533975126836146200,
+		"id_str": "1533979874842517506",
+		"full_text": "이번주 #클럽빵 공연일정 #시올 #앨리스 #엄태윤 #반규남 #동녘 #조태준 #존기븐 #널드쿨 #덕 #칠보장 #굿우드 #모스크바서핑클럽 #이씨이 #콘트라젤리 #행간소음 #김파다 #전다인밴드 #피카 #박종범 #공기뱔 #지누콘다 #끌림 #콘트라젤리 #도시를만드는힘 #홍대앞 #인디 #모던록 #라이브클럽라이브 https://t.co/yPI3zffdyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "시올",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "앨리스",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "엄태윤",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "반규남",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "동녘",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "조태준",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "존기븐",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "널드쿨",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "덕",
+					"indices": [
+						52,
+						54
+					]
+				},
+				{
+					"text": "칠보장",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "굿우드",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "모스크바서핑클럽",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "이씨이",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "행간소음",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "김파다",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "전다인밴드",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "피카",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "박종범",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "공기뱔",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "지누콘다",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "끌림",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "도시를만드는힘",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "홍대앞",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "모던록",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "라이브클럽라이브",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533975114169327600,
+					"id_str": "1533975114169327617",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FUnGPS5aIAEHe8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUnGPS5aIAEHe8I.jpg",
+					"url": "https://t.co/yPI3zffdyX",
+					"display_url": "pic.twitter.com/yPI3zffdyX",
+					"expanded_url": "https://twitter.com/club_bbang/status/1533975126836146177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533975114169327600,
+					"id_str": "1533975114169327617",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FUnGPS5aIAEHe8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUnGPS5aIAEHe8I.jpg",
+					"url": "https://t.co/yPI3zffdyX",
+					"display_url": "pic.twitter.com/yPI3zffdyX",
+					"expanded_url": "https://twitter.com/club_bbang/status/1533975126836146177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2519,
+			"friends_count": 908,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 #클럽빵 공연일정 #시올 #앨리스 #엄태윤 #반규남 #동녘 #조태준 #존기븐 #널드쿨 #덕 #칠보장 #굿우드 #모스크바서핑클럽 #이씨이 #콘트라젤리 #행간소음 #김파다 #전다인밴드 #피카 #박종범 #공기뱔 #지누콘다 #끌림 #콘트라젤리 #도시를만드는힘 #홍대앞 #인디 #모던록 #라이브클럽라이브 https://t.co/yPI3zffdyX"
+	},
+	{
 		"created_at": "Mon Jun 06 14:29:25 +0000 2022",
 		"id": 1533810618301808600,
 		"id_str": "1533818345329414144",
