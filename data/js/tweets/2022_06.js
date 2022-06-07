@@ -1,6 +1,1536 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 09:11:25 +0000 2022",
+		"id": 1534100705337675800,
+		"id_str": "1534100705337675776",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nSummer Soul x ROMderful - My World [TEASER]\nhttps://t.co/BD9fcAVWNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BD9fcAVWNT",
+					"expanded_url": "https://youtu.be/hzAYA-rrzYQ",
+					"display_url": "youtu.be/hzAYA-rrzYQ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nSummer Soul x ROMderful - My World [TEASER]\nhttps://t.co/BD9fcAVWNT"
+	},
+	{
+		"created_at": "Tue Jun 07 09:03:07 +0000 2022",
+		"id": 1534098618356945000,
+		"id_str": "1534098618356944896",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Audio] 치즈(CHEEZE) - 퐁당(Pong Dang) (1hr)\nhttps://t.co/DlL4l5WpjD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DlL4l5WpjD",
+					"expanded_url": "https://youtu.be/GxQIDE8Z5jE",
+					"display_url": "youtu.be/GxQIDE8Z5jE",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 464,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Audio] 치즈(CHEEZE) - 퐁당(Pong Dang) (1hr)\nhttps://t.co/DlL4l5WpjD"
+	},
+	{
+		"created_at": "Tue Jun 07 08:30:02 +0000 2022",
+		"id": 1534085515200589800,
+		"id_str": "1534090292512563200",
+		"full_text": "[#Playlist]\n‘#Colde(@wavycolde) - 생일을 축하해' 가 #TIDAL(@TIDAL) 'R&amp;B x K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out ‘#HappyBirthday’ playlist on TIDAL✨\n🎶 https://t.co/BlSY6WoqLt\n\n#warnerkpop #warnermusic #KPOP #콜드 #생일을축하해 #wavy #wavyseoul @wavyseoul https://t.co/YTOqB4MqbO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Playlist",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "Colde",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "HappyBirthday",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "콜드",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "생일을축하해",
+					"indices": [
+						208,
+						215
+					]
+				},
+				{
+					"text": "wavy",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "wavyseoul",
+					"indices": [
+						222,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wavycolde",
+					"name": "Colde",
+					"id": 944635374671761400,
+					"id_str": "944635374671761408",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"screen_name": "wavyseoul",
+					"name": "WAVY",
+					"id": 980316319185698800,
+					"id_str": "980316319185698817",
+					"indices": [
+						233,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BlSY6WoqLt",
+					"expanded_url": "https://tidal.com/browse/playlist/79818165-fd8a-42a2-8904-0e81ee88a879",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534085513099243500,
+					"id_str": "1534085513099243521",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FUoqpW9acAEYTr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUoqpW9acAEYTr7.jpg",
+					"url": "https://t.co/YTOqB4MqbO",
+					"display_url": "pic.twitter.com/YTOqB4MqbO",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1534085515200589825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534085513099243500,
+					"id_str": "1534085513099243521",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FUoqpW9acAEYTr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUoqpW9acAEYTr7.jpg",
+					"url": "https://t.co/YTOqB4MqbO",
+					"display_url": "pic.twitter.com/YTOqB4MqbO",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1534085515200589825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85579,
+			"friends_count": 493,
+			"listed_count": 211,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Playlist]\n‘#Colde(@wavycolde) - 생일을 축하해' 가 #TIDAL(@TIDAL) 'R&amp;B x K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out ‘#HappyBirthday’ playlist on TIDAL✨\n🎶 https://t.co/BlSY6WoqLt\n\n#warnerkpop #warnermusic #KPOP #콜드 #생일을축하해 #wavy #wavyseoul @wavyseoul https://t.co/YTOqB4MqbO"
+	},
+	{
+		"created_at": "Tue Jun 07 08:29:55 +0000 2022",
+		"id": 1534085379225030700,
+		"id_str": "1534090262678540290",
+		"full_text": "#TEASER💬\n\nD-1\n\n2022.06.08 WED 12PM (KST)\n정지아 (Jeong Jia), 싱글 '눈맞춤'\n\n#정지아 #JeongJia #눈맞춤 #Bullseye https://t.co/KfSay9raqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEASER",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "정지아",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "JeongJia",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "눈맞춤",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "Bullseye",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534084093293449200,
+					"id_str": "1534084093293449217",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1534084093293449217/pu/img/mPN5DmzjTr5pnV6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1534084093293449217/pu/img/mPN5DmzjTr5pnV6p.jpg",
+					"url": "https://t.co/KfSay9raqc",
+					"display_url": "pic.twitter.com/KfSay9raqc",
+					"expanded_url": "https://twitter.com/inplanet/status/1534085379225030656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534084093293449200,
+					"id_str": "1534084093293449217",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1534084093293449217/pu/img/mPN5DmzjTr5pnV6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1534084093293449217/pu/img/mPN5DmzjTr5pnV6p.jpg",
+					"url": "https://t.co/KfSay9raqc",
+					"display_url": "pic.twitter.com/KfSay9raqc",
+					"expanded_url": "https://twitter.com/inplanet/status/1534085379225030656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25091,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1534084093293449217/pu/pl/ZyORDSCNFBEGZEcW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534084093293449217/pu/vid/640x360/MxHjeav2Tmdlcpy-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534084093293449217/pu/vid/480x270/TGOIKL9bDVRHb8Jv.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534084093293449217/pu/vid/1280x720/HOUUamVB0lj1Pdua.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TEASER💬\n\nD-1\n\n2022.06.08 WED 12PM (KST)\n정지아 (Jeong Jia), 싱글 '눈맞춤'\n\n#정지아 #JeongJia #눈맞춤 #Bullseye https://t.co/KfSay9raqc"
+	},
+	{
+		"created_at": "Tue Jun 07 08:29:46 +0000 2022",
+		"id": 1534085276439842800,
+		"id_str": "1534090224405471235",
+		"full_text": "[#Playlist]\n‘#oceanfromtheblue, #Hookuo - #그땐그래야만했던’이 #TIDAL(@TIDAL) 'TIDAL Masters - K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out ‘#Time’ playlist on TIDAL✨\n🎶 https://t.co/qlqmJaQkN2\n\n#warnerkpop #warnermusic #KPOP #오션프롬더블루 #Why @fromtheblue3 https://t.co/fJCklFquq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Playlist",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "oceanfromtheblue",
+					"indices": [
+						13,
+						30
+					]
+				},
+				{
+					"text": "Hookuo",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"text": "그땐그래야만했던",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "Time",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "오션프롬더블루",
+					"indices": [
+						210,
+						218
+					]
+				},
+				{
+					"text": "Why",
+					"indices": [
+						219,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"screen_name": "fromtheblue3",
+					"name": "oceanfromtheblue",
+					"id": 1304177920110260200,
+					"id_str": "1304177920110260225",
+					"indices": [
+						224,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qlqmJaQkN2",
+					"expanded_url": "https://tidal.com/browse/playlist/58b26365-afc9-413c-9437-04b58ec9748f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534085273931624400,
+					"id_str": "1534085273931624449",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FUoqbb_aMAELIlE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUoqbb_aMAELIlE.jpg",
+					"url": "https://t.co/fJCklFquq7",
+					"display_url": "pic.twitter.com/fJCklFquq7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1534085276439842817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534085273931624400,
+					"id_str": "1534085273931624449",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FUoqbb_aMAELIlE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUoqbb_aMAELIlE.jpg",
+					"url": "https://t.co/fJCklFquq7",
+					"display_url": "pic.twitter.com/fJCklFquq7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1534085276439842817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85579,
+			"friends_count": 493,
+			"listed_count": 211,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Playlist]\n‘#oceanfromtheblue, #Hookuo - #그땐그래야만했던’이 #TIDAL(@TIDAL) 'TIDAL Masters - K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out ‘#Time’ playlist on TIDAL✨\n🎶 https://t.co/qlqmJaQkN2\n\n#warnerkpop #warnermusic #KPOP #오션프롬더블루 #Why @fromtheblue3 https://t.co/fJCklFquq7"
+	},
+	{
+		"created_at": "Tue Jun 07 08:29:39 +0000 2022",
+		"id": 1534084778286526500,
+		"id_str": "1534090194613305346",
+		"full_text": "[#Playlist]\n‘LUCY - Blue Voyage'가 #TIDAL(@TIDAL) 'Rock x K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out ‘Blue Voyage’ playlist on TIDAL✨\n🎶 https://t.co/P1J6fiXRVU\n\n#warnerkpop #warnermusic #KPOP #루시 #LUCY #Blue_Voyage @BANDLUCY_mystic @yeopx2 @shingwangil https://t.co/iPFt0r4sPx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Playlist",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "Blue_Voyage",
+					"indices": [
+						197,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"screen_name": "BANDLUCY_mystic",
+					"name": "BAND LUCY | 밴드 루시",
+					"id": 1248459032320327700,
+					"id_str": "1248459032320327683",
+					"indices": [
+						210,
+						226
+					]
+				},
+				{
+					"screen_name": "yeopx2",
+					"name": "최상엽엽",
+					"id": 731136254629150700,
+					"id_str": "731136254629150720",
+					"indices": [
+						227,
+						234
+					]
+				},
+				{
+					"screen_name": "shingwangil",
+					"name": "신광일",
+					"id": 1172886419523551200,
+					"id_str": "1172886419523551232",
+					"indices": [
+						235,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P1J6fiXRVU",
+					"expanded_url": "https://tidal.com/browse/playlist/a18a7e55-cb84-475d-8b17-37767f127120",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534084775136608300,
+					"id_str": "1534084775136608256",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FUop-Z1aQAAnHA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUop-Z1aQAAnHA5.jpg",
+					"url": "https://t.co/iPFt0r4sPx",
+					"display_url": "pic.twitter.com/iPFt0r4sPx",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1534084778286526465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534084775136608300,
+					"id_str": "1534084775136608256",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FUop-Z1aQAAnHA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUop-Z1aQAAnHA5.jpg",
+					"url": "https://t.co/iPFt0r4sPx",
+					"display_url": "pic.twitter.com/iPFt0r4sPx",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1534084778286526465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85579,
+			"friends_count": 493,
+			"listed_count": 211,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Playlist]\n‘LUCY - Blue Voyage'가 #TIDAL(@TIDAL) 'Rock x K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out ‘Blue Voyage’ playlist on TIDAL✨\n🎶 https://t.co/P1J6fiXRVU\n\n#warnerkpop #warnermusic #KPOP #루시 #LUCY #Blue_Voyage @BANDLUCY_mystic @yeopx2 @shingwangil https://t.co/iPFt0r4sPx"
+	},
+	{
+		"created_at": "Tue Jun 07 08:29:29 +0000 2022",
+		"id": 1534084605229559800,
+		"id_str": "1534090156310937600",
+		"full_text": "[VIDEO] [#권혁수] #SNL코리아\n\n[#SNL코리아시즌2 | #비하인드 | #크루편 스튜디오편] 철이 없었죠 플러팅을 하려고 카페를 차렸다는게😏☕\n\n👉 https://t.co/LIDnszd2SZ\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "SNL코리아시즌2",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "크루편",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"text": "SNL",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						161,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LIDnszd2SZ",
+					"expanded_url": "https://youtu.be/UknCZQiRC6E",
+					"display_url": "youtu.be/UknCZQiRC6E",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #SNL코리아\n\n[#SNL코리아시즌2 | #비하인드 | #크루편 스튜디오편] 철이 없었죠 플러팅을 하려고 카페를 차렸다는게😏☕\n\n👉 https://t.co/LIDnszd2SZ\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL #쿠팡플레이 #CoupangPlay"
+	},
+	{
 		"created_at": "Tue Jun 07 07:58:14 +0000 2022",
 		"id": 1534074025689108500,
 		"id_str": "1534082292079017985",
