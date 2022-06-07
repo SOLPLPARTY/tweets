@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 06:29:29 +0000 2022",
+		"id": 1534049292868272000,
+		"id_str": "1534059953891201024",
+		"full_text": "[#이적]\n열두시에 만나요, 부라보콘🎵\n\n🍦세상에서 가장 조용한 CM송🍦\n[부라보콘 X 이적, 이영현, 정은지]\n🔗 https://t.co/0XAqOLrOzf\n\n@jucklee #이적 #LeeJuck\n#해태아이스크림 #부라보콘 #AD https://t.co/S0QQrSdQGP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이적",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "LeeJuck",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "해태아이스크림",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "부라보콘",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "AD",
+					"indices": [
+						127,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0XAqOLrOzf",
+					"expanded_url": "http://youtu.be/p335kFo_XoE",
+					"display_url": "youtu.be/p335kFo_XoE",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534049282193752000,
+					"id_str": "1534049282193752064",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FUoJscUaAAAzSDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUoJscUaAAAzSDJ.jpg",
+					"url": "https://t.co/S0QQrSdQGP",
+					"display_url": "pic.twitter.com/S0QQrSdQGP",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1534049292868272129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534049282193752000,
+					"id_str": "1534049282193752064",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FUoJscUaAAAzSDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUoJscUaAAAzSDJ.jpg",
+					"url": "https://t.co/S0QQrSdQGP",
+					"display_url": "pic.twitter.com/S0QQrSdQGP",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1534049292868272129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9002,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이적]\n열두시에 만나요, 부라보콘🎵\n\n🍦세상에서 가장 조용한 CM송🍦\n[부라보콘 X 이적, 이영현, 정은지]\n🔗 https://t.co/0XAqOLrOzf\n\n@jucklee #이적 #LeeJuck\n#해태아이스크림 #부라보콘 #AD https://t.co/S0QQrSdQGP"
+	},
+	{
 		"created_at": "Tue Jun 07 05:29:58 +0000 2022",
 		"id": 1534042551082418200,
 		"id_str": "1534044977797423104",
