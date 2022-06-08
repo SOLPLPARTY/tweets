@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 13:29:25 +0000 2022",
+		"id": 1534526130060791800,
+		"id_str": "1534528022480666627",
+		"full_text": "노을진 한강, 돌아온 웃음, 네온빛 음악. 스마일러브위크엔드!\n#빛과소금 #김현철 #SUMIN #유키카 #레인보우노트 등 청량한 라인업의 여름 실내 페스티벌 \n\n티켓오픈일시: 6월 10일(금) 오후 5시 https://t.co/OwW3hkiSAf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빛과소금",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "김현철",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "SUMIN",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "유키카",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "레인보우노트",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534526128215367700,
+					"id_str": "1534526128215367680",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7YiLVIAAphQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7YiLVIAAphQf.jpg",
+					"url": "https://t.co/OwW3hkiSAf",
+					"display_url": "pic.twitter.com/OwW3hkiSAf",
+					"expanded_url": "https://twitter.com/ruby_records/status/1534526130060791809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534526128215367700,
+					"id_str": "1534526128215367680",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7YiLVIAAphQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7YiLVIAAphQf.jpg",
+					"url": "https://t.co/OwW3hkiSAf",
+					"display_url": "pic.twitter.com/OwW3hkiSAf",
+					"expanded_url": "https://twitter.com/ruby_records/status/1534526130060791809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7591,
+			"friends_count": 8218,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노을진 한강, 돌아온 웃음, 네온빛 음악. 스마일러브위크엔드!\n#빛과소금 #김현철 #SUMIN #유키카 #레인보우노트 등 청량한 라인업의 여름 실내 페스티벌 \n\n티켓오픈일시: 6월 10일(금) 오후 5시 https://t.co/OwW3hkiSAf"
+	},
+	{
 		"created_at": "Wed Jun 08 11:29:49 +0000 2022",
 		"id": 1534494789890019300,
 		"id_str": "1534497925115654146",
