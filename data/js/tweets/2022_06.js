@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 15:29:25 +0000 2022",
+		"id": 1534546617558130700,
+		"id_str": "1534558221603676161",
+		"full_text": "Executive producer LEE SOOMAN visits SHINee ONEW who is currently taking part in the musical ‘Midnight Sun’! 💐 \n\n#LEESOOMAN #이수만\n#ONEW #온유 \n#SHINee #샤이니 \n#Midnight_Sun #태양의노래\n#SMTOWN #SMEntertainment https://t.co/N1zdJMouZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEESOOMAN",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "이수만",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Midnight_Sun",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "태양의노래",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534546591507357700,
+					"id_str": "1534546591507357696",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FUvN_p4VIAAjZLp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUvN_p4VIAAjZLp.jpg",
+					"url": "https://t.co/N1zdJMouZi",
+					"display_url": "pic.twitter.com/N1zdJMouZi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534546617558130689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534546591507357700,
+					"id_str": "1534546591507357696",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FUvN_p4VIAAjZLp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUvN_p4VIAAjZLp.jpg",
+					"url": "https://t.co/N1zdJMouZi",
+					"display_url": "pic.twitter.com/N1zdJMouZi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534546617558130689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534546604580958200,
+					"id_str": "1534546604580958208",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FUvOAalUcAAtWgW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUvOAalUcAAtWgW.jpg",
+					"url": "https://t.co/N1zdJMouZi",
+					"display_url": "pic.twitter.com/N1zdJMouZi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534546617558130689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10876794,
+			"friends_count": 56,
+			"listed_count": 12274,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1645,
+		"favorite_count": 6125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Executive producer LEE SOOMAN visits SHINee ONEW who is currently taking part in the musical ‘Midnight Sun’! 💐 \n\n#LEESOOMAN #이수만\n#ONEW #온유 \n#SHINee #샤이니 \n#Midnight_Sun #태양의노래\n#SMTOWN #SMEntertainment https://t.co/N1zdJMouZi"
+	},
+	{
 		"created_at": "Wed Jun 08 15:01:56 +0000 2022",
 		"id": 1534551305984716800,
 		"id_str": "1534551305984716801",
