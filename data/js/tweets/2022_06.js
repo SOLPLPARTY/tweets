@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 04:29:31 +0000 2022",
+		"id": 1534741207653687300,
+		"id_str": "1534754538875494401",
+		"full_text": "오랜 기다림 끝에 성사된 선예 님과의 듀엣\n노래의 주인은 정해져있는 듯.\n발매되고 좋은 소식을 선예님께 드리고 싶다!!!\n6월 10일 오후6시 발매\n\n#정준일 x #선예 #다시사랑할수있을까 https://t.co/ZtSazjkN7Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "다시사랑할수있을까",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534741204650590200,
+					"id_str": "1534741204650590210",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FUx-_oVagAIcB6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUx-_oVagAIcB6D.jpg",
+					"url": "https://t.co/ZtSazjkN7Y",
+					"display_url": "pic.twitter.com/ZtSazjkN7Y",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1534741207653687296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1055,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1229,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534741204650590200,
+					"id_str": "1534741204650590210",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FUx-_oVagAIcB6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUx-_oVagAIcB6D.jpg",
+					"url": "https://t.co/ZtSazjkN7Y",
+					"display_url": "pic.twitter.com/ZtSazjkN7Y",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1534741207653687296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1055,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1229,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2596,
+			"friends_count": 320,
+			"listed_count": 29,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 22570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜 기다림 끝에 성사된 선예 님과의 듀엣\n노래의 주인은 정해져있는 듯.\n발매되고 좋은 소식을 선예님께 드리고 싶다!!!\n6월 10일 오후6시 발매\n\n#정준일 x #선예 #다시사랑할수있을까 https://t.co/ZtSazjkN7Y"
+	},
+	{
 		"created_at": "Thu Jun 09 03:29:24 +0000 2022",
 		"id": 1534729679449768000,
 		"id_str": "1534739413577748481",
