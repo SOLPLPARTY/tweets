@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 05:29:30 +0000 2022",
+		"id": 1534764612822134800,
+		"id_str": "1534769634850881538",
+		"full_text": "\"음악에는 성별이 없다\" \n- 인디씬 내 성평등을 위한 여성 록 아티스트 연합공연\nhttps://t.co/scVNIDBUDX\n\n2022.06.25(토) 19:30\n채널 1969\n드링킹소년소녀합창단  | 빌리카터 | 사막꽃 | 혼즈 https://t.co/dhagWtQN35",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/scVNIDBUDX",
+					"expanded_url": "https://booking.naver.com/booking/12/bizes/396582/items/4455737",
+					"display_url": "booking.naver.com/booking/12/biz…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534764172273397800,
+					"id_str": "1534764172273397761",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyT4hZaMAE0eNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyT4hZaMAE0eNg.jpg",
+					"url": "https://t.co/dhagWtQN35",
+					"display_url": "pic.twitter.com/dhagWtQN35",
+					"expanded_url": "https://twitter.com/electric_muse/status/1534764612822134784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534764172273397800,
+					"id_str": "1534764172273397761",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyT4hZaMAE0eNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyT4hZaMAE0eNg.jpg",
+					"url": "https://t.co/dhagWtQN35",
+					"display_url": "pic.twitter.com/dhagWtQN35",
+					"expanded_url": "https://twitter.com/electric_muse/status/1534764612822134784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1534764597928145000,
+		"in_reply_to_status_id_str": "1534764597928144902",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3322,
+			"friends_count": 1293,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"음악에는 성별이 없다\" \n- 인디씬 내 성평등을 위한 여성 록 아티스트 연합공연\nhttps://t.co/scVNIDBUDX\n\n2022.06.25(토) 19:30\n채널 1969\n드링킹소년소녀합창단  | 빌리카터 | 사막꽃 | 혼즈 https://t.co/dhagWtQN35"
+	},
+	{
 		"created_at": "Thu Jun 09 04:29:31 +0000 2022",
 		"id": 1534741207653687300,
 		"id_str": "1534754538875494401",
