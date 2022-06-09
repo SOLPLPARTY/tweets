@@ -1,6 +1,995 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 10:11:16 +0000 2022",
+		"id": 1534833873107943400,
+		"id_str": "1534840546052685824",
+		"full_text": "#신해남과 환자들 HEYNAM SiN X PATiENTS, #썬더스 THUNDERS, #KREIXKIM &amp; YOU\nat “LIVE AT CLUB STEEL FACE” 27/5/2022\n\nPhotos by @ryuhaewon \n\n#clubsteelface #steelface\n#heynamsinxpatients #thunders \n#musiclovers #punk #techno #seoul https://t.co/4YEwh12P5Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신해남과",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "썬더스",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "KREIXKIM",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"text": "clubsteelface",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "heynamsinxpatients",
+					"indices": [
+						157,
+						176
+					]
+				},
+				{
+					"text": "thunders",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "musiclovers",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "punk",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "techno",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						215,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ryuhaewon",
+					"name": "Ryu haewon",
+					"id": 112452358,
+					"id_str": "112452358",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4YEwh12P5Z",
+					"expanded_url": "https://www.instagram.com/p/CelHfwAFnNt/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/CelHfwAFnNt/…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55086105,
+				126.92203617
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92203617,
+				37.55086105
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#신해남과 환자들 HEYNAM SiN X PATiENTS, #썬더스 THUNDERS, #KREIXKIM &amp; YOU\nat “LIVE AT CLUB STEEL FACE” 27/5/2022\n\nPhotos by @ryuhaewon \n\n#clubsteelface #steelface\n#heynamsinxpatients #thunders \n#musiclovers #punk #techno #seoul https://t.co/4YEwh12P5Z"
+	},
+	{
+		"created_at": "Thu Jun 09 09:58:14 +0000 2022",
+		"id": 1534822621555986400,
+		"id_str": "1534837266346024962",
+		"full_text": "KCON 2022 Premiere 📺 TV ON AIR ver.\n🗓6/9 (THU) 6:10 PM (KST)～\n\nWORLDWIDE - KCON official\nhttps://t.co/jCr9QnksFe\n\nKOREA ONLY - TVING\nhttps://t.co/H0Bd085SoB\n\n#KCON #KCON2022Premiere https://t.co/pmDRguWsmI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "KCON2022Premiere",
+					"indices": [
+						164,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jCr9QnksFe",
+					"expanded_url": "https://youtu.be/kdQKncQtP1s",
+					"display_url": "youtu.be/kdQKncQtP1s",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/H0Bd085SoB",
+					"expanded_url": "https://tving.onelink.me/xHqC/30a78d6f",
+					"display_url": "tving.onelink.me/xHqC/30a78d6f",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534822370203926500,
+					"id_str": "1534822370203926528",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FUzI0FlUAAARl7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUzI0FlUAAARl7P.jpg",
+					"url": "https://t.co/pmDRguWsmI",
+					"display_url": "pic.twitter.com/pmDRguWsmI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1534822621555986434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534822370203926500,
+					"id_str": "1534822370203926528",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FUzI0FlUAAARl7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUzI0FlUAAARl7P.jpg",
+					"url": "https://t.co/pmDRguWsmI",
+					"display_url": "pic.twitter.com/pmDRguWsmI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1534822621555986434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 Premiere in May",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 445035,
+			"friends_count": 76,
+			"listed_count": 1107,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504239101150887936/CiNfTv4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1651650546",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 655,
+		"favorite_count": 1246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 Premiere 📺 TV ON AIR ver.\n🗓6/9 (THU) 6:10 PM (KST)～\n\nWORLDWIDE - KCON official\nhttps://t.co/jCr9QnksFe\n\nKOREA ONLY - TVING\nhttps://t.co/H0Bd085SoB\n\n#KCON #KCON2022Premiere https://t.co/pmDRguWsmI"
+	},
+	{
+		"created_at": "Thu Jun 09 09:29:44 +0000 2022",
+		"id": 1534824208101871600,
+		"id_str": "1534830090684612609",
+		"full_text": "플라토닉 러브가 불가능한 남자들...? | 오늘의 야부리 EP02 ㅣ아티초크, 오샘(히미츠, 제인팝) https://t.co/C1W4m1Pfem",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C1W4m1Pfem",
+					"expanded_url": "http://blog.naver.com/chili7272/222766259967",
+					"display_url": "blog.naver.com/chili7272/2227…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 2338,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1653966960",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "플라토닉 러브가 불가능한 남자들...? | 오늘의 야부리 EP02 ㅣ아티초크, 오샘(히미츠, 제인팝) https://t.co/C1W4m1Pfem"
+	},
+	{
+		"created_at": "Thu Jun 09 09:29:38 +0000 2022",
+		"id": 1534822611632509000,
+		"id_str": "1534830069285265413",
+		"full_text": "DRIPPIN(드리핀) 'ZERO' MV TEASER #1\n\n2022.06.15 6PM (KST)\n\nhttps://t.co/sTgXNd5SpJ\nhttps://t.co/pgB3cqEsjW\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/j3jEIMWo1h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "Villain_ZERO",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "ZERO",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTgXNd5SpJ",
+					"expanded_url": "https://youtu.be/OqT92ynbYGQ",
+					"display_url": "youtu.be/OqT92ynbYGQ",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/pgB3cqEsjW",
+					"expanded_url": "https://www.vlive.tv/video/285279",
+					"display_url": "vlive.tv/video/285279",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534820880882487300,
+					"id_str": "1534820880882487296",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1534820880882487296/pu/img/qsEjEe7lf1QJkCe8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1534820880882487296/pu/img/qsEjEe7lf1QJkCe8.jpg",
+					"url": "https://t.co/j3jEIMWo1h",
+					"display_url": "pic.twitter.com/j3jEIMWo1h",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1534822611632508931/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534820880882487300,
+					"id_str": "1534820880882487296",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1534820880882487296/pu/img/qsEjEe7lf1QJkCe8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1534820880882487296/pu/img/qsEjEe7lf1QJkCe8.jpg",
+					"url": "https://t.co/j3jEIMWo1h",
+					"display_url": "pic.twitter.com/j3jEIMWo1h",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1534822611632508931/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10218,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534820880882487296/pu/vid/480x270/iDUkfZdDCXc4YHGN.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534820880882487296/pu/vid/1280x720/70jY5ruscWpt4QAp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1534820880882487296/pu/vid/640x360/BJDpnCLSIKoz31UT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1534820880882487296/pu/pl/bGSMXPD5EEmuWGRf.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423097,
+			"friends_count": 12,
+			"listed_count": 1883,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1654249757",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DRIPPIN(드리핀) 'ZERO' MV TEASER #1\n\n2022.06.15 6PM (KST)\n\nhttps://t.co/sTgXNd5SpJ\nhttps://t.co/pgB3cqEsjW\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/j3jEIMWo1h"
+	},
+	{
+		"created_at": "Thu Jun 09 09:29:30 +0000 2022",
+		"id": 1534821585336828000,
+		"id_str": "1534830035290533894",
+		"full_text": "#MAXCHANGMIN, #TAEYEON, and #NCTDREAM have been named ‘The Best K-pop Songs and Albums of 2022’ by U.S. TIME magazine and proved SM artist's strong global power!\n\nhttps://t.co/0wAvoomJFR \n\n#최강창민 #동방신기 #TVXQ! #東方神起\n#태연 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAXCHANGMIN",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						214,
+						217
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						224,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0wAvoomJFR",
+					"expanded_url": "https://bit.ly/3Mu7Hd2",
+					"display_url": "bit.ly/3Mu7Hd2",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10878272,
+			"friends_count": 56,
+			"listed_count": 12278,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6568,
+		"favorite_count": 17056,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#MAXCHANGMIN, #TAEYEON, and #NCTDREAM have been named ‘The Best K-pop Songs and Albums of 2022’ by U.S. TIME magazine and proved SM artist's strong global power!\n\nhttps://t.co/0wAvoomJFR \n\n#최강창민 #동방신기 #TVXQ! #東方神起\n#태연 #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Jun 09 09:15:54 +0000 2022",
 		"id": 1534826611312169000,
 		"id_str": "1534826611312168960",
