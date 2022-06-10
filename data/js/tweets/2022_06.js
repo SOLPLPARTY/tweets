@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 11:11:16 +0000 2022",
+		"id": 1535202805052764200,
+		"id_str": "1535218033941262337",
+		"full_text": "금요일~ 오늘 #클럽빵은 #덕 #굿우드 #모스크바서핑클럽 #칠보장 이렇게 합니다 솔로뮤지션 1과 밴드 3~ 소나기가 두세번 온거 같은데 이렇게라도 물을 공급하면 좋은듯~ 한주 멍하게 보냈는데 주말이라니~ 발전을 해야하는데 실마리를 잃어서~ https://t.co/dZJq0F6nK2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵은",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "덕",
+					"indices": [
+						14,
+						16
+					]
+				},
+				{
+					"text": "굿우드",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "모스크바서핑클럽",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"text": "칠보장",
+					"indices": [
+						32,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535202786086092800,
+					"id_str": "1535202786086092800",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4izNLaAAAcZ5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4izNLaAAAcZ5q.jpg",
+					"url": "https://t.co/dZJq0F6nK2",
+					"display_url": "pic.twitter.com/dZJq0F6nK2",
+					"expanded_url": "https://twitter.com/club_bbang/status/1535202805052764160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535202786086092800,
+					"id_str": "1535202786086092800",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4izNLaAAAcZ5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4izNLaAAAcZ5q.jpg",
+					"url": "https://t.co/dZJq0F6nK2",
+					"display_url": "pic.twitter.com/dZJq0F6nK2",
+					"expanded_url": "https://twitter.com/club_bbang/status/1535202805052764160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 906,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금요일~ 오늘 #클럽빵은 #덕 #굿우드 #모스크바서핑클럽 #칠보장 이렇게 합니다 솔로뮤지션 1과 밴드 3~ 소나기가 두세번 온거 같은데 이렇게라도 물을 공급하면 좋은듯~ 한주 멍하게 보냈는데 주말이라니~ 발전을 해야하는데 실마리를 잃어서~ https://t.co/dZJq0F6nK2"
+	},
+	{
 		"created_at": "Fri Jun 10 10:09:55 +0000 2022",
 		"id": 1535202593407832000,
 		"id_str": "1535202593407832065",
