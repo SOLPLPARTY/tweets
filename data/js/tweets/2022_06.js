@@ -1,6 +1,995 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 03:15:43 +0000 2022",
+		"id": 1535098357470834700,
+		"id_str": "1535098357470834688",
+		"full_text": "#SMTOWN\nWelcome to the Neo CiTy AUDITION\nhttps://t.co/EnwsL4IJzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EnwsL4IJzQ",
+					"expanded_url": "https://youtu.be/tgnhRy8wHM0",
+					"display_url": "youtu.be/tgnhRy8wHM0",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 463,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN\nWelcome to the Neo CiTy AUDITION\nhttps://t.co/EnwsL4IJzQ"
+	},
+	{
+		"created_at": "Fri Jun 10 03:12:26 +0000 2022",
+		"id": 1535097531763290000,
+		"id_str": "1535097531763290112",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nSummer Soul x ROMderful - My World [Music Video]\nhttps://t.co/oqMlD0tWTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oqMlD0tWTx",
+					"expanded_url": "https://youtu.be/_i00ANH43ZY",
+					"display_url": "youtu.be/_i00ANH43ZY",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 463,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nSummer Soul x ROMderful - My World [Music Video]\nhttps://t.co/oqMlD0tWTx"
+	},
+	{
+		"created_at": "Fri Jun 10 03:12:26 +0000 2022",
+		"id": 1535097530114973700,
+		"id_str": "1535097530114973698",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n유주 (YUJU) - Tell me this is real [Teaser]\nhttps://t.co/DBRN95gunK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DBRN95gunK",
+					"expanded_url": "https://youtu.be/5cf3uSBrpPo",
+					"display_url": "youtu.be/5cf3uSBrpPo",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 463,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n유주 (YUJU) - Tell me this is real [Teaser]\nhttps://t.co/DBRN95gunK"
+	},
+	{
+		"created_at": "Fri Jun 10 03:11:16 +0000 2022",
+		"id": 1535094399977201700,
+		"id_str": "1535097237642125326",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n　\n롤링 27주년의 대미를 장식할 마지막 일정 함께 확인하시죠🎶\n마지막까지 많은 사랑과 응원 부탁드립니다💖\n　\n예매 : 🍈멜론티켓 https://t.co/n6wsGjLAqr\nDesign by 오이웍스\n　\n#롤링홀 #롤링27주년 #홍대 #공연 #인디 #멜론티켓 https://t.co/XOvcnQCZbA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n6wsGjLAqr",
+					"expanded_url": "http://bit.ly/3mRAzSr",
+					"display_url": "bit.ly/3mRAzSr",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534847581750456300,
+					"id_str": "1534847581750456320",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FUzfvl6acAAk2BU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUzfvl6acAAk2BU.jpg",
+					"url": "https://t.co/XOvcnQCZbA",
+					"display_url": "pic.twitter.com/XOvcnQCZbA",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1535094399977201665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534847581750456300,
+					"id_str": "1534847581750456320",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FUzfvl6acAAk2BU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUzfvl6acAAk2BU.jpg",
+					"url": "https://t.co/XOvcnQCZbA",
+					"display_url": "pic.twitter.com/XOvcnQCZbA",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1535094399977201665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 493,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟳𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧\n　\n롤링 27주년의 대미를 장식할 마지막 일정 함께 확인하시죠🎶\n마지막까지 많은 사랑과 응원 부탁드립니다💖\n　\n예매 : 🍈멜론티켓 https://t.co/n6wsGjLAqr\nDesign by 오이웍스\n　\n#롤링홀 #롤링27주년 #홍대 #공연 #인디 #멜론티켓 https://t.co/XOvcnQCZbA"
+	},
+	{
+		"created_at": "Fri Jun 10 02:58:18 +0000 2022",
+		"id": 1535080634934521900,
+		"id_str": "1535093971906699273",
+		"full_text": "#부산국제록페스티벌 #2022부산국제록페스티벌 #2022 #부산록페 #부산락페 #부산문화관광축제조직위원회 #2022BusanRockFestival #BuRock #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "2022부산국제록페스티벌",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "부산문화관광축제조직위원회",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"text": "2022BusanRockFestival",
+					"indices": [
+						59,
+						81
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1535080559776772000,
+		"in_reply_to_status_id_str": "1535080559776772096",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1353,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#부산국제록페스티벌 #2022부산국제록페스티벌 #2022 #부산록페 #부산락페 #부산문화관광축제조직위원회 #2022BusanRockFestival #BuRock #Festival #Busan"
+	},
+	{
+		"created_at": "Fri Jun 10 02:58:15 +0000 2022",
+		"id": 1535080559776772000,
+		"id_str": "1535093958874996737",
+		"full_text": "[2022 부산국제록페스티벌 행사 일정 안내]\n𝟐𝟎𝟐𝟐 𝐁𝐔𝐒𝐀𝐍 𝐈𝐍𝐓𝐄𝐑𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐑𝐎𝐂𝐊 𝐅𝐄𝐒𝐓𝐈𝐕𝐀𝐋\n▪️일시 : 10.01.(토)~02.(일)⠀⠀\n▪️장소 : 삼락생태공원\n▪️Date : 10.01.(Sat)~02.(Sun)⠀⠀\n▪️Venue : Samnak Ecological Park⠀⠀ https://t.co/gNKbQZkB9H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535080483645968400,
+					"id_str": "1535080483645968386",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FU2zkRFaUAIUhAa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU2zkRFaUAIUhAa.jpg",
+					"url": "https://t.co/gNKbQZkB9H",
+					"display_url": "pic.twitter.com/gNKbQZkB9H",
+					"expanded_url": "https://twitter.com/busan_rock/status/1535080559776772096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535080483645968400,
+					"id_str": "1535080483645968386",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FU2zkRFaUAIUhAa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU2zkRFaUAIUhAa.jpg",
+					"url": "https://t.co/gNKbQZkB9H",
+					"display_url": "pic.twitter.com/gNKbQZkB9H",
+					"expanded_url": "https://twitter.com/busan_rock/status/1535080559776772096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1353,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 부산국제록페스티벌 행사 일정 안내]\n𝟐𝟎𝟐𝟐 𝐁𝐔𝐒𝐀𝐍 𝐈𝐍𝐓𝐄𝐑𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐑𝐎𝐂𝐊 𝐅𝐄𝐒𝐓𝐈𝐕𝐀𝐋\n▪️일시 : 10.01.(토)~02.(일)⠀⠀\n▪️장소 : 삼락생태공원\n▪️Date : 10.01.(Sat)~02.(Sun)⠀⠀\n▪️Venue : Samnak Ecological Park⠀⠀ https://t.co/gNKbQZkB9H"
+	},
+	{
 		"created_at": "Fri Jun 10 01:58:14 +0000 2022",
 		"id": 1535064204243153000,
 		"id_str": "1535078858751361039",
