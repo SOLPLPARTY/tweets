@@ -1,6 +1,1071 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 10:09:55 +0000 2022",
+		"id": 1535202593407832000,
+		"id_str": "1535202593407832065",
+		"full_text": "#딩고뮤직 #dingo_music\n결국 다시 원곡을 듣는 이유 #안아줘 [6월 14일(화) 오후 7시 본편 공개!] #Shorts\nhttps://t.co/dFsquGPXnv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "안아줘",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dFsquGPXnv",
+					"expanded_url": "https://youtu.be/HluO8_XvD_U",
+					"display_url": "youtu.be/HluO8_XvD_U",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 463,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n결국 다시 원곡을 듣는 이유 #안아줘 [6월 14일(화) 오후 7시 본편 공개!] #Shorts\nhttps://t.co/dFsquGPXnv"
+	},
+	{
+		"created_at": "Fri Jun 10 09:29:47 +0000 2022",
+		"id": 1535187940628140000,
+		"id_str": "1535192494253670400",
+		"full_text": "[#Video] #정승환\n⠀\n정승환이 출연한 ‘리벌스트랙2’ 두 번째 편이 공개되었습니다. 지금 유튜브 ‘studio Grr’ 채널에서 만나보실 수 있습니다✨\n\n🔗 https://t.co/1RbGvuuUqv\n⠀\n#JungSeungHwan\n#리벌스트랙 #studioGrr https://t.co/dkc20Tvl6a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "리벌스트랙",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "studioGrr",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1RbGvuuUqv",
+					"expanded_url": "https://youtu.be/ZIIKW4Yq7oY",
+					"display_url": "youtu.be/ZIIKW4Yq7oY",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535187928527569000,
+					"id_str": "1535187928527568897",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4VSYdagAEfDEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4VSYdagAEfDEI.jpg",
+					"url": "https://t.co/dkc20Tvl6a",
+					"display_url": "pic.twitter.com/dkc20Tvl6a",
+					"expanded_url": "https://twitter.com/antennamusic/status/1535187940628140032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535187928527569000,
+					"id_str": "1535187928527568897",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4VSYdagAEfDEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4VSYdagAEfDEI.jpg",
+					"url": "https://t.co/dkc20Tvl6a",
+					"display_url": "pic.twitter.com/dkc20Tvl6a",
+					"expanded_url": "https://twitter.com/antennamusic/status/1535187940628140032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40408,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #정승환\n⠀\n정승환이 출연한 ‘리벌스트랙2’ 두 번째 편이 공개되었습니다. 지금 유튜브 ‘studio Grr’ 채널에서 만나보실 수 있습니다✨\n\n🔗 https://t.co/1RbGvuuUqv\n⠀\n#JungSeungHwan\n#리벌스트랙 #studioGrr https://t.co/dkc20Tvl6a"
+	},
+	{
+		"created_at": "Fri Jun 10 09:29:39 +0000 2022",
+		"id": 1535186115702845400,
+		"id_str": "1535192460250554369",
+		"full_text": "DRIPPIN(드리핀) 2ND SINGLE ALBUM\n[Villain : ZERO]｜Album Preview \n\n2022.06.15 6PM (KST)\n\nhttps://t.co/fvBSKwBevU\nhttps://t.co/ivJAdyMXEF\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/cbyKtRcv8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Villain_ZERO",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"text": "ZERO",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fvBSKwBevU",
+					"expanded_url": "https://youtu.be/ZZuyaPVXT_0",
+					"display_url": "youtu.be/ZZuyaPVXT_0",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/ivJAdyMXEF",
+					"expanded_url": "https://www.vlive.tv/video/285379",
+					"display_url": "vlive.tv/video/285379",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535185649195552800,
+					"id_str": "1535185649195552768",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1535185649195552768/img/QThvIL6ZxAaZc3r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1535185649195552768/img/QThvIL6ZxAaZc3r_.jpg",
+					"url": "https://t.co/cbyKtRcv8L",
+					"display_url": "pic.twitter.com/cbyKtRcv8L",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1535186115702845440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535185649195552800,
+					"id_str": "1535185649195552768",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1535185649195552768/img/QThvIL6ZxAaZc3r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1535185649195552768/img/QThvIL6ZxAaZc3r_.jpg",
+					"url": "https://t.co/cbyKtRcv8L",
+					"display_url": "pic.twitter.com/cbyKtRcv8L",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1535186115702845440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15787,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1535185649195552768/vid/480x270/UOBCMJH578VyahbP.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1535185649195552768/vid/1280x720/QQb4sMd0Dmk_zuCG.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1535185649195552768/vid/640x360/UCixpc2UDwYkkdK0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1535185649195552768/pl/xgWVQOGwOw4_UGj_.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423081,
+			"friends_count": 12,
+			"listed_count": 1883,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1654249757",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN(드리핀) 2ND SINGLE ALBUM\n[Villain : ZERO]｜Album Preview \n\n2022.06.15 6PM (KST)\n\nhttps://t.co/fvBSKwBevU\nhttps://t.co/ivJAdyMXEF\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/cbyKtRcv8L"
+	},
+	{
+		"created_at": "Fri Jun 10 09:29:37 +0000 2022",
+		"id": 1535185013184123000,
+		"id_str": "1535192451249496064",
+		"full_text": "DRIPPIN(드리핀) 2ND SINGLE ALBUM\n[Villain : ZERO]｜TRACK LIST\n\n2022.06.15 6PM (KST)\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/HIOIfLFw1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "Villain_ZERO",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "ZERO",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535098235031011300,
+					"id_str": "1535098235031011328",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FU3DtiJaQAAl9z4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU3DtiJaQAAl9z4.jpg",
+					"url": "https://t.co/HIOIfLFw1R",
+					"display_url": "pic.twitter.com/HIOIfLFw1R",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1535185013184122881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535098235031011300,
+					"id_str": "1535098235031011328",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FU3DtiJaQAAl9z4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU3DtiJaQAAl9z4.jpg",
+					"url": "https://t.co/HIOIfLFw1R",
+					"display_url": "pic.twitter.com/HIOIfLFw1R",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1535185013184122881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423081,
+			"friends_count": 12,
+			"listed_count": 1883,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1654249757",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN(드리핀) 2ND SINGLE ALBUM\n[Villain : ZERO]｜TRACK LIST\n\n2022.06.15 6PM (KST)\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/HIOIfLFw1R"
+	},
+	{
+		"created_at": "Fri Jun 10 09:29:28 +0000 2022",
+		"id": 1535185012647026700,
+		"id_str": "1535192412972322816",
+		"full_text": "Melody Of Rain | KANGTA Studio EP.2-1\n\nhttps://t.co/2OV5EOvTcD\n\n#KANGTA #강타 #KANGTASTUDIO\n#DAW #VSTI #PROTOOL https://t.co/d6F69kxQnj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "KANGTASTUDIO",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"text": "DAW",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "VSTI",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "PROTOOL",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2OV5EOvTcD",
+					"expanded_url": "https://youtu.be/9mzf73KeC7E",
+					"display_url": "youtu.be/9mzf73KeC7E",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535185001909604400,
+					"id_str": "1535185001909604353",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4SoB9UUAEUrJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4SoB9UUAEUrJ5.jpg",
+					"url": "https://t.co/d6F69kxQnj",
+					"display_url": "pic.twitter.com/d6F69kxQnj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535185012647026690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535185001909604400,
+					"id_str": "1535185001909604353",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4SoB9UUAEUrJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4SoB9UUAEUrJ5.jpg",
+					"url": "https://t.co/d6F69kxQnj",
+					"display_url": "pic.twitter.com/d6F69kxQnj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535185012647026690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10880728,
+			"friends_count": 56,
+			"listed_count": 12274,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 1201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melody Of Rain | KANGTA Studio EP.2-1\n\nhttps://t.co/2OV5EOvTcD\n\n#KANGTA #강타 #KANGTASTUDIO\n#DAW #VSTI #PROTOOL https://t.co/d6F69kxQnj"
+	},
+	{
 		"created_at": "Fri Jun 10 09:11:16 +0000 2022",
 		"id": 1535184997639786500,
 		"id_str": "1535187834352590849",
