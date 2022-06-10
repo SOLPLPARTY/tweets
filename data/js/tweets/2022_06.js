@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 03:29:33 +0000 2022",
+		"id": 1535095182504251400,
+		"id_str": "1535101835979198477",
+		"full_text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 업무&amp;과제 능률이 향상되는 로파이 재즈 힙합 💻✏️(feat. 안현진, 조음사) https://t.co/KEzKwDp1H2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KEzKwDp1H2",
+					"expanded_url": "http://blog.naver.com/chili7272/222767210132",
+					"display_url": "blog.naver.com/chili7272/2227…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 2338,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1653966960",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 업무&amp;과제 능률이 향상되는 로파이 재즈 힙합 💻✏️(feat. 안현진, 조음사) https://t.co/KEzKwDp1H2"
+	},
+	{
+		"created_at": "Fri Jun 10 03:29:29 +0000 2022",
+		"id": 1535094512884023300,
+		"id_str": "1535101818698706944",
+		"full_text": "AUDITION : NCT PROJECT\n\n“Welcome to the NeoCiTy” \n\nApply Now!\nhttps://t.co/8wVBlGkFtb\n\n#WELCOME_TO_THE_NEOCITY\n#WELCOMETOTHENEOCITY\n#SMGLOBALAUDITION\n#SMAUDITION\n#SMENTERTAINMENT https://t.co/Em3jn76Ry4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WELCOME_TO_THE_NEOCITY",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"text": "WELCOMETOTHENEOCITY",
+					"indices": [
+						111,
+						131
+					]
+				},
+				{
+					"text": "SMGLOBALAUDITION",
+					"indices": [
+						132,
+						149
+					]
+				},
+				{
+					"text": "SMAUDITION",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "SMENTERTAINMENT",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8wVBlGkFtb",
+					"expanded_url": "https://forms.gle/zBYpJBwS28ctCCCM7",
+					"display_url": "forms.gle/zBYpJBwS28ctCC…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535089529664999400,
+					"id_str": "1535089529664999425",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1535089529664999425/img/XWGua-Dm6ydUlDrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1535089529664999425/img/XWGua-Dm6ydUlDrP.jpg",
+					"url": "https://t.co/Em3jn76Ry4",
+					"display_url": "pic.twitter.com/Em3jn76Ry4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535094512884023296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535089529664999400,
+					"id_str": "1535089529664999425",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1535089529664999425/img/XWGua-Dm6ydUlDrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1535089529664999425/img/XWGua-Dm6ydUlDrP.jpg",
+					"url": "https://t.co/Em3jn76Ry4",
+					"display_url": "pic.twitter.com/Em3jn76Ry4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535094512884023296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58645,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1535089529664999425/vid/480x270/jyzS7a4oX-2BQj6g.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1535089529664999425/vid/1280x720/0XFCsoE8Km3L_2Tq.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1535089529664999425/vid/640x360/knwLHlqEkYuRs3Iz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1535089529664999425/pl/nMW9fD68ke8FPLfL.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10879733,
+			"friends_count": 56,
+			"listed_count": 12274,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2676,
+		"favorite_count": 7211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AUDITION : NCT PROJECT\n\n“Welcome to the NeoCiTy” \n\nApply Now!\nhttps://t.co/8wVBlGkFtb\n\n#WELCOME_TO_THE_NEOCITY\n#WELCOMETOTHENEOCITY\n#SMGLOBALAUDITION\n#SMAUDITION\n#SMENTERTAINMENT https://t.co/Em3jn76Ry4"
+	},
+	{
 		"created_at": "Fri Jun 10 03:15:43 +0000 2022",
 		"id": 1535098357470834700,
 		"id_str": "1535098357470834688",
