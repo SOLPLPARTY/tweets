@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 14:29:34 +0000 2022",
+		"id": 1535618721443881000,
+		"id_str": "1535630321860870144",
+		"full_text": "Future collaboration plans discussed include:\n-Creating a space in the #metaverse &amp; real physical world for young individuals of the world to enjoy\n-Opening #SMTOWN_LIVE in #SaudiArabia\n-Producing video contents &amp; festival events\n\n#이수만 #사우디팝 #S_Pop #Saudivision2030 #보아 https://t.co/cfrPFWKBlz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "metaverse",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "SaudiArabia",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "이수만",
+					"indices": [
+						239,
+						243
+					]
+				},
+				{
+					"text": "사우디팝",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "S_Pop",
+					"indices": [
+						250,
+						256
+					]
+				},
+				{
+					"text": "Saudivision2030",
+					"indices": [
+						257,
+						273
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						274,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535598467086975000,
+					"id_str": "1535598467086974977",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FU-Kq3xagAE7DO0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU-Kq3xagAE7DO0.jpg",
+					"url": "https://t.co/cfrPFWKBlz",
+					"display_url": "pic.twitter.com/cfrPFWKBlz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535618721443880960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535598467086975000,
+					"id_str": "1535598467086974977",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FU-Kq3xagAE7DO0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU-Kq3xagAE7DO0.jpg",
+					"url": "https://t.co/cfrPFWKBlz",
+					"display_url": "pic.twitter.com/cfrPFWKBlz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535618721443880960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535598467246346200,
+					"id_str": "1535598467246346240",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FU-Kq4XaUAA6SIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU-Kq4XaUAA6SIN.jpg",
+					"url": "https://t.co/cfrPFWKBlz",
+					"display_url": "pic.twitter.com/cfrPFWKBlz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535618721443880960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535598467384766500,
+					"id_str": "1535598467384766466",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FU-Kq44acAIn3uZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU-Kq44acAIn3uZ.jpg",
+					"url": "https://t.co/cfrPFWKBlz",
+					"display_url": "pic.twitter.com/cfrPFWKBlz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535618721443880960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535598467518955500,
+					"id_str": "1535598467518955521",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FU-Kq5YaAAEtvN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU-Kq5YaAAEtvN8.jpg",
+					"url": "https://t.co/cfrPFWKBlz",
+					"display_url": "pic.twitter.com/cfrPFWKBlz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1535618721443880960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1535618714514882600,
+		"in_reply_to_status_id_str": "1535618714514882561",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10883134,
+			"friends_count": 56,
+			"listed_count": 12271,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 1005,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Future collaboration plans discussed include:\n-Creating a space in the #metaverse &amp; real physical world for young individuals of the world to enjoy\n-Opening #SMTOWN_LIVE in #SaudiArabia\n-Producing video contents &amp; festival events\n\n#이수만 #사우디팝 #S_Pop #Saudivision2030 #보아 https://t.co/cfrPFWKBlz"
+	},
+	{
 		"created_at": "Sat Jun 11 13:29:28 +0000 2022",
 		"id": 1535607999720751000,
 		"id_str": "1535615200270876674",
