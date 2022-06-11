@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 09:29:36 +0000 2022",
+		"id": 1535546104590131200,
+		"id_str": "1535554833394151425",
+		"full_text": "노을진 한강🌆 돌아온 웃음😊 네온빛 음악\n2022 스마일러브위크엔드! 예매 시작!\n\n📌 예매 사이트 링크 모음 : https://t.co/aCU9r7DXq3\n\n#스마일러브위크엔드 #인디 #빛과소금 #김현철 #SUMIN #그_냥 #유키카 #레인보우노트 #모트 #우예린 #새벽공방 #eqwa https://t.co/TShEBHWdvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스마일러브위크엔드",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "빛과소금",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "김현철",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "SUMIN",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "그_냥",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "유키카",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "레인보우노트",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "우예린",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "새벽공방",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "eqwa",
+					"indices": [
+						155,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aCU9r7DXq3",
+					"expanded_url": "https://linktr.ee/smileloveweekend",
+					"display_url": "linktr.ee/smileloveweeke…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535545985241206800,
+					"id_str": "1535545985241206784",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535545985241206784/pu/img/UG83tmcXNZUnhthK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535545985241206784/pu/img/UG83tmcXNZUnhthK.jpg",
+					"url": "https://t.co/TShEBHWdvt",
+					"display_url": "pic.twitter.com/TShEBHWdvt",
+					"expanded_url": "https://twitter.com/ruby_records/status/1535546104590131200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535545985241206800,
+					"id_str": "1535545985241206784",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535545985241206784/pu/img/UG83tmcXNZUnhthK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535545985241206784/pu/img/UG83tmcXNZUnhthK.jpg",
+					"url": "https://t.co/TShEBHWdvt",
+					"display_url": "pic.twitter.com/TShEBHWdvt",
+					"expanded_url": "https://twitter.com/ruby_records/status/1535546104590131200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							203,
+							360
+						],
+						"duration_millis": 91668,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535545985241206784/pu/vid/406x720/W3wAxNM0egpovlmm.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535545985241206784/pu/vid/320x566/aZO1dB20N67rq4P2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1535545985241206784/pu/pl/7pYe8I-uuGaznEe8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7590,
+			"friends_count": 8220,
+			"listed_count": 195,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노을진 한강🌆 돌아온 웃음😊 네온빛 음악\n2022 스마일러브위크엔드! 예매 시작!\n\n📌 예매 사이트 링크 모음 : https://t.co/aCU9r7DXq3\n\n#스마일러브위크엔드 #인디 #빛과소금 #김현철 #SUMIN #그_냥 #유키카 #레인보우노트 #모트 #우예린 #새벽공방 #eqwa https://t.co/TShEBHWdvt"
+	},
+	{
+		"created_at": "Sat Jun 11 09:29:29 +0000 2022",
+		"id": 1535545192635199500,
+		"id_str": "1535554803576754176",
+		"full_text": "이틀간 펼쳐진 전통 판소리 갈라 시리즈 [바탕]의 고양 공연이 마무리 되었습니다. \n\n어제, 오늘 귀중한 발걸음을 해주신 관객분들께 진심으로 감사드리고, 7월 고양어울림누리에서 창작 판소리 갈라 시리즈 [작창]으로 또 뵙겠습니다!🙇🏻‍♀️\n\n#이자람 #바탕 #작창 #고양아람누리 #고양어울림누리 https://t.co/L51kf9XXzx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "바탕",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "작창",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "고양아람누리",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "고양어울림누리",
+					"indices": [
+						156,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535545170967806000,
+					"id_str": "1535545170967805952",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FU9aMoQaQAAIOZI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU9aMoQaQAAIOZI.jpg",
+					"url": "https://t.co/L51kf9XXzx",
+					"display_url": "pic.twitter.com/L51kf9XXzx",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1535545192635199489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535545170967806000,
+					"id_str": "1535545170967805952",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FU9aMoQaQAAIOZI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU9aMoQaQAAIOZI.jpg",
+					"url": "https://t.co/L51kf9XXzx",
+					"display_url": "pic.twitter.com/L51kf9XXzx",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1535545192635199489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535545170959429600,
+					"id_str": "1535545170959429632",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FU9aMoOacAAd93p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU9aMoOacAAd93p.jpg",
+					"url": "https://t.co/L51kf9XXzx",
+					"display_url": "pic.twitter.com/L51kf9XXzx",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1535545192635199489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535545170955235300,
+					"id_str": "1535545170955235328",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FU9aMoNacAAHtZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU9aMoNacAAHtZ1.jpg",
+					"url": "https://t.co/L51kf9XXzx",
+					"display_url": "pic.twitter.com/L51kf9XXzx",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1535545192635199489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1267,
+			"friends_count": 183,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이틀간 펼쳐진 전통 판소리 갈라 시리즈 [바탕]의 고양 공연이 마무리 되었습니다. \n\n어제, 오늘 귀중한 발걸음을 해주신 관객분들께 진심으로 감사드리고, 7월 고양어울림누리에서 창작 판소리 갈라 시리즈 [작창]으로 또 뵙겠습니다!🙇🏻‍♀️\n\n#이자람 #바탕 #작창 #고양아람누리 #고양어울림누리 https://t.co/L51kf9XXzx"
+	},
+	{
 		"created_at": "Sat Jun 11 08:06:02 +0000 2022",
 		"id": 1535533804709765000,
 		"id_str": "1535533804709765120",
