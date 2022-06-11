@@ -1,6 +1,117 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 11:29:33 +0000 2022",
+		"id": 1535573735843176400,
+		"id_str": "1535585023189032962",
+		"full_text": "🎼 #이진아 SET LIST\n▫️캔디 피아니스트\n▫️계단\n▫️별것도 아닌 일\n▫️시간아 천천히\n▫️람팜팜\n▫️냠냠냠\n\n🎼 #정승환 SET LIST\n▪️봄을 지나며\n▪️잘 지내요\n▪️안녕이란 말\n▪️연대기\n▪️너였다면",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이진아",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1535573731246248000,
+		"in_reply_to_status_id_str": "1535573731246247936",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40412,
+			"friends_count": 12,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎼 #이진아 SET LIST\n▫️캔디 피아니스트\n▫️계단\n▫️별것도 아닌 일\n▫️시간아 천천히\n▫️람팜팜\n▫️냠냠냠\n\n🎼 #정승환 SET LIST\n▪️봄을 지나며\n▪️잘 지내요\n▪️안녕이란 말\n▪️연대기\n▪️너였다면"
+	},
+	{
 		"created_at": "Sat Jun 11 10:29:24 +0000 2022",
 		"id": 1535562710892826600,
 		"id_str": "1535569885178302464",
