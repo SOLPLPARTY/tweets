@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 10:29:24 +0000 2022",
+		"id": 1535562710892826600,
+		"id_str": "1535569885178302464",
+		"full_text": "[#권혁수] [#애드리브싸이퍼]\n\n다우니 덕분에 모녀 사이도\n깨끗해진 거 같은데✨ #괜찮으시겠어요\n\n#권혁수감성 에서 영상도 보고\n특별한 혜택도 받고🎉\n\n👉 https://t.co/6CW3DE4Y3C\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #주현영 #다우니 https://t.co/Q07JxN8ZTJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "애드리브싸이퍼",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "괜찮으시겠어요",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"text": "주현영",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "다우니",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6CW3DE4Y3C",
+					"expanded_url": "https://youtu.be/I3S-wfRFVOQ",
+					"display_url": "youtu.be/I3S-wfRFVOQ",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535560917630746600,
+					"id_str": "1535560917630746625",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FU9ohNJagAEDGo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU9ohNJagAEDGo6.jpg",
+					"url": "https://t.co/Q07JxN8ZTJ",
+					"display_url": "pic.twitter.com/Q07JxN8ZTJ",
+					"expanded_url": "https://twitter.com/humap_official/status/1535562710892826624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535560917630746600,
+					"id_str": "1535560917630746625",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FU9ohNJagAEDGo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU9ohNJagAEDGo6.jpg",
+					"url": "https://t.co/Q07JxN8ZTJ",
+					"display_url": "pic.twitter.com/Q07JxN8ZTJ",
+					"expanded_url": "https://twitter.com/humap_official/status/1535562710892826624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#애드리브싸이퍼]\n\n다우니 덕분에 모녀 사이도\n깨끗해진 거 같은데✨ #괜찮으시겠어요\n\n#권혁수감성 에서 영상도 보고\n특별한 혜택도 받고🎉\n\n👉 https://t.co/6CW3DE4Y3C\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #주현영 #다우니 https://t.co/Q07JxN8ZTJ"
+	},
+	{
 		"created_at": "Sat Jun 11 09:29:36 +0000 2022",
 		"id": 1535546104590131200,
 		"id_str": "1535554833394151425",
@@ -300,7 +556,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Sat Jun 11 09:29:29 +0000 2022",
 		"id": 1535545192635199500,
 		"id_str": "1535554803576754176",
-		"full_text": "이틀간 펼쳐진 전통 판소리 갈라 시리즈 [바탕]의 고양 공연이 마무리 되었습니다. \n\n어제, 오늘 귀중한 발걸음을 해주신 관객분들께 진심으로 감사드리고, 7월 고양어울림누리에서 창작 판소리 갈라 시리즈 [작창]으로 또 뵙겠습니다!🙇🏻‍♀️\n\n#이자람 #바탕 #작창 #고양아람누리 #고양어울림누리 https://t.co/L51kf9XXzx",
+		"full_text": "이틀간 펼쳐진 전통 판소리 갈라 시리즈 [바탕]의 고양 공연이 마무리 되었습니다. \n\n어제, 오늘 귀중한 발걸음을 해주신 관객분들께 진심으로 감사드리고, 7월 고양어울림누리에서 창작 판소리 갈라 시리즈 [작창]으로 또 뵙겠습니다!🙇🏻♀️\n\n#이자람 #바탕 #작창 #고양아람누리 #고양어울림누리 https://t.co/L51kf9XXzx",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -563,7 +819,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "이틀간 펼쳐진 전통 판소리 갈라 시리즈 [바탕]의 고양 공연이 마무리 되었습니다. \n\n어제, 오늘 귀중한 발걸음을 해주신 관객분들께 진심으로 감사드리고, 7월 고양어울림누리에서 창작 판소리 갈라 시리즈 [작창]으로 또 뵙겠습니다!🙇🏻‍♀️\n\n#이자람 #바탕 #작창 #고양아람누리 #고양어울림누리 https://t.co/L51kf9XXzx"
+		"text": "이틀간 펼쳐진 전통 판소리 갈라 시리즈 [바탕]의 고양 공연이 마무리 되었습니다. \n\n어제, 오늘 귀중한 발걸음을 해주신 관객분들께 진심으로 감사드리고, 7월 고양어울림누리에서 창작 판소리 갈라 시리즈 [작창]으로 또 뵙겠습니다!🙇🏻♀️\n\n#이자람 #바탕 #작창 #고양아람누리 #고양어울림누리 https://t.co/L51kf9XXzx"
 	},
 	{
 		"created_at": "Sat Jun 11 08:06:02 +0000 2022",
