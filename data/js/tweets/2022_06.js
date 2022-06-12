@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 04:29:24 +0000 2022",
+		"id": 1535828667359670300,
+		"id_str": "1535841676425560064",
+		"full_text": "미주 님을 울렸다면...그것만으로도 충분ㅎ\n\n#놀면뭐하니 #미주 #wsg워너비 #놀뭐\n#정준일 #눈을감으면 https://t.co/EL4W7Wvcqw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀면뭐하니",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "wsg워너비",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"text": "놀뭐",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "정준일",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "눈을감으면",
+					"indices": [
+						53,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535828664486867000,
+					"id_str": "1535828664486866944",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVBcCH6aMAAS9Ct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVBcCH6aMAAS9Ct.jpg",
+					"url": "https://t.co/EL4W7Wvcqw",
+					"display_url": "pic.twitter.com/EL4W7Wvcqw",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1535828667359670272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 684,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535828664486867000,
+					"id_str": "1535828664486866944",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVBcCH6aMAAS9Ct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVBcCH6aMAAS9Ct.jpg",
+					"url": "https://t.co/EL4W7Wvcqw",
+					"display_url": "pic.twitter.com/EL4W7Wvcqw",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1535828667359670272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 684,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2594,
+			"friends_count": 320,
+			"listed_count": 29,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 22642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미주 님을 울렸다면...그것만으로도 충분ㅎ\n\n#놀면뭐하니 #미주 #wsg워너비 #놀뭐\n#정준일 #눈을감으면 https://t.co/EL4W7Wvcqw"
+	},
+	{
 		"created_at": "Sun Jun 12 04:11:16 +0000 2022",
 		"id": 1535830565030486000,
 		"id_str": "1535837112590794753",
