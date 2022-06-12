@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 10:11:16 +0000 2022",
+		"id": 1535924561384185900,
+		"id_str": "1535927709611835395",
+		"full_text": "이번주 금요일🙌\n[티키타카 콘서트 : 엔분의일]\n\n드디어 그들을 모두 파헤칠 수 있는 [티키타카 콘서트]\n\n‼️공연에 대한 자세한 내용은 @tikacon_ 으로‼️\n\n#프리즘홀 #prismhall #엔분의일 #단독공연 #티키타카콘서트 #티키타카 #멜론티켓 #홍대공연 #공연추천 https://t.co/7WqwATLa5p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "엔분의일",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "티키타카콘서트",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "티키타카",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535924549124235300,
+					"id_str": "1535924549124235264",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCzPWBaIAAzPD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCzPWBaIAAzPD4.jpg",
+					"url": "https://t.co/7WqwATLa5p",
+					"display_url": "pic.twitter.com/7WqwATLa5p",
+					"expanded_url": "https://twitter.com/prismhall/status/1535924561384185856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535924549124235300,
+					"id_str": "1535924549124235264",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCzPWBaIAAzPD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCzPWBaIAAzPD4.jpg",
+					"url": "https://t.co/7WqwATLa5p",
+					"display_url": "pic.twitter.com/7WqwATLa5p",
+					"expanded_url": "https://twitter.com/prismhall/status/1535924561384185856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 1117,
+			"listed_count": 29,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 금요일🙌\n[티키타카 콘서트 : 엔분의일]\n\n드디어 그들을 모두 파헤칠 수 있는 [티키타카 콘서트]\n\n‼️공연에 대한 자세한 내용은 @tikacon_ 으로‼️\n\n#프리즘홀 #prismhall #엔분의일 #단독공연 #티키타카콘서트 #티키타카 #멜론티켓 #홍대공연 #공연추천 https://t.co/7WqwATLa5p"
+	},
+	{
 		"created_at": "Sun Jun 12 09:03:11 +0000 2022",
 		"id": 1535910574428541000,
 		"id_str": "1535910574428540928",
