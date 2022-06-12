@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 04:11:16 +0000 2022",
+		"id": 1535830565030486000,
+		"id_str": "1535837112590794753",
+		"full_text": "재미공작소 이세미가 앨범 커버 디자인, A&amp;R 등으로 참여하고 있는 빅이슈프로젝트의 새 싱글 [나무가 된 사람들]이 발매되었습니다.  \n많이 많이 들어주세요! https://t.co/UhXSf0mCKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UhXSf0mCKr",
+					"expanded_url": "https://twitter.com/bigissuemusic/status/1535094905629880321",
+					"display_url": "twitter.com/bigissuemusic/…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8401,
+			"friends_count": 557,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535094905629880300,
+		"quoted_status_id_str": "1535094905629880321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UhXSf0mCKr",
+			"expanded": "https://twitter.com/bigissuemusic/status/1535094905629880321",
+			"display": "twitter.com/bigissuemusic/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 10 03:02:00 +0000 2022",
+			"id": 1535094905629880300,
+			"id_str": "1535094905629880321",
+			"full_text": "📣빅이슈프로젝트의 새 싱글 [나무가 된 사람들]이 발매되었습니다! 각종 음원 사이트를 통해 감상하실 수 있습니다. https://t.co/yaGBldm5DG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1535094405450739700,
+						"id_str": "1535094405450739712",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/FU3AOn2UsAACNCN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU3AOn2UsAACNCN.jpg",
+						"url": "https://t.co/yaGBldm5DG",
+						"display_url": "pic.twitter.com/yaGBldm5DG",
+						"expanded_url": "https://twitter.com/bigissuemusic/status/1535094905629880321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1535094405450739700,
+						"id_str": "1535094405450739712",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/FU3AOn2UsAACNCN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU3AOn2UsAACNCN.jpg",
+						"url": "https://t.co/yaGBldm5DG",
+						"display_url": "pic.twitter.com/yaGBldm5DG",
+						"expanded_url": "https://twitter.com/bigissuemusic/status/1535094905629880321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1418460278912548900,
+				"id_str": "1418460278912548864",
+				"name": "빅이슈프로젝트",
+				"screen_name": "bigissuemusic",
+				"location": "",
+				"description": "사회적 이슈를 노래로 부르는 프로젝트팀\n빅(베이비드라이버) @bigbabydriver +이(주영) @drrkmaker +슈(퍼스타)로부터 시작, 다양한 ‘우리’와 함께합니다.   \n2022.6.10  【나무가 된 사람들】 발매 \nbigissueandmusic@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121,
+				"friends_count": 8,
+				"listed_count": 1,
+				"created_at": "Fri Jul 23 06:37:52 +0000 2021",
+				"favourites_count": 17,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 172,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1531927889351847937/PN8-sXaR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531927889351847937/PN8-sXaR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1418460278912548864/1627607854",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미공작소 이세미가 앨범 커버 디자인, A&amp;R 등으로 참여하고 있는 빅이슈프로젝트의 새 싱글 [나무가 된 사람들]이 발매되었습니다.  \n많이 많이 들어주세요! https://t.co/UhXSf0mCKr"
+	},
+	{
 		"created_at": "Sun Jun 12 03:13:06 +0000 2022",
 		"id": 1535822472721109000,
 		"id_str": "1535822472721108992",
