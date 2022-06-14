@@ -1,6 +1,1087 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 10:11:16 +0000 2022",
+		"id": 1536642628636225500,
+		"id_str": "1536652485359804416",
+		"full_text": "[김승일·김하늬의 N사분기 : 2022년 2사분기 편] 2022.06.30(목) PM 8:00 https://t.co/rtioDAAuWz https://t.co/1VL6DTIPo7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rtioDAAuWz",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222771065397",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536642617391186000,
+					"id_str": "1536642617391185920",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNAUaxUAAAtW-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNAUaxUAAAtW-6.jpg",
+					"url": "https://t.co/1VL6DTIPo7",
+					"display_url": "pic.twitter.com/1VL6DTIPo7",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1536642628636225536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536642617391186000,
+					"id_str": "1536642617391185920",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNAUaxUAAAtW-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNAUaxUAAAtW-6.jpg",
+					"url": "https://t.co/1VL6DTIPo7",
+					"display_url": "pic.twitter.com/1VL6DTIPo7",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1536642628636225536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8401,
+			"friends_count": 556,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김승일·김하늬의 N사분기 : 2022년 2사분기 편] 2022.06.30(목) PM 8:00 https://t.co/rtioDAAuWz https://t.co/1VL6DTIPo7"
+	},
+	{
+		"created_at": "Tue Jun 14 09:32:30 +0000 2022",
+		"id": 1536641414997876700,
+		"id_str": "1536642727835729920",
+		"full_text": "💿NEW MUSIC TODAY💿\n“서인국 - MY LOVE (Feat. RAVI)”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/Gqei0aQvaN\n▶️ https://t.co/OroU52uvL4\n\n#warnermusic #warnerkpop #KPOP #서인국 #SeoInGuk #라비 #RAVI #MYLOVE #LOVEandLOVE #COMEBACK @Whatsup_Inguk @RAVI_GTCK https://t.co/kg1KSDoHV0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "서인국",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "SeoInGuk",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "라비",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "MYLOVE",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "LOVEandLOVE",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Whatsup_Inguk",
+					"name": "서인국 (SEO IN GUK)",
+					"id": 1127465964,
+					"id_str": "1127465964",
+					"indices": [
+						212,
+						226
+					]
+				},
+				{
+					"screen_name": "RAVI_GTCK",
+					"name": "RAVI / 라비",
+					"id": 524138951,
+					"id_str": "524138951",
+					"indices": [
+						227,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gqei0aQvaN",
+					"expanded_url": "https://ada.lnk.to/loveandlove",
+					"display_url": "ada.lnk.to/loveandlove",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/OroU52uvL4",
+					"expanded_url": "https://youtu.be/shAehLy1T1I",
+					"display_url": "youtu.be/shAehLy1T1I",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536641351630344200,
+					"id_str": "1536641351630344192",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536641351630344192/pu/img/v2U44pGRXxEMAh4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536641351630344192/pu/img/v2U44pGRXxEMAh4y.jpg",
+					"url": "https://t.co/kg1KSDoHV0",
+					"display_url": "pic.twitter.com/kg1KSDoHV0",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1536641414997876739/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536641351630344200,
+					"id_str": "1536641351630344192",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536641351630344192/pu/img/v2U44pGRXxEMAh4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536641351630344192/pu/img/v2U44pGRXxEMAh4y.jpg",
+					"url": "https://t.co/kg1KSDoHV0",
+					"display_url": "pic.twitter.com/kg1KSDoHV0",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1536641414997876739/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44976,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536641351630344192/pu/vid/720x720/EzIg8MBh6vpmmoIL.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1536641351630344192/pu/pl/wI60QiooDHJjmXdK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536641351630344192/pu/vid/320x320/1pIdDynwti8xhd5t.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536641351630344192/pu/vid/540x540/I63qnMp1u3ZwLQFD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86297,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“서인국 - MY LOVE (Feat. RAVI)”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/Gqei0aQvaN\n▶️ https://t.co/OroU52uvL4\n\n#warnermusic #warnerkpop #KPOP #서인국 #SeoInGuk #라비 #RAVI #MYLOVE #LOVEandLOVE #COMEBACK @Whatsup_Inguk @RAVI_GTCK https://t.co/kg1KSDoHV0"
+	},
+	{
+		"created_at": "Tue Jun 14 09:32:24 +0000 2022",
+		"id": 1536634550154977300,
+		"id_str": "1536642702065926147",
+		"full_text": "DRIPPIN(드리핀) 'ZERO' MV TEASER #2\n\n2022.06.15 6PM (KST)\n\nhttps://t.co/aXXL2GPVMF\nhttps://t.co/Jqtzz1QwNI\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/xLnZpJdWzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "Villain_ZERO",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "ZERO",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aXXL2GPVMF",
+					"expanded_url": "https://youtu.be/anAxF0HwAbc",
+					"display_url": "youtu.be/anAxF0HwAbc",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/Jqtzz1QwNI",
+					"expanded_url": "https://www.vlive.tv/video/285543",
+					"display_url": "vlive.tv/video/285543",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536626812758872000,
+					"id_str": "1536626812758872064",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1536626812758872064/img/D0Hgpr6z97lBc8Yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1536626812758872064/img/D0Hgpr6z97lBc8Yi.jpg",
+					"url": "https://t.co/xLnZpJdWzk",
+					"display_url": "pic.twitter.com/xLnZpJdWzk",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1536634550154977280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536626812758872000,
+					"id_str": "1536626812758872064",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1536626812758872064/img/D0Hgpr6z97lBc8Yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1536626812758872064/img/D0Hgpr6z97lBc8Yi.jpg",
+					"url": "https://t.co/xLnZpJdWzk",
+					"display_url": "pic.twitter.com/xLnZpJdWzk",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1536634550154977280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9024,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1536626812758872064/pl/hFOsmOVqROHxPIF-.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536626812758872064/vid/480x270/9nsAUGB57piaAyUC.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536626812758872064/vid/1280x720/0K-VG-xDwVa6y6wA.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536626812758872064/vid/640x360/hcbkJFC4GXENG9jL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422922,
+			"friends_count": 12,
+			"listed_count": 1882,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1654249757",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DRIPPIN(드리핀) 'ZERO' MV TEASER #2\n\n2022.06.15 6PM (KST)\n\nhttps://t.co/aXXL2GPVMF\nhttps://t.co/Jqtzz1QwNI\n\n#DRIPPIN #드리핀\n#Villain_ZERO #ZERO https://t.co/xLnZpJdWzk"
+	},
+	{
+		"created_at": "Tue Jun 14 09:32:21 +0000 2022",
+		"id": 1536634548045291500,
+		"id_str": "1536642689013366786",
+		"full_text": "보라미유와 다시 한번 떠나보는 감성여행💜 어촌의 낭만적인 바다와 아름다운 보라미유의 노래가 어우러진 &lt;감성숙박 시즌2&gt; 예고편이 공개되었습니다! 지금 바로 바다여행 TV 유튜브 채널에서 만나보세요!🤗\n\n▷ https://t.co/SIQXAyt9bT\n\n#보라미유 #감성숙박 #바다여행\n#BORAMIYU #어촌체험휴양마을",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "감성숙박",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "바다여행",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "어촌체험휴양마을",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SIQXAyt9bT",
+					"expanded_url": "https://youtu.be/UcGbcttCAS8",
+					"display_url": "youtu.be/UcGbcttCAS8",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7699,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1653040493",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보라미유와 다시 한번 떠나보는 감성여행💜 어촌의 낭만적인 바다와 아름다운 보라미유의 노래가 어우러진 &lt;감성숙박 시즌2&gt; 예고편이 공개되었습니다! 지금 바로 바다여행 TV 유튜브 채널에서 만나보세요!🤗\n\n▷ https://t.co/SIQXAyt9bT\n\n#보라미유 #감성숙박 #바다여행\n#BORAMIYU #어촌체험휴양마을"
+	},
+	{
+		"created_at": "Tue Jun 14 09:32:12 +0000 2022",
+		"id": 1536629508509683700,
+		"id_str": "1536642650807451649",
+		"full_text": "제 개인이 저지른 일로 차질을 빚게 된 제작진 여러분들에게 사과의 말씀을 드립니다.\n그리고 오랜만에 나오는 음악을 기다리셨을 분들에게\n불편함과 실망을 끼쳐드려 다시 한번 죄송하다는 말씀을 드립니다.\n\n유희열",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1536629506538356700,
+		"in_reply_to_status_id_str": "1536629506538356736",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40437,
+			"friends_count": 12,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제 개인이 저지른 일로 차질을 빚게 된 제작진 여러분들에게 사과의 말씀을 드립니다.\n그리고 오랜만에 나오는 음악을 기다리셨을 분들에게\n불편함과 실망을 끼쳐드려 다시 한번 죄송하다는 말씀을 드립니다.\n\n유희열"
+	},
+	{
+		"created_at": "Tue Jun 14 09:32:04 +0000 2022",
+		"id": 1536629506538356700,
+		"id_str": "1536642620994293761",
+		"full_text": "우선 LP 발매를 연기하였고 Sakamoto 측과의 연락을 통해 크레딧 및 저작권 관련 문제를 정리하겠습니다.\nLP 예약구매자 분들께는 별도 안내드릴 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1536629504420225000,
+		"in_reply_to_status_id_str": "1536629504420225025",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40437,
+			"friends_count": 12,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우선 LP 발매를 연기하였고 Sakamoto 측과의 연락을 통해 크레딧 및 저작권 관련 문제를 정리하겠습니다.\nLP 예약구매자 분들께는 별도 안내드릴 예정입니다."
+	},
+	{
 		"created_at": "Tue Jun 14 09:13:54 +0000 2022",
 		"id": 1536638047210483700,
 		"id_str": "1536638047210483712",
