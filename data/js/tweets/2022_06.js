@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 06:29:33 +0000 2022",
+		"id": 1536584728366592000,
+		"id_str": "1536596685228482560",
+		"full_text": "이수만 총괄 프로듀서-바데르 사우디 문화부 장관 만남에 사우디 현지 신문 1면 대대적 보도!\n사우디 저명 일간지 알 마디나, “사우디 문화 산업 발전 위해 SM과 사우디 문화부 공동 협력 강화\"\n\nhttps://t.co/tPTuEVfCvK\n\n#LEESOOMAN\n#SM #SMTOWN #SMentertainment",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEESOOMAN",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "SM",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "SMentertainment",
+					"indices": [
+						158,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tPTuEVfCvK",
+					"expanded_url": "https://lrl.kr/b66A",
+					"display_url": "lrl.kr/b66A",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1536584545146839000,
+		"in_reply_to_status_id_str": "1536584545146839042",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10889331,
+			"friends_count": 56,
+			"listed_count": 12275,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이수만 총괄 프로듀서-바데르 사우디 문화부 장관 만남에 사우디 현지 신문 1면 대대적 보도!\n사우디 저명 일간지 알 마디나, “사우디 문화 산업 발전 위해 SM과 사우디 문화부 공동 협력 강화\"\n\nhttps://t.co/tPTuEVfCvK\n\n#LEESOOMAN\n#SM #SMTOWN #SMentertainment"
+	},
+	{
 		"created_at": "Tue Jun 14 05:29:36 +0000 2022",
 		"id": 1536576358188732400,
 		"id_str": "1536581599575396352",
