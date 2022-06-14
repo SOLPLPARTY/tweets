@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 04:11:26 +0000 2022",
+		"id": 1536556902758621200,
+		"id_str": "1536561927450726400",
+		"full_text": "수중세계의 아름다움처럼\n온전히 몰두할 때 더욱 특별해지는\n그들의 음악에 맞춰\n몸이 가는대로\n마음이 가는대로\n복잡한 생각들은 잠깐 내려둔 채\n\n함께 노래하고\n함께 춤추며\n함께, \nDeep dive\n\n[공연정보]\nSeoul.\nhttps://t.co/YbCo5kh4B8\nBusan.\nhttps://t.co/ecH8AturDZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YbCo5kh4B8",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6200",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/ecH8AturDZ",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6201",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1536555500011417600,
+		"in_reply_to_status_id_str": "1536555500011417602",
+		"in_reply_to_user_id": 333941242,
+		"in_reply_to_user_id_str": "333941242",
+		"in_reply_to_screen_name": "ssLiveHall",
+		"user": {
+			"id": 333941242,
+			"id_str": "333941242",
+			"name": "KT&G 상상마당 라이브홀",
+			"screen_name": "ssLiveHall",
+			"location": "37.5509155,126.9210433",
+			"description": "상상마당 지하 2층에 서식중입니다. 라이브홀에서 진행되는 모든 공연에 관한 문의 환영! 홍대 주변 날씨, 맛집 등 온갖 문의 환영!",
+			"url": "https://t.co/laYCcDbsAQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/laYCcDbsAQ",
+							"expanded_url": "http://www.sangsangmadang.com/livehall",
+							"display_url": "sangsangmadang.com/livehall",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5781,
+			"friends_count": 2508,
+			"listed_count": 79,
+			"created_at": "Tue Jul 12 09:59:42 +0000 2011",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E1C6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333941242/1440833687",
+			"profile_link_color": "ABB8AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "192638",
+			"profile_text_color": "5F7D7E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수중세계의 아름다움처럼\n온전히 몰두할 때 더욱 특별해지는\n그들의 음악에 맞춰\n몸이 가는대로\n마음이 가는대로\n복잡한 생각들은 잠깐 내려둔 채\n\n함께 노래하고\n함께 춤추며\n함께, \nDeep dive\n\n[공연정보]\nSeoul.\nhttps://t.co/YbCo5kh4B8\nBusan.\nhttps://t.co/ecH8AturDZ"
+	},
+	{
 		"created_at": "Tue Jun 14 03:11:17 +0000 2022",
 		"id": 1536544667977666600,
 		"id_str": "1536546790077521921",
