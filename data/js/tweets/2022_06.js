@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 01:11:16 +0000 2022",
+		"id": 1536504335378808800,
+		"id_str": "1536516589713076224",
+		"full_text": "이번주 클럽빵 공연일정입니다 \n#피움 #신잔디 #조만규 #벨루가 #더글라스 #아시아닉 #13칠드런 #하프더즌 #이디어츠 #피스쿼드 #서이버파크게임랜드 #윈터폴 #본 #밴드넘버나인 #곽주나 #민수홍 #성해빈 #레코다메 #클럽빵 #홍대앞 #인디 #라이브클럽 https://t.co/VsrnmxCtdQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "피움",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "신잔디",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "조만규",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "벨루가",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "더글라스",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "아시아닉",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "13칠드런",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "하프더즌",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "이디어츠",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "피스쿼드",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "서이버파크게임랜드",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "윈터폴",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "본",
+					"indices": [
+						89,
+						91
+					]
+				},
+				{
+					"text": "밴드넘버나인",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "곽주나",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "성해빈",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "레코다메",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "홍대앞",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "라이브클럽",
+					"indices": [
+						135,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536504321051074600,
+					"id_str": "1536504321051074560",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FVLCigwaIAAF41x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVLCigwaIAAF41x.jpg",
+					"url": "https://t.co/VsrnmxCtdQ",
+					"display_url": "pic.twitter.com/VsrnmxCtdQ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1536504335378808832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536504321051074600,
+					"id_str": "1536504321051074560",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FVLCigwaIAAF41x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVLCigwaIAAF41x.jpg",
+					"url": "https://t.co/VsrnmxCtdQ",
+					"display_url": "pic.twitter.com/VsrnmxCtdQ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1536504335378808832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 906,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 클럽빵 공연일정입니다 \n#피움 #신잔디 #조만규 #벨루가 #더글라스 #아시아닉 #13칠드런 #하프더즌 #이디어츠 #피스쿼드 #서이버파크게임랜드 #윈터폴 #본 #밴드넘버나인 #곽주나 #민수홍 #성해빈 #레코다메 #클럽빵 #홍대앞 #인디 #라이브클럽 https://t.co/VsrnmxCtdQ"
+	},
+	{
+		"created_at": "Tue Jun 14 00:29:33 +0000 2022",
+		"id": 1536491133815357400,
+		"id_str": "1536506089042329600",
+		"full_text": "일시 : 2022년 11월 12일 토요일 7PM\n장소 : 홍대 롤링홀\n가격 : 전석 스탠딩 66,000 원\n관람 시간: 120분 (오프닝 아티스트 포함)\n예매: 인터파크\n예매오픈: 2022년 06월 21일 화요일 8PM\n\nhttps://t.co/jJ02yBCstw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jJ02yBCstw",
+					"expanded_url": "https://www.highjinkx.com/big-thief",
+					"display_url": "highjinkx.com/big-thief",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1536491129587531800,
+		"in_reply_to_status_id_str": "1536491129587531776",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일시 : 2022년 11월 12일 토요일 7PM\n장소 : 홍대 롤링홀\n가격 : 전석 스탠딩 66,000 원\n관람 시간: 120분 (오프닝 아티스트 포함)\n예매: 인터파크\n예매오픈: 2022년 06월 21일 화요일 8PM\n\nhttps://t.co/jJ02yBCstw"
+	},
+	{
 		"created_at": "Mon Jun 13 23:58:22 +0000 2022",
 		"id": 1536492060211318800,
 		"id_str": "1536498241210138625",
