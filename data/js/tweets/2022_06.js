@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 15 14:11:16 +0000 2022",
+		"id": 1537061035101737000,
+		"id_str": "1537075271756652544",
+		"full_text": "이번주 목금토일 클럽FF 공연일정! \n\n6/16 (목) 7:30pm : 급한노새,앨리스,강거루,블루진\n\n6/17 (금) 7:30pm : 키아로,홀린,티치,울\n\n6/18 (토) 7pm : 아톰뮤직하트,에이치얼랏,김바다,아시안체어샷\n\n6/19 (일) 4pm : 안녕바다  단독공연 (미국 투어 전 출정식) https://t.co/h0KccIgbI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537061021734432800,
+					"id_str": "1537061021734432768",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVS82waUcAAVLyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVS82waUcAAVLyK.jpg",
+					"url": "https://t.co/h0KccIgbI4",
+					"display_url": "pic.twitter.com/h0KccIgbI4",
+					"expanded_url": "https://twitter.com/clubFF_/status/1537061035101736960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537061021734432800,
+					"id_str": "1537061021734432768",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVS82waUcAAVLyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVS82waUcAAVLyK.jpg",
+					"url": "https://t.co/h0KccIgbI4",
+					"display_url": "pic.twitter.com/h0KccIgbI4",
+					"expanded_url": "https://twitter.com/clubFF_/status/1537061035101736960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537061021721821200,
+					"id_str": "1537061021721821184",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVS82wXUAAATr4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVS82wXUAAATr4d.jpg",
+					"url": "https://t.co/h0KccIgbI4",
+					"display_url": "pic.twitter.com/h0KccIgbI4",
+					"expanded_url": "https://twitter.com/clubFF_/status/1537061035101736960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537061021747015700,
+					"id_str": "1537061021747015681",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVS82wdUcAERvXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVS82wdUcAERvXc.jpg",
+					"url": "https://t.co/h0KccIgbI4",
+					"display_url": "pic.twitter.com/h0KccIgbI4",
+					"expanded_url": "https://twitter.com/clubFF_/status/1537061035101736960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537061021726015500,
+					"id_str": "1537061021726015494",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVS82wYUAAYYJ7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVS82wYUAAYYJ7e.jpg",
+					"url": "https://t.co/h0KccIgbI4",
+					"display_url": "pic.twitter.com/h0KccIgbI4",
+					"expanded_url": "https://twitter.com/clubFF_/status/1537061035101736960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6126,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 목금토일 클럽FF 공연일정! \n\n6/16 (목) 7:30pm : 급한노새,앨리스,강거루,블루진\n\n6/17 (금) 7:30pm : 키아로,홀린,티치,울\n\n6/18 (토) 7pm : 아톰뮤직하트,에이치얼랏,김바다,아시안체어샷\n\n6/19 (일) 4pm : 안녕바다  단독공연 (미국 투어 전 출정식) https://t.co/h0KccIgbI4"
+	},
+	{
+		"created_at": "Wed Jun 15 13:29:34 +0000 2022",
+		"id": 1537058239392944000,
+		"id_str": "1537064774520950785",
+		"full_text": "01. 사뿐\n02. 믿어\n03. 네가 온다\n04. Day &amp; Night\n05. 다시, 봄\n06. 자꾸만 반대로 돼\n07. 안녕이란 말\n08. 그러니까\n09. 너의 여행 (With 정승환)\n10. 푸르른 계절도 내겐 의미 없어요\n11. 이 바보야\n12. 숲으로 걷는다\n13. 오뚝이\n14. 제자리\n15. 봄을 지나며",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1537058234053574700,
+		"in_reply_to_status_id_str": "1537058234053574656",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40508,
+			"friends_count": 12,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "01. 사뿐\n02. 믿어\n03. 네가 온다\n04. Day &amp; Night\n05. 다시, 봄\n06. 자꾸만 반대로 돼\n07. 안녕이란 말\n08. 그러니까\n09. 너의 여행 (With 정승환)\n10. 푸르른 계절도 내겐 의미 없어요\n11. 이 바보야\n12. 숲으로 걷는다\n13. 오뚝이\n14. 제자리\n15. 봄을 지나며"
+	},
+	{
 		"created_at": "Wed Jun 15 12:29:25 +0000 2022",
 		"id": 1537042581078564900,
 		"id_str": "1537049636803862530",
