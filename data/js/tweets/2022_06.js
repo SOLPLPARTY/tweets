@@ -1,6 +1,1083 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 15 09:29:51 +0000 2022",
+		"id": 1537003726824566800,
+		"id_str": "1537004449738153985",
+		"full_text": "유어썸머 6월 셋째 주 스케줄💌\n\n6/15 (수)\n[랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n6/16 (목)\n[오지은] EBS 오디오e지식 &lt;이런 나라도 떠나고 싶다&gt;\n-\n6/18 (토) @ 상상마당 부산\n[너드커넥션] SUPERNOVA! 부산: 너드커넥션 단독 공연\n\n#랄라스윗 #오지은 #너드커넥션 #유어썸머 #스케줄 https://t.co/Gs0wxeN4M5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						191,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537003715290611700,
+					"id_str": "1537003715290611713",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FVSIvFRaQAEh9UX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVSIvFRaQAEh9UX.jpg",
+					"url": "https://t.co/Gs0wxeN4M5",
+					"display_url": "pic.twitter.com/Gs0wxeN4M5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1537003726824566790/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537003715290611700,
+					"id_str": "1537003715290611713",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FVSIvFRaQAEh9UX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVSIvFRaQAEh9UX.jpg",
+					"url": "https://t.co/Gs0wxeN4M5",
+					"display_url": "pic.twitter.com/Gs0wxeN4M5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1537003726824566790/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2246,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유어썸머 6월 셋째 주 스케줄💌\n\n6/15 (수)\n[랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n6/16 (목)\n[오지은] EBS 오디오e지식 &lt;이런 나라도 떠나고 싶다&gt;\n-\n6/18 (토) @ 상상마당 부산\n[너드커넥션] SUPERNOVA! 부산: 너드커넥션 단독 공연\n\n#랄라스윗 #오지은 #너드커넥션 #유어썸머 #스케줄 https://t.co/Gs0wxeN4M5"
+	},
+	{
+		"created_at": "Wed Jun 15 09:29:45 +0000 2022",
+		"id": 1536998900179292200,
+		"id_str": "1537004424119336961",
+		"full_text": "[VIDEO] [#권혁수] #이마트24\n\n먹방대결🔥 국민간식 알도넛 대결🥚 현금 20만원 vs 세상 커여운 굿즈\n\n👉 https://t.co/O3A6B6AQUl\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #emart24 #스트릿먹빵콘테스트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "이마트24",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"text": "emart24",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "스트릿먹빵콘테스트",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O3A6B6AQUl",
+					"expanded_url": "https://youtu.be/GubTPZ0vYvw",
+					"display_url": "youtu.be/GubTPZ0vYvw",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #이마트24\n\n먹방대결🔥 국민간식 알도넛 대결🥚 현금 20만원 vs 세상 커여운 굿즈\n\n👉 https://t.co/O3A6B6AQUl\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #emart24 #스트릿먹빵콘테스트"
+	},
+	{
+		"created_at": "Wed Jun 15 09:29:37 +0000 2022",
+		"id": 1536997092534939600,
+		"id_str": "1537004389998555136",
+		"full_text": "[#이적]\n세상에서 가장 조용한 CM송🍦\n[부라보콘 X 이적, 이영현, 정은지]\n\nFull Ver. 🔗 https://t.co/VVpEvwrpmj\n\n@jucklee #이적 #LeeJuck\n#해태아이스크림 #부라보콘 #AD https://t.co/rUK64E1D3e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이적",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "LeeJuck",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "해태아이스크림",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "부라보콘",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "AD",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VVpEvwrpmj",
+					"expanded_url": "https://youtu.be/X5XNnDe6BA4",
+					"display_url": "youtu.be/X5XNnDe6BA4",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536997083731103700,
+					"id_str": "1536997083731103744",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FVSCtEyakAAgBw8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVSCtEyakAAgBw8.jpg",
+					"url": "https://t.co/rUK64E1D3e",
+					"display_url": "pic.twitter.com/rUK64E1D3e",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1536997092534939648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536997083731103700,
+					"id_str": "1536997083731103744",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FVSCtEyakAAgBw8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVSCtEyakAAgBw8.jpg",
+					"url": "https://t.co/rUK64E1D3e",
+					"display_url": "pic.twitter.com/rUK64E1D3e",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1536997092534939648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8999,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이적]\n세상에서 가장 조용한 CM송🍦\n[부라보콘 X 이적, 이영현, 정은지]\n\nFull Ver. 🔗 https://t.co/VVpEvwrpmj\n\n@jucklee #이적 #LeeJuck\n#해태아이스크림 #부라보콘 #AD https://t.co/rUK64E1D3e"
+	},
+	{
+		"created_at": "Wed Jun 15 09:29:29 +0000 2022",
+		"id": 1536996943284408300,
+		"id_str": "1537004355819393024",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27 / 2022.8.28\nTOKYO DOME\nCHEN of EXO Comment　➤\n \n#CHEN #EXO #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/dYeezT0o1A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHEN",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						119,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536668678401724400,
+					"id_str": "1536668678401724417",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNYhNLacAEPv9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNYhNLacAEPv9r.jpg",
+					"url": "https://t.co/dYeezT0o1A",
+					"display_url": "pic.twitter.com/dYeezT0o1A",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1536996943284408321/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536668678401724400,
+					"id_str": "1536668678401724417",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNYhNLacAEPv9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNYhNLacAEPv9r.jpg",
+					"url": "https://t.co/dYeezT0o1A",
+					"display_url": "pic.twitter.com/dYeezT0o1A",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1536996943284408321/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23023,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536668678401724417/vid/1280x720/mMC78uMFIn0EZtcN.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1536668678401724417/pl/Ib7ITkQk7gX28KvY.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536668678401724417/vid/640x360/VFl4SYw_dkc3k-U3.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536668678401724417/vid/480x270/Nw34vi4DuleUPBBL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10892542,
+			"friends_count": 56,
+			"listed_count": 12281,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10853,
+		"favorite_count": 21808,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27 / 2022.8.28\nTOKYO DOME\nCHEN of EXO Comment　➤\n \n#CHEN #EXO #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/dYeezT0o1A"
+	},
+	{
+		"created_at": "Wed Jun 15 09:29:27 +0000 2022",
+		"id": 1536996939857797000,
+		"id_str": "1537004346944245764",
+		"full_text": "[Notice]\n⠀\n2022 보라미유 단독 콘서트 'Feeling' 인사 영상\n▷ https://t.co/X10T0KGDjy\n⠀\n/\n🍋 Concert\n2022.07.23 6PM\n2022.07.24 5PM\n@웨스트브릿지 라이브홀\n⠀\n🍋 Ticket\n티켓링크 ▷ https://t.co/agJjDwNn2h\n\n#BORAMIYU #보라미유 #Feeling #단독콘서트 https://t.co/vNBwe9U02G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "보라미유",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "Feeling",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						195,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X10T0KGDjy",
+					"expanded_url": "https://youtu.be/9ueXWXkfyhk",
+					"display_url": "youtu.be/9ueXWXkfyhk",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/agJjDwNn2h",
+					"expanded_url": "http://www.ticketlink.co.kr/product/38765",
+					"display_url": "ticketlink.co.kr/product/38765",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536946289778098200,
+					"id_str": "1536946289778098176",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FVRUgekUAAABErL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVRUgekUAAABErL.jpg",
+					"url": "https://t.co/vNBwe9U02G",
+					"display_url": "pic.twitter.com/vNBwe9U02G",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1536996939857797120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536946289778098200,
+					"id_str": "1536946289778098176",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FVRUgekUAAABErL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVRUgekUAAABErL.jpg",
+					"url": "https://t.co/vNBwe9U02G",
+					"display_url": "pic.twitter.com/vNBwe9U02G",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1536996939857797120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7698,
+			"friends_count": 5,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1653040493",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Notice]\n⠀\n2022 보라미유 단독 콘서트 'Feeling' 인사 영상\n▷ https://t.co/X10T0KGDjy\n⠀\n/\n🍋 Concert\n2022.07.23 6PM\n2022.07.24 5PM\n@웨스트브릿지 라이브홀\n⠀\n🍋 Ticket\n티켓링크 ▷ https://t.co/agJjDwNn2h\n\n#BORAMIYU #보라미유 #Feeling #단독콘서트 https://t.co/vNBwe9U02G"
+	},
+	{
 		"created_at": "Wed Jun 15 09:15:54 +0000 2022",
 		"id": 1537000940066046000,
 		"id_str": "1537000940066045954",
