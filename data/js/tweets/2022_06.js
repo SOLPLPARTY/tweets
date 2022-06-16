@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 13:11:16 +0000 2022",
+		"id": 1537419734412447700,
+		"id_str": "1537422559808978946",
+		"full_text": "📢 6/17 공연 현장 안내\n⠀\n&lt;맥거핀 단독 콘서트 '21st Century M'&gt;\n· 티켓수령 : 7시 (현장구매 가능)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 맥거핀\n⠀\n#롤링홀 #ROLLINGHALL\n#맥거핀 #단독콘서트 #21stCenturyM\n#홍대 #공연 #인디 #멜론티켓 https://t.co/m06G9zJUKo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "맥거핀",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "21stCenturyM",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535896228080550000,
+					"id_str": "1535896228080549888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCZe16agAA2OBy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCZe16agAA2OBy.jpg",
+					"url": "https://t.co/m06G9zJUKo",
+					"display_url": "pic.twitter.com/m06G9zJUKo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1537419734412447745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535896228080550000,
+					"id_str": "1535896228080549888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCZe16agAA2OBy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCZe16agAA2OBy.jpg",
+					"url": "https://t.co/m06G9zJUKo",
+					"display_url": "pic.twitter.com/m06G9zJUKo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1537419734412447745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535896240772493300,
+					"id_str": "1535896240772493312",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCZflMaMAAgd-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCZflMaMAAgd-L.jpg",
+					"url": "https://t.co/m06G9zJUKo",
+					"display_url": "pic.twitter.com/m06G9zJUKo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1537419734412447745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 6/17 공연 현장 안내\n⠀\n&lt;맥거핀 단독 콘서트 '21st Century M'&gt;\n· 티켓수령 : 7시 (현장구매 가능)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 맥거핀\n⠀\n#롤링홀 #ROLLINGHALL\n#맥거핀 #단독콘서트 #21stCenturyM\n#홍대 #공연 #인디 #멜론티켓 https://t.co/m06G9zJUKo"
+	},
+	{
 		"created_at": "Thu Jun 16 11:29:25 +0000 2022",
 		"id": 1537389523344056300,
 		"id_str": "1537396925502304256",
