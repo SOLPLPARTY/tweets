@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 13:11:20 +0000 2022",
+		"id": 1537782123158900700,
+		"id_str": "1537784961566130178",
+		"full_text": "📢 6/18 공연 현장 안내\n⠀\n&lt;송용진 단독 콘서트 '노래 불러주는 남자' : 롤링 27주년 기념 공연&gt;\n· 티켓수령 : 4시 (현장구매 소량 가능)\n· 입장 : 4시 30분 \n· 공연시작 : 5시\n· 출연 : 송용진\n⠀\n#롤링홀 #ROLLINGHALL\n#송용진 #단독콘서트 #노래불러주는남자\n#롤링27주년 #홍대 #공연 #멜론티켓 https://t.co/krxLbzT549",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "송용진",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "노래불러주는남자",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						187,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537772442286182400,
+					"id_str": "1537772442286182401",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdD44faUAE9fN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdD44faUAE9fN7.jpg",
+					"url": "https://t.co/krxLbzT549",
+					"display_url": "pic.twitter.com/krxLbzT549",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1537782123158900738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537772442286182400,
+					"id_str": "1537772442286182401",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdD44faUAE9fN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdD44faUAE9fN7.jpg",
+					"url": "https://t.co/krxLbzT549",
+					"display_url": "pic.twitter.com/krxLbzT549",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1537782123158900738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537772442290368500,
+					"id_str": "1537772442290368513",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdD44gaMAEg6t4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdD44gaMAEg6t4.jpg",
+					"url": "https://t.co/krxLbzT549",
+					"display_url": "pic.twitter.com/krxLbzT549",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1537782123158900738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 6/18 공연 현장 안내\n⠀\n&lt;송용진 단독 콘서트 '노래 불러주는 남자' : 롤링 27주년 기념 공연&gt;\n· 티켓수령 : 4시 (현장구매 소량 가능)\n· 입장 : 4시 30분 \n· 공연시작 : 5시\n· 출연 : 송용진\n⠀\n#롤링홀 #ROLLINGHALL\n#송용진 #단독콘서트 #노래불러주는남자\n#롤링27주년 #홍대 #공연 #멜론티켓 https://t.co/krxLbzT549"
+	},
+	{
+		"created_at": "Fri Jun 17 13:11:17 +0000 2022",
+		"id": 1537770467519766500,
+		"id_str": "1537784948425359362",
+		"full_text": "7월2일 클럽빵 빵파~5월말에 밴드/뮤지션파티로 밤늦게까지 춤~summerparty를 밴드는 #제8극장 #전다인밴드 #스프링스 #민수홍 하고 #설치퍼포만스는 #슬픔사탕(파라란) #DJ는 #동용 #미미키스 #연구(Error) #단막극(지구+연구) 등을 합니다 #총체적파티 #우리는춤춰요 #클럽빵 #빵파티 함께 해요 https://t.co/zMmWJoFc0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제8극장",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "전다인밴드",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "스프링스",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "설치퍼포만스는",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "슬픔사탕",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "DJ는",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "동용",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "미미키스",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "연구",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "단막극",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "총체적파티",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "우리는춤춰요",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "빵파티",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537770461563879400,
+					"id_str": "1537770461563879424",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdCFluagAAUFWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdCFluagAAUFWx.jpg",
+					"url": "https://t.co/zMmWJoFc0R",
+					"display_url": "pic.twitter.com/zMmWJoFc0R",
+					"expanded_url": "https://twitter.com/club_bbang/status/1537770467519766528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537770461563879400,
+					"id_str": "1537770461563879424",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdCFluagAAUFWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdCFluagAAUFWx.jpg",
+					"url": "https://t.co/zMmWJoFc0R",
+					"display_url": "pic.twitter.com/zMmWJoFc0R",
+					"expanded_url": "https://twitter.com/club_bbang/status/1537770467519766528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2523,
+			"friends_count": 906,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7월2일 클럽빵 빵파~5월말에 밴드/뮤지션파티로 밤늦게까지 춤~summerparty를 밴드는 #제8극장 #전다인밴드 #스프링스 #민수홍 하고 #설치퍼포만스는 #슬픔사탕(파라란) #DJ는 #동용 #미미키스 #연구(Error) #단막극(지구+연구) 등을 합니다 #총체적파티 #우리는춤춰요 #클럽빵 #빵파티 함께 해요 https://t.co/zMmWJoFc0R"
+	},
+	{
 		"created_at": "Fri Jun 17 11:29:25 +0000 2022",
 		"id": 1537747113014337500,
 		"id_str": "1537759313879568390",
