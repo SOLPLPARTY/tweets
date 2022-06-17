@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 03:58:14 +0000 2022",
+		"id": 1537633953645215700,
+		"id_str": "1537645772207964161",
+		"full_text": "2022 렛츠락 페스티벌 장소 &amp; 일정 공개🤟🏻\n\n2022 LET’S ROCK FESTIVAL\n🔥일시: 09.24(토) ~ 09.25(일)\n🔥장소: 난지한강공원일대\n\n#렛츠락페스티벌 #2022렛츠락페스티벌\n#Letsrockfestival #2022letsrockfestival https://t.co/8Fqx1QeG0m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "렛츠락페스티벌",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "2022렛츠락페스티벌",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "Letsrockfestival",
+					"indices": [
+						119,
+						136
+					]
+				},
+				{
+					"text": "2022letsrockfestival",
+					"indices": [
+						137,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537633941230088200,
+					"id_str": "1537633941230088192",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbF7D2acAAwKTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbF7D2acAAwKTP.jpg",
+					"url": "https://t.co/8Fqx1QeG0m",
+					"display_url": "pic.twitter.com/8Fqx1QeG0m",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1537633953645215744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537633941230088200,
+					"id_str": "1537633941230088192",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbF7D2acAAwKTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbF7D2acAAwKTP.jpg",
+					"url": "https://t.co/8Fqx1QeG0m",
+					"display_url": "pic.twitter.com/8Fqx1QeG0m",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1537633953645215744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 LET'S ROCK FESTIVAL \nComing in september",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3807,
+			"friends_count": 139,
+			"listed_count": 49,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530096884492095489/MH8NdZAZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530096884492095489/MH8NdZAZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1653638502",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 렛츠락 페스티벌 장소 &amp; 일정 공개🤟🏻\n\n2022 LET’S ROCK FESTIVAL\n🔥일시: 09.24(토) ~ 09.25(일)\n🔥장소: 난지한강공원일대\n\n#렛츠락페스티벌 #2022렛츠락페스티벌\n#Letsrockfestival #2022letsrockfestival https://t.co/8Fqx1QeG0m"
+	},
+	{
 		"created_at": "Fri Jun 17 03:14:56 +0000 2022",
 		"id": 1537634872927195100,
 		"id_str": "1537634872927195136",
