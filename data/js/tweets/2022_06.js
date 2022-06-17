@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 15:29:24 +0000 2022",
+		"id": 1537813843279085600,
+		"id_str": "1537819710561173504",
+		"full_text": "6/18, 늦은 봄이 사람으로 태어난다면… 어쩌면 그 사람은 바로 수만쌤이 아닐까?\n따뜻한 계절에 찾아온 그…\n그의 생신을 축하할 수 있어서 너무 행복합니다.\n늘 건강하세요…♡\n\n#다시_찾아온_수만쌤의_봄 \n#반짝이는_수만쌤의_어느날\n#HappySOOMANDay https://t.co/ohOXKFt3bR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다시_찾아온_수만쌤의_봄",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "반짝이는_수만쌤의_어느날",
+					"indices": [
+						116,
+						130
+					]
+				},
+				{
+					"text": "HappySOOMANDay",
+					"indices": [
+						131,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537813393070903300,
+					"id_str": "1537813393070903297",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdpIiDUUAErSrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdpIiDUUAErSrb.jpg",
+					"url": "https://t.co/ohOXKFt3bR",
+					"display_url": "pic.twitter.com/ohOXKFt3bR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537813843279085569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537813393070903300,
+					"id_str": "1537813393070903297",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdpIiDUUAErSrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdpIiDUUAErSrb.jpg",
+					"url": "https://t.co/ohOXKFt3bR",
+					"display_url": "pic.twitter.com/ohOXKFt3bR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537813843279085569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "𝕃𝕖𝕖 𝕤𝕠𝕠𝕞𝕒𝕟 𝕟𝕠.𝟙 𝕗𝕒𝕟 𝕔𝕝𝕦𝕓",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "𝑲𝑾𝑨𝑵𝑮𝒀𝑨",
+			"description": "ℬℯ 𝒦𝒾𝓃𝒹, ℬℯ ℋ𝓊𝓂𝒷𝓁ℯ, ℬℯ 𝓉𝒽ℯ ℒℴ𝓋ℯ",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10900616,
+			"friends_count": 56,
+			"listed_count": 12299,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537812823543148545/MChLshhZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537812823543148545/MChLshhZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655478124",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18902,
+		"favorite_count": 32347,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6/18, 늦은 봄이 사람으로 태어난다면… 어쩌면 그 사람은 바로 수만쌤이 아닐까?\n따뜻한 계절에 찾아온 그…\n그의 생신을 축하할 수 있어서 너무 행복합니다.\n늘 건강하세요…♡\n\n#다시_찾아온_수만쌤의_봄 \n#반짝이는_수만쌤의_어느날\n#HappySOOMANDay https://t.co/ohOXKFt3bR"
+	},
+	{
 		"created_at": "Fri Jun 17 15:11:18 +0000 2022",
 		"id": 1537815154900930600,
 		"id_str": "1537815154900930560",
