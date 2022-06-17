@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 07:58:14 +0000 2022",
+		"id": 1537692801852289000,
+		"id_str": "1537706170395262976",
+		"full_text": "💙KCON 2022 LA 1st LINEUP💚\nPlease look forward to the next LINEUP announcements! \n\n#CRAVITY\n#ENHYPEN\n#ITZY\n#NMIXX\n#STAYC\n#THEBOYZ\n#WJSN\n\n#KCON #KCONUSA #KCON2022LA https://t.co/MbOrUgTFKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CRAVITY",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "ENHYPEN",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537692589331079200,
+					"id_str": "1537692589331079168",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb7Q1DUYAA_ktH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb7Q1DUYAA_ktH.jpg",
+					"url": "https://t.co/MbOrUgTFKn",
+					"display_url": "pic.twitter.com/MbOrUgTFKn",
+					"expanded_url": "https://twitter.com/KCON_official/status/1537692801852289024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537692589331079200,
+					"id_str": "1537692589331079168",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb7Q1DUYAA_ktH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb7Q1DUYAA_ktH.jpg",
+					"url": "https://t.co/MbOrUgTFKn",
+					"display_url": "pic.twitter.com/MbOrUgTFKn",
+					"expanded_url": "https://twitter.com/KCON_official/status/1537692801852289024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 446188,
+			"friends_count": 76,
+			"listed_count": 1112,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536491446131650560/OPDlzxya_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536491446131650560/OPDlzxya_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💙KCON 2022 LA 1st LINEUP💚\nPlease look forward to the next LINEUP announcements! \n\n#CRAVITY\n#ENHYPEN\n#ITZY\n#NMIXX\n#STAYC\n#THEBOYZ\n#WJSN\n\n#KCON #KCONUSA #KCON2022LA https://t.co/MbOrUgTFKn"
+	},
+	{
 		"created_at": "Fri Jun 17 06:29:31 +0000 2022",
 		"id": 1537679007394975700,
 		"id_str": "1537683844173811712",
