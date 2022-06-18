@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 09:29:37 +0000 2022",
+		"id": 1538085226467197000,
+		"id_str": "1538091554476261376",
+		"full_text": "샘김이 작사, 작곡, 가창으로 참여한 JTBC 드라마 ‘클리닝 업’ OST Part.1 ‘For You’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/j3wr6UppLu\nGenie https://t.co/EQJbClod4x\nBugs https://t.co/8XvGOl3smy\nFLO https://t.co/4E5C6ILaZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j3wr6UppLu",
+					"expanded_url": "http://bit.ly/3y3h27u",
+					"display_url": "bit.ly/3y3h27u",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/EQJbClod4x",
+					"expanded_url": "http://bit.ly/3O2WZvz",
+					"display_url": "bit.ly/3O2WZvz",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/8XvGOl3smy",
+					"expanded_url": "http://bit.ly/3N2Lza1",
+					"display_url": "bit.ly/3N2Lza1",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/4E5C6ILaZ1",
+					"expanded_url": "http://bit.ly/3OmHQoD",
+					"display_url": "bit.ly/3OmHQoD",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538085223656988700,
+		"in_reply_to_status_id_str": "1538085223656988673",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40516,
+			"friends_count": 12,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "샘김이 작사, 작곡, 가창으로 참여한 JTBC 드라마 ‘클리닝 업’ OST Part.1 ‘For You’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/j3wr6UppLu\nGenie https://t.co/EQJbClod4x\nBugs https://t.co/8XvGOl3smy\nFLO https://t.co/4E5C6ILaZ1"
+	},
+	{
+		"created_at": "Sat Jun 18 09:29:30 +0000 2022",
+		"id": 1538085223656988700,
+		"id_str": "1538091524331905026",
+		"full_text": "[#Release] #샘김\n\n클리닝 업 OST Part.1\n샘김 'For You’\n⠀\nLyrics by Sam Kim, Jisoo Park(153/Joombas) \nComposed by Jisoo Park(153/Joombas), Sam Kim \nArranged by Jisoo Park(153/Joombas), MRey(153CreatorsClub) \n\n@LeegitItsSam \n#SamKim\n#클리닝업 #ForYou https://t.co/lfxjeY0eTw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						214,
+						221
+					]
+				},
+				{
+					"text": "클리닝업",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "ForYou",
+					"indices": [
+						228,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						199,
+						212
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538085208209358800,
+					"id_str": "1538085208209358848",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FVhgWQWaAAAyJJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVhgWQWaAAAyJJP.jpg",
+					"url": "https://t.co/lfxjeY0eTw",
+					"display_url": "pic.twitter.com/lfxjeY0eTw",
+					"expanded_url": "https://twitter.com/antennamusic/status/1538085223656988673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538085208209358800,
+					"id_str": "1538085208209358848",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FVhgWQWaAAAyJJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVhgWQWaAAAyJJP.jpg",
+					"url": "https://t.co/lfxjeY0eTw",
+					"display_url": "pic.twitter.com/lfxjeY0eTw",
+					"expanded_url": "https://twitter.com/antennamusic/status/1538085223656988673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40516,
+			"friends_count": 12,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[#Release] #샘김\n\n클리닝 업 OST Part.1\n샘김 'For You’\n⠀\nLyrics by Sam Kim, Jisoo Park(153/Joombas) \nComposed by Jisoo Park(153/Joombas), Sam Kim \nArranged by Jisoo Park(153/Joombas), MRey(153CreatorsClub) \n\n@LeegitItsSam \n#SamKim\n#클리닝업 #ForYou https://t.co/lfxjeY0eTw"
+	},
+	{
+		"created_at": "Sat Jun 18 09:29:25 +0000 2022",
+		"id": 1538076551874498600,
+		"id_str": "1538091502903205889",
+		"full_text": "[#손태진] KBS 2TV '불후의 명곡' 출연✔\n\n6시 10분, 포르테 디 콰트로의 감성에 빠질 시간🌇\nKBS 2TV '불후의 명곡' 무대에서 확인하세요☺️\n\n#손태진 #SONTAEJIN #TJSON #포르테디콰트로 #FDQ #KBS2TV #불후의명곡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "포르테디콰트로",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "FDQ",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "KBS2TV",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "불후의명곡",
+					"indices": [
+						135,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35163,
+			"friends_count": 15,
+			"listed_count": 292,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#손태진] KBS 2TV '불후의 명곡' 출연✔\n\n6시 10분, 포르테 디 콰트로의 감성에 빠질 시간🌇\nKBS 2TV '불후의 명곡' 무대에서 확인하세요☺️\n\n#손태진 #SONTAEJIN #TJSON #포르테디콰트로 #FDQ #KBS2TV #불후의명곡"
+	},
+	{
 		"created_at": "Sat Jun 18 03:29:42 +0000 2022",
 		"id": 1537999830781333500,
 		"id_str": "1538000976879026181",
