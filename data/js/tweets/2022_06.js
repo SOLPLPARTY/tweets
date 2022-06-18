@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 17:29:34 +0000 2022",
+		"id": 1538174698898436000,
+		"id_str": "1538212337475264514",
+		"full_text": "[#HBD🎂] #신재평\n\n2022년 6월 19일\n신재평의 생일을 축하합니다🎉\n\n@pptnzexpress\n#페퍼톤스 #Peppertones #ShinJaePyung\n#2022_0619 #HappyJaePyungDay\n#신재뿡_생일뿡하해\n#PeppertonesSaYoDay https://t.co/1MbZW0PZkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "HappyJaePyungDay",
+					"indices": [
+						102,
+						119
+					]
+				},
+				{
+					"text": "신재뿡_생일뿡하해",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "PeppertonesSaYoDay",
+					"indices": [
+						131,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537999051891032000,
+					"id_str": "1537999051891032064",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgR_TDaQAAw8QA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgR_TDaQAAw8QA.jpg",
+					"url": "https://t.co/1MbZW0PZkd",
+					"display_url": "pic.twitter.com/1MbZW0PZkd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1538174698898436097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537999051891032000,
+					"id_str": "1537999051891032064",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgR_TDaQAAw8QA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgR_TDaQAAw8QA.jpg",
+					"url": "https://t.co/1MbZW0PZkd",
+					"display_url": "pic.twitter.com/1MbZW0PZkd",
+					"expanded_url": "https://twitter.com/antennamusic/status/1538174698898436097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40519,
+			"friends_count": 12,
+			"listed_count": 383,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#HBD🎂] #신재평\n\n2022년 6월 19일\n신재평의 생일을 축하합니다🎉\n\n@pptnzexpress\n#페퍼톤스 #Peppertones #ShinJaePyung\n#2022_0619 #HappyJaePyungDay\n#신재뿡_생일뿡하해\n#PeppertonesSaYoDay https://t.co/1MbZW0PZkd"
+	},
+	{
+		"created_at": "Sat Jun 18 17:29:29 +0000 2022",
+		"id": 1538121079268712400,
+		"id_str": "1538212315992039425",
+		"full_text": "[#정인 #손태진] KBS 2TV &lt;불후의 명곡&gt; - '하늘을 달리다', '내 낡은 서랍 속의 바다' 발매✔️\n\n&lt;불후의 명곡&gt;에서 정인의 경연곡인 '하늘을 달리다'와 손태진이 참여한 포르테 디 콰트로의 '내 낡은 서랍 속의 바다'는 지금 바로 전 음원 사이트에서 확인🎼\n\n#JUNGIN #SONTAEJIN #KBS2 #불후의명곡 https://t.co/bIBephUHpk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "KBS2",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "불후의명곡",
+					"indices": [
+						190,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538121072926949400,
+					"id_str": "1538121072926949377",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FViA921agAEzK15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FViA921agAEzK15.jpg",
+					"url": "https://t.co/bIBephUHpk",
+					"display_url": "pic.twitter.com/bIBephUHpk",
+					"expanded_url": "https://twitter.com/themysticstory/status/1538121079268712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1995,
+							"h": 1995,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538121072926949400,
+					"id_str": "1538121072926949377",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FViA921agAEzK15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FViA921agAEzK15.jpg",
+					"url": "https://t.co/bIBephUHpk",
+					"display_url": "pic.twitter.com/bIBephUHpk",
+					"expanded_url": "https://twitter.com/themysticstory/status/1538121079268712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1995,
+							"h": 1995,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35167,
+			"friends_count": 15,
+			"listed_count": 292,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인 #손태진] KBS 2TV &lt;불후의 명곡&gt; - '하늘을 달리다', '내 낡은 서랍 속의 바다' 발매✔️\n\n&lt;불후의 명곡&gt;에서 정인의 경연곡인 '하늘을 달리다'와 손태진이 참여한 포르테 디 콰트로의 '내 낡은 서랍 속의 바다'는 지금 바로 전 음원 사이트에서 확인🎼\n\n#JUNGIN #SONTAEJIN #KBS2 #불후의명곡 https://t.co/bIBephUHpk"
+	},
+	{
 		"created_at": "Sat Jun 18 15:11:17 +0000 2022",
 		"id": 1538171960474992600,
 		"id_str": "1538177535560896512",
