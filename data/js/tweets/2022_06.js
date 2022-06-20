@@ -1,6 +1,956 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 09:30:03 +0000 2022",
+		"id": 1538814361120407600,
+		"id_str": "1538816439087517708",
+		"full_text": "💿NEW MUSIC TODAY💿\n“이달의 소녀 (LOONA) - Flip That”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/C5R01oRw2U\n▶️ https://t.co/c3DvjrGw6h\n\n#warnermusic #warnerkpop #KPOP #이달의소녀 #이달소 #LOONA #Flipthat @loonatheworld @BBC_blockberry https://t.co/rOcA7x3dDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "Flipthat",
+					"indices": [
+						175,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"screen_name": "BBC_blockberry",
+					"name": "BlockBerryCreative",
+					"id": 1496008272398418000,
+					"id_str": "1496008272398417930",
+					"indices": [
+						200,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C5R01oRw2U",
+					"expanded_url": "https://WMK.lnk.to/KGh9Ok22",
+					"display_url": "WMK.lnk.to/KGh9Ok22",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/c3DvjrGw6h",
+					"expanded_url": "https://youtu.be/SPYX2y4NzTU",
+					"display_url": "youtu.be/SPYX2y4NzTU",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538814273480454100,
+					"id_str": "1538814273480454145",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"url": "https://t.co/rOcA7x3dDT",
+					"display_url": "pic.twitter.com/rOcA7x3dDT",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538814361120407552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538814273480454100,
+					"id_str": "1538814273480454145",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"url": "https://t.co/rOcA7x3dDT",
+					"display_url": "pic.twitter.com/rOcA7x3dDT",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538814361120407552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60089,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/pl/6l6WnNkwBicliDNJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/vid/320x320/nLqKmuuGCbbE7YtZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/vid/540x540/yKCf2osXFqtNUHH0.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/vid/720x720/HE-VjwPXMpd8KhC-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86871,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1782,
+		"favorite_count": 3947,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“이달의 소녀 (LOONA) - Flip That”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/C5R01oRw2U\n▶️ https://t.co/c3DvjrGw6h\n\n#warnermusic #warnerkpop #KPOP #이달의소녀 #이달소 #LOONA #Flipthat @loonatheworld @BBC_blockberry https://t.co/rOcA7x3dDT"
+	},
+	{
+		"created_at": "Mon Jun 20 09:29:54 +0000 2022",
+		"id": 1538810062072066000,
+		"id_str": "1538816400894136320",
+		"full_text": "우리가 가지고 있는 못난 덩어리들을 구름 아래에 놓고 가보는 건 어떨까요?\n어쩌면 우리의 덩어리도 예술 어쩌구 저쩌구 하는 게 될지도 모르니까요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538810011627167700,
+		"in_reply_to_status_id_str": "1538810011627167746",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2250,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리가 가지고 있는 못난 덩어리들을 구름 아래에 놓고 가보는 건 어떨까요?\n어쩌면 우리의 덩어리도 예술 어쩌구 저쩌구 하는 게 될지도 모르니까요."
+	},
+	{
+		"created_at": "Mon Jun 20 09:29:49 +0000 2022",
+		"id": 1538810050374152200,
+		"id_str": "1538816379473776648",
+		"full_text": "‘아름다운 것들만 예술로 창조되는 건 억울하고 부당해’\n\n내 안에 가득 찬 짜증나게 더럽고 못난 덩어리들을 주워 모아 재활용할 거고, \n아름답지 않은 것들로 예술 어쩌구 하는 걸 만들 거예요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538810011627167700,
+		"in_reply_to_status_id_str": "1538810011627167746",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2250,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘아름다운 것들만 예술로 창조되는 건 억울하고 부당해’\n\n내 안에 가득 찬 짜증나게 더럽고 못난 덩어리들을 주워 모아 재활용할 거고, \n아름답지 않은 것들로 예술 어쩌구 하는 걸 만들 거예요."
+	},
+	{
+		"created_at": "Mon Jun 20 09:29:43 +0000 2022",
+		"id": 1538810011627167700,
+		"id_str": "1538816353771331584",
+		"full_text": "티켓 오픈 D-3\n#박소은 정규 앨범 발매 기념 공연 [RECYCLE]\n\n🔺티켓 오픈 일시\n6월 23일 목요일 오후 8시\n\n🔺예매처\n예스24 티켓 (https://t.co/8w5R0unQhF)\n\n📍공연 일시\n7월 9일 토요일 오후 7시\n7월 10일 일요일 오후 7시\n\n📍공연 장소\n구름아래소극장\n\n📍티켓 가격 \n66,000원 https://t.co/PBx6ttlZeW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8w5R0unQhF",
+					"expanded_url": "http://c11.kr/10hoq",
+					"display_url": "c11.kr/10hoq",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538810002663964700,
+					"id_str": "1538810002663964672",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrzi2GagAA59xm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrzi2GagAA59xm.jpg",
+					"url": "https://t.co/PBx6ttlZeW",
+					"display_url": "pic.twitter.com/PBx6ttlZeW",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1538810011627167746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538810002663964700,
+					"id_str": "1538810002663964672",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrzi2GagAA59xm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrzi2GagAA59xm.jpg",
+					"url": "https://t.co/PBx6ttlZeW",
+					"display_url": "pic.twitter.com/PBx6ttlZeW",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1538810011627167746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2250,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "티켓 오픈 D-3\n#박소은 정규 앨범 발매 기념 공연 [RECYCLE]\n\n🔺티켓 오픈 일시\n6월 23일 목요일 오후 8시\n\n🔺예매처\n예스24 티켓 (https://t.co/8w5R0unQhF)\n\n📍공연 일시\n7월 9일 토요일 오후 7시\n7월 10일 일요일 오후 7시\n\n📍공연 장소\n구름아래소극장\n\n📍티켓 가격 \n66,000원 https://t.co/PBx6ttlZeW"
+	},
+	{
+		"created_at": "Mon Jun 20 09:29:34 +0000 2022",
+		"id": 1538809021963989000,
+		"id_str": "1538816315430998016",
+		"full_text": "[#곽진언]\n\n곽진언 - ‘자랑 (Boast)’\n#Op_1 CONCERT LIVE CLIP\n🔗 https://t.co/EY4evKdVGC\n\n#곽진언 #KwakJineon\n#자랑 #Boast\n#소극장콘서트 #곽진언_Op https://t.co/wbHDVXZt2G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Op_1",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						83,
+						94
+					]
+				},
+				{
+					"text": "자랑",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "Boast",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "소극장콘서트",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "곽진언_Op",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EY4evKdVGC",
+					"expanded_url": "https://youtu.be/Dj57li9pYXg",
+					"display_url": "youtu.be/Dj57li9pYXg",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538808967484559400,
+					"id_str": "1538808967484559360",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538808967484559360/pu/img/EsfewRL0zXAyOCDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538808967484559360/pu/img/EsfewRL0zXAyOCDd.jpg",
+					"url": "https://t.co/wbHDVXZt2G",
+					"display_url": "pic.twitter.com/wbHDVXZt2G",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1538809021963988992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538808967484559400,
+					"id_str": "1538808967484559360",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538808967484559360/pu/img/EsfewRL0zXAyOCDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538808967484559360/pu/img/EsfewRL0zXAyOCDd.jpg",
+					"url": "https://t.co/wbHDVXZt2G",
+					"display_url": "pic.twitter.com/wbHDVXZt2G",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1538809021963988992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29792,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1538808967484559360/pu/pl/yLQjMrEQZeuCRgB6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538808967484559360/pu/vid/1280x720/rjq83YQQRadiYBig.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538808967484559360/pu/vid/640x360/jUsYbDDNx90VU6iQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538808967484559360/pu/vid/480x270/-a641yzaKLKDHV2e.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8997,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#곽진언]\n\n곽진언 - ‘자랑 (Boast)’\n#Op_1 CONCERT LIVE CLIP\n🔗 https://t.co/EY4evKdVGC\n\n#곽진언 #KwakJineon\n#자랑 #Boast\n#소극장콘서트 #곽진언_Op https://t.co/wbHDVXZt2G"
+	},
+	{
 		"created_at": "Mon Jun 20 09:14:43 +0000 2022",
 		"id": 1538812579379703800,
 		"id_str": "1538812579379703809",
