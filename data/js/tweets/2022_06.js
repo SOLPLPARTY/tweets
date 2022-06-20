@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 07:58:25 +0000 2022",
+		"id": 1538788088540868600,
+		"id_str": "1538793376962723841",
+		"full_text": "@DigitalxBaby 저도 영광입니다 멋진 결말에 닿게 ‼️",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalxBaby",
+					"name": "쥬황이",
+					"id": 1357300835118575600,
+					"id_str": "1357300835118575616",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538783041145163800,
+		"in_reply_to_status_id_str": "1538783041145163776",
+		"in_reply_to_user_id": 1357300835118575600,
+		"in_reply_to_user_id_str": "1357300835118575616",
+		"in_reply_to_screen_name": "DigitalxBaby",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "하지만 나는 끝까지 살아남을거야",
+			"url": "https://t.co/QHx8KNJGKz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QHx8KNJGKz",
+							"expanded_url": "https://url.kr/stjpir",
+							"display_url": "url.kr/stjpir",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2867,
+			"friends_count": 1101,
+			"listed_count": 10,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@DigitalxBaby 저도 영광입니다 멋진 결말에 닿게 ‼️"
+	},
+	{
+		"created_at": "Mon Jun 20 07:58:17 +0000 2022",
+		"id": 1538782753969164300,
+		"id_str": "1538793342938533889",
+		"full_text": "@DigitalxBaby 세상에. 썎(시댄)쓰 였다니. . . 만나면 함께 추시죠👯🪩🩰",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalxBaby",
+					"name": "쥬황이",
+					"id": 1357300835118575600,
+					"id_str": "1357300835118575616",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538782314398089200,
+		"in_reply_to_status_id_str": "1538782314398089216",
+		"in_reply_to_user_id": 1357300835118575600,
+		"in_reply_to_user_id_str": "1357300835118575616",
+		"in_reply_to_screen_name": "DigitalxBaby",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "하지만 나는 끝까지 살아남을거야",
+			"url": "https://t.co/QHx8KNJGKz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QHx8KNJGKz",
+							"expanded_url": "https://url.kr/stjpir",
+							"display_url": "url.kr/stjpir",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2867,
+			"friends_count": 1101,
+			"listed_count": 10,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@DigitalxBaby 세상에. 썎(시댄)쓰 였다니. . . 만나면 함께 추시죠👯🪩🩰"
+	},
+	{
 		"created_at": "Mon Jun 20 06:58:14 +0000 2022",
 		"id": 1538772458291208200,
 		"id_str": "1538778234766213121",
