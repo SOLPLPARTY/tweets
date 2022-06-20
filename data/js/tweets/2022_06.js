@@ -1,6 +1,1573 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 03:13:42 +0000 2022",
+		"id": 1538721726246269000,
+		"id_str": "1538721726246268928",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n6/20(월) ~ 6/26(일) 엠피엠지 뮤직 스케줄\nhttps://t.co/0NVnU14ifd\n#블로그 #레이블 #기획사 #인디 #인디음악",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0NVnU14ifd",
+					"expanded_url": "https://bit.ly/3bdFfPM",
+					"display_url": "bit.ly/3bdFfPM",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 463,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n6/20(월) ~ 6/26(일) 엠피엠지 뮤직 스케줄\nhttps://t.co/0NVnU14ifd\n#블로그 #레이블 #기획사 #인디 #인디음악"
+	},
+	{
+		"created_at": "Mon Jun 20 03:11:44 +0000 2022",
+		"id": 1538719033796747300,
+		"id_str": "1538721233986019328",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 : 𝗖𝗠𝗬𝗞 #𝟭 [𝗜𝗴𝗹𝗼𝗼𝗯𝗮𝘆]\n\n𝐓𝐫𝐚𝐜𝐤\n1. 이글루베이 - 낙화\n2. 이글루베이 - Dot Dot Dot\n\n🎨이글루베이 CMYK 라이브 영상 바로가기 ▶ \nhttps://t.co/9M4tpCCzyo\n\n🎫06월 24일 (금) CMYK 콘서트 예매 ▶ https://t.co/WJ39ba77IV\n\nVideo by POND https://t.co/mNxNx9Y71Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9M4tpCCzyo",
+					"expanded_url": "https://bit.ly/39zgq06",
+					"display_url": "bit.ly/39zgq06",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/WJ39ba77IV",
+					"expanded_url": "https://bit.ly/3bb8J0q",
+					"display_url": "bit.ly/3bb8J0q",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538484924554297300,
+					"id_str": "1538484924554297348",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnL4zxaQAQMaqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnL4zxaQAQMaqJ.jpg",
+					"url": "https://t.co/mNxNx9Y71Q",
+					"display_url": "pic.twitter.com/mNxNx9Y71Q",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538719033796747264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538484924554297300,
+					"id_str": "1538484924554297348",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnL4zxaQAQMaqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnL4zxaQAQMaqJ.jpg",
+					"url": "https://t.co/mNxNx9Y71Q",
+					"display_url": "pic.twitter.com/mNxNx9Y71Q",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538719033796747264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538484924545904600,
+					"id_str": "1538484924545904640",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnL4zvaMAAE8I5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnL4zvaMAAE8I5.jpg",
+					"url": "https://t.co/mNxNx9Y71Q",
+					"display_url": "pic.twitter.com/mNxNx9Y71Q",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538719033796747264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538484924537520000,
+					"id_str": "1538484924537520128",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnL4ztaQAAJQIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnL4ztaQAAJQIG.jpg",
+					"url": "https://t.co/mNxNx9Y71Q",
+					"display_url": "pic.twitter.com/mNxNx9Y71Q",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538719033796747264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538484924554281000,
+					"id_str": "1538484924554280960",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnL4zxaAAAbU9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnL4zxaAAAbU9_.jpg",
+					"url": "https://t.co/mNxNx9Y71Q",
+					"display_url": "pic.twitter.com/mNxNx9Y71Q",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538719033796747264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 : 𝗖𝗠𝗬𝗞 #𝟭 [𝗜𝗴𝗹𝗼𝗼𝗯𝗮𝘆]\n\n𝐓𝐫𝐚𝐜𝐤\n1. 이글루베이 - 낙화\n2. 이글루베이 - Dot Dot Dot\n\n🎨이글루베이 CMYK 라이브 영상 바로가기 ▶ \nhttps://t.co/9M4tpCCzyo\n\n🎫06월 24일 (금) CMYK 콘서트 예매 ▶ https://t.co/WJ39ba77IV\n\nVideo by POND https://t.co/mNxNx9Y71Q"
+	},
+	{
+		"created_at": "Mon Jun 20 03:11:36 +0000 2022",
+		"id": 1538718781995876400,
+		"id_str": "1538721199974502402",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 : 𝗖𝗠𝗬𝗞 #𝟭 [𝗲𝘃𝗲𝗻𝗶𝗳]\n𝐓𝐫𝐚𝐜𝐤\n1. evenif - Ocean\n2. evenif - 독무\n\n🎨이븐이프 CMYK 라이브 영상 바로가기 ▶\nhttps://t.co/CkYDMbggxF\n\n🎫2022년 06월 24일 (금) CMYK 콘서트 예매 ▶ https://t.co/WJ39ba77IV\n\nVideo by POND https://t.co/fjktlCB3Mo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CkYDMbggxF",
+					"expanded_url": "https://bit.ly/3QxkJJR",
+					"display_url": "bit.ly/3QxkJJR",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/WJ39ba77IV",
+					"expanded_url": "https://bit.ly/3bb8J0q",
+					"display_url": "bit.ly/3bb8J0q",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538485851654881300,
+					"id_str": "1538485851654881280",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMuxfagAAsnlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMuxfagAAsnlB.jpg",
+					"url": "https://t.co/fjktlCB3Mo",
+					"display_url": "pic.twitter.com/fjktlCB3Mo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718781995876353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538485851654881300,
+					"id_str": "1538485851654881280",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMuxfagAAsnlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMuxfagAAsnlB.jpg",
+					"url": "https://t.co/fjktlCB3Mo",
+					"display_url": "pic.twitter.com/fjktlCB3Mo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718781995876353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538485851763921000,
+					"id_str": "1538485851763920896",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMux5aUAA9I2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMux5aUAA9I2C.jpg",
+					"url": "https://t.co/fjktlCB3Mo",
+					"display_url": "pic.twitter.com/fjktlCB3Mo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718781995876353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538485851885568000,
+					"id_str": "1538485851885568000",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMuyWagAAlQbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMuyWagAAlQbL.jpg",
+					"url": "https://t.co/fjktlCB3Mo",
+					"display_url": "pic.twitter.com/fjktlCB3Mo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718781995876353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538485852011401200,
+					"id_str": "1538485852011401216",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMuy0akAAP2P5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMuy0akAAP2P5.jpg",
+					"url": "https://t.co/fjktlCB3Mo",
+					"display_url": "pic.twitter.com/fjktlCB3Mo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718781995876353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 : 𝗖𝗠𝗬𝗞 #𝟭 [𝗲𝘃𝗲𝗻𝗶𝗳]\n𝐓𝐫𝐚𝐜𝐤\n1. evenif - Ocean\n2. evenif - 독무\n\n🎨이븐이프 CMYK 라이브 영상 바로가기 ▶\nhttps://t.co/CkYDMbggxF\n\n🎫2022년 06월 24일 (금) CMYK 콘서트 예매 ▶ https://t.co/WJ39ba77IV\n\nVideo by POND https://t.co/fjktlCB3Mo"
+	},
+	{
+		"created_at": "Mon Jun 20 03:11:34 +0000 2022",
+		"id": 1538718530710802400,
+		"id_str": "1538721191061495809",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 : 𝗖𝗠𝗬𝗞 #𝟭 [𝗚𝗼𝗻𝗴𝗛𝗮𝗶𝗺]\n𝐓𝐫𝐚𝐜𝐤\n1. 공하임 - Don't smoke in this party\n2. 공하임 - Channel 23\n\n🎨공하임 CMYK  라이브 영상 바로가기 ▶\nhttps://t.co/dFAahPfMwo\n\n🎫06월 24일 (금) CMYK 콘서트 예매 ▶ https://t.co/WJ39baoIAt\n\nVideo by POND https://t.co/3JcoL3Q0dv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dFAahPfMwo",
+					"expanded_url": "https://bit.ly/39AjeKx",
+					"display_url": "bit.ly/39AjeKx",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/WJ39baoIAt",
+					"expanded_url": "https://bit.ly/3bb8J0q",
+					"display_url": "bit.ly/3bb8J0q",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538485449874088000,
+					"id_str": "1538485449874087941",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMXYvaIAUnmZr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMXYvaIAUnmZr.jpg",
+					"url": "https://t.co/3JcoL3Q0dv",
+					"display_url": "pic.twitter.com/3JcoL3Q0dv",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718530710802432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538485449874088000,
+					"id_str": "1538485449874087941",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMXYvaIAUnmZr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMXYvaIAUnmZr.jpg",
+					"url": "https://t.co/3JcoL3Q0dv",
+					"display_url": "pic.twitter.com/3JcoL3Q0dv",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718530710802432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538485449962176500,
+					"id_str": "1538485449962176513",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMXZEaQAE09AJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMXZEaQAE09AJ.jpg",
+					"url": "https://t.co/3JcoL3Q0dv",
+					"display_url": "pic.twitter.com/3JcoL3Q0dv",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718530710802432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538485465921495000,
+					"id_str": "1538485465921495041",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMYUhaIAEDWL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMYUhaIAEDWL1.jpg",
+					"url": "https://t.co/3JcoL3Q0dv",
+					"display_url": "pic.twitter.com/3JcoL3Q0dv",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718530710802432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538485466051547100,
+					"id_str": "1538485466051547136",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FVnMYVAakAAs6cA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVnMYVAakAAs6cA.jpg",
+					"url": "https://t.co/3JcoL3Q0dv",
+					"display_url": "pic.twitter.com/3JcoL3Q0dv",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718530710802432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 : 𝗖𝗠𝗬𝗞 #𝟭 [𝗚𝗼𝗻𝗴𝗛𝗮𝗶𝗺]\n𝐓𝐫𝐚𝐜𝐤\n1. 공하임 - Don't smoke in this party\n2. 공하임 - Channel 23\n\n🎨공하임 CMYK  라이브 영상 바로가기 ▶\nhttps://t.co/dFAahPfMwo\n\n🎫06월 24일 (금) CMYK 콘서트 예매 ▶ https://t.co/WJ39baoIAt\n\nVideo by POND https://t.co/3JcoL3Q0dv"
+	},
+	{
+		"created_at": "Mon Jun 20 03:11:26 +0000 2022",
+		"id": 1538718281011343400,
+		"id_str": "1538721157008039937",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;YB 단독 콘서트 'LIGHTS : BURNS'&gt;\n· 일시 : 2022년 07월 23일 (토) 오후 6시, 07월 24일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : YB\n· 예매 : 🥝멜론티켓 https://t.co/2EmV8NH94A\n　\n#롤링홀 #YB #LightsBurns\n#공연 #멜론티켓 https://t.co/OYQwb8Z1Kt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "YB",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "LightsBurns",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						203,
+						206
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						207,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2EmV8NH94A",
+					"expanded_url": "https://bit.ly/3svz3Z1",
+					"display_url": "bit.ly/3svz3Z1",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538022293154431000,
+					"id_str": "1538022293154430976",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538022293154430976/pu/img/-1kPm3wxEqgyAV59.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538022293154430976/pu/img/-1kPm3wxEqgyAV59.jpg",
+					"url": "https://t.co/OYQwb8Z1Kt",
+					"display_url": "pic.twitter.com/OYQwb8Z1Kt",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718281011343360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538022293154431000,
+					"id_str": "1538022293154430976",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538022293154430976/pu/img/-1kPm3wxEqgyAV59.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538022293154430976/pu/img/-1kPm3wxEqgyAV59.jpg",
+					"url": "https://t.co/OYQwb8Z1Kt",
+					"display_url": "pic.twitter.com/OYQwb8Z1Kt",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1538718281011343360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538022293154430976/pu/vid/720x720/xJfeHTYZrLvS66wq.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538022293154430976/pu/vid/320x320/_DRyh3Y83p_xVaU4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1538022293154430976/pu/pl/BraCwLqxCrs3En-b.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538022293154430976/pu/vid/540x540/TkLW2ZkDx-ak1l4E.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;YB 단독 콘서트 'LIGHTS : BURNS'&gt;\n· 일시 : 2022년 07월 23일 (토) 오후 6시, 07월 24일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : YB\n· 예매 : 🥝멜론티켓 https://t.co/2EmV8NH94A\n　\n#롤링홀 #YB #LightsBurns\n#공연 #멜론티켓 https://t.co/OYQwb8Z1Kt"
+	},
+	{
+		"created_at": "Mon Jun 20 03:11:23 +0000 2022",
+		"id": 1538717088746918000,
+		"id_str": "1538721143942746112",
+		"full_text": "1. 예매 : 39,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n#프리즘홀 #prismhall #PRISM_BREAK #로다운30 #최항석과부기몬스터 #블루스 #Blues #홍대공연 #공연추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "PRISM_BREAK",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "로다운30",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "최항석과부기몬스터",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "블루스",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "Blues",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538717086901448700,
+		"in_reply_to_status_id_str": "1538717086901448704",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2045,
+			"friends_count": 1117,
+			"listed_count": 29,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1. 예매 : 39,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n#프리즘홀 #prismhall #PRISM_BREAK #로다운30 #최항석과부기몬스터 #블루스 #Blues #홍대공연 #공연추천"
+	},
+	{
 		"created_at": "Mon Jun 20 01:29:24 +0000 2022",
 		"id": 1538693216953766000,
 		"id_str": "1538695481328558080",
