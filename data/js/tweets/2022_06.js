@@ -1,6 +1,1461 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 04:09:26 +0000 2022",
+		"id": 1538735751629721600,
+		"id_str": "1538735751629721600",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n[MV] 유세윤 - '세계관'\nhttps://t.co/MQDnMPtkG9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MQDnMPtkG9",
+					"expanded_url": "https://youtu.be/dsFmaC1ut14",
+					"display_url": "youtu.be/dsFmaC1ut14",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 463,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n[MV] 유세윤 - '세계관'\nhttps://t.co/MQDnMPtkG9"
+	},
+	{
+		"created_at": "Mon Jun 20 03:29:56 +0000 2022",
+		"id": 1538725501363429400,
+		"id_str": "1538725812899352576",
+		"full_text": "✨K-Pop - TIDAL Masters✨\n'#서인국(@Whatsup_Inguk) - MY LOVE (feat. RAVI)'가 TIDAL(@TIDAL) 'K-Pop - TIDAL Masters' #플레이리스트 커버를 장식하였습니다😎✨\nCheck out 'MY LOVE (feat. #RAVI)' #playlist on #TIDAL\n\n🎶https://t.co/qlqmJaQkN2\n\n#warnerkpop #warnermusic #KPOP #MYLOVE https://t.co/BlrGM5LFHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서인국",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						224,
+						236
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						237,
+						242
+					]
+				},
+				{
+					"text": "MYLOVE",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Whatsup_Inguk",
+					"name": "서인국 (SEO IN GUK)",
+					"id": 1127465964,
+					"id_str": "1127465964",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qlqmJaQkN2",
+					"expanded_url": "https://tidal.com/browse/playlist/58b26365-afc9-413c-9437-04b58ec9748f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538725498892988400,
+					"id_str": "1538725498892988416",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqmsFBaMAACjjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqmsFBaMAACjjY.jpg",
+					"url": "https://t.co/BlrGM5LFHK",
+					"display_url": "pic.twitter.com/BlrGM5LFHK",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538725501363429377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538725498892988400,
+					"id_str": "1538725498892988416",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqmsFBaMAACjjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqmsFBaMAACjjY.jpg",
+					"url": "https://t.co/BlrGM5LFHK",
+					"display_url": "pic.twitter.com/BlrGM5LFHK",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538725501363429377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86854,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Pop - TIDAL Masters✨\n'#서인국(@Whatsup_Inguk) - MY LOVE (feat. RAVI)'가 TIDAL(@TIDAL) 'K-Pop - TIDAL Masters' #플레이리스트 커버를 장식하였습니다😎✨\nCheck out 'MY LOVE (feat. #RAVI)' #playlist on #TIDAL\n\n🎶https://t.co/qlqmJaQkN2\n\n#warnerkpop #warnermusic #KPOP #MYLOVE https://t.co/BlrGM5LFHK"
+	},
+	{
+		"created_at": "Mon Jun 20 03:29:54 +0000 2022",
+		"id": 1538724652234965000,
+		"id_str": "1538725804074487809",
+		"full_text": "✨Rock x K-Pop✨\n'#울랄라세션(@ulala_session) - I AM FINE'이 TIDAL(@TIDAL) 'Rock x K-Pop' 플레이리스트 커버를 장식하였습니다🤟✨\nCheck out 'I AM FINE' on 'Rock x K-Pop' #playlist on #TIDAL✨\n⠀\n🎶https://t.co/P1J6fiXRVU\n⠀\n#warnerkpop #warnermusic #KPOP #ULALASESSION #IAMFINE #U https://t.co/OPKZJYGELO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "울랄라세션",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						193,
+						204
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						205,
+						217
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "ULALASESSION",
+					"indices": [
+						224,
+						237
+					]
+				},
+				{
+					"text": "IAMFINE",
+					"indices": [
+						238,
+						246
+					]
+				},
+				{
+					"text": "U",
+					"indices": [
+						247,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ULALA_SESSION",
+					"name": "울랄라세션",
+					"id": 1510813041037766700,
+					"id_str": "1510813041037766656",
+					"indices": [
+						23,
+						37
+					]
+				},
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P1J6fiXRVU",
+					"expanded_url": "https://tidal.com/browse/playlist/a18a7e55-cb84-475d-8b17-37767f127120",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538724649558999000,
+					"id_str": "1538724649558999040",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FVql6pAaAAAEggg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVql6pAaAAAEggg.jpg",
+					"url": "https://t.co/OPKZJYGELO",
+					"display_url": "pic.twitter.com/OPKZJYGELO",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538724652234964992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538724649558999000,
+					"id_str": "1538724649558999040",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FVql6pAaAAAEggg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVql6pAaAAAEggg.jpg",
+					"url": "https://t.co/OPKZJYGELO",
+					"display_url": "pic.twitter.com/OPKZJYGELO",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538724652234964992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86854,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨Rock x K-Pop✨\n'#울랄라세션(@ulala_session) - I AM FINE'이 TIDAL(@TIDAL) 'Rock x K-Pop' 플레이리스트 커버를 장식하였습니다🤟✨\nCheck out 'I AM FINE' on 'Rock x K-Pop' #playlist on #TIDAL✨\n⠀\n🎶https://t.co/P1J6fiXRVU\n⠀\n#warnerkpop #warnermusic #KPOP #ULALASESSION #IAMFINE #U https://t.co/OPKZJYGELO"
+	},
+	{
+		"created_at": "Mon Jun 20 03:29:47 +0000 2022",
+		"id": 1538724116265865200,
+		"id_str": "1538725774211043328",
+		"full_text": "✨EDM x K-Pop✨\n'#Dept - #Summertime (feat. Ashley Alisha)' 이 #TIDAL(@TIDAL) 'EDM x K-Pop' #플레이리스트 커버를 장식하였습니다😍\nCheck out '#Summertime (feat. Ashley Alisha)' #playlist on TIDAL✨\n⠀\n🎶https://t.co/ZEhvS3r3WU\n⠀\n#warnerkpop #warnermusic #KPOP #뎁트 @_AshleyAlisha https://t.co/6GRB36MpHj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dept",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "Summertime",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "Summertime",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						205,
+						216
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						217,
+						229
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "뎁트",
+					"indices": [
+						236,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"screen_name": "_AshleyAlisha",
+					"name": "Ashley Alisha",
+					"id": 1169287234211594200,
+					"id_str": "1169287234211594240",
+					"indices": [
+						240,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZEhvS3r3WU",
+					"expanded_url": "https://tidal.com/browse/playlist/266c61fe-61a0-4a92-9749-e1839a14ad2f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538724114055458800,
+					"id_str": "1538724114055458817",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqlbeGacAEDnOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqlbeGacAEDnOY.jpg",
+					"url": "https://t.co/6GRB36MpHj",
+					"display_url": "pic.twitter.com/6GRB36MpHj",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538724116265865216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538724114055458800,
+					"id_str": "1538724114055458817",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqlbeGacAEDnOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqlbeGacAEDnOY.jpg",
+					"url": "https://t.co/6GRB36MpHj",
+					"display_url": "pic.twitter.com/6GRB36MpHj",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538724116265865216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86854,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨EDM x K-Pop✨\n'#Dept - #Summertime (feat. Ashley Alisha)' 이 #TIDAL(@TIDAL) 'EDM x K-Pop' #플레이리스트 커버를 장식하였습니다😍\nCheck out '#Summertime (feat. Ashley Alisha)' #playlist on TIDAL✨\n⠀\n🎶https://t.co/ZEhvS3r3WU\n⠀\n#warnerkpop #warnermusic #KPOP #뎁트 @_AshleyAlisha https://t.co/6GRB36MpHj"
+	},
+	{
+		"created_at": "Mon Jun 20 03:29:39 +0000 2022",
+		"id": 1538720327449968600,
+		"id_str": "1538725740170051584",
+		"full_text": "📸New Profile\n\n박소은 정규 2집 ‘재활용’\n2022.06.27 12PM\n\n#박소은 #정규 #2집 #재활용 #앨범 #스케줄 #손님 #RECYCLE https://t.co/CuJTYW7mMT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "정규",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "2집",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "재활용",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "RECYCLE",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538720319225360400,
+					"id_str": "1538720319225360384",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqh-lQacAAo309.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqh-lQacAAo309.jpg",
+					"url": "https://t.co/CuJTYW7mMT",
+					"display_url": "pic.twitter.com/CuJTYW7mMT",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1538720327449968640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1370,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538720319225360400,
+					"id_str": "1538720319225360384",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqh-lQacAAo309.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqh-lQacAAo309.jpg",
+					"url": "https://t.co/CuJTYW7mMT",
+					"display_url": "pic.twitter.com/CuJTYW7mMT",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1538720327449968640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1370,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538720319233728500,
+					"id_str": "1538720319233728512",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqh-lSaIAA93lp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqh-lSaIAA93lp.jpg",
+					"url": "https://t.co/CuJTYW7mMT",
+					"display_url": "pic.twitter.com/CuJTYW7mMT",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1538720327449968640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGaNmEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGaNmEi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2249,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸New Profile\n\n박소은 정규 2집 ‘재활용’\n2022.06.27 12PM\n\n#박소은 #정규 #2집 #재활용 #앨범 #스케줄 #손님 #RECYCLE https://t.co/CuJTYW7mMT"
+	},
+	{
+		"created_at": "Mon Jun 20 03:29:32 +0000 2022",
+		"id": 1538720147040481300,
+		"id_str": "1538725710336073728",
+		"full_text": "The ‘iScreaM’ project remix single of NCT DREAM’s ‘Glitch Mode’ by skilled producer JINBO will be released on June 21 at 6:00  PM (KST)! \n\n#NCTDREAM #GlitchMode \n#NCTDREAM_GlitchMode #Remix\n#JINBO \n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/oR1hLQYqyq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "GlitchMode",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"text": "NCTDREAM_GlitchMode",
+					"indices": [
+						162,
+						182
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "JINBO",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						198,
+						206
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						207,
+						221
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						223,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538720137901056000,
+					"id_str": "1538720137901056000",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqh0BxVIAAKi6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqh0BxVIAAKi6b.jpg",
+					"url": "https://t.co/oR1hLQYqyq",
+					"display_url": "pic.twitter.com/oR1hLQYqyq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1538720147040481280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538720137901056000,
+					"id_str": "1538720137901056000",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqh0BxVIAAKi6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqh0BxVIAAKi6b.jpg",
+					"url": "https://t.co/oR1hLQYqyq",
+					"display_url": "pic.twitter.com/oR1hLQYqyq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1538720147040481280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538720137901052000,
+					"id_str": "1538720137901051904",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqh0BxVEAAerbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqh0BxVEAAerbP.jpg",
+					"url": "https://t.co/oR1hLQYqyq",
+					"display_url": "pic.twitter.com/oR1hLQYqyq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1538720147040481280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10917809,
+			"friends_count": 56,
+			"listed_count": 12325,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 616,
+		"favorite_count": 2730,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The ‘iScreaM’ project remix single of NCT DREAM’s ‘Glitch Mode’ by skilled producer JINBO will be released on June 21 at 6:00  PM (KST)! \n\n#NCTDREAM #GlitchMode \n#NCTDREAM_GlitchMode #Remix\n#JINBO \n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/oR1hLQYqyq"
+	},
+	{
 		"created_at": "Mon Jun 20 03:13:42 +0000 2022",
 		"id": 1538721726246269000,
 		"id_str": "1538721726246268928",
