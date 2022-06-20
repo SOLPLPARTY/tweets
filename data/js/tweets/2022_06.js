@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 06:58:14 +0000 2022",
+		"id": 1538772458291208200,
+		"id_str": "1538778234766213121",
+		"full_text": "안됩니다 https://t.co/RCTKqZDJo8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RCTKqZDJo8",
+					"expanded_url": "https://twitter.com/digitalxbaby/status/1538692320346144768",
+					"display_url": "twitter.com/digitalxbaby/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "",
+			"description": "하지만 나는 끝까지 살아남을거야",
+			"url": "https://t.co/QHx8KNJGKz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QHx8KNJGKz",
+							"expanded_url": "https://url.kr/stjpir",
+							"display_url": "url.kr/stjpir",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2851,
+			"friends_count": 1101,
+			"listed_count": 10,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 2033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1538692320346144800,
+		"quoted_status_id_str": "1538692320346144768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RCTKqZDJo8",
+			"expanded": "https://twitter.com/digitalxbaby/status/1538692320346144768",
+			"display": "twitter.com/digitalxbaby/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 20 01:16:51 +0000 2022",
+			"id": 1538692320346144800,
+			"id_str": "1538692320346144768",
+			"full_text": "서울인기에서\n썎쓰하고싶다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1357300835118575600,
+				"id_str": "1357300835118575616",
+				"name": "쥬황이",
+				"screen_name": "DigitalxBaby",
+				"location": "내 밑으로 죠아린 세계",
+				"description": "",
+				"url": "https://t.co/tkkckGo3IF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tkkckGo3IF",
+								"expanded_url": "https://peing.net/ko/digitalxbaby",
+								"display_url": "peing.net/ko/digitalxbaby",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 277,
+				"friends_count": 503,
+				"listed_count": 1,
+				"created_at": "Thu Feb 04 12:11:58 +0000 2021",
+				"favourites_count": 1732,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1513009969813397506/3lDmmWz1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513009969813397506/3lDmmWz1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1357300835118575616/1630722115",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 103,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안됩니다 https://t.co/RCTKqZDJo8"
+	},
+	{
 		"created_at": "Mon Jun 20 06:11:16 +0000 2022",
 		"id": 1538764237014593500,
 		"id_str": "1538766414579961856",
