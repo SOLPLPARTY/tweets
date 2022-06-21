@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 03:11:16 +0000 2022",
+		"id": 1539080666431774700,
+		"id_str": "1539083504180502528",
+		"full_text": "&lt;용용 단독 콘서트 ‘MIRACLE’&gt;\n· 일시 : 2022년 07월 17일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 용용 (Guest : Jayci Yucca, 그리 (GREE))\n· 예매 : 멜론티켓 2022년 06월 28일 (화) 오후 8시 예매오픈\n\n#롤링홀 #ROLLINGHALL\n#용용 #YY #단독콘서트 #MIRACLE\n#홍대 #공연 #인디 #멜론티켓 https://t.co/X74nkYVVyi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "용용",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "YY",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "MIRACLE",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538034940881043500,
+					"id_str": "1538034940881043461",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgyoT9agAUXAPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgyoT9agAUXAPU.jpg",
+					"url": "https://t.co/X74nkYVVyi",
+					"display_url": "pic.twitter.com/X74nkYVVyi",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1539080666431774720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538034940881043500,
+					"id_str": "1538034940881043461",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgyoT9agAUXAPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgyoT9agAUXAPU.jpg",
+					"url": "https://t.co/X74nkYVVyi",
+					"display_url": "pic.twitter.com/X74nkYVVyi",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1539080666431774720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;용용 단독 콘서트 ‘MIRACLE’&gt;\n· 일시 : 2022년 07월 17일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 용용 (Guest : Jayci Yucca, 그리 (GREE))\n· 예매 : 멜론티켓 2022년 06월 28일 (화) 오후 8시 예매오픈\n\n#롤링홀 #ROLLINGHALL\n#용용 #YY #단독콘서트 #MIRACLE\n#홍대 #공연 #인디 #멜론티켓 https://t.co/X74nkYVVyi"
+	},
+	{
 		"created_at": "Tue Jun 21 02:17:38 +0000 2022",
 		"id": 1539070003932065800,
 		"id_str": "1539070003932065797",
