@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 01:11:22 +0000 2022",
+		"id": 1539048899129684000,
+		"id_str": "1539053327236976641",
+		"full_text": "빵파티~7시부터 함께 밴드공연~디제잉~설치퍼포먼스~단막극~ 함께 즐겨요~ #파라란 #이지구 #김연구 #김동용 #미미키스 #제8극장 #스프링스 #전다인밴드 #민수홍 #클럽빵 #빵파티 #홍대앞 #kindie 예매방법/ 3333-0811-27761 카카오뱅크/김영징으로 입금(2만원) , 문자메시지발송(010-8910-1089) https://t.co/xFBX6IsHhC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "파라란",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "이지구",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "김연구",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "김동용",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "미미키스",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "제8극장",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "스프링스",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "전다인밴드",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "빵파티",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "홍대앞",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539048890627805200,
+					"id_str": "1539048890627805184",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvMz9HUUAAXc0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvMz9HUUAAXc0w.jpg",
+					"url": "https://t.co/xFBX6IsHhC",
+					"display_url": "pic.twitter.com/xFBX6IsHhC",
+					"expanded_url": "https://twitter.com/club_bbang/status/1539048899129683973/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539048890627805200,
+					"id_str": "1539048890627805184",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvMz9HUUAAXc0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvMz9HUUAAXc0w.jpg",
+					"url": "https://t.co/xFBX6IsHhC",
+					"display_url": "pic.twitter.com/xFBX6IsHhC",
+					"expanded_url": "https://twitter.com/club_bbang/status/1539048899129683973/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 906,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빵파티~7시부터 함께 밴드공연~디제잉~설치퍼포먼스~단막극~ 함께 즐겨요~ #파라란 #이지구 #김연구 #김동용 #미미키스 #제8극장 #스프링스 #전다인밴드 #민수홍 #클럽빵 #빵파티 #홍대앞 #kindie 예매방법/ 3333-0811-27761 카카오뱅크/김영징으로 입금(2만원) , 문자메시지발송(010-8910-1089) https://t.co/xFBX6IsHhC"
+	},
+	{
 		"created_at": "Mon Jun 20 13:11:16 +0000 2022",
 		"id": 1538851445830602800,
 		"id_str": "1538872111359475713",
