@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 05:58:15 +0000 2022",
+		"id": 1539473285380878300,
+		"id_str": "1539487911401426945",
+		"full_text": "사진📸 속에 숨겨져있던 아티스트에 대한 힌트는 무엇이었을까요?\n지금 영상을 통해 2차 라인업 힌트의 정답을 확인해보세요🥰\n\n#KCON #KCONUSA #KCON2022LA https://t.co/vJiX0dtlaH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJiX0dtlaH",
+					"expanded_url": "https://twitter.com/kconusa/status/1539443054234390529",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447702,
+			"friends_count": 76,
+			"listed_count": 1111,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539443054234390500,
+		"quoted_status_id_str": "1539443054234390529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vJiX0dtlaH",
+			"expanded": "https://twitter.com/kconusa/status/1539443054234390529",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 22 03:00:00 +0000 2022",
+			"id": 1539443054234390500,
+			"id_str": "1539443054234390529",
+			"full_text": "Did you guess all the artists from the hints we gave in our images? 📸 \nWatch the video to check our 2nd LINEUP answers! 🥰\n\n#KCON #KCONUSA #KCON2022LA https://t.co/BvUmWK7LHt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							123,
+							128
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							129,
+							137
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							138,
+							149
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1539403536886136800,
+						"id_str": "1539403536886136832",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1539403536886136832/img/Of6Z1uz6fAfnjRFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1539403536886136832/img/Of6Z1uz6fAfnjRFq.jpg",
+						"url": "https://t.co/BvUmWK7LHt",
+						"display_url": "pic.twitter.com/BvUmWK7LHt",
+						"expanded_url": "https://twitter.com/kconusa/status/1539443054234390529/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1539403536886136800,
+						"id_str": "1539403536886136832",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1539403536886136832/img/Of6Z1uz6fAfnjRFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1539403536886136832/img/Of6Z1uz6fAfnjRFq.jpg",
+						"url": "https://t.co/BvUmWK7LHt",
+						"display_url": "pic.twitter.com/BvUmWK7LHt",
+						"expanded_url": "https://twitter.com/kconusa/status/1539443054234390529/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 49240,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1539403536886136832/pl/is_gCAXYRoPLncL3.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1539403536886136832/vid/480x852/RN2JWKWDx6xo_ZSW.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1539403536886136832/vid/320x568/SLN0GR3oiprDKaEK.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1539403536886136832/vid/720x1280/_4J9sCN7ABpJ410W.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 218604,
+				"friends_count": 6,
+				"listed_count": 475,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20320,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 473,
+			"favorite_count": 1266,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사진📸 속에 숨겨져있던 아티스트에 대한 힌트는 무엇이었을까요?\n지금 영상을 통해 2차 라인업 힌트의 정답을 확인해보세요🥰\n\n#KCON #KCONUSA #KCON2022LA https://t.co/vJiX0dtlaH"
+	},
+	{
 		"created_at": "Wed Jun 22 04:29:34 +0000 2022",
 		"id": 1539453223378964500,
 		"id_str": "1539465594684297217",
