@@ -1,10 +1,361 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 12:58:21 +0000 2022",
+		"id": 1539585393301291000,
+		"id_str": "1539593636874276865",
+		"full_text": "📢KCON 2022 LA Mnet Plus Special Package 티켓 선예매 FAQ\n\nMnet Plus Special Package🎁에 대한 궁금증을 해결해드립니다!\n지금 바로 링크를 통해 자세한 내용을 확인해보세요😍\n🔗https://t.co/x7T0EBMhfA\n\n#KCON #KCONUSA #KCON2022LA https://t.co/Qbv0CW6ppB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						167,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x7T0EBMhfA",
+					"expanded_url": "https://bit.ly/3HMpk75",
+					"display_url": "bit.ly/3HMpk75",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/Qbv0CW6ppB",
+					"expanded_url": "https://twitter.com/kconusa/status/1539577749890686981",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447815,
+			"friends_count": 76,
+			"listed_count": 1112,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539577749890687000,
+		"quoted_status_id_str": "1539577749890686981",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qbv0CW6ppB",
+			"expanded": "https://twitter.com/kconusa/status/1539577749890686981",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 22 11:55:14 +0000 2022",
+			"id": 1539577749890687000,
+			"id_str": "1539577749890686981",
+			"full_text": "📢KCON 2022 LA Mnet Plus Special Package FAQ\n\nAnswering questions about Mnet Plus Special Package🎁\nPlease check the details below now😍\n🔗https://t.co/XhILta3UX2\n\n#KCON #KCONUSA #KCON2022LA https://t.co/BiFfy0MCq2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							160,
+							165
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							166,
+							174
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							175,
+							186
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XhILta3UX2",
+						"expanded_url": "https://bit.ly/3HMpk75",
+						"display_url": "bit.ly/3HMpk75",
+						"indices": [
+							135,
+							158
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1539574419965718500,
+						"id_str": "1539574419965718528",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/FV2qxydVsAAgkgH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FV2qxydVsAAgkgH.jpg",
+						"url": "https://t.co/BiFfy0MCq2",
+						"display_url": "pic.twitter.com/BiFfy0MCq2",
+						"expanded_url": "https://twitter.com/kconusa/status/1539577749890686981/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1049,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1236,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1539574419965718500,
+						"id_str": "1539574419965718528",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/FV2qxydVsAAgkgH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FV2qxydVsAAgkgH.jpg",
+						"url": "https://t.co/BiFfy0MCq2",
+						"display_url": "pic.twitter.com/BiFfy0MCq2",
+						"expanded_url": "https://twitter.com/kconusa/status/1539577749890686981/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1049,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1236,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 219141,
+				"friends_count": 6,
+				"listed_count": 472,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20322,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢KCON 2022 LA Mnet Plus Special Package 티켓 선예매 FAQ\n\nMnet Plus Special Package🎁에 대한 궁금증을 해결해드립니다!\n지금 바로 링크를 통해 자세한 내용을 확인해보세요😍\n🔗https://t.co/x7T0EBMhfA\n\n#KCON #KCONUSA #KCON2022LA https://t.co/Qbv0CW6ppB"
+	},
+	{
 		"created_at": "Wed Jun 22 11:29:48 +0000 2022",
 		"id": 1539570886306476000,
 		"id_str": "1539571352147054592",
-		"full_text": "[#인순이] #수니버스 #순티크\n\n▶단발병 유발! 단발좌 인순이🧑🏻‍🎤 | 순티크 EP.02 #메이크업 #Shorts◀\n\n💛단발병 불러일으키는 순이언니의 칼단발💚\n이제까지 한번도 보지 못한 단발좌 인순이 보러 고고!\n\n👉 https://t.co/Ljiss7jnY9\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse",
+		"full_text": "[#인순이] #수니버스 #순티크\n\n▶단발병 유발! 단발좌 인순이🧑🏻🎤 | 순티크 EP.02 #메이크업 #Shorts◀\n\n💛단발병 불러일으키는 순이언니의 칼단발💚\n이제까지 한번도 보지 못한 단발좌 인순이 보러 고고!\n\n👉 https://t.co/Ljiss7jnY9\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -169,7 +520,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#인순이] #수니버스 #순티크\n\n▶단발병 유발! 단발좌 인순이🧑🏻‍🎤 | 순티크 EP.02 #메이크업 #Shorts◀\n\n💛단발병 불러일으키는 순이언니의 칼단발💚\n이제까지 한번도 보지 못한 단발좌 인순이 보러 고고!\n\n👉 https://t.co/Ljiss7jnY9\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse"
+		"text": "[#인순이] #수니버스 #순티크\n\n▶단발병 유발! 단발좌 인순이🧑🏻🎤 | 순티크 EP.02 #메이크업 #Shorts◀\n\n💛단발병 불러일으키는 순이언니의 칼단발💚\n이제까지 한번도 보지 못한 단발좌 인순이 보러 고고!\n\n👉 https://t.co/Ljiss7jnY9\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse"
 	},
 	{
 		"created_at": "Wed Jun 22 11:29:41 +0000 2022",
