@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 09:29:43 +0000 2022",
+		"id": 1539541001315815400,
+		"id_str": "1539541130722922496",
+		"full_text": "Spotify : https://t.co/9sBPneEnJN\nApple Music : https://t.co/moQjdgsrXo\n멜론 : https://t.co/kY5zCZkuBU\n지니 : https://t.co/7v7nMYIH2l\n벅스 : https://t.co/maF11LN05g\nFLO : https://t.co/WCGfsuWCNm\nVIBE : https://t.co/pRHtUMH2e6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9sBPneEnJN",
+					"expanded_url": "https://open.spotify.com/album/5teb4keIZfN8A9eSt7Qjyn?si=bu7rLOi4TpmpZpbCWPgFxw",
+					"display_url": "open.spotify.com/album/5teb4keI…",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/moQjdgsrXo",
+					"expanded_url": "https://music.apple.com/kr/album/coldblue-feat-kim-mi-jeong/1630330313",
+					"display_url": "music.apple.com/kr/album/coldb…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/kY5zCZkuBU",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10986426",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/7v7nMYIH2l",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82763695",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/maF11LN05g",
+					"expanded_url": "https://music.bugs.co.kr/album/20474813?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/20474813…",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/WCGfsuWCNm",
+					"expanded_url": "https://www.music-flo.com/detail/album/edhzalnle/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/pRHtUMH2e6",
+					"expanded_url": "https://vibe.naver.com/album/7612132",
+					"display_url": "vibe.naver.com/album/7612132",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539533972559933400,
+		"in_reply_to_status_id_str": "1539533972559933440",
+		"in_reply_to_user_id": 76964739,
+		"in_reply_to_user_id_str": "76964739",
+		"in_reply_to_screen_name": "inplanet",
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify : https://t.co/9sBPneEnJN\nApple Music : https://t.co/moQjdgsrXo\n멜론 : https://t.co/kY5zCZkuBU\n지니 : https://t.co/7v7nMYIH2l\n벅스 : https://t.co/maF11LN05g\nFLO : https://t.co/WCGfsuWCNm\nVIBE : https://t.co/pRHtUMH2e6"
+	},
+	{
+		"created_at": "Wed Jun 22 09:29:40 +0000 2022",
+		"id": 1539534816508792800,
+		"id_str": "1539541117611524096",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27~28 Sold out\n2022.8.29 ☆New\nTOKYO DOME\nTVXQ! Comment　➤\n \n#동방신기 #東方神起 #TVXQ! #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/Bt78BFRq8F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동방신기",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						136,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539534318695219200,
+					"id_str": "1539534318695219200",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2Gl3bacAUTo7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2Gl3bacAUTo7b.jpg",
+					"url": "https://t.co/Bt78BFRq8F",
+					"display_url": "pic.twitter.com/Bt78BFRq8F",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1539534816508792832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539534318695219200,
+					"id_str": "1539534318695219200",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2Gl3bacAUTo7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2Gl3bacAUTo7b.jpg",
+					"url": "https://t.co/Bt78BFRq8F",
+					"display_url": "pic.twitter.com/Bt78BFRq8F",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1539534816508792832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19084,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1539534318695219200/pl/3ISyK4QaZpdJsTrH.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539534318695219200/vid/640x360/8OJi69th0FR81bth.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539534318695219200/vid/480x270/Ejmpogf55HcN5nxY.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539534318695219200/vid/1280x720/h2YOaLg6u-p5knvL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10923975,
+			"friends_count": 56,
+			"listed_count": 12333,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1361,
+		"favorite_count": 4826,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27~28 Sold out\n2022.8.29 ☆New\nTOKYO DOME\nTVXQ! Comment　➤\n \n#동방신기 #東方神起 #TVXQ! #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/Bt78BFRq8F"
+	},
+	{
+		"created_at": "Wed Jun 22 09:29:37 +0000 2022",
+		"id": 1539533972559933400,
+		"id_str": "1539541104474849281",
+		"full_text": "#Wilcox \n\n🧊\n\n𝗪𝗶𝗹𝗰𝗼𝘅 \n𝗖𝗢𝗟𝗗𝗕𝗟𝗨𝗘 (𝗙𝗲𝗮𝘁. 𝗞𝗶𝗺 𝗠𝗶 𝗝𝗲𝗼𝗻𝗴)\nOUT NOW! \n\n지금 바로 모든 음원사이트에서\n감상하실 수 있습니다\n\n#윌콕스 #COLDBLUE #김미정 #KimMiJeong https://t.co/JauaLQLdnY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "COLDBLUE",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "김미정",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "KimMiJeong",
+					"indices": [
+						112,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539533960358686700,
+					"id_str": "1539533960358686720",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2F-urUcAAT67r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2F-urUcAAT67r.jpg",
+					"url": "https://t.co/JauaLQLdnY",
+					"display_url": "pic.twitter.com/JauaLQLdnY",
+					"expanded_url": "https://twitter.com/inplanet/status/1539533972559933440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539533960358686700,
+					"id_str": "1539533960358686720",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2F-urUcAAT67r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2F-urUcAAT67r.jpg",
+					"url": "https://t.co/JauaLQLdnY",
+					"display_url": "pic.twitter.com/JauaLQLdnY",
+					"expanded_url": "https://twitter.com/inplanet/status/1539533972559933440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Wilcox \n\n🧊\n\n𝗪𝗶𝗹𝗰𝗼𝘅 \n𝗖𝗢𝗟𝗗𝗕𝗟𝗨𝗘 (𝗙𝗲𝗮𝘁. 𝗞𝗶𝗺 𝗠𝗶 𝗝𝗲𝗼𝗻𝗴)\nOUT NOW! \n\n지금 바로 모든 음원사이트에서\n감상하실 수 있습니다\n\n#윌콕스 #COLDBLUE #김미정 #KimMiJeong https://t.co/JauaLQLdnY"
+	},
+	{
 		"created_at": "Wed Jun 22 09:12:12 +0000 2022",
 		"id": 1539536723373199400,
 		"id_str": "1539536723373199361",
