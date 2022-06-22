@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 01:58:15 +0000 2022",
+		"id": 1539420405345099800,
+		"id_str": "1539427514262732800",
+		"full_text": "💙KCON 2022 LA 2nd LINEUP💚\n\n#ATEEZ\n#INI\n#JO1\n#Kep1er\n#LIGHTSUM\n#LOONA\n#NCTDREAM\n#TO1\n\n#KCON #KCONUSA #KCON2022LA https://t.co/RSpe02ZGhU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATEEZ",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "INI",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "JO1",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "LIGHTSUM",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539413313414889500,
+					"id_str": "1539413313414889472",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FV0YQJyaAAAQqF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV0YQJyaAAAQqF2.jpg",
+					"url": "https://t.co/RSpe02ZGhU",
+					"display_url": "pic.twitter.com/RSpe02ZGhU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1539420405345099776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539413313414889500,
+					"id_str": "1539413313414889472",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FV0YQJyaAAAQqF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV0YQJyaAAAQqF2.jpg",
+					"url": "https://t.co/RSpe02ZGhU",
+					"display_url": "pic.twitter.com/RSpe02ZGhU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1539420405345099776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447508,
+			"friends_count": 76,
+			"listed_count": 1113,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 654,
+		"favorite_count": 1570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💙KCON 2022 LA 2nd LINEUP💚\n\n#ATEEZ\n#INI\n#JO1\n#Kep1er\n#LIGHTSUM\n#LOONA\n#NCTDREAM\n#TO1\n\n#KCON #KCONUSA #KCON2022LA https://t.co/RSpe02ZGhU"
+	},
+	{
 		"created_at": "Wed Jun 22 00:29:29 +0000 2022",
 		"id": 1539390455208480800,
 		"id_str": "1539405175261118464",
