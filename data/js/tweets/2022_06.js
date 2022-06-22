@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 07:29:24 +0000 2022",
+		"id": 1539503457454858200,
+		"id_str": "1539510854034636805",
+		"full_text": "[#손태진] TBS 팟빵 오리지널 콘텐츠 '손태진의 봉인해제' 안내✔️\n\n야망 MC 손태진이 팟빵으로 찾아옵니다😎\n색다른 손태진의 모습을 만나고 싶다면?\n✔️6/25 (토) 프롤로그 \n✔️6/29 (수) 첫 방송 확인\n📌매주 수, 토요일 팟빵에서 공개됩니다❗\n\n#SONTAEJIN #TJSON #TBS #팟빵 #손태진의봉인해제 https://t.co/T2B7ALZ19f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "TBS",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "팟빵",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "손태진의봉인해제",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539495286850334700,
+					"id_str": "1539495286850334720",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1izooaMAALrJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1izooaMAALrJt.jpg",
+					"url": "https://t.co/T2B7ALZ19f",
+					"display_url": "pic.twitter.com/T2B7ALZ19f",
+					"expanded_url": "https://twitter.com/themysticstory/status/1539503457454858240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539495286850334700,
+					"id_str": "1539495286850334720",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1izooaMAALrJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1izooaMAALrJt.jpg",
+					"url": "https://t.co/T2B7ALZ19f",
+					"display_url": "pic.twitter.com/T2B7ALZ19f",
+					"expanded_url": "https://twitter.com/themysticstory/status/1539503457454858240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35163,
+			"friends_count": 15,
+			"listed_count": 292,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1650879304",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] TBS 팟빵 오리지널 콘텐츠 '손태진의 봉인해제' 안내✔️\n\n야망 MC 손태진이 팟빵으로 찾아옵니다😎\n색다른 손태진의 모습을 만나고 싶다면?\n✔️6/25 (토) 프롤로그 \n✔️6/29 (수) 첫 방송 확인\n📌매주 수, 토요일 팟빵에서 공개됩니다❗\n\n#SONTAEJIN #TJSON #TBS #팟빵 #손태진의봉인해제 https://t.co/T2B7ALZ19f"
+	},
+	{
 		"created_at": "Wed Jun 22 07:11:16 +0000 2022",
 		"id": 1539497651988705300,
 		"id_str": "1539506289906155522",
