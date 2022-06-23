@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 13:11:16 +0000 2022",
+		"id": 1539956442815352800,
+		"id_str": "1539959274822139904",
+		"full_text": "📢 6/24 공연 현장 안내\n⠀\n&lt;ROLLING PROJECT : CMYK #1 [ Igloobay &amp; evenif &amp; GongHaim ]&gt;\n· 티켓수령 : 7시 (현장구매 소량 가능)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 이글루베이, 이븐이프, 공하임\n⠀\n#롤링홀 #CMYK\n#이글루베이 #Igloobay #이븐이프 #evenif #공하임 #GongHaim https://t.co/V6wiFHPXgt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "CMYK",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "이글루베이",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "Igloobay",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "이븐이프",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "evenif",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"text": "공하임",
+					"indices": [
+						213,
+						217
+					]
+				},
+				{
+					"text": "GongHaim",
+					"indices": [
+						218,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539859268618588200,
+					"id_str": "1539859268618588160",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FV6t2KYakAAkuJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV6t2KYakAAkuJa.jpg",
+					"url": "https://t.co/V6wiFHPXgt",
+					"display_url": "pic.twitter.com/V6wiFHPXgt",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1539956442815352832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539859268618588200,
+					"id_str": "1539859268618588160",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FV6t2KYakAAkuJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV6t2KYakAAkuJa.jpg",
+					"url": "https://t.co/V6wiFHPXgt",
+					"display_url": "pic.twitter.com/V6wiFHPXgt",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1539956442815352832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539859282770169900,
+					"id_str": "1539859282770169856",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FV6t2_GakAAAfug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV6t2_GakAAAfug.jpg",
+					"url": "https://t.co/V6wiFHPXgt",
+					"display_url": "pic.twitter.com/V6wiFHPXgt",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1539956442815352832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 6/24 공연 현장 안내\n⠀\n&lt;ROLLING PROJECT : CMYK #1 [ Igloobay &amp; evenif &amp; GongHaim ]&gt;\n· 티켓수령 : 7시 (현장구매 소량 가능)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 이글루베이, 이븐이프, 공하임\n⠀\n#롤링홀 #CMYK\n#이글루베이 #Igloobay #이븐이프 #evenif #공하임 #GongHaim https://t.co/V6wiFHPXgt"
+	},
+	{
 		"created_at": "Thu Jun 23 12:11:25 +0000 2022",
 		"id": 1539927420760797200,
 		"id_str": "1539944210119499779",
