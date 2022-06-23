@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 23:29:25 +0000 2022",
+		"id": 1539741779414507500,
+		"id_str": "1539752446666440704",
+		"full_text": "매진상태였던 빅 시프 내한공연에 미입금으로 인한 취소표가 소량 발생했습니다.\n\nhttps://t.co/FPP3XLdgIi https://t.co/1KiNsYOzAh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FPP3XLdgIi",
+					"expanded_url": "https://tickets.interpark.com/goods/22007144",
+					"display_url": "tickets.interpark.com/goods/22007144",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/1KiNsYOzAh",
+					"expanded_url": "https://twitter.com/highjinkxx/status/1539186506165760000",
+					"display_url": "twitter.com/highjinkxx/sta…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 605,
+			"friends_count": 27,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539186506165760000,
+		"quoted_status_id_str": "1539186506165760000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1KiNsYOzAh",
+			"expanded": "https://twitter.com/highjinkxx/status/1539186506165760000",
+			"display": "twitter.com/highjinkxx/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 21 10:00:34 +0000 2022",
+			"id": 1539186506165760000,
+			"id_str": "1539186506165760000",
+			"full_text": "[Big Thief Live in Seoul 티켓오픈]\n\n잠시후 8시부터 빅 시프 내한공연의 티켓 판매가 시작됩니다.\n\n일시 : 2022년 11월 12일 토요일 7PM\n장소 : 홍대 롤링홀\n가격 : 전석 스탠딩 66,000 원\n관람 시간: 120분 (오프닝 아티스트 포함)\n\nhttps://t.co/FPP3XLdgIi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FPP3XLdgIi",
+						"expanded_url": "https://tickets.interpark.com/goods/22007144",
+						"display_url": "tickets.interpark.com/goods/22007144",
+						"indices": [
+							154,
+							177
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985865748638650400,
+				"id_str": "985865748638650368",
+				"name": "HIGHJINKX 하이징크스",
+				"screen_name": "HIGHJINKXX",
+				"location": "대한민국 서울",
+				"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+				"url": "https://t.co/jgdOjxpuHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jgdOjxpuHL",
+								"expanded_url": "https://www.highjinkxmm.com",
+								"display_url": "highjinkxmm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UEZd1zJqKQ",
+								"expanded_url": "http://highjinkx.com",
+								"display_url": "highjinkx.com",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/bYHM3gw6rB",
+								"expanded_url": "http://highjinkxmm.com",
+								"display_url": "highjinkxmm.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 605,
+				"friends_count": 27,
+				"listed_count": 4,
+				"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+				"favourites_count": 381,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 787,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매진상태였던 빅 시프 내한공연에 미입금으로 인한 취소표가 소량 발생했습니다.\n\nhttps://t.co/FPP3XLdgIi https://t.co/1KiNsYOzAh"
+	},
+	{
 		"created_at": "Wed Jun 22 15:53:08 +0000 2022",
 		"id": 1539637620010909700,
 		"id_str": "1539637620010909696",
