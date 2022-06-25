@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 05:29:24 +0000 2022",
+		"id": 1540567626182979600,
+		"id_str": "1540567818512515072",
+		"full_text": "\"음악에는 성별이 없다\"  - 인디씬 내 성평등을 위한 여성 록 아티스트 연합공연\n\n공연장소: 채널1969\n라인업: 드링킹소년소녀합창단, 빌리카터, 혼즈, 사막꽃\n\n현매 가능합니다😎 https://t.co/WB6Uj1Q7DW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WB6Uj1Q7DW",
+					"expanded_url": "https://twitter.com/indistreet_/status/1540565416623411200",
+					"display_url": "twitter.com/indistreet_/st…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3321,
+			"friends_count": 1292,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1540565416623411200,
+		"quoted_status_id_str": "1540565416623411200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WB6Uj1Q7DW",
+			"expanded": "https://twitter.com/indistreet_/status/1540565416623411200",
+			"display": "twitter.com/indistreet_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 25 05:19:52 +0000 2022",
+			"id": 1540565416623411200,
+			"id_str": "1540565416623411200",
+			"full_text": "2022년 6월 25일 토요일 공연안내\n\n\"음악에는 성별이 없다\"  - 인디씬 내 성평등을 위한 여성 록 아티스트 연합공연\n\n공연장소: 채널1969\n라인업: 드링킹소년소녀합창단, 빌리카터, 혼즈, 사막꽃\n상세정보: https://t.co/SrIijIBTOH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SrIijIBTOH",
+						"expanded_url": "https://indistreet.com/live/2872",
+						"display_url": "indistreet.com/live/2872",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://indistreet.com\" rel=\"nofollow\">indistreet.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468959873,
+				"id_str": "468959873",
+				"name": "인디스트릿",
+				"screen_name": "indistreet_",
+				"location": "",
+				"description": "인디공연의 모든것 인디스트릿 공식봇 / 매일 새로운 인디공연 소식, 뮤지션 공연장 소식을 만나보세요! 금요일 주말은 공연이 많으니 타임라인도배 유의! 빠진 공연일정은 https://t.co/HYKuRhsTyt에 올려주세요! 맨션으로는 공연등록이 되지않습니다.",
+				"url": "https://t.co/yRAaTjIvqP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yRAaTjIvqP",
+								"expanded_url": "https://indistreet.com",
+								"display_url": "indistreet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HYKuRhsTyt",
+								"expanded_url": "http://indistreet.com",
+								"display_url": "indistreet.com",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7331,
+				"friends_count": 2847,
+				"listed_count": 127,
+				"created_at": "Fri Jan 20 02:49:55 +0000 2012",
+				"favourites_count": 66,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53873,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1365909939063902210/5vxeQVCa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365909939063902210/5vxeQVCa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468959873/1404357522",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"음악에는 성별이 없다\"  - 인디씬 내 성평등을 위한 여성 록 아티스트 연합공연\n\n공연장소: 채널1969\n라인업: 드링킹소년소녀합창단, 빌리카터, 혼즈, 사막꽃\n\n현매 가능합니다😎 https://t.co/WB6Uj1Q7DW"
+	},
+	{
 		"created_at": "Sat Jun 25 04:29:25 +0000 2022",
 		"id": 1540546128193589200,
 		"id_str": "1540552719445942272",
