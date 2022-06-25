@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 04:11:16 +0000 2022",
+		"id": 1540545119736045600,
+		"id_str": "1540548155628044288",
+		"full_text": "[코멘터리 룸 : 해파 &lt;죽은 척하기&gt; 편] 2022.07.16(토) PM 7:30 https://t.co/QKlR9urUNh https://t.co/Bom7WssNvH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QKlR9urUNh",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222787290492",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540545113578844200,
+					"id_str": "1540545113578844161",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FWEdnl9UsAEz6Cg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWEdnl9UsAEz6Cg.jpg",
+					"url": "https://t.co/Bom7WssNvH",
+					"display_url": "pic.twitter.com/Bom7WssNvH",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1540545119736045569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540545113578844200,
+					"id_str": "1540545113578844161",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FWEdnl9UsAEz6Cg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWEdnl9UsAEz6Cg.jpg",
+					"url": "https://t.co/Bom7WssNvH",
+					"display_url": "pic.twitter.com/Bom7WssNvH",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1540545119736045569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8395,
+			"friends_count": 551,
+			"listed_count": 0,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코멘터리 룸 : 해파 &lt;죽은 척하기&gt; 편] 2022.07.16(토) PM 7:30 https://t.co/QKlR9urUNh https://t.co/Bom7WssNvH"
+	},
+	{
+		"created_at": "Sat Jun 25 03:58:14 +0000 2022",
+		"id": 1540532572824174600,
+		"id_str": "1540544875690659840",
+		"full_text": "Mnet Plus Special Package 구매자를 위한 베네핏🎁\n아래 링크를 확인하고, KCON 2022 LA 컨벤션 티켓을 사전등록해보세요💙💚\n\n📍사전등록 방법 : https://t.co/ciNC0Ri5Ik\n📍컨벤션 티켓 등록 링크 : https://t.co/2qfJjpO1HZ\n\n#KCON #KCONUSA #KCON2022LA https://t.co/rplyp5OBDO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ciNC0Ri5Ik",
+					"expanded_url": "https://bit.ly/3tZmlT3",
+					"display_url": "bit.ly/3tZmlT3",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/2qfJjpO1HZ",
+					"expanded_url": "https://na.eventscloud.com/693631",
+					"display_url": "na.eventscloud.com/693631",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/rplyp5OBDO",
+					"expanded_url": "https://twitter.com/kconusa/status/1540500022747222017",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448376,
+			"friends_count": 76,
+			"listed_count": 1114,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1540500022747222000,
+		"quoted_status_id_str": "1540500022747222017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rplyp5OBDO",
+			"expanded": "https://twitter.com/kconusa/status/1540500022747222017",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 25 01:00:01 +0000 2022",
+			"id": 1540500022747222000,
+			"id_str": "1540500022747222017",
+			"full_text": "Mnet Plus Special Package benefit🎁\nCheck the link down below for more info about pre-registration for KCON 2022 LA convention ticket💙💚\n\n📍How to pre-registrate : https://t.co/KPNq2MEqO4\n📍Convention ticket pre-registration : https://t.co/Zu2uKkZY64\n\n#KCON #KCONUSA #KCON2022LA https://t.co/VwvUMIOprh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							248,
+							253
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							254,
+							262
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							263,
+							274
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KPNq2MEqO4",
+						"expanded_url": "https://bit.ly/3tZmlT3",
+						"display_url": "bit.ly/3tZmlT3",
+						"indices": [
+							161,
+							184
+						]
+					},
+					{
+						"url": "https://t.co/Zu2uKkZY64",
+						"expanded_url": "https://na.eventscloud.com/693631",
+						"display_url": "na.eventscloud.com/693631",
+						"indices": [
+							223,
+							246
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1540479406207971300,
+						"id_str": "1540479406207971328",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FWDh267UsAAhHj1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWDh267UsAAhHj1.jpg",
+						"url": "https://t.co/VwvUMIOprh",
+						"display_url": "pic.twitter.com/VwvUMIOprh",
+						"expanded_url": "https://twitter.com/kconusa/status/1540500022747222017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1540479406207971300,
+						"id_str": "1540479406207971328",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FWDh267UsAAhHj1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWDh267UsAAhHj1.jpg",
+						"url": "https://t.co/VwvUMIOprh",
+						"display_url": "pic.twitter.com/VwvUMIOprh",
+						"expanded_url": "https://twitter.com/kconusa/status/1540500022747222017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 220715,
+				"friends_count": 7,
+				"listed_count": 472,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20330,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 229,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Mnet Plus Special Package 구매자를 위한 베네핏🎁\n아래 링크를 확인하고, KCON 2022 LA 컨벤션 티켓을 사전등록해보세요💙💚\n\n📍사전등록 방법 : https://t.co/ciNC0Ri5Ik\n📍컨벤션 티켓 등록 링크 : https://t.co/2qfJjpO1HZ\n\n#KCON #KCONUSA #KCON2022LA https://t.co/rplyp5OBDO"
+	},
+	{
 		"created_at": "Sat Jun 25 03:15:56 +0000 2022",
 		"id": 1540534230207193000,
 		"id_str": "1540534230207193088",
