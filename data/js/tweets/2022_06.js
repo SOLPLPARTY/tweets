@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 04:29:25 +0000 2022",
+		"id": 1540902195696398300,
+		"id_str": "1540915108343316482",
+		"full_text": "박소은 - Whiskey n Whiskey \nMusic Video Teaser \n\nhttps://t.co/WfG8dekf97\n\n박소은 정규 2집 ‘재활용’\n2022.06.27 12PM Release\n\n#박소은 #정규 #2집 #재활용 #앨범 #손님 #RECYCLE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "정규",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "2집",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "재활용",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "RECYCLE",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WfG8dekf97",
+					"expanded_url": "https://youtu.be/0Sa6iFxdTMU",
+					"display_url": "youtu.be/0Sa6iFxdTMU",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2254,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박소은 - Whiskey n Whiskey \nMusic Video Teaser \n\nhttps://t.co/WfG8dekf97\n\n박소은 정규 2집 ‘재활용’\n2022.06.27 12PM Release\n\n#박소은 #정규 #2집 #재활용 #앨범 #손님 #RECYCLE"
+	},
+	{
 		"created_at": "Sun Jun 26 03:06:21 +0000 2022",
 		"id": 1540894203453943800,
 		"id_str": "1540894203453943808",
