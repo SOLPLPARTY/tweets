@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 12:29:25 +0000 2022",
+		"id": 1541027033550954500,
+		"id_str": "1541035903686217728",
+		"full_text": "[#곽진언]\n\n🎼 Day 2\n《 곽진언 소극장 콘서트 - Op.2 》\n\n양일간 진행된 곽진언의 두번째 Op.2 무대, 산뜻한 분위기로 함께 만들어주신 관객 여러분들께 감사드립니다🖤\n\n#곽진언 #KwakJineon\n#소극장콘서트 #곽진언_Op #Op_2 https://t.co/IqanAB3OKR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "소극장콘서트",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "곽진언_Op",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "Op_2",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541027011615129600,
+					"id_str": "1541027011615129600",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLT5wCaAAALmGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLT5wCaAAALmGg.jpg",
+					"url": "https://t.co/IqanAB3OKR",
+					"display_url": "pic.twitter.com/IqanAB3OKR",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1541027033550954496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541027011615129600,
+					"id_str": "1541027011615129600",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLT5wCaAAALmGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLT5wCaAAALmGg.jpg",
+					"url": "https://t.co/IqanAB3OKR",
+					"display_url": "pic.twitter.com/IqanAB3OKR",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1541027033550954496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541027011648704500,
+					"id_str": "1541027011648704512",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLT5wKaUAAF-ND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLT5wKaUAAF-ND.jpg",
+					"url": "https://t.co/IqanAB3OKR",
+					"display_url": "pic.twitter.com/IqanAB3OKR",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1541027033550954496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1290,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541027011623526400,
+					"id_str": "1541027011623526405",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLT5wEaIAUKI86.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLT5wEaIAUKI86.jpg",
+					"url": "https://t.co/IqanAB3OKR",
+					"display_url": "pic.twitter.com/IqanAB3OKR",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1541027033550954496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8996,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#곽진언]\n\n🎼 Day 2\n《 곽진언 소극장 콘서트 - Op.2 》\n\n양일간 진행된 곽진언의 두번째 Op.2 무대, 산뜻한 분위기로 함께 만들어주신 관객 여러분들께 감사드립니다🖤\n\n#곽진언 #KwakJineon\n#소극장콘서트 #곽진언_Op #Op_2 https://t.co/IqanAB3OKR"
+	},
+	{
 		"created_at": "Sun Jun 26 11:29:35 +0000 2022",
 		"id": 1541018152745980000,
 		"id_str": "1541020847137243138",
