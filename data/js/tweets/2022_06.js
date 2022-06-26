@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 07:29:36 +0000 2022",
+		"id": 1540957236620431400,
+		"id_str": "1540960453769281537",
+		"full_text": "동이 트는 새벽을 닮은 목소리의 드림팝 김새녘의 첫 ep &lt;새빛깔&gt; 텀블벅 펀딩 마지막 날입니다. \n🙇🏻‍♂️🙏🏻🙌🏻😍🦄❤️‍🔥\nhttps://t.co/rMjjLKFFG6 https://t.co/nNwwTFUa5u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rMjjLKFFG6",
+					"expanded_url": "https://tumblbug.com/saeneok",
+					"display_url": "tumblbug.com/saeneok",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540957232493252600,
+					"id_str": "1540957232493252609",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FWKUcEjUUAEX1R4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWKUcEjUUAEX1R4.jpg",
+					"url": "https://t.co/nNwwTFUa5u",
+					"display_url": "pic.twitter.com/nNwwTFUa5u",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1540957236620431360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540957232493252600,
+					"id_str": "1540957232493252609",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FWKUcEjUUAEX1R4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWKUcEjUUAEX1R4.jpg",
+					"url": "https://t.co/nNwwTFUa5u",
+					"display_url": "pic.twitter.com/nNwwTFUa5u",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1540957236620431360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3493,
+			"friends_count": 1186,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동이 트는 새벽을 닮은 목소리의 드림팝 김새녘의 첫 ep &lt;새빛깔&gt; 텀블벅 펀딩 마지막 날입니다. \n🙇🏻‍♂️🙏🏻🙌🏻😍🦄❤️‍🔥\nhttps://t.co/rMjjLKFFG6 https://t.co/nNwwTFUa5u"
+	},
+	{
+		"created_at": "Sun Jun 26 07:29:34 +0000 2022",
+		"id": 1540954013532688400,
+		"id_str": "1540960444910796801",
+		"full_text": "박소은 정규 2집 [재활용] CD 예약 판매 안내\n\n박소은 정규 2집 [재활용] CD 온라인 예약 판매가 진행됩니다. \n\n✔️예약 판매 일정 : 2022.06.27(월)~ 07.03(일)\n✔️CD 발매 일정 : 2022.07.04 (월)\n\n*예약 구매 링크는 추후 공지됩니다.\n\n#박소은 #정규 #2집 #재활용 #CD #발매 #예약판매 #preorder https://t.co/5PPGz9iWEx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "정규",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "2집",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "재활용",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "CD",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "예약판매",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "preorder",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540954003936530400,
+					"id_str": "1540954003936530432",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWKRgJPaUAAN6Xe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWKRgJPaUAAN6Xe.jpg",
+					"url": "https://t.co/5PPGz9iWEx",
+					"display_url": "pic.twitter.com/5PPGz9iWEx",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1540954013532688384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540954003936530400,
+					"id_str": "1540954003936530432",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWKRgJPaUAAN6Xe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWKRgJPaUAAN6Xe.jpg",
+					"url": "https://t.co/5PPGz9iWEx",
+					"display_url": "pic.twitter.com/5PPGz9iWEx",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1540954013532688384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2254,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박소은 정규 2집 [재활용] CD 예약 판매 안내\n\n박소은 정규 2집 [재활용] CD 온라인 예약 판매가 진행됩니다. \n\n✔️예약 판매 일정 : 2022.06.27(월)~ 07.03(일)\n✔️CD 발매 일정 : 2022.07.04 (월)\n\n*예약 구매 링크는 추후 공지됩니다.\n\n#박소은 #정규 #2집 #재활용 #CD #발매 #예약판매 #preorder https://t.co/5PPGz9iWEx"
+	},
+	{
 		"created_at": "Sun Jun 26 04:29:25 +0000 2022",
 		"id": 1540902195696398300,
 		"id_str": "1540915108343316482",
