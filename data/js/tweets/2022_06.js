@@ -1,10 +1,517 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 10:01:12 +0000 2022",
+		"id": 1540998605141487600,
+		"id_str": "1540998605141487616",
+		"full_text": "#딩고뮤직 #dingo_music\n[#딩고라이브]혼네(HONNE) ‘no song without you’ ‘Heartsong’ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/fJrMVwhHZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "딩고라이브",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJrMVwhHZm",
+					"expanded_url": "https://youtu.be/5r6LkkPr790",
+					"display_url": "youtu.be/5r6LkkPr790",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 463,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[#딩고라이브]혼네(HONNE) ‘no song without you’ ‘Heartsong’ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/fJrMVwhHZm"
+	},
+	{
+		"created_at": "Sun Jun 26 09:29:39 +0000 2022",
+		"id": 1540985453280915500,
+		"id_str": "1540990664577622017",
+		"full_text": "정승환이 작사, 작곡, 가창으로, 서동환이 작곡, 편곡으로 참여한 Project Chill ‘흔한 거짓말’은 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/RnCexbR6OS\nGenie https://t.co/U2x3pNH9rk\nBugs https://t.co/SlqmsGPWJ4\nFLO https://t.co/drsklFNcx4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RnCexbR6OS",
+					"expanded_url": "http://bit.ly/3A6TRe6",
+					"display_url": "bit.ly/3A6TRe6",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/U2x3pNH9rk",
+					"expanded_url": "http://bit.ly/3ylAPPS",
+					"display_url": "bit.ly/3ylAPPS",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/SlqmsGPWJ4",
+					"expanded_url": "http://bit.ly/3bqweTu",
+					"display_url": "bit.ly/3bqweTu",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/drsklFNcx4",
+					"expanded_url": "http://bit.ly/3QS58or",
+					"display_url": "bit.ly/3QS58or",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1540985449657036800,
+		"in_reply_to_status_id_str": "1540985449657036801",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40546,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정승환이 작사, 작곡, 가창으로, 서동환이 작곡, 편곡으로 참여한 Project Chill ‘흔한 거짓말’은 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/RnCexbR6OS\nGenie https://t.co/U2x3pNH9rk\nBugs https://t.co/SlqmsGPWJ4\nFLO https://t.co/drsklFNcx4"
+	},
+	{
+		"created_at": "Sun Jun 26 09:29:30 +0000 2022",
+		"id": 1540985449657036800,
+		"id_str": "1540990626187059201",
+		"full_text": "[#Release] #정승환 #서동환\n\nProject Chill\n정승환 ‘흔한 거짓말’\n\nLyrics by 정승환, 임슬옹, 이지혜(MUMW)\nComposed by 정승환, 서동환\nArranged by 서동환\n\n#JungSeungHwan #SeoDongHwan\n#ProjectChill #흔한거짓말 https://t.co/wVRpjmyl20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "서동환",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "SeoDongHwan",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "ProjectChill",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"text": "흔한거짓말",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540985438969942000,
+					"id_str": "1540985438969942022",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FWKuF53aUAY4SQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWKuF53aUAY4SQS.jpg",
+					"url": "https://t.co/wVRpjmyl20",
+					"display_url": "pic.twitter.com/wVRpjmyl20",
+					"expanded_url": "https://twitter.com/antennamusic/status/1540985449657036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540985438969942000,
+					"id_str": "1540985438969942022",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FWKuF53aUAY4SQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWKuF53aUAY4SQS.jpg",
+					"url": "https://t.co/wVRpjmyl20",
+					"display_url": "pic.twitter.com/wVRpjmyl20",
+					"expanded_url": "https://twitter.com/antennamusic/status/1540985449657036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40546,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #정승환 #서동환\n\nProject Chill\n정승환 ‘흔한 거짓말’\n\nLyrics by 정승환, 임슬옹, 이지혜(MUMW)\nComposed by 정승환, 서동환\nArranged by 서동환\n\n#JungSeungHwan #SeoDongHwan\n#ProjectChill #흔한거짓말 https://t.co/wVRpjmyl20"
+	},
+	{
 		"created_at": "Sun Jun 26 07:29:36 +0000 2022",
 		"id": 1540957236620431400,
 		"id_str": "1540960453769281537",
-		"full_text": "동이 트는 새벽을 닮은 목소리의 드림팝 김새녘의 첫 ep &lt;새빛깔&gt; 텀블벅 펀딩 마지막 날입니다. \n🙇🏻‍♂️🙏🏻🙌🏻😍🦄❤️‍🔥\nhttps://t.co/rMjjLKFFG6 https://t.co/nNwwTFUa5u",
+		"full_text": "동이 트는 새벽을 닮은 목소리의 드림팝 김새녘의 첫 ep &lt;새빛깔&gt; 텀블벅 펀딩 마지막 날입니다. \n🙇🏻♂️🙏🏻🙌🏻😍🦄❤️🔥\nhttps://t.co/rMjjLKFFG6 https://t.co/nNwwTFUa5u",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -183,7 +690,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "동이 트는 새벽을 닮은 목소리의 드림팝 김새녘의 첫 ep &lt;새빛깔&gt; 텀블벅 펀딩 마지막 날입니다. \n🙇🏻‍♂️🙏🏻🙌🏻😍🦄❤️‍🔥\nhttps://t.co/rMjjLKFFG6 https://t.co/nNwwTFUa5u"
+		"text": "동이 트는 새벽을 닮은 목소리의 드림팝 김새녘의 첫 ep &lt;새빛깔&gt; 텀블벅 펀딩 마지막 날입니다. \n🙇🏻♂️🙏🏻🙌🏻😍🦄❤️🔥\nhttps://t.co/rMjjLKFFG6 https://t.co/nNwwTFUa5u"
 	},
 	{
 		"created_at": "Sun Jun 26 07:29:34 +0000 2022",
