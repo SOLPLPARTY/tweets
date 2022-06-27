@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 04:29:43 +0000 2022",
+		"id": 1541273428954493000,
+		"id_str": "1541277572092280833",
+		"full_text": "[VIDEO] [#인순이] #설봉산별빛축제\n\n3년 만에 내리는 별빛!~ 설봉산별빛축제_에일리_인순이_김동명밴드_거미_YB_김연자\n\n👉 https://t.co/HOJCFmY9EF\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #별빛축제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "설봉산별빛축제",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						116,
+						130
+					]
+				},
+				{
+					"text": "별빛축제",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HOJCFmY9EF",
+					"expanded_url": "https://youtu.be/hNAXSLlHweU",
+					"display_url": "youtu.be/hNAXSLlHweU",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #설봉산별빛축제\n\n3년 만에 내리는 별빛!~ 설봉산별빛축제_에일리_인순이_김동명밴드_거미_YB_김연자\n\n👉 https://t.co/HOJCFmY9EF\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #별빛축제"
+	},
+	{
+		"created_at": "Mon Jun 27 04:29:38 +0000 2022",
+		"id": 1541263154792890400,
+		"id_str": "1541277550671970305",
+		"full_text": "박소은 정규 2집 [재활용] 멜론 매거진이 공개되었습니다✨ 앨범 커버 촬영 비하인드와 손님이 직접 말하는 재활용 리스닝 포인트가 가득 담긴 멜론 매거진을 지금 바로 확인해보세요‼️\n\n➡️ https://t.co/tGOhp9k8c2\n\n#박소은 #정규 #2집 #재활용 #발매 #Recycle #Release #손님",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "정규",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "2집",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "재활용",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "Recycle",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						170,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tGOhp9k8c2",
+					"expanded_url": "https://c11.kr/10of3",
+					"display_url": "c11.kr/10of3",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2254,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박소은 정규 2집 [재활용] 멜론 매거진이 공개되었습니다✨ 앨범 커버 촬영 비하인드와 손님이 직접 말하는 재활용 리스닝 포인트가 가득 담긴 멜론 매거진을 지금 바로 확인해보세요‼️\n\n➡️ https://t.co/tGOhp9k8c2\n\n#박소은 #정규 #2집 #재활용 #발매 #Recycle #Release #손님"
+	},
+	{
+		"created_at": "Mon Jun 27 04:29:34 +0000 2022",
+		"id": 1541262595524415500,
+		"id_str": "1541277533446053889",
+		"full_text": "Official MV\n박소은 - Whiskey n Whiskey\n▷https://t.co/b6T6AZQu45\n\n#박소은 #정규 #2집 #재활용 #발매 #Recycle #Release #손님",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "정규",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "2집",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "재활용",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "Recycle",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						102,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b6T6AZQu45",
+					"expanded_url": "http://c11.kr/10oe2",
+					"display_url": "c11.kr/10oe2",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2254,
+			"friends_count": 22,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Official MV\n박소은 - Whiskey n Whiskey\n▷https://t.co/b6T6AZQu45\n\n#박소은 #정규 #2집 #재활용 #발매 #Recycle #Release #손님"
+	},
+	{
 		"created_at": "Mon Jun 27 04:17:44 +0000 2022",
 		"id": 1541274556664402000,
 		"id_str": "1541274556664401920",
