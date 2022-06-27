@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 10:29:24 +0000 2022",
+		"id": 1541360135322292200,
+		"id_str": "1541368091837452290",
+		"full_text": "아마도이자람밴드의 이자람이 스티븐 스필버그 제작, 미국 Paramount+의 액션 블록버스터 드라마 &lt;헤일로&gt; 4화에 깜짝 출연했습니다!\n국내에서는 TVING에서 보실 수 있습니다📺\n\n#이자람 #아마도이자람밴드 #아이밴 #헤일로 #Halo #파라마운트 #스티븐스필버그 https://t.co/OdvAgo8JUr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "아이밴",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "헤일로",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "Halo",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "파라마운트",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "스티븐스필버그",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541359613278269400,
+					"id_str": "1541359613278269442",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQCZtyVsAIBRGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQCZtyVsAIBRGL.jpg",
+					"url": "https://t.co/OdvAgo8JUr",
+					"display_url": "pic.twitter.com/OdvAgo8JUr",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1541360135322292224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541359613278269400,
+					"id_str": "1541359613278269442",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQCZtyVsAIBRGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQCZtyVsAIBRGL.jpg",
+					"url": "https://t.co/OdvAgo8JUr",
+					"display_url": "pic.twitter.com/OdvAgo8JUr",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1541360135322292224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541359613278179300,
+					"id_str": "1541359613278179328",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQCZtyUUAAY4e4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQCZtyUUAAY4e4.jpg",
+					"url": "https://t.co/OdvAgo8JUr",
+					"display_url": "pic.twitter.com/OdvAgo8JUr",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1541360135322292224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541359613282373600,
+					"id_str": "1541359613282373632",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQCZtzUUAAdjWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQCZtzUUAAdjWq.jpg",
+					"url": "https://t.co/OdvAgo8JUr",
+					"display_url": "pic.twitter.com/OdvAgo8JUr",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1541360135322292224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2254,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마도이자람밴드의 이자람이 스티븐 스필버그 제작, 미국 Paramount+의 액션 블록버스터 드라마 &lt;헤일로&gt; 4화에 깜짝 출연했습니다!\n국내에서는 TVING에서 보실 수 있습니다📺\n\n#이자람 #아마도이자람밴드 #아이밴 #헤일로 #Halo #파라마운트 #스티븐스필버그 https://t.co/OdvAgo8JUr"
+	},
+	{
 		"created_at": "Mon Jun 27 10:17:32 +0000 2022",
 		"id": 1541365101453750300,
 		"id_str": "1541365101453750277",
