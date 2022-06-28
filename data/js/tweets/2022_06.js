@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 19:58:15 +0000 2022",
+		"id": 1541862276097273900,
+		"id_str": "1541873633135656960",
+		"full_text": "SHOW, CONVENTION, KCON ROOKIES 등\n아티스트와 함께할 수 있는 프로그램으로 가득 찬 KCON의 컴백😍\n8/19-21(PDT), KCON 2022 LA에서 만나요!\n\n🎫BUY NOW👉https://t.co/MhOM2iunAF\n\n#KCON #KCONUSA #KCON2022LA https://t.co/cjz0AshSsj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MhOM2iunAF",
+					"expanded_url": "https://bit.ly/3QMFbXs",
+					"display_url": "bit.ly/3QMFbXs",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/cjz0AshSsj",
+					"expanded_url": "https://twitter.com/kconusa/status/1541858980003291138",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448584,
+			"friends_count": 76,
+			"listed_count": 1114,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541858980003291100,
+		"quoted_status_id_str": "1541858980003291138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cjz0AshSsj",
+			"expanded": "https://twitter.com/kconusa/status/1541858980003291138",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 28 19:00:01 +0000 2022",
+			"id": 1541858980003291100,
+			"id_str": "1541858980003291138",
+			"full_text": "SHOW, CONVENTION, KCON ROOKIES and many more!\nKCON is back with full programs where you can engage with artists😍\n8/19-21(PDT), see you all at KCON 2022 LA!\n\n🎫BUY NOW👉 https://t.co/V4Eoc07tK8\n\n#KCON #KCONUSA #KCON2022LA https://t.co/hIWMrBCw29",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							192,
+							197
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							198,
+							206
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							207,
+							218
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V4Eoc07tK8",
+						"expanded_url": "https://bit.ly/3QMFbXs",
+						"display_url": "bit.ly/3QMFbXs",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1541845241019322400,
+						"id_str": "1541845241019322368",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1541845241019322368/img/JvbKWPfIWvMnC44x.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1541845241019322368/img/JvbKWPfIWvMnC44x.jpg",
+						"url": "https://t.co/hIWMrBCw29",
+						"display_url": "pic.twitter.com/hIWMrBCw29",
+						"expanded_url": "https://twitter.com/kconusa/status/1541858980003291138/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1541845241019322400,
+						"id_str": "1541845241019322368",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1541845241019322368/img/JvbKWPfIWvMnC44x.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1541845241019322368/img/JvbKWPfIWvMnC44x.jpg",
+						"url": "https://t.co/hIWMrBCw29",
+						"display_url": "pic.twitter.com/hIWMrBCw29",
+						"expanded_url": "https://twitter.com/kconusa/status/1541858980003291138/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 75041,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1541845241019322368/vid/640x360/LAYL9_alFokg3f4K.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1541845241019322368/vid/480x270/55776g1H9vVjZ_4p.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1541845241019322368/pl/JHyUcUkGiARvaONg.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1541845241019322368/vid/1280x720/iovgYKLHJS4o3zqK.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 221356,
+				"friends_count": 7,
+				"listed_count": 470,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20336,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 296,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SHOW, CONVENTION, KCON ROOKIES 등\n아티스트와 함께할 수 있는 프로그램으로 가득 찬 KCON의 컴백😍\n8/19-21(PDT), KCON 2022 LA에서 만나요!\n\n🎫BUY NOW👉https://t.co/MhOM2iunAF\n\n#KCON #KCONUSA #KCON2022LA https://t.co/cjz0AshSsj"
+	},
+	{
 		"created_at": "Tue Jun 28 15:50:46 +0000 2022",
 		"id": 1541811353949638700,
 		"id_str": "1541811353949638657",
