@@ -1,6 +1,1223 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 09:34:43 +0000 2022",
+		"id": 1541716718191399000,
+		"id_str": "1541716718191398914",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[예고편] 조진웅 만나러 미국에서 등장(?)ㅣ#Team워너 Live\nhttps://t.co/VAEv8FjrVz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VAEv8FjrVz",
+					"expanded_url": "https://youtu.be/-e89JWAF8Wo",
+					"display_url": "youtu.be/-e89JWAF8Wo",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[예고편] 조진웅 만나러 미국에서 등장(?)ㅣ#Team워너 Live\nhttps://t.co/VAEv8FjrVz"
+	},
+	{
+		"created_at": "Tue Jun 28 09:29:43 +0000 2022",
+		"id": 1541712016788037600,
+		"id_str": "1541715457924792322",
+		"full_text": "[#김이나] '책 읽는 서울광장 참신한 북콘서트' 안내✔️\n\n7월 7일, 김이나와 북콘서트에서 만나고 싶다면?📖\n📍일정 : 7/7 (목) 오후 4시 - 9시\n📍장소 : 서울시청 광장일대\n📍타임테이블 : 4:50 - 5:40 김이나 북콘서트\n🔗생중계 : https://t.co/nFC92pzUpl\n\n#KimEana #책읽는서울광장 #참신한북콘서트 https://t.co/DhC2VhsSkx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김이나",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimEana",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "책읽는서울광장",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "참신한북콘서트",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nFC92pzUpl",
+					"expanded_url": "https://youtu.be/a7_r-IAnEXI",
+					"display_url": "youtu.be/a7_r-IAnEXI",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541711518588600300,
+					"id_str": "1541711518588600322",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVCdTOaAAIG8K9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVCdTOaAAIG8K9.jpg",
+					"url": "https://t.co/DhC2VhsSkx",
+					"display_url": "pic.twitter.com/DhC2VhsSkx",
+					"expanded_url": "https://twitter.com/themysticstory/status/1541712016788037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541711518588600300,
+					"id_str": "1541711518588600322",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVCdTOaAAIG8K9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVCdTOaAAIG8K9.jpg",
+					"url": "https://t.co/DhC2VhsSkx",
+					"display_url": "pic.twitter.com/DhC2VhsSkx",
+					"expanded_url": "https://twitter.com/themysticstory/status/1541712016788037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM3XZDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM3XZDx",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35209,
+			"friends_count": 15,
+			"listed_count": 294,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656292445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김이나] '책 읽는 서울광장 참신한 북콘서트' 안내✔️\n\n7월 7일, 김이나와 북콘서트에서 만나고 싶다면?📖\n📍일정 : 7/7 (목) 오후 4시 - 9시\n📍장소 : 서울시청 광장일대\n📍타임테이블 : 4:50 - 5:40 김이나 북콘서트\n🔗생중계 : https://t.co/nFC92pzUpl\n\n#KimEana #책읽는서울광장 #참신한북콘서트 https://t.co/DhC2VhsSkx"
+	},
+	{
+		"created_at": "Tue Jun 28 09:29:43 +0000 2022",
+		"id": 1541715456020476000,
+		"id_str": "1541715456020475904",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n원 오크 록 (ONE OK ROCK) - SAVE YOURSELF 가사 번역 뮤직비디오\nhttps://t.co/W0DTpQefqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W0DTpQefqx",
+					"expanded_url": "https://youtu.be/FjlTr2GIEN8",
+					"display_url": "youtu.be/FjlTr2GIEN8",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n원 오크 록 (ONE OK ROCK) - SAVE YOURSELF 가사 번역 뮤직비디오\nhttps://t.co/W0DTpQefqx"
+	},
+	{
+		"created_at": "Tue Jun 28 09:29:39 +0000 2022",
+		"id": 1541708230174187500,
+		"id_str": "1541715440694616069",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27~28 Sold out\n2022.8.29 ☆New\nTOKYO DOME\nONEW of SHINee Comment ➤\n \n#ONEW #SHINee #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/LEw8V1zwC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONEW",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						140,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541681512692985900,
+					"id_str": "1541681512692985856",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUnU8lacAE2a0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUnU8lacAE2a0K.jpg",
+					"url": "https://t.co/LEw8V1zwC2",
+					"display_url": "pic.twitter.com/LEw8V1zwC2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1541708230174187520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1450,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541681512692985900,
+					"id_str": "1541681512692985856",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUnU8lacAE2a0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUnU8lacAE2a0K.jpg",
+					"url": "https://t.co/LEw8V1zwC2",
+					"display_url": "pic.twitter.com/LEw8V1zwC2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1541708230174187520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1450,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28084,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1541681512692985856/pl/0Bu61DuQOCFd9Hwd.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1541681512692985856/vid/640x360/qlwt5OWDA1Q0HSB2.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1541681512692985856/vid/1280x720/X8_ytZe3i92u8yXf.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1541681512692985856/vid/480x270/Jhvp2XZSLh2acNFH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10940364,
+			"friends_count": 56,
+			"listed_count": 12346,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1052,
+		"favorite_count": 3386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27~28 Sold out\n2022.8.29 ☆New\nTOKYO DOME\nONEW of SHINee Comment ➤\n \n#ONEW #SHINee #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/LEw8V1zwC2"
+	},
+	{
+		"created_at": "Tue Jun 28 09:29:37 +0000 2022",
+		"id": 1541707990008471600,
+		"id_str": "1541715431794393090",
+		"full_text": "[Teaser]\n⠀\n스웨덴세탁소 Digital Single '우리는 우리를'\n⠀\nTrack 02. 척\n▷ https://t.co/JfwpFoj1bR\n⠀\n2022.06.29 6PM Release\n\n#스웨덴세탁소 #SwedenLaundry\n#우리는_우리를 #척 #another_me #Teaser https://t.co/Yus0ULARiB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "SwedenLaundry",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "우리는_우리를",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "척",
+					"indices": [
+						141,
+						143
+					]
+				},
+				{
+					"text": "another_me",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfwpFoj1bR",
+					"expanded_url": "http://youtube.com/shorts/b-7O3uMNQXk",
+					"display_url": "youtube.com/shorts/b-7O3uM…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541622324734365700,
+					"id_str": "1541622324734365697",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTxViOakAENwj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTxViOakAENwj8.jpg",
+					"url": "https://t.co/Yus0ULARiB",
+					"display_url": "pic.twitter.com/Yus0ULARiB",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1541707990008471560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541622324734365700,
+					"id_str": "1541622324734365697",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTxViOakAENwj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTxViOakAENwj8.jpg",
+					"url": "https://t.co/Yus0ULARiB",
+					"display_url": "pic.twitter.com/Yus0ULARiB",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1541707990008471560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7696,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1653040493",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser]\n⠀\n스웨덴세탁소 Digital Single '우리는 우리를'\n⠀\nTrack 02. 척\n▷ https://t.co/JfwpFoj1bR\n⠀\n2022.06.29 6PM Release\n\n#스웨덴세탁소 #SwedenLaundry\n#우리는_우리를 #척 #another_me #Teaser https://t.co/Yus0ULARiB"
+	},
+	{
+		"created_at": "Tue Jun 28 09:29:31 +0000 2022",
+		"id": 1541707983012479000,
+		"id_str": "1541715406179733506",
+		"full_text": "[#INTERVIEW] WARNER MUSIC INTERVIEW :: 포레스텔라\n\n#포레스텔라(#Forestella)의 1ST EP &lt;The Beginning : World Tree&gt; 발매 기념 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요\n\n🎶https://t.co/MqUd8jJmTd\n▶️https://t.co/lodxtEmlyi\n\n#Save_our_lives #warnermusic #KPOP https://t.co/josDEPRm6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INTERVIEW",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "포레스텔라",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "Forestella",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"text": "Save_our_lives",
+					"indices": [
+						199,
+						214
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						215,
+						227
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						228,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MqUd8jJmTd",
+					"expanded_url": "http://WMK.lnk.to/WorldTree",
+					"display_url": "WMK.lnk.to/WorldTree",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/lodxtEmlyi",
+					"expanded_url": "https://youtu.be/HmrWBpMlTw0",
+					"display_url": "youtu.be/HmrWBpMlTw0",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541704988577042400,
+					"id_str": "1541704988577042432",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541704988577042432/pu/img/xP4_zgkykJcMhx3D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541704988577042432/pu/img/xP4_zgkykJcMhx3D.jpg",
+					"url": "https://t.co/josDEPRm6p",
+					"display_url": "pic.twitter.com/josDEPRm6p",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1541707983012478983/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541704988577042400,
+					"id_str": "1541704988577042432",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541704988577042432/pu/img/xP4_zgkykJcMhx3D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541704988577042432/pu/img/xP4_zgkykJcMhx3D.jpg",
+					"url": "https://t.co/josDEPRm6p",
+					"display_url": "pic.twitter.com/josDEPRm6p",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1541707983012478983/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56156,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1541704988577042432/pu/pl/hTWF9cWsNlDA8u6t.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541704988577042432/pu/vid/320x320/amqLHRUiugO8daGP.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541704988577042432/pu/vid/540x540/uBrQZXJXOMRtMO91.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541704988577042432/pu/vid/720x720/c0rsRMMcKzwlWYkr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87609,
+			"friends_count": 492,
+			"listed_count": 0,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#INTERVIEW] WARNER MUSIC INTERVIEW :: 포레스텔라\n\n#포레스텔라(#Forestella)의 1ST EP &lt;The Beginning : World Tree&gt; 발매 기념 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요\n\n🎶https://t.co/MqUd8jJmTd\n▶️https://t.co/lodxtEmlyi\n\n#Save_our_lives #warnermusic #KPOP https://t.co/josDEPRm6p"
+	},
+	{
 		"created_at": "Tue Jun 28 09:11:16 +0000 2022",
 		"id": 1541697284584329200,
 		"id_str": "1541710816101244930",
