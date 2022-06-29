@@ -1,6 +1,1604 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 04:11:23 +0000 2022",
+		"id": 1541987151868330000,
+		"id_str": "1541997732704960513",
+		"full_text": "노브레인은 공연을 찢어!!!🔥🔥🔥\n⠀\n-\n22.06.26\n노브레인 스탠딩 단독공연\n'미친 듯 놀자' https://t.co/N7hXwaRcZX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541987050936619000,
+					"id_str": "1541987050936619009",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY9DZNUUAEuGSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY9DZNUUAEuGSp.jpg",
+					"url": "https://t.co/N7hXwaRcZX",
+					"display_url": "pic.twitter.com/N7hXwaRcZX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541987151868329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541987050936619000,
+					"id_str": "1541987050936619009",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY9DZNUUAEuGSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY9DZNUUAEuGSp.jpg",
+					"url": "https://t.co/N7hXwaRcZX",
+					"display_url": "pic.twitter.com/N7hXwaRcZX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541987151868329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541987051058237400,
+					"id_str": "1541987051058237440",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY9DZqUEAALjak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY9DZqUEAALjak.jpg",
+					"url": "https://t.co/N7hXwaRcZX",
+					"display_url": "pic.twitter.com/N7hXwaRcZX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541987151868329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541987051137949700,
+					"id_str": "1541987051137949697",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY9DZ9UYAEfxl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY9DZ9UYAEfxl8.jpg",
+					"url": "https://t.co/N7hXwaRcZX",
+					"display_url": "pic.twitter.com/N7hXwaRcZX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541987151868329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541987051238699000,
+					"id_str": "1541987051238699008",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY9DaVVsAAqCwp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY9DaVVsAAqCwp.jpg",
+					"url": "https://t.co/N7hXwaRcZX",
+					"display_url": "pic.twitter.com/N7hXwaRcZX",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541987151868329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17594,
+			"friends_count": 1846,
+			"listed_count": 287,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노브레인은 공연을 찢어!!!🔥🔥🔥\n⠀\n-\n22.06.26\n노브레인 스탠딩 단독공연\n'미친 듯 놀자' https://t.co/N7hXwaRcZX"
+	},
+	{
+		"created_at": "Wed Jun 29 04:11:16 +0000 2022",
+		"id": 1541986890710036500,
+		"id_str": "1541997706989785088",
+		"full_text": "투올즈: 완벽할게..★\n귀: 호강할게\n심장: 나댈게\n⠀\n-\n22.06.24\n투데이올드스니커즈 싱글발매 쇼케이스\n'ROBOT-REPAIR SHOP' https://t.co/u9vw1szqyG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541986796891820000,
+					"id_str": "1541986796891820032",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY80m0UUAAtA5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY80m0UUAAtA5X.jpg",
+					"url": "https://t.co/u9vw1szqyG",
+					"display_url": "pic.twitter.com/u9vw1szqyG",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541986890710036480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541986796891820000,
+					"id_str": "1541986796891820032",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY80m0UUAAtA5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY80m0UUAAtA5X.jpg",
+					"url": "https://t.co/u9vw1szqyG",
+					"display_url": "pic.twitter.com/u9vw1szqyG",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541986890710036480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541986796904493000,
+					"id_str": "1541986796904493057",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY80m3VsAEQALa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY80m3VsAEQALa.jpg",
+					"url": "https://t.co/u9vw1szqyG",
+					"display_url": "pic.twitter.com/u9vw1szqyG",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541986890710036480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541986796904468500,
+					"id_str": "1541986796904468480",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY80m3VUAAvulj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY80m3VUAAvulj.jpg",
+					"url": "https://t.co/u9vw1szqyG",
+					"display_url": "pic.twitter.com/u9vw1szqyG",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541986890710036480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541986796925362200,
+					"id_str": "1541986796925362176",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FWY80m8UIAA0b5Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWY80m8UIAA0b5Q.jpg",
+					"url": "https://t.co/u9vw1szqyG",
+					"display_url": "pic.twitter.com/u9vw1szqyG",
+					"expanded_url": "https://twitter.com/SSmadang/status/1541986890710036480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17594,
+			"friends_count": 1846,
+			"listed_count": 287,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "투올즈: 완벽할게..★\n귀: 호강할게\n심장: 나댈게\n⠀\n-\n22.06.24\n투데이올드스니커즈 싱글발매 쇼케이스\n'ROBOT-REPAIR SHOP' https://t.co/u9vw1szqyG"
+	},
+	{
+		"created_at": "Wed Jun 29 03:58:43 +0000 2022",
+		"id": 1541979805046173700,
+		"id_str": "1541994546883694592",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanRock #BuRock #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "락페",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						50,
+						68
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541979803037081600,
+		"in_reply_to_status_id_str": "1541979803037081600",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1oVUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1oVUb",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1655193646",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #락페 #BusanRockFestival #BusanRock #BuRock #Festival #Busan"
+	},
+	{
+		"created_at": "Wed Jun 29 03:58:37 +0000 2022",
+		"id": 1541979803037081600,
+		"id_str": "1541994521277480960",
+		"full_text": "*The only limited number will be sold and sales may be closed when it is out ouf stock.\n*Booking is also available through the link on the profile.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541979801057362000,
+		"in_reply_to_status_id_str": "1541979801057361920",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1oVUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1oVUb",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1655193646",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "*The only limited number will be sold and sales may be closed when it is out ouf stock.\n*Booking is also available through the link on the profile."
+	},
+	{
+		"created_at": "Wed Jun 29 03:58:31 +0000 2022",
+		"id": 1541979801057362000,
+		"id_str": "1541994495570583554",
+		"full_text": "◼Blind Ticket Open: 2022.6.29. (Wed) 14:00\n◼Booking Site: YES24 ticket (exclusive)\n◼Price: 66,000 KRW  for 2 days pass (*Blind tickets are sold only for 2 day pass)\n◼Date: 2022.10.01(Sat)~10.02(Sun) / 2 days\n◼Direct URL(ENG) : https://t.co/Jq0mMBo7xv\n\nROCK N ROLL!!🤘🔥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jq0mMBo7xv",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=42746",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541979799270625300,
+		"in_reply_to_status_id_str": "1541979799270625280",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1oVUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1oVUb",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1655193646",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "◼Blind Ticket Open: 2022.6.29. (Wed) 14:00\n◼Booking Site: YES24 ticket (exclusive)\n◼Price: 66,000 KRW  for 2 days pass (*Blind tickets are sold only for 2 day pass)\n◼Date: 2022.10.01(Sat)~10.02(Sun) / 2 days\n◼Direct URL(ENG) : https://t.co/Jq0mMBo7xv\n\nROCK N ROLL!!🤘🔥"
+	},
+	{
+		"created_at": "Wed Jun 29 03:58:26 +0000 2022",
+		"id": 1541979799270625300,
+		"id_str": "1541994474087370753",
+		"full_text": "[NOTICE: BLIND TICKET SALES OPEN]\n\n𝟐𝟎𝟐𝟐 𝐁𝐔𝐒𝐀𝐍 𝐈𝐍𝐓𝐄𝐑𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐑𝐎𝐂𝐊 𝐅𝐄𝐒𝐓𝐈𝐕𝐀𝐋 𝐈𝐒 𝐁𝐀𝐂𝐊\n\nFinally! Blind tickets are on sale!!!\n\nFlags, hot cheers... Did you miss us?\nVisit BuRock again! We'll be waiting for you as always!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541979797710319600,
+		"in_reply_to_status_id_str": "1541979797710319616",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1oVUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1oVUb",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1655193646",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[NOTICE: BLIND TICKET SALES OPEN]\n\n𝟐𝟎𝟐𝟐 𝐁𝐔𝐒𝐀𝐍 𝐈𝐍𝐓𝐄𝐑𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐑𝐎𝐂𝐊 𝐅𝐄𝐒𝐓𝐈𝐕𝐀𝐋 𝐈𝐒 𝐁𝐀𝐂𝐊\n\nFinally! Blind tickets are on sale!!!\n\nFlags, hot cheers... Did you miss us?\nVisit BuRock again! We'll be waiting for you as always!"
+	},
+	{
+		"created_at": "Wed Jun 29 03:58:22 +0000 2022",
+		"id": 1541979797710319600,
+		"id_str": "1541994456752308225",
+		"full_text": "*본 티켓은 한정수량으로 판매되며, 소진 시 자동 마감됩니다. \n*티켓예매는 프로필 링크를 통해서도 가능합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541979795617366000,
+		"in_reply_to_status_id_str": "1541979795617366018",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1oVUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1oVUb",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1655193646",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*본 티켓은 한정수량으로 판매되며, 소진 시 자동 마감됩니다. \n*티켓예매는 프로필 링크를 통해서도 가능합니다."
+	},
+	{
+		"created_at": "Wed Jun 29 03:58:14 +0000 2022",
+		"id": 1541979795617366000,
+		"id_str": "1541994426909728774",
+		"full_text": "◼블라인드 티켓 오픈 : 2022.6.29.(수) 14:00\n◼예매처 : YES24티켓(단독판매)\n◼가격 : 2일권 66,000원 (*블라인드 티켓은 2일권으로만 판매됩니다.)\n◼행사일시 : 2022.10.1.(토)~2.(일) / 2일간\n◼예매링크(한글) : https://t.co/iGhv6uVoBO\n\nROCK N ROLL!!🤘🔥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iGhv6uVoBO",
+					"expanded_url": "http://ticket.yes24.com/Perf/42746",
+					"display_url": "ticket.yes24.com/Perf/42746",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541979785538449400,
+		"in_reply_to_status_id_str": "1541979785538449408",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/amJVO1oVUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/amJVO1oVUb",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1655193646",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "◼블라인드 티켓 오픈 : 2022.6.29.(수) 14:00\n◼예매처 : YES24티켓(단독판매)\n◼가격 : 2일권 66,000원 (*블라인드 티켓은 2일권으로만 판매됩니다.)\n◼행사일시 : 2022.10.1.(토)~2.(일) / 2일간\n◼예매링크(한글) : https://t.co/iGhv6uVoBO\n\nROCK N ROLL!!🤘🔥"
+	},
+	{
+		"created_at": "Wed Jun 29 03:29:32 +0000 2022",
+		"id": 1541980810118836200,
+		"id_str": "1541987202015674368",
+		"full_text": "안현진 [Lo-fi: Neo-Soul] https://t.co/v4OBBEL0wv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v4OBBEL0wv",
+					"expanded_url": "http://blog.naver.com/chili7272/222793363790",
+					"display_url": "blog.naver.com/chili7272/2227…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 2338,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1653966960",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안현진 [Lo-fi: Neo-Soul] https://t.co/v4OBBEL0wv"
+	},
+	{
+		"created_at": "Wed Jun 29 03:29:28 +0000 2022",
+		"id": 1541979961250267100,
+		"id_str": "1541987184680517632",
+		"full_text": "안락한 꿈을 깨우는 생명력 넘치는 드림 팝\n유미 주마(Yumi Zouma) 첫 내한 공연의 티켓 오픈이 하루 앞으로 다가왔습니다!\n\n일시 : 2022년 9월 28일 수요일 8PM\n장소 : 홍대 롤링홀\n가격 : 전석 스탠딩 66,000원\n예매오픈: 2022년 06월 30일 목요일 6PM\n링크: https://t.co/onLRA91Bmy https://t.co/oeFofuZf9W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/onLRA91Bmy",
+					"expanded_url": "https://tickets.interpark.com/goods/22008243",
+					"display_url": "tickets.interpark.com/goods/22008243",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541978887286321200,
+					"id_str": "1541978887286321152",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541978887286321152/pu/img/erb4QrlzlnE-qgZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541978887286321152/pu/img/erb4QrlzlnE-qgZb.jpg",
+					"url": "https://t.co/oeFofuZf9W",
+					"display_url": "pic.twitter.com/oeFofuZf9W",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1541979961250267136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541978887286321200,
+					"id_str": "1541978887286321152",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541978887286321152/pu/img/erb4QrlzlnE-qgZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541978887286321152/pu/img/erb4QrlzlnE-qgZb.jpg",
+					"url": "https://t.co/oeFofuZf9W",
+					"display_url": "pic.twitter.com/oeFofuZf9W",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1541979961250267136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 19436,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541978887286321152/pu/vid/720x720/yo0ihjnfbgeMqM9-.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541978887286321152/pu/vid/540x540/Vjlg_h-EC1RyBwHt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1541978887286321152/pu/pl/DOyZ7nYTzKz7EEQb.m3u8?tag=12&container=fmp4&v=261"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541978887286321152/pu/vid/320x320/T70Tw-b-r6-LkVBf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 609,
+			"friends_count": 27,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안락한 꿈을 깨우는 생명력 넘치는 드림 팝\n유미 주마(Yumi Zouma) 첫 내한 공연의 티켓 오픈이 하루 앞으로 다가왔습니다!\n\n일시 : 2022년 9월 28일 수요일 8PM\n장소 : 홍대 롤링홀\n가격 : 전석 스탠딩 66,000원\n예매오픈: 2022년 06월 30일 목요일 6PM\n링크: https://t.co/onLRA91Bmy https://t.co/oeFofuZf9W"
+	},
+	{
 		"created_at": "Wed Jun 29 02:29:25 +0000 2022",
 		"id": 1541965578826526700,
 		"id_str": "1541972073010044933",
