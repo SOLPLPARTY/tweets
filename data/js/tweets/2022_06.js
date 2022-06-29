@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 06:29:25 +0000 2022",
+		"id": 1542022591350616000,
+		"id_str": "1542032469733638146",
+		"full_text": "🌸예고편🌸 #조진웅 만나러 미국에서 등장(?)\n특별한 #Team워너 라이브 6월 30일 워뮤코 유튜브 공개!\n\n🎞 https://t.co/O3e51bw0Pw https://t.co/rPjCzZdgAM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조진웅",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "Team워너",
+					"indices": [
+						30,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O3e51bw0Pw",
+					"expanded_url": "https://youtu.be/avOOLX90y1g",
+					"display_url": "youtu.be/avOOLX90y1g",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542022125749342200,
+					"id_str": "1542022125749342209",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542022125749342209/pu/img/NwtGeA2wb2gOXNgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542022125749342209/pu/img/NwtGeA2wb2gOXNgF.jpg",
+					"url": "https://t.co/rPjCzZdgAM",
+					"display_url": "pic.twitter.com/rPjCzZdgAM",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1542022591350616065/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542022125749342200,
+					"id_str": "1542022125749342209",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542022125749342209/pu/img/NwtGeA2wb2gOXNgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542022125749342209/pu/img/NwtGeA2wb2gOXNgF.jpg",
+					"url": "https://t.co/rPjCzZdgAM",
+					"display_url": "pic.twitter.com/rPjCzZdgAM",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1542022591350616065/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542022125749342209/pu/vid/1280x720/WGACR1vn93sOZNOX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1542022125749342209/pu/pl/dfrCx4zxA05lVWKR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542022125749342209/pu/vid/480x270/a7YLN6tEMmXE624u.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542022125749342209/pu/vid/640x360/b6Dcztaty5-PxivV.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87680,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌸예고편🌸 #조진웅 만나러 미국에서 등장(?)\n특별한 #Team워너 라이브 6월 30일 워뮤코 유튜브 공개!\n\n🎞 https://t.co/O3e51bw0Pw https://t.co/rPjCzZdgAM"
+	},
+	{
 		"created_at": "Wed Jun 29 06:11:16 +0000 2022",
 		"id": 1542022338920980500,
 		"id_str": "1542027905554960386",
@@ -448,7 +666,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Wed Jun 29 05:58:22 +0000 2022",
 		"id": 1542013850958336000,
 		"id_str": "1542024657108443136",
-		"full_text": "All blind tickets for 2022 Busan International Rock Festival are sold out!🎊\n\nThank you for your support!\nPlease look forward to the first release of the artist line-up! Plus, early bird ticket sales for those who missed blind tickets is coming soon‼🙇‍♀",
+		"full_text": "All blind tickets for 2022 Busan International Rock Festival are sold out!🎊\n\nThank you for your support!\nPlease look forward to the first release of the artist line-up! Plus, early bird ticket sales for those who missed blind tickets is coming soon‼🙇♀",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -538,13 +756,13 @@ Grailbird.data.tweets_2022_06 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "All blind tickets for 2022 Busan International Rock Festival are sold out!🎊\n\nThank you for your support!\nPlease look forward to the first release of the artist line-up! Plus, early bird ticket sales for those who missed blind tickets is coming soon‼🙇‍♀"
+		"text": "All blind tickets for 2022 Busan International Rock Festival are sold out!🎊\n\nThank you for your support!\nPlease look forward to the first release of the artist line-up! Plus, early bird ticket sales for those who missed blind tickets is coming soon‼🙇♀"
 	},
 	{
 		"created_at": "Wed Jun 29 05:58:15 +0000 2022",
 		"id": 1542013839407206400,
 		"id_str": "1542024627190382593",
-		"full_text": "[BLIND TICKET SOLD OUT]\n\n2022 부산국제록페스티벌 블라인드 티켓이 전체 매진되었습니다!🎊\n\n뜨거운 성원에 감사드리며 곧 찾아올 첫번째 라인업‼\n그리고 블라인드 티켓을 놓쳐 아쉬운 분들을 위한 얼리버드 티켓‼도 남아있으니 \n계속해서 많은 관심 부탁드립니다🙇‍♀ https://t.co/ooSPPWp4ai",
+		"full_text": "[BLIND TICKET SOLD OUT]\n\n2022 부산국제록페스티벌 블라인드 티켓이 전체 매진되었습니다!🎊\n\n뜨거운 성원에 감사드리며 곧 찾아올 첫번째 라인업‼\n그리고 블라인드 티켓을 놓쳐 아쉬운 분들을 위한 얼리버드 티켓‼도 남아있으니 \n계속해서 많은 관심 부탁드립니다🙇♀ https://t.co/ooSPPWp4ai",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -713,7 +931,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[BLIND TICKET SOLD OUT]\n\n2022 부산국제록페스티벌 블라인드 티켓이 전체 매진되었습니다!🎊\n\n뜨거운 성원에 감사드리며 곧 찾아올 첫번째 라인업‼\n그리고 블라인드 티켓을 놓쳐 아쉬운 분들을 위한 얼리버드 티켓‼도 남아있으니 \n계속해서 많은 관심 부탁드립니다🙇‍♀ https://t.co/ooSPPWp4ai"
+		"text": "[BLIND TICKET SOLD OUT]\n\n2022 부산국제록페스티벌 블라인드 티켓이 전체 매진되었습니다!🎊\n\n뜨거운 성원에 감사드리며 곧 찾아올 첫번째 라인업‼\n그리고 블라인드 티켓을 놓쳐 아쉬운 분들을 위한 얼리버드 티켓‼도 남아있으니 \n계속해서 많은 관심 부탁드립니다🙇♀ https://t.co/ooSPPWp4ai"
 	},
 	{
 		"created_at": "Wed Jun 29 05:03:15 +0000 2022",
