@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 23:29:25 +0000 2022",
+		"id": 1541919983835693000,
+		"id_str": "1541926773457289218",
+		"full_text": "뮤직비디오 심의가 날이 갈수록 심각해지고 있습니다\n이제는 개인 뮤지션이나 작은 레이블들은 \n뮤직비디오를 만들고도 심의를 못받아 \n음원 플랫폼에 공개 조차 못하고 있습니다\n여러분의 의견을 들려주세요\n음레협이 함께 움직여 보겠습니다!!\nhttps://t.co/2as75LvOpt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2as75LvOpt",
+					"expanded_url": "https://url.kr/k98jam",
+					"display_url": "url.kr/k98jam",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "메신져윤(Messenger_Yoon)",
+			"screen_name": "messenger_yoon",
+			"location": "대한민국",
+			"description": "CEO/ 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영(WeAreYoung)/ mymusicent@naver.com",
+			"url": "https://t.co/hvpc0ZvCMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvpc0ZvCMw",
+							"expanded_url": "https://youtube.com/channel/UCVCr77USl1_3GTbOhqUMACQ",
+							"display_url": "youtube.com/channel/UCVCr7…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2586,
+			"friends_count": 320,
+			"listed_count": 29,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 22830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504319027790852100/f3alenoq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤직비디오 심의가 날이 갈수록 심각해지고 있습니다\n이제는 개인 뮤지션이나 작은 레이블들은 \n뮤직비디오를 만들고도 심의를 못받아 \n음원 플랫폼에 공개 조차 못하고 있습니다\n여러분의 의견을 들려주세요\n음레협이 함께 움직여 보겠습니다!!\nhttps://t.co/2as75LvOpt"
+	},
+	{
 		"created_at": "Tue Jun 28 21:58:15 +0000 2022",
 		"id": 1541891073450320000,
 		"id_str": "1541903830748729345",
