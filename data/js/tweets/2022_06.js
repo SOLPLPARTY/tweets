@@ -1,6 +1,1002 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 30 03:29:42 +0000 2022",
+		"id": 1542342202160197600,
+		"id_str": "1542349631144730625",
+		"full_text": "#SM #SMEntertainment #SMile #SMileforU\n#최시원 #CHOISIWON #아이린 #IRENE #재민 #JAEMIN\n#유니세프 #UNICEF #유니세프한국위원회 #UNICED_VietNam #UNICEF_Philippines https://t.co/MDIXmB3XeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "SMileforU",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "재민",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "JAEMIN",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "유니세프",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "UNICEF",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "유니세프한국위원회",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "UNICED_VietNam",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"text": "UNICEF_Philippines",
+					"indices": [
+						120,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542315008780288000,
+					"id_str": "1542315008780288000",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnVDYaQAArQGq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnVDYaQAArQGq.jpg",
+					"url": "https://t.co/MDIXmB3XeI",
+					"display_url": "pic.twitter.com/MDIXmB3XeI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342202160197632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542315008780288000,
+					"id_str": "1542315008780288000",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnVDYaQAArQGq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnVDYaQAArQGq.jpg",
+					"url": "https://t.co/MDIXmB3XeI",
+					"display_url": "pic.twitter.com/MDIXmB3XeI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342202160197632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542315008943849500,
+					"id_str": "1542315008943849472",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnVD_aAAAf_Ko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnVD_aAAAf_Ko.jpg",
+					"url": "https://t.co/MDIXmB3XeI",
+					"display_url": "pic.twitter.com/MDIXmB3XeI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342202160197632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542315009136824300,
+					"id_str": "1542315009136824320",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnVEtakAA3Ee3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnVEtakAA3Ee3.jpg",
+					"url": "https://t.co/MDIXmB3XeI",
+					"display_url": "pic.twitter.com/MDIXmB3XeI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342202160197632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542315009254248400,
+					"id_str": "1542315009254248448",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnVFJaUAAX5OM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnVFJaUAAX5OM.jpg",
+					"url": "https://t.co/MDIXmB3XeI",
+					"display_url": "pic.twitter.com/MDIXmB3XeI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342202160197632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1542342191632494600,
+		"in_reply_to_status_id_str": "1542342191632494593",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10947189,
+			"friends_count": 56,
+			"listed_count": 12355,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1368,
+		"favorite_count": 3301,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#SM #SMEntertainment #SMile #SMileforU\n#최시원 #CHOISIWON #아이린 #IRENE #재민 #JAEMIN\n#유니세프 #UNICEF #유니세프한국위원회 #UNICED_VietNam #UNICEF_Philippines https://t.co/MDIXmB3XeI"
+	},
+	{
+		"created_at": "Thu Jun 30 03:29:34 +0000 2022",
+		"id": 1542342191632494600,
+		"id_str": "1542349597141618688",
+		"full_text": "#SM #SMEntertainment #SMile #SMileforU\n#최시원 #CHOISIWON #아이린 #IRENE #재민 #JAEMIN\n#유니세프 #UNICEF #유니세프한국위원회 #UNICED_VietNam #UNICEF_Philippines https://t.co/hP8FZ8ygrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "SMileforU",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "재민",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "JAEMIN",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "유니세프",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "UNICEF",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "유니세프한국위원회",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "UNICED_VietNam",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"text": "UNICEF_Philippines",
+					"indices": [
+						120,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542314952887013400,
+					"id_str": "1542314952887013376",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnRzKakAAc0oh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnRzKakAAc0oh.jpg",
+					"url": "https://t.co/hP8FZ8ygrX",
+					"display_url": "pic.twitter.com/hP8FZ8ygrX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342191632494593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542314952887013400,
+					"id_str": "1542314952887013376",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnRzKakAAc0oh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnRzKakAAc0oh.jpg",
+					"url": "https://t.co/hP8FZ8ygrX",
+					"display_url": "pic.twitter.com/hP8FZ8ygrX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342191632494593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542314953033797600,
+					"id_str": "1542314953033797632",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnRztaUAAW19f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnRztaUAAW19f.jpg",
+					"url": "https://t.co/hP8FZ8ygrX",
+					"display_url": "pic.twitter.com/hP8FZ8ygrX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342191632494593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1542342181222252500,
+		"in_reply_to_status_id_str": "1542342181222252545",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10947189,
+			"friends_count": 56,
+			"listed_count": 12355,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4062,
+		"favorite_count": 7610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#SM #SMEntertainment #SMile #SMileforU\n#최시원 #CHOISIWON #아이린 #IRENE #재민 #JAEMIN\n#유니세프 #UNICEF #유니세프한국위원회 #UNICED_VietNam #UNICEF_Philippines https://t.co/hP8FZ8ygrX"
+	},
+	{
+		"created_at": "Thu Jun 30 03:29:27 +0000 2022",
+		"id": 1542342181222252500,
+		"id_str": "1542349571484950528",
+		"full_text": "[#SMileforU]\nSM엔터테인먼트는 유니세프한국위원회와 세 번째 사회공헌협약을 맺고\n베트남 및 필리핀 지역의 어린이들에게 음악교육을 지원합니다.\n \n음악을 통해 더 많은 어린이가 웃으며 밝은 미래를 꿈꾸길\nSM과 유니세프가 함께 하겠습니다.\n \n#SMEntertainment #SMile\n#최시원 #아이린 #재민 https://t.co/WjCCPPy4be",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMileforU",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						140,
+						156
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "재민",
+					"indices": [
+						174,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542314912672022500,
+					"id_str": "1542314912672022528",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnPdWagAAY6vP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnPdWagAAY6vP.jpg",
+					"url": "https://t.co/WjCCPPy4be",
+					"display_url": "pic.twitter.com/WjCCPPy4be",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342181222252545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542314912672022500,
+					"id_str": "1542314912672022528",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnPdWagAAY6vP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnPdWagAAY6vP.jpg",
+					"url": "https://t.co/WjCCPPy4be",
+					"display_url": "pic.twitter.com/WjCCPPy4be",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342181222252545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542314912671998000,
+					"id_str": "1542314912671997953",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnPdWaIAEleV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnPdWaIAEleV1.jpg",
+					"url": "https://t.co/WjCCPPy4be",
+					"display_url": "pic.twitter.com/WjCCPPy4be",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342181222252545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542314912684585000,
+					"id_str": "1542314912684584960",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdnPdZaMAA7yGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWdnPdZaMAA7yGu.jpg",
+					"url": "https://t.co/WjCCPPy4be",
+					"display_url": "pic.twitter.com/WjCCPPy4be",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542342181222252545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10947189,
+			"friends_count": 56,
+			"listed_count": 12355,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6000,
+		"favorite_count": 11941,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#SMileforU]\nSM엔터테인먼트는 유니세프한국위원회와 세 번째 사회공헌협약을 맺고\n베트남 및 필리핀 지역의 어린이들에게 음악교육을 지원합니다.\n \n음악을 통해 더 많은 어린이가 웃으며 밝은 미래를 꿈꾸길\nSM과 유니세프가 함께 하겠습니다.\n \n#SMEntertainment #SMile\n#최시원 #아이린 #재민 https://t.co/WjCCPPy4be"
+	},
+	{
 		"created_at": "Thu Jun 30 03:15:24 +0000 2022",
 		"id": 1542346034768072700,
 		"id_str": "1542346034768072704",
