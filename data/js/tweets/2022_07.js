@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 12:11:18 +0000 2022",
+		"id": 1542831282035507200,
+		"id_str": "1542843286871855104",
+		"full_text": "@vovo121 @thundersband at @clubsteelface “BIRTHDAY ROCK” 25/6/2022\n\n📸: @pomme_2\n\n#vovo #thunders\n#clubsteelface #steelface #seoul https://t.co/dCtLzSvIya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vovo",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "thunders",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "clubsteelface",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VoVo121",
+					"name": "رحال",
+					"id": 1488768865,
+					"id_str": "1488768865",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "clubsteelface",
+					"name": "CLUB STEEL FACE",
+					"id": 4144667354,
+					"id_str": "4144667354",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "pomme_2",
+					"name": "pomme写真集用〇2日目東3ケ11a",
+					"id": 3303160537,
+					"id_str": "3303160537",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dCtLzSvIya",
+					"expanded_url": "https://www.instagram.com/p/Cfd8THnlc60/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Cfd8THnlc60/…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1488768865,
+		"in_reply_to_user_id_str": "1488768865",
+		"in_reply_to_screen_name": "VoVo121",
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@vovo121 @thundersband at @clubsteelface “BIRTHDAY ROCK” 25/6/2022\n\n📸: @pomme_2\n\n#vovo #thunders\n#clubsteelface #steelface #seoul https://t.co/dCtLzSvIya"
+	},
+	{
+		"created_at": "Fri Jul 01 12:11:16 +0000 2022",
+		"id": 1542830095089315800,
+		"id_str": "1542843277950554116",
+		"full_text": "@hoho_holy @rumkicks at @clubsteelface “BIRTHDAY ROCK” 25/6/2022\n\n📸: @kimjannii \n\n#rumkicks \n#clubsteelface #steelface #seoul https://t.co/grtQspiHBM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rumkicks",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "clubsteelface",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rumkicks",
+					"name": "Rumkicks 럼킥스 (punk) 🇰🇷",
+					"id": 1396742833835495400,
+					"id_str": "1396742833835495425",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "clubsteelface",
+					"name": "CLUB STEEL FACE",
+					"id": 4144667354,
+					"id_str": "4144667354",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "kimjannii",
+					"name": "lisa",
+					"id": 1320299885304909800,
+					"id_str": "1320299885304909824",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/grtQspiHBM",
+					"expanded_url": "https://www.instagram.com/p/Cfd7wlcFwHT/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Cfd7wlcFwHT/…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@hoho_holy @rumkicks at @clubsteelface “BIRTHDAY ROCK” 25/6/2022\n\n📸: @kimjannii \n\n#rumkicks \n#clubsteelface #steelface #seoul https://t.co/grtQspiHBM"
+	},
+	{
 		"created_at": "Fri Jul 01 11:11:17 +0000 2022",
 		"id": 1542813319039291400,
 		"id_str": "1542828180733677569",
