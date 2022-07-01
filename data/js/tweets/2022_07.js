@@ -1,6 +1,1183 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 11:11:17 +0000 2022",
+		"id": 1542813319039291400,
+		"id_str": "1542828180733677569",
+		"full_text": "[코멘터리 룸 : 김도언 &lt;Damage&gt; 편] 2022.07.22(금) PM 8:00 https://t.co/TCqInMikrV https://t.co/vmes2HwEym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TCqInMikrV",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222796138800",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542813311489626000,
+					"id_str": "1542813311489626112",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FWksiFoVUAAdU5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWksiFoVUAAdU5l.jpg",
+					"url": "https://t.co/vmes2HwEym",
+					"display_url": "pic.twitter.com/vmes2HwEym",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1542813319039291392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542813311489626000,
+					"id_str": "1542813311489626112",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FWksiFoVUAAdU5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWksiFoVUAAdU5l.jpg",
+					"url": "https://t.co/vmes2HwEym",
+					"display_url": "pic.twitter.com/vmes2HwEym",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1542813319039291392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8396,
+			"friends_count": 550,
+			"listed_count": 81,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코멘터리 룸 : 김도언 &lt;Damage&gt; 편] 2022.07.22(금) PM 8:00 https://t.co/TCqInMikrV https://t.co/vmes2HwEym"
+	},
+	{
+		"created_at": "Fri Jul 01 10:29:45 +0000 2022",
+		"id": 1542811414574043100,
+		"id_str": "1542817728695762944",
+		"full_text": "[#권혁수] [#애드리브싸이퍼]\n\n수상한 애한테 잘못 걸린 것 같은데\n#괜찮으시겠어요\n\n마음 먹은 건 다 하는 엄안나는\n#권혁수감성 에서 확인✨\n\n👉 https://t.co/e9zNG68xrR\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #엄지윤 #안나 #쿠팡플레이 https://t.co/MCIyhae7OG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "애드리브싸이퍼",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "괜찮으시겠어요",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"text": "엄지윤",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "안나",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e9zNG68xrR",
+					"expanded_url": "https://youtu.be/ol-vOSmHtpM",
+					"display_url": "youtu.be/ol-vOSmHtpM",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542811262136234000,
+					"id_str": "1542811262136233985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkqqzMaMAEunst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkqqzMaMAEunst.jpg",
+					"url": "https://t.co/MCIyhae7OG",
+					"display_url": "pic.twitter.com/MCIyhae7OG",
+					"expanded_url": "https://twitter.com/humap_official/status/1542811414574043136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542811262136234000,
+					"id_str": "1542811262136233985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkqqzMaMAEunst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkqqzMaMAEunst.jpg",
+					"url": "https://t.co/MCIyhae7OG",
+					"display_url": "pic.twitter.com/MCIyhae7OG",
+					"expanded_url": "https://twitter.com/humap_official/status/1542811414574043136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#애드리브싸이퍼]\n\n수상한 애한테 잘못 걸린 것 같은데\n#괜찮으시겠어요\n\n마음 먹은 건 다 하는 엄안나는\n#권혁수감성 에서 확인✨\n\n👉 https://t.co/e9zNG68xrR\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #엄지윤 #안나 #쿠팡플레이 https://t.co/MCIyhae7OG"
+	},
+	{
+		"created_at": "Fri Jul 01 10:29:40 +0000 2022",
+		"id": 1542810250322911200,
+		"id_str": "1542817707187470337",
+		"full_text": "[#Video] #적재\n\n🎸기타등등 적재함 16화\n\n적재가 입문용 일렉 기타 골라드립니다. 이것저것 주문 먼저 해보겠읍니다.\n📎 https://t.co/4wOlHYGeps\n\n#Jukjae\n#기타등등적재함 #브이로그\n#입문용기타 #일렉기타 #기타추천 https://t.co/UNt9whkUS7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "기타등등적재함",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "입문용기타",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "일렉기타",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "기타추천",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4wOlHYGeps",
+					"expanded_url": "https://youtu.be/zeCT5DphE-w",
+					"display_url": "youtu.be/zeCT5DphE-w",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542171547435032600,
+					"id_str": "1542171547435032581",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FWblDhOUYAAXtu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWblDhOUYAAXtu7.jpg",
+					"url": "https://t.co/UNt9whkUS7",
+					"display_url": "pic.twitter.com/UNt9whkUS7",
+					"expanded_url": "https://twitter.com/antennamusic/status/1542810250322911234/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542171547435032600,
+					"id_str": "1542171547435032581",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FWblDhOUYAAXtu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWblDhOUYAAXtu7.jpg",
+					"url": "https://t.co/UNt9whkUS7",
+					"display_url": "pic.twitter.com/UNt9whkUS7",
+					"expanded_url": "https://twitter.com/antennamusic/status/1542810250322911234/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 11211,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1542171547435032581/vid/640x360/1SXNWuSmFxy7c6Yd.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1542171547435032581/vid/1280x720/0_9UM8R9CZ6egCgV.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1542171547435032581/vid/480x270/QmoTRWjfiNxdkB87.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1542171547435032581/pl/TBohR5x_gxKw9ym-.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "🎸기타등등 적재함 16화",
+						"description": "적재가 입문용 일렉 기타 골라드립니다. 이것저것 주문 먼저 해보겠읍니다.",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/zeCT5DphE-w"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40562,
+			"friends_count": 12,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n🎸기타등등 적재함 16화\n\n적재가 입문용 일렉 기타 골라드립니다. 이것저것 주문 먼저 해보겠읍니다.\n📎 https://t.co/4wOlHYGeps\n\n#Jukjae\n#기타등등적재함 #브이로그\n#입문용기타 #일렉기타 #기타추천 https://t.co/UNt9whkUS7"
+	},
+	{
+		"created_at": "Fri Jul 01 10:29:36 +0000 2022",
+		"id": 1542810248607572000,
+		"id_str": "1542817689919537157",
+		"full_text": "[Behind]\n⠀\n스웨덴세탁소 10주년 기념 셀프 촬영 비하인드가 공개되었습니다.\n지금 바로 쇼파르 공식 포스트에서 확인해보세요!\n⠀\n▷ https://t.co/LrIbLbGw6c\n\n#스웨덴세탁소 #SwedenLaundry\n#우리는_우리를 #each_other #비하인드 https://t.co/OjlLlzXrpf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "SwedenLaundry",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"text": "우리는_우리를",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "each_other",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LrIbLbGw6c",
+					"expanded_url": "http://naver.me/xTlBtRrg",
+					"display_url": "naver.me/xTlBtRrg",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542805210183020500,
+					"id_str": "1542805210183020544",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FWklKh6UsAA-xcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWklKh6UsAA-xcJ.jpg",
+					"url": "https://t.co/OjlLlzXrpf",
+					"display_url": "pic.twitter.com/OjlLlzXrpf",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1542810248607571971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1247,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542805210183020500,
+					"id_str": "1542805210183020544",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FWklKh6UsAA-xcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWklKh6UsAA-xcJ.jpg",
+					"url": "https://t.co/OjlLlzXrpf",
+					"display_url": "pic.twitter.com/OjlLlzXrpf",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1542810248607571971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1247,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7689,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1656494136",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Behind]\n⠀\n스웨덴세탁소 10주년 기념 셀프 촬영 비하인드가 공개되었습니다.\n지금 바로 쇼파르 공식 포스트에서 확인해보세요!\n⠀\n▷ https://t.co/LrIbLbGw6c\n\n#스웨덴세탁소 #SwedenLaundry\n#우리는_우리를 #each_other #비하인드 https://t.co/OjlLlzXrpf"
+	},
+	{
+		"created_at": "Fri Jul 01 10:29:31 +0000 2022",
+		"id": 1542807579725668400,
+		"id_str": "1542817672685133825",
+		"full_text": "[#자우림] 스페셜 앨범 발매❤️\n\n자우림 25주년 스페셜 앨범 \n[ HAPPY 25th JAURIM ]\n음원사이트에서 들으실 수 있습니다\n\n📍멜론 https://t.co/IisDLQ5Irp\n📍지니 https://t.co/TP5jvKAb5Z\n📍벅스 https://t.co/gSKKbL61zG\n📍바이브 https://t.co/iSBrWKLNi8\n\n#HAPPY25thJAURIM https://t.co/l6wK0DaGFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						193,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IisDLQ5Irp",
+					"expanded_url": "https://bit.ly/3bE5T4r",
+					"display_url": "bit.ly/3bE5T4r",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/TP5jvKAb5Z",
+					"expanded_url": "https://bit.ly/3OzNDrG",
+					"display_url": "bit.ly/3OzNDrG",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/gSKKbL61zG",
+					"expanded_url": "https://bit.ly/3yvlwnR",
+					"display_url": "bit.ly/3yvlwnR",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/iSBrWKLNi8",
+					"expanded_url": "https://bit.ly/3nALKig",
+					"display_url": "bit.ly/3nALKig",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542807556862517200,
+					"id_str": "1542807556862517253",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FWknTH-UIAU6HIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWknTH-UIAU6HIo.jpg",
+					"url": "https://t.co/l6wK0DaGFm",
+					"display_url": "pic.twitter.com/l6wK0DaGFm",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1542807579725668353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542807556862517200,
+					"id_str": "1542807556862517253",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FWknTH-UIAU6HIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWknTH-UIAU6HIo.jpg",
+					"url": "https://t.co/l6wK0DaGFm",
+					"display_url": "pic.twitter.com/l6wK0DaGFm",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1542807579725668353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/iMdQEFM1HE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iMdQEFM1HE",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2056,
+			"friends_count": 12,
+			"listed_count": 9,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#자우림] 스페셜 앨범 발매❤️\n\n자우림 25주년 스페셜 앨범 \n[ HAPPY 25th JAURIM ]\n음원사이트에서 들으실 수 있습니다\n\n📍멜론 https://t.co/IisDLQ5Irp\n📍지니 https://t.co/TP5jvKAb5Z\n📍벅스 https://t.co/gSKKbL61zG\n📍바이브 https://t.co/iSBrWKLNi8\n\n#HAPPY25thJAURIM https://t.co/l6wK0DaGFm"
+	},
+	{
 		"created_at": "Fri Jul 01 10:03:10 +0000 2022",
 		"id": 1542811041490296800,
 		"id_str": "1542811041490296833",
