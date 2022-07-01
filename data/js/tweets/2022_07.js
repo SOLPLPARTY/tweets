@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 06:11:34 +0000 2022",
+		"id": 1542740603523387400,
+		"id_str": "1542752753985937408",
+		"full_text": "[공연안내 🌿]\nIt's begun EP.2 : 김훨x예람x정우\n'WE ARE STILL IN GREEN'\n\n🔔 티켓오픈\n2022.07.01(금) 7PM\n*멜론티켓 단독판매\n▶ https://t.co/cZrA3rSuav\n\n✅ 공연일시 및 장소\n2022.07.24(일) 6PM\nat KT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n전석 55,000원 *좌석제\n\n✅ 문의\n02-2014-2021 https://t.co/kD2RazY4rU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cZrA3rSuav",
+					"expanded_url": "https://bit.ly/3bGo7Ce",
+					"display_url": "bit.ly/3bGo7Ce",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542740377727160300,
+					"id_str": "1542740377727160321",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjqMyMUUAE2A1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjqMyMUUAE2A1z.jpg",
+					"url": "https://t.co/kD2RazY4rU",
+					"display_url": "pic.twitter.com/kD2RazY4rU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1542740603523387392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1241,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542740377727160300,
+					"id_str": "1542740377727160321",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjqMyMUUAE2A1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjqMyMUUAE2A1z.jpg",
+					"url": "https://t.co/kD2RazY4rU",
+					"display_url": "pic.twitter.com/kD2RazY4rU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1542740603523387392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1241,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17592,
+			"friends_count": 1846,
+			"listed_count": 287,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연안내 🌿]\nIt's begun EP.2 : 김훨x예람x정우\n'WE ARE STILL IN GREEN'\n\n🔔 티켓오픈\n2022.07.01(금) 7PM\n*멜론티켓 단독판매\n▶ https://t.co/cZrA3rSuav\n\n✅ 공연일시 및 장소\n2022.07.24(일) 6PM\nat KT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n전석 55,000원 *좌석제\n\n✅ 문의\n02-2014-2021 https://t.co/kD2RazY4rU"
+	},
+	{
+		"created_at": "Fri Jul 01 06:11:31 +0000 2022",
+		"id": 1542740159954690000,
+		"id_str": "1542752740878712832",
+		"full_text": "[공연안내 🌿]\nIt's begun EP.1 : cotoba - '과거가 되어버린 풍경'\n\n🔔 티켓오픈\n2022.07.01(금) 7PM\n*멜론티켓 단독판매\n▶ https://t.co/tfpwStvF3J\n\n✅ 공연일시 및 장소\n2022.07.23(토) 6PM\nat KT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n전석 44,000원 *좌석제\n\n✅ 문의\n02-2014-2021 https://t.co/Gzx4P8BKN8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tfpwStvF3J",
+					"expanded_url": "https://bit.ly/3ywFvCr",
+					"display_url": "bit.ly/3ywFvCr",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542739231449043000,
+					"id_str": "1542739231449042944",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjpKD-UUAA4hk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjpKD-UUAA4hk6.jpg",
+					"url": "https://t.co/Gzx4P8BKN8",
+					"display_url": "pic.twitter.com/Gzx4P8BKN8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1542740159954690048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1754,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542739231449043000,
+					"id_str": "1542739231449042944",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjpKD-UUAA4hk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjpKD-UUAA4hk6.jpg",
+					"url": "https://t.co/Gzx4P8BKN8",
+					"display_url": "pic.twitter.com/Gzx4P8BKN8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1542740159954690048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1754,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17592,
+			"friends_count": 1846,
+			"listed_count": 287,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연안내 🌿]\nIt's begun EP.1 : cotoba - '과거가 되어버린 풍경'\n\n🔔 티켓오픈\n2022.07.01(금) 7PM\n*멜론티켓 단독판매\n▶ https://t.co/tfpwStvF3J\n\n✅ 공연일시 및 장소\n2022.07.23(토) 6PM\nat KT&amp;G 상상마당 홍대 라이브홀\n\n✅ 티켓가격\n전석 44,000원 *좌석제\n\n✅ 문의\n02-2014-2021 https://t.co/Gzx4P8BKN8"
+	},
+	{
+		"created_at": "Fri Jul 01 06:11:24 +0000 2022",
+		"id": 1542738690199343000,
+		"id_str": "1542752715213873152",
+		"full_text": "💛2022 KT&amp;G 상상마당 홍대 음악지원사업🎵\n⠀\n신인뮤지션의 등용문,\n자작곡 3곡 이상이면 누구나 지원 가능한 \"밴드디스커버리\"\n⠀\n생애 '첫' 100석 이상의 단독공연을 지원하는\n\"나의 첫 번째 콘서트\"\n⠀\n오늘부터 접수 시-작!🎸🎹\n▶ https://t.co/WC5tGilKiI https://t.co/khN7Z9IhIl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WC5tGilKiI",
+					"expanded_url": "http://bit.ly/3y83Kp5",
+					"display_url": "bit.ly/3y83Kp5",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542737265599754200,
+					"id_str": "1542737265599754240",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjnXonUsAAumNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjnXonUsAAumNw.jpg",
+					"url": "https://t.co/khN7Z9IhIl",
+					"display_url": "pic.twitter.com/khN7Z9IhIl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1542738690199343104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542737265599754200,
+					"id_str": "1542737265599754240",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjnXonUsAAumNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjnXonUsAAumNw.jpg",
+					"url": "https://t.co/khN7Z9IhIl",
+					"display_url": "pic.twitter.com/khN7Z9IhIl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1542738690199343104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17592,
+			"friends_count": 1846,
+			"listed_count": 287,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛2022 KT&amp;G 상상마당 홍대 음악지원사업🎵\n⠀\n신인뮤지션의 등용문,\n자작곡 3곡 이상이면 누구나 지원 가능한 \"밴드디스커버리\"\n⠀\n생애 '첫' 100석 이상의 단독공연을 지원하는\n\"나의 첫 번째 콘서트\"\n⠀\n오늘부터 접수 시-작!🎸🎹\n▶ https://t.co/WC5tGilKiI https://t.co/khN7Z9IhIl"
+	},
+	{
 		"created_at": "Fri Jul 01 04:37:00 +0000 2022",
 		"id": 1542728956633178000,
 		"id_str": "1542728956633178112",
