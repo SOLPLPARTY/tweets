@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 07:29:25 +0000 2022",
+		"id": 1542771176094965800,
+		"id_str": "1542772345550553088",
+		"full_text": "[Teaser] 김목인 정규 4집 [저장된 풍경]\n2022.07.05 PM12\n\n&lt;현대카드 Curated 76 김목인&gt;\n2022.07.16(Sat) PM7\n현대카드 언더스테이지\n예매처 : 멜론티켓\nhttps://t.co/Q2rKnMAacG https://t.co/iKwLKQYjVl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q2rKnMAacG",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=207041",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542771028006686700,
+					"id_str": "1542771028006686720",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542771028006686720/pu/img/wI4JGqehvCDC_7JR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542771028006686720/pu/img/wI4JGqehvCDC_7JR.jpg",
+					"url": "https://t.co/iKwLKQYjVl",
+					"display_url": "pic.twitter.com/iKwLKQYjVl",
+					"expanded_url": "https://twitter.com/electric_muse/status/1542771176094965760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542771028006686700,
+					"id_str": "1542771028006686720",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542771028006686720/pu/img/wI4JGqehvCDC_7JR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542771028006686720/pu/img/wI4JGqehvCDC_7JR.jpg",
+					"url": "https://t.co/iKwLKQYjVl",
+					"display_url": "pic.twitter.com/iKwLKQYjVl",
+					"expanded_url": "https://twitter.com/electric_muse/status/1542771176094965760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 42610,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1542771028006686720/pu/pl/xLr7faVbd66HcM8Z.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542771028006686720/pu/vid/720x1280/1-daufbiOqvXmbc8.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542771028006686720/pu/vid/480x852/CmSlMJ_Jrmox2smb.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542771028006686720/pu/vid/320x568/UBQPw-WwtRv_nGM8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3321,
+			"friends_count": 1292,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser] 김목인 정규 4집 [저장된 풍경]\n2022.07.05 PM12\n\n&lt;현대카드 Curated 76 김목인&gt;\n2022.07.16(Sat) PM7\n현대카드 언더스테이지\n예매처 : 멜론티켓\nhttps://t.co/Q2rKnMAacG https://t.co/iKwLKQYjVl"
+	},
+	{
 		"created_at": "Fri Jul 01 06:29:32 +0000 2022",
 		"id": 1542752904351649800,
 		"id_str": "1542757275877740544",
