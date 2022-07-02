@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 02 14:11:17 +0000 2022",
+		"id": 1543234122637709300,
+		"id_str": "1543235866168008706",
+		"full_text": "“BIRTHDAY ROCK” 25/6/2022 @clubsteelface\n\nHEYNAM SiN X PATiENTS &amp; YOU\n\n📸: @ryuhaewon \n\n#신해남과환자들 #heynamsinxpatients\n#clubsteelface #steelface #livemusic #livemusicvenue #punk #seoul @CLUB STEEL FACE https://t.co/8332B8lMys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신해남과환자들",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "heynamsinxpatients",
+					"indices": [
+						100,
+						119
+					]
+				},
+				{
+					"text": "clubsteelface",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "livemusic",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "livemusicvenue",
+					"indices": [
+						157,
+						172
+					]
+				},
+				{
+					"text": "punk",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						179,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clubsteelface",
+					"name": "CLUB STEEL FACE",
+					"id": 4144667354,
+					"id_str": "4144667354",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "Ryuhaewon",
+					"name": "Ryu haewon",
+					"id": 112452358,
+					"id_str": "112452358",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "Club",
+					"name": "Ntl. Bloggers Club",
+					"id": 466950015,
+					"id_str": "466950015",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8332B8lMys",
+					"expanded_url": "https://www.instagram.com/p/CfgzfFNlbYP/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/CfgzfFNlbYP/…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 2,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55086105,
+				126.92203617
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92203617,
+				37.55086105
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“BIRTHDAY ROCK” 25/6/2022 @clubsteelface\n\nHEYNAM SiN X PATiENTS &amp; YOU\n\n📸: @ryuhaewon \n\n#신해남과환자들 #heynamsinxpatients\n#clubsteelface #steelface #livemusic #livemusicvenue #punk #seoul @CLUB STEEL FACE https://t.co/8332B8lMys"
+	},
+	{
 		"created_at": "Sat Jul 02 13:11:16 +0000 2022",
 		"id": 1543217933924581400,
 		"id_str": "1543220765352464386",
