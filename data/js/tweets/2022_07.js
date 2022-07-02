@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 02 03:29:33 +0000 2022",
+		"id": 1543063087225270300,
+		"id_str": "1543074370205229057",
+		"full_text": "SM루키즈 새 얼굴 승한, 은석, 쇼헤이 공개!\n\nSM Rookies’ new faces SEUNGHAN, EUNSEOK, and SHOHEI are revealed!\n\n#SEUNGHAN #EUNSEOK #SHOHEI\n#SMROOKIES #SR22B\n#SM #SMentertainment #SMTOWN https://t.co/xcr8tcDth6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEUNGHAN",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "EUNSEOK",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "SHOHEI",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "SMROOKIES",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "SR22B",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "SM",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "SMentertainment",
+					"indices": [
+						144,
+						160
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543063074759778300,
+					"id_str": "1543063074759778304",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FWoPsOUUIAA44jj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWoPsOUUIAA44jj.jpg",
+					"url": "https://t.co/xcr8tcDth6",
+					"display_url": "pic.twitter.com/xcr8tcDth6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1543063087225270272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543063074759778300,
+					"id_str": "1543063074759778304",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FWoPsOUUIAA44jj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWoPsOUUIAA44jj.jpg",
+					"url": "https://t.co/xcr8tcDth6",
+					"display_url": "pic.twitter.com/xcr8tcDth6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1543063087225270272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543063074768203800,
+					"id_str": "1543063074768203776",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FWoPsOWUsAAhvI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWoPsOWUsAAhvI-.jpg",
+					"url": "https://t.co/xcr8tcDth6",
+					"display_url": "pic.twitter.com/xcr8tcDth6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1543063087225270272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543063074768228400,
+					"id_str": "1543063074768228352",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FWoPsOWVEAA6aaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWoPsOWVEAA6aaU.jpg",
+					"url": "https://t.co/xcr8tcDth6",
+					"display_url": "pic.twitter.com/xcr8tcDth6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1543063087225270272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543063074797527000,
+					"id_str": "1543063074797527040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FWoPsOdUIAAszVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWoPsOdUIAAszVr.jpg",
+					"url": "https://t.co/xcr8tcDth6",
+					"display_url": "pic.twitter.com/xcr8tcDth6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1543063087225270272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1010,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10957453,
+			"friends_count": 56,
+			"listed_count": 12358,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5114,
+		"favorite_count": 16830,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM루키즈 새 얼굴 승한, 은석, 쇼헤이 공개!\n\nSM Rookies’ new faces SEUNGHAN, EUNSEOK, and SHOHEI are revealed!\n\n#SEUNGHAN #EUNSEOK #SHOHEI\n#SMROOKIES #SR22B\n#SM #SMentertainment #SMTOWN https://t.co/xcr8tcDth6"
+	},
+	{
 		"created_at": "Sat Jul 02 03:03:41 +0000 2022",
 		"id": 1543067859256938500,
 		"id_str": "1543067859256938496",
