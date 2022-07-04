@@ -1,6 +1,1143 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 04:58:18 +0000 2022",
+		"id": 1543820840265224200,
+		"id_str": "1543821479602708483",
+		"full_text": "📆블라인드 티켓 판매기간\n▷7월 4일(월) 오후 2시~ 한정수량 소진시까지 \n※3일권 200매, 2일권 300매 총 500매 한정 수량으로 매진 시 조기 종료됩니다.\n\n🎫티켓할인가격\n▷3일권 63,000원 ▷2일권 42,000원\n\n#JUMF #전주얼티밋뮤직페스티벌 #JUMF2022\n#선착순판매 #블라인드티켓 #전주 #전주축제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "JUMF2022",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "선착순판매",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "블라인드티켓",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "전주",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "전주축제",
+					"indices": [
+						177,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1543820835110420500,
+		"in_reply_to_status_id_str": "1543820835110420481",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 610,
+			"friends_count": 1151,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📆블라인드 티켓 판매기간\n▷7월 4일(월) 오후 2시~ 한정수량 소진시까지 \n※3일권 200매, 2일권 300매 총 500매 한정 수량으로 매진 시 조기 종료됩니다.\n\n🎫티켓할인가격\n▷3일권 63,000원 ▷2일권 42,000원\n\n#JUMF #전주얼티밋뮤직페스티벌 #JUMF2022\n#선착순판매 #블라인드티켓 #전주 #전주축제"
+	},
+	{
+		"created_at": "Mon Jul 04 04:58:15 +0000 2022",
+		"id": 1543820835110420500,
+		"id_str": "1543821466466123776",
+		"full_text": "오늘 오후 2시! 2022 전주얼티밋뮤직페스티벌🎉\n블라인드 티켓 판매가 시작됩니다! 모두 준비 되셨나요?\n\n포털사이트에서 “티켓링크” 검색 혹은 “JUMF 2022 네이버 예약”으로 검색해주세요!\n\n🔗 티켓 예매처\n[네이버] https://t.co/zziKc8yulr \n[티켓링크] https://t.co/OUZ3EY9qej https://t.co/KTpK7ygC9L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zziKc8yulr",
+					"expanded_url": "https://bit.ly/3IfMS4v",
+					"display_url": "bit.ly/3IfMS4v",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/OUZ3EY9qej",
+					"expanded_url": "https://bit.ly/3NGWC9h",
+					"display_url": "bit.ly/3NGWC9h",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543819146626203600,
+					"id_str": "1543819146626203648",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy_VZgaAAAdUOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWy_VZgaAAAdUOc.jpg",
+					"url": "https://t.co/KTpK7ygC9L",
+					"display_url": "pic.twitter.com/KTpK7ygC9L",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1543820835110420481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543819146626203600,
+					"id_str": "1543819146626203648",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy_VZgaAAAdUOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWy_VZgaAAAdUOc.jpg",
+					"url": "https://t.co/KTpK7ygC9L",
+					"display_url": "pic.twitter.com/KTpK7ygC9L",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1543820835110420481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 610,
+			"friends_count": 1151,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 오후 2시! 2022 전주얼티밋뮤직페스티벌🎉\n블라인드 티켓 판매가 시작됩니다! 모두 준비 되셨나요?\n\n포털사이트에서 “티켓링크” 검색 혹은 “JUMF 2022 네이버 예약”으로 검색해주세요!\n\n🔗 티켓 예매처\n[네이버] https://t.co/zziKc8yulr \n[티켓링크] https://t.co/OUZ3EY9qej https://t.co/KTpK7ygC9L"
+	},
+	{
+		"created_at": "Mon Jul 04 04:30:00 +0000 2022",
+		"id": 1543804416280924200,
+		"id_str": "1543814359935229953",
+		"full_text": "[스케줄 안내] 7/4(월) ~ 7/10(일) 스케줄 📬\n◾https://t.co/FTZBRVF9u7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FTZBRVF9u7",
+					"expanded_url": "https://bit.ly/3nGJUwk",
+					"display_url": "bit.ly/3nGJUwk",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12968,
+			"friends_count": 1918,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스케줄 안내] 7/4(월) ~ 7/10(일) 스케줄 📬\n◾https://t.co/FTZBRVF9u7"
+	},
+	{
+		"created_at": "Mon Jul 04 04:29:52 +0000 2022",
+		"id": 1543800001045729300,
+		"id_str": "1543814325869101065",
+		"full_text": "[#Playlist]\n‘#백예슬 - 그냥 편한 사이라도’ 가 #TIDAL ‘Ballad x K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\n🎶https://t.co/PHvz7WFUhz\n\n#warnerkpop #warnermusic #KPOP #BalladxKPop #백예슬 #BaekYeseul #그냥편한사이라도 https://t.co/F0BRD4IP3A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Playlist",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "백예슬",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						106,
+						117
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "BalladxKPop",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "백예슬",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "BaekYeseul",
+					"indices": [
+						155,
+						166
+					]
+				},
+				{
+					"text": "그냥편한사이라도",
+					"indices": [
+						167,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PHvz7WFUhz",
+					"expanded_url": "https://tidal.com/browse/playlist/6994a39a-dcda-4fdc-a467-8fa0dcb63119",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543799758455640000,
+					"id_str": "1543799758455640064",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FWyts28VEAAEsiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWyts28VEAAEsiW.jpg",
+					"url": "https://t.co/F0BRD4IP3A",
+					"display_url": "pic.twitter.com/F0BRD4IP3A",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1543800001045729280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543799758455640000,
+					"id_str": "1543799758455640064",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FWyts28VEAAEsiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWyts28VEAAEsiW.jpg",
+					"url": "https://t.co/F0BRD4IP3A",
+					"display_url": "pic.twitter.com/F0BRD4IP3A",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1543800001045729280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87865,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Playlist]\n‘#백예슬 - 그냥 편한 사이라도’ 가 #TIDAL ‘Ballad x K-Pop’ 플레이리스트 커버를 장식하였습니다😎✨\n\n🎶https://t.co/PHvz7WFUhz\n\n#warnerkpop #warnermusic #KPOP #BalladxKPop #백예슬 #BaekYeseul #그냥편한사이라도 https://t.co/F0BRD4IP3A"
+	},
+	{
+		"created_at": "Mon Jul 04 04:29:44 +0000 2022",
+		"id": 1543799515118854100,
+		"id_str": "1543814291706548224",
+		"full_text": "[#Playlist]\n‘#SF9 - #Trauma (Japanese Version)’ 가 #TIDAL ‘K-Pop x J-Pop’ 플레이리스트 커버를 장식하였습니다🤟✨\n\n🎶https://t.co/WsptknqB2w\n\n#warnerkpop #warnermusic #KPOP #KPopxJPop https://t.co/Q9Co9yga6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Playlist",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "Trauma",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "KPopxJPop",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WsptknqB2w",
+					"expanded_url": "https://tidal.com/browse/playlist/c27c8fc9-0b44-430c-81a2-8e088dbcf07f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543799155914526700,
+					"id_str": "1543799155914526721",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FWytJyTVUAEFFzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWytJyTVUAEFFzL.jpg",
+					"url": "https://t.co/Q9Co9yga6s",
+					"display_url": "pic.twitter.com/Q9Co9yga6s",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1543799515118854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543799155914526700,
+					"id_str": "1543799155914526721",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FWytJyTVUAEFFzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWytJyTVUAEFFzL.jpg",
+					"url": "https://t.co/Q9Co9yga6s",
+					"display_url": "pic.twitter.com/Q9Co9yga6s",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1543799515118854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87865,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Playlist]\n‘#SF9 - #Trauma (Japanese Version)’ 가 #TIDAL ‘K-Pop x J-Pop’ 플레이리스트 커버를 장식하였습니다🤟✨\n\n🎶https://t.co/WsptknqB2w\n\n#warnerkpop #warnermusic #KPOP #KPopxJPop https://t.co/Q9Co9yga6s"
+	},
+	{
+		"created_at": "Mon Jul 04 04:29:37 +0000 2022",
+		"id": 1543799484924268500,
+		"id_str": "1543814261872402437",
+		"full_text": "#안녕코리아👋 ғʀᴏᴍ ✨#카디비✨\n칸예와 릴 더크가 함께한 신곡 지금 ㄱㄱ\n🎧음원듣기 https://t.co/YAJkz7KC5j https://t.co/OPxzTWJHi7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안녕코리아",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "카디비",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YAJkz7KC5j",
+					"expanded_url": "https://wmk.lnk.to/OXHIkeaX",
+					"display_url": "wmk.lnk.to/OXHIkeaX",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543799271434092500,
+					"id_str": "1543799271434092544",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543799271434092544/pu/img/FJUJzpPuumK4rEpl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543799271434092544/pu/img/FJUJzpPuumK4rEpl.jpg",
+					"url": "https://t.co/OPxzTWJHi7",
+					"display_url": "pic.twitter.com/OPxzTWJHi7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1543799484924268548/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543799271434092500,
+					"id_str": "1543799271434092544",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543799271434092544/pu/img/FJUJzpPuumK4rEpl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543799271434092544/pu/img/FJUJzpPuumK4rEpl.jpg",
+					"url": "https://t.co/OPxzTWJHi7",
+					"display_url": "pic.twitter.com/OPxzTWJHi7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1543799484924268548/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27610,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543799271434092544/pu/vid/320x320/2oehG3-a4DWmxVa4.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543799271434092544/pu/vid/540x540/mcKYnUZ_WPYlMafy.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543799271434092544/pu/vid/720x720/Gg7HA4AEBrMrMh_U.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1543799271434092544/pu/pl/hmsc6prE0GKmxiat.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87865,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#안녕코리아👋 ғʀᴏᴍ ✨#카디비✨\n칸예와 릴 더크가 함께한 신곡 지금 ㄱㄱ\n🎧음원듣기 https://t.co/YAJkz7KC5j https://t.co/OPxzTWJHi7"
+	},
+	{
 		"created_at": "Mon Jul 04 03:51:47 +0000 2022",
 		"id": 1543804740244410400,
 		"id_str": "1543804740244410369",
