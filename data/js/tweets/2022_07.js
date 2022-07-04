@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 02:11:17 +0000 2022",
+		"id": 1543775260171849700,
+		"id_str": "1543779448075550720",
+		"full_text": "[#라이브클립] 바닐레어 - 나가\n\n🎧\n내 문 앞을 서성이던\n너의 그림자가 없어지던\n그날의 기분이야\n-\n22.06.06\nPAIR PLAY : vol.1 허드x바닐레어\n💫풀버전은 상상마당 유튜브 채널에서-\nhttps://t.co/IIE8BFQHr4 https://t.co/bhfHJuMsHB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클립",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IIE8BFQHr4",
+					"expanded_url": "http://youtu.be/Vji92QXZv84",
+					"display_url": "youtu.be/Vji92QXZv84",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543775070270541800,
+					"id_str": "1543775070270541824",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543775070270541824/pu/img/llQu1V5ZwU71cNzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543775070270541824/pu/img/llQu1V5ZwU71cNzV.jpg",
+					"url": "https://t.co/bhfHJuMsHB",
+					"display_url": "pic.twitter.com/bhfHJuMsHB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1543775260171849730/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543775070270541800,
+					"id_str": "1543775070270541824",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543775070270541824/pu/img/llQu1V5ZwU71cNzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543775070270541824/pu/img/llQu1V5ZwU71cNzV.jpg",
+					"url": "https://t.co/bhfHJuMsHB",
+					"display_url": "pic.twitter.com/bhfHJuMsHB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1543775260171849730/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59600,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543775070270541824/pu/vid/480x600/VRDpF7OgtVe07zd4.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543775070270541824/pu/vid/320x400/kK_a5ect_ddpbLT6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1543775070270541824/pu/pl/j9_eIMZmGCpLDei5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543775070270541824/pu/vid/720x900/k-Kvdh5gNz9uJfqV.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17583,
+			"friends_count": 1846,
+			"listed_count": 287,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#라이브클립] 바닐레어 - 나가\n\n🎧\n내 문 앞을 서성이던\n너의 그림자가 없어지던\n그날의 기분이야\n-\n22.06.06\nPAIR PLAY : vol.1 허드x바닐레어\n💫풀버전은 상상마당 유튜브 채널에서-\nhttps://t.co/IIE8BFQHr4 https://t.co/bhfHJuMsHB"
+	},
+	{
 		"created_at": "Mon Jul 04 01:18:17 +0000 2022",
 		"id": 1543766111300120600,
 		"id_str": "1543766111300120576",
