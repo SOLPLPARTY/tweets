@@ -1,6 +1,1024 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 10:40:36 +0000 2022",
+		"id": 1543907624545951700,
+		"id_str": "1543907624545951744",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n순금보다 값진 순금이 라이브\nhttps://t.co/h95Eqw5nRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h95Eqw5nRM",
+					"expanded_url": "https://youtu.be/WHYWJM9_Q_A",
+					"display_url": "youtu.be/WHYWJM9_Q_A",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n순금보다 값진 순금이 라이브\nhttps://t.co/h95Eqw5nRM"
+	},
+	{
+		"created_at": "Mon Jul 04 10:29:46 +0000 2022",
+		"id": 1543904320961187800,
+		"id_str": "1543904897178996736",
+		"full_text": "7월8일 금요일!\nMoomblast\n@modeci\n\n폭발적 에너지와 특별한 바이브를 서울의 밤에 남긴 뭄블라스트가 돌아옵니다. 올드스쿨부터 배쉬먼트,레게톤,익스퍼리먼틀까지 총망라하는 진정한 댄스홀의 밤에 여러분을 초대합니다 !\n\nDJs/\nSoulscape\nSalamanda\nSGSY\nQuandol\nVon Bueno\n\nDance/\nTrigger\nChili https://t.co/bhM7kTmx7U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "modeci",
+					"name": "cole fuller",
+					"id": 111987752,
+					"id_str": "111987752",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543904317656027100,
+					"id_str": "1543904317656027137",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0MzAUUUAEg6xM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0MzAUUUAEg6xM.jpg",
+					"url": "https://t.co/bhM7kTmx7U",
+					"display_url": "pic.twitter.com/bhM7kTmx7U",
+					"expanded_url": "https://twitter.com/bombino_records/status/1543904320961187840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543904317656027100,
+					"id_str": "1543904317656027137",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0MzAUUUAEg6xM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0MzAUUUAEg6xM.jpg",
+					"url": "https://t.co/bhM7kTmx7U",
+					"display_url": "pic.twitter.com/bhM7kTmx7U",
+					"expanded_url": "https://twitter.com/bombino_records/status/1543904320961187840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 72,
+			"listed_count": 7,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7월8일 금요일!\nMoomblast\n@modeci\n\n폭발적 에너지와 특별한 바이브를 서울의 밤에 남긴 뭄블라스트가 돌아옵니다. 올드스쿨부터 배쉬먼트,레게톤,익스퍼리먼틀까지 총망라하는 진정한 댄스홀의 밤에 여러분을 초대합니다 !\n\nDJs/\nSoulscape\nSalamanda\nSGSY\nQuandol\nVon Bueno\n\nDance/\nTrigger\nChili https://t.co/bhM7kTmx7U"
+	},
+	{
+		"created_at": "Mon Jul 04 10:29:42 +0000 2022",
+		"id": 1543897642828447700,
+		"id_str": "1543904879684509697",
+		"full_text": "[#권혁수] [#애드리브싸이퍼]\n\n음색 깡패이자 감성 협박범이\n찾아왔는데 #괜찮으시겠어요\n\n이세상에 없던 싸이퍼 라디오는\n오직 #권혁수감성 에서만!\n\n👉 https://t.co/VLCFHMTMXB\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #헤이즈 #Heize #없었던일로 https://t.co/Uxr4O2z3Wz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "애드리브싸이퍼",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "괜찮으시겠어요",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "없었던일로",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VLCFHMTMXB",
+					"expanded_url": "https://youtu.be/EgQcQkeUu68",
+					"display_url": "youtu.be/EgQcQkeUu68",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543893102012027000,
+					"id_str": "1543893102012026880",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0CmKyaUAAZ-CJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0CmKyaUAAZ-CJ.jpg",
+					"url": "https://t.co/Uxr4O2z3Wz",
+					"display_url": "pic.twitter.com/Uxr4O2z3Wz",
+					"expanded_url": "https://twitter.com/humap_official/status/1543897642828447744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543893102012027000,
+					"id_str": "1543893102012026880",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0CmKyaUAAZ-CJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0CmKyaUAAZ-CJ.jpg",
+					"url": "https://t.co/Uxr4O2z3Wz",
+					"display_url": "pic.twitter.com/Uxr4O2z3Wz",
+					"expanded_url": "https://twitter.com/humap_official/status/1543897642828447744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#애드리브싸이퍼]\n\n음색 깡패이자 감성 협박범이\n찾아왔는데 #괜찮으시겠어요\n\n이세상에 없던 싸이퍼 라디오는\n오직 #권혁수감성 에서만!\n\n👉 https://t.co/VLCFHMTMXB\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #헤이즈 #Heize #없었던일로 https://t.co/Uxr4O2z3Wz"
+	},
+	{
+		"created_at": "Mon Jul 04 10:29:37 +0000 2022",
+		"id": 1543897413399859200,
+		"id_str": "1543904858222350337",
+		"full_text": "[Behind]\n⠀\n스웨덴세탁소 10주년 기념 Q&amp;A 인터뷰의 비하인드가 공개되었습니다.\n지금 바로 쇼파르 공식 포스트에서 확인해보세요!\n⠀\n▷ https://t.co/YHY8mghPY4\n\n#스웨덴세탁소 #SwedenLaundry\n#우리는_우리를 #each_other #비하인드 https://t.co/e5jEhnZSJm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "SwedenLaundry",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "우리는_우리를",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "each_other",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YHY8mghPY4",
+					"expanded_url": "http://naver.me/GQyn3Ufy",
+					"display_url": "naver.me/GQyn3Ufy",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543884978768924700,
+					"id_str": "1543884978768924674",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWz7NVWVUAIZk3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWz7NVWVUAIZk3K.jpg",
+					"url": "https://t.co/e5jEhnZSJm",
+					"display_url": "pic.twitter.com/e5jEhnZSJm",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1543897413399859202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543884978768924700,
+					"id_str": "1543884978768924674",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWz7NVWVUAIZk3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWz7NVWVUAIZk3K.jpg",
+					"url": "https://t.co/e5jEhnZSJm",
+					"display_url": "pic.twitter.com/e5jEhnZSJm",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1543897413399859202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7691,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1656494136",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Behind]\n⠀\n스웨덴세탁소 10주년 기념 Q&amp;A 인터뷰의 비하인드가 공개되었습니다.\n지금 바로 쇼파르 공식 포스트에서 확인해보세요!\n⠀\n▷ https://t.co/YHY8mghPY4\n\n#스웨덴세탁소 #SwedenLaundry\n#우리는_우리를 #each_other #비하인드 https://t.co/e5jEhnZSJm"
+	},
+	{
+		"created_at": "Mon Jul 04 10:29:34 +0000 2022",
+		"id": 1543892371854737400,
+		"id_str": "1543904845148602370",
+		"full_text": "[Interview]\n\n스웨덴세탁소가 10주년을 맞이했습니다❤\n10주년을 기념하여 손님들이 궁금해 했던 것들을 직접 답해주는 특별한 시간⏰\n여러분을 위해 준비한 스세의 '10주년 기념 Q&amp;A 인터뷰'를 지금 바로 확인해 보세요!\n\n▷ https://t.co/N0moyFVsua\n\n#스웨덴세탁소 #SwedenLaundry\n#10주년 #인터뷰 https://t.co/qkRc9Aq65P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "SwedenLaundry",
+					"indices": [
+						168,
+						182
+					]
+				},
+				{
+					"text": "10주년",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						189,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N0moyFVsua",
+					"expanded_url": "https://youtu.be/IovxpFqAds4",
+					"display_url": "youtu.be/IovxpFqAds4",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543891695854506000,
+					"id_str": "1543891695854505990",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0BUUcVUAY5Swn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0BUUcVUAY5Swn.jpg",
+					"url": "https://t.co/qkRc9Aq65P",
+					"display_url": "pic.twitter.com/qkRc9Aq65P",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1543892371854737408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543891695854506000,
+					"id_str": "1543891695854505990",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0BUUcVUAY5Swn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0BUUcVUAY5Swn.jpg",
+					"url": "https://t.co/qkRc9Aq65P",
+					"display_url": "pic.twitter.com/qkRc9Aq65P",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1543892371854737408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2iA0pQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2iA0pQ",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7691,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1656494136",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Interview]\n\n스웨덴세탁소가 10주년을 맞이했습니다❤\n10주년을 기념하여 손님들이 궁금해 했던 것들을 직접 답해주는 특별한 시간⏰\n여러분을 위해 준비한 스세의 '10주년 기념 Q&amp;A 인터뷰'를 지금 바로 확인해 보세요!\n\n▷ https://t.co/N0moyFVsua\n\n#스웨덴세탁소 #SwedenLaundry\n#10주년 #인터뷰 https://t.co/qkRc9Aq65P"
+	},
+	{
 		"created_at": "Mon Jul 04 10:10:37 +0000 2022",
 		"id": 1543900078477152300,
 		"id_str": "1543900078477152256",
