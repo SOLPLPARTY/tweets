@@ -1,6 +1,836 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 06:11:16 +0000 2022",
+		"id": 1544190275500658700,
+		"id_str": "1544202232517869568",
+		"full_text": "이번주 클럽빵 공연일정입니다 \n\n#ETC #권장혁 #세베루스 #율랴율례쁑 #빅직 #더구스 #도파애 #파파더캅 #갓오브유니버스 #덕 #청요일 #행간소음 #시나쓰는앨리스 #이장혁 #사람또사람 #크로크노트 #피카 #김파다 #트리키네코 #지나가던조씨 #클럽빵 #clubbbang #kindie https://t.co/hmOiEoP6Xh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ETC",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "권장혁",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "세베루스",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "율랴율례쁑",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "빅직",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "더구스",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "도파애",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "파파더캅",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "갓오브유니버스",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "덕",
+					"indices": [
+						70,
+						72
+					]
+				},
+				{
+					"text": "청요일",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "행간소음",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "시나쓰는앨리스",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "이장혁",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "사람또사람",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "크로크노트",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "피카",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "김파다",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "트리키네코",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "지나가던조씨",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "clubbbang",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544190264067076000,
+					"id_str": "1544190264067076098",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FW4Q3RtVsAIQriB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW4Q3RtVsAIQriB.jpg",
+					"url": "https://t.co/hmOiEoP6Xh",
+					"display_url": "pic.twitter.com/hmOiEoP6Xh",
+					"expanded_url": "https://twitter.com/club_bbang/status/1544190275500658688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544190264067076000,
+					"id_str": "1544190264067076098",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FW4Q3RtVsAIQriB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW4Q3RtVsAIQriB.jpg",
+					"url": "https://t.co/hmOiEoP6Xh",
+					"display_url": "pic.twitter.com/hmOiEoP6Xh",
+					"expanded_url": "https://twitter.com/club_bbang/status/1544190275500658688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2531,
+			"friends_count": 908,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 클럽빵 공연일정입니다 \n\n#ETC #권장혁 #세베루스 #율랴율례쁑 #빅직 #더구스 #도파애 #파파더캅 #갓오브유니버스 #덕 #청요일 #행간소음 #시나쓰는앨리스 #이장혁 #사람또사람 #크로크노트 #피카 #김파다 #트리키네코 #지나가던조씨 #클럽빵 #clubbbang #kindie https://t.co/hmOiEoP6Xh"
+	},
+	{
+		"created_at": "Tue Jul 05 05:29:33 +0000 2022",
+		"id": 1544188395265851400,
+		"id_str": "1544191733084237824",
+		"full_text": "우주왕복선싸이드미러가 7월 9일 KT&amp;G 상상마당 부산에서 열리는 칠팔버스킹에 함께합니다. \n\n📍7월 9일 토요일 오후 5시\n📍KT&amp;G 상상마당 부산\n\n#우주왕복선싸이드미러 #우싸미 #칠팔버스킹 #상상마당부산 https://t.co/qQ09aRczRP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "우싸미",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "칠팔버스킹",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "상상마당부산",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544188386214551600,
+					"id_str": "1544188386214551552",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FW4PJ-KaIAAcsh-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW4PJ-KaIAAcsh-.jpg",
+					"url": "https://t.co/qQ09aRczRP",
+					"display_url": "pic.twitter.com/qQ09aRczRP",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1544188395265851392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1086,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544188386214551600,
+					"id_str": "1544188386214551552",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FW4PJ-KaIAAcsh-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW4PJ-KaIAAcsh-.jpg",
+					"url": "https://t.co/qQ09aRczRP",
+					"display_url": "pic.twitter.com/qQ09aRczRP",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1544188395265851392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1086,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544188386214555600,
+					"id_str": "1544188386214555648",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FW4PJ-KaMAAli9v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW4PJ-KaMAAli9v.jpg",
+					"url": "https://t.co/qQ09aRczRP",
+					"display_url": "pic.twitter.com/qQ09aRczRP",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1544188395265851392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1086,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2261,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우주왕복선싸이드미러가 7월 9일 KT&amp;G 상상마당 부산에서 열리는 칠팔버스킹에 함께합니다. \n\n📍7월 9일 토요일 오후 5시\n📍KT&amp;G 상상마당 부산\n\n#우주왕복선싸이드미러 #우싸미 #칠팔버스킹 #상상마당부산 https://t.co/qQ09aRczRP"
+	},
+	{
+		"created_at": "Tue Jul 05 05:29:31 +0000 2022",
+		"id": 1544181783901917200,
+		"id_str": "1544191724104437763",
+		"full_text": "&lt;현대카드 Curated 76 김목인&gt;\n2022년 7월 16일(토) 오후 7시\n현대카드 언더스테이지\n예매처 : 멜론티켓\nhttps://t.co/Q2rKnMAacG\n공연에 대한 자세한 정보는 DIVE에서 확인하세요! \n🔗Link: https://t.co/TPmESD02mx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q2rKnMAacG",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=207041",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/TPmESD02mx",
+					"expanded_url": "https://bit.ly/3OlTUa9",
+					"display_url": "bit.ly/3OlTUa9",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1544181781762801700,
+		"in_reply_to_status_id_str": "1544181781762801664",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3321,
+			"friends_count": 1292,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;현대카드 Curated 76 김목인&gt;\n2022년 7월 16일(토) 오후 7시\n현대카드 언더스테이지\n예매처 : 멜론티켓\nhttps://t.co/Q2rKnMAacG\n공연에 대한 자세한 정보는 DIVE에서 확인하세요! \n🔗Link: https://t.co/TPmESD02mx"
+	},
+	{
+		"created_at": "Tue Jul 05 05:29:28 +0000 2022",
+		"id": 1544181781762801700,
+		"id_str": "1544191711085297664",
+		"full_text": "작사, 작곡, 편곡 : 김목인\n프로듀서 : 김민규\n녹음 : Drums 천학주 @Mushroom Recordings\nPiano 이재명 @JM Studio\nOthers 김민규 @Electric Muse Studio\n믹싱 : 오정균\n마스터링 : 강승희 @Sonic Korea\n커버아트 : 김유인\n일러스트 : 김목인\nVideo : 슈가솔트페퍼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mushroom",
+					"name": "Lexie",
+					"id": 241275728,
+					"id_str": "241275728",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "jm",
+					"name": "JM",
+					"id": 937561,
+					"id_str": "937561",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"screen_name": "electric",
+					"name": "Electric",
+					"id": 22800742,
+					"id_str": "22800742",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "sonic",
+					"name": "Sonic",
+					"id": 12634602,
+					"id_str": "12634602",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1544181779523072000,
+		"in_reply_to_status_id_str": "1544181779523072005",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3321,
+			"friends_count": 1292,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "작사, 작곡, 편곡 : 김목인\n프로듀서 : 김민규\n녹음 : Drums 천학주 @Mushroom Recordings\nPiano 이재명 @JM Studio\nOthers 김민규 @Electric Muse Studio\n믹싱 : 오정균\n마스터링 : 강승희 @Sonic Korea\n커버아트 : 김유인\n일러스트 : 김목인\nVideo : 슈가솔트페퍼"
+	},
+	{
 		"created_at": "Tue Jul 05 05:11:16 +0000 2022",
 		"id": 1544183968177836000,
 		"id_str": "1544187133455482883",
