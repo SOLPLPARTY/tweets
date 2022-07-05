@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 06:29:27 +0000 2022",
+		"id": 1544200618184564700,
+		"id_str": "1544206805366198273",
+		"full_text": "💿온라인 예약 구매\n・ 알라딘 https://t.co/pos7IfJNys\n・ 예스24 https://t.co/gvUGIDes8m\n・ 핫트랙스 https://t.co/XGDWhp9v6X\n・ 신나라레코드 https://t.co/F9njXvOYAH\n・ KTOWN4U https://t.co/nlQz4weIdE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pos7IfJNys",
+					"expanded_url": "http://bit.ly/3OJuIdY",
+					"display_url": "bit.ly/3OJuIdY",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/gvUGIDes8m",
+					"expanded_url": "http://bit.ly/3AqEVaH",
+					"display_url": "bit.ly/3AqEVaH",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/XGDWhp9v6X",
+					"expanded_url": "http://bit.ly/3IfGR8b",
+					"display_url": "bit.ly/3IfGR8b",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/F9njXvOYAH",
+					"expanded_url": "http://bit.ly/3AoX8Wg",
+					"display_url": "bit.ly/3AoX8Wg",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/nlQz4weIdE",
+					"expanded_url": "http://bit.ly/3unYNaC",
+					"display_url": "bit.ly/3unYNaC",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1544200510609076200,
+		"in_reply_to_status_id_str": "1544200510609076224",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2261,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿온라인 예약 구매\n・ 알라딘 https://t.co/pos7IfJNys\n・ 예스24 https://t.co/gvUGIDes8m\n・ 핫트랙스 https://t.co/XGDWhp9v6X\n・ 신나라레코드 https://t.co/F9njXvOYAH\n・ KTOWN4U https://t.co/nlQz4weIdE"
+	},
+	{
 		"created_at": "Tue Jul 05 06:11:16 +0000 2022",
 		"id": 1544190275500658700,
 		"id_str": "1544202232517869568",
