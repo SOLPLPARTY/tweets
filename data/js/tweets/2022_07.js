@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 10:29:25 +0000 2022",
+		"id": 1544252406585860000,
+		"id_str": "1544267194846089218",
+		"full_text": "#티에스토 &amp; #찰리XCX 🔥Hot In It🔥\n세상 사람 다 아는 사실로 노래 만들기💋🙌\n🎧음원듣기 https://t.co/4GfFc56Wx4 https://t.co/EC5OAoASRj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티에스토",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "찰리XCX",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4GfFc56Wx4",
+					"expanded_url": "https://wmk.lnk.to/BzFTxsKP",
+					"display_url": "wmk.lnk.to/BzFTxsKP",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544252246019408000,
+					"id_str": "1544252246019407872",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544252246019407872/pu/img/bCFWYENUT9XId6Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544252246019407872/pu/img/bCFWYENUT9XId6Gz.jpg",
+					"url": "https://t.co/EC5OAoASRj",
+					"display_url": "pic.twitter.com/EC5OAoASRj",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1544252406585860097/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544252246019408000,
+					"id_str": "1544252246019407872",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544252246019407872/pu/img/bCFWYENUT9XId6Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544252246019407872/pu/img/bCFWYENUT9XId6Gz.jpg",
+					"url": "https://t.co/EC5OAoASRj",
+					"display_url": "pic.twitter.com/EC5OAoASRj",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1544252406585860097/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15598,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1544252246019407872/pu/pl/v2IHlCsQBPJDDqvJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544252246019407872/pu/vid/540x540/2bUliTqarW4_CzCQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544252246019407872/pu/vid/320x320/sEgZCANTiNksr62r.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544252246019407872/pu/vid/720x720/q412aXRfiy12NToa.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87885,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#티에스토 &amp; #찰리XCX 🔥Hot In It🔥\n세상 사람 다 아는 사실로 노래 만들기💋🙌\n🎧음원듣기 https://t.co/4GfFc56Wx4 https://t.co/EC5OAoASRj"
+	},
+	{
 		"created_at": "Tue Jul 05 09:37:35 +0000 2022",
 		"id": 1544254150690480000,
 		"id_str": "1544254150690480128",
