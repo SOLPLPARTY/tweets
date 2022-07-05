@@ -1,6 +1,1002 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 12:14:56 +0000 2022",
+		"id": 1544293750624571400,
+		"id_str": "1544293750624571392",
+		"full_text": "#딩고뮤직 #dingo_music\nTo.라떼, https://t.co/eqx54vN8qn [7월 7일(목) 오후 7시 최초공개!] #Shorts\nhttps://t.co/qBF44wmaT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqx54vN8qn",
+					"expanded_url": "http://From.MZ",
+					"display_url": "From.MZ",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/qBF44wmaT1",
+					"expanded_url": "https://youtu.be/8WnSp_PId-g",
+					"display_url": "youtu.be/8WnSp_PId-g",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\nTo.라떼, https://t.co/eqx54vN8qn [7월 7일(목) 오후 7시 최초공개!] #Shorts\nhttps://t.co/qBF44wmaT1"
+	},
+	{
+		"created_at": "Tue Jul 05 11:29:48 +0000 2022",
+		"id": 1544280465540087800,
+		"id_str": "1544282393867173891",
+		"full_text": "#잭스 👙Victoria’s Secret🤫\n[속보] '충격' 빅토리아의 비밀 밝혀져...\n🎧음원듣기 https://t.co/8920GU7uYI https://t.co/WSq5a8fCFh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잭스",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8920GU7uYI",
+					"expanded_url": "https://wmk.lnk.to/Q4piUgXo",
+					"display_url": "wmk.lnk.to/Q4piUgXo",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544279929189290000,
+					"id_str": "1544279929189289985",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544279929189289985/pu/img/X66FqTROMy0wEDI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544279929189289985/pu/img/X66FqTROMy0wEDI0.jpg",
+					"url": "https://t.co/WSq5a8fCFh",
+					"display_url": "pic.twitter.com/WSq5a8fCFh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1544280465540087809/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544279929189290000,
+					"id_str": "1544279929189289985",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544279929189289985/pu/img/X66FqTROMy0wEDI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544279929189289985/pu/img/X66FqTROMy0wEDI0.jpg",
+					"url": "https://t.co/WSq5a8fCFh",
+					"display_url": "pic.twitter.com/WSq5a8fCFh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1544280465540087809/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57724,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544279929189289985/pu/vid/540x540/RhxbDSkKqCXqPnbQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544279929189289985/pu/vid/320x320/vnK-dhUbvND7F7zo.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544279929189289985/pu/vid/720x720/F5Zf51nMGTpP_Zmu.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1544279929189289985/pu/pl/8i0Aq2klIG1CoQfW.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87890,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#잭스 👙Victoria’s Secret🤫\n[속보] '충격' 빅토리아의 비밀 밝혀져...\n🎧음원듣기 https://t.co/8920GU7uYI https://t.co/WSq5a8fCFh"
+	},
+	{
+		"created_at": "Tue Jul 05 11:29:40 +0000 2022",
+		"id": 1544274802432626700,
+		"id_str": "1544282359511613440",
+		"full_text": "이번주 토요일 을지로 https://t.co/rBvqajF7Ef\n\nDub Pulse+\n07/09 Sat 9pm \n\n플러스로 돌아온 덥펄스에서 더 씨끄럽고  무거운 초기충동의 쇳소리를 마주 하세요. 그리고 파괴되어지세요.\n\nBeats,Bass &amp; Noise Wall by\n\nHEEJIN JANG /LIVE\nROZE /DJ\nQUANDOL /DJ\nVON BUENO + SAMANTHA GANG /LIVE+DJ) https://t.co/BQvffXlKV7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rBvqajF7Ef",
+					"expanded_url": "http://acs.kr",
+					"display_url": "acs.kr",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544274784724213800,
+					"id_str": "1544274784724213760",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FW5dvBsUYAAtrLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW5dvBsUYAAtrLH.jpg",
+					"url": "https://t.co/BQvffXlKV7",
+					"display_url": "pic.twitter.com/BQvffXlKV7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1544274802432626688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544274784724213800,
+					"id_str": "1544274784724213760",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FW5dvBsUYAAtrLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW5dvBsUYAAtrLH.jpg",
+					"url": "https://t.co/BQvffXlKV7",
+					"display_url": "pic.twitter.com/BQvffXlKV7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1544274802432626688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544274790407499800,
+					"id_str": "1544274790407499782",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FW5dvW3UcAYbj_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW5dvW3UcAYbj_u.jpg",
+					"url": "https://t.co/BQvffXlKV7",
+					"display_url": "pic.twitter.com/BQvffXlKV7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1544274802432626688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544274794828275700,
+					"id_str": "1544274794828275712",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FW5dvnVUIAAyLEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW5dvnVUIAAyLEv.jpg",
+					"url": "https://t.co/BQvffXlKV7",
+					"display_url": "pic.twitter.com/BQvffXlKV7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1544274802432626688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544274799890800600,
+					"id_str": "1544274799890800640",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FW5dv6MUIAAU8AF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW5dv6MUIAAU8AF.jpg",
+					"url": "https://t.co/BQvffXlKV7",
+					"display_url": "pic.twitter.com/BQvffXlKV7",
+					"expanded_url": "https://twitter.com/bombino_records/status/1544274802432626688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 72,
+			"listed_count": 7,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 토요일 을지로 https://t.co/rBvqajF7Ef\n\nDub Pulse+\n07/09 Sat 9pm \n\n플러스로 돌아온 덥펄스에서 더 씨끄럽고  무거운 초기충동의 쇳소리를 마주 하세요. 그리고 파괴되어지세요.\n\nBeats,Bass &amp; Noise Wall by\n\nHEEJIN JANG /LIVE\nROZE /DJ\nQUANDOL /DJ\nVON BUENO + SAMANTHA GANG /LIVE+DJ) https://t.co/BQvffXlKV7"
+	},
+	{
+		"created_at": "Tue Jul 05 11:29:37 +0000 2022",
+		"id": 1544267490829963300,
+		"id_str": "1544282346303721472",
+		"full_text": "* 본 이미지는 색상, 형태 등이 실물과 다소 차이가 있을 수 있습니다.\n* 종이백은 환경 부담금이 발생합니다.\n\n#박소은 #손님 #정규앨범 #발매기념 #공연 #RECYCLE #MD #안내 #구름아래소극장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "정규앨범",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "발매기념",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "RECYCLE",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "MD",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "안내",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "구름아래소극장",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1544267351339987000,
+		"in_reply_to_status_id_str": "1544267351339986945",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2260,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 본 이미지는 색상, 형태 등이 실물과 다소 차이가 있을 수 있습니다.\n* 종이백은 환경 부담금이 발생합니다.\n\n#박소은 #손님 #정규앨범 #발매기념 #공연 #RECYCLE #MD #안내 #구름아래소극장"
+	},
+	{
+		"created_at": "Tue Jul 05 11:29:32 +0000 2022",
+		"id": 1544267456327614500,
+		"id_str": "1544282324786880514",
+		"full_text": "* MD부스는 공연 1시간 전부터 오픈합니다.\n* 본 상품은 박소은 정규 앨범 발매 기념 공연 [RECYCLE] 공연장 내 MD 부스에서 판매됩니다.\n* MD는 공연 전후로 구입 가능합니다.\n* MD는 한정된 수량이 준비되며, 조기 품절될 수 있습니다. https://t.co/TTVWzhJZpg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544267448127750100,
+					"id_str": "1544267448127750144",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FW5XD-vagAAtEcX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW5XD-vagAAtEcX.jpg",
+					"url": "https://t.co/TTVWzhJZpg",
+					"display_url": "pic.twitter.com/TTVWzhJZpg",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1544267456327614465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544267448127750100,
+					"id_str": "1544267448127750144",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FW5XD-vagAAtEcX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW5XD-vagAAtEcX.jpg",
+					"url": "https://t.co/TTVWzhJZpg",
+					"display_url": "pic.twitter.com/TTVWzhJZpg",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1544267456327614465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1544267351339987000,
+		"in_reply_to_status_id_str": "1544267351339986945",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2260,
+			"friends_count": 21,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* MD부스는 공연 1시간 전부터 오픈합니다.\n* 본 상품은 박소은 정규 앨범 발매 기념 공연 [RECYCLE] 공연장 내 MD 부스에서 판매됩니다.\n* MD는 공연 전후로 구입 가능합니다.\n* MD는 한정된 수량이 준비되며, 조기 품절될 수 있습니다. https://t.co/TTVWzhJZpg"
+	},
+	{
 		"created_at": "Tue Jul 05 10:29:25 +0000 2022",
 		"id": 1544252406585860000,
 		"id_str": "1544267194846089218",
