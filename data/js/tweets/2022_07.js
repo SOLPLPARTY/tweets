@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 03:12:50 +0000 2022",
+		"id": 1544519716680609800,
+		"id_str": "1544519716680609792",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n아스터(ASTER), 손승연 – Fine Again [Music Video]\nhttps://t.co/cWxotrzXLM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cWxotrzXLM",
+					"expanded_url": "https://youtu.be/XNO6GoAbHsg",
+					"display_url": "youtu.be/XNO6GoAbHsg",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n아스터(ASTER), 손승연 – Fine Again [Music Video]\nhttps://t.co/cWxotrzXLM"
+	},
+	{
+		"created_at": "Wed Jul 06 03:11:16 +0000 2022",
+		"id": 1544509809889665000,
+		"id_str": "1544519322265067521",
+		"full_text": "현대미술작가 '강병섭' 팝업전\n&lt;멀티버스 여행전&gt;\n\n현실을 유토피아로 바꾸는 희망의 메시지\n'같은 곳, 또 다른 공간'\n\nCOMING SOON-\n\n-\n7.14~7.31\nKT&amp;G 상상마당 홍대 3층\n무료전시 https://t.co/yVpgZ7R2iJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544509699608830000,
+					"id_str": "1544509699608829952",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8zY31UYAAtxFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8zY31UYAAtxFA.jpg",
+					"url": "https://t.co/yVpgZ7R2iJ",
+					"display_url": "pic.twitter.com/yVpgZ7R2iJ",
+					"expanded_url": "https://twitter.com/SSmadang/status/1544509809889665024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1556,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544509699608830000,
+					"id_str": "1544509699608829952",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8zY31UYAAtxFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8zY31UYAAtxFA.jpg",
+					"url": "https://t.co/yVpgZ7R2iJ",
+					"display_url": "pic.twitter.com/yVpgZ7R2iJ",
+					"expanded_url": "https://twitter.com/SSmadang/status/1544509809889665024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1556,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17579,
+			"friends_count": 1845,
+			"listed_count": 287,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현대미술작가 '강병섭' 팝업전\n&lt;멀티버스 여행전&gt;\n\n현실을 유토피아로 바꾸는 희망의 메시지\n'같은 곳, 또 다른 공간'\n\nCOMING SOON-\n\n-\n7.14~7.31\nKT&amp;G 상상마당 홍대 3층\n무료전시 https://t.co/yVpgZ7R2iJ"
+	},
+	{
+		"created_at": "Wed Jul 06 02:58:30 +0000 2022",
+		"id": 1544514090219241500,
+		"id_str": "1544516106873761792",
+		"full_text": "일시 : 2022년 8월 26일~28일 3일간\n장소 : 전주종합경기장\n\n*자세한 내용은 JUMF 공식 홈페이지를 참고하시길 바랍니다.\n\nhttps://t.co/1xnrngf6AF https://t.co/51oGdtxj9Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1xnrngf6AF",
+					"expanded_url": "http://jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544502918313046000,
+					"id_str": "1544502918313046016",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8tOJiacAAF7WN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8tOJiacAAF7WN.jpg",
+					"url": "https://t.co/51oGdtxj9Q",
+					"display_url": "pic.twitter.com/51oGdtxj9Q",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514090219241475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544502918313046000,
+					"id_str": "1544502918313046016",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8tOJiacAAF7WN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8tOJiacAAF7WN.jpg",
+					"url": "https://t.co/51oGdtxj9Q",
+					"display_url": "pic.twitter.com/51oGdtxj9Q",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514090219241475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1544514076172329000,
+		"in_reply_to_status_id_str": "1544514076172328961",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1151,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일시 : 2022년 8월 26일~28일 3일간\n장소 : 전주종합경기장\n\n*자세한 내용은 JUMF 공식 홈페이지를 참고하시길 바랍니다.\n\nhttps://t.co/1xnrngf6AF https://t.co/51oGdtxj9Q"
+	},
+	{
+		"created_at": "Wed Jul 06 02:58:24 +0000 2022",
+		"id": 1544514076172329000,
+		"id_str": "1544516080978300928",
+		"full_text": "📆접수 기간 : 7월 6일 (수) ~ 7월 18일 (월)\n✅접수 방법 : JUMFIE 카테고리 - JUMFIE 지원하기 를 통해 파일 업로드\n\n*최종합격자는 1365 자원봉사 포털에 반드시 가입되어 있어야 봉사점수가 반영됩니다.\n**신청자 수에 따라 조기마감 될 수 있습니다. https://t.co/h11HSIMLE9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544507459620188200,
+					"id_str": "1544507459620188160",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8xWfOaMAAVD7V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8xWfOaMAAVD7V.jpg",
+					"url": "https://t.co/h11HSIMLE9",
+					"display_url": "pic.twitter.com/h11HSIMLE9",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514076172328961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544507459620188200,
+					"id_str": "1544507459620188160",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8xWfOaMAAVD7V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8xWfOaMAAVD7V.jpg",
+					"url": "https://t.co/h11HSIMLE9",
+					"display_url": "pic.twitter.com/h11HSIMLE9",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514076172328961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544507459280466000,
+					"id_str": "1544507459280465920",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8xWd9acAAkPgN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8xWd9acAAkPgN.jpg",
+					"url": "https://t.co/h11HSIMLE9",
+					"display_url": "pic.twitter.com/h11HSIMLE9",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514076172328961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544507459305623600,
+					"id_str": "1544507459305623552",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8xWeDaUAAfnWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8xWeDaUAAfnWB.jpg",
+					"url": "https://t.co/h11HSIMLE9",
+					"display_url": "pic.twitter.com/h11HSIMLE9",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514076172328961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544507459301445600,
+					"id_str": "1544507459301445632",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8xWeCakAAApoG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8xWeCakAAApoG.jpg",
+					"url": "https://t.co/h11HSIMLE9",
+					"display_url": "pic.twitter.com/h11HSIMLE9",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514076172328961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1544514063522500600,
+		"in_reply_to_status_id_str": "1544514063522500608",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1151,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📆접수 기간 : 7월 6일 (수) ~ 7월 18일 (월)\n✅접수 방법 : JUMFIE 카테고리 - JUMFIE 지원하기 를 통해 파일 업로드\n\n*최종합격자는 1365 자원봉사 포털에 반드시 가입되어 있어야 봉사점수가 반영됩니다.\n**신청자 수에 따라 조기마감 될 수 있습니다. https://t.co/h11HSIMLE9"
+	},
+	{
+		"created_at": "Wed Jul 06 02:58:14 +0000 2022",
+		"id": 1544514063522500600,
+		"id_str": "1544516042717814785",
+		"full_text": "📢JUMF 2022 자원활동가 모집 안내📢\n\n8월 26,27,28일 3일동안 전주종합경기장에서 열리는 2022 전주얼티밋뮤직페스티벌에서 함께할 \n\nJUMF의 원동력! 열정넘치는 JUMFIE를 찾습니다!🥳\n\n올 여름,  JUMF에서  시원하고 알찬 계절을 함께 보내실 분~? https://t.co/kPkn2OOuKW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544502703371735000,
+					"id_str": "1544502703371735041",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8tBo0aUAEEeDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8tBo0aUAEEeDT.jpg",
+					"url": "https://t.co/kPkn2OOuKW",
+					"display_url": "pic.twitter.com/kPkn2OOuKW",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514063522500608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544502703371735000,
+					"id_str": "1544502703371735041",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8tBo0aUAEEeDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8tBo0aUAEEeDT.jpg",
+					"url": "https://t.co/kPkn2OOuKW",
+					"display_url": "pic.twitter.com/kPkn2OOuKW",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514063522500608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544502703380115500,
+					"id_str": "1544502703380115456",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8tBo2aMAAZqCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8tBo2aMAAZqCl.jpg",
+					"url": "https://t.co/kPkn2OOuKW",
+					"display_url": "pic.twitter.com/kPkn2OOuKW",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514063522500608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544502703371731000,
+					"id_str": "1544502703371730944",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8tBo0aQAAtG2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8tBo0aQAAtG2t.jpg",
+					"url": "https://t.co/kPkn2OOuKW",
+					"display_url": "pic.twitter.com/kPkn2OOuKW",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514063522500608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544502703375917000,
+					"id_str": "1544502703375917056",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8tBo1aIAAbktd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8tBo1aIAAbktd.jpg",
+					"url": "https://t.co/kPkn2OOuKW",
+					"display_url": "pic.twitter.com/kPkn2OOuKW",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1544514063522500608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1151,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢JUMF 2022 자원활동가 모집 안내📢\n\n8월 26,27,28일 3일동안 전주종합경기장에서 열리는 2022 전주얼티밋뮤직페스티벌에서 함께할 \n\nJUMF의 원동력! 열정넘치는 JUMFIE를 찾습니다!🥳\n\n올 여름,  JUMF에서  시원하고 알찬 계절을 함께 보내실 분~? https://t.co/kPkn2OOuKW"
+	},
+	{
 		"created_at": "Tue Jul 05 15:29:40 +0000 2022",
 		"id": 1544335427489828900,
 		"id_str": "1544342757267091456",
