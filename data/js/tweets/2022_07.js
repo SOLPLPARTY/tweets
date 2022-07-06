@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 15:29:24 +0000 2022",
+		"id": 1544697684065341400,
+		"id_str": "1544705079554588674",
+		"full_text": "[#track_by_YOON] &lt;track by YOON: 팥빙수&gt; Track List\n\n🎵 팥빙수 (Title)\n🎵 고속도로 로맨스 \n\n🔔2022.07.14 THU 18:00(KST)\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #팥빙수 #Patbingsu #고속도로로맨스 #Highway_Romance https://t.co/CTpm1Pnw8e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "track_by_YOON",
+					"indices": [
+						1,
+						15
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"text": "트랙바이윤",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "팥빙수",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "Patbingsu",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "고속도로로맨스",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "Highway_Romance",
+					"indices": [
+						196,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544612142929682400,
+					"id_str": "1544612142929682432",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-Qj28UIAArYsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-Qj28UIAArYsV.jpg",
+					"url": "https://t.co/CTpm1Pnw8e",
+					"display_url": "pic.twitter.com/CTpm1Pnw8e",
+					"expanded_url": "https://twitter.com/themysticstory/status/1544697684065341440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544612142929682400,
+					"id_str": "1544612142929682432",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-Qj28UIAArYsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-Qj28UIAArYsV.jpg",
+					"url": "https://t.co/CTpm1Pnw8e",
+					"display_url": "pic.twitter.com/CTpm1Pnw8e",
+					"expanded_url": "https://twitter.com/themysticstory/status/1544697684065341440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36410,
+			"friends_count": 15,
+			"listed_count": 296,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 800,
+		"favorite_count": 1927,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#track_by_YOON] &lt;track by YOON: 팥빙수&gt; Track List\n\n🎵 팥빙수 (Title)\n🎵 고속도로 로맨스 \n\n🔔2022.07.14 THU 18:00(KST)\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #팥빙수 #Patbingsu #고속도로로맨스 #Highway_Romance https://t.co/CTpm1Pnw8e"
+	},
+	{
 		"created_at": "Wed Jul 06 15:11:26 +0000 2022",
 		"id": 1544700555238396000,
 		"id_str": "1544700555238395910",
