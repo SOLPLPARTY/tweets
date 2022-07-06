@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 12:29:24 +0000 2022",
+		"id": 1544646234605924400,
+		"id_str": "1544659781453070337",
+		"full_text": "비즐라 매거진에 김새녘의 &lt;새빛깔&gt;이 소개됐습니다. ✌🏻\n\n\"6곡 모두 몽환적 사운드와 감정의 흐름 위를 유영하는 듯한 가사가 감상 포인트. 드림 팝과 모던 록이 중첩된 상태로 듣는 이를 몰입시킨다.\"\n\nhttps://t.co/4m7PIcx0oo https://t.co/XeKIJLZhBs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4m7PIcx0oo",
+					"expanded_url": "https://visla.kr/news/music/181610/",
+					"display_url": "visla.kr/news/music/181…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544646223566479400,
+					"id_str": "1544646223566479361",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-vjnNUIAETLk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-vjnNUIAETLk-.jpg",
+					"url": "https://t.co/XeKIJLZhBs",
+					"display_url": "pic.twitter.com/XeKIJLZhBs",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1544646234605924352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544646223566479400,
+					"id_str": "1544646223566479361",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-vjnNUIAETLk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-vjnNUIAETLk-.jpg",
+					"url": "https://t.co/XeKIJLZhBs",
+					"display_url": "pic.twitter.com/XeKIJLZhBs",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1544646234605924352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544646227026780200,
+					"id_str": "1544646227026780161",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-vj0GUIAECjbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-vj0GUIAECjbb.jpg",
+					"url": "https://t.co/XeKIJLZhBs",
+					"display_url": "pic.twitter.com/XeKIJLZhBs",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1544646234605924352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3497,
+			"friends_count": 1186,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비즐라 매거진에 김새녘의 &lt;새빛깔&gt;이 소개됐습니다. ✌🏻\n\n\"6곡 모두 몽환적 사운드와 감정의 흐름 위를 유영하는 듯한 가사가 감상 포인트. 드림 팝과 모던 록이 중첩된 상태로 듣는 이를 몰입시킨다.\"\n\nhttps://t.co/4m7PIcx0oo https://t.co/XeKIJLZhBs"
+	},
+	{
 		"created_at": "Wed Jul 06 11:29:37 +0000 2022",
 		"id": 1544639019203829800,
 		"id_str": "1544644732990750720",
