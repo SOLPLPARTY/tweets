@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 14:29:31 +0000 2022",
+		"id": 1545038938389131300,
+		"id_str": "1545052395062800384",
+		"full_text": "CEO #LEESUNGSU delivers a speech at the 3rd World Culture Industry Forum!\n\"SM will continue to promote K-pop worldwide through global cooperation.\"\n\"aespa's participation in the UN 2022 High-Level Forum on sustainable development proves K-pop's huge global influence.\" \n\n#WCIF #SM https://t.co/iPJvTKt3sG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEESUNGSU",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "WCIF",
+					"indices": [
+						271,
+						276
+					]
+				},
+				{
+					"text": "SM",
+					"indices": [
+						277,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545038928687747000,
+					"id_str": "1545038928687747073",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEUuDyVUAERV-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEUuDyVUAERV-X.jpg",
+					"url": "https://t.co/iPJvTKt3sG",
+					"display_url": "pic.twitter.com/iPJvTKt3sG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545038938389131267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545038928687747000,
+					"id_str": "1545038928687747073",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEUuDyVUAERV-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEUuDyVUAERV-X.jpg",
+					"url": "https://t.co/iPJvTKt3sG",
+					"display_url": "pic.twitter.com/iPJvTKt3sG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545038938389131267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545038928670929000,
+					"id_str": "1545038928670928898",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEUuDuUsAIlTn5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEUuDuUsAIlTn5.jpg",
+					"url": "https://t.co/iPJvTKt3sG",
+					"display_url": "pic.twitter.com/iPJvTKt3sG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545038938389131267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10982204,
+			"friends_count": 56,
+			"listed_count": 12381,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 2133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CEO #LEESUNGSU delivers a speech at the 3rd World Culture Industry Forum!\n\"SM will continue to promote K-pop worldwide through global cooperation.\"\n\"aespa's participation in the UN 2022 High-Level Forum on sustainable development proves K-pop's huge global influence.\" \n\n#WCIF #SM https://t.co/iPJvTKt3sG"
+	},
+	{
 		"created_at": "Thu Jul 07 12:29:25 +0000 2022",
 		"id": 1545009021404340200,
 		"id_str": "1545022169553534976",
