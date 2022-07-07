@@ -1,6 +1,697 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 11:11:22 +0000 2022",
+		"id": 1545000378227368000,
+		"id_str": "1545002529230028801",
+		"full_text": "RUMKICKS &amp; YOU\n\n@clubsteelface “Birthday Rock” 25/6/2022\n\n📸: @ryuhaewon\n\n#럼킥스 #스틸페이스\n#clubsteelface #steelface #rumkicks #punk #punkrock #seoul @CLUB STEEL FACE https://t.co/f9CYApsgm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "럼킥스",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "스틸페이스",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "clubsteelface",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "rumkicks",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "punk",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "punkrock",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						141,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clubsteelface",
+					"name": "CLUB STEEL FACE",
+					"id": 4144667354,
+					"id_str": "4144667354",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "Ryuhaewon",
+					"name": "Ryu haewon",
+					"id": 112452358,
+					"id_str": "112452358",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "Club",
+					"name": "Ntl. Bloggers Club",
+					"id": 466950015,
+					"id_str": "466950015",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f9CYApsgm1",
+					"expanded_url": "https://www.instagram.com/p/CftWr5zlwAj/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/CftWr5zlwAj/…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55086105,
+				126.92203617
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92203617,
+				37.55086105
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RUMKICKS &amp; YOU\n\n@clubsteelface “Birthday Rock” 25/6/2022\n\n📸: @ryuhaewon\n\n#럼킥스 #스틸페이스\n#clubsteelface #steelface #rumkicks #punk #punkrock #seoul @CLUB STEEL FACE https://t.co/f9CYApsgm1"
+	},
+	{
+		"created_at": "Thu Jul 07 11:11:17 +0000 2022",
+		"id": 1544998747150622700,
+		"id_str": "1545002507721756673",
+		"full_text": "RUMKICKS &amp; YOU\n\n@clubsteelface “Birthday Rock” 25/6/2022\n\n📸: @ryuhaewon\n\n#럼킥스 #스틸페이스\n#clubsteelface #steelface #rumkicks #punk #punkrock #seoul @CLUB STEEL FACE https://t.co/x9bcqBIg3l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "럼킥스",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "스틸페이스",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "clubsteelface",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "rumkicks",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "punk",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "punkrock",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						141,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clubsteelface",
+					"name": "CLUB STEEL FACE",
+					"id": 4144667354,
+					"id_str": "4144667354",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "Ryuhaewon",
+					"name": "Ryu haewon",
+					"id": 112452358,
+					"id_str": "112452358",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "Club",
+					"name": "Ntl. Bloggers Club",
+					"id": 466950015,
+					"id_str": "466950015",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x9bcqBIg3l",
+					"expanded_url": "https://www.instagram.com/p/CftV8jpllYV/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/CftV8jpllYV/…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55086105,
+				126.92203617
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92203617,
+				37.55086105
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RUMKICKS &amp; YOU\n\n@clubsteelface “Birthday Rock” 25/6/2022\n\n📸: @ryuhaewon\n\n#럼킥스 #스틸페이스\n#clubsteelface #steelface #rumkicks #punk #punkrock #seoul @CLUB STEEL FACE https://t.co/x9bcqBIg3l"
+	},
+	{
+		"created_at": "Thu Jul 07 10:29:29 +0000 2022",
+		"id": 1544977357408174000,
+		"id_str": "1544991987782254594",
+		"full_text": "#이완메인우드 🌱Worry🌱\n에드 시런이 키우는 신인이라는데.. 목소리 에드인 줄😳\n🎧음원듣기 https://t.co/VTE9hXdGBS https://t.co/I1sjCUHq4K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이완메인우드",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VTE9hXdGBS",
+					"expanded_url": "https://wmk.lnk.to/AGwKePNY",
+					"display_url": "wmk.lnk.to/AGwKePNY",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544977071771979800,
+					"id_str": "1544977071771979777",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544977071771979777/pu/img/8nYQ7Ve9PfJr5Tcv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544977071771979777/pu/img/8nYQ7Ve9PfJr5Tcv.jpg",
+					"url": "https://t.co/I1sjCUHq4K",
+					"display_url": "pic.twitter.com/I1sjCUHq4K",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1544977357408174080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544977071771979800,
+					"id_str": "1544977071771979777",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544977071771979777/pu/img/8nYQ7Ve9PfJr5Tcv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544977071771979777/pu/img/8nYQ7Ve9PfJr5Tcv.jpg",
+					"url": "https://t.co/I1sjCUHq4K",
+					"display_url": "pic.twitter.com/I1sjCUHq4K",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1544977357408174080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 35326,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544977071771979777/pu/vid/540x540/RcoJF1ltjjY4KOHU.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544977071771979777/pu/vid/720x720/W748ipis9ClSFG0M.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544977071771979777/pu/vid/320x320/HOO933Z7JLie2lX1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1544977071771979777/pu/pl/XYvLdEC8-vga82_c.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87960,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이완메인우드 🌱Worry🌱\n에드 시런이 키우는 신인이라는데.. 목소리 에드인 줄😳\n🎧음원듣기 https://t.co/VTE9hXdGBS https://t.co/I1sjCUHq4K"
+	},
+	{
 		"created_at": "Thu Jul 07 10:16:51 +0000 2022",
 		"id": 1544988810710118400,
 		"id_str": "1544988810710118402",
