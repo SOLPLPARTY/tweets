@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 04:29:36 +0000 2022",
+		"id": 1544894017212600300,
+		"id_str": "1544901421165838336",
+		"full_text": "▷ SMTOWN &amp;STORE\n \nMOBILE\nKOR : https://t.co/hfISSJFiHF\nEN : https://t.co/RnBV0XZoz9\nJP : https://t.co/9EMzmYVtSb\nCN : https://t.co/rREtXinBF5 https://t.co/RpTlXxzabb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hfISSJFiHF",
+					"expanded_url": "https://bit.ly/3HLyT6k",
+					"display_url": "bit.ly/3HLyT6k",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/RnBV0XZoz9",
+					"expanded_url": "https://bit.ly/3HLMwST",
+					"display_url": "bit.ly/3HLMwST",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/9EMzmYVtSb",
+					"expanded_url": "https://bit.ly/3xQ1fYu",
+					"display_url": "bit.ly/3xQ1fYu",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/rREtXinBF5",
+					"expanded_url": "https://bit.ly/3OEZ1lL",
+					"display_url": "bit.ly/3OEZ1lL",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544894007800500200,
+					"id_str": "1544894007800500225",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQ6jaUEAE1fdQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQ6jaUEAE1fdQ.jpg",
+					"url": "https://t.co/RpTlXxzabb",
+					"display_url": "pic.twitter.com/RpTlXxzabb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544894017212600320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544894007800500200,
+					"id_str": "1544894007800500225",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQ6jaUEAE1fdQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQ6jaUEAE1fdQ.jpg",
+					"url": "https://t.co/RpTlXxzabb",
+					"display_url": "pic.twitter.com/RpTlXxzabb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544894017212600320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1544894003119657000,
+		"in_reply_to_status_id_str": "1544894003119656960",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10979542,
+			"friends_count": 56,
+			"listed_count": 12374,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "▷ SMTOWN &amp;STORE\n \nMOBILE\nKOR : https://t.co/hfISSJFiHF\nEN : https://t.co/RnBV0XZoz9\nJP : https://t.co/9EMzmYVtSb\nCN : https://t.co/rREtXinBF5 https://t.co/RpTlXxzabb"
+	},
+	{
+		"created_at": "Thu Jul 07 04:29:28 +0000 2022",
+		"id": 1544894003119657000,
+		"id_str": "1544901387120771072",
+		"full_text": "#KANGTA_OFFICIAL_FANCLUB #Club_K_I_T_ACE\n \n▷ SMTOWN &amp;STORE\n \nPC\nKOR : https://t.co/ZoPHsth3lD\nEN : https://t.co/Wx4uVMM5wC\nJP : https://t.co/PLfZB78V8t\nCN : https://t.co/pRYdqFUAwp https://t.co/Fqczloe5Xq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA_OFFICIAL_FANCLUB",
+					"indices": [
+						0,
+						24
+					]
+				},
+				{
+					"text": "Club_K_I_T_ACE",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZoPHsth3lD",
+					"expanded_url": "https://bit.ly/3y9AX4R",
+					"display_url": "bit.ly/3y9AX4R",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/Wx4uVMM5wC",
+					"expanded_url": "https://bit.ly/3xMbX27",
+					"display_url": "bit.ly/3xMbX27",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/PLfZB78V8t",
+					"expanded_url": "https://bit.ly/3naAIAj",
+					"display_url": "bit.ly/3naAIAj",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/pRYdqFUAwp",
+					"expanded_url": "https://bit.ly/3n7NOyn",
+					"display_url": "bit.ly/3n7NOyn",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544893988909420500,
+					"id_str": "1544893988909420550",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQ5dCVEAY7iHk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQ5dCVEAY7iHk.jpg",
+					"url": "https://t.co/Fqczloe5Xq",
+					"display_url": "pic.twitter.com/Fqczloe5Xq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544894003119656960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544893988909420500,
+					"id_str": "1544893988909420550",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQ5dCVEAY7iHk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQ5dCVEAY7iHk.jpg",
+					"url": "https://t.co/Fqczloe5Xq",
+					"display_url": "pic.twitter.com/Fqczloe5Xq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544894003119656960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544893988896850000,
+					"id_str": "1544893988896849920",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQ5c_VQAABlYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQ5c_VQAABlYQ.jpg",
+					"url": "https://t.co/Fqczloe5Xq",
+					"display_url": "pic.twitter.com/Fqczloe5Xq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544894003119656960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544893988922015700,
+					"id_str": "1544893988922015744",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQ5dFVQAA3XEe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQ5dFVQAA3XEe.jpg",
+					"url": "https://t.co/Fqczloe5Xq",
+					"display_url": "pic.twitter.com/Fqczloe5Xq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544894003119656960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544893988909375500,
+					"id_str": "1544893988909375488",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQ5dCUYAAku17.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQ5dCUYAAku17.jpg",
+					"url": "https://t.co/Fqczloe5Xq",
+					"display_url": "pic.twitter.com/Fqczloe5Xq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544894003119656960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10979542,
+			"friends_count": 56,
+			"listed_count": 12374,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 1267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "#KANGTA_OFFICIAL_FANCLUB #Club_K_I_T_ACE\n \n▷ SMTOWN &amp;STORE\n \nPC\nKOR : https://t.co/ZoPHsth3lD\nEN : https://t.co/Wx4uVMM5wC\nJP : https://t.co/PLfZB78V8t\nCN : https://t.co/pRYdqFUAwp https://t.co/Fqczloe5Xq"
+	},
+	{
 		"created_at": "Thu Jul 07 03:11:47 +0000 2022",
 		"id": 1544879783410270200,
 		"id_str": "1544881838396788736",
