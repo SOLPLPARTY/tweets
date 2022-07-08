@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 02:29:34 +0000 2022",
+		"id": 1545232381526753300,
+		"id_str": "1545233600697843714",
+		"full_text": "#aespa’s comeback D-DAY is today! Their 2nd mini album ‘Girls’ exceeded 1.61M preorders, setting a new record for the highest number of preorders recorded for a K-pop girl group! \nThe album &amp; the MV for the title track #Girls will drop at 1PM today (KST)!\n\nhttps://t.co/mgPekLTem3 https://t.co/gTAW825PG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						223,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mgPekLTem3",
+					"expanded_url": "https://bit.ly/3NPSNP8",
+					"display_url": "bit.ly/3NPSNP8",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545232370327924700,
+					"id_str": "1545232370327924736",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"url": "https://t.co/gTAW825PG3",
+					"display_url": "pic.twitter.com/gTAW825PG3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545232381526753280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545232370327924700,
+					"id_str": "1545232370327924736",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"url": "https://t.co/gTAW825PG3",
+					"display_url": "pic.twitter.com/gTAW825PG3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545232381526753280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545232370332094500,
+					"id_str": "1545232370332094464",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHEp2EUUAA8QLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHEp2EUUAA8QLO.jpg",
+					"url": "https://t.co/gTAW825PG3",
+					"display_url": "pic.twitter.com/gTAW825PG3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545232381526753280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10983782,
+			"friends_count": 56,
+			"listed_count": 12388,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2489,
+		"favorite_count": 6230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa’s comeback D-DAY is today! Their 2nd mini album ‘Girls’ exceeded 1.61M preorders, setting a new record for the highest number of preorders recorded for a K-pop girl group! \nThe album &amp; the MV for the title track #Girls will drop at 1PM today (KST)!\n\nhttps://t.co/mgPekLTem3 https://t.co/gTAW825PG3"
+	},
+	{
 		"created_at": "Thu Jul 07 15:29:24 +0000 2022",
 		"id": 1545060076687442000,
 		"id_str": "1545067467654971394",
