@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 12:29:24 +0000 2022",
+		"id": 1545374721864151000,
+		"id_str": "1545384557288951808",
+		"full_text": "[#Video] #권진아 #정승환\n⠀\n권진아, 정승환이 함께한 HUP! 노래방🎤\n권진아의 ‘일레븐’과 정승환의 ‘가시’ 노래방 영상이 공개되었습니다.\n지금 바로 유튜브 ‘HUP!’ 채널에서 확인하세요!✨\n\n🔗 https://t.co/624rIKI4Po\n\n#KwonJinAh #JungSeungHwan \n#HUP #일레븐 #가시 https://t.co/HnV0qrhNiG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"text": "HUP",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "일레븐",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "가시",
+					"indices": [
+						179,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/624rIKI4Po",
+					"expanded_url": "https://youtu.be/ho7jfduWX8Y",
+					"display_url": "youtu.be/ho7jfduWX8Y",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545374712280551400,
+					"id_str": "1545374712280551424",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FXJGHPJakAAOPIj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXJGHPJakAAOPIj.jpg",
+					"url": "https://t.co/HnV0qrhNiG",
+					"display_url": "pic.twitter.com/HnV0qrhNiG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1545374721864151041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545374712280551400,
+					"id_str": "1545374712280551424",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FXJGHPJakAAOPIj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXJGHPJakAAOPIj.jpg",
+					"url": "https://t.co/HnV0qrhNiG",
+					"display_url": "pic.twitter.com/HnV0qrhNiG",
+					"expanded_url": "https://twitter.com/antennamusic/status/1545374721864151041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40518,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #권진아 #정승환\n⠀\n권진아, 정승환이 함께한 HUP! 노래방🎤\n권진아의 ‘일레븐’과 정승환의 ‘가시’ 노래방 영상이 공개되었습니다.\n지금 바로 유튜브 ‘HUP!’ 채널에서 확인하세요!✨\n\n🔗 https://t.co/624rIKI4Po\n\n#KwonJinAh #JungSeungHwan \n#HUP #일레븐 #가시 https://t.co/HnV0qrhNiG"
+	},
+	{
 		"created_at": "Fri Jul 08 10:29:34 +0000 2022",
 		"id": 1545346964430065700,
 		"id_str": "1545354396892119047",
