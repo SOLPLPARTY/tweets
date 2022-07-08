@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 10:29:34 +0000 2022",
+		"id": 1545346964430065700,
+		"id_str": "1545354396892119047",
+		"full_text": "[#Video] #적재\n\n🎸기타등등 적재함 17화\n\n또 적재만 진심이었지,,적재의 입문용 일렉 기타 7종 언박싱⭐️\n📎 https://t.co/cBptUmiD1F\n\n#Jukjae\n#기타등등적재함 #브이로그\n#입문용기타 #일렉기타 #기타추천 https://t.co/dfLL9hZh6N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "기타등등적재함",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "입문용기타",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "일렉기타",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "기타추천",
+					"indices": [
+						128,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cBptUmiD1F",
+					"expanded_url": "https://youtu.be/Etgib7ANmVQ",
+					"display_url": "youtu.be/Etgib7ANmVQ",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545276388097216500,
+					"id_str": "1545276388097216517",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHs0ufUYAALHmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHs0ufUYAALHmX.jpg",
+					"url": "https://t.co/dfLL9hZh6N",
+					"display_url": "pic.twitter.com/dfLL9hZh6N",
+					"expanded_url": "https://twitter.com/antennamusic/status/1545346964430065666/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545276388097216500,
+					"id_str": "1545276388097216517",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHs0ufUYAALHmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHs0ufUYAALHmX.jpg",
+					"url": "https://t.co/dfLL9hZh6N",
+					"display_url": "pic.twitter.com/dfLL9hZh6N",
+					"expanded_url": "https://twitter.com/antennamusic/status/1545346964430065666/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14581,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545276388097216517/vid/480x270/HgCcMl8ZThhsMJAL.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545276388097216517/vid/1280x720/EqzGeOmP5ZiaAKp-.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1545276388097216517/pl/5Ze5CFKR8FHvc7HD.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545276388097216517/vid/640x360/C1z41J2KeEBgy9hg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "기타등등 적재함 17화",
+						"description": "또 적재만 진심이었지,,적재의 입문용 일렉 기타 7종 언박싱⭐️",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/Etgib7ANmVQ"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40519,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n🎸기타등등 적재함 17화\n\n또 적재만 진심이었지,,적재의 입문용 일렉 기타 7종 언박싱⭐️\n📎 https://t.co/cBptUmiD1F\n\n#Jukjae\n#기타등등적재함 #브이로그\n#입문용기타 #일렉기타 #기타추천 https://t.co/dfLL9hZh6N"
+	},
+	{
+		"created_at": "Fri Jul 08 10:29:31 +0000 2022",
+		"id": 1545345679270498300,
+		"id_str": "1545354383784828929",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n벤자민권이 초대한 세 사람은 누구❗️❓ [벤자민권의 상상은 현실이된다2 : #위대한쇼맨 ] 티저2\n\n👉 https://t.co/k1Bknu1zJt\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "위대한쇼맨",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "소상공인",
+					"indices": [
+						159,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k1Bknu1zJt",
+					"expanded_url": "https://youtu.be/RdaBESW0jts",
+					"display_url": "youtu.be/RdaBESW0jts",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n벤자민권이 초대한 세 사람은 누구❗️❓ [벤자민권의 상상은 현실이된다2 : #위대한쇼맨 ] 티저2\n\n👉 https://t.co/k1Bknu1zJt\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV #소상공인"
+	},
+	{
 		"created_at": "Fri Jul 08 10:05:58 +0000 2022",
 		"id": 1545348457140867000,
 		"id_str": "1545348457140867074",
