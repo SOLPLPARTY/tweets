@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 15:29:25 +0000 2022",
+		"id": 1545784841744023600,
+		"id_str": "1545792244107681792",
+		"full_text": "[#track_by_YOON] &lt;track by YOON: 팥빙수&gt; classic poster #3\n\n🔔2022.07.14 THU 18:00(KST)\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #문수아 #하람 #MOONSUA #HARAM #팥빙수 #Patbingsu https://t.co/S3VkEZQinA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "track_by_YOON",
+					"indices": [
+						1,
+						15
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "트랙바이윤",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "문수아",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "하람",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "MOONSUA",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "HARAM",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "팥빙수",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "Patbingsu",
+					"indices": [
+						181,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545758312750149600,
+					"id_str": "1545758312750149634",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FXOi_uQUcAIDkhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXOi_uQUcAIDkhr.jpg",
+					"url": "https://t.co/S3VkEZQinA",
+					"display_url": "pic.twitter.com/S3VkEZQinA",
+					"expanded_url": "https://twitter.com/themysticstory/status/1545784841744023552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545758312750149600,
+					"id_str": "1545758312750149634",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FXOi_uQUcAIDkhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXOi_uQUcAIDkhr.jpg",
+					"url": "https://t.co/S3VkEZQinA",
+					"display_url": "pic.twitter.com/S3VkEZQinA",
+					"expanded_url": "https://twitter.com/themysticstory/status/1545784841744023552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545758312737648600,
+					"id_str": "1545758312737648642",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FXOi_uNVsAIEuaC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXOi_uNVsAIEuaC.jpg",
+					"url": "https://t.co/S3VkEZQinA",
+					"display_url": "pic.twitter.com/S3VkEZQinA",
+					"expanded_url": "https://twitter.com/themysticstory/status/1545784841744023552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36632,
+			"friends_count": 15,
+			"listed_count": 291,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1053,
+		"favorite_count": 2904,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#track_by_YOON] &lt;track by YOON: 팥빙수&gt; classic poster #3\n\n🔔2022.07.14 THU 18:00(KST)\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #문수아 #하람 #MOONSUA #HARAM #팥빙수 #Patbingsu https://t.co/S3VkEZQinA"
+	},
+	{
 		"created_at": "Sat Jul 09 13:11:17 +0000 2022",
 		"id": 1545754647268409300,
 		"id_str": "1545757481418235904",
