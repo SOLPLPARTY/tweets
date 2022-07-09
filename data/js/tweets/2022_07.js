@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 13:11:17 +0000 2022",
+		"id": 1545754647268409300,
+		"id_str": "1545757481418235904",
+		"full_text": "📢 7/10 공연 현장 안내\n⠀\n&lt;사거리 그오빠 단독 콘서트 ‘오빠가 왔다’：롤링 27주년 기념 공연&gt;\n· 티켓수령 : 4시 (현장구매 극소량가능)\n· 입장 : 4시 30분 \n· 공연시작 : 5시\n· 출연 : 사거리 그오빠\n　\n#롤링홀 #ROLLINGHALL\n#사거리그오빠 #단독콘서트 #오빠가왔다\n#롤링27주년 #공연 #멜론티켓 https://t.co/8FsdzNCctJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "사거리그오빠",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "오빠가왔다",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "롤링27주년",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545623098489454600,
+					"id_str": "1545623098489454592",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FXMoBN4aQAAnCFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXMoBN4aQAAnCFq.jpg",
+					"url": "https://t.co/8FsdzNCctJ",
+					"display_url": "pic.twitter.com/8FsdzNCctJ",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1545754647268409345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545623098489454600,
+					"id_str": "1545623098489454592",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FXMoBN4aQAAnCFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXMoBN4aQAAnCFq.jpg",
+					"url": "https://t.co/8FsdzNCctJ",
+					"display_url": "pic.twitter.com/8FsdzNCctJ",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1545754647268409345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545623098497847300,
+					"id_str": "1545623098497847296",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FXMoBN6aUAA_JZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXMoBN6aUAA_JZL.jpg",
+					"url": "https://t.co/8FsdzNCctJ",
+					"display_url": "pic.twitter.com/8FsdzNCctJ",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1545754647268409345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 7/10 공연 현장 안내\n⠀\n&lt;사거리 그오빠 단독 콘서트 ‘오빠가 왔다’：롤링 27주년 기념 공연&gt;\n· 티켓수령 : 4시 (현장구매 극소량가능)\n· 입장 : 4시 30분 \n· 공연시작 : 5시\n· 출연 : 사거리 그오빠\n　\n#롤링홀 #ROLLINGHALL\n#사거리그오빠 #단독콘서트 #오빠가왔다\n#롤링27주년 #공연 #멜론티켓 https://t.co/8FsdzNCctJ"
+	},
+	{
 		"created_at": "Sat Jul 09 10:29:32 +0000 2022",
 		"id": 1545710499584946200,
 		"id_str": "1545716776570331137",
