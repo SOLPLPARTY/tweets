@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 10:29:32 +0000 2022",
+		"id": 1545710499584946200,
+		"id_str": "1545716776570331137",
+		"full_text": "aespa went out of KWANGYA to the US...Another Level is global...?/VIDEOMUG https://t.co/zyEFJaeoo3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zyEFJaeoo3",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545704311736647680",
+					"display_url": "twitter.com/aespa_official…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10990371,
+			"friends_count": 56,
+			"listed_count": 12390,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545704311736647700,
+		"quoted_status_id_str": "1545704311736647680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zyEFJaeoo3",
+			"expanded": "https://twitter.com/aespa_official/status/1545704311736647680",
+			"display": "twitter.com/aespa_official…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 09 09:40:00 +0000 2022",
+			"id": 1545704311736647700,
+			"id_str": "1545704311736647680",
+			"full_text": "광야를 벗어나 미국 간 에스파..어나더 레벨은 글로벌이다? / 비디오머그 \n\nhttps://t.co/rULVOzwePg \n\n#aespa #æspa #에스파\n#aespaOnGMA @GMA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aespa",
+						"indices": [
+							69,
+							75
+						]
+					},
+					{
+						"text": "æspa",
+						"indices": [
+							76,
+							81
+						]
+					},
+					{
+						"text": "에스파",
+						"indices": [
+							82,
+							86
+						]
+					},
+					{
+						"text": "aespaOnGMA",
+						"indices": [
+							87,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GMA",
+						"name": "Good Morning America",
+						"id": 22650211,
+						"id_str": "22650211",
+						"indices": [
+							99,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rULVOzwePg",
+						"expanded_url": "https://youtu.be/g_zekweYmp8",
+						"display_url": "youtu.be/g_zekweYmp8",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1277453652924366800,
+				"id_str": "1277453652924366848",
+				"name": "aespa",
+				"screen_name": "aespa_official",
+				"location": "",
+				"description": "Girls",
+				"url": "https://t.co/2aTPkf0eR0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2aTPkf0eR0",
+								"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+								"display_url": "youtu.be/dYRITmpFbJ4",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2902992,
+				"friends_count": 2,
+				"listed_count": 8963,
+				"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1715,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3908,
+			"favorite_count": 12652,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 873,
+		"favorite_count": 4218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa went out of KWANGYA to the US...Another Level is global...?/VIDEOMUG https://t.co/zyEFJaeoo3"
+	},
+	{
 		"created_at": "Sat Jul 09 09:29:43 +0000 2022",
 		"id": 1545696461102661600,
 		"id_str": "1545701724584919041",
