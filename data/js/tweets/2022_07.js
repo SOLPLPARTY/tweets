@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 03:29:32 +0000 2022",
+		"id": 1546328424054247400,
+		"id_str": "1546335856042004480",
+		"full_text": "찰진 Rock 사운드와 대비되는 가사😎\n#육중완밴드  신곡 '바나나 먹고싶다' 전💖격💖발💖매💖\n\n이 노래를 '한 번만' 들은 사람은 없다는데...?🤣\n(🍌바나나..먹고..싶다..싶다..🍌바나나.....먹고..싶다..싶다..)\n\n지금, 모든 음원사이트에서 만나보세요!\n#믿듣미 #바나나먹고싶다 #육밴 https://t.co/qbTdCz5ZzY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "육중완밴드",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "믿듣미",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "바나나먹고싶다",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "육밴",
+					"indices": [
+						163,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546303234632872000,
+					"id_str": "1546303234632871937",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546303234632871937/pu/img/czI0qflFbBfL_-lV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546303234632871937/pu/img/czI0qflFbBfL_-lV.jpg",
+					"url": "https://t.co/qbTdCz5ZzY",
+					"display_url": "pic.twitter.com/qbTdCz5ZzY",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1546328424054247424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546303234632872000,
+					"id_str": "1546303234632871937",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546303234632871937/pu/img/czI0qflFbBfL_-lV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546303234632871937/pu/img/czI0qflFbBfL_-lV.jpg",
+					"url": "https://t.co/qbTdCz5ZzY",
+					"display_url": "pic.twitter.com/qbTdCz5ZzY",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1546328424054247424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59976,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546303234632871937/pu/vid/1280x720/QWNjsVQs3aT8wkcM.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546303234632871937/pu/vid/480x270/GAS3TQDATTAWmK00.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546303234632871937/pu/pl/J19hrkd8q3kKx-f-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546303234632871937/pu/vid/640x360/bQB-XIAankmnenLO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/ejIyUUwHsO…",
+			"url": "https://t.co/TNuoTAkFOH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNuoTAkFOH",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ejIyUUwHsO",
+							"expanded_url": "http://youtube.com/mirrorballmusi",
+							"display_url": "youtube.com/mirrorballmusi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9375,
+			"friends_count": 2582,
+			"listed_count": 244,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1654842906",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "찰진 Rock 사운드와 대비되는 가사😎\n#육중완밴드  신곡 '바나나 먹고싶다' 전💖격💖발💖매💖\n\n이 노래를 '한 번만' 들은 사람은 없다는데...?🤣\n(🍌바나나..먹고..싶다..싶다..🍌바나나.....먹고..싶다..싶다..)\n\n지금, 모든 음원사이트에서 만나보세요!\n#믿듣미 #바나나먹고싶다 #육밴 https://t.co/qbTdCz5ZzY"
+	},
+	{
 		"created_at": "Mon Jul 11 03:14:52 +0000 2022",
 		"id": 1546332164395913200,
 		"id_str": "1546332164395913216",
