@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 02:11:17 +0000 2022",
+		"id": 1546310475759030300,
+		"id_str": "1546316164518772738",
+		"full_text": "#해밀 #민광진 #안홍근 #찰리브라운 #조슈아 #널드쿨 #어텐브리드 #코끼리숨바꼭질 #끌림 #잔치잔치 #무지개99 #스모킹구스 #선셋온더브릿지 #시골 #이디어츠 #드미트리머신 #동녘 #공기별 #조민규 #레이디버드 #클럽빵  #clubbbang #kindie #홍대앞 #라이브클럽 #인디 https://t.co/0ErS3SyGwq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해밀",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "민광진",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "안홍근",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "찰리브라운",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "조슈아",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "널드쿨",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "어텐브리드",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "코끼리숨바꼭질",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "끌림",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "잔치잔치",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "무지개99",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "스모킹구스",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "선셋온더브릿지",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "시골",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "이디어츠",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "드미트리머신",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "동녘",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "공기별",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "조민규",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "레이디버드",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "clubbbang",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "홍대앞",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "라이브클럽",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546310463306100700,
+					"id_str": "1546310463306100737",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FXWZLHXUcAEnNRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXWZLHXUcAEnNRf.jpg",
+					"url": "https://t.co/0ErS3SyGwq",
+					"display_url": "pic.twitter.com/0ErS3SyGwq",
+					"expanded_url": "https://twitter.com/club_bbang/status/1546310475759030272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546310463306100700,
+					"id_str": "1546310463306100737",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FXWZLHXUcAEnNRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXWZLHXUcAEnNRf.jpg",
+					"url": "https://t.co/0ErS3SyGwq",
+					"display_url": "pic.twitter.com/0ErS3SyGwq",
+					"expanded_url": "https://twitter.com/club_bbang/status/1546310475759030272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546310463297691600,
+					"id_str": "1546310463297691649",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FXWZLHVUIAE17Kj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXWZLHVUIAE17Kj.jpg",
+					"url": "https://t.co/0ErS3SyGwq",
+					"display_url": "pic.twitter.com/0ErS3SyGwq",
+					"expanded_url": "https://twitter.com/club_bbang/status/1546310475759030272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 909,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#해밀 #민광진 #안홍근 #찰리브라운 #조슈아 #널드쿨 #어텐브리드 #코끼리숨바꼭질 #끌림 #잔치잔치 #무지개99 #스모킹구스 #선셋온더브릿지 #시골 #이디어츠 #드미트리머신 #동녘 #공기별 #조민규 #레이디버드 #클럽빵  #clubbbang #kindie #홍대앞 #라이브클럽 #인디 https://t.co/0ErS3SyGwq"
+	},
+	{
 		"created_at": "Mon Jul 11 00:29:25 +0000 2022",
 		"id": 1546286569061232600,
 		"id_str": "1546290527120887808",
