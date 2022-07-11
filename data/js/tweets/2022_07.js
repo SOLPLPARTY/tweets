@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 16:29:34 +0000 2022",
+		"id": 1546520724847804400,
+		"id_str": "1546532157442691074",
+		"full_text": "D-11 스마일러브위크엔드 MAP\n\n총15팀의 메인공연들은 시원하게 실내에서😊❤️\n푸드 &amp; 이벤트는 야외에서🍹🌴\n야외무대 &amp; 뮤직라운지에선 서울시 무료공연🎸\n일몰맛집 노들섬에서 한강의 일몰과 야경뷰🌇\n부득불 못올시엔 라이브앳 온라인 생중계까지📺\n\n다음주말 웃음과 사랑의 완벽한 주말을 만나세요 https://t.co/2akhh5oDX8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546520697693806600,
+					"id_str": "1546520697693806594",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FXZYYXfUIAIPGbv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXZYYXfUIAIPGbv.jpg",
+					"url": "https://t.co/2akhh5oDX8",
+					"display_url": "pic.twitter.com/2akhh5oDX8",
+					"expanded_url": "https://twitter.com/ruby_records/status/1546520724847804417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1205,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546520697693806600,
+					"id_str": "1546520697693806594",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FXZYYXfUIAIPGbv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXZYYXfUIAIPGbv.jpg",
+					"url": "https://t.co/2akhh5oDX8",
+					"display_url": "pic.twitter.com/2akhh5oDX8",
+					"expanded_url": "https://twitter.com/ruby_records/status/1546520724847804417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1205,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546520711577014300,
+					"id_str": "1546520711577014272",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FXZYZLNVEAAuDIl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXZYZLNVEAAuDIl.jpg",
+					"url": "https://t.co/2akhh5oDX8",
+					"display_url": "pic.twitter.com/2akhh5oDX8",
+					"expanded_url": "https://twitter.com/ruby_records/status/1546520724847804417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1205,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7581,
+			"friends_count": 8218,
+			"listed_count": 196,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-11 스마일러브위크엔드 MAP\n\n총15팀의 메인공연들은 시원하게 실내에서😊❤️\n푸드 &amp; 이벤트는 야외에서🍹🌴\n야외무대 &amp; 뮤직라운지에선 서울시 무료공연🎸\n일몰맛집 노들섬에서 한강의 일몰과 야경뷰🌇\n부득불 못올시엔 라이브앳 온라인 생중계까지📺\n\n다음주말 웃음과 사랑의 완벽한 주말을 만나세요 https://t.co/2akhh5oDX8"
+	},
+	{
 		"created_at": "Mon Jul 11 15:29:25 +0000 2022",
 		"id": 1546509622059622400,
 		"id_str": "1546517020581191680",
