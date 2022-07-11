@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 07:29:42 +0000 2022",
+		"id": 1546387346097967000,
+		"id_str": "1546396296097013760",
+		"full_text": "NEWSIS와 함께한 박소은의 인터뷰!\n정규 2집 ‘재활용’에 대한 이야기를 나눠보았습니다♻️\n\n기사 전문은 아래 링크를 통해 보실 수 있습니다👀\n🔗https://t.co/bPQBxLEUO0\n\n#박소은 #손님 #뉴시스 #인터뷰",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "뉴시스",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						122,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bPQBxLEUO0",
+					"expanded_url": "http://c11.kr/113l6",
+					"display_url": "c11.kr/113l6",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2264,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NEWSIS와 함께한 박소은의 인터뷰!\n정규 2집 ‘재활용’에 대한 이야기를 나눠보았습니다♻️\n\n기사 전문은 아래 링크를 통해 보실 수 있습니다👀\n🔗https://t.co/bPQBxLEUO0\n\n#박소은 #손님 #뉴시스 #인터뷰"
+	},
+	{
+		"created_at": "Mon Jul 11 07:29:39 +0000 2022",
+		"id": 1546386264600916000,
+		"id_str": "1546396283023261697",
+		"full_text": "오늘 오후 8시, cott(콧)이 아리랑 라디오 &lt;Radio’ n Us&gt;에 함께합니다! cott과 함께 월요일 밤을 마무리해요🎧\n\n📻7월 11일 월요일 오후 8시\n📻’Arirang Radio’ 앱/ ‘Arirang Radio’ 유튜브 채널\n\n#cott #콧 #아리랑라디오 #라디온어스 #arirangradio #radionus #라디오 https://t.co/E6TUBnamAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						147,
+						149
+					]
+				},
+				{
+					"text": "아리랑라디오",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "라디온어스",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "arirangradio",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"text": "radionus",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						189,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546386258553090000,
+					"id_str": "1546386258553090049",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FXXeG-qaMAEI59G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXXeG-qaMAEI59G.jpg",
+					"url": "https://t.co/E6TUBnamAS",
+					"display_url": "pic.twitter.com/E6TUBnamAS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1546386264600915969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546386258553090000,
+					"id_str": "1546386258553090049",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FXXeG-qaMAEI59G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXXeG-qaMAEI59G.jpg",
+					"url": "https://t.co/E6TUBnamAS",
+					"display_url": "pic.twitter.com/E6TUBnamAS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1546386264600915969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2264,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 오후 8시, cott(콧)이 아리랑 라디오 &lt;Radio’ n Us&gt;에 함께합니다! cott과 함께 월요일 밤을 마무리해요🎧\n\n📻7월 11일 월요일 오후 8시\n📻’Arirang Radio’ 앱/ ‘Arirang Radio’ 유튜브 채널\n\n#cott #콧 #아리랑라디오 #라디온어스 #arirangradio #radionus #라디오 https://t.co/E6TUBnamAS"
+	},
+	{
+		"created_at": "Mon Jul 11 07:29:33 +0000 2022",
+		"id": 1546384067574149000,
+		"id_str": "1546396257282936833",
+		"full_text": "음악취향Y의 싱글아웃 코너에 김새녘의 ‘싫증’이 리뷰됐습니다. \n\n“그것은 마치 잠들 수 없는 여름밤의 뒤척거림처럼, 쏟아지는 장마 사이에 잠깐 고개를 내미는 햇살처럼, ‘간절한 설레임’ 이라 부를만한 짙은 감성을 음악으로 구체화시킨 형상이다.”\n\nhttps://t.co/Yx3OGDpkeF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yx3OGDpkeF",
+					"expanded_url": "http://musicy.kr/?c=review&s=1&gp=1&ob=idx&gbn=viewok&ix=7979",
+					"display_url": "musicy.kr/?c=review&s=1&…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3494,
+			"friends_count": 1186,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악취향Y의 싱글아웃 코너에 김새녘의 ‘싫증’이 리뷰됐습니다. \n\n“그것은 마치 잠들 수 없는 여름밤의 뒤척거림처럼, 쏟아지는 장마 사이에 잠깐 고개를 내미는 햇살처럼, ‘간절한 설레임’ 이라 부를만한 짙은 감성을 음악으로 구체화시킨 형상이다.”\n\nhttps://t.co/Yx3OGDpkeF"
+	},
+	{
 		"created_at": "Mon Jul 11 07:08:27 +0000 2022",
 		"id": 1546390947184857000,
 		"id_str": "1546390947184857088",
