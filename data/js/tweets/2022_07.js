@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 15:29:25 +0000 2022",
+		"id": 1546872016174665700,
+		"id_str": "1546879408547438595",
+		"full_text": "[#track_by_YOON] Billlie, 윤종신 '팥빙수' M/V Teaser\n\n🔔2022.07.14 THU 18:00(KST)\n\n🔗https://t.co/dWP2S23ZQC\n🔗https://t.co/cHjIzKOjC3\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #팥빙수 #Patbingsu https://t.co/3qnurMwj6O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "track_by_YOON",
+					"indices": [
+						1,
+						15
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "트랙바이윤",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "팥빙수",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "Patbingsu",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dWP2S23ZQC",
+					"expanded_url": "https://youtu.be/WWow4ccsRUE",
+					"display_url": "youtu.be/WWow4ccsRUE",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/cHjIzKOjC3",
+					"expanded_url": "https://www.vlive.tv/video/287606",
+					"display_url": "vlive.tv/video/287606",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546810890191659000,
+					"id_str": "1546810890191659008",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdgTyyUYAA2Pgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdgTyyUYAA2Pgw.jpg",
+					"url": "https://t.co/3qnurMwj6O",
+					"display_url": "pic.twitter.com/3qnurMwj6O",
+					"expanded_url": "https://twitter.com/themysticstory/status/1546872016174665729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546810890191659000,
+					"id_str": "1546810890191659008",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdgTyyUYAA2Pgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdgTyyUYAA2Pgw.jpg",
+					"url": "https://t.co/3qnurMwj6O",
+					"display_url": "pic.twitter.com/3qnurMwj6O",
+					"expanded_url": "https://twitter.com/themysticstory/status/1546872016174665729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36775,
+			"friends_count": 15,
+			"listed_count": 291,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1316,
+		"favorite_count": 2635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#track_by_YOON] Billlie, 윤종신 '팥빙수' M/V Teaser\n\n🔔2022.07.14 THU 18:00(KST)\n\n🔗https://t.co/dWP2S23ZQC\n🔗https://t.co/cHjIzKOjC3\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #팥빙수 #Patbingsu https://t.co/3qnurMwj6O"
+	},
+	{
 		"created_at": "Tue Jul 12 12:34:58 +0000 2022",
 		"id": 1546835506293514200,
 		"id_str": "1546835506293514243",
