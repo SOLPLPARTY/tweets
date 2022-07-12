@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 04:29:31 +0000 2022",
+		"id": 1546706290696949800,
+		"id_str": "1546713342106128384",
+		"full_text": "✨Electronic x K-Pop✨\n‘#아스터(#ASTER), #손승연(@sonnet_official) - Fine Again’이 #TIDAL 'Electronic x K-Pop’ 플레이리스트 커버를 장식하였습니다😎\nCheck out ‘Fine Again’ on ‘Electronic x K-Pop’ #playlist on TIDAL\n\n🎶https://t.co/ZEhvS3r3WU\n\n#warnerkpop #warnermusic #FineAgain https://t.co/nkWO553SYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아스터",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "ASTER",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "손승연",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						215,
+						226
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						227,
+						239
+					]
+				},
+				{
+					"text": "FineAgain",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sonnet_official",
+					"name": "Sonnet (손승연)",
+					"id": 339706074,
+					"id_str": "339706074",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZEhvS3r3WU",
+					"expanded_url": "https://tidal.com/browse/playlist/266c61fe-61a0-4a92-9749-e1839a14ad2f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546706284338364400,
+					"id_str": "1546706284338364416",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcBK7naQAAgjZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcBK7naQAAgjZ_.jpg",
+					"url": "https://t.co/nkWO553SYk",
+					"display_url": "pic.twitter.com/nkWO553SYk",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1546706290696949760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546706284338364400,
+					"id_str": "1546706284338364416",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcBK7naQAAgjZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcBK7naQAAgjZ_.jpg",
+					"url": "https://t.co/nkWO553SYk",
+					"display_url": "pic.twitter.com/nkWO553SYk",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1546706290696949760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88258,
+			"friends_count": 492,
+			"listed_count": 214,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨Electronic x K-Pop✨\n‘#아스터(#ASTER), #손승연(@sonnet_official) - Fine Again’이 #TIDAL 'Electronic x K-Pop’ 플레이리스트 커버를 장식하였습니다😎\nCheck out ‘Fine Again’ on ‘Electronic x K-Pop’ #playlist on TIDAL\n\n🎶https://t.co/ZEhvS3r3WU\n\n#warnerkpop #warnermusic #FineAgain https://t.co/nkWO553SYk"
+	},
+	{
 		"created_at": "Tue Jul 12 04:11:23 +0000 2022",
 		"id": 1546703931467710500,
 		"id_str": "1546708775582720000",
