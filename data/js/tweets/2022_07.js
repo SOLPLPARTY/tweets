@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 10:56:54 +0000 2022",
+		"id": 1546810830108233700,
+		"id_str": "1546810830108233728",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[MV] 뉴 호프 클럽(New Hope Club) - Getting Better (Alternate Version) | 한글자막 뮤직비디오\nhttps://t.co/40nWW3amvv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/40nWW3amvv",
+					"expanded_url": "https://youtu.be/pLiQd2xT8uc",
+					"display_url": "youtu.be/pLiQd2xT8uc",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[MV] 뉴 호프 클럽(New Hope Club) - Getting Better (Alternate Version) | 한글자막 뮤직비디오\nhttps://t.co/40nWW3amvv"
+	},
+	{
+		"created_at": "Tue Jul 12 10:29:35 +0000 2022",
+		"id": 1546796509873655800,
+		"id_str": "1546803952666157056",
+		"full_text": "[#INTERVIEW] WARNER MUSIC INTERVIEW :: 라비던스\n\n#라비던스(#RabidAnce)의 &lt;The fourth power of four&gt; 발매 기념 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요☺☁\n\nListen to &lt;The fourth power of four&gt;\n🎶https://t.co/yaMfoRW9MC\n▶https://t.co/IXTGu7SvIz\n\n#KPOP #궁자노래 https://t.co/eZIuF19ENw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INTERVIEW",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "라비던스",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "RabidAnce",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "궁자노래",
+					"indices": [
+						237,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yaMfoRW9MC",
+					"expanded_url": "http://WMK.lnk.to/rabidAnce",
+					"display_url": "WMK.lnk.to/rabidAnce",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/IXTGu7SvIz",
+					"expanded_url": "https://youtu.be/3oP3cYbN8nA",
+					"display_url": "youtu.be/3oP3cYbN8nA",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546785904198828000,
+					"id_str": "1546785904198828033",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546785904198828033/pu/img/lieWbidDmLQ93mqv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546785904198828033/pu/img/lieWbidDmLQ93mqv.jpg",
+					"url": "https://t.co/eZIuF19ENw",
+					"display_url": "pic.twitter.com/eZIuF19ENw",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1546796509873655808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546785904198828000,
+					"id_str": "1546785904198828033",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546785904198828033/pu/img/lieWbidDmLQ93mqv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546785904198828033/pu/img/lieWbidDmLQ93mqv.jpg",
+					"url": "https://t.co/eZIuF19ENw",
+					"display_url": "pic.twitter.com/eZIuF19ENw",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1546796509873655808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 41341,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546785904198828033/pu/pl/zuS7rKNIe6dGp6Yw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546785904198828033/pu/vid/320x320/O8Ad1s_5CWBOBmde.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546785904198828033/pu/vid/540x540/YGydpteqUVGgFaFR.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546785904198828033/pu/vid/720x720/uOGBzv8QOCHCyJmV.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88278,
+			"friends_count": 492,
+			"listed_count": 214,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#INTERVIEW] WARNER MUSIC INTERVIEW :: 라비던스\n\n#라비던스(#RabidAnce)의 &lt;The fourth power of four&gt; 발매 기념 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요☺☁\n\nListen to &lt;The fourth power of four&gt;\n🎶https://t.co/yaMfoRW9MC\n▶https://t.co/IXTGu7SvIz\n\n#KPOP #궁자노래 https://t.co/eZIuF19ENw"
+	},
+	{
+		"created_at": "Tue Jul 12 10:29:28 +0000 2022",
+		"id": 1546789190524076000,
+		"id_str": "1546803922790121473",
+		"full_text": "[#Video] #권진아\n\n권진아 'You already have' LIVE\nKwon Jin Ah 'You already have' LIVE\n\n2022 권진아 단독공연 'The Dreamer'\n2022 Kwon Jin Ah Concert 'The Dreamer'\n\n🔗 https://t.co/DFMFAf8xDO\n\n#KwonJinAh\n#TheDreamer #Youalreadyhave https://t.co/A4IoBq225h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "TheDreamer",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"text": "Youalreadyhave",
+					"indices": [
+						198,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DFMFAf8xDO",
+					"expanded_url": "https://youtu.be/y0thVcHXkVg",
+					"display_url": "youtu.be/y0thVcHXkVg",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546789150342660000,
+					"id_str": "1546789150342660096",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546789150342660096/pu/img/IczuTS-r0GNOWhSP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546789150342660096/pu/img/IczuTS-r0GNOWhSP.jpg",
+					"url": "https://t.co/A4IoBq225h",
+					"display_url": "pic.twitter.com/A4IoBq225h",
+					"expanded_url": "https://twitter.com/antennamusic/status/1546789190524076033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546789150342660000,
+					"id_str": "1546789150342660096",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546789150342660096/pu/img/IczuTS-r0GNOWhSP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546789150342660096/pu/img/IczuTS-r0GNOWhSP.jpg",
+					"url": "https://t.co/A4IoBq225h",
+					"display_url": "pic.twitter.com/A4IoBq225h",
+					"expanded_url": "https://twitter.com/antennamusic/status/1546789190524076033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546789150342660096/pu/vid/854x480/pHMoyhEcI1b07H8x.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546789150342660096/pu/vid/640x360/nUFQyEdDjjtDVDpC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546789150342660096/pu/pl/Rbbsmze0-3FKcI6b.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546789150342660096/pu/vid/480x270/WhKQbfX0IWRKdrfu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40513,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #권진아\n\n권진아 'You already have' LIVE\nKwon Jin Ah 'You already have' LIVE\n\n2022 권진아 단독공연 'The Dreamer'\n2022 Kwon Jin Ah Concert 'The Dreamer'\n\n🔗 https://t.co/DFMFAf8xDO\n\n#KwonJinAh\n#TheDreamer #Youalreadyhave https://t.co/A4IoBq225h"
+	},
+	{
 		"created_at": "Tue Jul 12 10:11:17 +0000 2022",
 		"id": 1546791594904682500,
 		"id_str": "1546799347089768449",
