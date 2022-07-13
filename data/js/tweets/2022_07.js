@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 06:29:24 +0000 2022",
+		"id": 1547100765076205600,
+		"id_str": "1547105899071897601",
+		"full_text": "[나히]\n\n싱어송라이터 나히 (Nahee)의 [러브노트!]가 스포티파이 한국 씨티팝 플레이리스트 커버로 선정 되었습니다!\n\n나히 (Nahee) - 러브노트!\n많은 관심과 사랑 부탁드려요!\n\n#나히 #nahee #스포티파이 #spotify #시티팝\n\n스포티파이 ▶ https://t.co/LbAykWSrps https://t.co/KO6QK7DIT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나히",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "nahee",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "spotify",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "시티팝",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LbAykWSrps",
+					"expanded_url": "https://spoti.fi/3uN8SOH",
+					"display_url": "spoti.fi/3uN8SOH",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547100698378408000,
+					"id_str": "1547100698378407936",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhn42aakAA2eRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhn42aakAA2eRC.jpg",
+					"url": "https://t.co/KO6QK7DIT2",
+					"display_url": "pic.twitter.com/KO6QK7DIT2",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1547100765076205568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547100698378408000,
+					"id_str": "1547100698378407936",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhn42aakAA2eRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhn42aakAA2eRC.jpg",
+					"url": "https://t.co/KO6QK7DIT2",
+					"display_url": "pic.twitter.com/KO6QK7DIT2",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1547100765076205568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909,
+			"friends_count": 8,
+			"listed_count": 18,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[나히]\n\n싱어송라이터 나히 (Nahee)의 [러브노트!]가 스포티파이 한국 씨티팝 플레이리스트 커버로 선정 되었습니다!\n\n나히 (Nahee) - 러브노트!\n많은 관심과 사랑 부탁드려요!\n\n#나히 #nahee #스포티파이 #spotify #시티팝\n\n스포티파이 ▶ https://t.co/LbAykWSrps https://t.co/KO6QK7DIT2"
+	},
+	{
 		"created_at": "Wed Jul 13 05:29:25 +0000 2022",
 		"id": 1547084005794652200,
 		"id_str": "1547090801779302400",
