@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 08:29:24 +0000 2022",
+		"id": 1547130027967680500,
+		"id_str": "1547136098467516416",
+		"full_text": "7th Single Album\nChanged Number\n\nRelease on\n\n2022.07.05 6PM (KST)\n\n#로시 #ROTHY #CHANGEDNUMBER https://t.co/wXdSXFOvbr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로시",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "ROTHY",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "CHANGEDNUMBER",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547130012373221400,
+					"id_str": "1547130012373221377",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiCjJjaAAEtrSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiCjJjaAAEtrSd.jpg",
+					"url": "https://t.co/wXdSXFOvbr",
+					"display_url": "pic.twitter.com/wXdSXFOvbr",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1547130027967680512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547130012373221400,
+					"id_str": "1547130012373221377",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiCjJjaAAEtrSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiCjJjaAAEtrSd.jpg",
+					"url": "https://t.co/wXdSXFOvbr",
+					"display_url": "pic.twitter.com/wXdSXFOvbr",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1547130027967680512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "도로시컴퍼니",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "DOROTHY COMPANY OFFICIAL TWITTER",
+			"url": "https://t.co/9vMoOmC3rP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9vMoOmC3rP",
+							"expanded_url": "https://www.youtube.com/user/dorothycp",
+							"display_url": "youtube.com/user/dorothycp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2263,
+			"friends_count": 1,
+			"listed_count": 22,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1657699617",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7th Single Album\nChanged Number\n\nRelease on\n\n2022.07.05 6PM (KST)\n\n#로시 #ROTHY #CHANGEDNUMBER https://t.co/wXdSXFOvbr"
+	},
+	{
 		"created_at": "Wed Jul 13 08:11:21 +0000 2022",
 		"id": 1547120289011495000,
 		"id_str": "1547131554098561024",
@@ -218,7 +415,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Wed Jul 13 08:09:16 +0000 2022",
 		"id": 1547131030573723600,
 		"id_str": "1547131030573723651",
-		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n❤️‍🩹날 진짜로 사랑했던 건 맞니..\nhttps://t.co/2O4jolRlba",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n❤️🩹날 진짜로 사랑했던 건 맞니..\nhttps://t.co/2O4jolRlba",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -353,7 +550,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#소니뮤직코리아 #Sony_Music_Korea\n❤️‍🩹날 진짜로 사랑했던 건 맞니..\nhttps://t.co/2O4jolRlba"
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n❤️🩹날 진짜로 사랑했던 건 맞니..\nhttps://t.co/2O4jolRlba"
 	},
 	{
 		"created_at": "Wed Jul 13 06:29:24 +0000 2022",
