@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 12:29:25 +0000 2022",
+		"id": 1547185402833866800,
+		"id_str": "1547196496961052672",
+		"full_text": "김새녘의 &lt;새빛깔&gt;이 여러분께 달려갑니다! 리워드 발송을 어제, 오늘 모두 마쳤습니다. 빠르면 목요일 늦으면 토요일까지 리워드가 배송될 예정입니다. 이때까지도 리워드를 받지 못하면 따로 메시지 주세요. (디지털 음원 전달은 내일 중 완료될 예정입니다.) https://t.co/5FwZ7a3fN9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547185377315659800,
+					"id_str": "1547185377315659776",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FXi050CUIAAxtQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXi050CUIAAxtQ7.jpg",
+					"url": "https://t.co/5FwZ7a3fN9",
+					"display_url": "pic.twitter.com/5FwZ7a3fN9",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1547185402833866754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 756,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547185377315659800,
+					"id_str": "1547185377315659776",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FXi050CUIAAxtQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXi050CUIAAxtQ7.jpg",
+					"url": "https://t.co/5FwZ7a3fN9",
+					"display_url": "pic.twitter.com/5FwZ7a3fN9",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1547185402833866754/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 756,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FXi050CUIAAxtQ7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3493,
+			"friends_count": 1186,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김새녘의 &lt;새빛깔&gt;이 여러분께 달려갑니다! 리워드 발송을 어제, 오늘 모두 마쳤습니다. 빠르면 목요일 늦으면 토요일까지 리워드가 배송될 예정입니다. 이때까지도 리워드를 받지 못하면 따로 메시지 주세요. (디지털 음원 전달은 내일 중 완료될 예정입니다.) https://t.co/5FwZ7a3fN9"
+	},
+	{
 		"created_at": "Wed Jul 13 11:55:02 +0000 2022",
 		"id": 1547187844648771600,
 		"id_str": "1547187844648771584",
