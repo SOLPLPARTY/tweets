@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 15:29:25 +0000 2022",
+		"id": 1547596788814598100,
+		"id_str": "1547604183846514688",
+		"full_text": "[#track_by_YOON] Billlie, 윤종신 '고속도로 로맨스' Lyric Video \n\n🔗https://t.co/6cSeIV81ho\n🔗https://t.co/2Xoso8x3Jh\n\n🎧 팥빙수 PLAY \n🔗 https://t.co/7Yx5hedvYA\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #고속도로로맨스 #Highway_Romance https://t.co/sLrbd67ys1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "track_by_YOON",
+					"indices": [
+						1,
+						15
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"text": "트랙바이윤",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "고속도로로맨스",
+					"indices": [
+						205,
+						213
+					]
+				},
+				{
+					"text": "Highway_Romance",
+					"indices": [
+						214,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6cSeIV81ho",
+					"expanded_url": "https://youtu.be/j1ZQrWIiAvg",
+					"display_url": "youtu.be/j1ZQrWIiAvg",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/2Xoso8x3Jh",
+					"expanded_url": "https://www.vlive.tv/video/287786",
+					"display_url": "vlive.tv/video/287786",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/7Yx5hedvYA",
+					"expanded_url": "http://kko.to/rWOQcIhQi",
+					"display_url": "kko.to/rWOQcIhQi",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547546945417527300,
+					"id_str": "1547546945417527296",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn9v2LaQAA61O9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn9v2LaQAA61O9.jpg",
+					"url": "https://t.co/sLrbd67ys1",
+					"display_url": "pic.twitter.com/sLrbd67ys1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1547596788814598160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547546945417527300,
+					"id_str": "1547546945417527296",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn9v2LaQAA61O9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn9v2LaQAA61O9.jpg",
+					"url": "https://t.co/sLrbd67ys1",
+					"display_url": "pic.twitter.com/sLrbd67ys1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1547596788814598160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36885,
+			"friends_count": 15,
+			"listed_count": 291,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 528,
+		"favorite_count": 1414,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#track_by_YOON] Billlie, 윤종신 '고속도로 로맨스' Lyric Video \n\n🔗https://t.co/6cSeIV81ho\n🔗https://t.co/2Xoso8x3Jh\n\n🎧 팥빙수 PLAY \n🔗 https://t.co/7Yx5hedvYA\n\n#윤종신 #YoonJongshin #트랙바이윤 #MYSTICSTORY #미스틱스토리 #Billlie #빌리 #고속도로로맨스 #Highway_Romance https://t.co/sLrbd67ys1"
+	},
+	{
 		"created_at": "Thu Jul 14 11:29:25 +0000 2022",
 		"id": 1547535309197525000,
 		"id_str": "1547543785567141888",
