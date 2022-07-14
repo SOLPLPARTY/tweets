@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 08:11:23 +0000 2022",
+		"id": 1547484897635229700,
+		"id_str": "1547493949362900993",
+		"full_text": "스스로를 고통으로부터 구원하고 싶어했던 저자 ‘누구’의 단면적 에피소드를 적은 에세이&lt;구아구아&gt;가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\n—\n#구아구아 #구아 #누구 #두카 #구운몽 https://t.co/spEFZl27wV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구아구아",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "구아",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "누구",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "두카",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "구운몽",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547484890291372000,
+					"id_str": "1547484890291372032",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnFTw0aAAAKaSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnFTw0aAAAKaSL.jpg",
+					"url": "https://t.co/spEFZl27wV",
+					"display_url": "pic.twitter.com/spEFZl27wV",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1547484897635229697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547484890291372000,
+					"id_str": "1547484890291372032",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnFTw0aAAAKaSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnFTw0aAAAKaSL.jpg",
+					"url": "https://t.co/spEFZl27wV",
+					"display_url": "pic.twitter.com/spEFZl27wV",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1547484897635229697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 412,
+			"friends_count": 215,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스스로를 고통으로부터 구원하고 싶어했던 저자 ‘누구’의 단면적 에피소드를 적은 에세이&lt;구아구아&gt;가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 지금 공상온도 스토어에서 만나보세요!!!\n\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\n—\n#구아구아 #구아 #누구 #두카 #구운몽 https://t.co/spEFZl27wV"
+	},
+	{
+		"created_at": "Thu Jul 14 08:11:17 +0000 2022",
+		"id": 1547479122804215800,
+		"id_str": "1547493923588800512",
+		"full_text": "가치픽 챌린지#5 ꜰʟᴜꜰꜰʏ ᴍᴇᴍᴏʀɪᴇs\n⠀\n새로운 팝업 스토어 오-픈!👀💛\n⠀\n귀여운 애 옆에 왕 귀여운 애 옆에 왕왕 귀여운애!🙈\n여러분의 원픽은?!!🙋\n\n-\nKT&amp;G 상상마당 홍대 2층 팝업\n~ 8.7(SUN) 11:00 ~ 21:00 https://t.co/9VFmRNWmCT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547479074662072300,
+					"id_str": "1547479074662072320",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnABP6VQAAA__B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnABP6VQAAA__B.jpg",
+					"url": "https://t.co/9VFmRNWmCT",
+					"display_url": "pic.twitter.com/9VFmRNWmCT",
+					"expanded_url": "https://twitter.com/SSmadang/status/1547479122804215809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547479074662072300,
+					"id_str": "1547479074662072320",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnABP6VQAAA__B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnABP6VQAAA__B.jpg",
+					"url": "https://t.co/9VFmRNWmCT",
+					"display_url": "pic.twitter.com/9VFmRNWmCT",
+					"expanded_url": "https://twitter.com/SSmadang/status/1547479122804215809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547479074762682400,
+					"id_str": "1547479074762682368",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnABQSUcAAxgJQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnABQSUcAAxgJQ.jpg",
+					"url": "https://t.co/9VFmRNWmCT",
+					"display_url": "pic.twitter.com/9VFmRNWmCT",
+					"expanded_url": "https://twitter.com/SSmadang/status/1547479122804215809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547479074863362000,
+					"id_str": "1547479074863362048",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnABQqUsAA8pm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnABQqUsAA8pm5.jpg",
+					"url": "https://t.co/9VFmRNWmCT",
+					"display_url": "pic.twitter.com/9VFmRNWmCT",
+					"expanded_url": "https://twitter.com/SSmadang/status/1547479122804215809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547479074938818600,
+					"id_str": "1547479074938818560",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnABQ8UEAAWmRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnABQ8UEAAWmRE.jpg",
+					"url": "https://t.co/9VFmRNWmCT",
+					"display_url": "pic.twitter.com/9VFmRNWmCT",
+					"expanded_url": "https://twitter.com/SSmadang/status/1547479122804215809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17562,
+			"friends_count": 1845,
+			"listed_count": 288,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539120489402081282/M4YU7801_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1655789896",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가치픽 챌린지#5 ꜰʟᴜꜰꜰʏ ᴍᴇᴍᴏʀɪᴇs\n⠀\n새로운 팝업 스토어 오-픈!👀💛\n⠀\n귀여운 애 옆에 왕 귀여운 애 옆에 왕왕 귀여운애!🙈\n여러분의 원픽은?!!🙋\n\n-\nKT&amp;G 상상마당 홍대 2층 팝업\n~ 8.7(SUN) 11:00 ~ 21:00 https://t.co/9VFmRNWmCT"
+	},
+	{
 		"created_at": "Thu Jul 14 07:11:16 +0000 2022",
 		"id": 1547469885805961200,
 		"id_str": "1547478823230492672",
