@@ -1,6 +1,736 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 10:29:49 +0000 2022",
+		"id": 1547527284067684400,
+		"id_str": "1547528788027777025",
+		"full_text": "[#권혁수] [#애드리브싸이퍼]\n\n동엽선배 콩순이 포즈🍭 #괜찮으시겠어요\n\n유치뽕짝한 광고 촬영 신경전은\n#권혁수감성 에서 확인⚡\n\n👉 https://t.co/0EjvCrFdHA\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #신동엽 #롯데렌터카",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "애드리브싸이퍼",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "괜찮으시겠어요",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "신동엽",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "롯데렌터카",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0EjvCrFdHA",
+					"expanded_url": "https://youtu.be/_iTVfl1nxQE",
+					"display_url": "youtu.be/_iTVfl1nxQE",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#애드리브싸이퍼]\n\n동엽선배 콩순이 포즈🍭 #괜찮으시겠어요\n\n유치뽕짝한 광고 촬영 신경전은\n#권혁수감성 에서 확인⚡\n\n👉 https://t.co/0EjvCrFdHA\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #신동엽 #롯데렌터카"
+	},
+	{
+		"created_at": "Thu Jul 14 10:29:45 +0000 2022",
+		"id": 1547522921727676400,
+		"id_str": "1547528770826928128",
+		"full_text": "#우주왕복선싸이드미러 #우싸미 #스타벅스 #구봉산R점 #공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "우싸미",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "스타벅스",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "구봉산R점",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						30,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1547522821844340700,
+		"in_reply_to_status_id_str": "1547522821844340736",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2262,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#우주왕복선싸이드미러 #우싸미 #스타벅스 #구봉산R점 #공연"
+	},
+	{
+		"created_at": "Thu Jul 14 10:29:43 +0000 2022",
+		"id": 1547522821844340700,
+		"id_str": "1547528762023182336",
+		"full_text": "#우주왕복선싸이드미러 가 내일 스타벅스 구봉산R점에 나타납니다! 우싸미 공연 보러 춘천으로 가요〰️\n\n🪄공연 일정 : 2022년 7월15일 (금)\n🪄공연 시간\n・ 1회차 공연 : 13:00 ~ 13:40\n・ 2회차 공연 : 15:00 ~ 15:40\n🪄공연 장소 : 스타벅스 구봉산R점 (강원 춘천시 동면 순환대로 1154-63)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2262,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#우주왕복선싸이드미러 가 내일 스타벅스 구봉산R점에 나타납니다! 우싸미 공연 보러 춘천으로 가요〰️\n\n🪄공연 일정 : 2022년 7월15일 (금)\n🪄공연 시간\n・ 1회차 공연 : 13:00 ~ 13:40\n・ 2회차 공연 : 15:00 ~ 15:40\n🪄공연 장소 : 스타벅스 구봉산R점 (강원 춘천시 동면 순환대로 1154-63)"
+	},
+	{
+		"created_at": "Thu Jul 14 10:29:34 +0000 2022",
+		"id": 1547521848342376400,
+		"id_str": "1547528723813081090",
+		"full_text": "🎼 SET LIST : Evening Show\n\n01. Intro + Make Up\n02. The Juice\n03. Love Me Like That\n\n@LeegitItsSam \n#SamKim\n#HallyuPopFest2022 #HPFLondon2022 https://t.co/BWW9j8ZBIs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "HallyuPopFest2022",
+					"indices": [
+						107,
+						125
+					]
+				},
+				{
+					"text": "HPFLondon2022",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						84,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547514167753867300,
+					"id_str": "1547514167753867265",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnf773agAEFAcY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnf773agAEFAcY.jpg",
+					"url": "https://t.co/BWW9j8ZBIs",
+					"display_url": "pic.twitter.com/BWW9j8ZBIs",
+					"expanded_url": "https://twitter.com/antennamusic/status/1547521848342376450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547514167753867300,
+					"id_str": "1547514167753867265",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnf773agAEFAcY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnf773agAEFAcY.jpg",
+					"url": "https://t.co/BWW9j8ZBIs",
+					"display_url": "pic.twitter.com/BWW9j8ZBIs",
+					"expanded_url": "https://twitter.com/antennamusic/status/1547521848342376450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547514167992946700,
+					"id_str": "1547514167992946688",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnf78wakAA9QhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnf78wakAA9QhO.jpg",
+					"url": "https://t.co/BWW9j8ZBIs",
+					"display_url": "pic.twitter.com/BWW9j8ZBIs",
+					"expanded_url": "https://twitter.com/antennamusic/status/1547521848342376450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547514168148127700,
+					"id_str": "1547514168148127746",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnf79VacAICA6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnf79VacAICA6j.jpg",
+					"url": "https://t.co/BWW9j8ZBIs",
+					"display_url": "pic.twitter.com/BWW9j8ZBIs",
+					"expanded_url": "https://twitter.com/antennamusic/status/1547521848342376450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1290,
+							"h": 1957,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547514168290734000,
+					"id_str": "1547514168290734080",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnf793acAAf0Dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnf793acAAf0Dt.jpg",
+					"url": "https://t.co/BWW9j8ZBIs",
+					"display_url": "pic.twitter.com/BWW9j8ZBIs",
+					"expanded_url": "https://twitter.com/antennamusic/status/1547521848342376450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1547521839261712400,
+		"in_reply_to_status_id_str": "1547521839261712384",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40502,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎼 SET LIST : Evening Show\n\n01. Intro + Make Up\n02. The Juice\n03. Love Me Like That\n\n@LeegitItsSam \n#SamKim\n#HallyuPopFest2022 #HPFLondon2022 https://t.co/BWW9j8ZBIs"
+	},
+	{
 		"created_at": "Thu Jul 14 10:10:48 +0000 2022",
 		"id": 1547524000649138200,
 		"id_str": "1547524000649138177",
