@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 04:29:30 +0000 2022",
+		"id": 1547431766935216000,
+		"id_str": "1547438110472114177",
+		"full_text": "[유라]\n상상 이상(以上)의, 그리고 꽤나 이상(理想)주의적인 다채로운 뮤지션 라이브 스테이지 MUSHROOM LIVE. \n\n유라 YOURA.\n7월 14일 8PM, \n이상하고 아름다운 버섯이 자라는 \n머쉬룸컴퍼니 유튜브에서 \n유라의 강렬한 음악이 피어납니다. https://t.co/UTNCGxCTcw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547431654330810400,
+					"id_str": "1547431654330810368",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547431654330810368/pu/img/hIFEAP00N6srsJOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547431654330810368/pu/img/hIFEAP00N6srsJOq.jpg",
+					"url": "https://t.co/UTNCGxCTcw",
+					"display_url": "pic.twitter.com/UTNCGxCTcw",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1547431766935216131/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547431654330810400,
+					"id_str": "1547431654330810368",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547431654330810368/pu/img/hIFEAP00N6srsJOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547431654330810368/pu/img/hIFEAP00N6srsJOq.jpg",
+					"url": "https://t.co/UTNCGxCTcw",
+					"display_url": "pic.twitter.com/UTNCGxCTcw",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1547431766935216131/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 28042,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547431654330810368/pu/vid/320x320/oCY8kcaApdrFf-TK.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547431654330810368/pu/vid/720x720/mPnCJzz6rdS7Nw0D.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547431654330810368/pu/vid/540x540/vMLqo-OjR3Ca761d.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1547431654330810368/pu/pl/R0e0bWrQAgwbPqdB.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909,
+			"friends_count": 8,
+			"listed_count": 18,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n상상 이상(以上)의, 그리고 꽤나 이상(理想)주의적인 다채로운 뮤지션 라이브 스테이지 MUSHROOM LIVE. \n\n유라 YOURA.\n7월 14일 8PM, \n이상하고 아름다운 버섯이 자라는 \n머쉬룸컴퍼니 유튜브에서 \n유라의 강렬한 음악이 피어납니다. https://t.co/UTNCGxCTcw"
+	},
+	{
 		"created_at": "Thu Jul 14 04:11:17 +0000 2022",
 		"id": 1547423594812424200,
 		"id_str": "1547433525615509505",
