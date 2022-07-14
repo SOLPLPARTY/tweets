@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 04:11:17 +0000 2022",
+		"id": 1547423594812424200,
+		"id_str": "1547433525615509505",
+		"full_text": "[#사연모집]\n📢📢📢 It's begun 관객들의 사연을 모집합니다!\n\n처음 관심을 가지게 된 계기, 여러분만의 꿀팁!\n재밌었던 에피소드 등등 자유롭게 이야기 들려주세요 :)\n\n✅ 사연모집기간 - 07.14 ~ 07.20\n✅ 사연제출링크 - https://t.co/zdkyj0t2Xq\n✅ 선정상품 - 닥터노아 휴대용 선물세트 https://t.co/TmDtEbYJUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사연모집",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zdkyj0t2Xq",
+					"expanded_url": "http://bit.ly/yourbegunstory",
+					"display_url": "bit.ly/yourbegunstory",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547423459516764200,
+					"id_str": "1547423459516764161",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXmNcBWaUAENdi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXmNcBWaUAENdi_.jpg",
+					"url": "https://t.co/TmDtEbYJUi",
+					"display_url": "pic.twitter.com/TmDtEbYJUi",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1547423594812424192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547423459516764200,
+					"id_str": "1547423459516764161",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXmNcBWaUAENdi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXmNcBWaUAENdi_.jpg",
+					"url": "https://t.co/TmDtEbYJUi",
+					"display_url": "pic.twitter.com/TmDtEbYJUi",
+					"expanded_url": "https://twitter.com/ssLiveHall/status/1547423594812424192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333941242,
+			"id_str": "333941242",
+			"name": "KT&G 상상마당 라이브홀",
+			"screen_name": "ssLiveHall",
+			"location": "37.5509155,126.9210433",
+			"description": "상상마당 지하 2층에 서식중입니다. 라이브홀에서 진행되는 모든 공연에 관한 문의 환영! 홍대 주변 날씨, 맛집 등 온갖 문의 환영!",
+			"url": "https://t.co/laYCcDbsAQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/laYCcDbsAQ",
+							"expanded_url": "http://www.sangsangmadang.com/livehall",
+							"display_url": "sangsangmadang.com/livehall",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5758,
+			"friends_count": 2501,
+			"listed_count": 79,
+			"created_at": "Tue Jul 12 09:59:42 +0000 2011",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E1C6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494206522133745666/F6l-o0LT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333941242/1440833687",
+			"profile_link_color": "ABB8AB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "192638",
+			"profile_text_color": "5F7D7E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#사연모집]\n📢📢📢 It's begun 관객들의 사연을 모집합니다!\n\n처음 관심을 가지게 된 계기, 여러분만의 꿀팁!\n재밌었던 에피소드 등등 자유롭게 이야기 들려주세요 :)\n\n✅ 사연모집기간 - 07.14 ~ 07.20\n✅ 사연제출링크 - https://t.co/zdkyj0t2Xq\n✅ 선정상품 - 닥터노아 휴대용 선물세트 https://t.co/TmDtEbYJUi"
+	},
+	{
+		"created_at": "Thu Jul 14 03:29:34 +0000 2022",
+		"id": 1547416468568277000,
+		"id_str": "1547423027985539073",
+		"full_text": "YI SEUNGGYU - No DANCE https://t.co/TAE7ISbYa7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TAE7ISbYa7",
+					"expanded_url": "http://blog.naver.com/chili7272/222811124827",
+					"display_url": "blog.naver.com/chili7272/2228…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2078,
+			"friends_count": 2333,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1653966960",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "YI SEUNGGYU - No DANCE https://t.co/TAE7ISbYa7"
+	},
+	{
+		"created_at": "Thu Jul 14 03:29:29 +0000 2022",
+		"id": 1547415916320673800,
+		"id_str": "1547423006254833664",
+		"full_text": "The 3rd SM ‘STATION : NCT LAB’, NCT U ‘Rain Day’, with TAEIL, KUN, YANGYANG is out on 7/19!\nKUN participated in the making of the song that boasts a charming R&amp;B melody with #TAEIL and #KUN’s sweet vocals and #YANGYANG’s rapping! \n\n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 https://t.co/JsdJfJNLFX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEIL",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "KUN",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "YANGYANG",
+					"indices": [
+						213,
+						222
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						236,
+						240
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						247,
+						254
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						255,
+						260
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						261,
+						268
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						269,
+						272
+					]
+				},
+				{
+					"text": "쿤",
+					"indices": [
+						273,
+						275
+					]
+				},
+				{
+					"text": "양양",
+					"indices": [
+						276,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547415904098472000,
+					"id_str": "1547415904098471937",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FXmGkPOUUAEjwL7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXmGkPOUUAEjwL7.jpg",
+					"url": "https://t.co/JsdJfJNLFX",
+					"display_url": "pic.twitter.com/JsdJfJNLFX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1547415916320673793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547415904098472000,
+					"id_str": "1547415904098471937",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FXmGkPOUUAEjwL7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXmGkPOUUAEjwL7.jpg",
+					"url": "https://t.co/JsdJfJNLFX",
+					"display_url": "pic.twitter.com/JsdJfJNLFX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1547415916320673793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11009580,
+			"friends_count": 56,
+			"listed_count": 12420,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7337,
+		"favorite_count": 16956,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 3rd SM ‘STATION : NCT LAB’, NCT U ‘Rain Day’, with TAEIL, KUN, YANGYANG is out on 7/19!\nKUN participated in the making of the song that boasts a charming R&amp;B melody with #TAEIL and #KUN’s sweet vocals and #YANGYANG’s rapping! \n\n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 https://t.co/JsdJfJNLFX"
+	},
+	{
 		"created_at": "Thu Jul 14 03:13:28 +0000 2022",
 		"id": 1547418976740790300,
 		"id_str": "1547418976740790272",
