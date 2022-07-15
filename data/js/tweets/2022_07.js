@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 06:11:17 +0000 2022",
+		"id": 1547823479105278000,
+		"id_str": "1547826113241444353",
+		"full_text": "오늘(7/15금)은 대관행사가 진행되어 오후7시 이후 카페 및 서점 이용이 불가합니다🙏\n-\n-\n내일도 공연으로 인해 이용이 불가하여 카페 및 서점 이용하시려는 분들은 일요일에 만나요!\n-\n#공상온도 #공상온도일정 @공상온도 https://t.co/AeYTCjuThq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공상온도",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "공상온도일정",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AeYTCjuThq",
+					"expanded_url": "https://www.instagram.com/p/CgBafDou00L/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/CgBafDou00L/…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 412,
+			"friends_count": 215,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘(7/15금)은 대관행사가 진행되어 오후7시 이후 카페 및 서점 이용이 불가합니다🙏\n-\n-\n내일도 공연으로 인해 이용이 불가하여 카페 및 서점 이용하시려는 분들은 일요일에 만나요!\n-\n#공상온도 #공상온도일정 @공상온도 https://t.co/AeYTCjuThq"
+	},
+	{
+		"created_at": "Fri Jul 15 05:29:28 +0000 2022",
+		"id": 1547812617284391000,
+		"id_str": "1547815589460135936",
+		"full_text": "이자람 판소리 갈라 시리즈의 두번째 프로그램 [작창]이 오늘과 내일, 양일간 고양어울림누리 별모래극장에서 펼쳐집니다!\n\n✔️창작 판소리 갈라 [작창]\n📆 2022.07.15(금) 7:30pm~16(토) 4pm\n📍고양어울림누리 별모래극장\n🎫 https://t.co/WENRsQu9Fd\n\n@jjjjjam \n\n#이자람 #작창 #고양어울림누리 https://t.co/bYr0i6FHhW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "작창",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "고양어울림누리",
+					"indices": [
+						179,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjjjjam",
+					"name": "LeeJaram",
+					"id": 110053057,
+					"id_str": "110053057",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WENRsQu9Fd",
+					"expanded_url": "https://mobileticket.interpark.com/goods/22001089?app_tapbar_state",
+					"display_url": "mobileticket.interpark.com/goods/22001089…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547812605355790300,
+					"id_str": "1547812605355790337",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrvXSkakAE5IHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrvXSkakAE5IHK.jpg",
+					"url": "https://t.co/bYr0i6FHhW",
+					"display_url": "pic.twitter.com/bYr0i6FHhW",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1547812617284390914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547812605355790300,
+					"id_str": "1547812605355790337",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrvXSkakAE5IHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrvXSkakAE5IHK.jpg",
+					"url": "https://t.co/bYr0i6FHhW",
+					"display_url": "pic.twitter.com/bYr0i6FHhW",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1547812617284390914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547812606123344000,
+					"id_str": "1547812606123343872",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrvXVbagAAQgjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrvXVbagAAQgjy.jpg",
+					"url": "https://t.co/bYr0i6FHhW",
+					"display_url": "pic.twitter.com/bYr0i6FHhW",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1547812617284390914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1271,
+			"friends_count": 183,
+			"listed_count": 13,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이자람 판소리 갈라 시리즈의 두번째 프로그램 [작창]이 오늘과 내일, 양일간 고양어울림누리 별모래극장에서 펼쳐집니다!\n\n✔️창작 판소리 갈라 [작창]\n📆 2022.07.15(금) 7:30pm~16(토) 4pm\n📍고양어울림누리 별모래극장\n🎫 https://t.co/WENRsQu9Fd\n\n@jjjjjam \n\n#이자람 #작창 #고양어울림누리 https://t.co/bYr0i6FHhW"
+	},
+	{
 		"created_at": "Fri Jul 15 04:29:25 +0000 2022",
 		"id": 1547785850779418600,
 		"id_str": "1547800477793865728",
