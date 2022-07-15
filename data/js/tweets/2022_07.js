@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 04:11:17 +0000 2022",
+		"id": 1547784065901682700,
+		"id_str": "1547795914093277185",
+		"full_text": "[티켓오픈공지]\n지소쿠리x프랭클리 : Nerd Party\nhttps://t.co/vUOlBZ79Rz\n————————\n* 티켓오픈일 : 2022년 7월 18일(월) 오후 6시\n* 공연일 : 2022년 8월 19일(금) 오후 8시\n————————\n1. 예매 40,000원\n\n#프리즘홀 #prismhall #지소쿠리 #프랭클리 #nerd_party #홍대공연 #공연추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "지소쿠리",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "프랭클리",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "nerd_party",
+					"indices": [
+						180,
+						191
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						198,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vUOlBZ79Rz",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6301",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 1114,
+			"listed_count": 29,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓오픈공지]\n지소쿠리x프랭클리 : Nerd Party\nhttps://t.co/vUOlBZ79Rz\n————————\n* 티켓오픈일 : 2022년 7월 18일(월) 오후 6시\n* 공연일 : 2022년 8월 19일(금) 오후 8시\n————————\n1. 예매 40,000원\n\n#프리즘홀 #prismhall #지소쿠리 #프랭클리 #nerd_party #홍대공연 #공연추천"
+	},
+	{
+		"created_at": "Fri Jul 15 03:58:15 +0000 2022",
+		"id": 1547777978427355100,
+		"id_str": "1547792633312948224",
+		"full_text": "[📢]💙#KCON 2022 LA X FANTOO💚\nEvent OPEN!🎉\n\nI just show my #KPOP room….\nBut here is an unbelievable opportunity for KCON-ers ? 👀\n\nInstall FANTOO app now\nApply the events that all KPOP fans can enjoy💨\n\n📱App Link\n👉https://t.co/yN0wjRPjcY\n\n@fantoo_official\n#KCON #KCON2022LA https://t.co/OdWA49UrIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						252,
+						257
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						258,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fantoo_official",
+					"name": "팬투(FANTOO)",
+					"id": 1369470668421488600,
+					"id_str": "1369470668421488645",
+					"indices": [
+						235,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yN0wjRPjcY",
+					"expanded_url": "http://bit.ly/3Obl2aR",
+					"display_url": "bit.ly/3Obl2aR",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547755425340149800,
+					"id_str": "1547755425340149770",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FXq7W-aVUAo3Ogk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXq7W-aVUAo3Ogk.jpg",
+					"url": "https://t.co/OdWA49UrIJ",
+					"display_url": "pic.twitter.com/OdWA49UrIJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1547777978427355136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547755425340149800,
+					"id_str": "1547755425340149770",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FXq7W-aVUAo3Ogk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXq7W-aVUAo3Ogk.jpg",
+					"url": "https://t.co/OdWA49UrIJ",
+					"display_url": "pic.twitter.com/OdWA49UrIJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1547777978427355136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547755425356951600,
+					"id_str": "1547755425356951553",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FXq7W-eVsAE5WTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXq7W-eVsAE5WTW.jpg",
+					"url": "https://t.co/OdWA49UrIJ",
+					"display_url": "pic.twitter.com/OdWA49UrIJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1547777978427355136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547755425340149800,
+					"id_str": "1547755425340149766",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FXq7W-aVUAYK-11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXq7W-aVUAYK-11.jpg",
+					"url": "https://t.co/OdWA49UrIJ",
+					"display_url": "pic.twitter.com/OdWA49UrIJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1547777978427355136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449024,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📢]💙#KCON 2022 LA X FANTOO💚\nEvent OPEN!🎉\n\nI just show my #KPOP room….\nBut here is an unbelievable opportunity for KCON-ers ? 👀\n\nInstall FANTOO app now\nApply the events that all KPOP fans can enjoy💨\n\n📱App Link\n👉https://t.co/yN0wjRPjcY\n\n@fantoo_official\n#KCON #KCON2022LA https://t.co/OdWA49UrIJ"
+	},
+	{
+		"created_at": "Fri Jul 15 03:52:48 +0000 2022",
+		"id": 1547791262610165800,
+		"id_str": "1547791262610165767",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Audio] 최정윤(Choi Jungyoon) - 착한 사람들이 먼저 가는 우주 (1hr)\nhttps://t.co/S6KemoRJb7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S6KemoRJb7",
+					"expanded_url": "https://youtu.be/v0rjGmwEflQ",
+					"display_url": "youtu.be/v0rjGmwEflQ",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Audio] 최정윤(Choi Jungyoon) - 착한 사람들이 먼저 가는 우주 (1hr)\nhttps://t.co/S6KemoRJb7"
+	},
+	{
 		"created_at": "Fri Jul 15 03:17:47 +0000 2022",
 		"id": 1547782452554240000,
 		"id_str": "1547782452554240000",
