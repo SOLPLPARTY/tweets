@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 09:29:25 +0000 2022",
+		"id": 1548231097011830800,
+		"id_str": "1548238362191925251",
+		"full_text": "STATION : NCT LAB] NCT U 〖Rain Day〗\n➫ 2022.07.19 6PM KST\n \n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 #TAEIL #KUN #YANGYANG https://t.co/FYL16RNK9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "쿤",
+					"indices": [
+						96,
+						98
+					]
+				},
+				{
+					"text": "양양",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "KUN",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "YANGYANG",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548231091232080000,
+					"id_str": "1548231091232079872",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxr-X8agAAaH_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxr-X8agAAaH_R.jpg",
+					"url": "https://t.co/FYL16RNK9j",
+					"display_url": "pic.twitter.com/FYL16RNK9j",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1548231097011830784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548231091232080000,
+					"id_str": "1548231091232079872",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxr-X8agAAaH_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxr-X8agAAaH_R.jpg",
+					"url": "https://t.co/FYL16RNK9j",
+					"display_url": "pic.twitter.com/FYL16RNK9j",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1548231097011830784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548231091236278300,
+					"id_str": "1548231091236278272",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxr-X9akAA70vl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxr-X9akAA70vl.jpg",
+					"url": "https://t.co/FYL16RNK9j",
+					"display_url": "pic.twitter.com/FYL16RNK9j",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1548231097011830784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548231091232067600,
+					"id_str": "1548231091232067585",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxr-X8aUAEPq6a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxr-X8aUAEPq6a.jpg",
+					"url": "https://t.co/FYL16RNK9j",
+					"display_url": "pic.twitter.com/FYL16RNK9j",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1548231097011830784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11017948,
+			"friends_count": 56,
+			"listed_count": 12443,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3123,
+		"favorite_count": 9065,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "STATION : NCT LAB] NCT U 〖Rain Day〗\n➫ 2022.07.19 6PM KST\n \n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 #TAEIL #KUN #YANGYANG https://t.co/FYL16RNK9j"
+	},
+	{
 		"created_at": "Sat Jul 16 09:13:16 +0000 2022",
 		"id": 1548234297714192400,
 		"id_str": "1548234297714192384",
