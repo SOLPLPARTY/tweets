@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 10:29:38 +0000 2022",
+		"id": 1548248476311437300,
+		"id_str": "1548253518296805376",
+		"full_text": "오랜 침묵을 깨고 드디어 입을 연 카더가든의 반려견 '폴리'?\n카더가든과 폴리의 이야기가 궁금하다면 유튜브 채널 침착맨에서 확인하실 수 있습니다. https://t.co/xTsvFA1Tgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548248288507310000,
+					"id_str": "1548248288507310087",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548248288507310087/pu/img/9BMy3ejlRcgfhMbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548248288507310087/pu/img/9BMy3ejlRcgfhMbk.jpg",
+					"url": "https://t.co/xTsvFA1Tgb",
+					"display_url": "pic.twitter.com/xTsvFA1Tgb",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1548248476311437313/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548248288507310000,
+					"id_str": "1548248288507310087",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548248288507310087/pu/img/9BMy3ejlRcgfhMbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548248288507310087/pu/img/9BMy3ejlRcgfhMbk.jpg",
+					"url": "https://t.co/xTsvFA1Tgb",
+					"display_url": "pic.twitter.com/xTsvFA1Tgb",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1548248476311437313/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35835,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548248288507310087/pu/vid/1280x720/8tBfobEcW2Xxddia.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548248288507310087/pu/pl/YJMBPPMpXJfoOhD8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548248288507310087/pu/vid/640x360/hJmmCdT_dWX_q0CT.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548248288507310087/pu/vid/480x270/nNPRcvY3Y0UwfOy0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4040,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜 침묵을 깨고 드디어 입을 연 카더가든의 반려견 '폴리'?\n카더가든과 폴리의 이야기가 궁금하다면 유튜브 채널 침착맨에서 확인하실 수 있습니다. https://t.co/xTsvFA1Tgb"
+	},
+	{
+		"created_at": "Sat Jul 16 10:29:29 +0000 2022",
+		"id": 1548238547592757200,
+		"id_str": "1548253479725961219",
+		"full_text": "🎼 윤석철트리오 SET LIST\n\n01. 춘곤\n02. 4월의 D플랫\n03. Three Points Of View\n04. Renoir\n05. 고흐\n06. 안녕히 주무세요\n07. 도사님 펑크\n08. 여대 앞에 사는 남자\n09. Love Is A Song\n\n@SCJAZZY \n#YunSeokCheol #윤석철트리오\n#YUNSEOKCHEOL_TRIO \n#SOUNDSGOOD #VANS \n#WAFFLERECORDSTORE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						151,
+						164
+					]
+				},
+				{
+					"text": "윤석철트리오",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "YUNSEOKCHEOL_TRIO",
+					"indices": [
+						173,
+						191
+					]
+				},
+				{
+					"text": "SOUNDSGOOD",
+					"indices": [
+						193,
+						204
+					]
+				},
+				{
+					"text": "VANS",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "WAFFLERECORDSTORE",
+					"indices": [
+						212,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1548238543771709400,
+		"in_reply_to_status_id_str": "1548238543771709441",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40516,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎼 윤석철트리오 SET LIST\n\n01. 춘곤\n02. 4월의 D플랫\n03. Three Points Of View\n04. Renoir\n05. 고흐\n06. 안녕히 주무세요\n07. 도사님 펑크\n08. 여대 앞에 사는 남자\n09. Love Is A Song\n\n@SCJAZZY \n#YunSeokCheol #윤석철트리오\n#YUNSEOKCHEOL_TRIO \n#SOUNDSGOOD #VANS \n#WAFFLERECORDSTORE"
+	},
+	{
 		"created_at": "Sat Jul 16 09:29:25 +0000 2022",
 		"id": 1548231097011830800,
 		"id_str": "1548238362191925251",
