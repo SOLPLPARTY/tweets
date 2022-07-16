@@ -1,6 +1,702 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 04:11:16 +0000 2022",
+		"id": 1548145180112367600,
+		"id_str": "1548158300562157569",
+		"full_text": "YB 단독 콘서트 LIGHTS : BURNS \n💥공연 D-7💥\n27년의 YB와 27년의 롤링홀이 함께하는 레전드 공연!\n뜨거운 여름 날씨만큼이나 🔥뜨거운 공연🔥에 여러분을 초대합니다!\n\nYB 단독 콘서트 예매 바로가기👉https://t.co/2GLM6v4swB\n\n#롤링홀 #ROLLINGHALL\n#YB #단독콘서트 #LightsBurns \n#인디 #멜론티켓 https://t.co/zN7WTf9C8n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "YB",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "LightsBurns",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						194,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2GLM6v4swB",
+					"expanded_url": "https://bit.ly/3tNg1ht",
+					"display_url": "bit.ly/3tNg1ht",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548145091562197000,
+					"id_str": "1548145091562196993",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548145091562196993/pu/img/TbS1qe4up-W_STzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548145091562196993/pu/img/TbS1qe4up-W_STzj.jpg",
+					"url": "https://t.co/zN7WTf9C8n",
+					"display_url": "pic.twitter.com/zN7WTf9C8n",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1548145180112367616/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548145091562197000,
+					"id_str": "1548145091562196993",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548145091562196993/pu/img/TbS1qe4up-W_STzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548145091562196993/pu/img/TbS1qe4up-W_STzj.jpg",
+					"url": "https://t.co/zN7WTf9C8n",
+					"display_url": "pic.twitter.com/zN7WTf9C8n",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1548145180112367616/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33916,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548145091562196993/pu/vid/1280x720/RmQTK0CeA5Ld0VYD.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548145091562196993/pu/vid/480x270/JTI1_OLT0qDsQC7j.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548145091562196993/pu/vid/640x360/YCpTkVFMTYUsvN0W.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548145091562196993/pu/pl/7PsTdBuvJenynh0d.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YB 단독 콘서트 LIGHTS : BURNS \n💥공연 D-7💥\n27년의 YB와 27년의 롤링홀이 함께하는 레전드 공연!\n뜨거운 여름 날씨만큼이나 🔥뜨거운 공연🔥에 여러분을 초대합니다!\n\nYB 단독 콘서트 예매 바로가기👉https://t.co/2GLM6v4swB\n\n#롤링홀 #ROLLINGHALL\n#YB #단독콘서트 #LightsBurns \n#인디 #멜론티켓 https://t.co/zN7WTf9C8n"
+	},
+	{
+		"created_at": "Sat Jul 16 03:58:15 +0000 2022",
+		"id": 1548151890927820800,
+		"id_str": "1548155021396545538",
+		"full_text": "Dear KCON-ers💌\n\nHere’s your invitation to &lt;Relay Dance Battle in LA with Kaja Beauty&gt; from K-Pop artists!\n\nEnter now for a special chance to perform with K-Pop artists at KCON 2022 LA!\n\n🔗 https://t.co/NRzygmd157\n\n@M2MPD #RelayDanceBattle\n\n#KCON #KCONUSA #KCON2022LA https://t.co/sbS1WkWoCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RelayDanceBattle",
+					"indices": [
+						226,
+						243
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						245,
+						250
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						251,
+						259
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						260,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M2MPD",
+					"name": "MPD(엠피디)",
+					"id": 589808615,
+					"id_str": "589808615",
+					"indices": [
+						219,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NRzygmd157",
+					"expanded_url": "https://youtu.be/rZTv6t14Cqc",
+					"display_url": "youtu.be/rZTv6t14Cqc",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548151825966440400,
+					"id_str": "1548151825966440449",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548151825966440449/pu/img/Lk9g77qOlWmHP6Rl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548151825966440449/pu/img/Lk9g77qOlWmHP6Rl.jpg",
+					"url": "https://t.co/sbS1WkWoCS",
+					"display_url": "pic.twitter.com/sbS1WkWoCS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1548151890927820800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548151825966440400,
+					"id_str": "1548151825966440449",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548151825966440449/pu/img/Lk9g77qOlWmHP6Rl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548151825966440449/pu/img/Lk9g77qOlWmHP6Rl.jpg",
+					"url": "https://t.co/sbS1WkWoCS",
+					"display_url": "pic.twitter.com/sbS1WkWoCS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1548151890927820800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 114447,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548151825966440449/pu/vid/480x270/pkap9GmNc3ru1cEV.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548151825966440449/pu/vid/1280x720/KW98rDdg7vAwRan4.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548151825966440449/pu/vid/640x360/wcEUtnC5bxBZ2Wyw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548151825966440449/pu/pl/cdtZv2wvePOgJHa2.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448985,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear KCON-ers💌\n\nHere’s your invitation to &lt;Relay Dance Battle in LA with Kaja Beauty&gt; from K-Pop artists!\n\nEnter now for a special chance to perform with K-Pop artists at KCON 2022 LA!\n\n🔗 https://t.co/NRzygmd157\n\n@M2MPD #RelayDanceBattle\n\n#KCON #KCONUSA #KCON2022LA https://t.co/sbS1WkWoCS"
+	},
+	{
+		"created_at": "Sat Jul 16 03:29:34 +0000 2022",
+		"id": 1548142560345858000,
+		"id_str": "1548147803821445127",
+		"full_text": "[#NEWS] 윤종신, 빌리 '스케치북' 첫 무대 지원사격..인형탈 쓰고 깜짝 등장\n\n▶️ https://t.co/hvg0RD8fop\n\n#track_by_YOON #윤종신 #Billlie #팥빙수 #Patbingsu #KBS2 #유희열의스케치북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "track_by_YOON",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "팥빙수",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "Patbingsu",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "KBS2",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hvg0RD8fop",
+					"expanded_url": "https://naver.me/GOCLGlcy",
+					"display_url": "naver.me/GOCLGlcy",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36933,
+			"friends_count": 15,
+			"listed_count": 292,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 윤종신, 빌리 '스케치북' 첫 무대 지원사격..인형탈 쓰고 깜짝 등장\n\n▶️ https://t.co/hvg0RD8fop\n\n#track_by_YOON #윤종신 #Billlie #팥빙수 #Patbingsu #KBS2 #유희열의스케치북"
+	},
+	{
 		"created_at": "Sat Jul 16 03:14:07 +0000 2022",
 		"id": 1548143914707652600,
 		"id_str": "1548143914707652608",
