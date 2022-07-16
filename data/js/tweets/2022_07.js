@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 01:58:15 +0000 2022",
+		"id": 1548110167052431400,
+		"id_str": "1548124822852345857",
+		"full_text": "Dear KCON-ers💌\n\nHere’s your invitation to &lt;Relay Dance Battle in LA with Kaja Beauty&gt; from K-Pop artists!\nEnter now for a special chance to perform with K-Pop artists at KCON 2022 LA!\n\n🔗 https://t.co/txC6eYegaz\n\n@M2MPD #RelayDanceBattle\n\n#KCON #KCONUSA #KCON2022LA https://t.co/H0RqKmtM4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RelayDanceBattle",
+					"indices": [
+						225,
+						242
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						250,
+						258
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						259,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M2MPD",
+					"name": "MPD(엠피디)",
+					"id": 589808615,
+					"id_str": "589808615",
+					"indices": [
+						218,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/txC6eYegaz",
+					"expanded_url": "https://youtu.be/(TBD)",
+					"display_url": "youtu.be/(TBD)",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547815791378083800,
+					"id_str": "1547815791378083840",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1547815791378083840/img/c9fuLURoKo5y_3DW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1547815791378083840/img/c9fuLURoKo5y_3DW.jpg",
+					"url": "https://t.co/H0RqKmtM4n",
+					"display_url": "pic.twitter.com/H0RqKmtM4n",
+					"expanded_url": "https://twitter.com/KCON_official/status/1548110167052431360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547815791378083800,
+					"id_str": "1547815791378083840",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1547815791378083840/img/c9fuLURoKo5y_3DW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1547815791378083840/img/c9fuLURoKo5y_3DW.jpg",
+					"url": "https://t.co/H0RqKmtM4n",
+					"display_url": "pic.twitter.com/H0RqKmtM4n",
+					"expanded_url": "https://twitter.com/KCON_official/status/1548110167052431360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 114432,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547815791378083840/vid/1280x720/SA6Vru616lLjcanV.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547815791378083840/vid/640x360/ue_89p7r7ah6xIOP.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547815791378083840/vid/480x270/Ye5AYNm00Fkg4agi.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1547815791378083840/pl/a8nJMWLV9aC76ShP.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448992,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear KCON-ers💌\n\nHere’s your invitation to &lt;Relay Dance Battle in LA with Kaja Beauty&gt; from K-Pop artists!\nEnter now for a special chance to perform with K-Pop artists at KCON 2022 LA!\n\n🔗 https://t.co/txC6eYegaz\n\n@M2MPD #RelayDanceBattle\n\n#KCON #KCONUSA #KCON2022LA https://t.co/H0RqKmtM4n"
+	},
+	{
 		"created_at": "Fri Jul 15 17:11:17 +0000 2022",
 		"id": 1547980365070942200,
 		"id_str": "1547992208795529217",
