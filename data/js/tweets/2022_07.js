@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 11:11:16 +0000 2022",
+		"id": 1548624734279147500,
+		"id_str": "1548626384754466818",
+		"full_text": "#피움 #반규남 #송성미 #정지석 #어슬렁 #더글라스 #파스로퀼트 #플레인온마스 #본 #체셔 #굿우드 #조태준 #존기븐 #무중력소년 #남재섭 #박연두 #빅베이비드라이버 #클럽빵 #clubbbang #kindie #홍대앞라이브 #라이브클럽 #인디 https://t.co/62VSdkTfAs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "피움",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "반규남",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "송성미",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "정지석",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "어슬렁",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "더글라스",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "파스로퀼트",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "플레인온마스",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "본",
+					"indices": [
+						45,
+						47
+					]
+				},
+				{
+					"text": "체셔",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "굿우드",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "조태준",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "존기븐",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "무중력소년",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "남재섭",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "박연두",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "빅베이비드라이버",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "clubbbang",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "홍대앞라이브",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "라이브클럽",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						133,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548624722518106000,
+					"id_str": "1548624722518106114",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FX3R-uwUYAIcr5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX3R-uwUYAIcr5p.jpg",
+					"url": "https://t.co/62VSdkTfAs",
+					"display_url": "pic.twitter.com/62VSdkTfAs",
+					"expanded_url": "https://twitter.com/club_bbang/status/1548624734279147521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 611,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 611,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 611,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548624722518106000,
+					"id_str": "1548624722518106114",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FX3R-uwUYAIcr5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX3R-uwUYAIcr5p.jpg",
+					"url": "https://t.co/62VSdkTfAs",
+					"display_url": "pic.twitter.com/62VSdkTfAs",
+					"expanded_url": "https://twitter.com/club_bbang/status/1548624734279147521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 611,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 611,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 611,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 908,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#피움 #반규남 #송성미 #정지석 #어슬렁 #더글라스 #파스로퀼트 #플레인온마스 #본 #체셔 #굿우드 #조태준 #존기븐 #무중력소년 #남재섭 #박연두 #빅베이비드라이버 #클럽빵 #clubbbang #kindie #홍대앞라이브 #라이브클럽 #인디 https://t.co/62VSdkTfAs"
+	},
+	{
 		"created_at": "Sun Jul 17 09:04:35 +0000 2022",
 		"id": 1548594501404438500,
 		"id_str": "1548594501404438528",
