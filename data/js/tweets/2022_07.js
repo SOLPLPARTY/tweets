@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 10:29:33 +0000 2022",
+		"id": 1549336110270013400,
+		"id_str": "1549340661081571328",
+		"full_text": "이번 주말로 다가온 #스마일러브위크엔드\n공연과 함께 다양한 한정판 LP들이 판매될 예정입니다~ 공연도 보고 평소 뽐뿌 자극했던 LP들도 접해볼 수 있는 기회!! 특★별★히 '안예은 - 섬에서' LP가 온/오프라인 통틀어 첫 판매를 개시합니다!! \n\nhttps://t.co/yV6wP9pQKg https://t.co/8FKj4XwJlE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스마일러브위크엔드",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yV6wP9pQKg",
+					"expanded_url": "https://www.instagram.com/p/CgMF8aUhZOc/?igshid=MDJmNzVkMjY=",
+					"display_url": "instagram.com/p/CgMF8aUhZOc/…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549336107023642600,
+					"id_str": "1549336107023642625",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBY-wjUsAEfFLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBY-wjUsAEfFLa.jpg",
+					"url": "https://t.co/8FKj4XwJlE",
+					"display_url": "pic.twitter.com/8FKj4XwJlE",
+					"expanded_url": "https://twitter.com/ruby_records/status/1549336110270013441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549336107023642600,
+					"id_str": "1549336107023642625",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBY-wjUsAEfFLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBY-wjUsAEfFLa.jpg",
+					"url": "https://t.co/8FKj4XwJlE",
+					"display_url": "pic.twitter.com/8FKj4XwJlE",
+					"expanded_url": "https://twitter.com/ruby_records/status/1549336110270013441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7575,
+			"friends_count": 8216,
+			"listed_count": 196,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주말로 다가온 #스마일러브위크엔드\n공연과 함께 다양한 한정판 LP들이 판매될 예정입니다~ 공연도 보고 평소 뽐뿌 자극했던 LP들도 접해볼 수 있는 기회!! 특★별★히 '안예은 - 섬에서' LP가 온/오프라인 통틀어 첫 판매를 개시합니다!! \n\nhttps://t.co/yV6wP9pQKg https://t.co/8FKj4XwJlE"
+	},
+	{
 		"created_at": "Tue Jul 19 10:01:43 +0000 2022",
 		"id": 1549333658099540000,
 		"id_str": "1549333658099539969",
