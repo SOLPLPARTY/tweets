@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 04:29:30 +0000 2022",
+		"id": 1549239310599086000,
+		"id_str": "1549250050185994241",
+		"full_text": "[ #동표사 ]태히언 7인치 발매 서울 투어 https://t.co/hRpoCuTuIs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동표사",
+					"indices": [
+						2,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hRpoCuTuIs",
+					"expanded_url": "https://easternstandardsounds.tistory.com/219",
+					"display_url": "easternstandardsounds.tistory.com/219",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://notice.tistory.com/1357\" rel=\"nofollow\">Tistory2Twitter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1742,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1655869230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ #동표사 ]태히언 7인치 발매 서울 투어 https://t.co/hRpoCuTuIs"
+	},
+	{
+		"created_at": "Tue Jul 19 04:29:28 +0000 2022",
+		"id": 1549235798632833000,
+		"id_str": "1549250041373753344",
+		"full_text": "Spotify : https://t.co/zlWcGnMwJD\nApple Music : https://t.co/jRYy0tWUKm\n멜론 : https://t.co/OX7E4rKKwN\n지니 : https://t.co/fNKdBbtVSA\n벅스 : https://t.co/4qnDfy5oxq\nFLO : https://t.co/NGBzkwkASf\nVIBE : https://t.co/muBj2BXJx0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zlWcGnMwJD",
+					"expanded_url": "https://open.spotify.com/album/45mtAtIfEQXqUlwG8FGroD?si=cyvMuBK6RUahCXIwad1IDg",
+					"display_url": "open.spotify.com/album/45mtAtIf…",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/jRYy0tWUKm",
+					"expanded_url": "https://music.apple.com/kr/album/wish-me-luck-single/1634744877",
+					"display_url": "music.apple.com/kr/album/wish-…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/OX7E4rKKwN",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=11007295",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/fNKdBbtVSA",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82827818",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/4qnDfy5oxq",
+					"expanded_url": "https://music.bugs.co.kr/album/20480340?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/20480340…",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/NGBzkwkASf",
+					"expanded_url": "https://www.music-flo.com/detail/album/edhoyiazy/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/muBj2BXJx0",
+					"expanded_url": "https://vibe.naver.com/album/7752403",
+					"display_url": "vibe.naver.com/album/7752403",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549227616606904300,
+		"in_reply_to_status_id_str": "1549227616606904320",
+		"in_reply_to_user_id": 76964739,
+		"in_reply_to_user_id_str": "76964739",
+		"in_reply_to_screen_name": "inplanet",
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1434,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify : https://t.co/zlWcGnMwJD\nApple Music : https://t.co/jRYy0tWUKm\n멜론 : https://t.co/OX7E4rKKwN\n지니 : https://t.co/fNKdBbtVSA\n벅스 : https://t.co/4qnDfy5oxq\nFLO : https://t.co/NGBzkwkASf\nVIBE : https://t.co/muBj2BXJx0"
+	},
+	{
 		"created_at": "Tue Jul 19 03:29:31 +0000 2022",
 		"id": 1549231861184200700,
 		"id_str": "1549234954063826947",
