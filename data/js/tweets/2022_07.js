@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 14:29:25 +0000 2022",
+		"id": 1549393643647422500,
+		"id_str": "1549401023374131203",
+		"full_text": "#Boni\n\nBabylon 베이빌론 정규 [EGO 90'S]\nTrack 15. 그리움(feat.BONI) \n\n베이빌론의 정규에 보니가 피쳐링으로 참여했습니다. \n모든 음원사이트에서 감상해보실 수 있습니다!\n\n#Babylon #베이빌론 #EGO90S #보니 #그리움 https://t.co/cd0pf6EnNs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Boni",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Babylon",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "베이빌론",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "EGO90S",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "보니",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "그리움",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549393630775099400,
+					"id_str": "1549393630775099392",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCNTFOaQAAgXnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCNTFOaQAAgXnb.jpg",
+					"url": "https://t.co/cd0pf6EnNs",
+					"display_url": "pic.twitter.com/cd0pf6EnNs",
+					"expanded_url": "https://twitter.com/inplanet/status/1549393643647422464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549393630775099400,
+					"id_str": "1549393630775099392",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCNTFOaQAAgXnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCNTFOaQAAgXnb.jpg",
+					"url": "https://t.co/cd0pf6EnNs",
+					"display_url": "pic.twitter.com/cd0pf6EnNs",
+					"expanded_url": "https://twitter.com/inplanet/status/1549393643647422464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1434,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Boni\n\nBabylon 베이빌론 정규 [EGO 90'S]\nTrack 15. 그리움(feat.BONI) \n\n베이빌론의 정규에 보니가 피쳐링으로 참여했습니다. \n모든 음원사이트에서 감상해보실 수 있습니다!\n\n#Babylon #베이빌론 #EGO90S #보니 #그리움 https://t.co/cd0pf6EnNs"
+	},
+	{
 		"created_at": "Tue Jul 19 12:32:00 +0000 2022",
 		"id": 1549363463012905000,
 		"id_str": "1549371477006450688",
