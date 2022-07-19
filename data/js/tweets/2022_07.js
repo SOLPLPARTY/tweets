@@ -1,6 +1,1185 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 10:01:43 +0000 2022",
+		"id": 1549333658099540000,
+		"id_str": "1549333658099539969",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n7/31 #시드 첫 단독 내한 공연 전 🎧예습 필수곡🎧\nhttps://t.co/aSW7FSv8Kb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				},
+				{
+					"text": "시드",
+					"indices": [
+						32,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aSW7FSv8Kb",
+					"expanded_url": "https://youtu.be/Je69PEG7RTk",
+					"display_url": "youtu.be/Je69PEG7RTk",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n7/31 #시드 첫 단독 내한 공연 전 🎧예습 필수곡🎧\nhttps://t.co/aSW7FSv8Kb"
+	},
+	{
+		"created_at": "Tue Jul 19 09:41:43 +0000 2022",
+		"id": 1549328623441629200,
+		"id_str": "1549328623441629184",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n#해리스타일스 'Late Night Talking' 공식 한글 자막 MV 7/20 (수) 6PM 공개!\nhttps://t.co/NwHfE3MxQH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				},
+				{
+					"text": "해리스타일스",
+					"indices": [
+						27,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NwHfE3MxQH",
+					"expanded_url": "https://youtu.be/QOx-ljjCeqE",
+					"display_url": "youtu.be/QOx-ljjCeqE",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n#해리스타일스 'Late Night Talking' 공식 한글 자막 MV 7/20 (수) 6PM 공개!\nhttps://t.co/NwHfE3MxQH"
+	},
+	{
+		"created_at": "Tue Jul 19 09:29:46 +0000 2022",
+		"id": 1549321059580620800,
+		"id_str": "1549325615337279488",
+		"full_text": "Rain Day - SM STATION : NCT LAB \n\nhttps://t.co/uwOs2PCe4e\n\n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 #TAEIL #KUN #YANGYANG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "쿤",
+					"indices": [
+						96,
+						98
+					]
+				},
+				{
+					"text": "양양",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "KUN",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "YANGYANG",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uwOs2PCe4e",
+					"expanded_url": "https://STATION.lnk.to/RainDay",
+					"display_url": "STATION.lnk.to/RainDay",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11028139,
+			"friends_count": 56,
+			"listed_count": 12456,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1110,
+		"favorite_count": 3129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rain Day - SM STATION : NCT LAB \n\nhttps://t.co/uwOs2PCe4e\n\n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 #TAEIL #KUN #YANGYANG"
+	},
+	{
+		"created_at": "Tue Jul 19 09:29:44 +0000 2022",
+		"id": 1549320070396285000,
+		"id_str": "1549325606541840384",
+		"full_text": "샘김이 가창으로 참여한 베이빌론 (Babylon) [EGO 90’S] 2번 트랙 ‘잘 어울려 (feat. 샘김)’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/PuCYcDVMQw \nGenie https://t.co/O68eZECcdK \nBugs https://t.co/df4CrYrtN4 \nFLO https://t.co/ksrBcMokgI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PuCYcDVMQw",
+					"expanded_url": "http://bit.ly/3ILRDTQ",
+					"display_url": "bit.ly/3ILRDTQ",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/O68eZECcdK",
+					"expanded_url": "http://bit.ly/3IMlFXm",
+					"display_url": "bit.ly/3IMlFXm",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/df4CrYrtN4",
+					"expanded_url": "http://bit.ly/3zay2bF",
+					"display_url": "bit.ly/3zay2bF",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/ksrBcMokgI",
+					"expanded_url": "http://bit.ly/3PGtCj1",
+					"display_url": "bit.ly/3PGtCj1",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549320065107243000,
+		"in_reply_to_status_id_str": "1549320065107243009",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40610,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "샘김이 가창으로 참여한 베이빌론 (Babylon) [EGO 90’S] 2번 트랙 ‘잘 어울려 (feat. 샘김)’는 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\nMelon https://t.co/PuCYcDVMQw \nGenie https://t.co/O68eZECcdK \nBugs https://t.co/df4CrYrtN4 \nFLO https://t.co/ksrBcMokgI"
+	},
+	{
+		"created_at": "Tue Jul 19 09:29:40 +0000 2022",
+		"id": 1549320065107243000,
+		"id_str": "1549325589236039680",
+		"full_text": "[#Release] #샘김\n\n베이빌론 (Babylon) [EGO 90’S]\nTrack 2. 잘 어울려 (feat. 샘김)\n\nLyrics by 베이빌론(Babylon) \nComposed by 베이빌론(Babylon), Oswld sound \nArranged by Oswld sound \n\n@LeegitItsSam \n#SamKim #Babylon #베이빌론\n#EGO90S #잘어울려 https://t.co/ooDTUxZbc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "Babylon",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "베이빌론",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "EGO90S",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"text": "잘어울려",
+					"indices": [
+						206,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549316761354653700,
+					"id_str": "1549316761354653696",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBHYsUaUAAofNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBHYsUaUAAofNF.jpg",
+					"url": "https://t.co/ooDTUxZbc9",
+					"display_url": "pic.twitter.com/ooDTUxZbc9",
+					"expanded_url": "https://twitter.com/antennamusic/status/1549320065107243009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549316761354653700,
+					"id_str": "1549316761354653696",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBHYsUaUAAofNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBHYsUaUAAofNF.jpg",
+					"url": "https://t.co/ooDTUxZbc9",
+					"display_url": "pic.twitter.com/ooDTUxZbc9",
+					"expanded_url": "https://twitter.com/antennamusic/status/1549320065107243009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40610,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #샘김\n\n베이빌론 (Babylon) [EGO 90’S]\nTrack 2. 잘 어울려 (feat. 샘김)\n\nLyrics by 베이빌론(Babylon) \nComposed by 베이빌론(Babylon), Oswld sound \nArranged by Oswld sound \n\n@LeegitItsSam \n#SamKim #Babylon #베이빌론\n#EGO90S #잘어울려 https://t.co/ooDTUxZbc9"
+	},
+	{
+		"created_at": "Tue Jul 19 09:29:31 +0000 2022",
+		"id": 1549319520707195000,
+		"id_str": "1549325551042809857",
+		"full_text": "Rain Day - SM STATION : NCT LAB \n\nMelon ➫ https://t.co/QQn2uev17p \nGenie ➫ https://t.co/EEeENYynqE \nFLO ➫ https://t.co/2vG6C08ugs \nBugs ➫ https://t.co/iPe6ZNMpFo \nVIBE ➫ https://t.co/tyANftzXXg \n\n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 #TAEIL #KUN #YANGYANG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						229,
+						232
+					]
+				},
+				{
+					"text": "쿤",
+					"indices": [
+						233,
+						235
+					]
+				},
+				{
+					"text": "양양",
+					"indices": [
+						236,
+						239
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						240,
+						246
+					]
+				},
+				{
+					"text": "KUN",
+					"indices": [
+						247,
+						251
+					]
+				},
+				{
+					"text": "YANGYANG",
+					"indices": [
+						252,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQn2uev17p",
+					"expanded_url": "https://bit.ly/3zhw8Ht",
+					"display_url": "bit.ly/3zhw8Ht",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/EEeENYynqE",
+					"expanded_url": "https://bit.ly/3OgYHJk",
+					"display_url": "bit.ly/3OgYHJk",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/2vG6C08ugs",
+					"expanded_url": "https://bit.ly/3RLVQL4",
+					"display_url": "bit.ly/3RLVQL4",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/iPe6ZNMpFo",
+					"expanded_url": "https://bit.ly/3RM9ONi",
+					"display_url": "bit.ly/3RM9ONi",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/tyANftzXXg",
+					"expanded_url": "https://bit.ly/3zgcawt",
+					"display_url": "bit.ly/3zgcawt",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11028139,
+			"friends_count": 56,
+			"listed_count": 12456,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1206,
+		"favorite_count": 2866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rain Day - SM STATION : NCT LAB \n\nMelon ➫ https://t.co/QQn2uev17p \nGenie ➫ https://t.co/EEeENYynqE \nFLO ➫ https://t.co/2vG6C08ugs \nBugs ➫ https://t.co/iPe6ZNMpFo \nVIBE ➫ https://t.co/tyANftzXXg \n\n#NCT #NCTU #NCT127 #WayV #NCTLAB\n#태일 #쿤 #양양 #TAEIL #KUN #YANGYANG"
+	},
+	{
+		"created_at": "Tue Jul 19 09:29:26 +0000 2022",
+		"id": 1549318610992377900,
+		"id_str": "1549325533812559873",
+		"full_text": "아니 도대체 썸의 기준은 뭘까요?! ㅣ 오부리 EP.5ㅣ아티초크, 아나운서 정유현 https://t.co/ImhoCsJS29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ImhoCsJS29",
+					"expanded_url": "http://blog.naver.com/chili7272/222818975769",
+					"display_url": "blog.naver.com/chili7272/2228…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/qZzCfFQtXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZzCfFQtXO",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2334,
+			"listed_count": 61,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526066762969935872/M-LQZSu0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1653966960",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 도대체 썸의 기준은 뭘까요?! ㅣ 오부리 EP.5ㅣ아티초크, 아나운서 정유현 https://t.co/ImhoCsJS29"
+	},
+	{
 		"created_at": "Tue Jul 19 09:13:22 +0000 2022",
 		"id": 1549321487093420000,
 		"id_str": "1549321487093420032",
