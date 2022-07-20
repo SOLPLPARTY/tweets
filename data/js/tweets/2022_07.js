@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 11:29:38 +0000 2022",
+		"id": 1549716420312764400,
+		"id_str": "1549718167810883584",
+		"full_text": "#bobae \n\nDJ 플레이리스트 - HIDDEN TRACKS 숨은 띵곡 '국내 R&amp;B' (매주 업데이트) by Melon_히든트랙\n\nhttps://t.co/7G1ZTMw0C8\n\nby Melon\n\n#행운 #Wishmeluck https://t.co/wv7VRYKWAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bobae",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "행운",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "Wishmeluck",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7G1ZTMw0C8",
+					"expanded_url": "http://kko.to/YqrGj8YGh",
+					"display_url": "kko.to/YqrGj8YGh",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549716412020641800,
+					"id_str": "1549716412020641792",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGy3bEVUAAgcAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGy3bEVUAAgcAD.jpg",
+					"url": "https://t.co/wv7VRYKWAG",
+					"display_url": "pic.twitter.com/wv7VRYKWAG",
+					"expanded_url": "https://twitter.com/inplanet/status/1549716420312764416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549716412020641800,
+					"id_str": "1549716412020641792",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGy3bEVUAAgcAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGy3bEVUAAgcAD.jpg",
+					"url": "https://t.co/wv7VRYKWAG",
+					"display_url": "pic.twitter.com/wv7VRYKWAG",
+					"expanded_url": "https://twitter.com/inplanet/status/1549716420312764416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1434,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#bobae \n\nDJ 플레이리스트 - HIDDEN TRACKS 숨은 띵곡 '국내 R&amp;B' (매주 업데이트) by Melon_히든트랙\n\nhttps://t.co/7G1ZTMw0C8\n\nby Melon\n\n#행운 #Wishmeluck https://t.co/wv7VRYKWAG"
+	},
+	{
+		"created_at": "Wed Jul 20 11:29:33 +0000 2022",
+		"id": 1549711525392560000,
+		"id_str": "1549718146273214470",
+		"full_text": "[#Notice] #페퍼톤스 #적재\n\n페퍼톤스, 적재가 심사위원으로 함께하는 Mnet &lt;그레이트 서울 인베이전&gt;이\n오늘 밤 9시 40분 첫 방송됩니다🎸🎶\n\n@pptnzexpress @pptnznoshel \n#Peppertones\n#ShinJaePyung #LeeJangWon\n#Jukjae\n#Mnet #그레이트서울인베이전\n#GreatSeoulInvasion #그서인 https://t.co/U03QXgki0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "ShinJaePyung",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "그레이트서울인베이전",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "GreatSeoulInvasion",
+					"indices": [
+						186,
+						205
+					]
+				},
+				{
+					"text": "그서인",
+					"indices": [
+						206,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549711517557608400,
+					"id_str": "1549711517557608448",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGuahxaUAA9GJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGuahxaUAA9GJ8.jpg",
+					"url": "https://t.co/U03QXgki0o",
+					"display_url": "pic.twitter.com/U03QXgki0o",
+					"expanded_url": "https://twitter.com/antennamusic/status/1549711525392560128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549711517557608400,
+					"id_str": "1549711517557608448",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGuahxaUAA9GJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGuahxaUAA9GJ8.jpg",
+					"url": "https://t.co/U03QXgki0o",
+					"display_url": "pic.twitter.com/U03QXgki0o",
+					"expanded_url": "https://twitter.com/antennamusic/status/1549711525392560128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40616,
+			"friends_count": 12,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #페퍼톤스 #적재\n\n페퍼톤스, 적재가 심사위원으로 함께하는 Mnet &lt;그레이트 서울 인베이전&gt;이\n오늘 밤 9시 40분 첫 방송됩니다🎸🎶\n\n@pptnzexpress @pptnznoshel \n#Peppertones\n#ShinJaePyung #LeeJangWon\n#Jukjae\n#Mnet #그레이트서울인베이전\n#GreatSeoulInvasion #그서인 https://t.co/U03QXgki0o"
+	},
+	{
 		"created_at": "Wed Jul 20 11:15:08 +0000 2022",
 		"id": 1549714520829874200,
 		"id_str": "1549714520829874178",
