@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 06:29:25 +0000 2022",
+		"id": 1549627673755979800,
+		"id_str": "1549642616031117313",
+		"full_text": "🔴#앤마리 아시아 팬미팅 유튜브 라이브🔴\n\n7월 27일 밤 9시 30분 유튜브 라이브로 진행되는 ✨앤-마리 아시아 익스클루시브 라이브 스트리밍 &amp; 퍼포먼스✨ 댓글/멘션에 앤-마리에게 궁금한 점을 남겨주세요!\n\n📅 7월 27일 수요일\n🕣 밤 9시 30분\n🔔 https://t.co/A3ffJpMAEB https://t.co/J7aFSSgMnm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "앤마리",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3ffJpMAEB",
+					"expanded_url": "https://youtu.be/G-4LgEVxSzE",
+					"display_url": "youtu.be/G-4LgEVxSzE",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549627663999983600,
+					"id_str": "1549627663999983618",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFiJm7WYAIGEn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFiJm7WYAIGEn3.jpg",
+					"url": "https://t.co/J7aFSSgMnm",
+					"display_url": "pic.twitter.com/J7aFSSgMnm",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1549627673755979777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549627663999983600,
+					"id_str": "1549627663999983618",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFiJm7WYAIGEn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFiJm7WYAIGEn3.jpg",
+					"url": "https://t.co/J7aFSSgMnm",
+					"display_url": "pic.twitter.com/J7aFSSgMnm",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1549627673755979777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88563,
+			"friends_count": 492,
+			"listed_count": 215,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔴#앤마리 아시아 팬미팅 유튜브 라이브🔴\n\n7월 27일 밤 9시 30분 유튜브 라이브로 진행되는 ✨앤-마리 아시아 익스클루시브 라이브 스트리밍 &amp; 퍼포먼스✨ 댓글/멘션에 앤-마리에게 궁금한 점을 남겨주세요!\n\n📅 7월 27일 수요일\n🕣 밤 9시 30분\n🔔 https://t.co/A3ffJpMAEB https://t.co/J7aFSSgMnm"
+	},
+	{
 		"created_at": "Wed Jul 20 05:29:33 +0000 2022",
 		"id": 1549625524099485700,
 		"id_str": "1549627550271524865",
