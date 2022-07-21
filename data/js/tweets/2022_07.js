@@ -1,6 +1,1426 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 02:04:20 +0000 2022",
+		"id": 1549938294636523500,
+		"id_str": "1549938294636523521",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] TAAL - 양산도\nhttps://t.co/ucSmahiOIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ucSmahiOIJ",
+					"expanded_url": "https://youtu.be/KZwIhcQVZDc",
+					"display_url": "youtu.be/KZwIhcQVZDc",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] TAAL - 양산도\nhttps://t.co/ucSmahiOIJ"
+	},
+	{
+		"created_at": "Thu Jul 21 02:04:20 +0000 2022",
+		"id": 1549938294490034200,
+		"id_str": "1549938294490034176",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] TAAL - 한강밀\nhttps://t.co/a5TrLL9gBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a5TrLL9gBl",
+					"expanded_url": "https://youtu.be/mnH5LSJe33E",
+					"display_url": "youtu.be/mnH5LSJe33E",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] TAAL - 한강밀\nhttps://t.co/a5TrLL9gBl"
+	},
+	{
+		"created_at": "Thu Jul 21 02:04:20 +0000 2022",
+		"id": 1549938294464528400,
+		"id_str": "1549938294464528384",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] TAAL - 술비\nhttps://t.co/IsocWPzloO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IsocWPzloO",
+					"expanded_url": "https://youtu.be/jZgENgpHm5c",
+					"display_url": "youtu.be/jZgENgpHm5c",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] TAAL - 술비\nhttps://t.co/IsocWPzloO"
+	},
+	{
+		"created_at": "Thu Jul 21 01:58:38 +0000 2022",
+		"id": 1549934516122394600,
+		"id_str": "1549936859941306368",
+		"full_text": "#YB #Dynamicduo #BigMama #Koyote #RomanticPunch #Daybreak #Soran #KimChangwanBand #SSAW(SpringSummerAutumnWinter) #byebyesea  #KimWansunBand #Crash #Diablo #HarryBigButton #SonicStones #Hammering #Method\n\nhttps://t.co/1xnrngeyL7\n\n#JUMF #JeonjuUltimateMusicFestival#lineup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YB",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Dynamicduo",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "BigMama",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "Koyote",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "RomanticPunch",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"text": "Daybreak",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"text": "Soran",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "KimChangwanBand",
+					"indices": [
+						65,
+						81
+					]
+				},
+				{
+					"text": "SSAW",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "byebyesea",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "KimWansunBand",
+					"indices": [
+						126,
+						140
+					]
+				},
+				{
+					"text": "Crash",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "Diablo",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "HarryBigButton",
+					"indices": [
+						156,
+						171
+					]
+				},
+				{
+					"text": "SonicStones",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "Hammering",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "Method",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "JUMF",
+					"indices": [
+						230,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1xnrngeyL7",
+					"expanded_url": "http://jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549934510342828000,
+		"in_reply_to_status_id_str": "1549934510342828032",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1075,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "#YB #Dynamicduo #BigMama #Koyote #RomanticPunch #Daybreak #Soran #KimChangwanBand #SSAW(SpringSummerAutumnWinter) #byebyesea  #KimWansunBand #Crash #Diablo #HarryBigButton #SonicStones #Hammering #Method\n\nhttps://t.co/1xnrngeyL7\n\n#JUMF #JeonjuUltimateMusicFestival#lineup"
+	},
+	{
+		"created_at": "Thu Jul 21 01:58:36 +0000 2022",
+		"id": 1549934510342828000,
+		"id_str": "1549936851074662401",
+		"full_text": "🎤 1st Line-up Announcement🎤\n\nThe first line-up! You were curious, right?🤭\nIt was the question that was asked the most after the festival announcement!\nThe artists who will be with the 2022 Jeonju Ultimate Music Festival will be revealed right now! Get ready for the hot summer! https://t.co/pD9iR4gpy8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549934218402500600,
+					"id_str": "1549934218402500609",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FYJ49bEakAEQHzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYJ49bEakAEQHzb.jpg",
+					"url": "https://t.co/pD9iR4gpy8",
+					"display_url": "pic.twitter.com/pD9iR4gpy8",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1549934510342828032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549934218402500600,
+					"id_str": "1549934218402500609",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FYJ49bEakAEQHzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYJ49bEakAEQHzb.jpg",
+					"url": "https://t.co/pD9iR4gpy8",
+					"display_url": "pic.twitter.com/pD9iR4gpy8",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1549934510342828032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1075,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎤 1st Line-up Announcement🎤\n\nThe first line-up! You were curious, right?🤭\nIt was the question that was asked the most after the festival announcement!\nThe artists who will be with the 2022 Jeonju Ultimate Music Festival will be revealed right now! Get ready for the hot summer! https://t.co/pD9iR4gpy8"
+	},
+	{
+		"created_at": "Thu Jul 21 01:58:28 +0000 2022",
+		"id": 1549923456564621300,
+		"id_str": "1549936817029451777",
+		"full_text": "💙KCON 2022 LA DAILY LINEUP ANNOUNCEMENT💚\n\nAre you ready to have fun at KCON 2022 LA?! \nLet's KCON! 🥳\nKCON 2022 LA를 즐길 준비 되셨나요?\n그렇다면 Let's KCON!🥳\n\n*All dates below are based on local time.\n*기재된 날짜는 모두 현지시간 기준입니다.\n\n#KCON #KCONUSA #KCON2022LA https://t.co/Vpz83Ps0ET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						219,
+						227
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						228,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549923451099496400,
+					"id_str": "1549923451099496452",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"url": "https://t.co/Vpz83Ps0ET",
+					"display_url": "pic.twitter.com/Vpz83Ps0ET",
+					"expanded_url": "https://twitter.com/KCON_official/status/1549923456564621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549923451099496400,
+					"id_str": "1549923451099496452",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"url": "https://t.co/Vpz83Ps0ET",
+					"display_url": "pic.twitter.com/Vpz83Ps0ET",
+					"expanded_url": "https://twitter.com/KCON_official/status/1549923456564621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448998,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙KCON 2022 LA DAILY LINEUP ANNOUNCEMENT💚\n\nAre you ready to have fun at KCON 2022 LA?! \nLet's KCON! 🥳\nKCON 2022 LA를 즐길 준비 되셨나요?\n그렇다면 Let's KCON!🥳\n\n*All dates below are based on local time.\n*기재된 날짜는 모두 현지시간 기준입니다.\n\n#KCON #KCONUSA #KCON2022LA https://t.co/Vpz83Ps0ET"
+	},
+	{
+		"created_at": "Thu Jul 21 01:58:23 +0000 2022",
+		"id": 1549922378750124000,
+		"id_str": "1549936795353321475",
+		"full_text": "KCON 2022 LA의 무대를 빛내줄 파이널 라인업을 공개합니다!\nLet's enjoy KCON 2022 LA on AUG 20(PDT) with 💙@Stray_Kids💚\n\n🎫SHOW : https://t.co/MhOM2icemx\n🎫CONVENTION : https://t.co/H9QPXVFdow\n\n#KCON #KCONUSA #KCON2022LA https://t.co/T41N7ZShKx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						184,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stray_Kids",
+					"name": "Stray Kids",
+					"id": 859297966581891100,
+					"id_str": "859297966581891072",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MhOM2icemx",
+					"expanded_url": "https://bit.ly/3QMFbXs",
+					"display_url": "bit.ly/3QMFbXs",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/H9QPXVFdow",
+					"expanded_url": "https://bit.ly/3bBVQNv",
+					"display_url": "bit.ly/3bBVQNv",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/T41N7ZShKx",
+					"expanded_url": "https://twitter.com/kconusa/status/1549892156122333184",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448998,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549892156122333200,
+		"quoted_status_id_str": "1549892156122333184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T41N7ZShKx",
+			"expanded": "https://twitter.com/kconusa/status/1549892156122333184",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 20 23:01:00 +0000 2022",
+			"id": 1549892156122333200,
+			"id_str": "1549892156122333184",
+			"full_text": "Here is the FINAL LINEUP artists that will shine at KCON 2022 LA!\nLet's enjoy KCON 2022 LA on AUG 20(PDT) with 💙@Stray_Kids💚\n\n🎫SHOW : https://t.co/V4Eoc07tK8\n🎫CONVENTION : https://t.co/1AwynZAt0S\n\n#KCON #KCONUSA #KCON2022LA https://t.co/h8KKiX6foQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							197,
+							202
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							203,
+							211
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							212,
+							223
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Stray_Kids",
+						"name": "Stray Kids",
+						"id": 859297966581891100,
+						"id_str": "859297966581891072",
+						"indices": [
+							112,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V4Eoc07tK8",
+						"expanded_url": "https://bit.ly/3QMFbXs",
+						"display_url": "bit.ly/3QMFbXs",
+						"indices": [
+							134,
+							157
+						]
+					},
+					{
+						"url": "https://t.co/1AwynZAt0S",
+						"expanded_url": "https://bit.ly/3bBVQNv",
+						"display_url": "bit.ly/3bBVQNv",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1549812367269060600,
+						"id_str": "1549812367269060611",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/FYIKIwOUYAMWWqN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYIKIwOUYAMWWqN.jpg",
+						"url": "https://t.co/h8KKiX6foQ",
+						"display_url": "pic.twitter.com/h8KKiX6foQ",
+						"expanded_url": "https://twitter.com/kconusa/status/1549892156122333184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1549812367269060600,
+						"id_str": "1549812367269060611",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/FYIKIwOUYAMWWqN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYIKIwOUYAMWWqN.jpg",
+						"url": "https://t.co/h8KKiX6foQ",
+						"display_url": "pic.twitter.com/h8KKiX6foQ",
+						"expanded_url": "https://twitter.com/kconusa/status/1549892156122333184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222505,
+				"friends_count": 7,
+				"listed_count": 469,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20371,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7917,
+			"favorite_count": 30096,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA의 무대를 빛내줄 파이널 라인업을 공개합니다!\nLet's enjoy KCON 2022 LA on AUG 20(PDT) with 💙@Stray_Kids💚\n\n🎫SHOW : https://t.co/MhOM2icemx\n🎫CONVENTION : https://t.co/H9QPXVFdow\n\n#KCON #KCONUSA #KCON2022LA https://t.co/T41N7ZShKx"
+	},
+	{
 		"created_at": "Thu Jul 21 00:29:24 +0000 2022",
 		"id": 1549902537796358100,
 		"id_str": "1549914405462327298",
