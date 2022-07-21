@@ -1,6 +1,1024 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 09:29:55 +0000 2022",
+		"id": 1550049112057204700,
+		"id_str": "1550050429471539200",
+		"full_text": "[Behind]\n⠀\nWH3N(웬) '그만 미워할래' MV 촬영 비하인드가 공개되었습니다.\n지금 바로 멜론 매거진에서 확인해보세요!\n⠀\n▷ https://t.co/NWhW2v4mNK\n\n#WH3N #웬 #그만_미워할래 #Hero #비하인드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WH3N",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "웬",
+					"indices": [
+						108,
+						110
+					]
+				},
+				{
+					"text": "그만_미워할래",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "Hero",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NWhW2v4mNK",
+					"expanded_url": "https://bit.ly/3v0wEqr",
+					"display_url": "bit.ly/3v0wEqr",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7673,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1658307820",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Behind]\n⠀\nWH3N(웬) '그만 미워할래' MV 촬영 비하인드가 공개되었습니다.\n지금 바로 멜론 매거진에서 확인해보세요!\n⠀\n▷ https://t.co/NWhW2v4mNK\n\n#WH3N #웬 #그만_미워할래 #Hero #비하인드"
+	},
+	{
+		"created_at": "Thu Jul 21 09:29:49 +0000 2022",
+		"id": 1550045329394765800,
+		"id_str": "1550050403777220609",
+		"full_text": "[WH3N(웬) - '그만 미워할래' 바로듣기]\n\nMelon | https://t.co/mFGooNiQGT\nGenie | https://t.co/H7qW5xzgGk\nBugs | https://t.co/AkGo1p0vSx\nVIBE | https://t.co/iuJ8JIC99V\nFLO | https://t.co/z9alSTZNYI⠀\n\n#WH3N #웬 #그만_미워할래 #Hero",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WH3N",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "웬",
+					"indices": [
+						192,
+						194
+					]
+				},
+				{
+					"text": "그만_미워할래",
+					"indices": [
+						195,
+						203
+					]
+				},
+				{
+					"text": "Hero",
+					"indices": [
+						204,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mFGooNiQGT",
+					"expanded_url": "https://bit.ly/3ohSjqr",
+					"display_url": "bit.ly/3ohSjqr",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/H7qW5xzgGk",
+					"expanded_url": "https://bit.ly/3OnCoSa",
+					"display_url": "bit.ly/3OnCoSa",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/AkGo1p0vSx",
+					"expanded_url": "https://bit.ly/3OpESQ3",
+					"display_url": "bit.ly/3OpESQ3",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/iuJ8JIC99V",
+					"expanded_url": "https://bit.ly/3zon2sw",
+					"display_url": "bit.ly/3zon2sw",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/z9alSTZNYI",
+					"expanded_url": "https://bit.ly/3aScJmP",
+					"display_url": "bit.ly/3aScJmP",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1550043151225835500,
+		"in_reply_to_status_id_str": "1550043151225835520",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7673,
+			"friends_count": 4,
+			"listed_count": 63,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1658307820",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[WH3N(웬) - '그만 미워할래' 바로듣기]\n\nMelon | https://t.co/mFGooNiQGT\nGenie | https://t.co/H7qW5xzgGk\nBugs | https://t.co/AkGo1p0vSx\nVIBE | https://t.co/iuJ8JIC99V\nFLO | https://t.co/z9alSTZNYI⠀\n\n#WH3N #웬 #그만_미워할래 #Hero"
+	},
+	{
+		"created_at": "Thu Jul 21 09:29:45 +0000 2022",
+		"id": 1550044657907773400,
+		"id_str": "1550050386547036162",
+		"full_text": "#OuiOui\n\n🫧\n\n𝘖𝘶𝘪𝘖𝘶𝘪 [𝗪𝗘 (𝗢𝘂𝗶)]\n𝟤𝟢𝟤𝟤.𝟢𝟩.𝟤𝟧.𝟨𝖯𝖬(𝖪𝖲𝖳)\n\n#WEOui #위위 https://t.co/VFR3pP2ktL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "WEOui",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						58,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550044647132565500,
+					"id_str": "1550044647132565504",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdZOJVEAAYcCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdZOJVEAAYcCb.jpg",
+					"url": "https://t.co/VFR3pP2ktL",
+					"display_url": "pic.twitter.com/VFR3pP2ktL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044657907773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550044647132565500,
+					"id_str": "1550044647132565504",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdZOJVEAAYcCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdZOJVEAAYcCb.jpg",
+					"url": "https://t.co/VFR3pP2ktL",
+					"display_url": "pic.twitter.com/VFR3pP2ktL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044657907773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550044647136694300,
+					"id_str": "1550044647136694272",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdZOKUEAAdb88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdZOKUEAAdb88.jpg",
+					"url": "https://t.co/VFR3pP2ktL",
+					"display_url": "pic.twitter.com/VFR3pP2ktL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044657907773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550044647904268300,
+					"id_str": "1550044647904268288",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdZRBUUAA2FZV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdZRBUUAA2FZV.jpg",
+					"url": "https://t.co/VFR3pP2ktL",
+					"display_url": "pic.twitter.com/VFR3pP2ktL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044657907773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#OuiOui\n\n🫧\n\n𝘖𝘶𝘪𝘖𝘶𝘪 [𝗪𝗘 (𝗢𝘂𝗶)]\n𝟤𝟢𝟤𝟤.𝟢𝟩.𝟤𝟧.𝟨𝖯𝖬(𝖪𝖲𝖳)\n\n#WEOui #위위 https://t.co/VFR3pP2ktL"
+	},
+	{
+		"created_at": "Thu Jul 21 09:29:42 +0000 2022",
+		"id": 1550044552756547600,
+		"id_str": "1550050373519409153",
+		"full_text": "#OuiOui\n\n🫧\n\n𝘖𝘶𝘪𝘖𝘶𝘪 [𝗪𝗘 (𝗢𝘂𝗶)]\n𝟤𝟢𝟤𝟤.𝟢𝟩.𝟤𝟧.𝟨𝖯𝖬(𝖪𝖲𝖳)\n\n#WEOui #위위 https://t.co/oqiT0e8aTL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "WEOui",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						58,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550044539053674500,
+					"id_str": "1550044539053674498",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdS7hUEAIKbdo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdS7hUEAIKbdo.jpg",
+					"url": "https://t.co/oqiT0e8aTL",
+					"display_url": "pic.twitter.com/oqiT0e8aTL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044552756547584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550044539053674500,
+					"id_str": "1550044539053674498",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdS7hUEAIKbdo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdS7hUEAIKbdo.jpg",
+					"url": "https://t.co/oqiT0e8aTL",
+					"display_url": "pic.twitter.com/oqiT0e8aTL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044552756547584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550044539045302300,
+					"id_str": "1550044539045302272",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdS7fUUAAh2w4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdS7fUUAAh2w4.jpg",
+					"url": "https://t.co/oqiT0e8aTL",
+					"display_url": "pic.twitter.com/oqiT0e8aTL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044552756547584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550044539045363700,
+					"id_str": "1550044539045363712",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLdS7fVQAAN2E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLdS7fVQAAN2E3.jpg",
+					"url": "https://t.co/oqiT0e8aTL",
+					"display_url": "pic.twitter.com/oqiT0e8aTL",
+					"expanded_url": "https://twitter.com/inplanet/status/1550044552756547584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#OuiOui\n\n🫧\n\n𝘖𝘶𝘪𝘖𝘶𝘪 [𝗪𝗘 (𝗢𝘂𝗶)]\n𝟤𝟢𝟤𝟤.𝟢𝟩.𝟤𝟧.𝟨𝖯𝖬(𝖪𝖲𝖳)\n\n#WEOui #위위 https://t.co/oqiT0e8aTL"
+	},
+	{
+		"created_at": "Thu Jul 21 09:29:34 +0000 2022",
+		"id": 1550044148488896500,
+		"id_str": "1550050339486924803",
+		"full_text": "타다: 대한민국 스타트업의 초상 OST\n\nMelon https://t.co/odVyMWUDfu\nGenie https://t.co/D4gtKvAd8r\nBugs https://t.co/5KTjRYbGI1\nFLO https://t.co/S82G0K59gL\n\n@SCJAZZY \n#YunSeokCheol\n#다큐멘터리타다 #Driving",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						151,
+						164
+					]
+				},
+				{
+					"text": "다큐멘터리타다",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "Driving",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/odVyMWUDfu",
+					"expanded_url": "http://bit.ly/3zmDrh1",
+					"display_url": "bit.ly/3zmDrh1",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/D4gtKvAd8r",
+					"expanded_url": "http://bit.ly/3OmwyR6",
+					"display_url": "bit.ly/3OmwyR6",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/5KTjRYbGI1",
+					"expanded_url": "http://bit.ly/3RMd3nQ",
+					"display_url": "bit.ly/3RMd3nQ",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/S82G0K59gL",
+					"expanded_url": "http://bit.ly/3RQ3XX9",
+					"display_url": "bit.ly/3RQ3XX9",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550044144483336200,
+		"in_reply_to_status_id_str": "1550044144483336192",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40614,
+			"friends_count": 12,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타다: 대한민국 스타트업의 초상 OST\n\nMelon https://t.co/odVyMWUDfu\nGenie https://t.co/D4gtKvAd8r\nBugs https://t.co/5KTjRYbGI1\nFLO https://t.co/S82G0K59gL\n\n@SCJAZZY \n#YunSeokCheol\n#다큐멘터리타다 #Driving"
+	},
+	{
 		"created_at": "Thu Jul 21 09:11:23 +0000 2022",
 		"id": 1550040539650592800,
 		"id_str": "1550045763652165632",
