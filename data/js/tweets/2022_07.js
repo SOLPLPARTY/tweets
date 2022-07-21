@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 19:58:18 +0000 2022",
+		"id": 1550195611169095700,
+		"id_str": "1550208565889179652",
+		"full_text": "KCON 2022 Relay Performance Challenge✨\nKCON에서 다시 보고 싶은 아티스트 TOP 10을 선정해주세요😎\n선정된 아티스트의 무대를 KCON 2022에서 새롭게 재현합니다!\n\n📅 투표기간 : 7/21(THU) 12PM ~ 7/24(SUN) 12PM (PDT)\n📃 https://t.co/crdMPndzSf\n\n#KCON #KCONUSA #KCON2022LA https://t.co/jdOCos96YH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						203,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/crdMPndzSf",
+					"expanded_url": "https://bit.ly/3Oi1t0I",
+					"display_url": "bit.ly/3Oi1t0I",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1550195465752543200,
+					"id_str": "1550195465752543232",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FYNmkBSaAAAChDk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYNmkBSaAAAChDk.jpg",
+					"url": "https://t.co/jdOCos96YH",
+					"display_url": "pic.twitter.com/jdOCos96YH",
+					"expanded_url": "https://twitter.com/KCON_official/status/1550195611169095680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550195465752543200,
+					"id_str": "1550195465752543232",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FYNmkBSaAAAChDk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYNmkBSaAAAChDk.jpg",
+					"url": "https://t.co/jdOCos96YH",
+					"display_url": "pic.twitter.com/jdOCos96YH",
+					"expanded_url": "https://twitter.com/KCON_official/status/1550195611169095680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550195465773527000,
+					"id_str": "1550195465773527040",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FYNmkBXaMAA7mDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYNmkBXaMAA7mDe.jpg",
+					"url": "https://t.co/jdOCos96YH",
+					"display_url": "pic.twitter.com/jdOCos96YH",
+					"expanded_url": "https://twitter.com/KCON_official/status/1550195611169095680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550195465752543200,
+					"id_str": "1550195465752543233",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FYNmkBSaAAENkU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYNmkBSaAAENkU6.jpg",
+					"url": "https://t.co/jdOCos96YH",
+					"display_url": "pic.twitter.com/jdOCos96YH",
+					"expanded_url": "https://twitter.com/KCON_official/status/1550195611169095680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1550193902115688400,
+		"in_reply_to_status_id_str": "1550193902115688448",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449142,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 Relay Performance Challenge✨\nKCON에서 다시 보고 싶은 아티스트 TOP 10을 선정해주세요😎\n선정된 아티스트의 무대를 KCON 2022에서 새롭게 재현합니다!\n\n📅 투표기간 : 7/21(THU) 12PM ~ 7/24(SUN) 12PM (PDT)\n📃 https://t.co/crdMPndzSf\n\n#KCON #KCONUSA #KCON2022LA https://t.co/jdOCos96YH"
+	},
+	{
 		"created_at": "Thu Jul 21 18:58:15 +0000 2022",
 		"id": 1550179748890148900,
 		"id_str": "1550193453040009216",
