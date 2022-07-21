@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 05:29:25 +0000 2022",
+		"id": 1549982501744955400,
+		"id_str": "1549989903726944257",
+		"full_text": "장기하 단독 공연 [공중부양] 앵콜 - 티켓 오픈 공지\n\n📍티켓 오픈 \n- 티켓 오픈: 7.26(화) 2pm \n- 예매처 : 멜론티켓 (https://t.co/UVQV6lQDpL) https://t.co/2N6FW7KMfN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVQV6lQDpL",
+					"expanded_url": "http://ticket.melon.com",
+					"display_url": "ticket.melon.com",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549973375774503000,
+					"id_str": "1549973375774502912",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKckrpaMAATbhW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKckrpaMAATbhW.jpg",
+					"url": "https://t.co/2N6FW7KMfN",
+					"display_url": "pic.twitter.com/2N6FW7KMfN",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1549982501744955394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549973375774503000,
+					"id_str": "1549973375774502912",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKckrpaMAATbhW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKckrpaMAATbhW.jpg",
+					"url": "https://t.co/2N6FW7KMfN",
+					"display_url": "pic.twitter.com/2N6FW7KMfN",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1549982501744955394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549973393159897000,
+					"id_str": "1549973393159897088",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKclsaaQAAM4rv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKclsaaQAAM4rv.jpg",
+					"url": "https://t.co/2N6FW7KMfN",
+					"display_url": "pic.twitter.com/2N6FW7KMfN",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1549982501744955394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549973410482385000,
+					"id_str": "1549973410482384896",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKcms8acAAYYsR.png",
+					"media_url_https": "https://pbs.twimg.com/media/FYKcms8acAAYYsR.png",
+					"url": "https://t.co/2N6FW7KMfN",
+					"display_url": "pic.twitter.com/2N6FW7KMfN",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1549982501744955394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1549973424197738500,
+					"id_str": "1549973424197738496",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKcngCaIAAHYuo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKcngCaIAAHYuo.jpg",
+					"url": "https://t.co/2N6FW7KMfN",
+					"display_url": "pic.twitter.com/2N6FW7KMfN",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1549982501744955394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4035,
+			"friends_count": 11,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하 단독 공연 [공중부양] 앵콜 - 티켓 오픈 공지\n\n📍티켓 오픈 \n- 티켓 오픈: 7.26(화) 2pm \n- 예매처 : 멜론티켓 (https://t.co/UVQV6lQDpL) https://t.co/2N6FW7KMfN"
+	},
+	{
 		"created_at": "Thu Jul 21 04:44:17 +0000 2022",
 		"id": 1549978546801496000,
 		"id_str": "1549978546801496065",
