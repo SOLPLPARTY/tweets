@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 14:11:17 +0000 2022",
+		"id": 1550118922996723700,
+		"id_str": "1550121236654477313",
+		"full_text": "[📣시꾸러미 클럽]\n\n재미공작소와 이혜미 시인이 함께 진행하는 시꾸러미 클럽이 술술센터의 술술반상회 7월 프로그램으로 열립니다! \n영등포에서 거주 혹은 활동하는 누구나 무료로 참여하실 수 있어요✍️\n(*인원 미달 시 타 지역구민도 참여 가능)\n\n신청 링크: https://t.co/i0CaWMg7e3 https://t.co/TLwj86DfyN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i0CaWMg7e3",
+					"expanded_url": "https://m.booking.naver.com/booking/12/bizes/669497/items/4522710",
+					"display_url": "m.booking.naver.com/booking/12/biz…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1550118822807367700,
+					"id_str": "1550118822807367680",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FYMg20EUcAA4yNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYMg20EUcAA4yNv.jpg",
+					"url": "https://t.co/TLwj86DfyN",
+					"display_url": "pic.twitter.com/TLwj86DfyN",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1550118922996723713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550118822807367700,
+					"id_str": "1550118822807367680",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FYMg20EUcAA4yNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYMg20EUcAA4yNv.jpg",
+					"url": "https://t.co/TLwj86DfyN",
+					"display_url": "pic.twitter.com/TLwj86DfyN",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1550118922996723713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550118822769598500,
+					"id_str": "1550118822769598465",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FYMg2z7UIAEAAC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYMg2z7UIAEAAC-.jpg",
+					"url": "https://t.co/TLwj86DfyN",
+					"display_url": "pic.twitter.com/TLwj86DfyN",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1550118922996723713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550118822815838200,
+					"id_str": "1550118822815838210",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FYMg20GVsAIz64k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYMg20GVsAIz64k.jpg",
+					"url": "https://t.co/TLwj86DfyN",
+					"display_url": "pic.twitter.com/TLwj86DfyN",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1550118922996723713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8377,
+			"friends_count": 550,
+			"listed_count": 80,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📣시꾸러미 클럽]\n\n재미공작소와 이혜미 시인이 함께 진행하는 시꾸러미 클럽이 술술센터의 술술반상회 7월 프로그램으로 열립니다! \n영등포에서 거주 혹은 활동하는 누구나 무료로 참여하실 수 있어요✍️\n(*인원 미달 시 타 지역구민도 참여 가능)\n\n신청 링크: https://t.co/i0CaWMg7e3 https://t.co/TLwj86DfyN"
+	},
+	{
 		"created_at": "Thu Jul 21 11:29:25 +0000 2022",
 		"id": 1550078268719743000,
 		"id_str": "1550080500475232256",
