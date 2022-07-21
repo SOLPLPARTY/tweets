@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 17:58:15 +0000 2022",
+		"id": 1550176278057169000,
+		"id_str": "1550178353830920192",
+		"full_text": "💙KCON 2022 LA, AUG 19-21💚\n\nSHOW, KCON ROOKIES, MEET&amp;GREET\nCheck out the artists who will be on the various programs at KCON!\nSee you at KCON 2022 LA✨\n\nKCON의 다양한 프로그램에 함께하는 아티스트를 확인해 보세요!\nKCON 2022 LA에서 만나요✨\n\n#KCON #KCONUSA #KCON2022LA https://t.co/VvWbFqgg2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						227,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550080620357124000,
+					"id_str": "1550080620357124098",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FYL-HI2agAIOgcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYL-HI2agAIOgcC.jpg",
+					"url": "https://t.co/VvWbFqgg2M",
+					"display_url": "pic.twitter.com/VvWbFqgg2M",
+					"expanded_url": "https://twitter.com/KCON_official/status/1550176278057168896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550080620357124000,
+					"id_str": "1550080620357124098",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FYL-HI2agAIOgcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYL-HI2agAIOgcC.jpg",
+					"url": "https://t.co/VvWbFqgg2M",
+					"display_url": "pic.twitter.com/VvWbFqgg2M",
+					"expanded_url": "https://twitter.com/KCON_official/status/1550176278057168896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449118,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙KCON 2022 LA, AUG 19-21💚\n\nSHOW, KCON ROOKIES, MEET&amp;GREET\nCheck out the artists who will be on the various programs at KCON!\nSee you at KCON 2022 LA✨\n\nKCON의 다양한 프로그램에 함께하는 아티스트를 확인해 보세요!\nKCON 2022 LA에서 만나요✨\n\n#KCON #KCONUSA #KCON2022LA https://t.co/VvWbFqgg2M"
+	},
+	{
 		"created_at": "Thu Jul 21 14:40:28 +0000 2022",
 		"id": 1550128580910190600,
 		"id_str": "1550128580910190595",
