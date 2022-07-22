@@ -1,6 +1,791 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 06:58:19 +0000 2022",
+		"id": 1550360980701728800,
+		"id_str": "1550374663548968960",
+		"full_text": "면접 불참자는 자동 탈락됨을 알려드리며, 안내 받은 시간에 면접 참여가 어려우신 분께서는 📞사무국으로 연락주시면 면접 시간을 조정📞해드리도록 하겠습니다.\n\n면접 시간 조정이 필요하신 분들은 업무 시간 내에 사무국으로 연락주시기 바랍니다.\n\n📞문의 : 063-220-8221 (전주MBC JUMF 사무국)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1550360977354662000,
+		"in_reply_to_status_id_str": "1550360977354661888",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1075,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "면접 불참자는 자동 탈락됨을 알려드리며, 안내 받은 시간에 면접 참여가 어려우신 분께서는 📞사무국으로 연락주시면 면접 시간을 조정📞해드리도록 하겠습니다.\n\n면접 시간 조정이 필요하신 분들은 업무 시간 내에 사무국으로 연락주시기 바랍니다.\n\n📞문의 : 063-220-8221 (전주MBC JUMF 사무국)"
+	},
+	{
+		"created_at": "Fri Jul 22 06:58:14 +0000 2022",
+		"id": 1550360977354662000,
+		"id_str": "1550374646045974528",
+		"full_text": "🎈자원활동가(JUMFIE) 서류합격 및 면접 안내🎈\n\n안녕하세요. JUMF2022 사무국입니다!\n\n많은분들께서 지원해주신 2022 전주얼티밋뮤직페스티벌 자원활동가 서류전형이 마무리되었습니다.\n\n오후 3시를 기점으로 서류 합격 문자가 발송되었으니, 데이터 수신 꼭 확인하시어 문자 수신해주시기 바랍니다. https://t.co/BWcNcmF0bv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550353092910420000,
+					"id_str": "1550353092910419968",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP17INakAAvS2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP17INakAAvS2R.jpg",
+					"url": "https://t.co/BWcNcmF0bv",
+					"display_url": "pic.twitter.com/BWcNcmF0bv",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1550360977354661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550353092910420000,
+					"id_str": "1550353092910419968",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP17INakAAvS2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP17INakAAvS2R.jpg",
+					"url": "https://t.co/BWcNcmF0bv",
+					"display_url": "pic.twitter.com/BWcNcmF0bv",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1550360977354661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1075,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎈자원활동가(JUMFIE) 서류합격 및 면접 안내🎈\n\n안녕하세요. JUMF2022 사무국입니다!\n\n많은분들께서 지원해주신 2022 전주얼티밋뮤직페스티벌 자원활동가 서류전형이 마무리되었습니다.\n\n오후 3시를 기점으로 서류 합격 문자가 발송되었으니, 데이터 수신 꼭 확인하시어 문자 수신해주시기 바랍니다. https://t.co/BWcNcmF0bv"
+	},
+	{
+		"created_at": "Fri Jul 22 06:29:38 +0000 2022",
+		"id": 1550355206181109800,
+		"id_str": "1550367446875480071",
+		"full_text": "[솔루션스 | 클럽 투어 3회차 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n🎸 3rd 7.28 (Thu) : HUKEZ\n🔗 https://t.co/WCKduZfhux\n\n자세한 사항은 상단 링크를 통해 솔루션스 공식 인스타그램에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/jhXl19h6pk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIVE",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "2022THESOLUTIONSCLUBTOUR",
+					"indices": [
+						168,
+						193
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						194,
+						207
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "클럽투어",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCKduZfhux",
+					"expanded_url": "https://bit.ly/3yRqmuA",
+					"display_url": "bit.ly/3yRqmuA",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1550355155962728400,
+					"id_str": "1550355155962728448",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP3zNrakAA5DoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP3zNrakAA5DoF.jpg",
+					"url": "https://t.co/jhXl19h6pk",
+					"display_url": "pic.twitter.com/jhXl19h6pk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1550355206181109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550355155962728400,
+					"id_str": "1550355155962728448",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP3zNrakAA5DoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP3zNrakAA5DoF.jpg",
+					"url": "https://t.co/jhXl19h6pk",
+					"display_url": "pic.twitter.com/jhXl19h6pk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1550355206181109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550355156159836200,
+					"id_str": "1550355156159836161",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP3zOaaMAEz7rd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP3zOaaMAEz7rd.jpg",
+					"url": "https://t.co/jhXl19h6pk",
+					"display_url": "pic.twitter.com/jhXl19h6pk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1550355206181109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12952,
+			"friends_count": 1915,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 클럽 투어 3회차 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n🎸 3rd 7.28 (Thu) : HUKEZ\n🔗 https://t.co/WCKduZfhux\n\n자세한 사항은 상단 링크를 통해 솔루션스 공식 인스타그램에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/jhXl19h6pk"
+	},
+	{
+		"created_at": "Fri Jul 22 06:29:35 +0000 2022",
+		"id": 1550354806719803400,
+		"id_str": "1550367433302708231",
+		"full_text": "[솔루션스 | 클럽 투어 2회차 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n🎸 2nd 7.24 (Sun) : Bender\n🔗 https://t.co/Fm3wYm1NbC\n\n자세한 사항은 상단 링크를 통해 솔루션스 공식 인스타그램에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/9xZogRo3Td",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIVE",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "2022THESOLUTIONSCLUBTOUR",
+					"indices": [
+						169,
+						194
+					]
+				},
+				{
+					"text": "THESOLUTIONS",
+					"indices": [
+						195,
+						208
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						209,
+						214
+					]
+				},
+				{
+					"text": "클럽투어",
+					"indices": [
+						215,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fm3wYm1NbC",
+					"expanded_url": "https://bit.ly/3OpydFy",
+					"display_url": "bit.ly/3OpydFy",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1550354616520687600,
+					"id_str": "1550354616520687617",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP3T0GaQAESjQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP3T0GaQAESjQc.jpg",
+					"url": "https://t.co/9xZogRo3Td",
+					"display_url": "pic.twitter.com/9xZogRo3Td",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1550354806719803392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550354616520687600,
+					"id_str": "1550354616520687617",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP3T0GaQAESjQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP3T0GaQAESjQc.jpg",
+					"url": "https://t.co/9xZogRo3Td",
+					"display_url": "pic.twitter.com/9xZogRo3Td",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1550354806719803392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550354616516505600,
+					"id_str": "1550354616516505600",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FYP3T0FacAAAY3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYP3T0FacAAAY3s.jpg",
+					"url": "https://t.co/9xZogRo3Td",
+					"display_url": "pic.twitter.com/9xZogRo3Td",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1550354806719803392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12952,
+			"friends_count": 1915,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[솔루션스 | 클럽 투어 2회차 안내]\n\n2022 THE SOLUTIONS CLUB TOUR : NAIVE\n\n🎸 2nd 7.24 (Sun) : Bender\n🔗 https://t.co/Fm3wYm1NbC\n\n자세한 사항은 상단 링크를 통해 솔루션스 공식 인스타그램에서 확인하실 수 있습니다.\n\n#NAIVE #2022THESOLUTIONSCLUBTOUR\n#THESOLUTIONS #솔루션스\n#클럽투어 https://t.co/9xZogRo3Td"
+	},
+	{
 		"created_at": "Fri Jul 22 05:29:25 +0000 2022",
 		"id": 1550345478981955600,
 		"id_str": "1550352291185758210",
