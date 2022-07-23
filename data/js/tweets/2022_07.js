@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 23 01:58:21 +0000 2022",
+		"id": 1550646987904909300,
+		"id_str": "1550661566147723264",
+		"full_text": "💙WELCOME TO KCON 2022 LA💚\n\n띵동🔔 KCON-ers를 위한 초대장이 왔습니다💌\n\n8월, 단 3일 동안 펼쳐지는 새로운 KCON WORLD로 초대합니다!\n10주년을 맞이한 KCON 2022 LA에서만 만날 수 있는 FUN을 찾아보세요👀\n\n8/19-21(PDT)에 만나요! Let's KCON🥳\n\n#KCON #KCONUSA #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						190,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550646882011123700,
+		"in_reply_to_status_id_str": "1550646882011123718",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21 (PDT)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449617,
+			"friends_count": 76,
+			"listed_count": 1123,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💙WELCOME TO KCON 2022 LA💚\n\n띵동🔔 KCON-ers를 위한 초대장이 왔습니다💌\n\n8월, 단 3일 동안 펼쳐지는 새로운 KCON WORLD로 초대합니다!\n10주년을 맞이한 KCON 2022 LA에서만 만날 수 있는 FUN을 찾아보세요👀\n\n8/19-21(PDT)에 만나요! Let's KCON🥳\n\n#KCON #KCONUSA #KCON2022LA"
+	},
+	{
 		"created_at": "Fri Jul 22 16:11:22 +0000 2022",
 		"id": 1550512315992346600,
 		"id_str": "1550513844547878917",
