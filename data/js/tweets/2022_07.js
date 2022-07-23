@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 23 03:29:24 +0000 2022",
+		"id": 1550682825619169300,
+		"id_str": "1550684479450189824",
+		"full_text": "오늘 서울과 대구에서 같은 시간 두 공연이 열립니다. 두 공연 모두 현매 가능합니다. \n\n🌿스트레인지 프룻 17주년\n스트레인지 프룻 7시\n김일두 / 다정\n\n🌿음악에는 성별이 없다\n대구 헤비 7시\n드링킹소년소녀합창단 / 오늘도 무사히 / 전복들 / 빈달 https://t.co/qglOdBK8qv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550682813807992800,
+					"id_str": "1550682813807992836",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FYUhzaRUIAQMC5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYUhzaRUIAQMC5s.jpg",
+					"url": "https://t.co/qglOdBK8qv",
+					"display_url": "pic.twitter.com/qglOdBK8qv",
+					"expanded_url": "https://twitter.com/electric_muse/status/1550682825619169280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550682813807992800,
+					"id_str": "1550682813807992836",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FYUhzaRUIAQMC5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYUhzaRUIAQMC5s.jpg",
+					"url": "https://t.co/qglOdBK8qv",
+					"display_url": "pic.twitter.com/qglOdBK8qv",
+					"expanded_url": "https://twitter.com/electric_muse/status/1550682825619169280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550682813820678100,
+					"id_str": "1550682813820678145",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FYUhzaUVsAESxAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYUhzaUVsAESxAE.jpg",
+					"url": "https://t.co/qglOdBK8qv",
+					"display_url": "pic.twitter.com/qglOdBK8qv",
+					"expanded_url": "https://twitter.com/electric_muse/status/1550682825619169280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3314,
+			"friends_count": 1291,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 서울과 대구에서 같은 시간 두 공연이 열립니다. 두 공연 모두 현매 가능합니다. \n\n🌿스트레인지 프룻 17주년\n스트레인지 프룻 7시\n김일두 / 다정\n\n🌿음악에는 성별이 없다\n대구 헤비 7시\n드링킹소년소녀합창단 / 오늘도 무사히 / 전복들 / 빈달 https://t.co/qglOdBK8qv"
+	},
+	{
 		"created_at": "Sat Jul 23 03:14:28 +0000 2022",
 		"id": 1550680721705951200,
 		"id_str": "1550680721705951232",
