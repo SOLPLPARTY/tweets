@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 24 11:29:25 +0000 2022",
+		"id": 1551162350547247000,
+		"id_str": "1551167664688611328",
+		"full_text": "이틀 동안 보라미유의 공연을 찾아와주신 모든 분들에게 감사드립니다🥰\n너무나도 소중한 시간이었어요😊\n앞으로도 보라미유와 오래오래 함께해요!💜🐶💜\n\n#보라미유 #Feeling\n#BORAMIYU #단독콘서트 https://t.co/QsAQmqEB0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "Feeling",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551162341181427700,
+					"id_str": "1551162341181427712",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FYbV7k8VEAAUBxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYbV7k8VEAAUBxZ.jpg",
+					"url": "https://t.co/QsAQmqEB0a",
+					"display_url": "pic.twitter.com/QsAQmqEB0a",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1551162350547247104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551162341181427700,
+					"id_str": "1551162341181427712",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FYbV7k8VEAAUBxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYbV7k8VEAAUBxZ.jpg",
+					"url": "https://t.co/QsAQmqEB0a",
+					"display_url": "pic.twitter.com/QsAQmqEB0a",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1551162350547247104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7667,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1658307820",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이틀 동안 보라미유의 공연을 찾아와주신 모든 분들에게 감사드립니다🥰\n너무나도 소중한 시간이었어요😊\n앞으로도 보라미유와 오래오래 함께해요!💜🐶💜\n\n#보라미유 #Feeling\n#BORAMIYU #단독콘서트 https://t.co/QsAQmqEB0a"
+	},
+	{
 		"created_at": "Sun Jul 24 07:29:31 +0000 2022",
 		"id": 1551098187674693600,
 		"id_str": "1551107293751779328",
