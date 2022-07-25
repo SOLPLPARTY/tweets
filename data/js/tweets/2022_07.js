@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 04:29:27 +0000 2022",
+		"id": 1551419947942699000,
+		"id_str": "1551424366331715584",
+		"full_text": "A teaser poster of the New ENA Wednesday and Thursday drama 'Good Job', starring KWON YURI, has been revealed! \n\nThe first episode will air in August!\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob\n#소녀시대 #GirlsGeneration https://t.co/tAu8yxvxGD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "GoodJob",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551419748306456600,
+					"id_str": "1551419748306456576",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FYfACpNVEAAXu-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYfACpNVEAAXu-6.jpg",
+					"url": "https://t.co/tAu8yxvxGD",
+					"display_url": "pic.twitter.com/tAu8yxvxGD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1551419947942699008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551419748306456600,
+					"id_str": "1551419748306456576",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FYfACpNVEAAXu-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYfACpNVEAAXu-6.jpg",
+					"url": "https://t.co/tAu8yxvxGD",
+					"display_url": "pic.twitter.com/tAu8yxvxGD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1551419947942699008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11044678,
+			"friends_count": 56,
+			"listed_count": 12472,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1480,
+		"favorite_count": 4098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A teaser poster of the New ENA Wednesday and Thursday drama 'Good Job', starring KWON YURI, has been revealed! \n\nThe first episode will air in August!\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob\n#소녀시대 #GirlsGeneration https://t.co/tAu8yxvxGD"
+	},
+	{
 		"created_at": "Mon Jul 25 04:11:55 +0000 2022",
 		"id": 1551419954104189000,
 		"id_str": "1551419954104188929",
