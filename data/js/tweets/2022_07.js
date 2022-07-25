@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 09:16:19 +0000 2022",
+		"id": 1551496559774183400,
+		"id_str": "1551496559774183424",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Playlist] 널 만난 여름으로 갈거야, 그때 난 아무것도 없었지만 | 여름 휴가 갈때 듣는 플리 | MSB Sound\nhttps://t.co/Akf2xnTuYW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Akf2xnTuYW",
+					"expanded_url": "https://youtu.be/w4DP7dYbZ1g",
+					"display_url": "youtu.be/w4DP7dYbZ1g",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Playlist] 널 만난 여름으로 갈거야, 그때 난 아무것도 없었지만 | 여름 휴가 갈때 듣는 플리 | MSB Sound\nhttps://t.co/Akf2xnTuYW"
+	},
+	{
+		"created_at": "Mon Jul 25 09:13:45 +0000 2022",
+		"id": 1551495910420451300,
+		"id_str": "1551495910420451329",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n세계 TOP 하피스트 라비니아 마이어와 함께하는 젠가 인터뷰\nhttps://t.co/fnkF0ne9rd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fnkF0ne9rd",
+					"expanded_url": "https://youtu.be/Lv0NMmpkoSg",
+					"display_url": "youtu.be/Lv0NMmpkoSg",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n세계 TOP 하피스트 라비니아 마이어와 함께하는 젠가 인터뷰\nhttps://t.co/fnkF0ne9rd"
+	},
+	{
+		"created_at": "Mon Jul 25 09:05:14 +0000 2022",
+		"id": 1551493769509294000,
+		"id_str": "1551493769509294080",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nLauRel - Riverside (feat. 이범서) [Lyric Video]\nhttps://t.co/g68nNhjxH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g68nNhjxH9",
+					"expanded_url": "https://youtu.be/N8J1UKs1h2o",
+					"display_url": "youtu.be/N8J1UKs1h2o",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nLauRel - Riverside (feat. 이범서) [Lyric Video]\nhttps://t.co/g68nNhjxH9"
+	},
+	{
+		"created_at": "Mon Jul 25 08:58:27 +0000 2022",
+		"id": 1551489967477895200,
+		"id_str": "1551492061282680832",
+		"full_text": "#김창완밴드 #10CM #봄여름가을겨울 #김완선밴드 #크래쉬 #멍키헤드 #메써드 #YB #다이나믹듀오 #코요태 #로맨틱펀치 #크라잉넛 #노브레인 #디아블로 #해리빅버튼 #소닉스톤즈 #해머링 #자우림 #빅마마 #자이언티 #데이브레이크 #소란 #이영지 #래원 #안녕바다 #더더  #메스그램 #루크맥퀸 #차수연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김창완밴드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "봄여름가을겨울",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "김완선밴드",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "크래쉬",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "멍키헤드",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "메써드",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "YB",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "다이나믹듀오",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "코요태",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "로맨틱펀치",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "크라잉넛",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "노브레인",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "디아블로",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "해리빅버튼",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "소닉스톤즈",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "해머링",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "빅마마",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "자이언티",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "이영지",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "래원",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "안녕바다",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "더더",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "메스그램",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "루크맥퀸",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "차수연",
+					"indices": [
+						166,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1551489965154271200,
+		"in_reply_to_status_id_str": "1551489965154271232",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 1073,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#김창완밴드 #10CM #봄여름가을겨울 #김완선밴드 #크래쉬 #멍키헤드 #메써드 #YB #다이나믹듀오 #코요태 #로맨틱펀치 #크라잉넛 #노브레인 #디아블로 #해리빅버튼 #소닉스톤즈 #해머링 #자우림 #빅마마 #자이언티 #데이브레이크 #소란 #이영지 #래원 #안녕바다 #더더  #메스그램 #루크맥퀸 #차수연"
+	},
+	{
+		"created_at": "Mon Jul 25 08:58:18 +0000 2022",
+		"id": 1551489965154271200,
+		"id_str": "1551492023097720832",
+		"full_text": "더불어, 정규 티켓 오픈 전 마지막 10% 할인 티켓을 오픈합니다!\n\n▽사전예매 10% 할인 티켓 오픈\n7월 26일(화) 오후 2시 ~ 한정수량 소진시까지 \n\n▽티켓예매처 \n네이버, 티켓링크\n\n#JUMF #JUMF2022 #라인업공개 \nhttps://t.co/1xnrngf6AF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "JUMF2022",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "라인업공개",
+					"indices": [
+						124,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1xnrngf6AF",
+					"expanded_url": "http://jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1551489959152201700,
+		"in_reply_to_status_id_str": "1551489959152201728",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 1073,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더불어, 정규 티켓 오픈 전 마지막 10% 할인 티켓을 오픈합니다!\n\n▽사전예매 10% 할인 티켓 오픈\n7월 26일(화) 오후 2시 ~ 한정수량 소진시까지 \n\n▽티켓예매처 \n네이버, 티켓링크\n\n#JUMF #JUMF2022 #라인업공개 \nhttps://t.co/1xnrngf6AF"
+	},
+	{
 		"created_at": "Mon Jul 25 08:11:34 +0000 2022",
 		"id": 1551480261715509200,
 		"id_str": "1551480261715509249",
