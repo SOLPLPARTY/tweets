@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 10:29:43 +0000 2022",
+		"id": 1551511106262560800,
+		"id_str": "1551515028083380225",
+		"full_text": "5년 만의 정규 4집 [저장된 풍경]을 발표한 김목인이 하루 동안 작은 가게를 엽니다. 문래동 재미공작소에서 열리는 이번 팝업샵에서는 다양한 장르의 창작 과정을 엿볼 수 있는 소규모 전시와 함께 그간 발표한 음반, 책, 굿즈 등을 직접 판매합니다. 오후 7시에는 작은 공연도 열립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1551511102772883500,
+		"in_reply_to_status_id_str": "1551511102772883456",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3314,
+			"friends_count": 1291,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "5년 만의 정규 4집 [저장된 풍경]을 발표한 김목인이 하루 동안 작은 가게를 엽니다. 문래동 재미공작소에서 열리는 이번 팝업샵에서는 다양한 장르의 창작 과정을 엿볼 수 있는 소규모 전시와 함께 그간 발표한 음반, 책, 굿즈 등을 직접 판매합니다. 오후 7시에는 작은 공연도 열립니다."
+	},
+	{
+		"created_at": "Mon Jul 25 10:29:37 +0000 2022",
+		"id": 1551511102772883500,
+		"id_str": "1551515002477203456",
+		"full_text": "김목인의 작은 가게\n2022.08.13(토) PM1-8\n재미공작소\n무료입장(7시 공연은 사전예약)\n\n*공연 사전예약\nhttps://t.co/fp8acOEHFb\n*문의 electricmuse@naver.com\n*음반과 굿즈 구입시 카드 결제 가능합니다.\n*본 행사는 서울라이브 지원으로 제작되었습니다. https://t.co/91bMGrjY5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fp8acOEHFb",
+					"expanded_url": "https://bit.ly/3ztfvsa",
+					"display_url": "bit.ly/3ztfvsa",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551510501137727500,
+					"id_str": "1551510501137727488",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FYgSlJ2aQAA7Pul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYgSlJ2aQAA7Pul.jpg",
+					"url": "https://t.co/91bMGrjY5F",
+					"display_url": "pic.twitter.com/91bMGrjY5F",
+					"expanded_url": "https://twitter.com/electric_muse/status/1551511102772883456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551510501137727500,
+					"id_str": "1551510501137727488",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FYgSlJ2aQAA7Pul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYgSlJ2aQAA7Pul.jpg",
+					"url": "https://t.co/91bMGrjY5F",
+					"display_url": "pic.twitter.com/91bMGrjY5F",
+					"expanded_url": "https://twitter.com/electric_muse/status/1551511102772883456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3314,
+			"friends_count": 1291,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김목인의 작은 가게\n2022.08.13(토) PM1-8\n재미공작소\n무료입장(7시 공연은 사전예약)\n\n*공연 사전예약\nhttps://t.co/fp8acOEHFb\n*문의 electricmuse@naver.com\n*음반과 굿즈 구입시 카드 결제 가능합니다.\n*본 행사는 서울라이브 지원으로 제작되었습니다. https://t.co/91bMGrjY5F"
+	},
+	{
+		"created_at": "Mon Jul 25 10:29:31 +0000 2022",
+		"id": 1551507550797004800,
+		"id_str": "1551514980184375296",
+		"full_text": "[#INTERVIEW]\nWARNER MUSIC INTERVIEW :: 이달의 소녀 (LOONA)\n\n#이달의소녀 (#LOONA)의 EP [#FlipThat] 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요\n\n▶https://t.co/vFewuQ1YBL\n\nListen to &lt;Flip That&gt;\n🎶https://t.co/NCJeGt8Jnq\n\n#warnermusic #KPOP #이달소 #플립댓 @loonatheworld https://t.co/HVgDaPoPFE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INTERVIEW",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						199,
+						211
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						223,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						228,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vFewuQ1YBL",
+					"expanded_url": "https://youtu.be/W3tbpsULPio",
+					"display_url": "youtu.be/W3tbpsULPio",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/NCJeGt8Jnq",
+					"expanded_url": "https://wmk.lnk.to/KGh9Ok22",
+					"display_url": "wmk.lnk.to/KGh9Ok22",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551489730793336800,
+					"id_str": "1551489730793336832",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551489730793336832/pu/img/CxRJtEcplS_ZIJZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551489730793336832/pu/img/CxRJtEcplS_ZIJZw.jpg",
+					"url": "https://t.co/HVgDaPoPFE",
+					"display_url": "pic.twitter.com/HVgDaPoPFE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1551507550797004801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551489730793336800,
+					"id_str": "1551489730793336832",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551489730793336832/pu/img/CxRJtEcplS_ZIJZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551489730793336832/pu/img/CxRJtEcplS_ZIJZw.jpg",
+					"url": "https://t.co/HVgDaPoPFE",
+					"display_url": "pic.twitter.com/HVgDaPoPFE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1551507550797004801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 33466,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551489730793336832/pu/vid/720x720/5g_JMWngwe8FlwLo.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551489730793336832/pu/vid/320x320/Ul0twcyIKFv9sTYK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1551489730793336832/pu/pl/dQ-nbQNQIpge22Gw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551489730793336832/pu/vid/540x540/aZG4SHweWTOuWvxe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88854,
+			"friends_count": 492,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 587,
+		"favorite_count": 1945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#INTERVIEW]\nWARNER MUSIC INTERVIEW :: 이달의 소녀 (LOONA)\n\n#이달의소녀 (#LOONA)의 EP [#FlipThat] 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요\n\n▶https://t.co/vFewuQ1YBL\n\nListen to &lt;Flip That&gt;\n🎶https://t.co/NCJeGt8Jnq\n\n#warnermusic #KPOP #이달소 #플립댓 @loonatheworld https://t.co/HVgDaPoPFE"
+	},
+	{
 		"created_at": "Mon Jul 25 09:40:15 +0000 2022",
 		"id": 1551502580475256800,
 		"id_str": "1551502580475256832",
