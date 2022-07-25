@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 24 23:29:24 +0000 2022",
+		"id": 1551340213284139000,
+		"id_str": "1551348857451298817",
+		"full_text": "[#홍자] KBS1 '아침마당' 출연✔\n\n잠시 후 오전 8시 25분,\nKBS1 '아침마당'에 홍자가 출연하오니\n팬 여러분의 많은 시청과 참여 부탁드립니다!\n\n*아침마당 생방송 중 투표, 댓글 등에 참여하기 위해 어플리케이션 '티벗(TVUT) - TV 참여 APP' 설치가 필요합니다.\n\n#HONGJA #아침마당",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "아침마당",
+					"indices": [
+						168,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36987,
+			"friends_count": 14,
+			"listed_count": 293,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#홍자] KBS1 '아침마당' 출연✔\n\n잠시 후 오전 8시 25분,\nKBS1 '아침마당'에 홍자가 출연하오니\n팬 여러분의 많은 시청과 참여 부탁드립니다!\n\n*아침마당 생방송 중 투표, 댓글 등에 참여하기 위해 어플리케이션 '티벗(TVUT) - TV 참여 APP' 설치가 필요합니다.\n\n#HONGJA #아침마당"
+	},
+	{
 		"created_at": "Sun Jul 24 13:29:27 +0000 2022",
 		"id": 1551185297157034000,
 		"id_str": "1551197872997146625",
