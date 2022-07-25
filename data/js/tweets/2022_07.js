@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 05:58:14 +0000 2022",
+		"id": 1551432255670988800,
+		"id_str": "1551446710043410432",
+		"full_text": "2022 렛츠락페스티벌 기본 안내 사항입니다.\n자세한 내용은 아래 이미지 참고 부탁드립니다.\n\n⚡ 스테이지 구성\n- LOVE&amp;PEACE STAGE\n\n⚡ 티켓 예매 안내\n- 블라인드 티켓 (한정수량)\n07월 29일(금) 오후 2시\n양일권 110,000원 \n- 공식 티켓\n8월 초 오픈 예정\n양일권 154,000원 / 1일권 99,000원 https://t.co/Y5uSBwGDvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551431157375697000,
+					"id_str": "1551431157375696897",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYfKavTaAAEnp6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYfKavTaAAEnp6k.jpg",
+					"url": "https://t.co/Y5uSBwGDvy",
+					"display_url": "pic.twitter.com/Y5uSBwGDvy",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1551432255670988800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551431157375697000,
+					"id_str": "1551431157375696897",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYfKavTaAAEnp6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYfKavTaAAEnp6k.jpg",
+					"url": "https://t.co/Y5uSBwGDvy",
+					"display_url": "pic.twitter.com/Y5uSBwGDvy",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1551432255670988800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1551431157375697000,
+					"id_str": "1551431157375696896",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYfKavTaAAAFar2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYfKavTaAAAFar2.jpg",
+					"url": "https://t.co/Y5uSBwGDvy",
+					"display_url": "pic.twitter.com/Y5uSBwGDvy",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1551432255670988800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1551431157346373600,
+					"id_str": "1551431157346373632",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYfKavMakAA9AjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYfKavMakAA9AjO.jpg",
+					"url": "https://t.co/Y5uSBwGDvy",
+					"display_url": "pic.twitter.com/Y5uSBwGDvy",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1551432255670988800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3958,
+			"friends_count": 138,
+			"listed_count": 48,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 렛츠락페스티벌 기본 안내 사항입니다.\n자세한 내용은 아래 이미지 참고 부탁드립니다.\n\n⚡ 스테이지 구성\n- LOVE&amp;PEACE STAGE\n\n⚡ 티켓 예매 안내\n- 블라인드 티켓 (한정수량)\n07월 29일(금) 오후 2시\n양일권 110,000원 \n- 공식 티켓\n8월 초 오픈 예정\n양일권 154,000원 / 1일권 99,000원 https://t.co/Y5uSBwGDvy"
+	},
+	{
+		"created_at": "Mon Jul 25 05:29:31 +0000 2022",
+		"id": 1551438614512685000,
+		"id_str": "1551439480334196737",
+		"full_text": "6월 5일 김사월과 함께한 여름날🌿 festival SUM 2022 \n김사월 ‘악취’ 라이브 클립🎥\n\n🔗https://t.co/AhryHVYTqu (유어썸머 유튜브 채널)\n\n#김사월 #페스티벌썸 #페썸 #festivalSUM #악취 #라이브클립",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "페스티벌썸",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "페썸",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "festivalSUM",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "악취",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "라이브클립",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AhryHVYTqu",
+					"expanded_url": "http://bit.ly/3BmIz5U",
+					"display_url": "bit.ly/3BmIz5U",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2260,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6월 5일 김사월과 함께한 여름날🌿 festival SUM 2022 \n김사월 ‘악취’ 라이브 클립🎥\n\n🔗https://t.co/AhryHVYTqu (유어썸머 유튜브 채널)\n\n#김사월 #페스티벌썸 #페썸 #festivalSUM #악취 #라이브클립"
+	},
+	{
 		"created_at": "Mon Jul 25 04:29:27 +0000 2022",
 		"id": 1551419947942699000,
 		"id_str": "1551424366331715584",
