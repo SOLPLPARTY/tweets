@@ -1,6 +1,960 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 26 10:29:48 +0000 2022",
+		"id": 1551870469380247600,
+		"id_str": "1551877439948787714",
+		"full_text": "#OuiOui\n\n🫧\n\nTalk about [𝗪𝗘 (𝗢𝘂𝗶)]\nVoice : blueny, Meijee\n\n#위위 #WE #Oui https://t.co/ShGUBYTB4K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "WE",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "Oui",
+					"indices": [
+						66,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551870058195927000,
+					"id_str": "1551870058195927040",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551870058195927040/pu/img/1OqmIP4OqhcaHd5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551870058195927040/pu/img/1OqmIP4OqhcaHd5P.jpg",
+					"url": "https://t.co/ShGUBYTB4K",
+					"display_url": "pic.twitter.com/ShGUBYTB4K",
+					"expanded_url": "https://twitter.com/inplanet/status/1551870469380247552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551870058195927000,
+					"id_str": "1551870058195927040",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551870058195927040/pu/img/1OqmIP4OqhcaHd5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551870058195927040/pu/img/1OqmIP4OqhcaHd5P.jpg",
+					"url": "https://t.co/ShGUBYTB4K",
+					"display_url": "pic.twitter.com/ShGUBYTB4K",
+					"expanded_url": "https://twitter.com/inplanet/status/1551870469380247552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 77077,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551870058195927040/pu/vid/480x852/2sVuE8WfiUbvs7MQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1551870058195927040/pu/pl/SHCu1fp8_OY_IPRn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551870058195927040/pu/vid/320x568/HtUt1QjFnx-cFtLc.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551870058195927040/pu/vid/720x1280/SVaR9JO--lmOzhDw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OuiOui\n\n🫧\n\nTalk about [𝗪𝗘 (𝗢𝘂𝗶)]\nVoice : blueny, Meijee\n\n#위위 #WE #Oui https://t.co/ShGUBYTB4K"
+	},
+	{
+		"created_at": "Tue Jul 26 10:29:43 +0000 2022",
+		"id": 1551869941116276700,
+		"id_str": "1551877418457174019",
+		"full_text": "[#SpecialClip]\n프로미스나인의 \"달빛바다\" Special Clip을 지금 바로 워너뮤직코리아 유튜브에서 만나보세요💚\n\n🔗https://t.co/vSGF2cZwdB\n\n#warnerkpop #warnermusic #KPOP #프로미스나인 #fromis_9 #달빛바다 #리본프로젝트 #여름방학 #아이유 #피에스타 #리메이크 @realfromis_9 https://t.co/tAy75ZrwMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpecialClip",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "fromis_9",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"text": "달빛바다",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "리본프로젝트",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "여름방학",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "피에스타",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "리메이크",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realfromis_9",
+					"name": "fromis_9 [프로미스나인]",
+					"id": 844819971582574600,
+					"id_str": "844819971582574593",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vSGF2cZwdB",
+					"expanded_url": "https://youtu.be/peBkYOfFAd4",
+					"display_url": "youtu.be/peBkYOfFAd4",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551866749901238300,
+					"id_str": "1551866749901238272",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551866749901238272/pu/img/tbktaXB7D2YfeURn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551866749901238272/pu/img/tbktaXB7D2YfeURn.jpg",
+					"url": "https://t.co/tAy75ZrwMO",
+					"display_url": "pic.twitter.com/tAy75ZrwMO",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1551869941116276744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551866749901238300,
+					"id_str": "1551866749901238272",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551866749901238272/pu/img/tbktaXB7D2YfeURn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551866749901238272/pu/img/tbktaXB7D2YfeURn.jpg",
+					"url": "https://t.co/tAy75ZrwMO",
+					"display_url": "pic.twitter.com/tAy75ZrwMO",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1551869941116276744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 37170,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1551866749901238272/pu/pl/y1JW808Y5OPjnxDK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551866749901238272/pu/vid/540x540/rn2edAgEzd6S8z-u.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551866749901238272/pu/vid/320x320/Akiftks3MX5-xM-D.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551866749901238272/pu/vid/720x720/RfCAKjvNP_mTQS8_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88913,
+			"friends_count": 492,
+			"listed_count": 216,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#SpecialClip]\n프로미스나인의 \"달빛바다\" Special Clip을 지금 바로 워너뮤직코리아 유튜브에서 만나보세요💚\n\n🔗https://t.co/vSGF2cZwdB\n\n#warnerkpop #warnermusic #KPOP #프로미스나인 #fromis_9 #달빛바다 #리본프로젝트 #여름방학 #아이유 #피에스타 #리메이크 @realfromis_9 https://t.co/tAy75ZrwMO"
+	},
+	{
+		"created_at": "Tue Jul 26 10:29:36 +0000 2022",
+		"id": 1551869352617513000,
+		"id_str": "1551877388551815168",
+		"full_text": "[유라]\nPentaport Rock Festival 2022!\n유라와 8월 5일 오후 5시 10분에 만나요👋👋 https://t.co/EUpd86Crmr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551868668442644500,
+					"id_str": "1551868668442644482",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYlYVPCVEAIIjf1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYlYVPCVEAIIjf1.jpg",
+					"url": "https://t.co/EUpd86Crmr",
+					"display_url": "pic.twitter.com/EUpd86Crmr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1551869352617512962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551868668442644500,
+					"id_str": "1551868668442644482",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYlYVPCVEAIIjf1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYlYVPCVEAIIjf1.jpg",
+					"url": "https://t.co/EUpd86Crmr",
+					"display_url": "pic.twitter.com/EUpd86Crmr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1551869352617512962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1551868668413325300,
+					"id_str": "1551868668413325312",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FYlYVO7VsAA3GX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYlYVO7VsAA3GX1.jpg",
+					"url": "https://t.co/EUpd86Crmr",
+					"display_url": "pic.twitter.com/EUpd86Crmr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1551869352617512962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 927,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\nPentaport Rock Festival 2022!\n유라와 8월 5일 오후 5시 10분에 만나요👋👋 https://t.co/EUpd86Crmr"
+	},
+	{
+		"created_at": "Tue Jul 26 10:29:34 +0000 2022",
+		"id": 1551869328081186800,
+		"id_str": "1551877379236167681",
+		"full_text": "[정부, 기관 대중음악 지원사업 관련 설명회]\n⠀\n♦︎ 일시 : 2022년 8월 11일 목요일 오후 2시\n♦︎ 장소 : 라운지엠(서울 마포구 서강로 78, 엠피엠지 2층)\n♦︎ 주최 및 주관 : 한국음악레이블산업협회\n\n보다 자세한 사항 및 참석 신청 링크는\n곧 준비하여 전해드리겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1551869326336364500,
+		"in_reply_to_status_id_str": "1551869326336364544",
+		"in_reply_to_user_id": 579588650,
+		"in_reply_to_user_id_str": "579588650",
+		"in_reply_to_screen_name": "record_liak",
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2002,
+			"friends_count": 1962,
+			"listed_count": 34,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[정부, 기관 대중음악 지원사업 관련 설명회]\n⠀\n♦︎ 일시 : 2022년 8월 11일 목요일 오후 2시\n♦︎ 장소 : 라운지엠(서울 마포구 서강로 78, 엠피엠지 2층)\n♦︎ 주최 및 주관 : 한국음악레이블산업협회\n\n보다 자세한 사항 및 참석 신청 링크는\n곧 준비하여 전해드리겠습니다."
+	},
+	{
+		"created_at": "Tue Jul 26 10:29:27 +0000 2022",
+		"id": 1551869326336364500,
+		"id_str": "1551877349423054848",
+		"full_text": "[연관상 제5화 / 대중음악 지원사업 관련 설명회 일정 안내]\n\n연예계 관계자 상담소 제 5화!\n\n대중음악 지원사업을 보다 빨리 전달받고 싶으신 분은 아래 링크를 클릭, 진행 부탁드립니다!\n\n♦︎ 대중음악예술인 등록 링크 : https://t.co/XL6M30MVTm\n\nhttps://t.co/4lzwWRaA3e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XL6M30MVTm",
+					"expanded_url": "https://c11.kr/y5xr?jGyM",
+					"display_url": "c11.kr/y5xr?jGyM",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/4lzwWRaA3e",
+					"expanded_url": "https://www.youtube.com/watch?v=JDgkLBM3yMc",
+					"display_url": "youtube.com/watch?v=JDgkLB…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2002,
+			"friends_count": 1962,
+			"listed_count": 34,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[연관상 제5화 / 대중음악 지원사업 관련 설명회 일정 안내]\n\n연예계 관계자 상담소 제 5화!\n\n대중음악 지원사업을 보다 빨리 전달받고 싶으신 분은 아래 링크를 클릭, 진행 부탁드립니다!\n\n♦︎ 대중음악예술인 등록 링크 : https://t.co/XL6M30MVTm\n\nhttps://t.co/4lzwWRaA3e"
+	},
+	{
 		"created_at": "Tue Jul 26 09:29:43 +0000 2022",
 		"id": 1551855990014120000,
 		"id_str": "1551862319277285378",
