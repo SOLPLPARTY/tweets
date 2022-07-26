@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 26 00:29:25 +0000 2022",
+		"id": 1551717225928593400,
+		"id_str": "1551726347327864838",
+		"full_text": "#OuiOui #Vlog\n\nOuiOui 위위 \"WE (Oui)\" 브이로그 | 신곡을 준비하며.. 🌺🌺☁☁ \n📹 https://t.co/AenaEnYDUP \n\n출연 : 블루니,메이지\n편집 : 블루니\n\n#위위 #WE #Oui #WEOui #브이로그",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Vlog",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "WE",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "Oui",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "WEOui",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AenaEnYDUP",
+					"expanded_url": "https://youtu.be/f61KQ6LHu0o",
+					"display_url": "youtu.be/f61KQ6LHu0o",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 768,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OuiOui #Vlog\n\nOuiOui 위위 \"WE (Oui)\" 브이로그 | 신곡을 준비하며.. 🌺🌺☁☁ \n📹 https://t.co/AenaEnYDUP \n\n출연 : 블루니,메이지\n편집 : 블루니\n\n#위위 #WE #Oui #WEOui #브이로그"
+	},
+	{
 		"created_at": "Mon Jul 25 17:29:25 +0000 2022",
 		"id": 1551609796863725600,
 		"id_str": "1551620651135401985",
