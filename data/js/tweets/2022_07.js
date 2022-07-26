@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 26 03:29:34 +0000 2022",
+		"id": 1551766761867210800,
+		"id_str": "1551771683970813952",
+		"full_text": "[SLSL2022 ANNOUNCEMENT] 제4회 슬로우 라이프 슬로우 라이브 2022 최종 라인업 발표\n\n🌼10. 9(SUN)\n💜 #라일리 #REILEY 컬러풀한 스타일의 팝 센세이션#첫내한\n\n▶예매처: 멜론티켓(https://t.co/xrGo72zsDE), YES24티켓(https://t.co/rcMxt29MZy), 위메프(https://t.co/TF0aouBZmb) https://t.co/rEtUrqFWsI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라일리",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "REILEY",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xrGo72zsDE",
+					"expanded_url": "https://bit.ly/3ugPadR",
+					"display_url": "bit.ly/3ugPadR",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/rcMxt29MZy",
+					"expanded_url": "https://bit.ly/3R5xY58",
+					"display_url": "bit.ly/3R5xY58",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/TF0aouBZmb",
+					"expanded_url": "https://bit.ly/3AhzB9z",
+					"display_url": "bit.ly/3AhzB9z",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551766030955221000,
+					"id_str": "1551766030955220992",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FYj6-8makAAYj_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYj6-8makAAYj_c.jpg",
+					"url": "https://t.co/rEtUrqFWsI",
+					"display_url": "pic.twitter.com/rEtUrqFWsI",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1551766761867210753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551766030955221000,
+					"id_str": "1551766030955220992",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FYj6-8makAAYj_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYj6-8makAAYj_c.jpg",
+					"url": "https://t.co/rEtUrqFWsI",
+					"display_url": "pic.twitter.com/rEtUrqFWsI",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1551766761867210753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88901,
+			"friends_count": 492,
+			"listed_count": 216,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SLSL2022 ANNOUNCEMENT] 제4회 슬로우 라이프 슬로우 라이브 2022 최종 라인업 발표\n\n🌼10. 9(SUN)\n💜 #라일리 #REILEY 컬러풀한 스타일의 팝 센세이션#첫내한\n\n▶예매처: 멜론티켓(https://t.co/xrGo72zsDE), YES24티켓(https://t.co/rcMxt29MZy), 위메프(https://t.co/TF0aouBZmb) https://t.co/rEtUrqFWsI"
+	},
+	{
+		"created_at": "Tue Jul 26 03:29:32 +0000 2022",
+		"id": 1551762792650141700,
+		"id_str": "1551771675078926336",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n맥주에 꽂기만 하면 거품이 계속계속 생겨나..⭐️ 이제 집에서 크림생맥 SSAP가능🍺 [벤자민권의 상상은 현실이된다2 : 위대한쇼맨] EP.03\n\n👉 https://t.co/FHeSFPojNI\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의상상은현실이된다2",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "위대한쇼맨",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FHeSFPojNI",
+					"expanded_url": "https://youtu.be/Idudd1vOGZw",
+					"display_url": "youtu.be/Idudd1vOGZw",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n맥주에 꽂기만 하면 거품이 계속계속 생겨나..⭐️ 이제 집에서 크림생맥 SSAP가능🍺 [벤자민권의 상상은 현실이된다2 : 위대한쇼맨] EP.03\n\n👉 https://t.co/FHeSFPojNI\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV"
+	},
+	{
 		"created_at": "Tue Jul 26 03:15:30 +0000 2022",
 		"id": 1551768144141635600,
 		"id_str": "1551768144141635584",
