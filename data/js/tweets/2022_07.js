@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 26 04:29:36 +0000 2022",
+		"id": 1551786316374765600,
+		"id_str": "1551786791023349760",
+		"full_text": "[공연] 8월5일 9시 SenggiStudio \n\n#오마르와동방전력 Fresh Eastern Power is back. New sound new beats new members new powpow. We’ll be at senggi studio to celebrate our new set up. \nCamel parking not available ❗️ https://t.co/fvGIr4Eo9w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마르와동방전력",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551786269750882300,
+					"id_str": "1551786269750882305",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551786269750882305/pu/img/DurWB9y-r9GHPsGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551786269750882305/pu/img/DurWB9y-r9GHPsGr.jpg",
+					"url": "https://t.co/fvGIr4Eo9w",
+					"display_url": "pic.twitter.com/fvGIr4Eo9w",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1551786316374765569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551786269750882300,
+					"id_str": "1551786269750882305",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551786269750882305/pu/img/DurWB9y-r9GHPsGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551786269750882305/pu/img/DurWB9y-r9GHPsGr.jpg",
+					"url": "https://t.co/fvGIr4Eo9w",
+					"display_url": "pic.twitter.com/fvGIr4Eo9w",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1551786316374765569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22417,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551786269750882305/pu/vid/1280x720/jzBUAOQroxOyM78m.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551786269750882305/pu/vid/640x360/LFc0qvucNsB9s8Dp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1551786269750882305/pu/pl/J7bhPY7Yj0PtGWM7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551786269750882305/pu/vid/480x270/stRnP6oE5bCZWmrg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1742,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1655869230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[공연] 8월5일 9시 SenggiStudio \n\n#오마르와동방전력 Fresh Eastern Power is back. New sound new beats new members new powpow. We’ll be at senggi studio to celebrate our new set up. \nCamel parking not available ❗️ https://t.co/fvGIr4Eo9w"
+	},
+	{
+		"created_at": "Tue Jul 26 04:29:30 +0000 2022",
+		"id": 1551782289125695500,
+		"id_str": "1551786765379321857",
+		"full_text": "#유어썸머 7월 넷째 주 스케줄💌\n\n7/27 (수)\n[#랄라스윗] 벅스 라디오 &lt;랄라스윗의 이중생활&gt;\n-\n7/30 (토) 오후 2시 @ 복합문화공간에무 뒤뜰\n[#우주왕복선싸이드미러] 격조하지만 격조있게, 거리두기 콘서트\n-\n7/30 (토) 오후 7시 @ 국립춘천박물관\n[#김사월] 박물관 속 기타 https://t.co/INtzCnxQgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551782283350524000,
+					"id_str": "1551782283350523905",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FYkJw9faQAE8boo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYkJw9faQAE8boo.jpg",
+					"url": "https://t.co/INtzCnxQgs",
+					"display_url": "pic.twitter.com/INtzCnxQgs",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1551782289125695493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551782283350524000,
+					"id_str": "1551782283350523905",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FYkJw9faQAE8boo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYkJw9faQAE8boo.jpg",
+					"url": "https://t.co/INtzCnxQgs",
+					"display_url": "pic.twitter.com/INtzCnxQgs",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1551782289125695493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2262,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유어썸머 7월 넷째 주 스케줄💌\n\n7/27 (수)\n[#랄라스윗] 벅스 라디오 &lt;랄라스윗의 이중생활&gt;\n-\n7/30 (토) 오후 2시 @ 복합문화공간에무 뒤뜰\n[#우주왕복선싸이드미러] 격조하지만 격조있게, 거리두기 콘서트\n-\n7/30 (토) 오후 7시 @ 국립춘천박물관\n[#김사월] 박물관 속 기타 https://t.co/INtzCnxQgs"
+	},
+	{
 		"created_at": "Tue Jul 26 03:29:34 +0000 2022",
 		"id": 1551766761867210800,
 		"id_str": "1551771683970813952",
