@@ -1,6 +1,1549 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 09:58:23 +0000 2022",
+		"id": 1552226316019433500,
+		"id_str": "1552231920804708352",
+		"full_text": "🔥 ZANDARI FESTA IS BACK 🔥\n\n2022년, 잔다리페스타가 돌아옵니다.\nGet ready to jump into #zandarifesta\nComing Soon...\n\n#잔다리페스타 #ZandariFesta https://t.co/Udm8qJdaM9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "zandarifesta",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"text": "잔다리페스타",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "ZandariFesta",
+					"indices": [
+						110,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552225637720813600,
+					"id_str": "1552225637720813568",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqc_lOacAAZq8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqc_lOacAAZq8M.jpg",
+					"url": "https://t.co/Udm8qJdaM9",
+					"display_url": "pic.twitter.com/Udm8qJdaM9",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1552226316019433472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1667,
+							"h": 1667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552225637720813600,
+					"id_str": "1552225637720813568",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqc_lOacAAZq8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqc_lOacAAZq8M.jpg",
+					"url": "https://t.co/Udm8qJdaM9",
+					"display_url": "pic.twitter.com/Udm8qJdaM9",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1552226316019433472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1667,
+							"h": 1667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552225690552270800,
+					"id_str": "1552225690552270849",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqdCqCagAENqBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqdCqCagAENqBq.jpg",
+					"url": "https://t.co/Udm8qJdaM9",
+					"display_url": "pic.twitter.com/Udm8qJdaM9",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1552226316019433472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1667,
+							"h": 1667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & Conferences 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/WpBoMBia2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpBoMBia2Z",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2701,
+			"friends_count": 1704,
+			"listed_count": 41,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1552213862673686528/_EXSIx3m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1552213862673686528/_EXSIx3m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1658908453",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥 ZANDARI FESTA IS BACK 🔥\n\n2022년, 잔다리페스타가 돌아옵니다.\nGet ready to jump into #zandarifesta\nComing Soon...\n\n#잔다리페스타 #ZandariFesta https://t.co/Udm8qJdaM9"
+	},
+	{
+		"created_at": "Wed Jul 27 09:58:17 +0000 2022",
+		"id": 1552225657551470600,
+		"id_str": "1552231895181713411",
+		"full_text": "사전예매 JB카드 20% 할인티켓은 티켓링크에서만 구매 가능합니다.\n\n🎫정규 티켓 오픈\n8월 1일 (월) 14시\n\n※ 사전예매 10% 할인\n- 1일권(금·토·일) 50,000원 → 45,000원\n- 2일권(금토·토일) 70,000원 → 63,000원\n- 3일권(금토일) 100,000원 → 90,000원\n\n#JUMF #JUMF2022 #전주얼티밋뮤직페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "JUMF2022",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						187,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1552225650114961400,
+		"in_reply_to_status_id_str": "1552225650114961408",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 621,
+			"friends_count": 1073,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사전예매 JB카드 20% 할인티켓은 티켓링크에서만 구매 가능합니다.\n\n🎫정규 티켓 오픈\n8월 1일 (월) 14시\n\n※ 사전예매 10% 할인\n- 1일권(금·토·일) 50,000원 → 45,000원\n- 2일권(금토·토일) 70,000원 → 63,000원\n- 3일권(금토일) 100,000원 → 90,000원\n\n#JUMF #JUMF2022 #전주얼티밋뮤직페스티벌"
+	},
+	{
+		"created_at": "Wed Jul 27 09:58:15 +0000 2022",
+		"id": 1552225650114961400,
+		"id_str": "1552231886277251072",
+		"full_text": "📣JUMF 2022 일정 안내📣\n\n⏰8월 1일 (월) 14:00⏰ FINAL LINEUP 발표 및 정규티켓이 오픈됩니다.\n10% 할인 사전예매는  8월 1일(월) 정규티켓 오픈과 동시에 마감됩니다! \n\n🔗10% 할인 사전예매 바로가기\n[티켓링크] https://t.co/OUZ3EY9qej\n[네이버] https://t.co/mCLL89Qqgk https://t.co/o5FbcLcsM8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OUZ3EY9qej",
+					"expanded_url": "https://bit.ly/3NGWC9h",
+					"display_url": "bit.ly/3NGWC9h",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/mCLL89Qqgk",
+					"expanded_url": "https://bit.ly/3cyO07w",
+					"display_url": "bit.ly/3cyO07w",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552225415825326000,
+					"id_str": "1552225415825326080",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqcyqmaAAAs6E_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqcyqmaAAAs6E_.jpg",
+					"url": "https://t.co/o5FbcLcsM8",
+					"display_url": "pic.twitter.com/o5FbcLcsM8",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1552225650114961408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552225415825326000,
+					"id_str": "1552225415825326080",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqcyqmaAAAs6E_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqcyqmaAAAs6E_.jpg",
+					"url": "https://t.co/o5FbcLcsM8",
+					"display_url": "pic.twitter.com/o5FbcLcsM8",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1552225650114961408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552225467989921800,
+					"id_str": "1552225467989921792",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqc1s7akAAg3Pe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqc1s7akAAg3Pe.jpg",
+					"url": "https://t.co/o5FbcLcsM8",
+					"display_url": "pic.twitter.com/o5FbcLcsM8",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1552225650114961408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552225484066680800,
+					"id_str": "1552225484066680832",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqc2o0acAAORwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqc2o0acAAORwV.jpg",
+					"url": "https://t.co/o5FbcLcsM8",
+					"display_url": "pic.twitter.com/o5FbcLcsM8",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1552225650114961408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 621,
+			"friends_count": 1073,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣JUMF 2022 일정 안내📣\n\n⏰8월 1일 (월) 14:00⏰ FINAL LINEUP 발표 및 정규티켓이 오픈됩니다.\n10% 할인 사전예매는  8월 1일(월) 정규티켓 오픈과 동시에 마감됩니다! \n\n🔗10% 할인 사전예매 바로가기\n[티켓링크] https://t.co/OUZ3EY9qej\n[네이버] https://t.co/mCLL89Qqgk https://t.co/o5FbcLcsM8"
+	},
+	{
+		"created_at": "Wed Jul 27 09:29:41 +0000 2022",
+		"id": 1552224440137777200,
+		"id_str": "1552224696741027840",
+		"full_text": "#패닛앳더디스코 🔥Middle Of A Breakup🔥\n열일하는 브랜든 신곡 드디어 공개🕺💃\n🎧음원듣기 https://t.co/CdQ9xD84Sv https://t.co/fAwnhHsMKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "패닛앳더디스코",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CdQ9xD84Sv",
+					"expanded_url": "https://wmk.lnk.to/zlHENCuB",
+					"display_url": "wmk.lnk.to/zlHENCuB",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552224276614418400,
+					"id_str": "1552224276614418433",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1552224276614418433/pu/img/f7ExLYmxToU6SZ3-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1552224276614418433/pu/img/f7ExLYmxToU6SZ3-.jpg",
+					"url": "https://t.co/fAwnhHsMKJ",
+					"display_url": "pic.twitter.com/fAwnhHsMKJ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1552224440137777154/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552224276614418400,
+					"id_str": "1552224276614418433",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1552224276614418433/pu/img/f7ExLYmxToU6SZ3-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1552224276614418433/pu/img/f7ExLYmxToU6SZ3-.jpg",
+					"url": "https://t.co/fAwnhHsMKJ",
+					"display_url": "pic.twitter.com/fAwnhHsMKJ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1552224440137777154/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 19040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1552224276614418433/pu/pl/BSAJyjKzwOYMSvk1.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1552224276614418433/pu/vid/720x720/yR0Cl43qurW_GELv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1552224276614418433/pu/vid/540x540/baPnhCDel1CgWKhb.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1552224276614418433/pu/vid/320x320/xK4Zs118PXBBMKYU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88956,
+			"friends_count": 492,
+			"listed_count": 216,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#패닛앳더디스코 🔥Middle Of A Breakup🔥\n열일하는 브랜든 신곡 드디어 공개🕺💃\n🎧음원듣기 https://t.co/CdQ9xD84Sv https://t.co/fAwnhHsMKJ"
+	},
+	{
+		"created_at": "Wed Jul 27 09:29:33 +0000 2022",
+		"id": 1552222320604762000,
+		"id_str": "1552224662691741698",
+		"full_text": "ATBO ‘The Beginning : 開花’ Released!!\n💚 https://t.co/CjRow8jvas https://t.co/4mPdY8n7m2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CjRow8jvas",
+					"expanded_url": "https://www.instagram.com/p/CggqiFgNNMW/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/CggqiFgNNMW/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552222314975993900,
+					"id_str": "1552222314975993915",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqZ-LCUIDstDbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqZ-LCUIDstDbI.jpg",
+					"url": "https://t.co/4mPdY8n7m2",
+					"display_url": "pic.twitter.com/4mPdY8n7m2",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1552222320604762113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552222314975993900,
+					"id_str": "1552222314975993915",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqZ-LCUIDstDbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqZ-LCUIDstDbI.jpg",
+					"url": "https://t.co/4mPdY8n7m2",
+					"display_url": "pic.twitter.com/4mPdY8n7m2",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1552222320604762113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7371,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ATBO ‘The Beginning : 開花’ Released!!\n💚 https://t.co/CjRow8jvas https://t.co/4mPdY8n7m2"
+	},
+	{
+		"created_at": "Wed Jul 27 09:29:31 +0000 2022",
+		"id": 1552219079880351700,
+		"id_str": "1552224653858537472",
+		"full_text": "[#민서] 그_냥 (J_ust), 민서 (MINSEO) Collabolation Album 'Cookie' 발매✔\n\n그_냥 (J_ust), 민서 (MINSEO)\nCollabolation Album 【Cookie】\n🔗https://t.co/CYnvh9w5GP\n\n#MINSEO #MNSO #그_냥 #J_ust #Cookie https://t.co/3gqgfXuvxB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "그_냥",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "J_ust",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "Cookie",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CYnvh9w5GP",
+					"expanded_url": "https://youtu.be/oLK7apMn62g",
+					"display_url": "youtu.be/oLK7apMn62g",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552211086661021700,
+					"id_str": "1552211086661021697",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqPwmTacAEpZ0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqPwmTacAEpZ0k.jpg",
+					"url": "https://t.co/3gqgfXuvxB",
+					"display_url": "pic.twitter.com/3gqgfXuvxB",
+					"expanded_url": "https://twitter.com/themysticstory/status/1552219079880351744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552211086661021700,
+					"id_str": "1552211086661021697",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqPwmTacAEpZ0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqPwmTacAEpZ0k.jpg",
+					"url": "https://t.co/3gqgfXuvxB",
+					"display_url": "pic.twitter.com/3gqgfXuvxB",
+					"expanded_url": "https://twitter.com/themysticstory/status/1552219079880351744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37000,
+			"friends_count": 14,
+			"listed_count": 294,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 그_냥 (J_ust), 민서 (MINSEO) Collabolation Album 'Cookie' 발매✔\n\n그_냥 (J_ust), 민서 (MINSEO)\nCollabolation Album 【Cookie】\n🔗https://t.co/CYnvh9w5GP\n\n#MINSEO #MNSO #그_냥 #J_ust #Cookie https://t.co/3gqgfXuvxB"
+	},
+	{
+		"created_at": "Wed Jul 27 09:29:27 +0000 2022",
+		"id": 1552217237049729000,
+		"id_str": "1552224640721948673",
+		"full_text": "골든차일드(Golden Child) 6th Mini Album｜Comeback Poster\n\n2022.08.08 6PM RELEASE\n\n#GoldenChild #골든차일드\n#AURA #아우라 #COMEBACK #20220808_6PM\n#GoldenChild_AURA #GoldenChild_COMEBACK\n#최보민 #홍주찬 #김동현 #김지범 #봉재현\n#배승민 #TAG #이장준 #Y #이대열 https://t.co/o5c5YgBpB9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "AURA",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "아우라",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "20220808_6PM",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "GoldenChild_AURA",
+					"indices": [
+						131,
+						148
+					]
+				},
+				{
+					"text": "GoldenChild_COMEBACK",
+					"indices": [
+						149,
+						170
+					]
+				},
+				{
+					"text": "최보민",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "홍주찬",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "김동현",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "김지범",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "봉재현",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "배승민",
+					"indices": [
+						196,
+						200
+					]
+				},
+				{
+					"text": "TAG",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "이장준",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "Y",
+					"indices": [
+						211,
+						213
+					]
+				},
+				{
+					"text": "이대열",
+					"indices": [
+						214,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552201449727488000,
+					"id_str": "1552201449727488001",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqG_p7acAEZWHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqG_p7acAEZWHm.jpg",
+					"url": "https://t.co/o5c5YgBpB9",
+					"display_url": "pic.twitter.com/o5c5YgBpB9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1552217237049729030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552201449727488000,
+					"id_str": "1552201449727488001",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqG_p7acAEZWHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqG_p7acAEZWHm.jpg",
+					"url": "https://t.co/o5c5YgBpB9",
+					"display_url": "pic.twitter.com/o5c5YgBpB9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1552217237049729030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421845,
+			"friends_count": 12,
+			"listed_count": 1880,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1658912479",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 563,
+		"favorite_count": 1003,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "골든차일드(Golden Child) 6th Mini Album｜Comeback Poster\n\n2022.08.08 6PM RELEASE\n\n#GoldenChild #골든차일드\n#AURA #아우라 #COMEBACK #20220808_6PM\n#GoldenChild_AURA #GoldenChild_COMEBACK\n#최보민 #홍주찬 #김동현 #김지범 #봉재현\n#배승민 #TAG #이장준 #Y #이대열 https://t.co/o5c5YgBpB9"
+	},
+	{
 		"created_at": "Wed Jul 27 09:12:12 +0000 2022",
 		"id": 1552220296207220700,
 		"id_str": "1552220296207220737",
