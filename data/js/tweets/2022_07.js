@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 01:58:15 +0000 2022",
+		"id": 1552096461969432600,
+		"id_str": "1552111089017577475",
+		"full_text": "[STAYC CHECK IN]\nWhat's in STAYC's Bag?👜 \n\nSWITH은 어디로든 문 챙겨서 LA 갈건데~.. \nSTAYC는 혹쉬 뭐 챙겼어? \nSWITH 사랑❤? 푸하핰\n\n#KCON #KCONUSA #KCON2022LA @STAYC_official https://t.co/HvDlbl9Xi5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						121,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STAYC_official",
+					"name": "STAYC(스테이씨)",
+					"id": 1302813483902230500,
+					"id_str": "1302813483902230528",
+					"indices": [
+						133,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HvDlbl9Xi5",
+					"expanded_url": "https://twitter.com/kconusa/status/1552068217861877761",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21 (PDT)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449838,
+			"friends_count": 76,
+			"listed_count": 1123,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552068217861877800,
+		"quoted_status_id_str": "1552068217861877761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HvDlbl9Xi5",
+			"expanded": "https://twitter.com/kconusa/status/1552068217861877761",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 26 23:07:53 +0000 2022",
+			"id": 1552068217861877800,
+			"id_str": "1552068217861877761",
+			"full_text": "[STAYC CHECK IN]\nWhat's in STAYC's Bag?👜 \n\nSWITH : We are bringing a door to LA~.. \nHow about you girls? \nSTAYC : SWITH's love❤\n\n#KCON #KCONUSA #KCON2022LA @STAYC_official https://t.co/nDjPWARq0Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							129,
+							134
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							135,
+							143
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							144,
+							155
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "STAYC_official",
+						"name": "STAYC(스테이씨)",
+						"id": 1302813483902230500,
+						"id_str": "1302813483902230528",
+						"indices": [
+							156,
+							171
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1551989736931152000,
+						"id_str": "1551989736931151872",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1551989736931151872/img/0A2I1vzt4ef7AZg5.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1551989736931151872/img/0A2I1vzt4ef7AZg5.jpg",
+						"url": "https://t.co/nDjPWARq0Q",
+						"display_url": "pic.twitter.com/nDjPWARq0Q",
+						"expanded_url": "https://twitter.com/kconusa/status/1552068217861877761/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1551989736931152000,
+						"id_str": "1551989736931151872",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1551989736931151872/img/0A2I1vzt4ef7AZg5.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1551989736931151872/img/0A2I1vzt4ef7AZg5.jpg",
+						"url": "https://t.co/nDjPWARq0Q",
+						"display_url": "pic.twitter.com/nDjPWARq0Q",
+						"expanded_url": "https://twitter.com/kconusa/status/1552068217861877761/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 203403,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1551989736931151872/vid/720x1280/w467p9_IE-l6a-E7.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1551989736931151872/vid/320x568/5R4szAGD2tSvU5ra.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1551989736931151872/pl/3Q10PaPCQNxr2tAh.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1551989736931151872/vid/480x852/Yu3EXnSWkAkmJxic.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223540,
+				"friends_count": 7,
+				"listed_count": 470,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20391,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 122,
+			"favorite_count": 367,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STAYC CHECK IN]\nWhat's in STAYC's Bag?👜 \n\nSWITH은 어디로든 문 챙겨서 LA 갈건데~.. \nSTAYC는 혹쉬 뭐 챙겼어? \nSWITH 사랑❤? 푸하핰\n\n#KCON #KCONUSA #KCON2022LA @STAYC_official https://t.co/HvDlbl9Xi5"
+	},
+	{
+		"created_at": "Wed Jul 27 01:30:48 +0000 2022",
+		"id": 1552104181275582500,
+		"id_str": "1552104181275582466",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[INTERVIEW] WARNER MUSIC INTERVIEW :: 이달의 소녀 (LOONA)\nhttps://t.co/yIwJm0OAAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yIwJm0OAAH",
+					"expanded_url": "https://youtu.be/W3tbpsULPio",
+					"display_url": "youtu.be/W3tbpsULPio",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[INTERVIEW] WARNER MUSIC INTERVIEW :: 이달의 소녀 (LOONA)\nhttps://t.co/yIwJm0OAAH"
+	},
+	{
 		"created_at": "Tue Jul 26 23:11:17 +0000 2022",
 		"id": 1552057700166410200,
 		"id_str": "1552069070631178241",
