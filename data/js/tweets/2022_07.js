@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 11:29:38 +0000 2022",
+		"id": 1552247796689907700,
+		"id_str": "1552254881976680448",
+		"full_text": "[#인순이] #수니버스 #수니잼\n\n▶#하쿠나마타타 - 라이온킹 ost cover by 인순이, 손유하 | 수니잼 EP.06◀\n\n순식간에 동심의 세계🦁로 초대하는 \n유하어린이와 순이언니의 목소리 들으러 렛츠고! \n\n👉 https://t.co/pLIr9ayv3r\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse #라이온킹",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "수니버스",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "수니잼",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "하쿠나마타타",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"text": "sooniverse",
+					"indices": [
+						177,
+						188
+					]
+				},
+				{
+					"text": "라이온킹",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pLIr9ayv3r",
+					"expanded_url": "https://youtu.be/-a7P0X94csI",
+					"display_url": "youtu.be/-a7P0X94csI",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#인순이] #수니버스 #수니잼\n\n▶#하쿠나마타타 - 라이온킹 ost cover by 인순이, 손유하 | 수니잼 EP.06◀\n\n순식간에 동심의 세계🦁로 초대하는 \n유하어린이와 순이언니의 목소리 들으러 렛츠고! \n\n👉 https://t.co/pLIr9ayv3r\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #sooniverse #라이온킹"
+	},
+	{
+		"created_at": "Wed Jul 27 11:29:31 +0000 2022",
+		"id": 1552240024812265500,
+		"id_str": "1552254856395718656",
+		"full_text": "@le_petit_piano\n@pptnznoshel\n#JungJaeHyung #LeeJangWon \n#페퍼톤스 #Peppertones\n#오늘도삽질 #스튜디오훜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungJaeHyung",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "오늘도삽질",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "스튜디오훜",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1552240017849782300,
+		"in_reply_to_status_id_str": "1552240017849782273",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40606,
+			"friends_count": 12,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qme",
+		"text": "@le_petit_piano\n@pptnznoshel\n#JungJaeHyung #LeeJangWon \n#페퍼톤스 #Peppertones\n#오늘도삽질 #스튜디오훜"
+	},
+	{
 		"created_at": "Wed Jul 27 10:29:38 +0000 2022",
 		"id": 1552225467658223600,
 		"id_str": "1552239783061164032",
