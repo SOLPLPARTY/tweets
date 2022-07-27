@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 06:17:09 +0000 2022",
+		"id": 1552176246993195000,
+		"id_str": "1552176246993195013",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n행맨을 공을 쪼갠게 아니라 내 맘을 쪼갰다...😘\nhttps://t.co/buV0DV23tz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/buV0DV23tz",
+					"expanded_url": "https://youtu.be/sSjNyA5_OFc",
+					"display_url": "youtu.be/sSjNyA5_OFc",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n행맨을 공을 쪼갠게 아니라 내 맘을 쪼갰다...😘\nhttps://t.co/buV0DV23tz"
+	},
+	{
+		"created_at": "Wed Jul 27 06:11:17 +0000 2022",
+		"id": 1552167719411130400,
+		"id_str": "1552174767272230914",
+		"full_text": "생각의 여름 - 너는 내가 @ 재미공작소 2022.07.23 https://t.co/vSPRo9qwNp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vSPRo9qwNp",
+					"expanded_url": "https://youtu.be/beZXhAzpd3Y",
+					"display_url": "youtu.be/beZXhAzpd3Y",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8372,
+			"friends_count": 550,
+			"listed_count": 80,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생각의 여름 - 너는 내가 @ 재미공작소 2022.07.23 https://t.co/vSPRo9qwNp"
+	},
+	{
+		"created_at": "Wed Jul 27 05:58:23 +0000 2022",
+		"id": 1552168177391771600,
+		"id_str": "1552171520763564032",
+		"full_text": "[2022 렛츠락페스티벌 블라인드 티켓오픈 공지]\n인터파크 티켓 티켓오픈공지\n🔗https://t.co/oPwxzrVDiX\n\n#렛츠락페스티벌 #2022렛츠락페스티벌\n#letsrockfestival #2022letsrockfestival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "렛츠락페스티벌",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "2022렛츠락페스티벌",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"text": "letsrockfestival",
+					"indices": [
+						91,
+						108
+					]
+				},
+				{
+					"text": "2022letsrockfestival",
+					"indices": [
+						109,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oPwxzrVDiX",
+					"expanded_url": "https://url.kr/p7i93b",
+					"display_url": "url.kr/p7i93b",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4002,
+			"friends_count": 138,
+			"listed_count": 48,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 블라인드 티켓오픈 공지]\n인터파크 티켓 티켓오픈공지\n🔗https://t.co/oPwxzrVDiX\n\n#렛츠락페스티벌 #2022렛츠락페스티벌\n#letsrockfestival #2022letsrockfestival"
+	},
+	{
+		"created_at": "Wed Jul 27 05:58:14 +0000 2022",
+		"id": 1552156829223903200,
+		"id_str": "1552171486512832515",
+		"full_text": "[DANCE PRACTICE]\nINI 안무영상 속 히든미션을 받은 멤버는?🤔 \n풀버전으로 정답 확인할 MINI 찾습니다🧐\n\n✔풀버전은 YouTube KCON official 채널 PREMIUM 회원과 ALL ACCESS 회원에게 제공됩니다.\n✔8/1(KST) 신규 유튜브 멤버십 등급이 오픈됩니다.\n\n#KCON #KCON2022LA #INI https://t.co/17OWwaBeYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "INI",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/17OWwaBeYe",
+					"expanded_url": "https://twitter.com/kconusa/status/1552126629979115522",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21 (PDT)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449850,
+			"friends_count": 76,
+			"listed_count": 1123,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552126629979115500,
+		"quoted_status_id_str": "1552126629979115522",
+		"quoted_status_permalink": {
+			"url": "https://t.co/17OWwaBeYe",
+			"expanded": "https://twitter.com/kconusa/status/1552126629979115522",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 27 03:00:00 +0000 2022",
+			"id": 1552126629979115500,
+			"id_str": "1552126629979115522",
+			"full_text": "[DANCE PRACTICE]\nA hidden mission in INI's Dance Practice?🤔 \nMINI, find it out on the full version💘\n\n✔Full ver. is provided to YouTube KCON official's PREMIUM/ALL ACCESS subscribers\n✔New YouTube membership tier will be open on Aug 1(KST)\n\n#KCON #KCON2022LA #INI https://t.co/IW7bPBgHi4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							239,
+							244
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							245,
+							256
+						]
+					},
+					{
+						"text": "INI",
+						"indices": [
+							257,
+							261
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1552069500547129300,
+						"id_str": "1552069500547129344",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1552069500547129344/img/gaTb147hK-fLYnLi.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1552069500547129344/img/gaTb147hK-fLYnLi.jpg",
+						"url": "https://t.co/IW7bPBgHi4",
+						"display_url": "pic.twitter.com/IW7bPBgHi4",
+						"expanded_url": "https://twitter.com/kconusa/status/1552126629979115522/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1552069500547129300,
+						"id_str": "1552069500547129344",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1552069500547129344/img/gaTb147hK-fLYnLi.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1552069500547129344/img/gaTb147hK-fLYnLi.jpg",
+						"url": "https://t.co/IW7bPBgHi4",
+						"display_url": "pic.twitter.com/IW7bPBgHi4",
+						"expanded_url": "https://twitter.com/kconusa/status/1552126629979115522/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30063,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1552069500547129344/vid/640x360/dVgsMrT71h1Ys5U-.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1552069500547129344/vid/480x270/Ks6rPlwemYkAhEc-.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1552069500547129344/pl/mCHcq9x2A80co7QA.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1552069500547129344/vid/1280x720/Rz_KpschxsJQRWb2.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223608,
+				"friends_count": 7,
+				"listed_count": 470,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20392,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1364,
+			"favorite_count": 4123,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 97,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE]\nINI 안무영상 속 히든미션을 받은 멤버는?🤔 \n풀버전으로 정답 확인할 MINI 찾습니다🧐\n\n✔풀버전은 YouTube KCON official 채널 PREMIUM 회원과 ALL ACCESS 회원에게 제공됩니다.\n✔8/1(KST) 신규 유튜브 멤버십 등급이 오픈됩니다.\n\n#KCON #KCON2022LA #INI https://t.co/17OWwaBeYe"
+	},
+	{
+		"created_at": "Wed Jul 27 05:29:33 +0000 2022",
+		"id": 1552159423610916900,
+		"id_str": "1552164266878328836",
+		"full_text": "&lt;공연정보&gt;\n\n• 공연일시 : 22. 8. 13. (토) 2PM (1부) / 7PM (2부)\n 　　 　　　　 　8. 14. (일) 2PM (3부) / 7PM (4부)\n• 아티스트 : 9와 숫자들\n• 장소 : 톤스튜디오 서울\n• 티켓오픈 : 2022. 7. 27. (수) 8PM\n• 예매처 : 멜론티켓\n• 티켓가 : 77,000원 (좌석)\n• 공연문의 : 02-3141-4605",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1552159421958336500,
+		"in_reply_to_status_id_str": "1552159421958336512",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 754,
+			"friends_count": 325,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1640230740",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;공연정보&gt;\n\n• 공연일시 : 22. 8. 13. (토) 2PM (1부) / 7PM (2부)\n 　　 　　　　 　8. 14. (일) 2PM (3부) / 7PM (4부)\n• 아티스트 : 9와 숫자들\n• 장소 : 톤스튜디오 서울\n• 티켓오픈 : 2022. 7. 27. (수) 8PM\n• 예매처 : 멜론티켓\n• 티켓가 : 77,000원 (좌석)\n• 공연문의 : 02-3141-4605"
+	},
+	{
+		"created_at": "Wed Jul 27 05:29:28 +0000 2022",
+		"id": 1552159421958336500,
+		"id_str": "1552164245420347397",
+		"full_text": "1회차: 9와 숫자들(1집) , 빙글빙글\n2회차: 보물섬, 싱글앨범들(산타클로스, 바람을 가둔 미로, 수도국, 99%, Opening)\n3회차: 수렴과 발산, 토털리 블루\n4회차: 유예, 서울시 여러분",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1552159416493179000,
+		"in_reply_to_status_id_str": "1552159416493178880",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 754,
+			"friends_count": 325,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1640230740",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1회차: 9와 숫자들(1집) , 빙글빙글\n2회차: 보물섬, 싱글앨범들(산타클로스, 바람을 가둔 미로, 수도국, 99%, Opening)\n3회차: 수렴과 발산, 토털리 블루\n4회차: 유예, 서울시 여러분"
+	},
+	{
 		"created_at": "Wed Jul 27 04:11:17 +0000 2022",
 		"id": 1552135064661606400,
 		"id_str": "1552144568614887424",
