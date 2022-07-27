@@ -1,6 +1,796 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 04:11:17 +0000 2022",
+		"id": 1552135064661606400,
+		"id_str": "1552144568614887424",
+		"full_text": "[티켓오픈공지]\nPRISM BREAK vol.13 : 더보울스x코토바\nhttps://t.co/yBbUKs8mHc\n———————————————\n* 티켓오픈일 : 2022년 8월 1일(월) 오후 7시\n* 공연일 : 2022년 8월 26일(금) 오후 7시30분\n———————————————\n1. 예매 39,000원\n\n#프리즘홀 #prismhall #더보울스 #코토바 #프리즘브레이크 #홍대공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "더보울스",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "코토바",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "프리즘브레이크",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						211,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yBbUKs8mHc",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6336",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2048,
+			"friends_count": 1114,
+			"listed_count": 29,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓오픈공지]\nPRISM BREAK vol.13 : 더보울스x코토바\nhttps://t.co/yBbUKs8mHc\n———————————————\n* 티켓오픈일 : 2022년 8월 1일(월) 오후 7시\n* 공연일 : 2022년 8월 26일(금) 오후 7시30분\n———————————————\n1. 예매 39,000원\n\n#프리즘홀 #prismhall #더보울스 #코토바 #프리즘브레이크 #홍대공연"
+	},
+	{
+		"created_at": "Wed Jul 27 03:58:15 +0000 2022",
+		"id": 1552126637650616300,
+		"id_str": "1552141287880523777",
+		"full_text": "KCON 2022 LA OFFICIAL MD🎁\n💙PRE-ORDER INFO💚\n\n아카이브 모먼트, LP 포스터, 아크릴 스탠드를 만나보세요!\n\n[KOR] https://t.co/G224Gogjn5\n[ENG] https://t.co/AgsgtAUdOg\n\n📅판매일정 : ~ 8/28 23:59 (PDT) / ~ 8/29 15:59 (KST)\n✔10/4부터 순차배송 예정✔\n\n#KCON #KCONUSA #KCON2022LA https://t.co/7qAtRqiFDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						221,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G224Gogjn5",
+					"expanded_url": "https://bit.ly/3cnqkmy",
+					"display_url": "bit.ly/3cnqkmy",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/AgsgtAUdOg",
+					"expanded_url": "https://bit.ly/3PiW0rU",
+					"display_url": "bit.ly/3PiW0rU",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/7qAtRqiFDl",
+					"expanded_url": "https://twitter.com/kconusa/status/1552096434035367937",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21 (PDT)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449840,
+			"friends_count": 76,
+			"listed_count": 1123,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552096434035368000,
+		"quoted_status_id_str": "1552096434035367937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7qAtRqiFDl",
+			"expanded": "https://twitter.com/kconusa/status/1552096434035367937",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 27 01:00:01 +0000 2022",
+			"id": 1552096434035368000,
+			"id_str": "1552096434035367937",
+			"full_text": "KCON 2022 LA OFFICIAL MD🎁\n💙PRE-ORDER INFO💚\n\nCheck out Archive moment, LP poster, Acrylic stand!\n\n[KOR] https://t.co/8POYfZwOgL\n[ENG] https://t.co/ezdH9MbqaJ\n\n📅Sales period : ~ 8/28 23:59 (PDT) / ~ 8/29 15:59 (KST)\n✔Delivery starts from 10/4✔\n\n#KCON #KCONUSA #KCON2022LA https://t.co/DYs05zt2CH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							243,
+							248
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							249,
+							257
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							258,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8POYfZwOgL",
+						"expanded_url": "https://bit.ly/3cnqkmy",
+						"display_url": "bit.ly/3cnqkmy",
+						"indices": [
+							103,
+							126
+						]
+					},
+					{
+						"url": "https://t.co/ezdH9MbqaJ",
+						"expanded_url": "https://bit.ly/3PiW0rU",
+						"display_url": "bit.ly/3PiW0rU",
+						"indices": [
+							133,
+							156
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1551996112650715100,
+						"id_str": "1551996112650715136",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1551996112650715136/img/ckyNz9EcCpWFadBx.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1551996112650715136/img/ckyNz9EcCpWFadBx.jpg",
+						"url": "https://t.co/DYs05zt2CH",
+						"display_url": "pic.twitter.com/DYs05zt2CH",
+						"expanded_url": "https://twitter.com/kconusa/status/1552096434035367937/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1551996112650715100,
+						"id_str": "1551996112650715136",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1551996112650715136/img/ckyNz9EcCpWFadBx.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1551996112650715136/img/ckyNz9EcCpWFadBx.jpg",
+						"url": "https://t.co/DYs05zt2CH",
+						"display_url": "pic.twitter.com/DYs05zt2CH",
+						"expanded_url": "https://twitter.com/kconusa/status/1552096434035367937/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45833,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1551996112650715136/vid/480x270/X2wPa-IppSKeMLPu.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1551996112650715136/vid/640x360/hJzeiuUyxC81i-hH.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1551996112650715136/pl/bRi9t7R5_WnKmq6p.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1551996112650715136/vid/1280x720/TO230rJ-6v6EvOx9.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223577,
+				"friends_count": 7,
+				"listed_count": 470,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20392,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA OFFICIAL MD🎁\n💙PRE-ORDER INFO💚\n\n아카이브 모먼트, LP 포스터, 아크릴 스탠드를 만나보세요!\n\n[KOR] https://t.co/G224Gogjn5\n[ENG] https://t.co/AgsgtAUdOg\n\n📅판매일정 : ~ 8/28 23:59 (PDT) / ~ 8/29 15:59 (KST)\n✔10/4부터 순차배송 예정✔\n\n#KCON #KCONUSA #KCON2022LA https://t.co/7qAtRqiFDl"
+	},
+	{
+		"created_at": "Wed Jul 27 03:29:29 +0000 2022",
+		"id": 1552120162634965000,
+		"id_str": "1552134048658726912",
+		"full_text": "CHO JUNYOUNG has been cast in the TVING original teen romance drama &lt;우리가 사랑했던 모든 것&gt;, set to be released in 2023! \nTo play ‘고준희’, the mysterious top student at school and ‘고유’’s best friend!\n\n#조준영 #CHOJUNYOUNG \n#우리가사랑했던모든것 \n#고준희 https://t.co/wYDZqjnFwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조준영",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "CHOJUNYOUNG",
+					"indices": [
+						202,
+						214
+					]
+				},
+				{
+					"text": "우리가사랑했던모든것",
+					"indices": [
+						216,
+						227
+					]
+				},
+				{
+					"text": "고준희",
+					"indices": [
+						229,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552120045882331100,
+					"id_str": "1552120045882331136",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FYo89U-UUAAWmeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYo89U-UUAAWmeF.jpg",
+					"url": "https://t.co/wYDZqjnFwL",
+					"display_url": "pic.twitter.com/wYDZqjnFwL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1552120162634964992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552120045882331100,
+					"id_str": "1552120045882331136",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FYo89U-UUAAWmeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYo89U-UUAAWmeF.jpg",
+					"url": "https://t.co/wYDZqjnFwL",
+					"display_url": "pic.twitter.com/wYDZqjnFwL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1552120162634964992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11048454,
+			"friends_count": 56,
+			"listed_count": 12462,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 402,
+		"favorite_count": 2419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHO JUNYOUNG has been cast in the TVING original teen romance drama &lt;우리가 사랑했던 모든 것&gt;, set to be released in 2023! \nTo play ‘고준희’, the mysterious top student at school and ‘고유’’s best friend!\n\n#조준영 #CHOJUNYOUNG \n#우리가사랑했던모든것 \n#고준희 https://t.co/wYDZqjnFwL"
+	},
+	{
 		"created_at": "Wed Jul 27 03:11:17 +0000 2022",
 		"id": 1552127447608336400,
 		"id_str": "1552129469095215104",
