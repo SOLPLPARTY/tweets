@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 07:29:25 +0000 2022",
+		"id": 1552191029356351500,
+		"id_str": "1552194429657694208",
+		"full_text": "[라쿠나 | 구름닮은-라이브]\n\n구름닮은-라이브 여섯 번째 무대에 라쿠나가 함께합니다.\n\n☁ 공연일자 : 22. 08. 14 (일) 5PM\n☁ 공연장소 : 구름아래소극장\n☁ 티켓오픈 : 22. 07. 27(수) 8PM\n☁ 예매 : 인터파크티켓\n☁ 문의 : 02-3280-8800\n\n#라쿠나 #Lacuna\n#공연 #구름닮은라이브 #구름아래소극장 https://t.co/Irl9SXEsrG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라쿠나",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "Lacuna",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "구름닮은라이브",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "구름아래소극장",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552190850532196400,
+					"id_str": "1552190850532196352",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYp9Ws2VQAAOJh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYp9Ws2VQAAOJh9.jpg",
+					"url": "https://t.co/Irl9SXEsrG",
+					"display_url": "pic.twitter.com/Irl9SXEsrG",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1552191029356351490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552190850532196400,
+					"id_str": "1552190850532196352",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYp9Ws2VQAAOJh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYp9Ws2VQAAOJh9.jpg",
+					"url": "https://t.co/Irl9SXEsrG",
+					"display_url": "pic.twitter.com/Irl9SXEsrG",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1552191029356351490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12952,
+			"friends_count": 1914,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[라쿠나 | 구름닮은-라이브]\n\n구름닮은-라이브 여섯 번째 무대에 라쿠나가 함께합니다.\n\n☁ 공연일자 : 22. 08. 14 (일) 5PM\n☁ 공연장소 : 구름아래소극장\n☁ 티켓오픈 : 22. 07. 27(수) 8PM\n☁ 예매 : 인터파크티켓\n☁ 문의 : 02-3280-8800\n\n#라쿠나 #Lacuna\n#공연 #구름닮은라이브 #구름아래소극장 https://t.co/Irl9SXEsrG"
+	},
+	{
 		"created_at": "Wed Jul 27 07:07:10 +0000 2022",
 		"id": 1552188832417661000,
 		"id_str": "1552188832417660928",
