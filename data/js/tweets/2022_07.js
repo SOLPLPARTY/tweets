@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 03:11:17 +0000 2022",
+		"id": 1552489029349908500,
+		"id_str": "1552491856981893121",
+		"full_text": "&lt;The Poles 단독 콘서트 : Goin' High&gt;\n· 일시 : 2022년 08월 27일 (토) 오후 5시, 08월 28일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : The Poles (더폴스)\n· 예매 : 멜론티켓 2022년 08월 04일 (목) 오후 8시 예매오픈\n　\n#롤링홀 #ROLLINGHALL\n#ThePoles #더폴스 #GoinHigh\n#공연 #인디 #멜론티켓 https://t.co/Bvez2pZZeL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "ThePoles",
+					"indices": [
+						183,
+						192
+					]
+				},
+				{
+					"text": "더폴스",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "GoinHigh",
+					"indices": [
+						198,
+						207
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						208,
+						211
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						212,
+						215
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						216,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552152185378861000,
+					"id_str": "1552152185378861056",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FYpaMF7acAAHHlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYpaMF7acAAHHlW.jpg",
+					"url": "https://t.co/Bvez2pZZeL",
+					"display_url": "pic.twitter.com/Bvez2pZZeL",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1552489029349908480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552152185378861000,
+					"id_str": "1552152185378861056",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FYpaMF7acAAHHlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYpaMF7acAAHHlW.jpg",
+					"url": "https://t.co/Bvez2pZZeL",
+					"display_url": "pic.twitter.com/Bvez2pZZeL",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1552489029349908480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;The Poles 단독 콘서트 : Goin' High&gt;\n· 일시 : 2022년 08월 27일 (토) 오후 5시, 08월 28일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : The Poles (더폴스)\n· 예매 : 멜론티켓 2022년 08월 04일 (목) 오후 8시 예매오픈\n　\n#롤링홀 #ROLLINGHALL\n#ThePoles #더폴스 #GoinHigh\n#공연 #인디 #멜론티켓 https://t.co/Bvez2pZZeL"
+	},
+	{
 		"created_at": "Thu Jul 28 02:01:41 +0000 2022",
 		"id": 1552474342373478400,
 		"id_str": "1552474342373478401",
