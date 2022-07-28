@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 07:29:25 +0000 2022",
+		"id": 1552549457761210400,
+		"id_str": "1552556817472946176",
+		"full_text": "📌이자람 판소리극 &lt;노인과 바다&gt; LG아트센터 서울 공연 예매 정보!!\n\n📆 2022.12.09(금) ~ 10(토)\n📍 LG아트센터 서울, LG SIGNATURE 홀 \n🎫 LG아트센터: https://t.co/etdVKN3kVM\n🎫 인터파크: https://t.co/EG28GaQ7wq\n\n@jjjjjam\n\n#이자람 #노인과바다 #LG아트센터 https://t.co/9Hy5SJC2Rt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "노인과바다",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "LG아트센터",
+					"indices": [
+						189,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjjjjam",
+					"name": "LeeJaram",
+					"id": 110053057,
+					"id_str": "110053057",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/etdVKN3kVM",
+					"expanded_url": "https://m.lgart.com/product/performance/252686",
+					"display_url": "m.lgart.com/product/perfor…",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/EG28GaQ7wq",
+					"expanded_url": "https://mobileticket.interpark.com/goods/L0000011?app_tapbar_state",
+					"display_url": "mobileticket.interpark.com/goods/L0000011…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552549450379559000,
+					"id_str": "1552549450379558912",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FYvDf9YaAAAf4-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYvDf9YaAAAf4-s.jpg",
+					"url": "https://t.co/9Hy5SJC2Rt",
+					"display_url": "pic.twitter.com/9Hy5SJC2Rt",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1552549457761210368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552549450379559000,
+					"id_str": "1552549450379558912",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FYvDf9YaAAAf4-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYvDf9YaAAAf4-s.jpg",
+					"url": "https://t.co/9Hy5SJC2Rt",
+					"display_url": "pic.twitter.com/9Hy5SJC2Rt",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1552549457761210368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 183,
+			"listed_count": 0,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌이자람 판소리극 &lt;노인과 바다&gt; LG아트센터 서울 공연 예매 정보!!\n\n📆 2022.12.09(금) ~ 10(토)\n📍 LG아트센터 서울, LG SIGNATURE 홀 \n🎫 LG아트센터: https://t.co/etdVKN3kVM\n🎫 인터파크: https://t.co/EG28GaQ7wq\n\n@jjjjjam\n\n#이자람 #노인과바다 #LG아트센터 https://t.co/9Hy5SJC2Rt"
+	},
+	{
 		"created_at": "Thu Jul 28 06:29:31 +0000 2022",
 		"id": 1552535579270664200,
 		"id_str": "1552541747040903168",
