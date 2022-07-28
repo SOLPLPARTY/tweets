@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 03:58:15 +0000 2022",
+		"id": 1552489028783640600,
+		"id_str": "1552503677121880064",
+		"full_text": "💙KCON ROOKIES ➫ 8/19(PDT)💚\n✔FIND YOUR PICK!✔\n내 취향에 딱! 맞는 그룹은 과연 누구일까?🤔\n지금 바로 사다리타기 게임을 통해 확인해보세요🤗\n\n🎫KCON ROOKIES TICKETS SALES : https://t.co/H9QPXVnCwY\n\n#KCON #KCONUSA #KCON2022LA https://t.co/HvK8K2DI1w https://t.co/R0lWcZH8xJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						169,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H9QPXVnCwY",
+					"expanded_url": "https://bit.ly/3bBVQNv",
+					"display_url": "bit.ly/3bBVQNv",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/HvK8K2DI1w",
+					"expanded_url": "https://twitter.com/kconusa/status/1552458826204385281",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552484592544026600,
+					"id_str": "1552484592544026625",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FYuIgvHakAE1yoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYuIgvHakAE1yoo.jpg",
+					"url": "https://t.co/R0lWcZH8xJ",
+					"display_url": "pic.twitter.com/R0lWcZH8xJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1552489028783640576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552484592544026600,
+					"id_str": "1552484592544026625",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FYuIgvHakAE1yoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYuIgvHakAE1yoo.jpg",
+					"url": "https://t.co/R0lWcZH8xJ",
+					"display_url": "pic.twitter.com/R0lWcZH8xJ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1552489028783640576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21 (PDT)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449851,
+			"friends_count": 76,
+			"listed_count": 1119,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552458826204385300,
+		"quoted_status_id_str": "1552458826204385281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HvK8K2DI1w",
+			"expanded": "https://twitter.com/kconusa/status/1552458826204385281",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 28 01:00:02 +0000 2022",
+			"id": 1552458826204385300,
+			"id_str": "1552458826204385281",
+			"full_text": "💙KCON ROOKIES ➫ 8/19(PDT)💚\n✔FIND YOUR PICK!✔\nWhich artist group suits your taste?🤔\nFind out right now through the ghost leg game🤗\n\n🎫KCON ROOKIES TICKETS SALES : https://t.co/1AwynZiRCi\n\n#KCON #KCONUSA #KCON2022LA https://t.co/pxwncuxlvF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							186,
+							191
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							192,
+							200
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							201,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1AwynZiRCi",
+						"expanded_url": "https://bit.ly/3bBVQNv",
+						"display_url": "bit.ly/3bBVQNv",
+						"indices": [
+							161,
+							184
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1552355970227269600,
+						"id_str": "1552355970227269632",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FYsTh7pacAARrP7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYsTh7pacAARrP7.jpg",
+						"url": "https://t.co/pxwncuxlvF",
+						"display_url": "pic.twitter.com/pxwncuxlvF",
+						"expanded_url": "https://twitter.com/kconusa/status/1552458826204385281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1552355970227269600,
+						"id_str": "1552355970227269632",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FYsTh7pacAARrP7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYsTh7pacAARrP7.jpg",
+						"url": "https://t.co/pxwncuxlvF",
+						"display_url": "pic.twitter.com/pxwncuxlvF",
+						"expanded_url": "https://twitter.com/kconusa/status/1552458826204385281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223668,
+				"friends_count": 7,
+				"listed_count": 472,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20396,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 240,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙KCON ROOKIES ➫ 8/19(PDT)💚\n✔FIND YOUR PICK!✔\n내 취향에 딱! 맞는 그룹은 과연 누구일까?🤔\n지금 바로 사다리타기 게임을 통해 확인해보세요🤗\n\n🎫KCON ROOKIES TICKETS SALES : https://t.co/H9QPXVnCwY\n\n#KCON #KCONUSA #KCON2022LA https://t.co/HvK8K2DI1w https://t.co/R0lWcZH8xJ"
+	},
+	{
+		"created_at": "Thu Jul 28 03:29:34 +0000 2022",
+		"id": 1552496232630612000,
+		"id_str": "1552496459131527170",
+		"full_text": "인플래닛 아티스트를 한자리에서 만나볼 수 있는 특별한 콘서트 ‘인플래닛 레이블 콘 2022’가 2022년 8월 20일 토요일, 홍대 웨스트브릿지 라이브홀에서 2회 공연으로 펼쳐집니다.\n\n- 티켓오픈 : 2022년 8월 1일 월요일 18시 / 멜론티켓 https://t.co/V8RLRzdr2n https://t.co/8AKkMD2wTw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V8RLRzdr2n",
+					"expanded_url": "http://kko.to/Bm4YY100m",
+					"display_url": "kko.to/Bm4YY100m",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552496216230858800,
+					"id_str": "1552496216230858752",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+					"url": "https://t.co/8AKkMD2wTw",
+					"display_url": "pic.twitter.com/8AKkMD2wTw",
+					"expanded_url": "https://twitter.com/inplanet/status/1552496232630611968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552496216230858800,
+					"id_str": "1552496216230858752",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+					"url": "https://t.co/8AKkMD2wTw",
+					"display_url": "pic.twitter.com/8AKkMD2wTw",
+					"expanded_url": "https://twitter.com/inplanet/status/1552496232630611968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 768,
+			"listed_count": 0,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인플래닛 아티스트를 한자리에서 만나볼 수 있는 특별한 콘서트 ‘인플래닛 레이블 콘 2022’가 2022년 8월 20일 토요일, 홍대 웨스트브릿지 라이브홀에서 2회 공연으로 펼쳐집니다.\n\n- 티켓오픈 : 2022년 8월 1일 월요일 18시 / 멜론티켓 https://t.co/V8RLRzdr2n https://t.co/8AKkMD2wTw"
+	},
+	{
+		"created_at": "Thu Jul 28 03:29:28 +0000 2022",
+		"id": 1552490987951272000,
+		"id_str": "1552496433496051714",
+		"full_text": "홍진호 [Modern Cello]\nTrack 5. 액자\n\nMelon https://t.co/0bslhf0AwK\nGenie https://t.co/NFlPMW6EGl\nBugs https://t.co/LVwcdrKlkG\nFLO https://t.co/0iSW9MwkiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0bslhf0AwK",
+					"expanded_url": "http://bit.ly/3zCipeg",
+					"display_url": "bit.ly/3zCipeg",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/NFlPMW6EGl",
+					"expanded_url": "http://bit.ly/3PQJnEm",
+					"display_url": "bit.ly/3PQJnEm",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/LVwcdrKlkG",
+					"expanded_url": "http://bit.ly/3Qi1Aen",
+					"display_url": "bit.ly/3Qi1Aen",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/0iSW9MwkiN",
+					"expanded_url": "http://bit.ly/3SaWXnR",
+					"display_url": "bit.ly/3SaWXnR",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1552490984507711500,
+		"in_reply_to_status_id_str": "1552490984507711488",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40610,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍진호 [Modern Cello]\nTrack 5. 액자\n\nMelon https://t.co/0bslhf0AwK\nGenie https://t.co/NFlPMW6EGl\nBugs https://t.co/LVwcdrKlkG\nFLO https://t.co/0iSW9MwkiN"
+	},
+	{
 		"created_at": "Thu Jul 28 03:11:17 +0000 2022",
 		"id": 1552489029349908500,
 		"id_str": "1552491856981893121",
