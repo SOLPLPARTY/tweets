@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 05:58:17 +0000 2022",
+		"id": 1552519268666712000,
+		"id_str": "1552533884620922881",
+		"full_text": "[2022 렛츠락페스티벌 공식 포스터 공개]\n\n❇ 블라인드 티켓 오픈 D-1 ❇\n\n2022 공식 포스터를 공개합니다✨\n\n푸른 하늘 아래 펼쳐질 도심 속 음악 축제! \n우리 함께 렛츠락!🤟🏻🔥\n\n⚡블라인드 티켓 오픈 : 7/29(금) 오후 2시\n⚡블라인드 티켓 가격 : 110,000원 (한정수량)\n⚡예매처 : 인터파크 티켓 https://t.co/A5vsqhBTpx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552515756780163000,
+					"id_str": "1552515756780163073",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FYuk2u8UEAEc_IJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYuk2u8UEAEc_IJ.jpg",
+					"url": "https://t.co/A5vsqhBTpx",
+					"display_url": "pic.twitter.com/A5vsqhBTpx",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1552519268666712065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552515756780163000,
+					"id_str": "1552515756780163073",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FYuk2u8UEAEc_IJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYuk2u8UEAEc_IJ.jpg",
+					"url": "https://t.co/A5vsqhBTpx",
+					"display_url": "pic.twitter.com/A5vsqhBTpx",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1552519268666712065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4006,
+			"friends_count": 138,
+			"listed_count": 49,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 공식 포스터 공개]\n\n❇ 블라인드 티켓 오픈 D-1 ❇\n\n2022 공식 포스터를 공개합니다✨\n\n푸른 하늘 아래 펼쳐질 도심 속 음악 축제! \n우리 함께 렛츠락!🤟🏻🔥\n\n⚡블라인드 티켓 오픈 : 7/29(금) 오후 2시\n⚡블라인드 티켓 가격 : 110,000원 (한정수량)\n⚡예매처 : 인터파크 티켓 https://t.co/A5vsqhBTpx"
+	},
+	{
+		"created_at": "Thu Jul 28 05:58:15 +0000 2022",
+		"id": 1552519225608007700,
+		"id_str": "1552533875615830016",
+		"full_text": "[DANCE PRACTICE]\nSTAYC 안무영상 속 히든미션을 받은 멤버는?🤔\n풀버전 확인하고 천재스윗 되는 것? 어렵지 않다.😎\n\n✔풀버전은 YouTube KCON official 채널 PREMIUM 회원과 ALL ACCESS 회원에게 제공됩니다.\n✔8/1(KST) 신규 유튜브 멤버십 등급이 오픈됩니다.\n\n#KCON #KCON2022LA #STAYC #스테이씨 https://t.co/Wo9WAU1gDM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						180,
+						191
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						199,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wo9WAU1gDM",
+					"expanded_url": "https://twitter.com/kconusa/status/1552489023825854464",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21 (PDT)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449850,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552489023825854500,
+		"quoted_status_id_str": "1552489023825854464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wo9WAU1gDM",
+			"expanded": "https://twitter.com/kconusa/status/1552489023825854464",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 28 03:00:01 +0000 2022",
+			"id": 1552489023825854500,
+			"id_str": "1552489023825854464",
+			"full_text": "[DANCE PRACTICE]\nA hidden mission in STAYC's DANCE PRACTICE🤔\nSWITH, find out on the full version💘\n\n✔Full ver. is provided to YouTube KCON official's PREMIUM/ALL ACCESS subscribers\n✔New YouTube membership tier will be open on Aug 1(KST)\n\n#KCON #KCON2022LA #STAYC #스테이씨 https://t.co/ZUss2B1b2J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							237,
+							242
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							243,
+							254
+						]
+					},
+					{
+						"text": "STAYC",
+						"indices": [
+							255,
+							261
+						]
+					},
+					{
+						"text": "스테이씨",
+						"indices": [
+							262,
+							267
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1552352416661586000,
+						"id_str": "1552352416661585920",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1552352416661585920/img/KoOrZJJ7izMV8aWr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1552352416661585920/img/KoOrZJJ7izMV8aWr.jpg",
+						"url": "https://t.co/ZUss2B1b2J",
+						"display_url": "pic.twitter.com/ZUss2B1b2J",
+						"expanded_url": "https://twitter.com/kconusa/status/1552489023825854464/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1552352416661586000,
+						"id_str": "1552352416661585920",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1552352416661585920/img/KoOrZJJ7izMV8aWr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1552352416661585920/img/KoOrZJJ7izMV8aWr.jpg",
+						"url": "https://t.co/ZUss2B1b2J",
+						"display_url": "pic.twitter.com/ZUss2B1b2J",
+						"expanded_url": "https://twitter.com/kconusa/status/1552489023825854464/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30063,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1552352416661585920/pl/I0ATTSxM2RFpslt7.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1552352416661585920/vid/640x360/ZnYefYnAkTU9FyKA.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1552352416661585920/vid/1280x720/Zf5GZVase15yPZip.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1552352416661585920/vid/480x270/GCrMiszDv35sKpyf.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223665,
+				"friends_count": 7,
+				"listed_count": 471,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20396,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 138,
+			"favorite_count": 398,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE]\nSTAYC 안무영상 속 히든미션을 받은 멤버는?🤔\n풀버전 확인하고 천재스윗 되는 것? 어렵지 않다.😎\n\n✔풀버전은 YouTube KCON official 채널 PREMIUM 회원과 ALL ACCESS 회원에게 제공됩니다.\n✔8/1(KST) 신규 유튜브 멤버십 등급이 오픈됩니다.\n\n#KCON #KCON2022LA #STAYC #스테이씨 https://t.co/Wo9WAU1gDM"
+	},
+	{
 		"created_at": "Thu Jul 28 03:58:15 +0000 2022",
 		"id": 1552489028783640600,
 		"id_str": "1552503677121880064",
