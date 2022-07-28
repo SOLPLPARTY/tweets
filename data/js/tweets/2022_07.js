@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 08:29:37 +0000 2022",
+		"id": 1552570548034601000,
+		"id_str": "1552571969719214082",
+		"full_text": "🍀 일시 : 2022. 9. 16.(금) ~ 9. 18.(일)\n🍀 장소 : 대청공원(대전광역시 대덕구 대청로 607)\n🍀 모든 관객분들은 무료로 입장 가능!\n🍀 돗자리는 필수!\n🍀 셔틀버스 이용 가능(편도 1,000원)\n\n#소란 #솔루션스 #데이브레이크 #대청호대덕뮤직페스티벌 #대청공원 #ddmf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소란",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "대청호대덕뮤직페스티벌",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "대청공원",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "ddmf",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1552570514333642800,
+		"in_reply_to_status_id_str": "1552570514333642752",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12947,
+			"friends_count": 1912,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🍀 일시 : 2022. 9. 16.(금) ~ 9. 18.(일)\n🍀 장소 : 대청공원(대전광역시 대덕구 대청로 607)\n🍀 모든 관객분들은 무료로 입장 가능!\n🍀 돗자리는 필수!\n🍀 셔틀버스 이용 가능(편도 1,000원)\n\n#소란 #솔루션스 #데이브레이크 #대청호대덕뮤직페스티벌 #대청공원 #ddmf"
+	},
+	{
+		"created_at": "Thu Jul 28 08:29:28 +0000 2022",
+		"id": 1552570514333642800,
+		"id_str": "1552571931458785280",
+		"full_text": "[페스티벌 | 2022 대청호대덕뮤직페스티벌]\n\n9월 16일에서 18일, 대전광역시 대청공원에서 펼쳐지는 '2022 대청호대덕뮤직페스티벌'에 소란, 솔루션스, 데이브레이크가 출연합니다.\n\n자세한 사항은 2022 DDMF 인스타그램 (@ddmusicfestival)에서 확인 가능합니다. https://t.co/4Njkyw8INq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DDMusicFestival",
+					"name": "Deep Deuce Music",
+					"id": 1362513175,
+					"id_str": "1362513175",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552570321659887600,
+					"id_str": "1552570321659887618",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FYvWe09aAAIWRGm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYvWe09aAAIWRGm.jpg",
+					"url": "https://t.co/4Njkyw8INq",
+					"display_url": "pic.twitter.com/4Njkyw8INq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1552570514333642752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552570321659887600,
+					"id_str": "1552570321659887618",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FYvWe09aAAIWRGm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYvWe09aAAIWRGm.jpg",
+					"url": "https://t.co/4Njkyw8INq",
+					"display_url": "pic.twitter.com/4Njkyw8INq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1552570514333642752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552570321676664800,
+					"id_str": "1552570321676664833",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FYvWe1BaAAETrzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYvWe1BaAAETrzj.jpg",
+					"url": "https://t.co/4Njkyw8INq",
+					"display_url": "pic.twitter.com/4Njkyw8INq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1552570514333642752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 826,
+							"h": 824,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 826,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552570321651507200,
+					"id_str": "1552570321651507200",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FYvWe07aIAAxKzn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYvWe07aIAAxKzn.jpg",
+					"url": "https://t.co/4Njkyw8INq",
+					"display_url": "pic.twitter.com/4Njkyw8INq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1552570514333642752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 898,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552570321655730200,
+					"id_str": "1552570321655730176",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FYvWe08akAA0om1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYvWe08akAA0om1.jpg",
+					"url": "https://t.co/4Njkyw8INq",
+					"display_url": "pic.twitter.com/4Njkyw8INq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1552570514333642752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12947,
+			"friends_count": 1912,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[페스티벌 | 2022 대청호대덕뮤직페스티벌]\n\n9월 16일에서 18일, 대전광역시 대청공원에서 펼쳐지는 '2022 대청호대덕뮤직페스티벌'에 소란, 솔루션스, 데이브레이크가 출연합니다.\n\n자세한 사항은 2022 DDMF 인스타그램 (@ddmusicfestival)에서 확인 가능합니다. https://t.co/4Njkyw8INq"
+	},
+	{
 		"created_at": "Thu Jul 28 07:29:25 +0000 2022",
 		"id": 1552549457761210400,
 		"id_str": "1552556817472946176",
