@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 11:03:44 +0000 2022",
+		"id": 1554060304954413000,
+		"id_str": "1554060304954413056",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n괜히 더 감성적이야, 바이닐로 듣는 𝓀𝑒𝓈𝒽𝒾 - 𝒯𝒪𝒰𝒞𝐻ㅣ유니네레코드ㅣLPㅣVinyl\nhttps://t.co/VgmKBqgRbK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VgmKBqgRbK",
+					"expanded_url": "https://youtu.be/8XlYYE4Lj5c",
+					"display_url": "youtu.be/8XlYYE4Lj5c",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n괜히 더 감성적이야, 바이닐로 듣는 𝓀𝑒𝓈𝒽𝒾 - 𝒯𝒪𝒰𝒞𝐻ㅣ유니네레코드ㅣLPㅣVinyl\nhttps://t.co/VgmKBqgRbK"
+	},
+	{
+		"created_at": "Mon Aug 01 10:29:30 +0000 2022",
+		"id": 1554048967150669800,
+		"id_str": "1554051689044447232",
+		"full_text": "[#Notice] #정재형\n\n정재형이 8/27 (토) 오후 7시 30분, 분당중앙공원 야외공연장에서 열리는 '2022 파크콘서트'에 함께합니다🌿 본 공연은 무료로 관람하실 수 있습니다.\n\n@le_petit_piano \n#JungJaeHyung #2022파크콘서트 https://t.co/ZIkzTLjf1h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "JungJaeHyung",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "2022파크콘서트",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						105,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554048957562896400,
+					"id_str": "1554048957562896385",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEXSw8aQAEgAuB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEXSw8aQAEgAuB.jpg",
+					"url": "https://t.co/ZIkzTLjf1h",
+					"display_url": "pic.twitter.com/ZIkzTLjf1h",
+					"expanded_url": "https://twitter.com/antennamusic/status/1554048967150669826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1372,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554048957562896400,
+					"id_str": "1554048957562896385",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEXSw8aQAEgAuB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEXSw8aQAEgAuB.jpg",
+					"url": "https://t.co/ZIkzTLjf1h",
+					"display_url": "pic.twitter.com/ZIkzTLjf1h",
+					"expanded_url": "https://twitter.com/antennamusic/status/1554048967150669826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1372,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40595,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #정재형\n\n정재형이 8/27 (토) 오후 7시 30분, 분당중앙공원 야외공연장에서 열리는 '2022 파크콘서트'에 함께합니다🌿 본 공연은 무료로 관람하실 수 있습니다.\n\n@le_petit_piano \n#JungJaeHyung #2022파크콘서트 https://t.co/ZIkzTLjf1h"
+	},
+	{
 		"created_at": "Mon Aug 01 10:11:17 +0000 2022",
 		"id": 1554018991932186600,
 		"id_str": "1554047104192024576",
