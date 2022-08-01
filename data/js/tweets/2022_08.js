@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 07:29:24 +0000 2022",
+		"id": 1554000202394390500,
+		"id_str": "1554006368486625283",
+		"full_text": "[2022 카카오엔터테인먼트 프렌즈 전국 오디션]\n\n📣 전국 오디션 사전접수 마감 기한 연장\n▷ ~ 8/2(화) 23:59 까지\n사전 접수 마지막날 지원자 폭증으로 인하여 접수 사이트가 일정 기간 오픈 되지 않아 사전 접수 기간을 연장 하오니, 사전 접수를 완료하지 못하신 분들은 기간 내에 지원해주세요! https://t.co/Z0P0zxYN4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553999983925690400,
+					"id_str": "1553999983925690369",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDqwH7agAELYLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDqwH7agAELYLA.jpg",
+					"url": "https://t.co/Z0P0zxYN4d",
+					"display_url": "pic.twitter.com/Z0P0zxYN4d",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1554000202394390528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553999983925690400,
+					"id_str": "1553999983925690369",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDqwH7agAELYLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDqwH7agAELYLA.jpg",
+					"url": "https://t.co/Z0P0zxYN4d",
+					"display_url": "pic.twitter.com/Z0P0zxYN4d",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1554000202394390528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2974,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1643778950",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 카카오엔터테인먼트 프렌즈 전국 오디션]\n\n📣 전국 오디션 사전접수 마감 기한 연장\n▷ ~ 8/2(화) 23:59 까지\n사전 접수 마지막날 지원자 폭증으로 인하여 접수 사이트가 일정 기간 오픈 되지 않아 사전 접수 기간을 연장 하오니, 사전 접수를 완료하지 못하신 분들은 기간 내에 지원해주세요! https://t.co/Z0P0zxYN4d"
+	},
+	{
 		"created_at": "Mon Aug 01 07:11:19 +0000 2022",
 		"id": 1554001375868100600,
 		"id_str": "1554001815733243906",
