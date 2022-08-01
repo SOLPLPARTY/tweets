@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 11:29:24 +0000 2022",
+		"id": 1554062844735344600,
+		"id_str": "1554066766606831616",
+		"full_text": "🎼장르불문 창작가요제, 인천시티팝! 도시를 노래하는 띵곡을 찾습니다!\n \n📌대한민국 국민이라면 누구나!\n📋모집기간: 7/28(목) ~ 8/31(수)\n\n📌작곡, 가창, 싱어송라이터 부문 \n📌전 장르 가능(시티팝 장르만 지원하는 가요제 아님(엄근진)🤟🤟\n\n👉바로 지원하기: https://t.co/VMUesaFMS0 https://t.co/G0GY1dVmEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VMUesaFMS0",
+					"expanded_url": "https://forms.gle/uriehSbnomLaCQFz5",
+					"display_url": "forms.gle/uriehSbnomLaCQ…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554062819238088700,
+					"id_str": "1554062819238088704",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEj5ntUEAAl9eW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEj5ntUEAAl9eW.jpg",
+					"url": "https://t.co/G0GY1dVmEF",
+					"display_url": "pic.twitter.com/G0GY1dVmEF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1554062844735344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554062819238088700,
+					"id_str": "1554062819238088704",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEj5ntUEAAl9eW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEj5ntUEAAl9eW.jpg",
+					"url": "https://t.co/G0GY1dVmEF",
+					"display_url": "pic.twitter.com/G0GY1dVmEF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1554062844735344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554062826817261600,
+					"id_str": "1554062826817261569",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEj6D8VEAEalXk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEj6D8VEAEalXk.jpg",
+					"url": "https://t.co/G0GY1dVmEF",
+					"display_url": "pic.twitter.com/G0GY1dVmEF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1554062844735344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554062834023075800,
+					"id_str": "1554062834023075840",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEj6eyVEAAWBAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEj6eyVEAAWBAk.jpg",
+					"url": "https://t.co/G0GY1dVmEF",
+					"display_url": "pic.twitter.com/G0GY1dVmEF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1554062844735344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554062841904148500,
+					"id_str": "1554062841904148481",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEj68JUsAEyArB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEj68JUsAEyArB.jpg",
+					"url": "https://t.co/G0GY1dVmEF",
+					"display_url": "pic.twitter.com/G0GY1dVmEF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1554062844735344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7559,
+			"friends_count": 8201,
+			"listed_count": 196,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎼장르불문 창작가요제, 인천시티팝! 도시를 노래하는 띵곡을 찾습니다!\n \n📌대한민국 국민이라면 누구나!\n📋모집기간: 7/28(목) ~ 8/31(수)\n\n📌작곡, 가창, 싱어송라이터 부문 \n📌전 장르 가능(시티팝 장르만 지원하는 가요제 아님(엄근진)🤟🤟\n\n👉바로 지원하기: https://t.co/VMUesaFMS0 https://t.co/G0GY1dVmEF"
+	},
+	{
 		"created_at": "Mon Aug 01 11:03:44 +0000 2022",
 		"id": 1554060304954413000,
 		"id_str": "1554060304954413056",
