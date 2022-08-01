@@ -1,6 +1,1068 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 09:12:43 +0000 2022",
+		"id": 1554032366955290600,
+		"id_str": "1554032366955290624",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n정훈, 박효경 (Junghun x Hyogyung) - Keep it on you [Lyric Video]\nhttps://t.co/nb3T9VifkV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nb3T9VifkV",
+					"expanded_url": "https://youtu.be/Hycy-SbX97c",
+					"display_url": "youtu.be/Hycy-SbX97c",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n정훈, 박효경 (Junghun x Hyogyung) - Keep it on you [Lyric Video]\nhttps://t.co/nb3T9VifkV"
+	},
+	{
+		"created_at": "Mon Aug 01 08:58:19 +0000 2022",
+		"id": 1554024420112355300,
+		"id_str": "1554028742397370369",
+		"full_text": "인터파크 티켓 공식티켓 오픈 공지 URL\n🔗 https://t.co/YaDuLvAWKf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YaDuLvAWKf",
+					"expanded_url": "https://url.kr/ytnjq9",
+					"display_url": "url.kr/ytnjq9",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1554024272674181000,
+		"in_reply_to_status_id_str": "1554024272674181120",
+		"in_reply_to_user_id": 158300000,
+		"in_reply_to_user_id_str": "158300000",
+		"in_reply_to_screen_name": "letsrockfe",
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4019,
+			"friends_count": 138,
+			"listed_count": 48,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인터파크 티켓 공식티켓 오픈 공지 URL\n🔗 https://t.co/YaDuLvAWKf"
+	},
+	{
+		"created_at": "Mon Aug 01 08:58:15 +0000 2022",
+		"id": 1554024272674181000,
+		"id_str": "1554028725146210304",
+		"full_text": "[2022 렛츠락페스티벌 공식티켓 오픈 안내]\n\n❇️ 공식 티켓 오픈 D-1 ❇️\n\n📢8월 2일 (화) 오후 2시,\n공식 티켓 예매가 오픈됩니다!\n\n⚡️ 공식 티켓 오픈 : 8/2(화) 오후 2시\n⚡️ 공식 티켓가 : 1일권 99,000원 / 2일권 154,000원\n⚡️ 예매처 : 인터파크 티켓\n\n#렛츠락페스티벌 #2022렛츠락페스티벌 https://t.co/ZtrF5WUSzC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "렛츠락페스티벌",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "2022렛츠락페스티벌",
+					"indices": [
+						176,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554024269159743500,
+					"id_str": "1554024269159743488",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEA1teaQAAvX08.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEA1teaQAAvX08.jpg",
+					"url": "https://t.co/ZtrF5WUSzC",
+					"display_url": "pic.twitter.com/ZtrF5WUSzC",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1554024272674181120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554024269159743500,
+					"id_str": "1554024269159743488",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEA1teaQAAvX08.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEA1teaQAAvX08.jpg",
+					"url": "https://t.co/ZtrF5WUSzC",
+					"display_url": "pic.twitter.com/ZtrF5WUSzC",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1554024272674181120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)",
+			"url": "https://t.co/1V3BUitnJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUitnJS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4019,
+			"friends_count": 138,
+			"listed_count": 48,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 공식티켓 오픈 안내]\n\n❇️ 공식 티켓 오픈 D-1 ❇️\n\n📢8월 2일 (화) 오후 2시,\n공식 티켓 예매가 오픈됩니다!\n\n⚡️ 공식 티켓 오픈 : 8/2(화) 오후 2시\n⚡️ 공식 티켓가 : 1일권 99,000원 / 2일권 154,000원\n⚡️ 예매처 : 인터파크 티켓\n\n#렛츠락페스티벌 #2022렛츠락페스티벌 https://t.co/ZtrF5WUSzC"
+	},
+	{
+		"created_at": "Mon Aug 01 08:29:39 +0000 2022",
+		"id": 1554019103035125800,
+		"id_str": "1554021527846375427",
+		"full_text": "잠시 후 6시부터 티켓오픈이 시작됩니다! \nhttps://t.co/x54mImnaoI https://t.co/gqVlUfIFID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x54mImnaoI",
+					"expanded_url": "http://kko.to/5akCMUIfT",
+					"display_url": "kko.to/5akCMUIfT",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/gqVlUfIFID",
+					"expanded_url": "https://twitter.com/inplanet/status/1552496232630611968",
+					"display_url": "twitter.com/inplanet/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 767,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552496232630612000,
+		"quoted_status_id_str": "1552496232630611968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gqVlUfIFID",
+			"expanded": "https://twitter.com/inplanet/status/1552496232630611968",
+			"display": "twitter.com/inplanet/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 28 03:28:40 +0000 2022",
+			"id": 1552496232630612000,
+			"id_str": "1552496232630611968",
+			"full_text": "인플래닛 아티스트를 한자리에서 만나볼 수 있는 특별한 콘서트 ‘인플래닛 레이블 콘 2022’가 2022년 8월 20일 토요일, 홍대 웨스트브릿지 라이브홀에서 2회 공연으로 펼쳐집니다.\n\n- 티켓오픈 : 2022년 8월 1일 월요일 18시 / 멜론티켓 https://t.co/V8RLRzdr2n https://t.co/8AKkMD2wTw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V8RLRzdr2n",
+						"expanded_url": "http://kko.to/Bm4YY100m",
+						"display_url": "kko.to/Bm4YY100m",
+						"indices": [
+							140,
+							163
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1552496216230858800,
+						"id_str": "1552496216230858752",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+						"url": "https://t.co/8AKkMD2wTw",
+						"display_url": "pic.twitter.com/8AKkMD2wTw",
+						"expanded_url": "https://twitter.com/inplanet/status/1552496232630611968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1552496216230858800,
+						"id_str": "1552496216230858752",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYuTFUuUEAAktbD.jpg",
+						"url": "https://t.co/8AKkMD2wTw",
+						"display_url": "pic.twitter.com/8AKkMD2wTw",
+						"expanded_url": "https://twitter.com/inplanet/status/1552496232630611968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76964739,
+				"id_str": "76964739",
+				"name": "inplanet",
+				"screen_name": "inplanet",
+				"location": "Seoul, KOREA",
+				"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+				"url": "https://t.co/WF9ly7o9FQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WF9ly7o9FQ",
+								"expanded_url": "http://www.inplanet.co.kr",
+								"display_url": "inplanet.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1435,
+				"friends_count": 767,
+				"listed_count": 62,
+				"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+				"favourites_count": 134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5540,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "0099FF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 6시부터 티켓오픈이 시작됩니다! \nhttps://t.co/x54mImnaoI https://t.co/gqVlUfIFID"
+	},
+	{
+		"created_at": "Mon Aug 01 08:29:35 +0000 2022",
+		"id": 1554018468709945300,
+		"id_str": "1554021510616158208",
+		"full_text": "[#Notice] #윤석철\n\n윤석철트리오가 8/19 (금) 19시, 트라이보울 야외 공간에서 열리는 '2022 트라이보울 재즈 페스티벌'에 함께합니다💚 본 공연은 무료로 관람하실 수 있습니다.\n\n@SCJAZZY \n#YunSeokCheol\n#2022트라이보울재즈페스티벌 https://t.co/3GFIH7lJuA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "2022트라이보울재즈페스티벌",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554018411415748600,
+					"id_str": "1554018411415748608",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FZD7gvraQAA4Poz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZD7gvraQAA4Poz.jpg",
+					"url": "https://t.co/3GFIH7lJuA",
+					"display_url": "pic.twitter.com/3GFIH7lJuA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1554018468709945345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1445,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554018411415748600,
+					"id_str": "1554018411415748608",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FZD7gvraQAA4Poz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZD7gvraQAA4Poz.jpg",
+					"url": "https://t.co/3GFIH7lJuA",
+					"display_url": "pic.twitter.com/3GFIH7lJuA",
+					"expanded_url": "https://twitter.com/antennamusic/status/1554018468709945345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1445,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40596,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #윤석철\n\n윤석철트리오가 8/19 (금) 19시, 트라이보울 야외 공간에서 열리는 '2022 트라이보울 재즈 페스티벌'에 함께합니다💚 본 공연은 무료로 관람하실 수 있습니다.\n\n@SCJAZZY \n#YunSeokCheol\n#2022트라이보울재즈페스티벌 https://t.co/3GFIH7lJuA"
+	},
+	{
+		"created_at": "Mon Aug 01 08:29:29 +0000 2022",
+		"id": 1554015694190448600,
+		"id_str": "1554021484997255171",
+		"full_text": "8/7 (일) 오후 5시 @ 상상마당 홍대\n[#박소은] 부산락킹루키쇼 in 홍대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						25,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1554015672317145000,
+		"in_reply_to_status_id_str": "1554015672317145088",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2268,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "8/7 (일) 오후 5시 @ 상상마당 홍대\n[#박소은] 부산락킹루키쇼 in 홍대"
+	},
+	{
 		"created_at": "Mon Aug 01 07:29:24 +0000 2022",
 		"id": 1554000202394390500,
 		"id_str": "1554006368486625283",
