@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 05:29:25 +0000 2022",
+		"id": 1553965906220290000,
+		"id_str": "1553976170940665856",
+		"full_text": "[코멘터리 룸: 김새녘 &lt;새빛깔&gt; 편] \n2022.8.19(금) PM 8:00 • 예매 22000원(현매는 없습니다.)\n\n예매: https://t.co/9Ov6LGCmft\n\n김새녘과 앨범의 하박국이 전하는 앨범 제작 및 작업 과정에 얽힌 비하인드 스토리들과 미니 라이브가 이어집니다. https://t.co/U5PkF2LXyd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Ov6LGCmft",
+					"expanded_url": "https://m.booking.naver.com/booking/5/bizes/231373/items/4550560",
+					"display_url": "m.booking.naver.com/booking/5/bize…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1553965902500024300,
+					"id_str": "1553965902500024323",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDLwUuVUAMhbzu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDLwUuVUAMhbzu.jpg",
+					"url": "https://t.co/U5PkF2LXyd",
+					"display_url": "pic.twitter.com/U5PkF2LXyd",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1553965906220290048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553965902500024300,
+					"id_str": "1553965902500024323",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDLwUuVUAMhbzu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDLwUuVUAMhbzu.jpg",
+					"url": "https://t.co/U5PkF2LXyd",
+					"display_url": "pic.twitter.com/U5PkF2LXyd",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1553965906220290048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3490,
+			"friends_count": 1184,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코멘터리 룸: 김새녘 &lt;새빛깔&gt; 편] \n2022.8.19(금) PM 8:00 • 예매 22000원(현매는 없습니다.)\n\n예매: https://t.co/9Ov6LGCmft\n\n김새녘과 앨범의 하박국이 전하는 앨범 제작 및 작업 과정에 얽힌 비하인드 스토리들과 미니 라이브가 이어집니다. https://t.co/U5PkF2LXyd"
+	},
+	{
 		"created_at": "Mon Aug 01 04:29:27 +0000 2022",
 		"id": 1553947064681250800,
 		"id_str": "1553961079742554114",
