@@ -1,6 +1,927 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 04:11:17 +0000 2022",
+		"id": 1553952929463222300,
+		"id_str": "1553956507397591041",
+		"full_text": "[코멘터리 룸 : 김새녘 &lt;새빛깔&gt; 편] 2022.08.19(금) PM 8:00 https://t.co/lhdxMsLFba https://t.co/m6ZtAC7FeE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lhdxMsLFba",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222833866030",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1553952918105051100,
+					"id_str": "1553952918105051137",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FZC_8iFVUAEbOuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZC_8iFVUAEbOuc.jpg",
+					"url": "https://t.co/m6ZtAC7FeE",
+					"display_url": "pic.twitter.com/m6ZtAC7FeE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1553952929463222273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553952918105051100,
+					"id_str": "1553952918105051137",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FZC_8iFVUAEbOuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZC_8iFVUAEbOuc.jpg",
+					"url": "https://t.co/m6ZtAC7FeE",
+					"display_url": "pic.twitter.com/m6ZtAC7FeE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1553952929463222273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8370,
+			"friends_count": 549,
+			"listed_count": 80,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코멘터리 룸 : 김새녘 &lt;새빛깔&gt; 편] 2022.08.19(금) PM 8:00 https://t.co/lhdxMsLFba https://t.co/m6ZtAC7FeE"
+	},
+	{
+		"created_at": "Mon Aug 01 03:58:24 +0000 2022",
+		"id": 1553945729382875100,
+		"id_str": "1553953265838063618",
+		"full_text": "📣일시 : 2022년 8월 26일, 27일, 28일 3일간\n📣장소 : 전주종합경기장\n📣예매 : \n- 네이버 : https://t.co/zziKc8yulr\n- 티켓링크 : https://t.co/OUZ3EY9qej\n- 인터파크 : https://t.co/DM7dCS6YQZ\n\nhttps://t.co/s2iJTUn05z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zziKc8yulr",
+					"expanded_url": "https://bit.ly/3IfMS4v",
+					"display_url": "bit.ly/3IfMS4v",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/OUZ3EY9qej",
+					"expanded_url": "https://bit.ly/3NGWC9h",
+					"display_url": "bit.ly/3NGWC9h",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/DM7dCS6YQZ",
+					"expanded_url": "https://bit.ly/3Q98OkB",
+					"display_url": "bit.ly/3Q98OkB",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/s2iJTUn05z",
+					"expanded_url": "http://www.jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1553945725255712800,
+		"in_reply_to_status_id_str": "1553945725255712768",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 1071,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣일시 : 2022년 8월 26일, 27일, 28일 3일간\n📣장소 : 전주종합경기장\n📣예매 : \n- 네이버 : https://t.co/zziKc8yulr\n- 티켓링크 : https://t.co/OUZ3EY9qej\n- 인터파크 : https://t.co/DM7dCS6YQZ\n\nhttps://t.co/s2iJTUn05z"
+	},
+	{
+		"created_at": "Mon Aug 01 03:58:15 +0000 2022",
+		"id": 1553945725255712800,
+		"id_str": "1553953227556659200",
+		"full_text": "✨JUMF2022 FINAL 라인업 발표 및 정규티켓 오픈✨\n\nJUMF2022 FINAL 라인업을 발표합니다!\n더불어, 정규 티켓이 오픈 되니 많은 참여 바랍니다!\n\n2022년 8월, 뜨거운 태양만큼이나 열정넘치는 현장에서 만나요! https://t.co/WRflDzTCaz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553945257762779100,
+					"id_str": "1553945257762779137",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FZC4-pFacAENSUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZC4-pFacAENSUW.jpg",
+					"url": "https://t.co/WRflDzTCaz",
+					"display_url": "pic.twitter.com/WRflDzTCaz",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1553945725255712768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553945257762779100,
+					"id_str": "1553945257762779137",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FZC4-pFacAENSUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZC4-pFacAENSUW.jpg",
+					"url": "https://t.co/WRflDzTCaz",
+					"display_url": "pic.twitter.com/WRflDzTCaz",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1553945725255712768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 1071,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨JUMF2022 FINAL 라인업 발표 및 정규티켓 오픈✨\n\nJUMF2022 FINAL 라인업을 발표합니다!\n더불어, 정규 티켓이 오픈 되니 많은 참여 바랍니다!\n\n2022년 8월, 뜨거운 태양만큼이나 열정넘치는 현장에서 만나요! https://t.co/WRflDzTCaz"
+	},
+	{
+		"created_at": "Mon Aug 01 03:29:36 +0000 2022",
+		"id": 1553943534025134000,
+		"id_str": "1553946019120955394",
+		"full_text": "[유라]\n📌 D-3\nNew Single Album [Jungle Bike]\n2022.08.04 6PM (KST)\n\n#유라 #youra #음악 #music https://t.co/AnvbvBRBbr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "youra",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553935646766469000,
+					"id_str": "1553935646766469120",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1553935646766469120/pu/img/wsSTcIvoYYybIv0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1553935646766469120/pu/img/wsSTcIvoYYybIv0X.jpg",
+					"url": "https://t.co/AnvbvBRBbr",
+					"display_url": "pic.twitter.com/AnvbvBRBbr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1553943534025134080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553935646766469000,
+					"id_str": "1553935646766469120",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1553935646766469120/pu/img/wsSTcIvoYYybIv0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1553935646766469120/pu/img/wsSTcIvoYYybIv0X.jpg",
+					"url": "https://t.co/AnvbvBRBbr",
+					"display_url": "pic.twitter.com/AnvbvBRBbr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1553943534025134080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24557,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553935646766469120/pu/vid/540x540/Dfc44lU9lFRW7S5H.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1553935646766469120/pu/pl/UUv_5lrqr604jJkk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553935646766469120/pu/vid/320x320/fmkhcEz04z4ZdSzc.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553935646766469120/pu/vid/720x720/5Nc6xhcVLzyvkgJy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 928,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[유라]\n📌 D-3\nNew Single Album [Jungle Bike]\n2022.08.04 6PM (KST)\n\n#유라 #youra #음악 #music https://t.co/AnvbvBRBbr"
+	},
+	{
+		"created_at": "Mon Aug 01 03:29:28 +0000 2022",
+		"id": 1553938666925351000,
+		"id_str": "1553945985096847361",
+		"full_text": "골든차일드의 HOT!한 &lt;Replay!&gt; Spoiler\n&gt;&gt; https://t.co/a0heRwfi6Y\n\n골든차일드의 매력이 무한 반복 될 Golden Child Replay! ◀◀\n2022년 8월 8일 大공개\n\n#GoldenChild #골든차일드\n#AURA #아우라 #Replay #리플레이 \n#GoldenChild_AURA #GoldenChild_Replay #Spoiler\n#예고 #컴백 #COMEBACK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						131,
+						143
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "AURA",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "아우라",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "Replay",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "리플레이",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "GoldenChild_AURA",
+					"indices": [
+						177,
+						194
+					]
+				},
+				{
+					"text": "GoldenChild_Replay",
+					"indices": [
+						195,
+						214
+					]
+				},
+				{
+					"text": "Spoiler",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "예고",
+					"indices": [
+						224,
+						227
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						228,
+						231
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						232,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0heRwfi6Y",
+					"expanded_url": "https://youtu.be/PZxqfo_Qqng",
+					"display_url": "youtu.be/PZxqfo_Qqng",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421564,
+			"friends_count": 12,
+			"listed_count": 1878,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1659258367",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "골든차일드의 HOT!한 &lt;Replay!&gt; Spoiler\n&gt;&gt; https://t.co/a0heRwfi6Y\n\n골든차일드의 매력이 무한 반복 될 Golden Child Replay! ◀◀\n2022년 8월 8일 大공개\n\n#GoldenChild #골든차일드\n#AURA #아우라 #Replay #리플레이 \n#GoldenChild_AURA #GoldenChild_Replay #Spoiler\n#예고 #컴백 #COMEBACK"
+	},
+	{
 		"created_at": "Mon Aug 01 03:07:37 +0000 2022",
 		"id": 1553940487454670800,
 		"id_str": "1553940487454670849",
