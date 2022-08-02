@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 10:29:31 +0000 2022",
+		"id": 1554412439499772000,
+		"id_str": "1554414082631127042",
+		"full_text": "박소은 마플샵 오픈🎊\n\n박소은 정규 2집 발매 공연 &lt;RECYCLE&gt; 공식 MD로 출시되었던 티셔츠가 박소은 마플샵에 입고되었습니다! \n\n앨범 아트의 RECYCLE 손그림과 락스타를 담아낸 RECYCLE 티셔츠를 온라인에서 만나보세요👀\n\n🔗https://t.co/g2tzDyghjJ\n\n#박소은 #손님 #RECYCLE #티셔츠 #공식MD샵 https://t.co/lDmFOxAFXB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "RECYCLE",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "티셔츠",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "공식MD샵",
+					"indices": [
+						188,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g2tzDyghjJ",
+					"expanded_url": "http://marpple.shop/kr/parksoeun",
+					"display_url": "marpple.shop/kr/parksoeun",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554412429073055700,
+					"id_str": "1554412429073055744",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZJh3l1aAAA-d4t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZJh3l1aAAA-d4t.jpg",
+					"url": "https://t.co/lDmFOxAFXB",
+					"display_url": "pic.twitter.com/lDmFOxAFXB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1554412439499771904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554412429073055700,
+					"id_str": "1554412429073055744",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZJh3l1aAAA-d4t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZJh3l1aAAA-d4t.jpg",
+					"url": "https://t.co/lDmFOxAFXB",
+					"display_url": "pic.twitter.com/lDmFOxAFXB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1554412439499771904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554412429068869600,
+					"id_str": "1554412429068869634",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZJh3l0aIAIeNbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZJh3l0aIAIeNbr.jpg",
+					"url": "https://t.co/lDmFOxAFXB",
+					"display_url": "pic.twitter.com/lDmFOxAFXB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1554412439499771904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554412429077287000,
+					"id_str": "1554412429077286912",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZJh3l2akAAm8O-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZJh3l2akAAm8O-.jpg",
+					"url": "https://t.co/lDmFOxAFXB",
+					"display_url": "pic.twitter.com/lDmFOxAFXB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1554412439499771904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554412429060481000,
+					"id_str": "1554412429060481025",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZJh3lyaIAEnidw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZJh3lyaIAEnidw.jpg",
+					"url": "https://t.co/lDmFOxAFXB",
+					"display_url": "pic.twitter.com/lDmFOxAFXB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1554412439499771904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2271,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박소은 마플샵 오픈🎊\n\n박소은 정규 2집 발매 공연 &lt;RECYCLE&gt; 공식 MD로 출시되었던 티셔츠가 박소은 마플샵에 입고되었습니다! \n\n앨범 아트의 RECYCLE 손그림과 락스타를 담아낸 RECYCLE 티셔츠를 온라인에서 만나보세요👀\n\n🔗https://t.co/g2tzDyghjJ\n\n#박소은 #손님 #RECYCLE #티셔츠 #공식MD샵 https://t.co/lDmFOxAFXB"
+	},
+	{
+		"created_at": "Tue Aug 02 10:29:28 +0000 2022",
+		"id": 1554406654472401000,
+		"id_str": "1554414069511331840",
+		"full_text": "[#INTERVIEW]\nWARNER MUSIC INTERVIEW :: 숀 (SHAUN)\n\n#숀 (#SHAUN)의 [#Omnibus pt.1 : #만화경] 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요💙\n\n▶https://t.co/QVhyj0lihp\n\nListen to &lt;Omnibus pt.1 : 만화경&gt;\n🎶https://t.co/FZaz7FZPPM\n\n#warnermusic #KPOP #Road @shaunthehuman https://t.co/oPsaOs6dcc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INTERVIEW",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "숀",
+					"indices": [
+						50,
+						52
+					]
+				},
+				{
+					"text": "SHAUN",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "Omnibus",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "만화경",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						208,
+						220
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "Road",
+					"indices": [
+						227,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shaunthehuman",
+					"name": "SHAUN",
+					"id": 1392862181272612900,
+					"id_str": "1392862181272612864",
+					"indices": [
+						233,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QVhyj0lihp",
+					"expanded_url": "https://youtu.be/ozaZiIvkkWg",
+					"display_url": "youtu.be/ozaZiIvkkWg",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/FZaz7FZPPM",
+					"expanded_url": "http://lnk.to/SHAUN_Kaleidoscope",
+					"display_url": "lnk.to/SHAUN_Kaleidos…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554395478124810200,
+					"id_str": "1554395478124810240",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554395478124810240/pu/img/IZ8NsMXrWjBbEmsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554395478124810240/pu/img/IZ8NsMXrWjBbEmsX.jpg",
+					"url": "https://t.co/oPsaOs6dcc",
+					"display_url": "pic.twitter.com/oPsaOs6dcc",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1554406654472400896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554395478124810200,
+					"id_str": "1554395478124810240",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554395478124810240/pu/img/IZ8NsMXrWjBbEmsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554395478124810240/pu/img/IZ8NsMXrWjBbEmsX.jpg",
+					"url": "https://t.co/oPsaOs6dcc",
+					"display_url": "pic.twitter.com/oPsaOs6dcc",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1554406654472400896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60026,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1554395478124810240/pu/pl/gtx-dTItFEGagMAS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554395478124810240/pu/vid/320x320/Tt3xQUo-wF_xxLxM.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554395478124810240/pu/vid/540x540/8YCs2xhOfalzFlf4.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554395478124810240/pu/vid/720x720/iJrB9jk67EOE80Nr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89245,
+			"friends_count": 492,
+			"listed_count": 219,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#INTERVIEW]\nWARNER MUSIC INTERVIEW :: 숀 (SHAUN)\n\n#숀 (#SHAUN)의 [#Omnibus pt.1 : #만화경] 인터뷰를 지금 바로 워너뮤직코리아 유튜브에서 만나보세요💙\n\n▶https://t.co/QVhyj0lihp\n\nListen to &lt;Omnibus pt.1 : 만화경&gt;\n🎶https://t.co/FZaz7FZPPM\n\n#warnermusic #KPOP #Road @shaunthehuman https://t.co/oPsaOs6dcc"
+	},
+	{
 		"created_at": "Tue Aug 02 10:11:31 +0000 2022",
 		"id": 1554387359432687600,
 		"id_str": "1554409550492696577",
