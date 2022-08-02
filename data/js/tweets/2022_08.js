@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 03:29:43 +0000 2022",
+		"id": 1554300964722487300,
+		"id_str": "1554308434241241089",
+		"full_text": "𝗛𝗔𝗣𝗣𝗬 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 !\n8월 2일은 소란 이태욱의 생일입니다.\n함께 축하해주세요 🎉\n\n#HBD #소란 #이태욱 https://t.co/OaJpJf0wo9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "이태욱",
+					"indices": [
+						61,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551865746585981000,
+					"id_str": "1551865746585980928",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FYlVrKRakAAgwm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYlVrKRakAAgwm0.jpg",
+					"url": "https://t.co/OaJpJf0wo9",
+					"display_url": "pic.twitter.com/OaJpJf0wo9",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554300964722487296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551865746585981000,
+					"id_str": "1551865746585980928",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FYlVrKRakAAgwm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYlVrKRakAAgwm0.jpg",
+					"url": "https://t.co/OaJpJf0wo9",
+					"display_url": "pic.twitter.com/OaJpJf0wo9",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554300964722487296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12938,
+			"friends_count": 1909,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗛𝗔𝗣𝗣𝗬 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 !\n8월 2일은 소란 이태욱의 생일입니다.\n함께 축하해주세요 🎉\n\n#HBD #소란 #이태욱 https://t.co/OaJpJf0wo9"
+	},
+	{
+		"created_at": "Tue Aug 02 03:29:40 +0000 2022",
+		"id": 1554300231642419200,
+		"id_str": "1554308425345105920",
+		"full_text": "[ #동표사 ][TEASER] 오진우 (Feat. Duo e) - 검질인생/덥질인생 (디지털싱글/7인치 바이닐) https://t.co/n7vmQ7UB33",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동표사",
+					"indices": [
+						2,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n7vmQ7UB33",
+					"expanded_url": "https://easternstandardsounds.tistory.com/224",
+					"display_url": "easternstandardsounds.tistory.com/224",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://notice.tistory.com/1357\" rel=\"nofollow\">Tistory2Twitter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1741,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1655869230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ #동표사 ][TEASER] 오진우 (Feat. Duo e) - 검질인생/덥질인생 (디지털싱글/7인치 바이닐) https://t.co/n7vmQ7UB33"
+	},
+	{
+		"created_at": "Tue Aug 02 03:29:34 +0000 2022",
+		"id": 1554294921389277200,
+		"id_str": "1554308399650803713",
+		"full_text": "[ #동표사 ]타잔로카 (Tarzanloca) in bohol (TICTOK) https://t.co/ICVJ2spsKM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동표사",
+					"indices": [
+						2,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ICVJ2spsKM",
+					"expanded_url": "https://easternstandardsounds.tistory.com/223",
+					"display_url": "easternstandardsounds.tistory.com/223",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://notice.tistory.com/1357\" rel=\"nofollow\">Tistory2Twitter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1741,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1655869230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ #동표사 ]타잔로카 (Tarzanloca) in bohol (TICTOK) https://t.co/ICVJ2spsKM"
+	},
+	{
 		"created_at": "Tue Aug 02 03:11:17 +0000 2022",
 		"id": 1554300963237806000,
 		"id_str": "1554303796591087616",
