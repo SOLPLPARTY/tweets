@@ -1,6 +1,1145 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 09:29:57 +0000 2022",
+		"id": 1554756583699382300,
+		"id_str": "1554761478099591168",
+		"full_text": "[응답하라 일구구만]\n공연일자 : 8.20(토) 7PM \n공연장소 : 엠피엠지 2층 LOUNGE M. \n티켓 : 전석 44,000원 \n티켓오픈 : 8.8(월) 6PM at 위메프 \n━━━━━━━━━━━━━━━━━━━━━━ \n#레트로싱어송라이터 \n#구만 #qman  \n#응답하라일구구만\n#파란만장 #WWAVE \n#청춘스타 #青春スター https://t.co/Mt5RbYmeqU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레트로싱어송라이터",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "구만",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "qman",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "응답하라일구구만",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "파란만장",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "WWAVE",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "청춘스타",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "青春スター",
+					"indices": [
+						179,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554755968181084200,
+					"id_str": "1554755968181084162",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaUMvaIAIFExY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaUMvaIAIFExY.jpg",
+					"url": "https://t.co/Mt5RbYmeqU",
+					"display_url": "pic.twitter.com/Mt5RbYmeqU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554756583699382272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554755968181084200,
+					"id_str": "1554755968181084162",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaUMvaIAIFExY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaUMvaIAIFExY.jpg",
+					"url": "https://t.co/Mt5RbYmeqU",
+					"display_url": "pic.twitter.com/Mt5RbYmeqU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554756583699382272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554755968315314200,
+					"id_str": "1554755968315314176",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaUNPaUAALDuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaUNPaUAALDuV.jpg",
+					"url": "https://t.co/Mt5RbYmeqU",
+					"display_url": "pic.twitter.com/Mt5RbYmeqU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554756583699382272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554755968499880000,
+					"id_str": "1554755968499879936",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaUN7akAAcPma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaUN7akAAcPma.jpg",
+					"url": "https://t.co/Mt5RbYmeqU",
+					"display_url": "pic.twitter.com/Mt5RbYmeqU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554756583699382272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1554755936816087000,
+		"in_reply_to_status_id_str": "1554755936816087040",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12939,
+			"friends_count": 1909,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[응답하라 일구구만]\n공연일자 : 8.20(토) 7PM \n공연장소 : 엠피엠지 2층 LOUNGE M. \n티켓 : 전석 44,000원 \n티켓오픈 : 8.8(월) 6PM at 위메프 \n━━━━━━━━━━━━━━━━━━━━━━ \n#레트로싱어송라이터 \n#구만 #qman  \n#응답하라일구구만\n#파란만장 #WWAVE \n#청춘스타 #青春スター https://t.co/Mt5RbYmeqU"
+	},
+	{
+		"created_at": "Wed Aug 03 09:29:50 +0000 2022",
+		"id": 1554755936816087000,
+		"id_str": "1554761452342370304",
+		"full_text": "[구만 | 공연 공지]\n\n추억이 흘러나오는 비밀스러운 주파수, 9.10000MHz 📻 \n\n음악이 필요한 삶의 순간, \n당신에게 도착할 유쾌한 응답! 📰🎤 \n\n다시 돌아온 #응답하라일구구만\n자세한 내용은 구만 공식 인스타그램 (@ 9.10000official)에서 확인해주세요. https://t.co/ddu6V5pGRS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "응답하라일구구만",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554755788199317500,
+					"id_str": "1554755788199317505",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaJuQaUAEAY16.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaJuQaUAEAY16.jpg",
+					"url": "https://t.co/ddu6V5pGRS",
+					"display_url": "pic.twitter.com/ddu6V5pGRS",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554755936816087040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554755788199317500,
+					"id_str": "1554755788199317505",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaJuQaUAEAY16.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaJuQaUAEAY16.jpg",
+					"url": "https://t.co/ddu6V5pGRS",
+					"display_url": "pic.twitter.com/ddu6V5pGRS",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554755936816087040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554755788329332700,
+					"id_str": "1554755788329332737",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaJuvaMAEnKBc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaJuvaMAEnKBc.jpg",
+					"url": "https://t.co/ddu6V5pGRS",
+					"display_url": "pic.twitter.com/ddu6V5pGRS",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554755936816087040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554755788430020600,
+					"id_str": "1554755788430020608",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaJvHakAAHYrA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaJvHakAAHYrA.jpg",
+					"url": "https://t.co/ddu6V5pGRS",
+					"display_url": "pic.twitter.com/ddu6V5pGRS",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554755936816087040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554755788484530200,
+					"id_str": "1554755788484530176",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOaJvUaUAAjtVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOaJvUaUAAjtVs.jpg",
+					"url": "https://t.co/ddu6V5pGRS",
+					"display_url": "pic.twitter.com/ddu6V5pGRS",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1554755936816087040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1501,
+							"h": 1501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbtJjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbtJjn",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12939,
+			"friends_count": 1909,
+			"listed_count": 250,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | 공연 공지]\n\n추억이 흘러나오는 비밀스러운 주파수, 9.10000MHz 📻 \n\n음악이 필요한 삶의 순간, \n당신에게 도착할 유쾌한 응답! 📰🎤 \n\n다시 돌아온 #응답하라일구구만\n자세한 내용은 구만 공식 인스타그램 (@ 9.10000official)에서 확인해주세요. https://t.co/ddu6V5pGRS"
+	},
+	{
+		"created_at": "Wed Aug 03 09:29:45 +0000 2022",
+		"id": 1554754219236032500,
+		"id_str": "1554761430884294658",
+		"full_text": "1st   22°08’05’’ 10PM (KST) \n2nd  22°08’06’’ 10PM (KST) \n \n🎧 LINE-UP 🎧\n \nScreaM RECORDS \n: #GINJO #IMLAY #MARVISTA\n \n#SHOWME #쇼미",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GINJO",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "MARVISTA",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "SHOWME",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "쇼미",
+					"indices": [
+						125,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1554754217633792000,
+		"in_reply_to_status_id_str": "1554754217633792000",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11061616,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1st   22°08’05’’ 10PM (KST) \n2nd  22°08’06’’ 10PM (KST) \n \n🎧 LINE-UP 🎧\n \nScreaM RECORDS \n: #GINJO #IMLAY #MARVISTA\n \n#SHOWME #쇼미"
+	},
+	{
+		"created_at": "Wed Aug 03 09:29:37 +0000 2022",
+		"id": 1554754217633792000,
+		"id_str": "1554761396881162241",
+		"full_text": "The new season of SHOWME is coming!\nThe PRE-SHOW of season 2 will be on air on Aug 5th &amp; 6th, 22:00 - 25:00 KST.\nWe invite you to the ’WONDER POOL PARTY’ stage, held on Jul 23rd at Paradise City Incheon.\nYou can meet Mar Vista, GINJO, and IMLAY.\n \nSHOWME MUST GO ON!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1554754214869766100,
+		"in_reply_to_status_id_str": "1554754214869766146",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11061616,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The new season of SHOWME is coming!\nThe PRE-SHOW of season 2 will be on air on Aug 5th &amp; 6th, 22:00 - 25:00 KST.\nWe invite you to the ’WONDER POOL PARTY’ stage, held on Jul 23rd at Paradise City Incheon.\nYou can meet Mar Vista, GINJO, and IMLAY.\n \nSHOWME MUST GO ON!"
+	},
+	{
+		"created_at": "Wed Aug 03 09:29:33 +0000 2022",
+		"id": 1554754214869766100,
+		"id_str": "1554761379634200578",
+		"full_text": "ScreaM TOGETHER!\n \n전세계 40만명의 시청자와 함께했던 DJ 스트리밍 채널 SHOWME!\n새로운 시즌의 PRE-SHOW가 8월 5일과 6일 22시부터 25시까지 방영됩니다.\n지난 7월 23일 스크림 레코즈가 파라다이스 시티와 함께한 WONDER POOL PARTY의 현장!\nMar Vista, GINJO, IMLAY가 함께 했습니다. https://t.co/24eLujgnUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554754205428387800,
+					"id_str": "1554754205428387840",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOYtl-akAAI3WD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOYtl-akAAI3WD.jpg",
+					"url": "https://t.co/24eLujgnUq",
+					"display_url": "pic.twitter.com/24eLujgnUq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1554754214869766146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554754205428387800,
+					"id_str": "1554754205428387840",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOYtl-akAAI3WD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOYtl-akAAI3WD.jpg",
+					"url": "https://t.co/24eLujgnUq",
+					"display_url": "pic.twitter.com/24eLujgnUq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1554754214869766146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11061616,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 1170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ScreaM TOGETHER!\n \n전세계 40만명의 시청자와 함께했던 DJ 스트리밍 채널 SHOWME!\n새로운 시즌의 PRE-SHOW가 8월 5일과 6일 22시부터 25시까지 방영됩니다.\n지난 7월 23일 스크림 레코즈가 파라다이스 시티와 함께한 WONDER POOL PARTY의 현장!\nMar Vista, GINJO, IMLAY가 함께 했습니다. https://t.co/24eLujgnUq"
+	},
+	{
+		"created_at": "Wed Aug 03 09:19:29 +0000 2022",
+		"id": 1554758845502607400,
+		"id_str": "1554758845502607361",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n외힙 처돌이라면 이 테스트를 통과할 수 있습니다\nhttps://t.co/k981wdTiQ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k981wdTiQ7",
+					"expanded_url": "https://youtu.be/6ppBoHEIGww",
+					"display_url": "youtu.be/6ppBoHEIGww",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n외힙 처돌이라면 이 테스트를 통과할 수 있습니다\nhttps://t.co/k981wdTiQ7"
+	},
+	{
 		"created_at": "Wed Aug 03 08:14:28 +0000 2022",
 		"id": 1554742484613402600,
 		"id_str": "1554742484613402625",
