@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 00:29:33 +0000 2022",
+		"id": 1554617386602758100,
+		"id_str": "1554625482745839618",
+		"full_text": "#권유리 #KWONYURI \n#소녀시대 #GirlsGeneration\n#더존버텨야산다 #TheZone_SurvivalMission \n#디즈니플러스 #DisneyPlus https://t.co/fhW28iI3ig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"text": "더존버텨야산다",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "TheZone_SurvivalMission",
+					"indices": [
+						48,
+						72
+					]
+				},
+				{
+					"text": "디즈니플러스",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "DisneyPlus",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554617335931375600,
+					"id_str": "1554617335931375616",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FZMcOvXakAA3ik7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZMcOvXakAA3ik7.jpg",
+					"url": "https://t.co/fhW28iI3ig",
+					"display_url": "pic.twitter.com/fhW28iI3ig",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1554617386602758144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554617335931375600,
+					"id_str": "1554617335931375616",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FZMcOvXakAA3ik7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZMcOvXakAA3ik7.jpg",
+					"url": "https://t.co/fhW28iI3ig",
+					"display_url": "pic.twitter.com/fhW28iI3ig",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1554617386602758144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1554617265290887200,
+		"in_reply_to_status_id_str": "1554617265290887168",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11061015,
+			"friends_count": 56,
+			"listed_count": 12487,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1052,
+		"favorite_count": 2861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#권유리 #KWONYURI \n#소녀시대 #GirlsGeneration\n#더존버텨야산다 #TheZone_SurvivalMission \n#디즈니플러스 #DisneyPlus https://t.co/fhW28iI3ig"
+	},
+	{
 		"created_at": "Tue Aug 02 23:13:19 +0000 2022",
 		"id": 1554606297177174000,
 		"id_str": "1554606297177174016",
