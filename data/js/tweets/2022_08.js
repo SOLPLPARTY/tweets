@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 02:58:15 +0000 2022",
+		"id": 1554648245296681000,
+		"id_str": "1554662904787509249",
+		"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이달소 여름엔 더위는 안왔으면 좋겠어\nㄴ플립댓 댓댓댓댓댓~ 더위 대신 오빛 거의 도착함요🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/QspCMsJXgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						118,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QspCMsJXgs",
+					"expanded_url": "https://twitter.com/kconusa/status/1554618046832005120",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450072,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1554618046832005000,
+		"quoted_status_id_str": "1554618046832005120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QspCMsJXgs",
+			"expanded": "https://twitter.com/kconusa/status/1554618046832005120",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 03 00:00:00 +0000 2022",
+			"id": 1554618046832005000,
+			"id_str": "1554618046832005120",
+			"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 for ORBIT to keep cool in the summer\nㄴFlip that, that, that, that, that, that, that~\nFlip the summer upside down 🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/LCRufBITUw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							155,
+							160
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							161,
+							169
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							170,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "loonatheworld",
+						"name": "이달의 소녀(LOOΠΔ)",
+						"id": 770959712791597000,
+						"id_str": "770959712791597056",
+						"indices": [
+							182,
+							196
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1554536826701897700,
+						"id_str": "1554536826701897730",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1554536826701897730/img/wTTmlnztABoUlodN.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1554536826701897730/img/wTTmlnztABoUlodN.jpg",
+						"url": "https://t.co/LCRufBITUw",
+						"display_url": "pic.twitter.com/LCRufBITUw",
+						"expanded_url": "https://twitter.com/kconusa/status/1554618046832005120/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1554536826701897700,
+						"id_str": "1554536826701897730",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1554536826701897730/img/wTTmlnztABoUlodN.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1554536826701897730/img/wTTmlnztABoUlodN.jpg",
+						"url": "https://t.co/LCRufBITUw",
+						"display_url": "pic.twitter.com/LCRufBITUw",
+						"expanded_url": "https://twitter.com/kconusa/status/1554618046832005120/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 250717,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1554536826701897730/vid/320x568/yTOHDxLMY1AA1-Lu.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1554536826701897730/vid/720x1280/-u4Py8ktbgX8M8p7.mp4?tag=14"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1554536826701897730/vid/480x852/Qs6pGmzBLC3AJMs7.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1554536826701897730/pl/lx5u8-VirIGcNnQq.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 224008,
+				"friends_count": 7,
+				"listed_count": 0,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20419,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1200,
+			"favorite_count": 4085,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 25,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이달소 여름엔 더위는 안왔으면 좋겠어\nㄴ플립댓 댓댓댓댓댓~ 더위 대신 오빛 거의 도착함요🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/QspCMsJXgs"
+	},
+	{
+		"created_at": "Wed Aug 03 02:29:35 +0000 2022",
+		"id": 1554652771420631000,
+		"id_str": "1554655688995082240",
+		"full_text": "✨Fresh Finds Korea✨\n'HUNJIYA - OUTGROWN'이 스포티파이 'Fresh Finds Korea' 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out '#OUTGROWN' on 'Fresh Finds Korea' #playlist on #Spotify\n\n🎶https://t.co/tgN6MnkNnI\n⠀\n#warnerkpop #warnermusic #KPOP #HUNJIYA #현지야 @SpotifyKR https://t.co/UaRz6sGOnI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTGROWN",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						185,
+						196
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "HUNJIYA",
+					"indices": [
+						216,
+						224
+					]
+				},
+				{
+					"text": "현지야",
+					"indices": [
+						225,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						230,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tgN6MnkNnI",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc?si=0b36e0055fca4af0&nd=1",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554652468562509800,
+					"id_str": "1554652468562509825",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FZM8LunaQAEv3rG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZM8LunaQAEv3rG.jpg",
+					"url": "https://t.co/UaRz6sGOnI",
+					"display_url": "pic.twitter.com/UaRz6sGOnI",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1554652771420631040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554652468562509800,
+					"id_str": "1554652468562509825",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FZM8LunaQAEv3rG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZM8LunaQAEv3rG.jpg",
+					"url": "https://t.co/UaRz6sGOnI",
+					"display_url": "pic.twitter.com/UaRz6sGOnI",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1554652771420631040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89289,
+			"friends_count": 492,
+			"listed_count": 219,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨Fresh Finds Korea✨\n'HUNJIYA - OUTGROWN'이 스포티파이 'Fresh Finds Korea' 플레이리스트 커버를 장식하였습니다😎✨\n\nCheck out '#OUTGROWN' on 'Fresh Finds Korea' #playlist on #Spotify\n\n🎶https://t.co/tgN6MnkNnI\n⠀\n#warnerkpop #warnermusic #KPOP #HUNJIYA #현지야 @SpotifyKR https://t.co/UaRz6sGOnI"
+	},
+	{
 		"created_at": "Wed Aug 03 00:29:33 +0000 2022",
 		"id": 1554617386602758100,
 		"id_str": "1554625482745839618",
