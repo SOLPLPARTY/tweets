@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 02:58:15 +0000 2022",
+		"id": 1555012798413181000,
+		"id_str": "1555025291281678336",
+		"full_text": "💗 EARLYBIRD TICKET OPEN D-1 💗\n\n8. 5.(FRI) 14시 얼리버드 티켓 오픈 예정 🐣\n88,000won ▶ 66,000won\n🎟 얼리버드 티켓오픈 공지 | https://t.co/puGJb8ytTU\n\n#잔다리페스타 #ZandariFesta\n22.9.2(Fri)-9.4(Sun) @Hongdae Area https://t.co/pI30Q3dNCV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잔다리페스타",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "ZandariFesta",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hongdae",
+					"name": "김현옥 봇",
+					"id": 1328262589,
+					"id_str": "1328262589",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/puGJb8ytTU",
+					"expanded_url": "https://bit.ly/3QgbFbz",
+					"display_url": "bit.ly/3QgbFbz",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555012629714043000,
+					"id_str": "1555012629714042880",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSDv3daAAAK5Vl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSDv3daAAAK5Vl.jpg",
+					"url": "https://t.co/pI30Q3dNCV",
+					"display_url": "pic.twitter.com/pI30Q3dNCV",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1555012798413180929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 694,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555012629714043000,
+					"id_str": "1555012629714042880",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSDv3daAAAK5Vl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSDv3daAAAK5Vl.jpg",
+					"url": "https://t.co/pI30Q3dNCV",
+					"display_url": "pic.twitter.com/pI30Q3dNCV",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1555012798413180929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 694,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555012629726634000,
+					"id_str": "1555012629726633984",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSDv3gaIAA8kut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSDv3gaIAA8kut.jpg",
+					"url": "https://t.co/pI30Q3dNCV",
+					"display_url": "pic.twitter.com/pI30Q3dNCV",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1555012798413180929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 694,
+							"h": 694,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & Conferences 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/WpBoMBia2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpBoMBia2Z",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2717,
+			"friends_count": 1703,
+			"listed_count": 41,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1659440141",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗 EARLYBIRD TICKET OPEN D-1 💗\n\n8. 5.(FRI) 14시 얼리버드 티켓 오픈 예정 🐣\n88,000won ▶ 66,000won\n🎟 얼리버드 티켓오픈 공지 | https://t.co/puGJb8ytTU\n\n#잔다리페스타 #ZandariFesta\n22.9.2(Fri)-9.4(Sun) @Hongdae Area https://t.co/pI30Q3dNCV"
+	},
+	{
+		"created_at": "Thu Aug 04 02:29:34 +0000 2022",
+		"id": 1555018003388911600,
+		"id_str": "1555018075371720704",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n소문들었어요😲❓벤자민권이 이번 조는💰슈퍼코인을 꺼냈다는데❗️❗️[벤자민권의 상상은 현실이된다2 : 위대한쇼맨] EP.05\n\n👉 https://t.co/lHJiVJGnrA\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의상상은현실이된다2",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						148,
+						162
+					]
+				},
+				{
+					"text": "위대한쇼맨",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						170,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lHJiVJGnrA",
+					"expanded_url": "https://youtu.be/q7WbiFVTAuA",
+					"display_url": "youtu.be/q7WbiFVTAuA",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n소문들었어요😲❓벤자민권이 이번 조는💰슈퍼코인을 꺼냈다는데❗️❗️[벤자민권의 상상은 현실이된다2 : 위대한쇼맨] EP.05\n\n👉 https://t.co/lHJiVJGnrA\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV"
+	},
+	{
 		"created_at": "Thu Aug 04 02:09:07 +0000 2022",
 		"id": 1555012926531985400,
 		"id_str": "1555012926531985408",
@@ -427,7 +831,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Thu Aug 04 01:58:23 +0000 2022",
 		"id": 1554995775725219800,
 		"id_str": "1555010225958264832",
-		"full_text": "[P1Harmony CHECK IN]\nP1ece 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nP1Harmony 파티시에👨‍🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 P1ece~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @P1H_official https://t.co/n9eesoJRiU",
+		"full_text": "[P1Harmony CHECK IN]\nP1ece 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nP1Harmony 파티시에👨🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 P1ece~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @P1H_official https://t.co/n9eesoJRiU",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -675,7 +1079,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[P1Harmony CHECK IN]\nP1ece 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nP1Harmony 파티시에👨‍🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 P1ece~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @P1H_official https://t.co/n9eesoJRiU"
+		"text": "[P1Harmony CHECK IN]\nP1ece 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nP1Harmony 파티시에👨🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 P1ece~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @P1H_official https://t.co/n9eesoJRiU"
 	},
 	{
 		"created_at": "Wed Aug 03 15:01:23 +0000 2022",
