@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 03:29:32 +0000 2022",
+		"id": 1555025733516394500,
+		"id_str": "1555033165978374145",
+		"full_text": "[2022 카카오엔터테인먼트 프렌즈 전국 오디션]\n\n📣 광주·부산 지역 오디션 시간 및 안내 메일 발송완료\n📣 서울 지역 오디션 온라인 진행\n📌 현장 접수\n[광주] 8/9(화) : 오후 4~6시\n[부산] 8/10(수) : 오후 4~6시\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널 https://t.co/4nSA9N63QH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555009066002698200,
+					"id_str": "1555009066002698241",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAgbmaUAEUgn1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAgbmaUAEUgn1.jpg",
+					"url": "https://t.co/4nSA9N63QH",
+					"display_url": "pic.twitter.com/4nSA9N63QH",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1555025733516394496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555009066002698200,
+					"id_str": "1555009066002698241",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAgbmaUAEUgn1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAgbmaUAEUgn1.jpg",
+					"url": "https://t.co/4nSA9N63QH",
+					"display_url": "pic.twitter.com/4nSA9N63QH",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1555025733516394496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555009100001738800,
+					"id_str": "1555009100001738752",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAiaQagAADZa9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAiaQagAADZa9.jpg",
+					"url": "https://t.co/4nSA9N63QH",
+					"display_url": "pic.twitter.com/4nSA9N63QH",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1555025733516394496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈카카오톡채널 추가 후 오디션 관련 소식을 받아보세요 👉🏻https://t.co/6fEBxF6LHG",
+			"url": "https://t.co/qwKKEThicB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwKKEThicB",
+							"expanded_url": "https://www.kakaoent.com",
+							"display_url": "kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6fEBxF6LHG",
+							"expanded_url": "http://pf.kakao.com/_xbxesfxl",
+							"display_url": "pf.kakao.com/_xbxesfxl",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2971,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1643778950",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 카카오엔터테인먼트 프렌즈 전국 오디션]\n\n📣 광주·부산 지역 오디션 시간 및 안내 메일 발송완료\n📣 서울 지역 오디션 온라인 진행\n📌 현장 접수\n[광주] 8/9(화) : 오후 4~6시\n[부산] 8/10(수) : 오후 4~6시\n📬 공지/문의 : 카카오엔터테인먼트 프렌즈 오디션 공식 SNS 채널 https://t.co/4nSA9N63QH"
+	},
+	{
+		"created_at": "Thu Aug 04 03:29:27 +0000 2022",
+		"id": 1555019745241419800,
+		"id_str": "1555033144553873410",
+		"full_text": "[VIDEO] [#마르코] #천재역술인금태영\n\nmaking 6 엣치엣치\n👉 https://t.co/Ewt9dHgm0B\n\nmaking 7 고려나 금강 할 줄 아냐?\n👉 https://t.co/kQvN0vppTD\n\nmaking 8 Vlog 태영 소여\n👉 https://t.co/V64jffYjBH\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #비하인드 #making",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마르코",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "천재역술인금태영",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "MARCO",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						179,
+						193
+					]
+				},
+				{
+					"text": "웹드라마",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "스튜디오자판기",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						209,
+						214
+					]
+				},
+				{
+					"text": "making",
+					"indices": [
+						215,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ewt9dHgm0B",
+					"expanded_url": "https://youtu.be/rmhPN4F0GtU",
+					"display_url": "youtu.be/rmhPN4F0GtU",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/kQvN0vppTD",
+					"expanded_url": "https://youtu.be/EurMcZNjyKM",
+					"display_url": "youtu.be/EurMcZNjyKM",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/V64jffYjBH",
+					"expanded_url": "https://youtu.be/To-Ib1BRxwQ",
+					"display_url": "youtu.be/To-Ib1BRxwQ",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#마르코] #천재역술인금태영\n\nmaking 6 엣치엣치\n👉 https://t.co/Ewt9dHgm0B\n\nmaking 7 고려나 금강 할 줄 아냐?\n👉 https://t.co/kQvN0vppTD\n\nmaking 8 Vlog 태영 소여\n👉 https://t.co/V64jffYjBH\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #비하인드 #making"
+	},
+	{
 		"created_at": "Thu Aug 04 02:58:15 +0000 2022",
 		"id": 1555012798413181000,
 		"id_str": "1555025291281678336",
