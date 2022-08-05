@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 01:58:15 +0000 2022",
+		"id": 1555357925408796700,
+		"id_str": "1555372580848259072",
+		"full_text": "[NMIXX CHECK IN]\n집세..아니 하트..하트를 주세요😘💖\nNMIXX은 몇 달 동안 NSWER 마음 속에 살아있어요.\n🐰 : 어우 머야앙~!\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @NMIXX_official https://t.co/Uf4bn7yff9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						133,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NMIXX_official",
+					"name": "NMIXX",
+					"id": 1392302226782052400,
+					"id_str": "1392302226782052355",
+					"indices": [
+						145,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MhOM2icemx",
+					"expanded_url": "https://bit.ly/3QMFbXs",
+					"display_url": "bit.ly/3QMFbXs",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/Uf4bn7yff9",
+					"expanded_url": "https://twitter.com/kconusa/status/1555328717643083776",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450137,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555328717643083800,
+		"quoted_status_id_str": "1555328717643083776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Uf4bn7yff9",
+			"expanded": "https://twitter.com/kconusa/status/1555328717643083776",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 04 23:03:57 +0000 2022",
+			"id": 1555328717643083800,
+			"id_str": "1555328717643083776",
+			"full_text": "[NMIXX CHECK IN]\nMonthly bill..I mean the heart..pay your heart😘💖\nNMIXX has been living in NSWER's heart for several months.\n🐰 : Oh my god~!\n\n🎫SHOW : https://t.co/V4EobZPSly\n\n#KCON #KCONUSA #KCON2022LA @NMIXX_official https://t.co/ogWAFg4VMw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							175,
+							180
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							181,
+							189
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							190,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NMIXX_official",
+						"name": "NMIXX",
+						"id": 1392302226782052400,
+						"id_str": "1392302226782052355",
+						"indices": [
+							202,
+							217
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V4EobZPSly",
+						"expanded_url": "https://bit.ly/3QMFbXs",
+						"display_url": "bit.ly/3QMFbXs",
+						"indices": [
+							150,
+							173
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1555328598604517400,
+						"id_str": "1555328598604517376",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555328598604517376/pu/img/Ai9QTld-f64chN66.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555328598604517376/pu/img/Ai9QTld-f64chN66.jpg",
+						"url": "https://t.co/ogWAFg4VMw",
+						"display_url": "pic.twitter.com/ogWAFg4VMw",
+						"expanded_url": "https://twitter.com/kconusa/status/1555328717643083776/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1555328598604517400,
+						"id_str": "1555328598604517376",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555328598604517376/pu/img/Ai9QTld-f64chN66.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555328598604517376/pu/img/Ai9QTld-f64chN66.jpg",
+						"url": "https://t.co/ogWAFg4VMw",
+						"display_url": "pic.twitter.com/ogWAFg4VMw",
+						"expanded_url": "https://twitter.com/kconusa/status/1555328717643083776/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 134634,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1555328598604517376/pu/pl/abp1rzq4auXp8I3Y.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555328598604517376/pu/vid/320x568/9TCpTj-YPDVNZmjq.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555328598604517376/pu/vid/720x1280/5dc23V8_gAkzxICn.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555328598604517376/pu/vid/480x852/0MyQmImiEZNcfiGk.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 224124,
+				"friends_count": 7,
+				"listed_count": 471,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3055,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20433,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 274,
+			"favorite_count": 1300,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NMIXX CHECK IN]\n집세..아니 하트..하트를 주세요😘💖\nNMIXX은 몇 달 동안 NSWER 마음 속에 살아있어요.\n🐰 : 어우 머야앙~!\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @NMIXX_official https://t.co/Uf4bn7yff9"
+	},
+	{
 		"created_at": "Fri Aug 05 00:29:25 +0000 2022",
 		"id": 1555336517270179800,
 		"id_str": "1555350225065328643",
