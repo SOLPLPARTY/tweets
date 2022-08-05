@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 07:29:32 +0000 2022",
+		"id": 1555452544025239600,
+		"id_str": "1555455951255310339",
+		"full_text": "[#김이나] TVING '마녀사냥 2022' 첫 공개✔️\n\n❤️‍🔥사랑의 순간을 섬세하게 풀어줄 연애 척척박사 \n김이나의 솔직한 입담은❓\n🔗https://t.co/6lT0K69lOJ\n\n#KimEana #TVING #티빙오리지널 #마녀사냥 #마녀사냥2022 https://t.co/D89zSOA3AM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김이나",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KimEana",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "TVING",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "티빙오리지널",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "마녀사냥",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "마녀사냥2022",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6lT0K69lOJ",
+					"expanded_url": "https://bit.ly/3JAHPwq",
+					"display_url": "bit.ly/3JAHPwq",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555452131645472800,
+					"id_str": "1555452131645472768",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYTePvaQAAvPtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYTePvaQAAvPtO.jpg",
+					"url": "https://t.co/D89zSOA3AM",
+					"display_url": "pic.twitter.com/D89zSOA3AM",
+					"expanded_url": "https://twitter.com/themysticstory/status/1555452544025239552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1156,
+							"h": 1656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555452131645472800,
+					"id_str": "1555452131645472768",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYTePvaQAAvPtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYTePvaQAAvPtO.jpg",
+					"url": "https://t.co/D89zSOA3AM",
+					"display_url": "pic.twitter.com/D89zSOA3AM",
+					"expanded_url": "https://twitter.com/themysticstory/status/1555452544025239552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1156,
+							"h": 1656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37078,
+			"friends_count": 14,
+			"listed_count": 297,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1656860618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김이나] TVING '마녀사냥 2022' 첫 공개✔️\n\n❤️‍🔥사랑의 순간을 섬세하게 풀어줄 연애 척척박사 \n김이나의 솔직한 입담은❓\n🔗https://t.co/6lT0K69lOJ\n\n#KimEana #TVING #티빙오리지널 #마녀사냥 #마녀사냥2022 https://t.co/D89zSOA3AM"
+	},
+	{
 		"created_at": "Fri Aug 05 07:15:12 +0000 2022",
 		"id": 1555452342945755100,
 		"id_str": "1555452342945755136",
