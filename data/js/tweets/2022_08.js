@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 05:05:09 +0000 2022",
+		"id": 1555419617744470000,
+		"id_str": "1555419617744470017",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[MV] Lauv (라우브) - Stranger | 한글자막 뮤직비디오\nhttps://t.co/OiVqO03uSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OiVqO03uSH",
+					"expanded_url": "https://youtu.be/t8Q1lU093LM",
+					"display_url": "youtu.be/t8Q1lU093LM",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[MV] Lauv (라우브) - Stranger | 한글자막 뮤직비디오\nhttps://t.co/OiVqO03uSH"
+	},
+	{
+		"created_at": "Fri Aug 05 04:58:15 +0000 2022",
+		"id": 1555403225364172800,
+		"id_str": "1555417878920306688",
+		"full_text": "[📢] 💙#KCON 2022 LA X FANTOO 💚\n\n⏰⚡️Event Deadline 5 Days To GO!!\n\nShow off your #KPOP room and make unforgettable memories as KCON-ners😉✨\n\n📆: ~Aug 10 (KST)\n\nCheck it out on FANTOO app NOW🤗\n📱App Link\n👉 https://t.co/yN0wjRPjcY\n\n@fantoo_official\n#KCON2022LA https://t.co/PC9ftauHgc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						242,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fantoo_official",
+					"name": "팬투(FANTOO)",
+					"id": 1369470668421488600,
+					"id_str": "1369470668421488645",
+					"indices": [
+						225,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yN0wjRPjcY",
+					"expanded_url": "http://bit.ly/3Obl2aR",
+					"display_url": "bit.ly/3Obl2aR",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555353932699865000,
+					"id_str": "1555353932699865089",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FZW6KUKVEAEdNJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZW6KUKVEAEdNJW.jpg",
+					"url": "https://t.co/PC9ftauHgc",
+					"display_url": "pic.twitter.com/PC9ftauHgc",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555403225364172800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555353932699865000,
+					"id_str": "1555353932699865089",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FZW6KUKVEAEdNJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZW6KUKVEAEdNJW.jpg",
+					"url": "https://t.co/PC9ftauHgc",
+					"display_url": "pic.twitter.com/PC9ftauHgc",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555403225364172800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555353932720791600,
+					"id_str": "1555353932720791554",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FZW6KUPUYAIBOH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZW6KUPUYAIBOH7.jpg",
+					"url": "https://t.co/PC9ftauHgc",
+					"display_url": "pic.twitter.com/PC9ftauHgc",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555403225364172800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555353932691517400,
+					"id_str": "1555353932691517441",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FZW6KUIVsAE1Fnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZW6KUIVsAE1Fnq.jpg",
+					"url": "https://t.co/PC9ftauHgc",
+					"display_url": "pic.twitter.com/PC9ftauHgc",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555403225364172800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450148,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📢] 💙#KCON 2022 LA X FANTOO 💚\n\n⏰⚡️Event Deadline 5 Days To GO!!\n\nShow off your #KPOP room and make unforgettable memories as KCON-ners😉✨\n\n📆: ~Aug 10 (KST)\n\nCheck it out on FANTOO app NOW🤗\n📱App Link\n👉 https://t.co/yN0wjRPjcY\n\n@fantoo_official\n#KCON2022LA https://t.co/PC9ftauHgc"
+	},
+	{
 		"created_at": "Fri Aug 05 03:34:10 +0000 2022",
 		"id": 1555396718870425600,
 		"id_str": "1555396718870425600",
