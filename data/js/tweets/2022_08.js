@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 01:58:14 +0000 2022",
+		"id": 1555722251554943000,
+		"id_str": "1555734967212294145",
+		"full_text": "[THE BOYZ CHECK IN]\n📢더비생정❤ 11등신비율/셀피포즈방법/\"그\"만사랑하는법/더보이즈마음스틸하는법\n기분이 우울할 땐 거울을 보며 더보이즈의 셀카포즈를 따라해보세요👈\n\n🎫SHOW : https://t.co/MhOM2iunAF\n\n#KCON #KCONUSA #KCON2022LA @IST_THEBOYZ https://t.co/QhYc2oFbeA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						149,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IST_THEBOYZ",
+					"name": "더보이즈(THE BOYZ)",
+					"id": 841676129245225000,
+					"id_str": "841676129245224961",
+					"indices": [
+						161,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MhOM2iunAF",
+					"expanded_url": "https://bit.ly/3QMFbXs",
+					"display_url": "bit.ly/3QMFbXs",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/QhYc2oFbeA",
+					"expanded_url": "https://twitter.com/kconusa/status/1555692626849869824",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450181,
+			"friends_count": 76,
+			"listed_count": 1123,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555692626849869800,
+		"quoted_status_id_str": "1555692626849869824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QhYc2oFbeA",
+			"expanded": "https://twitter.com/kconusa/status/1555692626849869824",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 05 23:10:00 +0000 2022",
+			"id": 1555692626849869800,
+			"id_str": "1555692626849869824",
+			"full_text": "[THE BOYZ CHECK IN]\nIncoming! Check out THE BOYZ's special message for KCON-ers &amp; THE B💕 Get ready for THE BOYZ's amazing stage only at KCON on August 21st!! 🤩\n\n🎫SHOW : https://t.co/V4EobZPSly\n\n#KCON #KCONUSA #KCON2022LA @IST_THEBOYZ https://t.co/qaIRzZnFYZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							198,
+							203
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							204,
+							212
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							213,
+							224
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IST_THEBOYZ",
+						"name": "더보이즈(THE BOYZ)",
+						"id": 841676129245225000,
+						"id_str": "841676129245224961",
+						"indices": [
+							225,
+							237
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V4EobZPSly",
+						"expanded_url": "https://bit.ly/3QMFbXs",
+						"display_url": "bit.ly/3QMFbXs",
+						"indices": [
+							173,
+							196
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1555667249171558400,
+						"id_str": "1555667249171558400",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555667249171558400/pu/img/6_xAsNlB0QLDJPqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555667249171558400/pu/img/6_xAsNlB0QLDJPqf.jpg",
+						"url": "https://t.co/qaIRzZnFYZ",
+						"display_url": "pic.twitter.com/qaIRzZnFYZ",
+						"expanded_url": "https://twitter.com/kconusa/status/1555692626849869824/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1555667249171558400,
+						"id_str": "1555667249171558400",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555667249171558400/pu/img/6_xAsNlB0QLDJPqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555667249171558400/pu/img/6_xAsNlB0QLDJPqf.jpg",
+						"url": "https://t.co/qaIRzZnFYZ",
+						"display_url": "pic.twitter.com/qaIRzZnFYZ",
+						"expanded_url": "https://twitter.com/kconusa/status/1555692626849869824/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 43176,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1555667249171558400/pu/pl/8aggp85dkjXvCveW.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555667249171558400/pu/vid/320x568/ehASYqHIqn87gEP2.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555667249171558400/pu/vid/720x1280/ttlTgiOuX-E6xmNQ.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555667249171558400/pu/vid/480x852/u2CDtN8_0TX5Cvr8.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 224171,
+				"friends_count": 7,
+				"listed_count": 470,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3055,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20452,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 409,
+			"favorite_count": 871,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[THE BOYZ CHECK IN]\n📢더비생정❤ 11등신비율/셀피포즈방법/\"그\"만사랑하는법/더보이즈마음스틸하는법\n기분이 우울할 땐 거울을 보며 더보이즈의 셀카포즈를 따라해보세요👈\n\n🎫SHOW : https://t.co/MhOM2iunAF\n\n#KCON #KCONUSA #KCON2022LA @IST_THEBOYZ https://t.co/QhYc2oFbeA"
+	},
+	{
 		"created_at": "Fri Aug 05 16:29:25 +0000 2022",
 		"id": 1555580766414708700,
 		"id_str": "1555591816396914688",
