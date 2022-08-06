@@ -1,6 +1,1414 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 02:58:41 +0000 2022",
+		"id": 1555742309387763700,
+		"id_str": "1555750179105640448",
+		"full_text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙LOONA와 함께 한 무대에서 춤출 수 있는 주인공이 되어보세요💚\n\n지금 영상을 통해 LOONA가 직접 알려주는\n&lt;PTT (Paint The Town)&gt; 안무 튜토리얼을 확인해보세요🥳\n\n#KCON #KCON2022LA https://t.co/RVEiDfi8cI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						155,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555742178240270300,
+					"id_str": "1555742178240270337",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555742178240270337/pu/img/bDCxFhuquVefoZfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555742178240270337/pu/img/bDCxFhuquVefoZfs.jpg",
+					"url": "https://t.co/RVEiDfi8cI",
+					"display_url": "pic.twitter.com/RVEiDfi8cI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555742309387763713/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555742178240270300,
+					"id_str": "1555742178240270337",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555742178240270337/pu/img/bDCxFhuquVefoZfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555742178240270337/pu/img/bDCxFhuquVefoZfs.jpg",
+					"url": "https://t.co/RVEiDfi8cI",
+					"display_url": "pic.twitter.com/RVEiDfi8cI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555742309387763713/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 70603,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555742178240270337/pu/vid/480x852/NiEj8HcXPmjOLqTP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555742178240270337/pu/pl/R8aMwKj1SRdYb1_C.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555742178240270337/pu/vid/720x1280/WJ37eJ_GxPpcyNuu.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555742178240270337/pu/vid/320x568/A6Fvh7gHNZoy5oI-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555742116604952600,
+		"in_reply_to_status_id_str": "1555742116604952576",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450169,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙LOONA와 함께 한 무대에서 춤출 수 있는 주인공이 되어보세요💚\n\n지금 영상을 통해 LOONA가 직접 알려주는\n&lt;PTT (Paint The Town)&gt; 안무 튜토리얼을 확인해보세요🥳\n\n#KCON #KCON2022LA https://t.co/RVEiDfi8cI"
+	},
+	{
+		"created_at": "Sat Aug 06 02:58:32 +0000 2022",
+		"id": 1555742116604952600,
+		"id_str": "1555750140849397760",
+		"full_text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙LOONA와 함께 한 무대에서 춤출 수 있는 주인공이 되어보세요💚\n\nLOONA를 사랑하는 KCON-ers라면 누구나 신청 가능!\nLOONA와 &lt;PTT (Paint The Town)&gt; 할 KCON-ers를 기다릴게요🤗\n\n✔ https://t.co/mq7YC6PwVX\n\n#KCON #KCON2022LA https://t.co/WPix3JwR3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						200,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mq7YC6PwVX",
+					"expanded_url": "https://forms.gle/fnKWxShEbj2Pgutw7",
+					"display_url": "forms.gle/fnKWxShEbj2Pgu…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555741939072647200,
+					"id_str": "1555741939072647168",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555741939072647168/pu/img/3WHKcKPTIF3kvk1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555741939072647168/pu/img/3WHKcKPTIF3kvk1H.jpg",
+					"url": "https://t.co/WPix3JwR3L",
+					"display_url": "pic.twitter.com/WPix3JwR3L",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555742116604952576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555741939072647200,
+					"id_str": "1555741939072647168",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555741939072647168/pu/img/3WHKcKPTIF3kvk1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555741939072647168/pu/img/3WHKcKPTIF3kvk1H.jpg",
+					"url": "https://t.co/WPix3JwR3L",
+					"display_url": "pic.twitter.com/WPix3JwR3L",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555742116604952576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 96896,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555741939072647168/pu/vid/480x270/B_OFpam31-zM0Gz2.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555741939072647168/pu/vid/640x360/sZl6Rg-YrBCzEeFr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555741939072647168/pu/pl/1Nv5Id-jZJejPIay.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555741939072647168/pu/vid/1280x720/2M47imRroOltO1RJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555736163809300500,
+		"in_reply_to_status_id_str": "1555736163809300480",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450169,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙LOONA와 함께 한 무대에서 춤출 수 있는 주인공이 되어보세요💚\n\nLOONA를 사랑하는 KCON-ers라면 누구나 신청 가능!\nLOONA와 &lt;PTT (Paint The Town)&gt; 할 KCON-ers를 기다릴게요🤗\n\n✔ https://t.co/mq7YC6PwVX\n\n#KCON #KCON2022LA https://t.co/WPix3JwR3L"
+	},
+	{
+		"created_at": "Sat Aug 06 02:58:28 +0000 2022",
+		"id": 1555741245779374000,
+		"id_str": "1555750123573059585",
+		"full_text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙Take this opportunity to be on stage with LOONA💚\n\nCheck out the choreography tutorial that\nLOONA teaches you how to dance &lt;PTT (Paint The Town)&gt;🥳\n\n#KCON #KCON2022LA https://t.co/ThqFDmj2LN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						198,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555741128636649500,
+					"id_str": "1555741128636649472",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555741128636649472/pu/img/gn7GWu8CsQBVwnaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555741128636649472/pu/img/gn7GWu8CsQBVwnaU.jpg",
+					"url": "https://t.co/ThqFDmj2LN",
+					"display_url": "pic.twitter.com/ThqFDmj2LN",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555741245779374080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555741128636649500,
+					"id_str": "1555741128636649472",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555741128636649472/pu/img/gn7GWu8CsQBVwnaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555741128636649472/pu/img/gn7GWu8CsQBVwnaU.jpg",
+					"url": "https://t.co/ThqFDmj2LN",
+					"display_url": "pic.twitter.com/ThqFDmj2LN",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555741245779374080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 70603,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555741128636649472/pu/vid/480x852/I8cxSBBJGlUk7L57.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555741128636649472/pu/pl/tsF9inwYBPVzLv4t.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555741128636649472/pu/vid/320x568/VnIqMfuRaK37IAB8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555741128636649472/pu/vid/720x1280/64ZaMVWV5S_wIUfW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555741027776229400,
+		"in_reply_to_status_id_str": "1555741027776229378",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450169,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙Take this opportunity to be on stage with LOONA💚\n\nCheck out the choreography tutorial that\nLOONA teaches you how to dance &lt;PTT (Paint The Town)&gt;🥳\n\n#KCON #KCON2022LA https://t.co/ThqFDmj2LN"
+	},
+	{
+		"created_at": "Sat Aug 06 02:58:26 +0000 2022",
+		"id": 1555741027776229400,
+		"id_str": "1555750114693681154",
+		"full_text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙Take this opportunity to be on stage with LOONA💚\n\nAny KCON-ers who love LOONA can apply!\nWaiting for KCON-ers who will &lt;PTT (Paint The Town)&gt; with LOONA🤗\n\n✔ https://t.co/mq7YC6PwVX\n\n#KCON #KCON2022LA https://t.co/fGVua2E2rD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						233,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mq7YC6PwVX",
+					"expanded_url": "https://forms.gle/fnKWxShEbj2Pgutw7",
+					"display_url": "forms.gle/fnKWxShEbj2Pgu…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555740839187718100,
+					"id_str": "1555740839187718150",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555740839187718150/pu/img/h8WB3ny_L0jQkT07.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555740839187718150/pu/img/h8WB3ny_L0jQkT07.jpg",
+					"url": "https://t.co/fGVua2E2rD",
+					"display_url": "pic.twitter.com/fGVua2E2rD",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555741027776229378/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555740839187718100,
+					"id_str": "1555740839187718150",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555740839187718150/pu/img/h8WB3ny_L0jQkT07.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555740839187718150/pu/img/h8WB3ny_L0jQkT07.jpg",
+					"url": "https://t.co/fGVua2E2rD",
+					"display_url": "pic.twitter.com/fGVua2E2rD",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555741027776229378/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 96896,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555740839187718150/pu/vid/1280x720/QgGtsFkcC47m0t0k.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555740839187718150/pu/pl/s-2WyikAShylOBL8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555740839187718150/pu/vid/640x360/BlrOHM4xljoo2GZM.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555740839187718150/pu/vid/480x270/vP4kYvc0wcvKMtwG.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555740729636720600,
+		"in_reply_to_status_id_str": "1555740729636720640",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450169,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙Take this opportunity to be on stage with LOONA💚\n\nAny KCON-ers who love LOONA can apply!\nWaiting for KCON-ers who will &lt;PTT (Paint The Town)&gt; with LOONA🤗\n\n✔ https://t.co/mq7YC6PwVX\n\n#KCON #KCON2022LA https://t.co/fGVua2E2rD"
+	},
+	{
+		"created_at": "Sat Aug 06 02:58:20 +0000 2022",
+		"id": 1555740729636720600,
+		"id_str": "1555750088865370112",
+		"full_text": "https://t.co/VDXLjxOftS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555740704923881500,
+					"id_str": "1555740704923881472",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZcZ7a-akAAojEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZcZ7a-akAAojEZ.jpg",
+					"url": "https://t.co/VDXLjxOftS",
+					"display_url": "pic.twitter.com/VDXLjxOftS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555740729636720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555740704923881500,
+					"id_str": "1555740704923881472",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZcZ7a-akAAojEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZcZ7a-akAAojEZ.jpg",
+					"url": "https://t.co/VDXLjxOftS",
+					"display_url": "pic.twitter.com/VDXLjxOftS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555740729636720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555740705179697200,
+					"id_str": "1555740705179697154",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZcZ7b7aAAIL8bi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZcZ7b7aAAIL8bi.jpg",
+					"url": "https://t.co/VDXLjxOftS",
+					"display_url": "pic.twitter.com/VDXLjxOftS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555740729636720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555740705402007600,
+					"id_str": "1555740705402007552",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZcZ7cwaMAA_01c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZcZ7cwaMAA_01c.jpg",
+					"url": "https://t.co/VDXLjxOftS",
+					"display_url": "pic.twitter.com/VDXLjxOftS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555740729636720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555740705557196800,
+					"id_str": "1555740705557196803",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZcZ7dVaMAMTbnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZcZ7dVaMAMTbnn.jpg",
+					"url": "https://t.co/VDXLjxOftS",
+					"display_url": "pic.twitter.com/VDXLjxOftS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555740729636720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555735912117637000,
+		"in_reply_to_status_id_str": "1555735912117637122",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450169,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/VDXLjxOftS"
+	},
+	{
+		"created_at": "Sat Aug 06 02:58:15 +0000 2022",
+		"id": 1555740404188065800,
+		"id_str": "1555750067277004801",
+		"full_text": "KCON 2022 LA DREAM STAGE with Kep1er☁️\n💙Take this opportunity to be on stage with Kep1er💚\n\nCheck out the choreography tutorial that\nKep1er teaches you how to dance &lt;WA DA DA&gt;🥳\n\n#KCON #KCON2022LA https://t.co/2yi29yOJWG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						189,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555740297623408600,
+					"id_str": "1555740297623408640",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555740297623408640/pu/img/SdjTndLoyhTqkNAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555740297623408640/pu/img/SdjTndLoyhTqkNAV.jpg",
+					"url": "https://t.co/2yi29yOJWG",
+					"display_url": "pic.twitter.com/2yi29yOJWG",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555740404188065792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555740297623408600,
+					"id_str": "1555740297623408640",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555740297623408640/pu/img/SdjTndLoyhTqkNAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555740297623408640/pu/img/SdjTndLoyhTqkNAV.jpg",
+					"url": "https://t.co/2yi29yOJWG",
+					"display_url": "pic.twitter.com/2yi29yOJWG",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555740404188065792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 52919,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555740297623408640/pu/vid/320x568/UV0as8G2rN9ZZvCo.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555740297623408640/pu/vid/720x1280/X181FVl7nBX1lexK.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555740297623408640/pu/vid/480x852/_ocHjtDAcHD1YU0Q.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555740297623408640/pu/pl/B0c46LLIXjbeHyU8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555740021155840000,
+		"in_reply_to_status_id_str": "1555740021155840002",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450169,
+			"friends_count": 76,
+			"listed_count": 1122,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 LA DREAM STAGE with Kep1er☁️\n💙Take this opportunity to be on stage with Kep1er💚\n\nCheck out the choreography tutorial that\nKep1er teaches you how to dance &lt;WA DA DA&gt;🥳\n\n#KCON #KCON2022LA https://t.co/2yi29yOJWG"
+	},
+	{
 		"created_at": "Sat Aug 06 01:58:14 +0000 2022",
 		"id": 1555722251554943000,
 		"id_str": "1555734967212294145",
