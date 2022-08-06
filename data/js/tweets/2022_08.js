@@ -1,6 +1,794 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 10:11:01 +0000 2022",
+		"id": 1555858978675888000,
+		"id_str": "1555858978675888128",
+		"full_text": "#딩고뮤직 #dingo_music\n[세로라이브] 숀(SHAUN) - Roadㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/pfHHxwoqvY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pfHHxwoqvY",
+					"expanded_url": "https://youtu.be/Qs-4_woQKdY",
+					"display_url": "youtu.be/Qs-4_woQKdY",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[세로라이브] 숀(SHAUN) - Roadㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/pfHHxwoqvY"
+	},
+	{
+		"created_at": "Sat Aug 06 09:29:38 +0000 2022",
+		"id": 1555844088980963300,
+		"id_str": "1555848564168953863",
+		"full_text": "WSG워너비 ‘눈을 감으면’\n\nMelon https://t.co/TdA5MRezpm\nGenie https://t.co/geWZkSaA0p\nBugs https://t.co/Np7cKHvigU\nFLO https://t.co/Yt2idb1nFj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TdA5MRezpm",
+					"expanded_url": "http://bit.ly/3d7Xl6D",
+					"display_url": "bit.ly/3d7Xl6D",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/geWZkSaA0p",
+					"expanded_url": "http://bit.ly/3Q3fLnR",
+					"display_url": "bit.ly/3Q3fLnR",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/Np7cKHvigU",
+					"expanded_url": "http://bit.ly/3but69L",
+					"display_url": "bit.ly/3but69L",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/Yt2idb1nFj",
+					"expanded_url": "http://bit.ly/3vJHa5S",
+					"display_url": "bit.ly/3vJHa5S",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1555844086317592600,
+		"in_reply_to_status_id_str": "1555844086317592577",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40565,
+			"friends_count": 13,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WSG워너비 ‘눈을 감으면’\n\nMelon https://t.co/TdA5MRezpm\nGenie https://t.co/geWZkSaA0p\nBugs https://t.co/Np7cKHvigU\nFLO https://t.co/Yt2idb1nFj"
+	},
+	{
+		"created_at": "Sat Aug 06 09:29:34 +0000 2022",
+		"id": 1555844086317592600,
+		"id_str": "1555848546716241920",
+		"full_text": "[#Release] #권진아\n\nWSG워너비 ‘눈을 감으면’\n\nLyrics by 정준일\nComposed by 정준일\nArranged by 강화성\n\n권진아가 함께하는 WSG워너비 ‘눈을 감으면’이 발매되었습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n#KwonJinAh\n#놀면뭐하니 \n#WSG워너비 #눈을감으면 https://t.co/XmSdJAS4cz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "놀면뭐하니",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "WSG워너비",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "눈을감으면",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555844076939124700,
+					"id_str": "1555844076939124742",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FZd38dvaIAYgHoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZd38dvaIAYgHoZ.jpg",
+					"url": "https://t.co/XmSdJAS4cz",
+					"display_url": "pic.twitter.com/XmSdJAS4cz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1555844086317592577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555844076939124700,
+					"id_str": "1555844076939124742",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FZd38dvaIAYgHoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZd38dvaIAYgHoZ.jpg",
+					"url": "https://t.co/XmSdJAS4cz",
+					"display_url": "pic.twitter.com/XmSdJAS4cz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1555844086317592577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40565,
+			"friends_count": 13,
+			"listed_count": 381,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #권진아\n\nWSG워너비 ‘눈을 감으면’\n\nLyrics by 정준일\nComposed by 정준일\nArranged by 강화성\n\n권진아가 함께하는 WSG워너비 ‘눈을 감으면’이 발매되었습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n#KwonJinAh\n#놀면뭐하니 \n#WSG워너비 #눈을감으면 https://t.co/XmSdJAS4cz"
+	},
+	{
+		"created_at": "Sat Aug 06 09:29:32 +0000 2022",
+		"id": 1555842319206690800,
+		"id_str": "1555848537656774663",
+		"full_text": "#SHINDONGYEOB, #TAEYEON, #SUNNY &amp; #KEY at #AmazingSaturday✌️📸 \n\nComing soon today at 7:30PM KST!\n\n#신동엽 #태연 #써니 #키 #GirlsGeneration #소녀시대 @GirlsGeneration\n#SHINee #샤이니 @SHINee\n#놀라운토요일 https://t.co/hA9HSMoX86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHINDONGYEOB",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						46,
+						62
+					]
+				},
+				{
+					"text": "신동엽",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						115,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555841784680370200,
+					"id_str": "1555841784680370176",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"url": "https://t.co/hA9HSMoX86",
+					"display_url": "pic.twitter.com/hA9HSMoX86",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555842319206690816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555841784680370200,
+					"id_str": "1555841784680370176",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"url": "https://t.co/hA9HSMoX86",
+					"display_url": "pic.twitter.com/hA9HSMoX86",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555842319206690816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11068087,
+			"friends_count": 56,
+			"listed_count": 12499,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3815,
+		"favorite_count": 9291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SHINDONGYEOB, #TAEYEON, #SUNNY &amp; #KEY at #AmazingSaturday✌️📸 \n\nComing soon today at 7:30PM KST!\n\n#신동엽 #태연 #써니 #키 #GirlsGeneration #소녀시대 @GirlsGeneration\n#SHINee #샤이니 @SHINee\n#놀라운토요일 https://t.co/hA9HSMoX86"
+	},
+	{
 		"created_at": "Sat Aug 06 06:29:25 +0000 2022",
 		"id": 1555790272830722000,
 		"id_str": "1555803210056613888",
