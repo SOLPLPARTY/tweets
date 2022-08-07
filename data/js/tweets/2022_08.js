@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 12:11:17 +0000 2022",
+		"id": 1556247729185198000,
+		"id_str": "1556251630269603840",
+		"full_text": "방금 사진을 게시했습니다 @신도시 Seendosi https://t.co/k6vJp2z4YA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k6vJp2z4YA",
+					"expanded_url": "https://www.instagram.com/p/Cg9RZF6pmRq/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Cg9RZF6pmRq/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3809,
+			"friends_count": 672,
+			"listed_count": 0,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.56781323,
+				126.99073278
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.99073278,
+				37.56781323
+			]
+		},
+		"place": {
+			"id": "0082bcf413c3da5b",
+			"url": "https://api.twitter.com/1.1/geo/id/0082bcf413c3da5b.json",
+			"place_type": "city",
+			"name": "종로구",
+			"full_name": "대한민국 종로구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.954583757566,
+							37.5608647493162
+						],
+						[
+							127.020041620086,
+							37.5608647493162
+						],
+						[
+							127.020041620086,
+							37.6329424143606
+						],
+						[
+							126.954583757566,
+							37.6329424143606
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @신도시 Seendosi https://t.co/k6vJp2z4YA"
+	},
+	{
+		"created_at": "Sun Aug 07 11:29:34 +0000 2022",
+		"id": 1556234784296571000,
+		"id_str": "1556241134174801922",
+		"full_text": "8월 13일 토요일, 7시에 진행되는 2부에서는 2집 [보물섬] 수록곡 전 곡과 [99%], [산타클로스] 등을 포함한 싱글 모음집을 한자리에서 만나실 수 있습니다.\n\nTONE STUDIO LIVE &lt;9와 숫자들&gt; \n\n• 공연일시 : 22. 8. 13. (토) 2PM (1부) / 7PM (2부)\n8. 14. (일) 2PM (3부) / 7PM (4부)\n\nc_ent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1556234780223516700,
+		"in_reply_to_status_id_str": "1556234780223516672",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/vbwt4xDupM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbwt4xDupM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 759,
+			"friends_count": 325,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1640230740",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "8월 13일 토요일, 7시에 진행되는 2부에서는 2집 [보물섬] 수록곡 전 곡과 [99%], [산타클로스] 등을 포함한 싱글 모음집을 한자리에서 만나실 수 있습니다.\n\nTONE STUDIO LIVE &lt;9와 숫자들&gt; \n\n• 공연일시 : 22. 8. 13. (토) 2PM (1부) / 7PM (2부)\n8. 14. (일) 2PM (3부) / 7PM (4부)\n\nc_ent"
+	},
+	{
 		"created_at": "Sun Aug 07 10:11:23 +0000 2022",
 		"id": 1556214940876226600,
 		"id_str": "1556221457797087234",
