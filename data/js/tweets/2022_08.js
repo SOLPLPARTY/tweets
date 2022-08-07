@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 10:11:23 +0000 2022",
+		"id": 1556214940876226600,
+		"id_str": "1556221457797087234",
+		"full_text": "#유애포 #김찬민 #김하민 #최이슬 #빅종범 #율랴율례쁑 #앨리스 #동녘 #벨루가 #정지석 #포크 #싱어송라이터 #홍대앞 #라이브 #인디 #kindie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유애포",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "김찬민",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "김하민",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "최이슬",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "빅종범",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "율랴율례쁑",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "앨리스",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "동녘",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "벨루가",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "정지석",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "포크",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "싱어송라이터",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "홍대앞",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1556212792872448000,
+		"in_reply_to_status_id_str": "1556212792872448000",
+		"in_reply_to_user_id": 1387140522,
+		"in_reply_to_user_id_str": "1387140522",
+		"in_reply_to_screen_name": "club_bbang",
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536,
+			"friends_count": 906,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#유애포 #김찬민 #김하민 #최이슬 #빅종범 #율랴율례쁑 #앨리스 #동녘 #벨루가 #정지석 #포크 #싱어송라이터 #홍대앞 #라이브 #인디 #kindie"
+	},
+	{
+		"created_at": "Sun Aug 07 10:11:17 +0000 2022",
+		"id": 1556212792872448000,
+		"id_str": "1556221432107081729",
+		"full_text": "돌아오는 토요일 클럽빵은 싱어송라이터 10명이 함께 준비한 summer folk Release~ 여름밤 포크를 타자~ 공연입니다 빵에 그리고 요즘 싱어송라이터가 참 많습니다 10명을 함께 만나볼수 있는 자리입니다 #클럽빵 #써머퓨크릴리스 #summerfolkrelease #folk #싱어송라이터 https://t.co/lQ9AijnPio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "써머퓨크릴리스",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "summerfolkrelease",
+					"indices": [
+						133,
+						151
+					]
+				},
+				{
+					"text": "folk",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "싱어송라이터",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556212787461779500,
+					"id_str": "1556212787461779457",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FZjHSPeUcAETQTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZjHSPeUcAETQTE.jpg",
+					"url": "https://t.co/lQ9AijnPio",
+					"display_url": "pic.twitter.com/lQ9AijnPio",
+					"expanded_url": "https://twitter.com/club_bbang/status/1556212792872448000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556212787461779500,
+					"id_str": "1556212787461779457",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FZjHSPeUcAETQTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZjHSPeUcAETQTE.jpg",
+					"url": "https://t.co/lQ9AijnPio",
+					"display_url": "pic.twitter.com/lQ9AijnPio",
+					"expanded_url": "https://twitter.com/club_bbang/status/1556212792872448000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556212787486924800,
+					"id_str": "1556212787486924800",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FZjHSPkUIAAV0CP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZjHSPkUIAAV0CP.jpg",
+					"url": "https://t.co/lQ9AijnPio",
+					"display_url": "pic.twitter.com/lQ9AijnPio",
+					"expanded_url": "https://twitter.com/club_bbang/status/1556212792872448000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556212787465969700,
+					"id_str": "1556212787465969665",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FZjHSPfUYAEtKPH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZjHSPfUYAEtKPH.jpg",
+					"url": "https://t.co/lQ9AijnPio",
+					"display_url": "pic.twitter.com/lQ9AijnPio",
+					"expanded_url": "https://twitter.com/club_bbang/status/1556212792872448000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536,
+			"friends_count": 906,
+			"listed_count": 35,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돌아오는 토요일 클럽빵은 싱어송라이터 10명이 함께 준비한 summer folk Release~ 여름밤 포크를 타자~ 공연입니다 빵에 그리고 요즘 싱어송라이터가 참 많습니다 10명을 함께 만나볼수 있는 자리입니다 #클럽빵 #써머퓨크릴리스 #summerfolkrelease #folk #싱어송라이터 https://t.co/lQ9AijnPio"
+	},
+	{
 		"created_at": "Sun Aug 07 07:30:59 +0000 2022",
 		"id": 1556181092809318400,
 		"id_str": "1556181092809318400",
