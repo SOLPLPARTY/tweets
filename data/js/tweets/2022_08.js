@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 09:29:30 +0000 2022",
+		"id": 1556565975784251400,
+		"id_str": "1556573305771098114",
+		"full_text": "[🎥] [M/V] 골든차일드(Golden Child) 'Replay'\n\n▶ https://t.co/mqfajfbVZt\n▶ https://t.co/gLy6M3zbS4\n\n#GoldenChild #골든차일드 \n#AURA #아우라 #Replay #리플레이 \n#GoldenChild_AURA #GoldenChild_Replay https://t.co/rBZEEQ7JF9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "AURA",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "아우라",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "Replay",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "리플레이",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "GoldenChild_AURA",
+					"indices": [
+						140,
+						157
+					]
+				},
+				{
+					"text": "GoldenChild_Replay",
+					"indices": [
+						158,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqfajfbVZt",
+					"expanded_url": "https://youtu.be/qa9PSlGkY_s",
+					"display_url": "youtu.be/qa9PSlGkY_s",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/gLy6M3zbS4",
+					"expanded_url": "https://weverse.io/goldenchild/media/3-101864524",
+					"display_url": "weverse.io/goldenchild/me…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556565959329992700,
+					"id_str": "1556565959329992704",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoIfjNUUAAZDbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZoIfjNUUAAZDbA.jpg",
+					"url": "https://t.co/rBZEEQ7JF9",
+					"display_url": "pic.twitter.com/rBZEEQ7JF9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1556565975784251393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556565959329992700,
+					"id_str": "1556565959329992704",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoIfjNUUAAZDbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZoIfjNUUAAZDbA.jpg",
+					"url": "https://t.co/rBZEEQ7JF9",
+					"display_url": "pic.twitter.com/rBZEEQ7JF9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1556565975784251393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421441,
+			"friends_count": 13,
+			"listed_count": 1880,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1659258367",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 348,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥] [M/V] 골든차일드(Golden Child) 'Replay'\n\n▶ https://t.co/mqfajfbVZt\n▶ https://t.co/gLy6M3zbS4\n\n#GoldenChild #골든차일드 \n#AURA #아우라 #Replay #리플레이 \n#GoldenChild_AURA #GoldenChild_Replay https://t.co/rBZEEQ7JF9"
+	},
+	{
+		"created_at": "Mon Aug 08 09:29:27 +0000 2022",
+		"id": 1556565912999760000,
+		"id_str": "1556573292634554369",
+		"full_text": "Horror Music | KANGTA Studio EP.4\n\nhttps://t.co/Kw6upp7Oh6\n\n#KANGTA #강타 #KANGTASTUDIO\n#DAW #VSTI #PROTOOL https://t.co/UWr6z2z7OM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "KANGTASTUDIO",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"text": "DAW",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "VSTI",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "PROTOOL",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kw6upp7Oh6",
+					"expanded_url": "https://youtu.be/F0JHOKQyNSM",
+					"display_url": "youtu.be/F0JHOKQyNSM",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556565907035500500,
+					"id_str": "1556565907035500544",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoIcgZVsAAxTSm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZoIcgZVsAAxTSm.jpg",
+					"url": "https://t.co/UWr6z2z7OM",
+					"display_url": "pic.twitter.com/UWr6z2z7OM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556565912999759875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556565907035500500,
+					"id_str": "1556565907035500544",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoIcgZVsAAxTSm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZoIcgZVsAAxTSm.jpg",
+					"url": "https://t.co/UWr6z2z7OM",
+					"display_url": "pic.twitter.com/UWr6z2z7OM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556565912999759875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11071834,
+			"friends_count": 56,
+			"listed_count": 12496,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 1149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horror Music | KANGTA Studio EP.4\n\nhttps://t.co/Kw6upp7Oh6\n\n#KANGTA #강타 #KANGTASTUDIO\n#DAW #VSTI #PROTOOL https://t.co/UWr6z2z7OM"
+	},
+	{
 		"created_at": "Mon Aug 08 09:05:24 +0000 2022",
 		"id": 1556567240132083700,
 		"id_str": "1556567240132083712",
