@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 10:31:23 +0000 2022",
+		"id": 1556588877447540700,
+		"id_str": "1556588877447540737",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n🌹코난 그레이의 잔망 넘치는 한국어 교실🇰🇷\nhttps://t.co/mILYbX9NGe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mILYbX9NGe",
+					"expanded_url": "https://youtu.be/8EsOOnL7I2E",
+					"display_url": "youtu.be/8EsOOnL7I2E",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n🌹코난 그레이의 잔망 넘치는 한국어 교실🇰🇷\nhttps://t.co/mILYbX9NGe"
+	},
+	{
+		"created_at": "Mon Aug 08 10:29:31 +0000 2022",
+		"id": 1556576290651533300,
+		"id_str": "1556588408218288130",
+		"full_text": "• 공연일시 :\n9월 3일 (토) 오후 6시\n9월 4일 (일) 오후 5시\n\n• 공연장소 : 구름아래소극장\n• 러닝타임 : 90분\n\n• 티켓가격 : 66,000원\n• 예매처 : 멜론티켓 \n• 티켓오픈 : 8월 11일 (목) 오후 2시\n\n• 주최/주관 : 매직스트로베리사운드 / 캐스퍼라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1556576211588956200,
+		"in_reply_to_status_id_str": "1556576211588956167",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkjSqKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkjSqKw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8841,
+			"friends_count": 24,
+			"listed_count": 104,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477118678395420674/4eouOYtl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1641007512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 공연일시 :\n9월 3일 (토) 오후 6시\n9월 4일 (일) 오후 5시\n\n• 공연장소 : 구름아래소극장\n• 러닝타임 : 90분\n\n• 티켓가격 : 66,000원\n• 예매처 : 멜론티켓 \n• 티켓오픈 : 8월 11일 (목) 오후 2시\n\n• 주최/주관 : 매직스트로베리사운드 / 캐스퍼라이브"
+	},
+	{
 		"created_at": "Mon Aug 08 09:29:30 +0000 2022",
 		"id": 1556565975784251400,
 		"id_str": "1556573305771098114",
