@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 13:58:15 +0000 2022",
+		"id": 1556630702732755000,
+		"id_str": "1556640937731915777",
+		"full_text": "💥 EARLY BIRD TICKET SOLD OUT 💥\n\n많은 분들의 관심과 성원 감사합니다 🙏\n\n✔️ 얼리버드 티켓 예매는 8월 11일 오후 23시 59분에 마감되며, 예매가 마감되는 시점까지 취소표에 한하여 예매가 가능합니다.\n\n 🎟 8. 12.(FRI) 일반티켓 오픈 예정 \n\n#잔다리페스타\n22.9.2.(Fri)~9.4.(Sun) https://t.co/K6tH5QkkMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잔다리페스타",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556630293842657300,
+					"id_str": "1556630293842657280",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZpDAT8agAAhoNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZpDAT8agAAhoNV.jpg",
+					"url": "https://t.co/K6tH5QkkMS",
+					"display_url": "pic.twitter.com/K6tH5QkkMS",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1556630702732754945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1932,
+							"h": 1934,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556630293842657300,
+					"id_str": "1556630293842657280",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZpDAT8agAAhoNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZpDAT8agAAhoNV.jpg",
+					"url": "https://t.co/K6tH5QkkMS",
+					"display_url": "pic.twitter.com/K6tH5QkkMS",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1556630702732754945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1932,
+							"h": 1934,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & Conferences 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta\nmore details 👉 https://t.co/3L3RWYTVUZ",
+			"url": "https://t.co/WpBoMBia2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpBoMBia2Z",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3L3RWYTVUZ",
+							"expanded_url": "http://linktr.ee/zandarifesta",
+							"display_url": "linktr.ee/zandarifesta",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2723,
+			"friends_count": 1704,
+			"listed_count": 42,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1659440141",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💥 EARLY BIRD TICKET SOLD OUT 💥\n\n많은 분들의 관심과 성원 감사합니다 🙏\n\n✔️ 얼리버드 티켓 예매는 8월 11일 오후 23시 59분에 마감되며, 예매가 마감되는 시점까지 취소표에 한하여 예매가 가능합니다.\n\n 🎟 8. 12.(FRI) 일반티켓 오픈 예정 \n\n#잔다리페스타\n22.9.2.(Fri)~9.4.(Sun) https://t.co/K6tH5QkkMS"
+	},
+	{
 		"created_at": "Mon Aug 08 12:26:14 +0000 2022",
 		"id": 1556617780903886800,
 		"id_str": "1556617780903886848",
