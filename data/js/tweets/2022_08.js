@@ -1,10 +1,701 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 06:29:49 +0000 2022",
+		"id": 1556888170230599700,
+		"id_str": "1556890476002811905",
+		"full_text": "[#NEWS] ‘걍나와’ 출연 김이나, ‘19금 토크’로 강호동 진땀 ‘쫙’\n\n▶https://t.co/oXRoPr0Dd4\n\n#걍나와 #미스틱스토리 #네이버NOW #강호동",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "걍나와",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "강호동",
+					"indices": [
+						91,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oXRoPr0Dd4",
+					"expanded_url": "https://naver.me/5Udfn9Br",
+					"display_url": "naver.me/5Udfn9Br",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4g8RF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4g8RF",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37078,
+			"friends_count": 14,
+			"listed_count": 298,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1660014455",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] ‘걍나와’ 출연 김이나, ‘19금 토크’로 강호동 진땀 ‘쫙’\n\n▶https://t.co/oXRoPr0Dd4\n\n#걍나와 #미스틱스토리 #네이버NOW #강호동"
+	},
+	{
+		"created_at": "Tue Aug 09 06:29:44 +0000 2022",
+		"id": 1556883262747713500,
+		"id_str": "1556890454570029057",
+		"full_text": "🎫 Single Ticket Sales Open\n- 판매 기간: 2022년 8월 9일 (화) 15:00 ~ 2022년 8월 28일 (일) 16:00 (KST)\n- Sales Period: From August 9, 2022 (Tue) 15:00 to August 28, 2022 (Sun) 16:00 (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1556883260117905400,
+		"in_reply_to_status_id_str": "1556883260117905409",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11073175,
+			"friends_count": 56,
+			"listed_count": 12503,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎫 Single Ticket Sales Open\n- 판매 기간: 2022년 8월 9일 (화) 15:00 ~ 2022년 8월 28일 (일) 16:00 (KST)\n- Sales Period: From August 9, 2022 (Tue) 15:00 to August 28, 2022 (Sun) 16:00 (KST)"
+	},
+	{
+		"created_at": "Tue Aug 09 06:29:41 +0000 2022",
+		"id": 1556883260117905400,
+		"id_str": "1556890441479606272",
+		"full_text": "✅ SMTOWN &amp;STORE \n-PC\nKO: https://t.co/EeDDjdr7Nk\nEN: https://t.co/0ezfeflnJQ\nJP: https://t.co/7vu71cQdmB\nCN: https://t.co/Cu2TqbdFwb\n \n-MO\nKO: https://t.co/rhxmFwozb7\nEN: https://t.co/kt2CUHSiAz\nJP: https://t.co/OfB1Yx2Bd7\nCN: https://t.co/6oktIk6xH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EeDDjdr7Nk",
+					"expanded_url": "https://bit.ly/3QmUo0i",
+					"display_url": "bit.ly/3QmUo0i",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/0ezfeflnJQ",
+					"expanded_url": "https://bit.ly/3JCIVYk",
+					"display_url": "bit.ly/3JCIVYk",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/7vu71cQdmB",
+					"expanded_url": "https://bit.ly/3JC3GTU",
+					"display_url": "bit.ly/3JC3GTU",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/Cu2TqbdFwb",
+					"expanded_url": "https://bit.ly/3JEkoCj",
+					"display_url": "bit.ly/3JEkoCj",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/rhxmFwozb7",
+					"expanded_url": "https://bit.ly/3Q6phGM",
+					"display_url": "bit.ly/3Q6phGM",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/kt2CUHSiAz",
+					"expanded_url": "https://bit.ly/3A3gvn5",
+					"display_url": "bit.ly/3A3gvn5",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/OfB1Yx2Bd7",
+					"expanded_url": "https://bit.ly/3oYfAya",
+					"display_url": "bit.ly/3oYfAya",
+					"indices": [
+						203,
+						226
+					]
+				},
+				{
+					"url": "https://t.co/6oktIk6xH9",
+					"expanded_url": "https://bit.ly/3QoUQLA",
+					"display_url": "bit.ly/3QoUQLA",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1556883258071126000,
+		"in_reply_to_status_id_str": "1556883258071126017",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11073175,
+			"friends_count": 56,
+			"listed_count": 12503,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "✅ SMTOWN &amp;STORE \n-PC\nKO: https://t.co/EeDDjdr7Nk\nEN: https://t.co/0ezfeflnJQ\nJP: https://t.co/7vu71cQdmB\nCN: https://t.co/Cu2TqbdFwb\n \n-MO\nKO: https://t.co/rhxmFwozb7\nEN: https://t.co/kt2CUHSiAz\nJP: https://t.co/OfB1Yx2Bd7\nCN: https://t.co/6oktIk6xH9"
+	},
+	{
+		"created_at": "Tue Aug 09 06:29:39 +0000 2022",
+		"id": 1556883258071126000,
+		"id_str": "1556890432587665410",
+		"full_text": "📣 Ticket Information\n \n✅ Beyond LIVE\n🔗 https://t.co/tNMJXMZLuG \n🎫 Single Ticket Sales Open\n- 판매 기간: 2022년 8월 9일 (화) 15:00 ~ 2022년 8월 28일 (일) 17:00 (KST)\n- Sales Period: From August 9, 2022 (Tue) 15:00 to August 28, 2022 (Sun) 17:00 (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tNMJXMZLuG",
+					"expanded_url": "https://bit.ly/3djY0lm",
+					"display_url": "bit.ly/3djY0lm",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1556883255135125500,
+		"in_reply_to_status_id_str": "1556883255135125510",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11073175,
+			"friends_count": 56,
+			"listed_count": 12503,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 Ticket Information\n \n✅ Beyond LIVE\n🔗 https://t.co/tNMJXMZLuG \n🎫 Single Ticket Sales Open\n- 판매 기간: 2022년 8월 9일 (화) 15:00 ~ 2022년 8월 28일 (일) 17:00 (KST)\n- Sales Period: From August 9, 2022 (Tue) 15:00 to August 28, 2022 (Sun) 17:00 (KST)"
+	},
+	{
+		"created_at": "Tue Aug 09 06:29:33 +0000 2022",
+		"id": 1556883255135125500,
+		"id_str": "1556890406926827521",
+		"full_text": "Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO\n \n📆 08/28 SUN 4PM (KST)\n👉 Sales – KOREA : ₩49,000 / JAPAN : ¥4,900 / GLOBAL : 45 USD\n※ You can purchase one ticket per ID https://t.co/Mu5Tg7jOet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556868939560366000,
+					"id_str": "1556868939560366080",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FZscDUhVsAAjCYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZscDUhVsAAjCYH.jpg",
+					"url": "https://t.co/Mu5Tg7jOet",
+					"display_url": "pic.twitter.com/Mu5Tg7jOet",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556883255135125510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 843,
+							"h": 1291,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556868939560366000,
+					"id_str": "1556868939560366080",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FZscDUhVsAAjCYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZscDUhVsAAjCYH.jpg",
+					"url": "https://t.co/Mu5Tg7jOet",
+					"display_url": "pic.twitter.com/Mu5Tg7jOet",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556883255135125510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 843,
+							"h": 1291,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11073175,
+			"friends_count": 56,
+			"listed_count": 12503,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1276,
+		"favorite_count": 4078,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO\n \n📆 08/28 SUN 4PM (KST)\n👉 Sales – KOREA : ₩49,000 / JAPAN : ¥4,900 / GLOBAL : 45 USD\n※ You can purchase one ticket per ID https://t.co/Mu5Tg7jOet"
+	},
+	{
 		"created_at": "Tue Aug 09 05:59:04 +0000 2022",
 		"id": 1556882736274555000,
 		"id_str": "1556882736274554880",
-		"full_text": "#EBS스페이스공감 #스페이스공감 #공감 \n[격공 Playlist] 국카스텐, 데이브레이크, 실리카겔 👩‍🎤 공감이 발굴한 초특급 루키 모음.zip (70분 연속 재생)\nhttps://t.co/gfeXnqwvuI",
+		"full_text": "#EBS스페이스공감 #스페이스공감 #공감 \n[격공 Playlist] 국카스텐, 데이브레이크, 실리카겔 👩🎤 공감이 발굴한 초특급 루키 모음.zip (70분 연속 재생)\nhttps://t.co/gfeXnqwvuI",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -146,7 +837,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#EBS스페이스공감 #스페이스공감 #공감 \n[격공 Playlist] 국카스텐, 데이브레이크, 실리카겔 👩‍🎤 공감이 발굴한 초특급 루키 모음.zip (70분 연속 재생)\nhttps://t.co/gfeXnqwvuI"
+		"text": "#EBS스페이스공감 #스페이스공감 #공감 \n[격공 Playlist] 국카스텐, 데이브레이크, 실리카겔 👩🎤 공감이 발굴한 초특급 루키 모음.zip (70분 연속 재생)\nhttps://t.co/gfeXnqwvuI"
 	},
 	{
 		"created_at": "Tue Aug 09 05:58:22 +0000 2022",
