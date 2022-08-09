@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 03:58:15 +0000 2022",
+		"id": 1556845222029656000,
+		"id_str": "1556852330187849728",
+		"full_text": "여러분이 추천하고 싶은 루키즈의 입덕곡을 투표해 주세요😍\n\n💙루키즈 무대 투표는 8/10 00:00(KST)부터 참여할 수 있습니다💚\n💙You can vote starting from August 10th 00:00(KST)💚\n\n🗓투표기간 : 8/10 00:00(KST) ~ 8/15 23:59 (KST)\n\n🔗https://t.co/eQZEqw927O\n\n#KCON #KCON2022LA https://t.co/7SqZY8SULI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						204,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eQZEqw927O",
+					"expanded_url": "https://bit.ly/3JIH0l1",
+					"display_url": "bit.ly/3JIH0l1",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"url": "https://t.co/7SqZY8SULI",
+					"expanded_url": "https://twitter.com/kconusa/status/1556815023975981056",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450293,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1556815023975981000,
+		"quoted_status_id_str": "1556815023975981056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7SqZY8SULI",
+			"expanded": "https://twitter.com/kconusa/status/1556815023975981056",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 09 01:30:00 +0000 2022",
+			"id": 1556815023975981000,
+			"id_str": "1556815023975981056",
+			"full_text": "Vote for KCON ROOKIES artists’ song that will make the world fall in love with them😍\n\n🗓Voting Period : 8/10 00:00(KST) ~ 8/15 23:59 (KST)\n\n🔗https://t.co/bqgttcPfh5\n\n#KCON #KCON2022LA https://t.co/788SR6wgwr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							165,
+							170
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							171,
+							182
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bqgttcPfh5",
+						"expanded_url": "https://bit.ly/3JIH0l1",
+						"display_url": "bit.ly/3JIH0l1",
+						"indices": [
+							140,
+							163
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1556812800118620200,
+						"id_str": "1556812800118620161",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FZro_kzaAAEY2D6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZro_kzaAAEY2D6.jpg",
+						"url": "https://t.co/788SR6wgwr",
+						"display_url": "pic.twitter.com/788SR6wgwr",
+						"expanded_url": "https://twitter.com/kconusa/status/1556815023975981056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1556812800118620200,
+						"id_str": "1556812800118620161",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FZro_kzaAAEY2D6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZro_kzaAAEY2D6.jpg",
+						"url": "https://t.co/788SR6wgwr",
+						"display_url": "pic.twitter.com/788SR6wgwr",
+						"expanded_url": "https://twitter.com/kconusa/status/1556815023975981056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 224285,
+				"friends_count": 7,
+				"listed_count": 471,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분이 추천하고 싶은 루키즈의 입덕곡을 투표해 주세요😍\n\n💙루키즈 무대 투표는 8/10 00:00(KST)부터 참여할 수 있습니다💚\n💙You can vote starting from August 10th 00:00(KST)💚\n\n🗓투표기간 : 8/10 00:00(KST) ~ 8/15 23:59 (KST)\n\n🔗https://t.co/eQZEqw927O\n\n#KCON #KCON2022LA https://t.co/7SqZY8SULI"
+	},
+	{
+		"created_at": "Tue Aug 09 03:29:30 +0000 2022",
+		"id": 1556844755929034800,
+		"id_str": "1556845096372506626",
+		"full_text": "#PARKSOOYOUNG (#RedVelvet #JOY) turns into a cheerful and bright police officer in a new KakaoTV Original ‘어쩌다 전원일기’! ‘안자영’ is a troubleshooter of her town ‘희동리’ and is good at everything, from repairing to farming! \n\nPhotos provided by Kakao Entertainment https://t.co/X0lH9FjVER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						26,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556844744981901300,
+					"id_str": "1556844744981901314",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556844744981901300,
+					"id_str": "1556844744981901314",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556844744998719500,
+					"id_str": "1556844744998719488",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAwVEAAbg_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAwVEAAbg_9.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556844744965181400,
+					"id_str": "1556844744965181445",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAoVUAUtL9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAoVUAUtL9B.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 829,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11072911,
+			"friends_count": 56,
+			"listed_count": 12502,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2319,
+		"favorite_count": 6394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PARKSOOYOUNG (#RedVelvet #JOY) turns into a cheerful and bright police officer in a new KakaoTV Original ‘어쩌다 전원일기’! ‘안자영’ is a troubleshooter of her town ‘희동리’ and is good at everything, from repairing to farming! \n\nPhotos provided by Kakao Entertainment https://t.co/X0lH9FjVER"
+	},
+	{
 		"created_at": "Tue Aug 09 03:10:39 +0000 2022",
 		"id": 1556840351498768400,
 		"id_str": "1556840351498768384",
