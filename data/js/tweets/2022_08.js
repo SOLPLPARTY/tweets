@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 06:29:25 +0000 2022",
+		"id": 1557245359482716200,
+		"id_str": "1557252761280028672",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON \nOFFICIAL MD ONLINE SALES NOTICE  \n\n1st LINE UP\n2022. 08. 11 (THU) 15:00 ~ 08. 28 (SUN) 23:59 [KST]\n\n2nd LINE UP\n2022. 08. 22 (MON) 15:00 ~ 08. 28 (SUN) 23:59 [KST] \n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/HWvvCOxcWn https://t.co/eEFvlIDNz7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HWvvCOxcWn",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556863673628364800,
+					"id_str": "1556863673628364803",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsXQzZUEAMvPbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsXQzZUEAMvPbA.jpg",
+					"url": "https://t.co/eEFvlIDNz7",
+					"display_url": "pic.twitter.com/eEFvlIDNz7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557245359482716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 365,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 207,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 623,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556863673628364800,
+					"id_str": "1556863673628364803",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsXQzZUEAMvPbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsXQzZUEAMvPbA.jpg",
+					"url": "https://t.co/eEFvlIDNz7",
+					"display_url": "pic.twitter.com/eEFvlIDNz7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557245359482716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 365,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 207,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 623,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556863698970415000,
+					"id_str": "1556863698970415104",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsXSRzVEAAAwAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsXSRzVEAAAwAF.jpg",
+					"url": "https://t.co/eEFvlIDNz7",
+					"display_url": "pic.twitter.com/eEFvlIDNz7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557245359482716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 241,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 411,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 136,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556863811830698000,
+					"id_str": "1556863811830697984",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsXY2PUUAANHNm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsXY2PUUAANHNm.jpg",
+					"url": "https://t.co/eEFvlIDNz7",
+					"display_url": "pic.twitter.com/eEFvlIDNz7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557245359482716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 145,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 256,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11074811,
+			"friends_count": 56,
+			"listed_count": 12505,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9198,
+		"favorite_count": 23681,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON \nOFFICIAL MD ONLINE SALES NOTICE  \n\n1st LINE UP\n2022. 08. 11 (THU) 15:00 ~ 08. 28 (SUN) 23:59 [KST]\n\n2nd LINE UP\n2022. 08. 22 (MON) 15:00 ~ 08. 28 (SUN) 23:59 [KST] \n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/HWvvCOxcWn https://t.co/eEFvlIDNz7"
+	},
+	{
 		"created_at": "Wed Aug 10 05:58:15 +0000 2022",
 		"id": 1557230260109836300,
 		"id_str": "1557244917428125698",
@@ -599,7 +856,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Wed Aug 10 05:29:29 +0000 2022",
 		"id": 1557230616860856300,
 		"id_str": "1557237678772469760",
-		"full_text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 \" 어? 이 노래 어디 나왔더라 🤷‍♀ \" 하는 음악 모음 https://t.co/XFbowh4DSC",
+		"full_text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 \" 어? 이 노래 어디 나왔더라 🤷♀ \" 하는 음악 모음 https://t.co/XFbowh4DSC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -700,7 +957,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 \" 어? 이 노래 어디 나왔더라 🤷‍♀ \" 하는 음악 모음 https://t.co/XFbowh4DSC"
+		"text": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 \" 어? 이 노래 어디 나왔더라 🤷♀ \" 하는 음악 모음 https://t.co/XFbowh4DSC"
 	},
 	{
 		"created_at": "Wed Aug 10 04:29:25 +0000 2022",
