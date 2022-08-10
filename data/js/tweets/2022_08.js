@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 01:58:15 +0000 2022",
+		"id": 1557169863692415000,
+		"id_str": "1557184520046125057",
+		"full_text": "[ITZY CHECK IN]\nWhat's in ITZY's Bag?👜\nMIDZY는 어디로든 문 챙겨서 LA 갈건데~..\nITZY는 혹쉬 뭐 챙겼어? MIDZY 사랑❤? 푸하핰\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @ITZYofficial https://t.co/HixxmzuhTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						147,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MhOM2icemx",
+					"expanded_url": "https://bit.ly/3QMFbXs",
+					"display_url": "bit.ly/3QMFbXs",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/HixxmzuhTo",
+					"expanded_url": "https://twitter.com/kconusa/status/1557139662011080705",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450385,
+			"friends_count": 76,
+			"listed_count": 1116,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557139662011080700,
+		"quoted_status_id_str": "1557139662011080705",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HixxmzuhTo",
+			"expanded": "https://twitter.com/kconusa/status/1557139662011080705",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 09 23:00:00 +0000 2022",
+			"id": 1557139662011080700,
+			"id_str": "1557139662011080705",
+			"full_text": "[ITZY CHECK IN]\nWhat's in ITZY's Bag?👜\nMIDZY : We are bringing a door to LA~.. How about you girls?\nITZY : MIDZY's love❤\n\n🎫SHOW : https://t.co/V4Eoc07tK8\n\n#KCON #KCONUSA #KCON2022LA @ITZYofficial https://t.co/g1tAt17oXU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							155,
+							160
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							161,
+							169
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							170,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ITZYofficial",
+						"name": "ITZY",
+						"id": 1062578718214770700,
+						"id_str": "1062578718214770688",
+						"indices": [
+							182,
+							195
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V4Eoc07tK8",
+						"expanded_url": "https://bit.ly/3QMFbXs",
+						"display_url": "bit.ly/3QMFbXs",
+						"indices": [
+							130,
+							153
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1557061548572418000,
+						"id_str": "1557061548572418050",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557061548572418050/img/B-TuXxCZz5K3vHtR.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557061548572418050/img/B-TuXxCZz5K3vHtR.jpg",
+						"url": "https://t.co/g1tAt17oXU",
+						"display_url": "pic.twitter.com/g1tAt17oXU",
+						"expanded_url": "https://twitter.com/kconusa/status/1557139662011080705/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1557061548572418000,
+						"id_str": "1557061548572418050",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557061548572418050/img/B-TuXxCZz5K3vHtR.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557061548572418050/img/B-TuXxCZz5K3vHtR.jpg",
+						"url": "https://t.co/g1tAt17oXU",
+						"display_url": "pic.twitter.com/g1tAt17oXU",
+						"expanded_url": "https://twitter.com/kconusa/status/1557139662011080705/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 123923,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1557061548572418050/vid/720x1280/2SNwAIcSzsYogQUe.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1557061548572418050/pl/wa7uaUZxfApaVEFv.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1557061548572418050/vid/320x568/Fucwk9mCdn3BVwYF.mp4?tag=14"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1557061548572418050/vid/480x852/UDtBxFXJf3UBmTSi.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 224319,
+				"friends_count": 7,
+				"listed_count": 470,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 440,
+			"favorite_count": 1170,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 42,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ITZY CHECK IN]\nWhat's in ITZY's Bag?👜\nMIDZY는 어디로든 문 챙겨서 LA 갈건데~..\nITZY는 혹쉬 뭐 챙겼어? MIDZY 사랑❤? 푸하핰\n\n🎫SHOW : https://t.co/MhOM2icemx\n\n#KCON #KCONUSA #KCON2022LA @ITZYofficial https://t.co/HixxmzuhTo"
+	},
+	{
 		"created_at": "Wed Aug 10 00:29:33 +0000 2022",
 		"id": 1557158751060181000,
 		"id_str": "1557162197347958784",
