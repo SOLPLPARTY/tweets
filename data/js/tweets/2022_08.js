@@ -1,6 +1,902 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 11:11:17 +0000 2022",
+		"id": 1557683246950781000,
+		"id_str": "1557686082690600962",
+		"full_text": "📢 8/12 공연 현장 안내\n⠀\n&lt;밍기뉴 단독 콘서트 '나의 모든 이들에게,'&gt;\n· 티켓수령 : 7시 (현장구매 불가)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 밍기뉴\n⠀\n#롤링홀 #ROLLINGHALL\n#밍기뉴 #단독콘서트 #나의모든이들에게\n#홍대 #공연 #인디 #멜론티켓 https://t.co/ixQjcNrouL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"text": "밍기뉴",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "나의모든이들에게",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557269716812861400,
+					"id_str": "1557269716812861440",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyIjoIakAAUjpB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyIjoIakAAUjpB.jpg",
+					"url": "https://t.co/ixQjcNrouL",
+					"display_url": "pic.twitter.com/ixQjcNrouL",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1557683246950780928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557269716812861400,
+					"id_str": "1557269716812861440",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyIjoIakAAUjpB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyIjoIakAAUjpB.jpg",
+					"url": "https://t.co/ixQjcNrouL",
+					"display_url": "pic.twitter.com/ixQjcNrouL",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1557683246950780928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557269734919635000,
+					"id_str": "1557269734919634944",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyIkrlaAAAwFVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyIkrlaAAAwFVw.jpg",
+					"url": "https://t.co/ixQjcNrouL",
+					"display_url": "pic.twitter.com/ixQjcNrouL",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1557683246950780928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 8/12 공연 현장 안내\n⠀\n&lt;밍기뉴 단독 콘서트 '나의 모든 이들에게,'&gt;\n· 티켓수령 : 7시 (현장구매 불가)\n· 입장 : 7시 30분 \n· 공연시작 : 8시\n· 출연 : 밍기뉴\n⠀\n#롤링홀 #ROLLINGHALL\n#밍기뉴 #단독콘서트 #나의모든이들에게\n#홍대 #공연 #인디 #멜론티켓 https://t.co/ixQjcNrouL"
+	},
+	{
+		"created_at": "Thu Aug 11 10:29:51 +0000 2022",
+		"id": 1557673719270875100,
+		"id_str": "1557675657030778881",
+		"full_text": "* 정규 1집 NCMC Vinyl은 500매 한정으로, SUPERNOVA! 투어에서만 구매하실 수 있습니다.\n* &lt;SUPERNOVA! : 서울&gt; MD 판매 관련 자세한 내용은 추후 공지될 예정입니다.\n\n#너드커넥션 #정규1집 #바이닐 #SUPERNOVA!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "정규1집",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "바이닐",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "SUPERNOVA",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1557673660978438100,
+		"in_reply_to_status_id_str": "1557673660978438144",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2278,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 정규 1집 NCMC Vinyl은 500매 한정으로, SUPERNOVA! 투어에서만 구매하실 수 있습니다.\n* &lt;SUPERNOVA! : 서울&gt; MD 판매 관련 자세한 내용은 추후 공지될 예정입니다.\n\n#너드커넥션 #정규1집 #바이닐 #SUPERNOVA!"
+	},
+	{
+		"created_at": "Thu Aug 11 10:29:44 +0000 2022",
+		"id": 1557673706180460500,
+		"id_str": "1557675627196588032",
+		"full_text": "✔️구성\n- 정규 1집 NCMC Vinyl\n- Booklet\n전곡 가사지와 정규 1집 발매 이후 1년, 그 시간들이 너드커넥션에게 남긴 것들을 이야기한 담화 수록\n- Polaroid\n세상에 단 하나! 너드커넥션 !찐! 폴라로이드 사진 1장 랜덤 수록 (단체 컷, 개인 컷, 쿵이 컷 어떤 사진이 나올지 기대해주세요)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1557673660978438100,
+		"in_reply_to_status_id_str": "1557673660978438144",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2278,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️구성\n- 정규 1집 NCMC Vinyl\n- Booklet\n전곡 가사지와 정규 1집 발매 이후 1년, 그 시간들이 너드커넥션에게 남긴 것들을 이야기한 담화 수록\n- Polaroid\n세상에 단 하나! 너드커넥션 !찐! 폴라로이드 사진 1장 랜덤 수록 (단체 컷, 개인 컷, 쿵이 컷 어떤 사진이 나올지 기대해주세요)"
+	},
+	{
+		"created_at": "Thu Aug 11 10:29:37 +0000 2022",
+		"id": 1557673660978438100,
+		"id_str": "1557675597375148033",
+		"full_text": "#너드커넥션 의 8월 MD는 &lt;SUPERNOVA! : 서울&gt;에서 구매하실 수 있는 정규 1집 &lt;New Century Masterpiece Cinema&gt; 한정반 바이닐, 그리고 내일 공개될 &lt;SUPERNOVA! : 서울&gt; 기념 MD입니다. \n\n📍정규 1집 한정반 바이닐\n: 45,000원 https://t.co/TQS1MgWz8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557673645119783000,
+					"id_str": "1557673645119782912",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ337WVaQAAB-tG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ337WVaQAAB-tG.jpg",
+					"url": "https://t.co/TQS1MgWz8C",
+					"display_url": "pic.twitter.com/TQS1MgWz8C",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1557673660978438144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557673645119783000,
+					"id_str": "1557673645119782912",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ337WVaQAAB-tG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ337WVaQAAB-tG.jpg",
+					"url": "https://t.co/TQS1MgWz8C",
+					"display_url": "pic.twitter.com/TQS1MgWz8C",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1557673660978438144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557673645103018000,
+					"id_str": "1557673645103017984",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ337WRacAAPajM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ337WRacAAPajM.jpg",
+					"url": "https://t.co/TQS1MgWz8C",
+					"display_url": "pic.twitter.com/TQS1MgWz8C",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1557673660978438144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2278,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#너드커넥션 의 8월 MD는 &lt;SUPERNOVA! : 서울&gt;에서 구매하실 수 있는 정규 1집 &lt;New Century Masterpiece Cinema&gt; 한정반 바이닐, 그리고 내일 공개될 &lt;SUPERNOVA! : 서울&gt; 기념 MD입니다. \n\n📍정규 1집 한정반 바이닐\n: 45,000원 https://t.co/TQS1MgWz8C"
+	},
+	{
+		"created_at": "Thu Aug 11 10:29:30 +0000 2022",
+		"id": 1557660721684484000,
+		"id_str": "1557675567490678789",
+		"full_text": "[NEWS] #권혁수 X주현영X'SNL' 제작진 뭉쳤다..'복학생', 20일 첫 공개\n\n👉 https://t.co/tADeCARCDo \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL코리아 #쿠팡플레이 #CoupangPlay #복학생 #학점은A지만사랑은F입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "복학생",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "학점은A지만사랑은F입니다",
+					"indices": [
+						145,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tADeCARCDo",
+					"expanded_url": "https://naver.me/x4arCRtR",
+					"display_url": "naver.me/x4arCRtR",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] #권혁수 X주현영X'SNL' 제작진 뭉쳤다..'복학생', 20일 첫 공개\n\n👉 https://t.co/tADeCARCDo \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNL코리아 #쿠팡플레이 #CoupangPlay #복학생 #학점은A지만사랑은F입니다"
+	},
+	{
 		"created_at": "Thu Aug 11 09:58:17 +0000 2022",
 		"id": 1557658081244618800,
 		"id_str": "1557667712150765568",
