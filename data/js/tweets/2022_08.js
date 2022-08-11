@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 09:58:17 +0000 2022",
+		"id": 1557658081244618800,
+		"id_str": "1557667712150765568",
+		"full_text": "✨일정 : 8월 26일(금) ~ 8월 28일(일) 3일간\n\n✨장소 : 전주종합경기장\n\n✨예매 : 네이버, 티켓링크, 인터파크\n\nhttps://t.co/s2iJTUn05z\n\n#JUMF와칭따오의만남 #JUMF #전주얼티밋뮤직페스티벌 #JUMF2022 #칭따오 #오마이펀 #맥주맛은원래노는맛이야 #tsingtao #절대깔끔칭따오 #페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF와칭따오의만남",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"text": "JUMF",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "JUMF2022",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "칭따오",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "오마이펀",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "맥주맛은원래노는맛이야",
+					"indices": [
+						149,
+						161
+					]
+				},
+				{
+					"text": "tsingtao",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "절대깔끔칭따오",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2iJTUn05z",
+					"expanded_url": "http://www.jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557658075649425400,
+		"in_reply_to_status_id_str": "1557658075649425408",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1064,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨일정 : 8월 26일(금) ~ 8월 28일(일) 3일간\n\n✨장소 : 전주종합경기장\n\n✨예매 : 네이버, 티켓링크, 인터파크\n\nhttps://t.co/s2iJTUn05z\n\n#JUMF와칭따오의만남 #JUMF #전주얼티밋뮤직페스티벌 #JUMF2022 #칭따오 #오마이펀 #맥주맛은원래노는맛이야 #tsingtao #절대깔끔칭따오 #페스티벌"
+	},
+	{
+		"created_at": "Thu Aug 11 09:58:15 +0000 2022",
+		"id": 1557658075649425400,
+		"id_str": "1557667703271440384",
+		"full_text": "🍻JUMF 2022 x TSINGTAO🍻\n\nOFFICIAL PARTNER!\n\n2022 전주얼티밋뮤직페스티벌과 글로벌 맥주브랜드, 칭따오 @tsingtao_kr 가 함께합니다.\n청-량하고 깔끔한 맥주로 사랑받는 칭따오와 풍성한 먹거리, 신나는 음악이 함께하는\nJUMF에서 신나는 여름밤 즐길 준비 되셨나요? https://t.co/jqmYdLoVny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tsingtao_kr",
+					"name": "Tsingtao Korea - 칭따오",
+					"id": 1151381972318474200,
+					"id_str": "1151381972318474247",
+					"indices": [
+						76,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557657676766912500,
+					"id_str": "1557657676766912512",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3pZ3laIAASpbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3pZ3laIAASpbu.jpg",
+					"url": "https://t.co/jqmYdLoVny",
+					"display_url": "pic.twitter.com/jqmYdLoVny",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1557658075649425408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557657676766912500,
+					"id_str": "1557657676766912512",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3pZ3laIAASpbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3pZ3laIAASpbu.jpg",
+					"url": "https://t.co/jqmYdLoVny",
+					"display_url": "pic.twitter.com/jqmYdLoVny",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1557658075649425408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1064,
+			"listed_count": 5,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍻JUMF 2022 x TSINGTAO🍻\n\nOFFICIAL PARTNER!\n\n2022 전주얼티밋뮤직페스티벌과 글로벌 맥주브랜드, 칭따오 @tsingtao_kr 가 함께합니다.\n청-량하고 깔끔한 맥주로 사랑받는 칭따오와 풍성한 먹거리, 신나는 음악이 함께하는\nJUMF에서 신나는 여름밤 즐길 준비 되셨나요? https://t.co/jqmYdLoVny"
+	},
+	{
+		"created_at": "Thu Aug 11 09:29:34 +0000 2022",
+		"id": 1557657687793356800,
+		"id_str": "1557660485528453121",
+		"full_text": "손님과 단님들이 함께한 ‘슬리퍼’ 뮤직비디오 메이킹 필름이 공개되었습니다! 뜨거운 열기로 가득 채웠던 촬영 현장 지금 바로 감상해보세요👀 \n\n🔗https://t.co/hQOFdSUtZj (‘싱어소은라이터’ 유튜브 채널)\n\n#박소은 #손님 #슬리퍼 #메이킹 #필름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "손님",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "슬리퍼",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "메이킹",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "필름",
+					"indices": [
+						143,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hQOFdSUtZj",
+					"expanded_url": "http://c11.kr/123ss",
+					"display_url": "c11.kr/123ss",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2277,
+			"friends_count": 21,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "손님과 단님들이 함께한 ‘슬리퍼’ 뮤직비디오 메이킹 필름이 공개되었습니다! 뜨거운 열기로 가득 채웠던 촬영 현장 지금 바로 감상해보세요👀 \n\n🔗https://t.co/hQOFdSUtZj (‘싱어소은라이터’ 유튜브 채널)\n\n#박소은 #손님 #슬리퍼 #메이킹 #필름"
+	},
+	{
 		"created_at": "Thu Aug 11 09:12:35 +0000 2022",
 		"id": 1557656211863965700,
 		"id_str": "1557656211863965696",
