@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 03:09:47 +0000 2022",
+		"id": 1557927298136883200,
+		"id_str": "1557927298136883200",
+		"full_text": "#SMTOWN\nIMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\nhttps://t.co/850YoXUGB5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/850YoXUGB5",
+					"expanded_url": "https://youtu.be/U5xTBsoVBgc",
+					"display_url": "youtu.be/U5xTBsoVBgc",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN\nIMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\nhttps://t.co/850YoXUGB5"
+	},
+	{
+		"created_at": "Fri Aug 12 02:58:19 +0000 2022",
+		"id": 1557909799085686800,
+		"id_str": "1557924413110116352",
+		"full_text": "[KCON 2022 LA] \nAnnyeong Indonesia!\nStream KCON 2022 LA on UseeTV GO.\nInstall &amp; login UseeTV GO, get 2 days pass, for non-IndiHome users buy package to watch your favorite K-POP Artist.\nLet's KCON\n\n2022.8.21-22 WIB\n#KCON #KCON2022LA #KCONdiUseeTVGO https://t.co/QdJCGbXy8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						225,
+						236
+					]
+				},
+				{
+					"text": "KCONdiUseeTVGO",
+					"indices": [
+						237,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557909438690119700,
+					"id_str": "1557909438690119681",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OYV1aUAENdaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OYV1aUAENdaX.jpg",
+					"url": "https://t.co/QdJCGbXy8D",
+					"display_url": "pic.twitter.com/QdJCGbXy8D",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909799085686784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557909438690119700,
+					"id_str": "1557909438690119681",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OYV1aUAENdaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OYV1aUAENdaX.jpg",
+					"url": "https://t.co/QdJCGbXy8D",
+					"display_url": "pic.twitter.com/QdJCGbXy8D",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909799085686784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557909438262288400,
+					"id_str": "1557909438262288384",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OYUPaIAAXSll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OYUPaIAAXSll.jpg",
+					"url": "https://t.co/QdJCGbXy8D",
+					"display_url": "pic.twitter.com/QdJCGbXy8D",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909799085686784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557909438266482700,
+					"id_str": "1557909438266482688",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OYUQaIAA4BHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OYUQaIAA4BHS.jpg",
+					"url": "https://t.co/QdJCGbXy8D",
+					"display_url": "pic.twitter.com/QdJCGbXy8D",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909799085686784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557909438274871300,
+					"id_str": "1557909438274871297",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OYUSaIAE0T93.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OYUSaIAE0T93.jpg",
+					"url": "https://t.co/QdJCGbXy8D",
+					"display_url": "pic.twitter.com/QdJCGbXy8D",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909799085686784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557909791867302000,
+		"in_reply_to_status_id_str": "1557909791867301889",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450454,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA] \nAnnyeong Indonesia!\nStream KCON 2022 LA on UseeTV GO.\nInstall &amp; login UseeTV GO, get 2 days pass, for non-IndiHome users buy package to watch your favorite K-POP Artist.\nLet's KCON\n\n2022.8.21-22 WIB\n#KCON #KCON2022LA #KCONdiUseeTVGO https://t.co/QdJCGbXy8D"
+	},
+	{
+		"created_at": "Fri Aug 12 02:58:15 +0000 2022",
+		"id": 1557909791867302000,
+		"id_str": "1557924395829559296",
+		"full_text": "[KCON 2022 LA] \nAnnyeong Indonesia!\nStream KCON 2022 LA on UseeTV GO.\nInstall &amp; login UseeTV GO, get 2 days pass, for non-IndiHome users buy package to watch your favorite K-POP Artist.\nLet's KCON\n\n2022.8.21-22 WIB\n#KCON #KCON2022LA #KCONdiUseeTVGO https://t.co/R95FaEp2Ga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						225,
+						236
+					]
+				},
+				{
+					"text": "KCONdiUseeTVGO",
+					"indices": [
+						237,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557909780425248800,
+					"id_str": "1557909780425248768",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OsO5akAAOOWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OsO5akAAOOWX.jpg",
+					"url": "https://t.co/R95FaEp2Ga",
+					"display_url": "pic.twitter.com/R95FaEp2Ga",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909791867301889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557909780425248800,
+					"id_str": "1557909780425248768",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OsO5akAAOOWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OsO5akAAOOWX.jpg",
+					"url": "https://t.co/R95FaEp2Ga",
+					"display_url": "pic.twitter.com/R95FaEp2Ga",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909791867301889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557909780441989000,
+					"id_str": "1557909780441989121",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OsO9aAAE1kUL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OsO9aAAE1kUL.jpg",
+					"url": "https://t.co/R95FaEp2Ga",
+					"display_url": "pic.twitter.com/R95FaEp2Ga",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909791867301889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557909780429435000,
+					"id_str": "1557909780429434881",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OsO6acAEQ7Pe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OsO6acAEQ7Pe.jpg",
+					"url": "https://t.co/R95FaEp2Ga",
+					"display_url": "pic.twitter.com/R95FaEp2Ga",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909791867301889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557909780429426700,
+					"id_str": "1557909780429426688",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7OsO6aUAAIDlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7OsO6aUAAIDlM.jpg",
+					"url": "https://t.co/R95FaEp2Ga",
+					"display_url": "pic.twitter.com/R95FaEp2Ga",
+					"expanded_url": "https://twitter.com/KCON_official/status/1557909791867301889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450454,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA] \nAnnyeong Indonesia!\nStream KCON 2022 LA on UseeTV GO.\nInstall &amp; login UseeTV GO, get 2 days pass, for non-IndiHome users buy package to watch your favorite K-POP Artist.\nLet's KCON\n\n2022.8.21-22 WIB\n#KCON #KCON2022LA #KCONdiUseeTVGO https://t.co/R95FaEp2Ga"
+	},
+	{
 		"created_at": "Fri Aug 12 02:11:24 +0000 2022",
 		"id": 1557908390847713300,
 		"id_str": "1557912605414531072",
