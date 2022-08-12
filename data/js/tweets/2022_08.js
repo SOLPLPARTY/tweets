@@ -1,10 +1,565 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 04:58:15 +0000 2022",
+		"id": 1557940015929299000,
+		"id_str": "1557954593904009216",
+		"full_text": "[KCON Community Event] \n🤔KCON 2022 LA에서 가장 보고싶은 무대는?\n\nKCON 커뮤니티에서 내가 가장 보고싶은 무대를 투표하세요.\n투표에서 선택 된 곡은 💙KCON SQUARE 대형 LED💚에 틀어드립니다! \n\n🔗https://t.co/SMDZ7E8Rzg\n\n#KCON #KCON2022LA https://t.co/19VgkXOrsI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						165,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SMDZ7E8Rzg",
+					"expanded_url": "https://bit.ly/3Prp5Rm",
+					"display_url": "bit.ly/3Prp5Rm",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/19VgkXOrsI",
+					"expanded_url": "https://twitter.com/kconusa/status/1557939936216719361",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450456,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557939936216719400,
+		"quoted_status_id_str": "1557939936216719361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/19VgkXOrsI",
+			"expanded": "https://twitter.com/kconusa/status/1557939936216719361",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 12 04:00:00 +0000 2022",
+			"id": 1557939936216719400,
+			"id_str": "1557939936216719361",
+			"full_text": "[KCON Community Event] \n🤔What is The Most Expected Stage in KCON 2022 LA?\n\nVote for the Stage You Want to See the Most in KCON 2022 LA!\nSelected Songs Will be Played on 💙the KCON SQUARE LED SCREEN💚! \n\n🔗https://t.co/WdQ2PmoGHH\n\n#KCON #KCON2022LA https://t.co/IMOJwXSWYN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							227,
+							232
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							233,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WdQ2PmoGHH",
+						"expanded_url": "https://bit.ly/3Prp5Rm",
+						"display_url": "bit.ly/3Prp5Rm",
+						"indices": [
+							202,
+							225
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1557932907674882000,
+						"id_str": "1557932907674882050",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FZ7juanaUAIKMhw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZ7juanaUAIKMhw.jpg",
+						"url": "https://t.co/IMOJwXSWYN",
+						"display_url": "pic.twitter.com/IMOJwXSWYN",
+						"expanded_url": "https://twitter.com/kconusa/status/1557939936216719361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1557932907674882000,
+						"id_str": "1557932907674882050",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/FZ7juanaUAIKMhw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZ7juanaUAIKMhw.jpg",
+						"url": "https://t.co/IMOJwXSWYN",
+						"display_url": "pic.twitter.com/IMOJwXSWYN",
+						"expanded_url": "https://twitter.com/kconusa/status/1557939936216719361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 224716,
+				"friends_count": 7,
+				"listed_count": 471,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 359,
+			"favorite_count": 600,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON Community Event] \n🤔KCON 2022 LA에서 가장 보고싶은 무대는?\n\nKCON 커뮤니티에서 내가 가장 보고싶은 무대를 투표하세요.\n투표에서 선택 된 곡은 💙KCON SQUARE 대형 LED💚에 틀어드립니다! \n\n🔗https://t.co/SMDZ7E8Rzg\n\n#KCON #KCON2022LA https://t.co/19VgkXOrsI"
+	},
+	{
+		"created_at": "Fri Aug 12 04:29:29 +0000 2022",
+		"id": 1557945337763209200,
+		"id_str": "1557947356879929344",
+		"full_text": "LIM YOONA's character poster for the movie ‘Confidential Assignment 2' is out!  \nThe movie will come to theaters on September 7th! \n\n#LIMYOONA #임윤아 \n#GirlsGeneration #소녀시대 \n#공조 #ConfidentialAssignment2 https://t.co/pB2WtWWx2F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						149,
+						165
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "공조",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "ConfidentialAssignment2",
+					"indices": [
+						177,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557944941917393000,
+					"id_str": "1557944941917392896",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7uq5qaUAA851n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7uq5qaUAA851n.jpg",
+					"url": "https://t.co/pB2WtWWx2F",
+					"display_url": "pic.twitter.com/pB2WtWWx2F",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557945337763209216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1229,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557944941917393000,
+					"id_str": "1557944941917392896",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7uq5qaUAA851n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7uq5qaUAA851n.jpg",
+					"url": "https://t.co/pB2WtWWx2F",
+					"display_url": "pic.twitter.com/pB2WtWWx2F",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557945337763209216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1229,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11079122,
+			"friends_count": 56,
+			"listed_count": 12505,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1213,
+		"favorite_count": 3627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIM YOONA's character poster for the movie ‘Confidential Assignment 2' is out!  \nThe movie will come to theaters on September 7th! \n\n#LIMYOONA #임윤아 \n#GirlsGeneration #소녀시대 \n#공조 #ConfidentialAssignment2 https://t.co/pB2WtWWx2F"
+	},
+	{
 		"created_at": "Fri Aug 12 03:58:15 +0000 2022",
 		"id": 1557924838836166700,
 		"id_str": "1557939494187319296",
-		"full_text": "[JO1 CHECK IN]\nJAM 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nJO1 파티시에👨‍🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 JAM~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2itPL7\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/UkrUHib5qQ",
+		"full_text": "[JO1 CHECK IN]\nJAM 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nJO1 파티시에👨🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 JAM~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2itPL7\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/UkrUHib5qQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -152,7 +707,7 @@ Grailbird.data.tweets_2022_08 =
 			"created_at": "Fri Aug 12 01:00:01 +0000 2022",
 			"id": 1557894640241676300,
 			"id_str": "1557894640241676289",
-			"full_text": "[JO1 CHECK IN]\nJAM you don't wanna miss out on this~🍓\nPâtissier JO1 파티시에👨‍🍳hid a message on top of the cake for JAM~🎂💙💚\n\n🎫SHOW : https://t.co/V4Eoc07tK8\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/cc5SZuSmsQ",
+			"full_text": "[JO1 CHECK IN]\nJAM you don't wanna miss out on this~🍓\nPâtissier JO1 파티시에👨🍳hid a message on top of the cake for JAM~🎂💙💚\n\n🎫SHOW : https://t.co/V4Eoc07tK8\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/cc5SZuSmsQ",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -405,7 +960,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[JO1 CHECK IN]\nJAM 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nJO1 파티시에👨‍🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 JAM~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2itPL7\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/UkrUHib5qQ"
+		"text": "[JO1 CHECK IN]\nJAM 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nJO1 파티시에👨🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 JAM~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2itPL7\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/UkrUHib5qQ"
 	},
 	{
 		"created_at": "Fri Aug 12 03:57:52 +0000 2022",
@@ -1051,7 +1606,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Fri Aug 12 03:29:37 +0000 2022",
 		"id": 1557925062249836500,
 		"id_str": "1557932289753071616",
-		"full_text": "IMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\n\nhttps://t.co/x7nWVpAUp8\n\n#IMLAY #임레이 @leimlay \n#AlexKarlsson \n#ScreaMRecords\n#HeartsOnFire❤️‍🔥 https://t.co/3T6bPIwhc0",
+		"full_text": "IMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\n\nhttps://t.co/x7nWVpAUp8\n\n#IMLAY #임레이 @leimlay \n#AlexKarlsson \n#ScreaMRecords\n#HeartsOnFire❤️🔥 https://t.co/3T6bPIwhc0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1277,7 +1832,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "IMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\n\nhttps://t.co/x7nWVpAUp8\n\n#IMLAY #임레이 @leimlay \n#AlexKarlsson \n#ScreaMRecords\n#HeartsOnFire❤️‍🔥 https://t.co/3T6bPIwhc0"
+		"text": "IMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\n\nhttps://t.co/x7nWVpAUp8\n\n#IMLAY #임레이 @leimlay \n#AlexKarlsson \n#ScreaMRecords\n#HeartsOnFire❤️🔥 https://t.co/3T6bPIwhc0"
 	},
 	{
 		"created_at": "Fri Aug 12 03:29:33 +0000 2022",
