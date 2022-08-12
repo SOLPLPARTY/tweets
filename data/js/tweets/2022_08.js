@@ -1,6 +1,1734 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 03:58:15 +0000 2022",
+		"id": 1557924838836166700,
+		"id_str": "1557939494187319296",
+		"full_text": "[JO1 CHECK IN]\nJAM 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nJO1 파티시에👨‍🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 JAM~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2itPL7\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/UkrUHib5qQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_jo1",
+					"name": "JO1",
+					"id": 1204439457073488000,
+					"id_str": "1204439457073487872",
+					"indices": [
+						146,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MhOM2itPL7",
+					"expanded_url": "https://bit.ly/3QMFbXs",
+					"display_url": "bit.ly/3QMFbXs",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/UkrUHib5qQ",
+					"expanded_url": "https://twitter.com/kconusa/status/1557894640241676289",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450455,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557894640241676300,
+		"quoted_status_id_str": "1557894640241676289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UkrUHib5qQ",
+			"expanded": "https://twitter.com/kconusa/status/1557894640241676289",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 12 01:00:01 +0000 2022",
+			"id": 1557894640241676300,
+			"id_str": "1557894640241676289",
+			"full_text": "[JO1 CHECK IN]\nJAM you don't wanna miss out on this~🍓\nPâtissier JO1 파티시에👨‍🍳hid a message on top of the cake for JAM~🎂💙💚\n\n🎫SHOW : https://t.co/V4Eoc07tK8\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/cc5SZuSmsQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							154,
+							159
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							160,
+							168
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							169,
+							180
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "official_jo1",
+						"name": "JO1",
+						"id": 1204439457073488000,
+						"id_str": "1204439457073487872",
+						"indices": [
+							181,
+							194
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V4Eoc07tK8",
+						"expanded_url": "https://bit.ly/3QMFbXs",
+						"display_url": "bit.ly/3QMFbXs",
+						"indices": [
+							129,
+							152
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1557808610813436000,
+						"id_str": "1557808610813435904",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557808610813435904/img/_x_9VcUZJEk07IaD.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557808610813435904/img/_x_9VcUZJEk07IaD.jpg",
+						"url": "https://t.co/cc5SZuSmsQ",
+						"display_url": "pic.twitter.com/cc5SZuSmsQ",
+						"expanded_url": "https://twitter.com/kconusa/status/1557894640241676289/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1557808610813436000,
+						"id_str": "1557808610813435904",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557808610813435904/img/_x_9VcUZJEk07IaD.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557808610813435904/img/_x_9VcUZJEk07IaD.jpg",
+						"url": "https://t.co/cc5SZuSmsQ",
+						"display_url": "pic.twitter.com/cc5SZuSmsQ",
+						"expanded_url": "https://twitter.com/kconusa/status/1557894640241676289/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 257056,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1557808610813435904/vid/720x1280/CzyxnSnzPutq0TDl.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1557808610813435904/vid/320x568/UNhfEjqGORw21cQL.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1557808610813435904/pl/z6BsPf5UmuMJSseR.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1557808610813435904/vid/480x852/zDzbIeB5T-qEe8m8.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 224694,
+				"friends_count": 7,
+				"listed_count": 471,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2310,
+			"favorite_count": 4667,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 291,
+		"favorite_count": 563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[JO1 CHECK IN]\nJAM 울고 싶어질 때도~ 미소짓게 만드는 마법~🍓\nJO1 파티시에👨‍🍳가 케이크에 숨겨놓은 메시지 찾으러 갈 JAM~🎂💙💚\n\n🎫SHOW : https://t.co/MhOM2itPL7\n\n#KCON #KCONUSA #KCON2022LA @official_jo1 https://t.co/UkrUHib5qQ"
+	},
+	{
+		"created_at": "Fri Aug 12 03:57:52 +0000 2022",
+		"id": 1557939400931041300,
+		"id_str": "1557939400931041281",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n눈과 귀가 모두 황홀했던 바로 그 장면 👀 | 원리퍼블릭(OneRepublic) - I Ain't Worried (From \"탑건: 매버릭\") (가사/한글/해석)\nhttps://t.co/eQ1bCeeQRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eQ1bCeeQRs",
+					"expanded_url": "https://youtu.be/gS_T8lMeOnk",
+					"display_url": "youtu.be/gS_T8lMeOnk",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n눈과 귀가 모두 황홀했던 바로 그 장면 👀 | 원리퍼블릭(OneRepublic) - I Ain't Worried (From \"탑건: 매버릭\") (가사/한글/해석)\nhttps://t.co/eQ1bCeeQRs"
+	},
+	{
+		"created_at": "Fri Aug 12 03:57:52 +0000 2022",
+		"id": 1557939400868147200,
+		"id_str": "1557939400868147200",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n한국에서 (미리) 생축 떼창으로 받은 영국 팝스타💛 #뉴홉클 #리스\nhttps://t.co/UxIm8iDy33",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				},
+				{
+					"text": "뉴홉클",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "리스",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UxIm8iDy33",
+					"expanded_url": "https://youtu.be/fyy46FlIlJg",
+					"display_url": "youtu.be/fyy46FlIlJg",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n한국에서 (미리) 생축 떼창으로 받은 영국 팝스타💛 #뉴홉클 #리스\nhttps://t.co/UxIm8iDy33"
+	},
+	{
+		"created_at": "Fri Aug 12 03:29:47 +0000 2022",
+		"id": 1557928215624048600,
+		"id_str": "1557932332987850753",
+		"full_text": "IMLAY 〖Heart's On Fire (Feat. Alex Karlsson) 〗 \n\nListen now on your favorite platform \n🎧 https://t.co/Aw5lPMIdzh\n\n#IMLAY #임레이 @leimlay\n#AlexKarlsson \n#ScreaMRecords \n#HeartsOnFire",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLAY",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "AlexKarlsson",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						150,
+						164
+					]
+				},
+				{
+					"text": "HeartsOnFire",
+					"indices": [
+						166,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leimlay",
+					"name": "IMLAY",
+					"id": 2773953697,
+					"id_str": "2773953697",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Aw5lPMIdzh",
+					"expanded_url": "https://imlay.lnk.to/HeartsOnFire",
+					"display_url": "imlay.lnk.to/HeartsOnFire",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11078972,
+			"friends_count": 56,
+			"listed_count": 12508,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 769,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IMLAY 〖Heart's On Fire (Feat. Alex Karlsson) 〗 \n\nListen now on your favorite platform \n🎧 https://t.co/Aw5lPMIdzh\n\n#IMLAY #임레이 @leimlay\n#AlexKarlsson \n#ScreaMRecords \n#HeartsOnFire"
+	},
+	{
+		"created_at": "Fri Aug 12 03:29:41 +0000 2022",
+		"id": 1557927077793239000,
+		"id_str": "1557932307310432256",
+		"full_text": "IMLAY 〖Heart's On Fire (Feat. Alex Karlsson)〗 \n\nMelon➫ https://t.co/dmFtsQds8C\nFLO➫ https://t.co/SlezSeNRuM\ngenie➫https://t.co/wBFFMPT3Ed \nBugs➫ https://t.co/OeuEK5Xm7P\nNAVER VIBE➫ https://t.co/wNYqD64Gk8 \n\n#IMLAY #임레이\n@leimlay\n#AlexKarlsson #ScreaMRecords #HeartsOnFire",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLAY",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						214,
+						218
+					]
+				},
+				{
+					"text": "AlexKarlsson",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						242,
+						256
+					]
+				},
+				{
+					"text": "HeartsOnFire",
+					"indices": [
+						257,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leimlay",
+					"name": "IMLAY",
+					"id": 2773953697,
+					"id_str": "2773953697",
+					"indices": [
+						219,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dmFtsQds8C",
+					"expanded_url": "http://kko.to/X64KKnOv8",
+					"display_url": "kko.to/X64KKnOv8",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/SlezSeNRuM",
+					"expanded_url": "http://flomuz.io/s/a.BQoUz",
+					"display_url": "flomuz.io/s/a.BQoUz",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/wBFFMPT3Ed",
+					"expanded_url": "http://www.genie.co.kr/V4A5R6",
+					"display_url": "genie.co.kr/V4A5R6",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/OeuEK5Xm7P",
+					"expanded_url": "https://music.bugs.co.kr/album/20485962",
+					"display_url": "music.bugs.co.kr/album/20485962",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/wNYqD64Gk8",
+					"expanded_url": "https://naver.me/GFnIBSwB",
+					"display_url": "naver.me/GFnIBSwB",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11078972,
+			"friends_count": 56,
+			"listed_count": 12508,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IMLAY 〖Heart's On Fire (Feat. Alex Karlsson)〗 \n\nMelon➫ https://t.co/dmFtsQds8C\nFLO➫ https://t.co/SlezSeNRuM\ngenie➫https://t.co/wBFFMPT3Ed \nBugs➫ https://t.co/OeuEK5Xm7P\nNAVER VIBE➫ https://t.co/wNYqD64Gk8 \n\n#IMLAY #임레이\n@leimlay\n#AlexKarlsson #ScreaMRecords #HeartsOnFire"
+	},
+	{
+		"created_at": "Fri Aug 12 03:29:37 +0000 2022",
+		"id": 1557925062249836500,
+		"id_str": "1557932289753071616",
+		"full_text": "IMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\n\nhttps://t.co/x7nWVpAUp8\n\n#IMLAY #임레이 @leimlay \n#AlexKarlsson \n#ScreaMRecords\n#HeartsOnFire❤️‍🔥 https://t.co/3T6bPIwhc0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLAY",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "AlexKarlsson",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "HeartsOnFire",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leimlay",
+					"name": "IMLAY",
+					"id": 2773953697,
+					"id_str": "2773953697",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x7nWVpAUp8",
+					"expanded_url": "https://youtu.be/U5xTBsoVBgc",
+					"display_url": "youtu.be/U5xTBsoVBgc",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557924977277427700,
+					"id_str": "1557924977277427712",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7cgzlUYAASTA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7cgzlUYAASTA4.jpg",
+					"url": "https://t.co/3T6bPIwhc0",
+					"display_url": "pic.twitter.com/3T6bPIwhc0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557925062249836544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557924977277427700,
+					"id_str": "1557924977277427712",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7cgzlUYAASTA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7cgzlUYAASTA4.jpg",
+					"url": "https://t.co/3T6bPIwhc0",
+					"display_url": "pic.twitter.com/3T6bPIwhc0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557925062249836544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11078972,
+			"friends_count": 56,
+			"listed_count": 12508,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IMLAY 'Heart's On Fire (Feat. Alex Karlsson)' MV\n\nhttps://t.co/x7nWVpAUp8\n\n#IMLAY #임레이 @leimlay \n#AlexKarlsson \n#ScreaMRecords\n#HeartsOnFire❤️‍🔥 https://t.co/3T6bPIwhc0"
+	},
+	{
+		"created_at": "Fri Aug 12 03:29:33 +0000 2022",
+		"id": 1557924760419373000,
+		"id_str": "1557932272476626944",
+		"full_text": "IMLAY, 새 싱글 ‘Heart’s On Fire’ 오늘 낮 12시 공개!\n\nIMLAY’s new single ‘Heart’s On Fire’ is out at noon (KST) today! \n\nhttps://t.co/598PCknfBT\n\n#IMLAY #임레이\n#AlexKarlsson\n#ScreaMRecords\n#HeartsOnFire https://t.co/o3dmqQx1ta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLAY",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "AlexKarlsson",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"text": "HeartsOnFire",
+					"indices": [
+						177,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/598PCknfBT",
+					"expanded_url": "https://bit.ly/3pgq2RQ",
+					"display_url": "bit.ly/3pgq2RQ",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557924755952455700,
+					"id_str": "1557924755952455680",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7cT7FVUAAH8Bt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7cT7FVUAAH8Bt.jpg",
+					"url": "https://t.co/o3dmqQx1ta",
+					"display_url": "pic.twitter.com/o3dmqQx1ta",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557924760419373056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557924755952455700,
+					"id_str": "1557924755952455680",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7cT7FVUAAH8Bt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7cT7FVUAAH8Bt.jpg",
+					"url": "https://t.co/o3dmqQx1ta",
+					"display_url": "pic.twitter.com/o3dmqQx1ta",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557924760419373056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11078972,
+			"friends_count": 56,
+			"listed_count": 12508,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IMLAY, 새 싱글 ‘Heart’s On Fire’ 오늘 낮 12시 공개!\n\nIMLAY’s new single ‘Heart’s On Fire’ is out at noon (KST) today! \n\nhttps://t.co/598PCknfBT\n\n#IMLAY #임레이\n#AlexKarlsson\n#ScreaMRecords\n#HeartsOnFire https://t.co/o3dmqQx1ta"
+	},
+	{
+		"created_at": "Fri Aug 12 03:29:28 +0000 2022",
+		"id": 1557922528403722200,
+		"id_str": "1557932251001806849",
+		"full_text": "SM ‘STATION : NCT LAB’ 재현 첫 솔로곡 ‘Forever Only’ 8월 18일 공개! 직접 작사 참여!\n\nSM ‘STATION : #NCTLAB’ #JAEHYUN’s first solo single ‘Forever Only’ is out on August 18! He participated in writing the lyrics of song!\n\nhttps://t.co/8aLx0Teklz\n\n#재현\n#ForeverOnly \n#NCT #NCT127 https://t.co/MMDmscuPQo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCTLAB",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "JAEHYUN",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "재현",
+					"indices": [
+						230,
+						233
+					]
+				},
+				{
+					"text": "ForeverOnly",
+					"indices": [
+						234,
+						246
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						248,
+						252
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						253,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8aLx0Teklz",
+					"expanded_url": "https://bit.ly/3C8IRh8",
+					"display_url": "bit.ly/3C8IRh8",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557922519759196200,
+					"id_str": "1557922519759196160",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7aRwnUEAARRf2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7aRwnUEAARRf2.jpg",
+					"url": "https://t.co/MMDmscuPQo",
+					"display_url": "pic.twitter.com/MMDmscuPQo",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557922528403722240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557922519759196200,
+					"id_str": "1557922519759196160",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7aRwnUEAARRf2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7aRwnUEAARRf2.jpg",
+					"url": "https://t.co/MMDmscuPQo",
+					"display_url": "pic.twitter.com/MMDmscuPQo",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1557922528403722240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11078972,
+			"friends_count": 56,
+			"listed_count": 12508,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7058,
+		"favorite_count": 12148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM ‘STATION : NCT LAB’ 재현 첫 솔로곡 ‘Forever Only’ 8월 18일 공개! 직접 작사 참여!\n\nSM ‘STATION : #NCTLAB’ #JAEHYUN’s first solo single ‘Forever Only’ is out on August 18! He participated in writing the lyrics of song!\n\nhttps://t.co/8aLx0Teklz\n\n#재현\n#ForeverOnly \n#NCT #NCT127 https://t.co/MMDmscuPQo"
+	},
+	{
 		"created_at": "Fri Aug 12 03:09:47 +0000 2022",
 		"id": 1557927298136883200,
 		"id_str": "1557927298136883200",
