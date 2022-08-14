@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 14 00:58:15 +0000 2022",
+		"id": 1558604318911041500,
+		"id_str": "1558618971817091072",
+		"full_text": "[KCON 2022 LA]\nWant some extra spice to your life?\nThen speed on over to the @toyota booth to see how GR can add a boost to your every day!\n\nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/g3az5jF9iE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						176,
+						187
+					]
+				},
+				{
+					"text": "LetsGoPlaces",
+					"indices": [
+						188,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Toyota",
+					"name": "Toyota USA",
+					"id": 14219877,
+					"id_str": "14219877",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558102701527138300,
+					"id_str": "1558102701527138305",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9-JuAaAAEhy8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9-JuAaAAEhy8V.jpg",
+					"url": "https://t.co/g3az5jF9iE",
+					"display_url": "pic.twitter.com/g3az5jF9iE",
+					"expanded_url": "https://twitter.com/KCON_official/status/1558604318911041537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558102701527138300,
+					"id_str": "1558102701527138305",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9-JuAaAAEhy8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9-JuAaAAEhy8V.jpg",
+					"url": "https://t.co/g3az5jF9iE",
+					"display_url": "pic.twitter.com/g3az5jF9iE",
+					"expanded_url": "https://twitter.com/KCON_official/status/1558604318911041537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450548,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA]\nWant some extra spice to your life?\nThen speed on over to the @toyota booth to see how GR can add a boost to your every day!\n\nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/g3az5jF9iE"
+	},
+	{
 		"created_at": "Sat Aug 13 15:29:25 +0000 2022",
 		"id": 1558468430163873800,
 		"id_str": "1558475820427083781",
