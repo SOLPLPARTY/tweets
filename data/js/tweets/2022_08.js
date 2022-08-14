@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 14 07:29:25 +0000 2022",
+		"id": 1558714483148669000,
+		"id_str": "1558717412820008960",
+		"full_text": "‘The Big Mouth’ LIM YOONA’s stellar performance leads to record-breaking rating! Her independent and straightforward character, doing everything she can to protect her family, leads to finding the decisive clue!\n\nhttps://t.co/NL8dI16Btt\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth https://t.co/sQ3jEGryQ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						238,
+						242
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						243,
+						252
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						253,
+						258
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						259,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NL8dI16Btt",
+					"expanded_url": "https://bit.ly/3C1CoEZ",
+					"display_url": "bit.ly/3C1CoEZ",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558714478203527200,
+					"id_str": "1558714478203527168",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FaGqjzuUYAAv3H8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaGqjzuUYAAv3H8.jpg",
+					"url": "https://t.co/sQ3jEGryQ1",
+					"display_url": "pic.twitter.com/sQ3jEGryQ1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1558714483148668929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 547,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558714478203527200,
+					"id_str": "1558714478203527168",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FaGqjzuUYAAv3H8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaGqjzuUYAAv3H8.jpg",
+					"url": "https://t.co/sQ3jEGryQ1",
+					"display_url": "pic.twitter.com/sQ3jEGryQ1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1558714483148668929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 547,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11082680,
+			"friends_count": 56,
+			"listed_count": 12503,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 790,
+		"favorite_count": 2418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Big Mouth’ LIM YOONA’s stellar performance leads to record-breaking rating! Her independent and straightforward character, doing everything she can to protect her family, leads to finding the decisive clue!\n\nhttps://t.co/NL8dI16Btt\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth https://t.co/sQ3jEGryQ1"
+	},
+	{
 		"created_at": "Sun Aug 14 03:58:15 +0000 2022",
 		"id": 1558652612228296700,
 		"id_str": "1558664269201375232",
