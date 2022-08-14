@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 14 09:29:39 +0000 2022",
+		"id": 1558742974007091200,
+		"id_str": "1558747671065755648",
+		"full_text": "[보라미유, MJ(써니사이드) - '통화연결음' 바로듣기]\n⠀\nMelon | https://t.co/gL5QG4WVdx\nGenie | https://t.co/etPElYFSoi\nBugs | https://t.co/IgEmmzlWjB\nVIBE | https://t.co/CiJDJrEK50\nFLO | https://t.co/QQPNqzRpuM\n\n#보라미유 #써니사이드 #통화연결음\n#BORAMIYU #MJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "써니사이드",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "통화연결음",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "BORAMIYU",
+					"indices": [
+						212,
+						221
+					]
+				},
+				{
+					"text": "MJ",
+					"indices": [
+						222,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gL5QG4WVdx",
+					"expanded_url": "http://bit.ly/3SR3hBu",
+					"display_url": "bit.ly/3SR3hBu",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/etPElYFSoi",
+					"expanded_url": "http://bit.ly/3bT263H",
+					"display_url": "bit.ly/3bT263H",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/IgEmmzlWjB",
+					"expanded_url": "http://bit.ly/3pgOan9",
+					"display_url": "bit.ly/3pgOan9",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/CiJDJrEK50",
+					"expanded_url": "http://bit.ly/3du6SoX",
+					"display_url": "bit.ly/3du6SoX",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/QQPNqzRpuM",
+					"expanded_url": "http://bit.ly/3SSXXxh",
+					"display_url": "bit.ly/3SSXXxh",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1558740213798674400,
+		"in_reply_to_status_id_str": "1558740213798674433",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7650,
+			"friends_count": 4,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1660295338",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[보라미유, MJ(써니사이드) - '통화연결음' 바로듣기]\n⠀\nMelon | https://t.co/gL5QG4WVdx\nGenie | https://t.co/etPElYFSoi\nBugs | https://t.co/IgEmmzlWjB\nVIBE | https://t.co/CiJDJrEK50\nFLO | https://t.co/QQPNqzRpuM\n\n#보라미유 #써니사이드 #통화연결음\n#BORAMIYU #MJ"
+	},
+	{
+		"created_at": "Sun Aug 14 09:29:35 +0000 2022",
+		"id": 1558741466494537700,
+		"id_str": "1558747653797707776",
+		"full_text": "💿NEW MUSIC TODAY💿\n“오마이걸 반하나 - 사랑이란 건”을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnermusic #warnerkpop #KPOP #오마이걸반하나 #OHMYGIRLBANHANA #사랑이란건 #오마이걸 #OHMYGIRL #OMG #리본프로젝트 #프로젝트리본 #여름방학 #색종이 #리메이크 @8_OHMYGIRL https://t.co/3kHj70VKNz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "오마이걸반하나",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "OHMYGIRLBANHANA",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "사랑이란건",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "OMG",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "리본프로젝트",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "프로젝트리본",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "여름방학",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "색종이",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "리메이크",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "8_OHMYGIRL",
+					"name": "OHMYGIRL_official",
+					"id": 3737955853,
+					"id_str": "3737955853",
+					"indices": [
+						181,
+						192
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558494662121648000,
+					"id_str": "1558494662121648131",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558494662121648131/pu/img/dr9D3Sq88lEix1mO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558494662121648131/pu/img/dr9D3Sq88lEix1mO.jpg",
+					"url": "https://t.co/3kHj70VKNz",
+					"display_url": "pic.twitter.com/3kHj70VKNz",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1558741466494537729/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558494662121648000,
+					"id_str": "1558494662121648131",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558494662121648131/pu/img/dr9D3Sq88lEix1mO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558494662121648131/pu/img/dr9D3Sq88lEix1mO.jpg",
+					"url": "https://t.co/3kHj70VKNz",
+					"display_url": "pic.twitter.com/3kHj70VKNz",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1558741466494537729/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 34659,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558494662121648131/pu/vid/480x600/xjvvgIAjBy6-g1py.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558494662121648131/pu/vid/720x900/YKoOjzVPxt7QSyKd.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558494662121648131/pu/vid/320x400/8riSZ_lhwOcs3vrM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1558494662121648131/pu/pl/xCKF9BSUgA0q9-_8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89427,
+			"friends_count": 493,
+			"listed_count": 220,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“오마이걸 반하나 - 사랑이란 건”을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnermusic #warnerkpop #KPOP #오마이걸반하나 #OHMYGIRLBANHANA #사랑이란건 #오마이걸 #OHMYGIRL #OMG #리본프로젝트 #프로젝트리본 #여름방학 #색종이 #리메이크 @8_OHMYGIRL https://t.co/3kHj70VKNz"
+	},
+	{
+		"created_at": "Sun Aug 14 09:29:33 +0000 2022",
+		"id": 1558740432569262000,
+		"id_str": "1558747644910080000",
+		"full_text": "ScreaM TOGETHER!\n2022년 8월 19일 ScreaM Records에서 선보이는 DJ 스트리밍 채널 ‘SHOWME’의 Season 2가 시작됩니다.\n\nScreaM Records' DJ show streaming channel ‘SHOWME Season 2’ starts on AUG 19th, 2022.\n\n#SHOWMESeason2 #쇼미시즌2 \n#ScreaMRecords \n#PinkBlood \n#BeyondLIVE \n#SMTOWN https://t.co/lIaHCb2RX6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWMESeason2",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"text": "쇼미시즌2",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						201,
+						215
+					]
+				},
+				{
+					"text": "PinkBlood",
+					"indices": [
+						217,
+						227
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						229,
+						240
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						242,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558740368782348300,
+					"id_str": "1558740368782348288",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FaHCG1pVUAAhrh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaHCG1pVUAAhrh8.jpg",
+					"url": "https://t.co/lIaHCb2RX6",
+					"display_url": "pic.twitter.com/lIaHCb2RX6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1558740432569262081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558740368782348300,
+					"id_str": "1558740368782348288",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FaHCG1pVUAAhrh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaHCG1pVUAAhrh8.jpg",
+					"url": "https://t.co/lIaHCb2RX6",
+					"display_url": "pic.twitter.com/lIaHCb2RX6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1558740432569262081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11083164,
+			"friends_count": 56,
+			"listed_count": 12503,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2600,
+		"favorite_count": 5685,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ScreaM TOGETHER!\n2022년 8월 19일 ScreaM Records에서 선보이는 DJ 스트리밍 채널 ‘SHOWME’의 Season 2가 시작됩니다.\n\nScreaM Records' DJ show streaming channel ‘SHOWME Season 2’ starts on AUG 19th, 2022.\n\n#SHOWMESeason2 #쇼미시즌2 \n#ScreaMRecords \n#PinkBlood \n#BeyondLIVE \n#SMTOWN https://t.co/lIaHCb2RX6"
+	},
+	{
 		"created_at": "Sun Aug 14 09:02:46 +0000 2022",
 		"id": 1558740906047459300,
 		"id_str": "1558740906047459329",
