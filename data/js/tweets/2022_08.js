@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 15 08:58:21 +0000 2022",
+		"id": 1559100607407227000,
+		"id_str": "1559102180631658496",
+		"full_text": "*LOVE STAGE는 별도의 예매 없이 누구나 무료 관람 가능합니다.\n**전주종합경기장&lt;-&gt;전북대의과대학잔디마당 까지 무료 순환 셔틀버스를 운행합니다.\n\nhttps://t.co/s2iJTUn05z\n\n일시 : 8월 26일(금)-28일(일)\n장소 :전주종합경기장\n예매 : 네이버, 티켓링크, 인터파크 (JB카드 20%할인)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2iJTUn05z",
+					"expanded_url": "http://www.jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1559100602227228700,
+		"in_reply_to_status_id_str": "1559100602227228672",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2022",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 611,
+			"friends_count": 1059,
+			"listed_count": 0,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*LOVE STAGE는 별도의 예매 없이 누구나 무료 관람 가능합니다.\n**전주종합경기장&lt;-&gt;전북대의과대학잔디마당 까지 무료 순환 셔틀버스를 운행합니다.\n\nhttps://t.co/s2iJTUn05z\n\n일시 : 8월 26일(금)-28일(일)\n장소 :전주종합경기장\n예매 : 네이버, 티켓링크, 인터파크 (JB카드 20%할인)"
+	},
+	{
+		"created_at": "Mon Aug 15 08:58:15 +0000 2022",
+		"id": 1559100602227228700,
+		"id_str": "1559102154966720518",
+		"full_text": "💚JUMF2022 LOVE STAGE 안내💚\n\n8월 26일(금) 전북대학교 의과대학 잔디마당에서 진행되는 \nLOVE STAGE를 소개해드립니다!\n\n#옥상달빛 #치즈 #소수빈 #루크맥퀸 #송은채\n\n다섯팀의 아티스트들이 전하는 👼진심이 담긴 위로와 사랑의 무대💚를 JUMF에서 만나보세요! https://t.co/g1T0GX5ZdI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "옥상달빛",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "소수빈",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "루크맥퀸",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "송은채",
+					"indices": [
+						103,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559098711430828000,
+					"id_str": "1559098711430828032",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMIBICakAAnvea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMIBICakAAnvea.jpg",
+					"url": "https://t.co/g1T0GX5ZdI",
+					"display_url": "pic.twitter.com/g1T0GX5ZdI",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1559100602227228672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559098711430828000,
+					"id_str": "1559098711430828032",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMIBICakAAnvea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMIBICakAAnvea.jpg",
+					"url": "https://t.co/g1T0GX5ZdI",
+					"display_url": "pic.twitter.com/g1T0GX5ZdI",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1559100602227228672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559098711460184000,
+					"id_str": "1559098711460184064",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMIBIJagAAxDQ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMIBIJagAAxDQ2.jpg",
+					"url": "https://t.co/g1T0GX5ZdI",
+					"display_url": "pic.twitter.com/g1T0GX5ZdI",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1559100602227228672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559098711439192000,
+					"id_str": "1559098711439192066",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMIBIEaMAIlqFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMIBIEaMAIlqFi.jpg",
+					"url": "https://t.co/g1T0GX5ZdI",
+					"display_url": "pic.twitter.com/g1T0GX5ZdI",
+					"expanded_url": "https://twitter.com/JUMF_2022/status/1559100602227228672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2022(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2022",
+			"location": "대한민국 전주시",
+			"description": "JUMF2022 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2022년 여름! 전주얼티밋뮤직페스티벌이 돌아옵니다!\n\n2022년 8월 26~28일 전주종합경기장에서 만나요!",
+			"url": "https://t.co/zVRu0JbqYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVRu0JbqYF",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 611,
+			"friends_count": 1059,
+			"listed_count": 0,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534085006687338497/Vj0MSEZx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1654646239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💚JUMF2022 LOVE STAGE 안내💚\n\n8월 26일(금) 전북대학교 의과대학 잔디마당에서 진행되는 \nLOVE STAGE를 소개해드립니다!\n\n#옥상달빛 #치즈 #소수빈 #루크맥퀸 #송은채\n\n다섯팀의 아티스트들이 전하는 👼진심이 담긴 위로와 사랑의 무대💚를 JUMF에서 만나보세요! https://t.co/g1T0GX5ZdI"
+	},
+	{
 		"created_at": "Mon Aug 15 08:11:17 +0000 2022",
 		"id": 1559084997814141000,
 		"id_str": "1559090335321653248",
