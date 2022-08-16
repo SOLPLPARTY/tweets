@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 12:19:33 +0000 2022",
+		"id": 1559515201182978000,
+		"id_str": "1559515201182978048",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n빌리가 알려주는 단콘 즐기는 법⬇️,1️⃣2️⃣3️⃣4️⃣🔥,⬆️⬆️⬆️\nhttps://t.co/r5R95BDN0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r5R95BDN0a",
+					"expanded_url": "https://youtu.be/3DgHrbREZRU",
+					"display_url": "youtu.be/3DgHrbREZRU",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n빌리가 알려주는 단콘 즐기는 법⬇️,1️⃣2️⃣3️⃣4️⃣🔥,⬆️⬆️⬆️\nhttps://t.co/r5R95BDN0a"
+	},
+	{
+		"created_at": "Tue Aug 16 11:29:28 +0000 2022",
+		"id": 1559498202637672400,
+		"id_str": "1559502598029430784",
+		"full_text": "#게일 ✨indieedgycool✨\n이 노래를 듣고 인디엣지쿨병이 나았습니다\n🎬자막뮤비 https://t.co/KuHIO69Z7h\n🎧음원듣기 https://t.co/K9XmDjfxFo https://t.co/Mu1B0wCStd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "게일",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KuHIO69Z7h",
+					"expanded_url": "https://youtu.be/W9SASCm9DV8",
+					"display_url": "youtu.be/W9SASCm9DV8",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/K9XmDjfxFo",
+					"expanded_url": "https://wmk.lnk.to/rnGSuiQ0",
+					"display_url": "wmk.lnk.to/rnGSuiQ0",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559467945965002800,
+					"id_str": "1559467945965002752",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559467945965002752/pu/img/e3KjFIgfLYjf02e_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559467945965002752/pu/img/e3KjFIgfLYjf02e_.jpg",
+					"url": "https://t.co/Mu1B0wCStd",
+					"display_url": "pic.twitter.com/Mu1B0wCStd",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1559498202637672449/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559467945965002800,
+					"id_str": "1559467945965002752",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559467945965002752/pu/img/e3KjFIgfLYjf02e_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559467945965002752/pu/img/e3KjFIgfLYjf02e_.jpg",
+					"url": "https://t.co/Mu1B0wCStd",
+					"display_url": "pic.twitter.com/Mu1B0wCStd",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1559498202637672449/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 29237,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1559467945965002752/pu/pl/xUVafZCOgD_4SRG6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559467945965002752/pu/vid/720x1280/ucITr9nonhXe1DYW.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559467945965002752/pu/vid/320x568/07ReaJ-9igYpuo8d.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559467945965002752/pu/vid/480x852/x_HKDEHhAr_XMmfZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89455,
+			"friends_count": 493,
+			"listed_count": 220,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#게일 ✨indieedgycool✨\n이 노래를 듣고 인디엣지쿨병이 나았습니다\n🎬자막뮤비 https://t.co/KuHIO69Z7h\n🎧음원듣기 https://t.co/K9XmDjfxFo https://t.co/Mu1B0wCStd"
+	},
+	{
 		"created_at": "Tue Aug 16 10:29:41 +0000 2022",
 		"id": 1559487252345917400,
 		"id_str": "1559487554226982913",
