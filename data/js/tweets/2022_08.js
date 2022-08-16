@@ -1,6 +1,1625 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 10:14:30 +0000 2022",
+		"id": 1559483735459827700,
+		"id_str": "1559483735459827712",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n현재로 듣는 과거의 사계, 바이닐로 듣는 𝕄𝕒𝕩 ℝ𝕚𝕔𝕙𝕥𝕖𝕣 - 𝕊𝕦𝕞𝕞𝕖𝕣 𝟛ㅣ유니네레코드ㅣLPㅣVinyl\nhttps://t.co/UXfCWYmTp0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UXfCWYmTp0",
+					"expanded_url": "https://youtu.be/h94v4QirJlM",
+					"display_url": "youtu.be/h94v4QirJlM",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n현재로 듣는 과거의 사계, 바이닐로 듣는 𝕄𝕒𝕩 ℝ𝕚𝕔𝕙𝕥𝕖𝕣 - 𝕊𝕦𝕞𝕞𝕖𝕣 𝟛ㅣ유니네레코드ㅣLPㅣVinyl\nhttps://t.co/UXfCWYmTp0"
+	},
+	{
+		"created_at": "Tue Aug 16 09:56:56 +0000 2022",
+		"id": 1559479314394951700,
+		"id_str": "1559479314394951680",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n온앤오프 (ONF) - 'Your Song' MV\nhttps://t.co/PBnXP38zgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PBnXP38zgF",
+					"expanded_url": "https://youtu.be/hzc3PLn26u0",
+					"display_url": "youtu.be/hzc3PLn26u0",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n온앤오프 (ONF) - 'Your Song' MV\nhttps://t.co/PBnXP38zgF"
+	},
+	{
+		"created_at": "Tue Aug 16 09:38:29 +0000 2022",
+		"id": 1559474671203954700,
+		"id_str": "1559474671203954688",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n게일 (GAYLE) – indieedgycool 가사 번역 뮤직비디오\nhttps://t.co/IbJ5DR5m4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IbJ5DR5m4x",
+					"expanded_url": "https://youtu.be/W9SASCm9DV8",
+					"display_url": "youtu.be/W9SASCm9DV8",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n게일 (GAYLE) – indieedgycool 가사 번역 뮤직비디오\nhttps://t.co/IbJ5DR5m4x"
+	},
+	{
+		"created_at": "Tue Aug 16 09:29:49 +0000 2022",
+		"id": 1559465478212399000,
+		"id_str": "1559472488626651143",
+		"full_text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/pVF8shOp9r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재현",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "JAEHYUN",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "ForeverOnly",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559458784312905700,
+					"id_str": "1559458784312905728",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPgIDVUAAqj6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPgIDVUAAqj6b.jpg",
+					"url": "https://t.co/pVF8shOp9r",
+					"display_url": "pic.twitter.com/pVF8shOp9r",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465478212399106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559458784312905700,
+					"id_str": "1559458784312905728",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPgIDVUAAqj6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPgIDVUAAqj6b.jpg",
+					"url": "https://t.co/pVF8shOp9r",
+					"display_url": "pic.twitter.com/pVF8shOp9r",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465478212399106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458784509997000,
+					"id_str": "1559458784509997058",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPgIyUsAIBtpr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPgIyUsAIBtpr.jpg",
+					"url": "https://t.co/pVF8shOp9r",
+					"display_url": "pic.twitter.com/pVF8shOp9r",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465478212399106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11086974,
+			"friends_count": 56,
+			"listed_count": 12522,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4369,
+		"favorite_count": 9818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/pVF8shOp9r"
+	},
+	{
+		"created_at": "Tue Aug 16 09:29:47 +0000 2022",
+		"id": 1559465463670665200,
+		"id_str": "1559472479751610368",
+		"full_text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/MUkwqdHFmh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재현",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "JAEHYUN",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "ForeverOnly",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559458511423058000,
+					"id_str": "1559458511423057921",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPQPdUsAEb8fr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPQPdUsAEb8fr.jpg",
+					"url": "https://t.co/MUkwqdHFmh",
+					"display_url": "pic.twitter.com/MUkwqdHFmh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465463670665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559458511423058000,
+					"id_str": "1559458511423057921",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPQPdUsAEb8fr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPQPdUsAEb8fr.jpg",
+					"url": "https://t.co/MUkwqdHFmh",
+					"display_url": "pic.twitter.com/MUkwqdHFmh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465463670665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458511750172700,
+					"id_str": "1559458511750172674",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPQQrUEAIKGeO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPQQrUEAIKGeO.jpg",
+					"url": "https://t.co/MUkwqdHFmh",
+					"display_url": "pic.twitter.com/MUkwqdHFmh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465463670665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458511762821000,
+					"id_str": "1559458511762821121",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPQQuVEAEsSPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPQQuVEAEsSPV.jpg",
+					"url": "https://t.co/MUkwqdHFmh",
+					"display_url": "pic.twitter.com/MUkwqdHFmh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465463670665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11086974,
+			"friends_count": 56,
+			"listed_count": 12522,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3769,
+		"favorite_count": 7736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/MUkwqdHFmh"
+	},
+	{
+		"created_at": "Tue Aug 16 09:29:41 +0000 2022",
+		"id": 1559465355398901800,
+		"id_str": "1559472453960736768",
+		"full_text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/eOTlc7xL3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재현",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "JAEHYUN",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "ForeverOnly",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559458307017830400,
+					"id_str": "1559458307017830400",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPEV_UcAACUKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPEV_UcAACUKh.jpg",
+					"url": "https://t.co/eOTlc7xL3C",
+					"display_url": "pic.twitter.com/eOTlc7xL3C",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465355398901761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559458307017830400,
+					"id_str": "1559458307017830400",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPEV_UcAACUKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPEV_UcAACUKh.jpg",
+					"url": "https://t.co/eOTlc7xL3C",
+					"display_url": "pic.twitter.com/eOTlc7xL3C",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465355398901761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458307378540500,
+					"id_str": "1559458307378540545",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPEXVUcAEvyBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPEXVUcAEvyBo.jpg",
+					"url": "https://t.co/eOTlc7xL3C",
+					"display_url": "pic.twitter.com/eOTlc7xL3C",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465355398901761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458307386921000,
+					"id_str": "1559458307386920961",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPEXXUUAE1C3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPEXXUUAE1C3a.jpg",
+					"url": "https://t.co/eOTlc7xL3C",
+					"display_url": "pic.twitter.com/eOTlc7xL3C",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465355398901761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458307542098000,
+					"id_str": "1559458307542097920",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPEX8UIAA7ZZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPEX8UIAA7ZZR.jpg",
+					"url": "https://t.co/eOTlc7xL3C",
+					"display_url": "pic.twitter.com/eOTlc7xL3C",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465355398901761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11086974,
+			"friends_count": 56,
+			"listed_count": 12522,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4357,
+		"favorite_count": 8227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/eOTlc7xL3C"
+	},
+	{
+		"created_at": "Tue Aug 16 09:29:33 +0000 2022",
+		"id": 1559465131515424800,
+		"id_str": "1559472419865231361",
+		"full_text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/Qyf46rc7t6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재현",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "JAEHYUN",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "ForeverOnly",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "NCTLAB",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559458255809613800,
+					"id_str": "1559458255809613824",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPBXOVEAAdr0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPBXOVEAAdr0_.jpg",
+					"url": "https://t.co/Qyf46rc7t6",
+					"display_url": "pic.twitter.com/Qyf46rc7t6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465131515424768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1642,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559458255809613800,
+					"id_str": "1559458255809613824",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPBXOVEAAdr0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPBXOVEAAdr0_.jpg",
+					"url": "https://t.co/Qyf46rc7t6",
+					"display_url": "pic.twitter.com/Qyf46rc7t6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465131515424768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1642,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458255813763000,
+					"id_str": "1559458255813763073",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPBXPUYAE_b2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPBXPUYAE_b2l.jpg",
+					"url": "https://t.co/Qyf46rc7t6",
+					"display_url": "pic.twitter.com/Qyf46rc7t6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465131515424768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 978,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458255838929000,
+					"id_str": "1559458255838928896",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPBXVUYAAQA1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPBXVUYAAQA1j.jpg",
+					"url": "https://t.co/Qyf46rc7t6",
+					"display_url": "pic.twitter.com/Qyf46rc7t6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465131515424768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1642,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559458255822196700,
+					"id_str": "1559458255822196737",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRPBXRVEAE5M6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRPBXRVEAE5M6K.jpg",
+					"url": "https://t.co/Qyf46rc7t6",
+					"display_url": "pic.twitter.com/Qyf46rc7t6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559465131515424768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11086974,
+			"friends_count": 56,
+			"listed_count": 12522,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4461,
+		"favorite_count": 9249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION : NCT LAB] JAEHYUN 재현 〖Forever Only〗\n➫ 2022.08.18 6PM KST\n\n#재현 #JAEHYUN\n#ForeverOnly \n#NCT #NCT127 #NCTLAB https://t.co/Qyf46rc7t6"
+	},
+	{
 		"created_at": "Tue Aug 16 09:03:29 +0000 2022",
 		"id": 1559465859910733800,
 		"id_str": "1559465859910733824",
