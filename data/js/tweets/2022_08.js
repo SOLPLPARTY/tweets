@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 10:29:41 +0000 2022",
+		"id": 1559487252345917400,
+		"id_str": "1559487554226982913",
+		"full_text": "이번주 토요일 🎸Saturday LIVE Salon🎸\n\n#루비살롱 에서 매달 펼쳐지는 기획공연 'Saturday LIVE Salon' 두 번째 순서로 8월 20일 토요일 오후 #콩코드\n\n🎼 본 공연은 무료입장 자율기부 공연 입니다. 모금액은 전액 아티스트에게 전달됩니다.\n\n📢 예매 페이지\nhttps://t.co/rDThzgzLsh https://t.co/i2vHDiQCbz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비살롱",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "콩코드",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rDThzgzLsh",
+					"expanded_url": "https://forms.gle/RxrfgE6umCR5aPVQ6",
+					"display_url": "forms.gle/RxrfgE6umCR5aP…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559487249414164500,
+					"id_str": "1559487249414164480",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRpZA0VEAACcIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRpZA0VEAACcIW.jpg",
+					"url": "https://t.co/i2vHDiQCbz",
+					"display_url": "pic.twitter.com/i2vHDiQCbz",
+					"expanded_url": "https://twitter.com/ruby_records/status/1559487252345917440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559487249414164500,
+					"id_str": "1559487249414164480",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRpZA0VEAACcIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRpZA0VEAACcIW.jpg",
+					"url": "https://t.co/i2vHDiQCbz",
+					"display_url": "pic.twitter.com/i2vHDiQCbz",
+					"expanded_url": "https://twitter.com/ruby_records/status/1559487252345917440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7561,
+			"friends_count": 8195,
+			"listed_count": 196,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 토요일 🎸Saturday LIVE Salon🎸\n\n#루비살롱 에서 매달 펼쳐지는 기획공연 'Saturday LIVE Salon' 두 번째 순서로 8월 20일 토요일 오후 #콩코드\n\n🎼 본 공연은 무료입장 자율기부 공연 입니다. 모금액은 전액 아티스트에게 전달됩니다.\n\n📢 예매 페이지\nhttps://t.co/rDThzgzLsh https://t.co/i2vHDiQCbz"
+	},
+	{
+		"created_at": "Tue Aug 16 10:29:37 +0000 2022",
+		"id": 1559480095194185700,
+		"id_str": "1559487536900280321",
+		"full_text": "[#민서] 멋진 꿈, 좋아, 나만 몰랐던 이야기 LIVE CLIP (@MYSTIC CONNECT)✔️\n\n🔗 https://t.co/Pk8HmEf5E4\n🔗 https://t.co/r1HsgkNjkT\n\n#MINSEO #MNSO #멋진꿈 #좋아 #나만몰랐던이야기 #LIVE #JAKOMO https://t.co/2Cz0FUtNV6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "MNSO",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "멋진꿈",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "좋아",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "나만몰랐던이야기",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "JAKOMO",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mystic",
+					"name": "@Mystic",
+					"id": 1185962827506471000,
+					"id_str": "1185962827506470912",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pk8HmEf5E4",
+					"expanded_url": "https://youtu.be/Uuk0RxAt3tM",
+					"display_url": "youtu.be/Uuk0RxAt3tM",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/r1HsgkNjkT",
+					"expanded_url": "https://www.vlive.tv/video/289734",
+					"display_url": "vlive.tv/video/289734",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559476135469019100,
+					"id_str": "1559476135469019136",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRf5LiUcAA-DJS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRf5LiUcAA-DJS.jpg",
+					"url": "https://t.co/2Cz0FUtNV6",
+					"display_url": "pic.twitter.com/2Cz0FUtNV6",
+					"expanded_url": "https://twitter.com/themysticstory/status/1559480095194185728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559476135469019100,
+					"id_str": "1559476135469019136",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRf5LiUcAA-DJS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRf5LiUcAA-DJS.jpg",
+					"url": "https://t.co/2Cz0FUtNV6",
+					"display_url": "pic.twitter.com/2Cz0FUtNV6",
+					"expanded_url": "https://twitter.com/themysticstory/status/1559480095194185728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59793,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559476135469019136/vid/640x360/HyVrkfhKd_P36XKV.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559476135469019136/vid/1280x720/SlbM3B1vTRBL8F0p.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1559476135469019136/pl/kzB6czzUtECoZeUB.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559476135469019136/vid/480x270/toI7f5OKXkzunC_l.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "MINSEO - 멋진 꿈, 좋아, 나만 몰랐던 이야기 LIVE CLIP (@MYSTIC CONNECT)",
+						"description": "[#MINSEO] 멋진 꿈, 좋아, 나만 몰랐던 이야기 LIVE CLIP (@MYSTIC CONNECT)✔️\n\n🔗 https://youtu.be/Uuk0RxAt3tM\n🔗 https://www.vlive.tv/video/289734\n\n#민서 #MNSO #멋진꿈 #좋아 #나만몰랐던이야기 #LIVE #JAKOMO",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/Uuk0RxAt3tM"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37130,
+			"friends_count": 14,
+			"listed_count": 303,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1660618992",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 멋진 꿈, 좋아, 나만 몰랐던 이야기 LIVE CLIP (@MYSTIC CONNECT)✔️\n\n🔗 https://t.co/Pk8HmEf5E4\n🔗 https://t.co/r1HsgkNjkT\n\n#MINSEO #MNSO #멋진꿈 #좋아 #나만몰랐던이야기 #LIVE #JAKOMO https://t.co/2Cz0FUtNV6"
+	},
+	{
+		"created_at": "Tue Aug 16 10:29:28 +0000 2022",
+		"id": 1559473604655403000,
+		"id_str": "1559487498698498049",
+		"full_text": "온앤오프(ONF) ‘SPECIAL ALBUM [Storage of ONF]’ Released!!\n💙 https://t.co/w61wxfTN1l https://t.co/jdQ62CqNjD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w61wxfTN1l",
+					"expanded_url": "https://www.instagram.com/p/ChUL_3GscYz/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/ChUL_3GscYz/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559473599240474600,
+					"id_str": "1559473599240474624",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRc-d9UEAA4OTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRc-d9UEAA4OTv.jpg",
+					"url": "https://t.co/jdQ62CqNjD",
+					"display_url": "pic.twitter.com/jdQ62CqNjD",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1559473604655403008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559473599240474600,
+					"id_str": "1559473599240474624",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRc-d9UEAA4OTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRc-d9UEAA4OTv.jpg",
+					"url": "https://t.co/jdQ62CqNjD",
+					"display_url": "pic.twitter.com/jdQ62CqNjD",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1559473604655403008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7388,
+			"friends_count": 0,
+			"listed_count": 55,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 422,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온앤오프(ONF) ‘SPECIAL ALBUM [Storage of ONF]’ Released!!\n💙 https://t.co/w61wxfTN1l https://t.co/jdQ62CqNjD"
+	},
+	{
 		"created_at": "Tue Aug 16 10:14:30 +0000 2022",
 		"id": 1559483735459827700,
 		"id_str": "1559483735459827712",
