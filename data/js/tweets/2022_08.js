@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 07:58:15 +0000 2022",
+		"id": 1559446567828205600,
+		"id_str": "1559449446982844416",
+		"full_text": "💙 LINE UP ANNOUNCEMENTS 💙\nㅤㅤㅤㅤ\nGENERAL TICKET OPEN\n8.16 (Tue) 14:00\n\n🎟 예매처\n- 티켓링크 Ticket Link https://t.co/yNzZ7o0wfK\n- 네이버예약 Naver Booking https://t.co/GTM5JHq3cl\n\n잔다리페스타 2022\n22.9.2(Fri)-9.4(Sun)\n* 이미지 내 오타 수정에 따라 게시물을 재업로드하였습니다. https://t.co/dZtloCN2Ej",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yNzZ7o0wfK",
+					"expanded_url": "https://bit.ly/3JxjMhK",
+					"display_url": "bit.ly/3JxjMhK",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/GTM5JHq3cl",
+					"expanded_url": "https://bit.ly/3JVnAJQ",
+					"display_url": "bit.ly/3JVnAJQ",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559446034149146600,
+					"id_str": "1559446034149146625",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRD59_aAAEu249.png",
+					"media_url_https": "https://pbs.twimg.com/media/FaRD59_aAAEu249.png",
+					"url": "https://t.co/dZtloCN2Ej",
+					"display_url": "pic.twitter.com/dZtloCN2Ej",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1559446567828205569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1389,
+							"h": 1389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559446034149146600,
+					"id_str": "1559446034149146625",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRD59_aAAEu249.png",
+					"media_url_https": "https://pbs.twimg.com/media/FaRD59_aAAEu249.png",
+					"url": "https://t.co/dZtloCN2Ej",
+					"display_url": "pic.twitter.com/dZtloCN2Ej",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1559446567828205569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1389,
+							"h": 1389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559446034132369400,
+					"id_str": "1559446034132369408",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRD597aAAA8Vkl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRD597aAAA8Vkl.jpg",
+					"url": "https://t.co/dZtloCN2Ej",
+					"display_url": "pic.twitter.com/dZtloCN2Ej",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1559446567828205569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1372,
+							"h": 1372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & Conferences 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta\nmore details 👉 https://t.co/3L3RWYTVUZ",
+			"url": "https://t.co/WpBoMBia2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpBoMBia2Z",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3L3RWYTVUZ",
+							"expanded_url": "http://linktr.ee/zandarifesta",
+							"display_url": "linktr.ee/zandarifesta",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2732,
+			"friends_count": 1703,
+			"listed_count": 42,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1659440141",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙 LINE UP ANNOUNCEMENTS 💙\nㅤㅤㅤㅤ\nGENERAL TICKET OPEN\n8.16 (Tue) 14:00\n\n🎟 예매처\n- 티켓링크 Ticket Link https://t.co/yNzZ7o0wfK\n- 네이버예약 Naver Booking https://t.co/GTM5JHq3cl\n\n잔다리페스타 2022\n22.9.2(Fri)-9.4(Sun)\n* 이미지 내 오타 수정에 따라 게시물을 재업로드하였습니다. https://t.co/dZtloCN2Ej"
+	},
+	{
 		"created_at": "Tue Aug 16 06:58:38 +0000 2022",
 		"id": 1559420216375148500,
 		"id_str": "1559434443445731328",
