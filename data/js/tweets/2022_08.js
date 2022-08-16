@@ -1,6 +1,1676 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 05:58:33 +0000 2022",
+		"id": 1559412290293989400,
+		"id_str": "1559419323403251713",
+		"full_text": "KCON 2022 LA LIVE STREAMING📺\n💙CONVENTION PROGRAM TIMETABLE💚\n\nKCON 2022 LA 컨벤션 프로그램 생중계 타임테이블을 확인해보세요!\n\n✔️전체 컨벤션 프로그램 타임테이블은 추후 공개됩니다.\n✔️해당 타임테이블은 현장 사정에 따라 변동될 수 있습니다.\n\n#KCON #KCON2022LA https://t.co/kYdDmiRitP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						175,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kYdDmiRitP",
+					"expanded_url": "https://twitter.com/kconusa/status/1559412135343468544",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450685,
+			"friends_count": 76,
+			"listed_count": 1115,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1559412135343468500,
+		"quoted_status_id_str": "1559412135343468544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kYdDmiRitP",
+			"expanded": "https://twitter.com/kconusa/status/1559412135343468544",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 16 05:30:00 +0000 2022",
+			"id": 1559412135343468500,
+			"id_str": "1559412135343468544",
+			"full_text": "KCON 2022 LA LIVE STREAMING📺\n💙CONVENTION PROGRAM TIMETABLE💚\n\nCheck out KCON 2022 LA CONVENTION PROGRAM \nLIVE STREAMING TIMETABLE!\n\n✔️Timetable for the full convention program is available at a later date.\n✔️This timetable may change depends on the condition.\n\n#KCON #KCON2022LA https://t.co/v1tjCk1tgv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							260,
+							265
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							266,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1559409647374590000,
+						"id_str": "1559409647374589953",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FaQiz-sUYAEKx49.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaQiz-sUYAEKx49.jpg",
+						"url": "https://t.co/v1tjCk1tgv",
+						"display_url": "pic.twitter.com/v1tjCk1tgv",
+						"expanded_url": "https://twitter.com/kconusa/status/1559412135343468544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1559409647374590000,
+						"id_str": "1559409647374589953",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FaQiz-sUYAEKx49.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaQiz-sUYAEKx49.jpg",
+						"url": "https://t.co/v1tjCk1tgv",
+						"display_url": "pic.twitter.com/v1tjCk1tgv",
+						"expanded_url": "https://twitter.com/kconusa/status/1559412135343468544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1559409647395647500,
+						"id_str": "1559409647395647488",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FaQiz-xVsAATRJo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaQiz-xVsAATRJo.jpg",
+						"url": "https://t.co/v1tjCk1tgv",
+						"display_url": "pic.twitter.com/v1tjCk1tgv",
+						"expanded_url": "https://twitter.com/kconusa/status/1559412135343468544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1559409647404007400,
+						"id_str": "1559409647404007424",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FaQiz-zVQAA9-75.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaQiz-zVQAA9-75.jpg",
+						"url": "https://t.co/v1tjCk1tgv",
+						"display_url": "pic.twitter.com/v1tjCk1tgv",
+						"expanded_url": "https://twitter.com/kconusa/status/1559412135343468544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1559409647370416000,
+						"id_str": "1559409647370416129",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FaQiz-rUsAEbPrQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaQiz-rUsAEbPrQ.jpg",
+						"url": "https://t.co/v1tjCk1tgv",
+						"display_url": "pic.twitter.com/v1tjCk1tgv",
+						"expanded_url": "https://twitter.com/kconusa/status/1559412135343468544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1081,
+								"h": 1081,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 225556,
+				"friends_count": 7,
+				"listed_count": 473,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20517,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 167,
+			"favorite_count": 357,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA LIVE STREAMING📺\n💙CONVENTION PROGRAM TIMETABLE💚\n\nKCON 2022 LA 컨벤션 프로그램 생중계 타임테이블을 확인해보세요!\n\n✔️전체 컨벤션 프로그램 타임테이블은 추후 공개됩니다.\n✔️해당 타임테이블은 현장 사정에 따라 변동될 수 있습니다.\n\n#KCON #KCON2022LA https://t.co/kYdDmiRitP"
+	},
+	{
+		"created_at": "Tue Aug 16 05:58:24 +0000 2022",
+		"id": 1559405047032586200,
+		"id_str": "1559419285029658624",
+		"full_text": "그리고 여러분을 위한 한 가지 소식 ☝\n드디어 내일 8/17(수) 추가 라인업이 공개됩니다!\n많은 관심과 기대 부탁드립니다. 💚\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대\n\n#렛츠락페스티벌 #2022렛츠락페스티벌\n#Letsrockfestival #2022letsrockfestival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "렛츠락페스티벌",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "2022렛츠락페스티벌",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "Letsrockfestival",
+					"indices": [
+						161,
+						178
+					]
+				},
+				{
+					"text": "2022letsrockfestival",
+					"indices": [
+						179,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1559404899946745900,
+		"in_reply_to_status_id_str": "1559404899946745856",
+		"in_reply_to_user_id": 158300000,
+		"in_reply_to_user_id_str": "158300000",
+		"in_reply_to_screen_name": "letsrockfe",
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)\n👇🏻공식티켓🔗\nhttps://t.co/Cyw63A1h8T",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cyw63A1h8T",
+							"expanded_url": "https://tickets.interpark.com/goods/22009774",
+							"display_url": "tickets.interpark.com/goods/22009774",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4001,
+			"friends_count": 138,
+			"listed_count": 47,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 여러분을 위한 한 가지 소식 ☝\n드디어 내일 8/17(수) 추가 라인업이 공개됩니다!\n많은 관심과 기대 부탁드립니다. 💚\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대\n\n#렛츠락페스티벌 #2022렛츠락페스티벌\n#Letsrockfestival #2022letsrockfestival"
+	},
+	{
+		"created_at": "Tue Aug 16 05:58:15 +0000 2022",
+		"id": 1559404899946745900,
+		"id_str": "1559419246664368129",
+		"full_text": "[2022 렛츠락페스티벌 공식 스팟 영상 공개]\n\n보기만 해도 락앤롤 열기가 뜨거운\n2022 렛츠락페스티벌 공식 스팟 영상을 공개합니다.\n\n우리 함께 렛츠락앤롤! 🤘 https://t.co/n5Js5L1gvs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559404781491273700,
+					"id_str": "1559404781491273730",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559404781491273730/pu/img/uuww9qmWqxFFXZ2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559404781491273730/pu/img/uuww9qmWqxFFXZ2X.jpg",
+					"url": "https://t.co/n5Js5L1gvs",
+					"display_url": "pic.twitter.com/n5Js5L1gvs",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1559404899946745856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559404781491273700,
+					"id_str": "1559404781491273730",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559404781491273730/pu/img/uuww9qmWqxFFXZ2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559404781491273730/pu/img/uuww9qmWqxFFXZ2X.jpg",
+					"url": "https://t.co/n5Js5L1gvs",
+					"display_url": "pic.twitter.com/n5Js5L1gvs",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1559404899946745856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29033,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559404781491273730/pu/vid/640x360/eD-8_6OCJTUTL4CW.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559404781491273730/pu/vid/1280x720/9q9LcwtzCyfFcQfp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1559404781491273730/pu/pl/Bs-ObKJrhC67P3sN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559404781491273730/pu/vid/480x270/z83A4KZm6VEl5SWq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)\n👇🏻공식티켓🔗\nhttps://t.co/Cyw63A1h8T",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cyw63A1h8T",
+							"expanded_url": "https://tickets.interpark.com/goods/22009774",
+							"display_url": "tickets.interpark.com/goods/22009774",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4001,
+			"friends_count": 138,
+			"listed_count": 47,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 렛츠락페스티벌 공식 스팟 영상 공개]\n\n보기만 해도 락앤롤 열기가 뜨거운\n2022 렛츠락페스티벌 공식 스팟 영상을 공개합니다.\n\n우리 함께 렛츠락앤롤! 🤘 https://t.co/n5Js5L1gvs"
+	},
+	{
+		"created_at": "Tue Aug 16 05:30:02 +0000 2022",
+		"id": 1559404681847156700,
+		"id_str": "1559412146454380544",
+		"full_text": "2022 이적 소극장 콘서트 &lt;흔적&gt;\n\n≪ 티켓오픈 D-DAY ≫\n8월 16일(화) 오후 5시\n인터파크 티켓 (https://t.co/zlalN0RZDQ)\n\n· 공연정보 ·\n2022년 9월 16일(금)~18일(일)\n2022년 9월 22일(목)~25일(일)\n평일 오후 8시 / 주말 오후 6시\n\nat 이화여자대학교 삼성홀\n\n#이적 #LeeJuck #소극장콘서트 #흔적 https://t.co/otLelqoSek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "LeeJuck",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "소극장콘서트",
+					"indices": [
+						199,
+						206
+					]
+				},
+				{
+					"text": "흔적",
+					"indices": [
+						207,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zlalN0RZDQ",
+					"expanded_url": "http://bit.ly/3JUJAoi",
+					"display_url": "bit.ly/3JUJAoi",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559404676357197800,
+					"id_str": "1559404676357197824",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQeSoNakAACWWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQeSoNakAACWWX.jpg",
+					"url": "https://t.co/otLelqoSek",
+					"display_url": "pic.twitter.com/otLelqoSek",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1559404681847156738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559404676357197800,
+					"id_str": "1559404676357197824",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQeSoNakAACWWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQeSoNakAACWWX.jpg",
+					"url": "https://t.co/otLelqoSek",
+					"display_url": "pic.twitter.com/otLelqoSek",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1559404681847156738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/e3kPCV31vL",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3kPCV31vL",
+							"expanded_url": "http://youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8955,
+			"friends_count": 4,
+			"listed_count": 105,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 이적 소극장 콘서트 &lt;흔적&gt;\n\n≪ 티켓오픈 D-DAY ≫\n8월 16일(화) 오후 5시\n인터파크 티켓 (https://t.co/zlalN0RZDQ)\n\n· 공연정보 ·\n2022년 9월 16일(금)~18일(일)\n2022년 9월 22일(목)~25일(일)\n평일 오후 8시 / 주말 오후 6시\n\nat 이화여자대학교 삼성홀\n\n#이적 #LeeJuck #소극장콘서트 #흔적 https://t.co/otLelqoSek"
+	},
+	{
+		"created_at": "Tue Aug 16 05:29:55 +0000 2022",
+		"id": 1559404174982336500,
+		"id_str": "1559412116528009216",
+		"full_text": "[VIDEO] [#마르코] #천재역술인금태영\n\n프롤로그_사주 비급이 어디 있다고?\n\n👉 https://t.co/TC9Zc0x6bx\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #프롤로그 #prologue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마르코",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "천재역술인금태영",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "MARCO",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"text": "웹드라마",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "스튜디오자판기",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "프롤로그",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "prologue",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TC9Zc0x6bx",
+					"expanded_url": "https://youtu.be/AQ5Zygl56g8",
+					"display_url": "youtu.be/AQ5Zygl56g8",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#마르코] #천재역술인금태영\n\n프롤로그_사주 비급이 어디 있다고?\n\n👉 https://t.co/TC9Zc0x6bx\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #프롤로그 #prologue"
+	},
+	{
+		"created_at": "Tue Aug 16 05:29:48 +0000 2022",
+		"id": 1559404113342767000,
+		"id_str": "1559412086702325760",
+		"full_text": "[VIDEO] [#마르코] #천재역술인금태영\n\nteaser 1 _사주로 사건 해결?\n\n👉 https://t.co/HBvd4x4xEl\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #티저 #teaser",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마르코",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "천재역술인금태영",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "MARCO",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"text": "웹드라마",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "스튜디오자판기",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "티저",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "teaser",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HBvd4x4xEl",
+					"expanded_url": "https://youtu.be/U4BJ3YaPcso",
+					"display_url": "youtu.be/U4BJ3YaPcso",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#마르코] #천재역술인금태영\n\nteaser 1 _사주로 사건 해결?\n\n👉 https://t.co/HBvd4x4xEl\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #티저 #teaser"
+	},
+	{
+		"created_at": "Tue Aug 16 05:29:39 +0000 2022",
+		"id": 1559404060133843000,
+		"id_str": "1559412048450277377",
+		"full_text": "[VIDEO] [#마르코] #천재역술인금태영\n\nmaking 11 포스터 나왔어요\n\n👉 https://t.co/2e4lTdKnez\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #비하인드 #making",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마르코",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "천재역술인금태영",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "MARCO",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "웹드라마",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "스튜디오자판기",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "making",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2e4lTdKnez",
+					"expanded_url": "https://youtu.be/Obe9LMj8Pvc",
+					"display_url": "youtu.be/Obe9LMj8Pvc",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#마르코] #천재역술인금태영\n\nmaking 11 포스터 나왔어요\n\n👉 https://t.co/2e4lTdKnez\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #웹드라마 #스튜디오자판기 #비하인드 #making"
+	},
+	{
+		"created_at": "Tue Aug 16 05:29:30 +0000 2022",
+		"id": 1559403385740148700,
+		"id_str": "1559412010240065536",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n김두영을 반하게 한 인생향수 등장👃 향에 취하고..❤너에게 취하고..🌸[벤자민권의 상상은 현실이된다2 : 위대한쇼맨] EP.09\n\n👉 https://t.co/fnGMPA1HL4\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의상상은현실이된다2",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "위대한쇼맨",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fnGMPA1HL4",
+					"expanded_url": "https://youtu.be/JZeVzdq24-s",
+					"display_url": "youtu.be/JZeVzdq24-s",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n김두영을 반하게 한 인생향수 등장👃 향에 취하고..❤너에게 취하고..🌸[벤자민권의 상상은 현실이된다2 : 위대한쇼맨] EP.09\n\n👉 https://t.co/fnGMPA1HL4\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV"
+	},
+	{
 		"created_at": "Tue Aug 16 05:11:17 +0000 2022",
 		"id": 1559404597705207800,
 		"id_str": "1559407425836417029",
@@ -678,7 +2348,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Tue Aug 16 04:29:29 +0000 2022",
 		"id": 1559394293659213800,
 		"id_str": "1559396906173972481",
-		"full_text": "[#존박]\nJTBC &lt;뉴페스타&gt;\n8월 16일(화) 오후 10시 30분\n\n마지막 회를 장식한 존박의 '네 생각' 무대!\n오늘 밤 #뉴페스타 본방사수🙋‍♀\n🔗 https://t.co/NqeJXtiHOy\n\n#존박 #JohnPark\n#뉴페스타 #NEWFESTA",
+		"full_text": "[#존박]\nJTBC &lt;뉴페스타&gt;\n8월 16일(화) 오후 10시 30분\n\n마지막 회를 장식한 존박의 '네 생각' 무대!\n오늘 밤 #뉴페스타 본방사수🙋♀\n🔗 https://t.co/NqeJXtiHOy\n\n#존박 #JohnPark\n#뉴페스타 #NEWFESTA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -831,7 +2501,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#존박]\nJTBC &lt;뉴페스타&gt;\n8월 16일(화) 오후 10시 30분\n\n마지막 회를 장식한 존박의 '네 생각' 무대!\n오늘 밤 #뉴페스타 본방사수🙋‍♀\n🔗 https://t.co/NqeJXtiHOy\n\n#존박 #JohnPark\n#뉴페스타 #NEWFESTA"
+		"text": "[#존박]\nJTBC &lt;뉴페스타&gt;\n8월 16일(화) 오후 10시 30분\n\n마지막 회를 장식한 존박의 '네 생각' 무대!\n오늘 밤 #뉴페스타 본방사수🙋♀\n🔗 https://t.co/NqeJXtiHOy\n\n#존박 #JohnPark\n#뉴페스타 #NEWFESTA"
 	},
 	{
 		"created_at": "Tue Aug 16 03:58:20 +0000 2022",
