@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 13:29:25 +0000 2022",
+		"id": 1559890509216174000,
+		"id_str": "1559895173731065858",
+		"full_text": "세일럼 일리스 내한공연 D-1✨\n티켓 현장구매 가능합니다💞 https://t.co/Hf43H6A4Im",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hf43H6A4Im",
+					"expanded_url": "https://twitter.com/highjinkxx/status/1529970991140847616",
+					"display_url": "twitter.com/highjinkxx/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+			"url": "https://t.co/jgdOjxpuHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxpuHL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1zJqKQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gw6rB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 656,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529970991140847600,
+		"quoted_status_id_str": "1529970991140847616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hf43H6A4Im",
+			"expanded": "https://twitter.com/highjinkxx/status/1529970991140847616",
+			"display": "twitter.com/highjinkxx/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 26 23:41:24 +0000 2022",
+			"id": 1529970991140847600,
+			"id_str": "1529970991140847616",
+			"full_text": "[Salem ilese Live in Seoul]\n\n알렌 워커, 투모로우바이투게더가 선택한 목소리\n매력적인 음색과 신선한 스토리텔링으로 사랑받는\n라이징 팝스타 세일럼 일리스 @salemilese 의 첫 내한공연 https://t.co/ukCjCUQkQT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "salemilese",
+						"name": "salem ilese",
+						"id": 2648703179,
+						"id_str": "2648703179",
+						"indices": [
+							97,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1529970801742852000,
+						"id_str": "1529970801742852096",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/FTuMVoqaMAAkVnv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTuMVoqaMAAkVnv.jpg",
+						"url": "https://t.co/ukCjCUQkQT",
+						"display_url": "pic.twitter.com/ukCjCUQkQT",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1529970991140847616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1529970801742852000,
+						"id_str": "1529970801742852096",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/FTuMVoqaMAAkVnv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTuMVoqaMAAkVnv.jpg",
+						"url": "https://t.co/ukCjCUQkQT",
+						"display_url": "pic.twitter.com/ukCjCUQkQT",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1529970991140847616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985865748638650400,
+				"id_str": "985865748638650368",
+				"name": "HIGHJINKX 하이징크스",
+				"screen_name": "HIGHJINKXX",
+				"location": "대한민국 서울",
+				"description": "https://t.co/UEZd1zJqKQ\nhttps://t.co/bYHM3gw6rB",
+				"url": "https://t.co/jgdOjxpuHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jgdOjxpuHL",
+								"expanded_url": "https://www.highjinkxmm.com",
+								"display_url": "highjinkxmm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UEZd1zJqKQ",
+								"expanded_url": "http://highjinkx.com",
+								"display_url": "highjinkx.com",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/bYHM3gw6rB",
+								"expanded_url": "http://highjinkxmm.com",
+								"display_url": "highjinkxmm.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 656,
+				"friends_count": 30,
+				"listed_count": 5,
+				"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+				"favourites_count": 377,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 818,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세일럼 일리스 내한공연 D-1✨\n티켓 현장구매 가능합니다💞 https://t.co/Hf43H6A4Im"
+	},
+	{
 		"created_at": "Wed Aug 17 12:29:30 +0000 2022",
 		"id": 1559865372370665500,
 		"id_str": "1559880096302989313",
