@@ -1,6 +1,599 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 12:11:17 +0000 2022",
+		"id": 1559846813208719400,
+		"id_str": "1559875511106654211",
+		"full_text": "늦여름~ 클럽빵 공연~ 아직 더위와 씨름하는 나날이지만 #인디 #락공연 #싱어송라이터 #공연 #라이브 #클럽빵 #빵 #라이브클럽 #이무이 #에이다인 #안홍근 #규리 #소매 #빅베이비드라이버 #레이디버드 #피카 #민수홍 #다빈치 #아시아닉 #파스로퀼트 #레고 #피스쿼드 #콘트라젤리 #갓오브유니버스 https://t.co/A9z0v8iFqX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "락공연",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "싱어송라이터",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "클럽빵",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "빵",
+					"indices": [
+						62,
+						64
+					]
+				},
+				{
+					"text": "라이브클럽",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "이무이",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "에이다인",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "안홍근",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "규리",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "소매",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "빅베이비드라이버",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "레이디버드",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "피카",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "민수홍",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "다빈치",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "아시아닉",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "파스로퀼트",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "레고",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "피스쿼드",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "갓오브유니버스",
+					"indices": [
+						157,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559846803280838700,
+					"id_str": "1559846803280838657",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWwZzWVQAEc_nk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWwZzWVQAEc_nk.jpg",
+					"url": "https://t.co/A9z0v8iFqX",
+					"display_url": "pic.twitter.com/A9z0v8iFqX",
+					"expanded_url": "https://twitter.com/club_bbang/status/1559846813208719360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559846803280838700,
+					"id_str": "1559846803280838657",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWwZzWVQAEc_nk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWwZzWVQAEc_nk.jpg",
+					"url": "https://t.co/A9z0v8iFqX",
+					"display_url": "pic.twitter.com/A9z0v8iFqX",
+					"expanded_url": "https://twitter.com/club_bbang/status/1559846813208719360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559846803272450000,
+					"id_str": "1559846803272450048",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWwZzUVQAARPm-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWwZzUVQAARPm-.jpg",
+					"url": "https://t.co/A9z0v8iFqX",
+					"display_url": "pic.twitter.com/A9z0v8iFqX",
+					"expanded_url": "https://twitter.com/club_bbang/status/1559846813208719360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1143,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1143,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559846803310145500,
+					"id_str": "1559846803310145536",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWwZzdUcAAYvxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWwZzdUcAAYvxq.jpg",
+					"url": "https://t.co/A9z0v8iFqX",
+					"display_url": "pic.twitter.com/A9z0v8iFqX",
+					"expanded_url": "https://twitter.com/club_bbang/status/1559846813208719360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559846803268194300,
+					"id_str": "1559846803268194304",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWwZzTUUAAWysH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWwZzTUUAAWysH.jpg",
+					"url": "https://t.co/A9z0v8iFqX",
+					"display_url": "pic.twitter.com/A9z0v8iFqX",
+					"expanded_url": "https://twitter.com/club_bbang/status/1559846813208719360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 904,
+			"listed_count": 0,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "늦여름~ 클럽빵 공연~ 아직 더위와 씨름하는 나날이지만 #인디 #락공연 #싱어송라이터 #공연 #라이브 #클럽빵 #빵 #라이브클럽 #이무이 #에이다인 #안홍근 #규리 #소매 #빅베이비드라이버 #레이디버드 #피카 #민수홍 #다빈치 #아시아닉 #파스로퀼트 #레고 #피스쿼드 #콘트라젤리 #갓오브유니버스 https://t.co/A9z0v8iFqX"
+	},
+	{
+		"created_at": "Wed Aug 17 12:10:13 +0000 2022",
+		"id": 1559875241655955500,
+		"id_str": "1559875241655955456",
+		"full_text": "#딩고뮤직 #dingo_music\nSOUND IN THE LAB EP. 02 이날치 Teaser\nhttps://t.co/7ELHplld7N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ELHplld7N",
+					"expanded_url": "https://youtu.be/GPXVwR6TJk0",
+					"display_url": "youtu.be/GPXVwR6TJk0",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\nSOUND IN THE LAB EP. 02 이날치 Teaser\nhttps://t.co/7ELHplld7N"
+	},
+	{
 		"created_at": "Wed Aug 17 10:29:51 +0000 2022",
 		"id": 1559848281186140200,
 		"id_str": "1559849982722805760",
