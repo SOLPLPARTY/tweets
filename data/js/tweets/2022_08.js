@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 19:58:27 +0000 2022",
+		"id": 1560351663327588400,
+		"id_str": "1560355465963470848",
+		"full_text": "💙The TOgether Los Angeles Tour with TO1 &amp; TOYOTA💚\n\n🔗https://t.co/WDKkhlbC9x\n\n#KCON #KCONUSA #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WDKkhlbC9x",
+					"expanded_url": "https://youtu.be/SmZnW7ILru8",
+					"display_url": "youtu.be/SmZnW7ILru8",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560348306118787000,
+		"in_reply_to_status_id_str": "1560348306118787075",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451222,
+			"friends_count": 76,
+			"listed_count": 1121,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💙The TOgether Los Angeles Tour with TO1 &amp; TOYOTA💚\n\n🔗https://t.co/WDKkhlbC9x\n\n#KCON #KCONUSA #KCON2022LA"
+	},
+	{
+		"created_at": "Thu Aug 18 19:58:23 +0000 2022",
+		"id": 1560348527464796200,
+		"id_str": "1560355448657793030",
+		"full_text": "The TOgether Los Angeles Tour with TO1 &amp; TOYOTA 💙D-DAY💚\n\nTO1と一緒に旅立つオンラインLAツアーにご招待します💌\n詳細はイメージをご確認ください🥰\n\n⏰2022.08.18 13:00(PDT)\n\n✔️このLIVE STREAMINGは全世界のすべての方々が無料でご覧いただけます。\n\n#KCON #KCON2022LA #TO1 #TOYOTA https://t.co/ckqbWRVRgr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						182,
+						193
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "TOYOTA",
+					"indices": [
+						199,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560348524650172400,
+					"id_str": "1560348524650172416",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Fad4t1GUEAAjj0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fad4t1GUEAAjj0_.jpg",
+					"url": "https://t.co/ckqbWRVRgr",
+					"display_url": "pic.twitter.com/ckqbWRVRgr",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560348527464796160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560348524650172400,
+					"id_str": "1560348524650172416",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Fad4t1GUEAAjj0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fad4t1GUEAAjj0_.jpg",
+					"url": "https://t.co/ckqbWRVRgr",
+					"display_url": "pic.twitter.com/ckqbWRVRgr",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560348527464796160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560348522796290000,
+		"in_reply_to_status_id_str": "1560348522796290048",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451222,
+			"friends_count": 76,
+			"listed_count": 1121,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "The TOgether Los Angeles Tour with TO1 &amp; TOYOTA 💙D-DAY💚\n\nTO1と一緒に旅立つオンラインLAツアーにご招待します💌\n詳細はイメージをご確認ください🥰\n\n⏰2022.08.18 13:00(PDT)\n\n✔️このLIVE STREAMINGは全世界のすべての方々が無料でご覧いただけます。\n\n#KCON #KCON2022LA #TO1 #TOYOTA https://t.co/ckqbWRVRgr"
+	},
+	{
+		"created_at": "Thu Aug 18 19:58:19 +0000 2022",
+		"id": 1560348522796290000,
+		"id_str": "1560355431310049287",
+		"full_text": "The TOgether Los Angeles Tour with TO1 &amp; TOYOTA 💙D-DAY💚\n\nTO1과 함께 떠나는 랜선 LA 투어에 초대합니다💌\n자세한 내용은 이미지를 확인해주세요🥰\n\n⏰2022.08.18 13:00(PDT)\n\n✔️해당 LIVE STREAMING은 전세계 모든 분들이 무료로 시청할 수 있습니다.\n\n#KCON #KCON2022LA #TO1 #TOYOTA https://t.co/UNueR3Blj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						191,
+						202
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "TOYOTA",
+					"indices": [
+						208,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560348520619470800,
+					"id_str": "1560348520619470848",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fad4tmFUcAAQN2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fad4tmFUcAAQN2B.jpg",
+					"url": "https://t.co/UNueR3Blj9",
+					"display_url": "pic.twitter.com/UNueR3Blj9",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560348522796290048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560348520619470800,
+					"id_str": "1560348520619470848",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fad4tmFUcAAQN2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fad4tmFUcAAQN2B.jpg",
+					"url": "https://t.co/UNueR3Blj9",
+					"display_url": "pic.twitter.com/UNueR3Blj9",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560348522796290048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560348306118787000,
+		"in_reply_to_status_id_str": "1560348306118787075",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451222,
+			"friends_count": 76,
+			"listed_count": 1121,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "The TOgether Los Angeles Tour with TO1 &amp; TOYOTA 💙D-DAY💚\n\nTO1과 함께 떠나는 랜선 LA 투어에 초대합니다💌\n자세한 내용은 이미지를 확인해주세요🥰\n\n⏰2022.08.18 13:00(PDT)\n\n✔️해당 LIVE STREAMING은 전세계 모든 분들이 무료로 시청할 수 있습니다.\n\n#KCON #KCON2022LA #TO1 #TOYOTA https://t.co/UNueR3Blj9"
+	},
+	{
 		"created_at": "Thu Aug 18 18:58:15 +0000 2022",
 		"id": 1560325663000645600,
 		"id_str": "1560340315491520517",
