@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 23:58:15 +0000 2022",
+		"id": 1560046316285300700,
+		"id_str": "1560053425190084608",
+		"full_text": "[KCON 2022 LA]\nThe fun doesn't stop on Sunday, 8/21.\nThe @Toyota booth at KCON 2022 LA us lucky to have LOONA &amp; LALARY visiting !\nMark your calendars and stop by to say hello!\n \nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/g0i3NkNs0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						217,
+						228
+					]
+				},
+				{
+					"text": "LetsGoPlaces",
+					"indices": [
+						229,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Toyota",
+					"name": "Toyota USA",
+					"id": 14219877,
+					"id_str": "14219877",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559874759500124200,
+					"id_str": "1559874759500124160",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"url": "https://t.co/g0i3NkNs0z",
+					"display_url": "pic.twitter.com/g0i3NkNs0z",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560046316285300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559874759500124200,
+					"id_str": "1559874759500124160",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"url": "https://t.co/g0i3NkNs0z",
+					"display_url": "pic.twitter.com/g0i3NkNs0z",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560046316285300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559874759592407000,
+					"id_str": "1559874759592407040",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FaXJ1EuacAADGrd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaXJ1EuacAADGrd.jpg",
+					"url": "https://t.co/g0i3NkNs0z",
+					"display_url": "pic.twitter.com/g0i3NkNs0z",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560046316285300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450956,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA]\nThe fun doesn't stop on Sunday, 8/21.\nThe @Toyota booth at KCON 2022 LA us lucky to have LOONA &amp; LALARY visiting !\nMark your calendars and stop by to say hello!\n \nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/g0i3NkNs0z"
+	},
+	{
 		"created_at": "Wed Aug 17 21:58:28 +0000 2022",
 		"id": 1560008606820737000,
 		"id_str": "1560023281184526337",
