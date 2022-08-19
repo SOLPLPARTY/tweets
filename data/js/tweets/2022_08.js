@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 14:11:17 +0000 2022",
+		"id": 1560585621864714200,
+		"id_str": "1560630484278939648",
+		"full_text": "INDIE NIGHT @FF \n\n2022/08/21 (Sun) 9pm \n\n우리가 좋아하는 인디음악으로 춤추고 노는 파티 입니다.   해외 인디음악 좋아하시는분들께 추천합니다.\n\n인디 아티스트 MD 가져오시는 분 선착순 30명에게는 인디 칵테일도 한잔 공짜로 드려요.~ \n\n입장료 없어요. https://t.co/NEKy5s7kmX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ff",
+					"name": "@ff",
+					"id": 45513,
+					"id_str": "45513",
+					"indices": [
+						12,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560585615082590200,
+					"id_str": "1560585615082590209",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FahQWTyVEAE5yj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FahQWTyVEAE5yj8.jpg",
+					"url": "https://t.co/NEKy5s7kmX",
+					"display_url": "pic.twitter.com/NEKy5s7kmX",
+					"expanded_url": "https://twitter.com/clubFF_/status/1560585621864714240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1646,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560585615082590200,
+					"id_str": "1560585615082590209",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FahQWTyVEAE5yj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FahQWTyVEAE5yj8.jpg",
+					"url": "https://t.co/NEKy5s7kmX",
+					"display_url": "pic.twitter.com/NEKy5s7kmX",
+					"expanded_url": "https://twitter.com/clubFF_/status/1560585621864714240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1646,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6115,
+			"friends_count": 8,
+			"listed_count": 76,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "INDIE NIGHT @FF \n\n2022/08/21 (Sun) 9pm \n\n우리가 좋아하는 인디음악으로 춤추고 노는 파티 입니다.   해외 인디음악 좋아하시는분들께 추천합니다.\n\n인디 아티스트 MD 가져오시는 분 선착순 30명에게는 인디 칵테일도 한잔 공짜로 드려요.~ \n\n입장료 없어요. https://t.co/NEKy5s7kmX"
+	},
+	{
 		"created_at": "Fri Aug 19 12:46:12 +0000 2022",
 		"id": 1560609073258647600,
 		"id_str": "1560609073258647552",
