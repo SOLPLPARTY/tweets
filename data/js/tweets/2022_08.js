@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 18:58:20 +0000 2022",
+		"id": 1560695593697099800,
+		"id_str": "1560702723212939265",
+		"full_text": "🔊YouTube Live Streaming will start shortly!\n🔊잠시 후 YouTube 라이브 스트리밍이 시작됩니다!\n\n💙The K-POP Journey Kevin Woo💚\n\n🔗https://t.co/0Cf9c5n6lf\n\n✔️You can watch on YouTube KCON official, Mnet K-POP channels.\n✔️YouTube KCON official, Mnet K-POP에서 시청 가능합니다. https://t.co/dx73F1OtxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Cf9c5n6lf",
+					"expanded_url": "https://youtu.be/RgojfzI0YR8",
+					"display_url": "youtu.be/RgojfzI0YR8",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560658447217066000,
+					"id_str": "1560658447217065984",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FaiSlsoWAAAENVZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaiSlsoWAAAENVZ.jpg",
+					"url": "https://t.co/dx73F1OtxD",
+					"display_url": "pic.twitter.com/dx73F1OtxD",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560695593697099776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560658447217066000,
+					"id_str": "1560658447217065984",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/FaiSlsoWAAAENVZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaiSlsoWAAAENVZ.jpg",
+					"url": "https://t.co/dx73F1OtxD",
+					"display_url": "pic.twitter.com/dx73F1OtxD",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560695593697099776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451982,
+			"friends_count": 76,
+			"listed_count": 1120,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔊YouTube Live Streaming will start shortly!\n🔊잠시 후 YouTube 라이브 스트리밍이 시작됩니다!\n\n💙The K-POP Journey Kevin Woo💚\n\n🔗https://t.co/0Cf9c5n6lf\n\n✔️You can watch on YouTube KCON official, Mnet K-POP channels.\n✔️YouTube KCON official, Mnet K-POP에서 시청 가능합니다. https://t.co/dx73F1OtxD"
+	},
+	{
 		"created_at": "Fri Aug 19 18:11:17 +0000 2022",
 		"id": 1560687928141140000,
 		"id_str": "1560690882734481408",
