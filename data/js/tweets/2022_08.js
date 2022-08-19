@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 06:58:15 +0000 2022",
+		"id": 1560506851224985600,
+		"id_str": "1560521507998162944",
+		"full_text": "[KCON 2022 LA] \nBe VIBRANT with CJ ! \nWe lead K-Lifestyle Creating New Standards\n\nCapture the VIBRANT moment @ CJ\nMake your own nametag and Let's Play!\n\n#KCON #KCON2022LA #CJ\n#kculture #kfood #kbakery #kbeauty #kcontents\n#bibigo #touslesjours #oliveyoung #CJENM #CGV #cjlogistics https://t.co/ylwmEiRRr5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "CJ",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "kculture",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "kfood",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "kbakery",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "kbeauty",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"text": "kcontents",
+					"indices": [
+						210,
+						220
+					]
+				},
+				{
+					"text": "bibigo",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "touslesjours",
+					"indices": [
+						229,
+						242
+					]
+				},
+				{
+					"text": "oliveyoung",
+					"indices": [
+						243,
+						254
+					]
+				},
+				{
+					"text": "CJENM",
+					"indices": [
+						255,
+						261
+					]
+				},
+				{
+					"text": "CGV",
+					"indices": [
+						262,
+						266
+					]
+				},
+				{
+					"text": "cjlogistics",
+					"indices": [
+						267,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560220259369762800,
+					"id_str": "1560220259369762817",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560220259369762817/pu/img/9ykLY7FZOoH19thP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560220259369762817/pu/img/9ykLY7FZOoH19thP.jpg",
+					"url": "https://t.co/ylwmEiRRr5",
+					"display_url": "pic.twitter.com/ylwmEiRRr5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560506851224985600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560220259369762800,
+					"id_str": "1560220259369762817",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560220259369762817/pu/img/9ykLY7FZOoH19thP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560220259369762817/pu/img/9ykLY7FZOoH19thP.jpg",
+					"url": "https://t.co/ylwmEiRRr5",
+					"display_url": "pic.twitter.com/ylwmEiRRr5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560506851224985600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20020,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560220259369762817/pu/vid/640x360/Il9DFk7z1qN6GpfO.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560220259369762817/pu/vid/1280x720/fhFjJLxPrYInZeEY.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560220259369762817/pu/vid/480x270/DQhyKRP-7U-E_2f0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1560220259369762817/pu/pl/Bw3DLjxOP7FmqATE.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451657,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA] \nBe VIBRANT with CJ ! \nWe lead K-Lifestyle Creating New Standards\n\nCapture the VIBRANT moment @ CJ\nMake your own nametag and Let's Play!\n\n#KCON #KCON2022LA #CJ\n#kculture #kfood #kbakery #kbeauty #kcontents\n#bibigo #touslesjours #oliveyoung #CJENM #CGV #cjlogistics https://t.co/ylwmEiRRr5"
+	},
+	{
+		"created_at": "Fri Aug 19 06:50:45 +0000 2022",
+		"id": 1560519622268358700,
+		"id_str": "1560519622268358659",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\nSNS를 뒤집어 놓으신 그 노래, 웰러맨 (중독주의;;)\nhttps://t.co/5iWL1avLIy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5iWL1avLIy",
+					"expanded_url": "https://youtu.be/XX2EisGQwgE",
+					"display_url": "youtu.be/XX2EisGQwgE",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\nSNS를 뒤집어 놓으신 그 노래, 웰러맨 (중독주의;;)\nhttps://t.co/5iWL1avLIy"
+	},
+	{
 		"created_at": "Fri Aug 19 06:15:08 +0000 2022",
 		"id": 1560510658738720800,
 		"id_str": "1560510658738720768",
