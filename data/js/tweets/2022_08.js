@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 10:55:56 +0000 2022",
+		"id": 1560580345447166000,
+		"id_str": "1560581325794394113",
+		"full_text": "@SOLPLPARTY 예매처에 확인한 결과, 예매처의 오류로 확인되어 빠른 시일 내에 개별 연락주실 예정이라고 합니다. 양해 부탁드립니다. 감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SOLPLPARTY",
+					"name": "솔플파티",
+					"id": 968706450779463700,
+					"id_str": "968706450779463682",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560510658738720800,
+		"in_reply_to_status_id_str": "1560510658738720768",
+		"in_reply_to_user_id": 968706450779463700,
+		"in_reply_to_user_id_str": "968706450779463682",
+		"in_reply_to_screen_name": "SOLPLPARTY",
+		"user": {
+			"id": 116748623,
+			"id_str": "116748623",
+			"name": "PRIVATE CURVE",
+			"screen_name": "privatecurve",
+			"location": "seoul, korea",
+			"description": "Seoul Jazz Festival (SJF) / Slow Life Slow Live (SLSL) / Beautiful Singer-Songwriter Series / Live if Life!",
+			"url": "https://t.co/yB7ksUxT9U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yB7ksUxT9U",
+							"expanded_url": "http://www.privatecurve.com",
+							"display_url": "privatecurve.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 27,
+			"listed_count": 83,
+			"created_at": "Tue Feb 23 13:14:51 +0000 2010",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E011C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116748623/1658495785",
+			"profile_link_color": "180133",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0E2F5",
+			"profile_text_color": "0D031F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@SOLPLPARTY 예매처에 확인한 결과, 예매처의 오류로 확인되어 빠른 시일 내에 개별 연락주실 예정이라고 합니다. 양해 부탁드립니다. 감사합니다."
+	},
+	{
 		"created_at": "Fri Aug 19 10:11:38 +0000 2022",
 		"id": 1560556533410578400,
 		"id_str": "1560570175459581953",
