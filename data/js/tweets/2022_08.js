@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 14:29:25 +0000 2022",
+		"id": 1560623873434853400,
+		"id_str": "1560635047123746816",
+		"full_text": "[#윤종신 #하림 #Billlie] JTBC '히든싱어7' 완료✔️\n\nJTBC '히든싱어7'에서 만난🎤\n윤종신, 하림, Billlie 하람, 션, 츠키🥰\n미스틱家 (feat. 하림&amp;하람)와 함께해 더욱 즐거웠던 금요일 밤🌕\n\n#YoonJongshin #Hareem #빌리 #JTBC #히든싱어 https://t.co/ATlNupLp3K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "하림",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "Billlie",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "Hareem",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "히든싱어",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560623225687593000,
+					"id_str": "1560623225687592960",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FahyjiNVUAAtP1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FahyjiNVUAAtP1k.jpg",
+					"url": "https://t.co/ATlNupLp3K",
+					"display_url": "pic.twitter.com/ATlNupLp3K",
+					"expanded_url": "https://twitter.com/themysticstory/status/1560623873434853376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1279,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560623225687593000,
+					"id_str": "1560623225687592960",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FahyjiNVUAAtP1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FahyjiNVUAAtP1k.jpg",
+					"url": "https://t.co/ATlNupLp3K",
+					"display_url": "pic.twitter.com/ATlNupLp3K",
+					"expanded_url": "https://twitter.com/themysticstory/status/1560623873434853376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1279,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37156,
+			"friends_count": 14,
+			"listed_count": 303,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1660618992",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 1581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신 #하림 #Billlie] JTBC '히든싱어7' 완료✔️\n\nJTBC '히든싱어7'에서 만난🎤\n윤종신, 하림, Billlie 하람, 션, 츠키🥰\n미스틱家 (feat. 하림&amp;하람)와 함께해 더욱 즐거웠던 금요일 밤🌕\n\n#YoonJongshin #Hareem #빌리 #JTBC #히든싱어 https://t.co/ATlNupLp3K"
+	},
+	{
 		"created_at": "Fri Aug 19 14:11:17 +0000 2022",
 		"id": 1560585621864714200,
 		"id_str": "1560630484278939648",
