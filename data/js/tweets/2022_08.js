@@ -1,6 +1,1530 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 10:11:38 +0000 2022",
+		"id": 1560556533410578400,
+		"id_str": "1560570175459581953",
+		"full_text": "- 전석 스탠딩 공연입니다. 입장은 공연장에 들어오시는 선착순으로 진행됩니다.\n\n#프리즘홀 #prismhall #키라라 #그냥하는단독공연 #해파리\n\nstqpkiraradj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "키라라",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "그냥하는단독공연",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "해파리",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560556531317633000,
+		"in_reply_to_status_id_str": "1560556531317633026",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 1108,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 전석 스탠딩 공연입니다. 입장은 공연장에 들어오시는 선착순으로 진행됩니다.\n\n#프리즘홀 #prismhall #키라라 #그냥하는단독공연 #해파리\n\nstqpkiraradj"
+	},
+	{
+		"created_at": "Fri Aug 19 10:11:31 +0000 2022",
+		"id": 1560556531317633000,
+		"id_str": "1560570145629769731",
+		"full_text": "👇예매 바로가기👇\nhttps://t.co/LTWYUDUgje\n\n- 종이로 인쇄된 본인의 F64.0 진단서와 신분증을 가져오실 수 있는 분들께 공연비를 받지 않습니다. 해당되시는 분은 까미뮤직으로 연락주시면 감사드리겠습니다. (02-322-9496)\n- 휠체어 입장 가능합니다. 까미뮤직으로 문의 주세요. (02-322-9496)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LTWYUDUgje",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=207225",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560556527744073700,
+		"in_reply_to_status_id_str": "1560556527744073729",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 1108,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👇예매 바로가기👇\nhttps://t.co/LTWYUDUgje\n\n- 종이로 인쇄된 본인의 F64.0 진단서와 신분증을 가져오실 수 있는 분들께 공연비를 받지 않습니다. 해당되시는 분은 까미뮤직으로 연락주시면 감사드리겠습니다. (02-322-9496)\n- 휠체어 입장 가능합니다. 까미뮤직으로 문의 주세요. (02-322-9496)"
+	},
+	{
+		"created_at": "Fri Aug 19 10:11:26 +0000 2022",
+		"id": 1560556527744073700,
+		"id_str": "1560570124217843713",
+		"full_text": "🙌티켓 오픈🙌\n[키라라 : 그냥하는 단독공연 시즌2-4]\n\n이번에는 키라라와 함께하는 @haepaary \n\n- 타이틀 : 키라라 : 그냥하는 단독공연 시즌2-4\n- 일시 : 2022년 9월 2일 금요일 오후 8시 (입장 : 7시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979 https://t.co/q037Uwi9wi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haepaary",
+					"name": "HAEPAARY 해파리 ヘパリ",
+					"id": 1237531471998374000,
+					"id_str": "1237531471998373888",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560556508722897000,
+					"id_str": "1560556508722896896",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fag14GJaIAA0_94.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fag14GJaIAA0_94.jpg",
+					"url": "https://t.co/q037Uwi9wi",
+					"display_url": "pic.twitter.com/q037Uwi9wi",
+					"expanded_url": "https://twitter.com/prismhall/status/1560556527744073729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1216,
+							"h": 1216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560556508722897000,
+					"id_str": "1560556508722896896",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fag14GJaIAA0_94.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fag14GJaIAA0_94.jpg",
+					"url": "https://t.co/q037Uwi9wi",
+					"display_url": "pic.twitter.com/q037Uwi9wi",
+					"expanded_url": "https://twitter.com/prismhall/status/1560556527744073729/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1216,
+							"h": 1216,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fag14GJaIAA0_94.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 1108,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙌티켓 오픈🙌\n[키라라 : 그냥하는 단독공연 시즌2-4]\n\n이번에는 키라라와 함께하는 @haepaary \n\n- 타이틀 : 키라라 : 그냥하는 단독공연 시즌2-4\n- 일시 : 2022년 9월 2일 금요일 오후 8시 (입장 : 7시30분)\n- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979 https://t.co/q037Uwi9wi"
+	},
+	{
+		"created_at": "Fri Aug 19 10:11:17 +0000 2022",
+		"id": 1560555553146884000,
+		"id_str": "1560570085974081536",
+		"full_text": "클럽FF 이번주 금토일 공연 일정\n\n8/19 금 9pm : 보이후드,무릉도원,티치\n8/20 토 6:30pm - 위닝샷 앨버 발매기념 쇼 with 스모킹구스,원톤,몽키갱어,데드챈트\n8/21 일  7:30pm  - 다양성, 오아! https://t.co/7iYyOqH6v5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560555546536599600,
+					"id_str": "1560555546536599558",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fag1AFuUYAYGRkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fag1AFuUYAYGRkA.jpg",
+					"url": "https://t.co/7iYyOqH6v5",
+					"display_url": "pic.twitter.com/7iYyOqH6v5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1560555553146884096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560555546536599600,
+					"id_str": "1560555546536599558",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fag1AFuUYAYGRkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fag1AFuUYAYGRkA.jpg",
+					"url": "https://t.co/7iYyOqH6v5",
+					"display_url": "pic.twitter.com/7iYyOqH6v5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1560555553146884096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560555546498871300,
+					"id_str": "1560555546498871299",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fag1AFlUsAMLYay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fag1AFlUsAMLYay.jpg",
+					"url": "https://t.co/7iYyOqH6v5",
+					"display_url": "pic.twitter.com/7iYyOqH6v5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1560555553146884096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1090,
+							"h": 1090,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1090,
+							"h": 1090,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560555546528297000,
+					"id_str": "1560555546528296962",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fag1AFsVsAIZyG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fag1AFsVsAIZyG8.jpg",
+					"url": "https://t.co/7iYyOqH6v5",
+					"display_url": "pic.twitter.com/7iYyOqH6v5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1560555553146884096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6115,
+			"friends_count": 8,
+			"listed_count": 76,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클럽FF 이번주 금토일 공연 일정\n\n8/19 금 9pm : 보이후드,무릉도원,티치\n8/20 토 6:30pm - 위닝샷 앨버 발매기념 쇼 with 스모킹구스,원톤,몽키갱어,데드챈트\n8/21 일  7:30pm  - 다양성, 오아! https://t.co/7iYyOqH6v5"
+	},
+	{
+		"created_at": "Fri Aug 19 10:04:37 +0000 2022",
+		"id": 1560568409368121300,
+		"id_str": "1560568409368121345",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n시스타 프로드 (Sista Prod) - Eyes Blue Like The Atlantic Pt. 2 가사 번역 뮤직비디오\nhttps://t.co/xiXPKYK6cZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xiXPKYK6cZ",
+					"expanded_url": "https://youtu.be/ogVgO_9xhHw",
+					"display_url": "youtu.be/ogVgO_9xhHw",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 460,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n시스타 프로드 (Sista Prod) - Eyes Blue Like The Atlantic Pt. 2 가사 번역 뮤직비디오\nhttps://t.co/xiXPKYK6cZ"
+	},
+	{
+		"created_at": "Fri Aug 19 09:58:15 +0000 2022",
+		"id": 1560552214065983500,
+		"id_str": "1560566805709611008",
+		"full_text": "🎥 렛츠락 VIDEO\n\n렛츠락? 즐겨줄게 💃🕺\n나? 우리? 모두? 신날게\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대 https://t.co/8KfBDV61tQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560548617546776600,
+					"id_str": "1560548617546776577",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560548617546776577/pu/img/X7dqozXN0jzNQTfv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560548617546776577/pu/img/X7dqozXN0jzNQTfv.jpg",
+					"url": "https://t.co/8KfBDV61tQ",
+					"display_url": "pic.twitter.com/8KfBDV61tQ",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1560552214065983488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560548617546776600,
+					"id_str": "1560548617546776577",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560548617546776577/pu/img/X7dqozXN0jzNQTfv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560548617546776577/pu/img/X7dqozXN0jzNQTfv.jpg",
+					"url": "https://t.co/8KfBDV61tQ",
+					"display_url": "pic.twitter.com/8KfBDV61tQ",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1560552214065983488/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15056,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1560548617546776577/pu/pl/UKflYiFTkfut5WNl.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560548617546776577/pu/vid/720x720/xe_pRKzGhzeCOVPq.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560548617546776577/pu/vid/320x320/--45AuiWaKpGIrud.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560548617546776577/pu/vid/540x540/-3dGKz60XXCqd-X5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022 렛츠락페스티벌\n2022.09.24(토) - 2022.09.25(일)\n👇🏻공식티켓🔗\nhttps://t.co/Cyw63A1h8T",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cyw63A1h8T",
+							"expanded_url": "https://tickets.interpark.com/goods/22009774",
+							"display_url": "tickets.interpark.com/goods/22009774",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3989,
+			"friends_count": 138,
+			"listed_count": 47,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎥 렛츠락 VIDEO\n\n렛츠락? 즐겨줄게 💃🕺\n나? 우리? 모두? 신날게\n\n-\n2022 Let's Rock Festival\n2022. 09. 24(토) - 09. 25(일)\n난지한강공원 일대 https://t.co/8KfBDV61tQ"
+	},
+	{
+		"created_at": "Fri Aug 19 09:29:31 +0000 2022",
+		"id": 1560553406023864300,
+		"id_str": "1560559577241878528",
+		"full_text": "💿NEW MUSIC TODAY💿\n“원호 (WONHO) – Don’t hesitate”를 지금 바로 음원 사이트에서 만나보세요!\n\n#warnermusic #warnerkpop #KPOP #원호 #WONHO #Dont_hesitate #유니버스 #UNIVERSE #UNIVERSE_MUSIC @official__wonho @Highline_Ent @into__universe https://t.co/APTru8LkUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "원호",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "WONHO",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "Dont_hesitate",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "유니버스",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "UNIVERSE",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "UNIVERSE_MUSIC",
+					"indices": [
+						145,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official__wonho",
+					"name": "WONHO Official",
+					"id": 1248425351782355000,
+					"id_str": "1248425351782354948",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"screen_name": "Highline_Ent",
+					"name": "HIGHLINE ENTERTAINMENT",
+					"id": 946215616582524900,
+					"id_str": "946215616582524928",
+					"indices": [
+						178,
+						191
+					]
+				},
+				{
+					"screen_name": "into__universe",
+					"name": "UNIVERSE_OFFICIAL",
+					"id": 1301330441786462200,
+					"id_str": "1301330441786462209",
+					"indices": [
+						192,
+						207
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560551987392852000,
+					"id_str": "1560551987392851970",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560551987392851970/pu/img/OIC29lhI3FsmW8sv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560551987392851970/pu/img/OIC29lhI3FsmW8sv.jpg",
+					"url": "https://t.co/APTru8LkUw",
+					"display_url": "pic.twitter.com/APTru8LkUw",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1560553406023864320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560551987392852000,
+					"id_str": "1560551987392851970",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560551987392851970/pu/img/OIC29lhI3FsmW8sv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560551987392851970/pu/img/OIC29lhI3FsmW8sv.jpg",
+					"url": "https://t.co/APTru8LkUw",
+					"display_url": "pic.twitter.com/APTru8LkUw",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1560553406023864320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 19886,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560551987392851970/pu/vid/720x900/_hgWGeqJ2QvGaw9E.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560551987392851970/pu/vid/320x400/d-XuO9CF8ix-oLrE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1560551987392851970/pu/pl/ONyEuxWIRxbkEFjC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560551987392851970/pu/vid/480x600/DWmdE9JrM7UkU7kR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89534,
+			"friends_count": 493,
+			"listed_count": 219,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“원호 (WONHO) – Don’t hesitate”를 지금 바로 음원 사이트에서 만나보세요!\n\n#warnermusic #warnerkpop #KPOP #원호 #WONHO #Dont_hesitate #유니버스 #UNIVERSE #UNIVERSE_MUSIC @official__wonho @Highline_Ent @into__universe https://t.co/APTru8LkUw"
+	},
+	{
+		"created_at": "Fri Aug 19 09:29:28 +0000 2022",
+		"id": 1560549888873857000,
+		"id_str": "1560559564201893888",
+		"full_text": "현재 서울, 부산, 속초 공연 매진되었습니다. 다른 책방 공연은 예매 가능합니다. 취소표가 나오면 댓글로 공지하겠습니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1559089750132531200,
+		"in_reply_to_status_id_str": "1559089750132531200",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3305,
+			"friends_count": 1286,
+			"listed_count": 105,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "현재 서울, 부산, 속초 공연 매진되었습니다. 다른 책방 공연은 예매 가능합니다. 취소표가 나오면 댓글로 공지하겠습니다!"
+	},
+	{
 		"created_at": "Fri Aug 19 09:14:36 +0000 2022",
 		"id": 1560555823679414300,
 		"id_str": "1560555823679414272",
