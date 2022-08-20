@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 20 09:29:25 +0000 2022",
+		"id": 1560914543538081800,
+		"id_str": "1560921939396464642",
+		"full_text": "로켓펀치(ROCKET PUNCH) 2nd Single Album [FLASH] | Dress up day\n\n2022.08.29 6PM RELEASE\n\n#RocketPunch #로켓펀치\n#2ND_SINGLE #FLASH\n#20220829_6PM #COMEBACK\n#Dressupday #SCHEDULE\n#연희 #쥬리 #수윤 #윤경 #소희 #다현\n#YeonHee #JuRi #SuYun #YunKyoung #SoHee #DaHyun https://t.co/srQCCbwkqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RocketPunch",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "2ND_SINGLE",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"text": "FLASH",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "20220829_6PM",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "COMEBACK",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "Dressupday",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"text": "SCHEDULE",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "연희",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "쥬리",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "수윤",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "윤경",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "소희",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "다현",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "YeonHee",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "JuRi",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "SuYun",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "YunKyoung",
+					"indices": [
+						214,
+						224
+					]
+				},
+				{
+					"text": "SoHee",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "DaHyun",
+					"indices": [
+						232,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560895966454386700,
+					"id_str": "1560895966454386688",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FalqnIvakAAlBSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FalqnIvakAAlBSZ.jpg",
+					"url": "https://t.co/srQCCbwkqc",
+					"display_url": "pic.twitter.com/srQCCbwkqc",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1560914543538081792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1537,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560895966454386700,
+					"id_str": "1560895966454386688",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FalqnIvakAAlBSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FalqnIvakAAlBSZ.jpg",
+					"url": "https://t.co/srQCCbwkqc",
+					"display_url": "pic.twitter.com/srQCCbwkqc",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1560914543538081792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1537,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTvhbnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTvhbnM",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420978,
+			"friends_count": 13,
+			"listed_count": 1877,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478924690630799360/smQ-RXv0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1659258367",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 357,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "로켓펀치(ROCKET PUNCH) 2nd Single Album [FLASH] | Dress up day\n\n2022.08.29 6PM RELEASE\n\n#RocketPunch #로켓펀치\n#2ND_SINGLE #FLASH\n#20220829_6PM #COMEBACK\n#Dressupday #SCHEDULE\n#연희 #쥬리 #수윤 #윤경 #소희 #다현\n#YeonHee #JuRi #SuYun #YunKyoung #SoHee #DaHyun https://t.co/srQCCbwkqc"
+	},
+	{
 		"created_at": "Sat Aug 20 09:14:59 +0000 2022",
 		"id": 1560918308727115800,
 		"id_str": "1560918308727115777",
