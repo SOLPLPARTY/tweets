@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 20 07:29:25 +0000 2022",
+		"id": 1560889901201076200,
+		"id_str": "1560891739791056896",
+		"full_text": "#SMTOWNLIVE2022 수원 콘서트 오늘 오후 6시 개최! 5년 만의 국내 오프라인 콘서트로 수원 월드컵경기장 뜨겁게 달군다!\n\n#SMTOWNLIVE2022_SUWON concert, the first offline concert in Korea in 5 years, is today at 6PM (KST) at the Suwon World Cup Stadium! \n\n#SMTOWN #SMTOWNLIVE https://t.co/4gTSCWhmpq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWNLIVE2022",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_SUWON",
+					"indices": [
+						75,
+						96
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						209,
+						216
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						217,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560889894943133700,
+					"id_str": "1560889894943133698",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FallFumVEAI2R9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FallFumVEAI2R9T.jpg",
+					"url": "https://t.co/4gTSCWhmpq",
+					"display_url": "pic.twitter.com/4gTSCWhmpq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560889901201076224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560889894943133700,
+					"id_str": "1560889894943133698",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FallFumVEAI2R9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FallFumVEAI2R9T.jpg",
+					"url": "https://t.co/4gTSCWhmpq",
+					"display_url": "pic.twitter.com/4gTSCWhmpq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560889901201076224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11095639,
+			"friends_count": 55,
+			"listed_count": 12521,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1640,
+		"favorite_count": 4758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWNLIVE2022 수원 콘서트 오늘 오후 6시 개최! 5년 만의 국내 오프라인 콘서트로 수원 월드컵경기장 뜨겁게 달군다!\n\n#SMTOWNLIVE2022_SUWON concert, the first offline concert in Korea in 5 years, is today at 6PM (KST) at the Suwon World Cup Stadium! \n\n#SMTOWN #SMTOWNLIVE https://t.co/4gTSCWhmpq"
+	},
+	{
 		"created_at": "Sat Aug 20 05:58:15 +0000 2022",
 		"id": 1560854195850207200,
 		"id_str": "1560868795811602432",
