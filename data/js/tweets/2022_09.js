@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 13:58:15 +0000 2022",
+		"id": 1565330469410857000,
+		"id_str": "1565338248666263554",
+		"full_text": "💗 2022 ZANDARI FESTA OFFICIAL MD 💗\n에딩거(@erdinger_kr) X 스펙트럼(@spextrum_global)\n\n☑️ 잔다리X에딩거패키지 : 전 MD상품 55,000원 + 1 FREE DRINK\n\n📌 제한된 수량으로 선착순 마감될 수 있습니다.\n📌 현장구매(카드결제 및 계좌이체)만 가능합니다.\n\n#잔다리페스타\n22.9.2(Fri)-9.4(Sun) https://t.co/w9hVSaN7Ug",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잔다리페스타",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erdinger_kr",
+					"name": "erdingerkr",
+					"id": 953206918738206700,
+					"id_str": "953206918738206720",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565329943126372400,
+					"id_str": "1565329943126372352",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkrSjBUcAAFQgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkrSjBUcAAFQgq.jpg",
+					"url": "https://t.co/w9hVSaN7Ug",
+					"display_url": "pic.twitter.com/w9hVSaN7Ug",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565330469410856962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565329943126372400,
+					"id_str": "1565329943126372352",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkrSjBUcAAFQgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkrSjBUcAAFQgq.jpg",
+					"url": "https://t.co/w9hVSaN7Ug",
+					"display_url": "pic.twitter.com/w9hVSaN7Ug",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565330469410856962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565329943122153500,
+					"id_str": "1565329943122153473",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkrSjAUEAE3N1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkrSjAUEAE3N1Y.jpg",
+					"url": "https://t.co/w9hVSaN7Ug",
+					"display_url": "pic.twitter.com/w9hVSaN7Ug",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565330469410856962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1332,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565329943126429700,
+					"id_str": "1565329943126429697",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkrSjBVUAEwYIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkrSjBVUAEwYIJ.jpg",
+					"url": "https://t.co/w9hVSaN7Ug",
+					"display_url": "pic.twitter.com/w9hVSaN7Ug",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565330469410856962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565329943134814200,
+					"id_str": "1565329943134814210",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkrSjDVQAIyreW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkrSjDVQAIyreW.jpg",
+					"url": "https://t.co/w9hVSaN7Ug",
+					"display_url": "pic.twitter.com/w9hVSaN7Ug",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565330469410856962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & Conferences 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta\nmore details 👉 https://t.co/3L3RWYTVUZ",
+			"url": "https://t.co/WpBoMBia2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpBoMBia2Z",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3L3RWYTVUZ",
+							"expanded_url": "http://linktr.ee/zandarifesta",
+							"display_url": "linktr.ee/zandarifesta",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 1698,
+			"listed_count": 42,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1659440141",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗 2022 ZANDARI FESTA OFFICIAL MD 💗\n에딩거(@erdinger_kr) X 스펙트럼(@spextrum_global)\n\n☑️ 잔다리X에딩거패키지 : 전 MD상품 55,000원 + 1 FREE DRINK\n\n📌 제한된 수량으로 선착순 마감될 수 있습니다.\n📌 현장구매(카드결제 및 계좌이체)만 가능합니다.\n\n#잔다리페스타\n22.9.2(Fri)-9.4(Sun) https://t.co/w9hVSaN7Ug"
+	},
+	{
 		"created_at": "Thu Sep 01 11:11:17 +0000 2022",
 		"id": 1565293398650769400,
 		"id_str": "1565296227998208001",
