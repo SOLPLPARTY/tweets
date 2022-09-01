@@ -1,6 +1,866 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 11:11:17 +0000 2022",
+		"id": 1565293398650769400,
+		"id_str": "1565296227998208001",
+		"full_text": "📢 9/2 공연 현장 안내\n⠀\n&lt;솔루션스＆라쿠나：Talks On Music＃12&gt;\n· 티켓수령 : 6시 30분 (현장구매 가능)\n· 입장 : 7시 20분 \n· 공연시작 : 8시\n· 출연 : 솔루션스, 라쿠나\n⠀\n#솔루션스 #TheSolutions #라쿠나 #Lacuna\n#Talks_On_Music #토크온뮤직\n#롤링홀 #ROLLINGHALL\n#공연 #인디 #멜론티켓 https://t.co/MtCmRbPGg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔루션스",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "TheSolutions",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "라쿠나",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "Lacuna",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "Talks_On_Music",
+					"indices": [
+						157,
+						172
+					]
+				},
+				{
+					"text": "토크온뮤직",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						206,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565273952276353000,
+					"id_str": "1565273952276353025",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbj4Xc2akAEftbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbj4Xc2akAEftbs.jpg",
+					"url": "https://t.co/MtCmRbPGg1",
+					"display_url": "pic.twitter.com/MtCmRbPGg1",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1565293398650769408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565273952276353000,
+					"id_str": "1565273952276353025",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbj4Xc2akAEftbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbj4Xc2akAEftbs.jpg",
+					"url": "https://t.co/MtCmRbPGg1",
+					"display_url": "pic.twitter.com/MtCmRbPGg1",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1565293398650769408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565273952280547300,
+					"id_str": "1565273952280547328",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbj4Xc3akAAgMqz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbj4Xc3akAAgMqz.jpg",
+					"url": "https://t.co/MtCmRbPGg1",
+					"display_url": "pic.twitter.com/MtCmRbPGg1",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1565293398650769408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 9/2 공연 현장 안내\n⠀\n&lt;솔루션스＆라쿠나：Talks On Music＃12&gt;\n· 티켓수령 : 6시 30분 (현장구매 가능)\n· 입장 : 7시 20분 \n· 공연시작 : 8시\n· 출연 : 솔루션스, 라쿠나\n⠀\n#솔루션스 #TheSolutions #라쿠나 #Lacuna\n#Talks_On_Music #토크온뮤직\n#롤링홀 #ROLLINGHALL\n#공연 #인디 #멜론티켓 https://t.co/MtCmRbPGg1"
+	},
+	{
+		"created_at": "Thu Sep 01 10:29:45 +0000 2022",
+		"id": 1565285025129853000,
+		"id_str": "1565285774999920640",
+		"full_text": "너드커넥션이 2022 목포뮤직플레이 전국 경연대회의 결승 축하 무대에 오릅니다! 목포에서 펼쳐질 너드커넥션의 열정적인 무대를 기대해주세요! \n\n✔️10월 1일 토요일\n✔️목포 갓바위문화타운 일원\n\n*자세한 내용은 네이버 검색창에 '목포뮤직플레이'를 검색해 주세요.\n\n#너드커넥션 #2022목포뮤직플레이 https://t.co/qXYFvoGuic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "2022목포뮤직플레이",
+					"indices": [
+						156,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565285020612595700,
+					"id_str": "1565285020612595713",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkCbtnakAExvfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkCbtnakAExvfN.jpg",
+					"url": "https://t.co/qXYFvoGuic",
+					"display_url": "pic.twitter.com/qXYFvoGuic",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1565285025129852928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565285020612595700,
+					"id_str": "1565285020612595713",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkCbtnakAExvfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkCbtnakAExvfN.jpg",
+					"url": "https://t.co/qXYFvoGuic",
+					"display_url": "pic.twitter.com/qXYFvoGuic",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1565285025129852928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2283,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너드커넥션이 2022 목포뮤직플레이 전국 경연대회의 결승 축하 무대에 오릅니다! 목포에서 펼쳐질 너드커넥션의 열정적인 무대를 기대해주세요! \n\n✔️10월 1일 토요일\n✔️목포 갓바위문화타운 일원\n\n*자세한 내용은 네이버 검색창에 '목포뮤직플레이'를 검색해 주세요.\n\n#너드커넥션 #2022목포뮤직플레이 https://t.co/qXYFvoGuic"
+	},
+	{
+		"created_at": "Thu Sep 01 10:29:40 +0000 2022",
+		"id": 1565282064856821800,
+		"id_str": "1565285757660569601",
+		"full_text": "[#손태진] '노들 노을 페스타' 생중계 안내✔️\n\n화창한 9월의 첫 날, 손태진을 만나고 싶다면?\n▶️ https://t.co/y7sZLIATYB\n\n잠시 후 7시 30분\n'노들 노을 페스타' 생중계에서 함께해요!\n\n#SONTAEJIN #TJSON #노들노을페스타",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "노들노을페스타",
+					"indices": [
+						139,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y7sZLIATYB",
+					"expanded_url": "https://youtu.be/2bs_OVGH2lo",
+					"display_url": "youtu.be/2bs_OVGH2lo",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37304,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] '노들 노을 페스타' 생중계 안내✔️\n\n화창한 9월의 첫 날, 손태진을 만나고 싶다면?\n▶️ https://t.co/y7sZLIATYB\n\n잠시 후 7시 30분\n'노들 노을 페스타' 생중계에서 함께해요!\n\n#SONTAEJIN #TJSON #노들노을페스타"
+	},
+	{
+		"created_at": "Thu Sep 01 10:29:34 +0000 2022",
+		"id": 1565280047056896000,
+		"id_str": "1565285731966357505",
+		"full_text": "[나히]\n📌 D-1\n\n나히 ‘불면송’\nNahee \"I can't sleep\"\n\n2022.09.02 12PM (KST)\n\n#나히 #불면송 #music #indie https://t.co/vBwaevWtEK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나히",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "불면송",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "indie",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565279937925263400,
+					"id_str": "1565279937925263360",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1565279937925263360/pu/img/4ZKmJUjrgxRxaTTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1565279937925263360/pu/img/4ZKmJUjrgxRxaTTi.jpg",
+					"url": "https://t.co/vBwaevWtEK",
+					"display_url": "pic.twitter.com/vBwaevWtEK",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1565280047056896002/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565279937925263400,
+					"id_str": "1565279937925263360",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1565279937925263360/pu/img/4ZKmJUjrgxRxaTTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1565279937925263360/pu/img/4ZKmJUjrgxRxaTTi.jpg",
+					"url": "https://t.co/vBwaevWtEK",
+					"display_url": "pic.twitter.com/vBwaevWtEK",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1565280047056896002/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48089,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565279937925263360/pu/vid/1280x720/gx4Y3hNaa-A9OD61.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565279937925263360/pu/vid/480x270/QEZYxx9cnxLNUXcf.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565279937925263360/pu/vid/640x360/pvtYVbAhjVol04Vc.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1565279937925263360/pu/pl/UM8WqBKJ_s_u-kGe.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 943,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[나히]\n📌 D-1\n\n나히 ‘불면송’\nNahee \"I can't sleep\"\n\n2022.09.02 12PM (KST)\n\n#나히 #불면송 #music #indie https://t.co/vBwaevWtEK"
+	},
+	{
 		"created_at": "Thu Sep 01 10:11:39 +0000 2022",
 		"id": 1565281222300819500,
 		"id_str": "1565281222300819456",
