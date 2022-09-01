@@ -1,6 +1,984 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 03:11:17 +0000 2022",
+		"id": 1565172594826850300,
+		"id_str": "1565175433460649985",
+		"full_text": "&lt;백지웅 단독 콘서트 : 백그림&gt; 취소 안내\n\n2022년 09월 25일 (일)  롤링홀에서 진행될 예정이었던 &lt;백지웅 단독 콘서트 : 백그림&gt; 공연이 아티스트측 사정으로 취소되었음을 안내드립니다.\n\n자세한 내용은 이미지 참고 부탁드립니다. https://t.co/eag6AUP9Zs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1564896800188035000,
+					"id_str": "1564896800188035072",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FbehWT1acAAzfAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbehWT1acAAzfAf.jpg",
+					"url": "https://t.co/eag6AUP9Zs",
+					"display_url": "pic.twitter.com/eag6AUP9Zs",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1565172594826850304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564896800188035000,
+					"id_str": "1564896800188035072",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FbehWT1acAAzfAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbehWT1acAAzfAf.jpg",
+					"url": "https://t.co/eag6AUP9Zs",
+					"display_url": "pic.twitter.com/eag6AUP9Zs",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1565172594826850304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;백지웅 단독 콘서트 : 백그림&gt; 취소 안내\n\n2022년 09월 25일 (일)  롤링홀에서 진행될 예정이었던 &lt;백지웅 단독 콘서트 : 백그림&gt; 공연이 아티스트측 사정으로 취소되었음을 안내드립니다.\n\n자세한 내용은 이미지 참고 부탁드립니다. https://t.co/eag6AUP9Zs"
+	},
+	{
+		"created_at": "Thu Sep 01 02:58:28 +0000 2022",
+		"id": 1565158366178988000,
+		"id_str": "1565172206665179136",
+		"full_text": "#렛츠락페스티벌 #2022렛츠락페스티벌\n#Letsrockfestival #2022letsrockfestival\n#패밀리오브락 #스쿨오브락\n#공연할인 #가족할인 #학생할인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "렛츠락페스티벌",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "2022렛츠락페스티벌",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "Letsrockfestival",
+					"indices": [
+						22,
+						39
+					]
+				},
+				{
+					"text": "2022letsrockfestival",
+					"indices": [
+						40,
+						61
+					]
+				},
+				{
+					"text": "패밀리오브락",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "스쿨오브락",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "공연할인",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "가족할인",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "학생할인",
+					"indices": [
+						89,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565158070392541200,
+		"in_reply_to_status_id_str": "1565158070392541184",
+		"in_reply_to_user_id": 158300000,
+		"in_reply_to_user_id_str": "158300000",
+		"in_reply_to_screen_name": "letsrockfe",
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매 및 이벤트 참여🔗\nhttps://t.co/11CqLzCPD7",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzCPD7",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3929,
+			"friends_count": 138,
+			"listed_count": 46,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#렛츠락페스티벌 #2022렛츠락페스티벌\n#Letsrockfestival #2022letsrockfestival\n#패밀리오브락 #스쿨오브락\n#공연할인 #가족할인 #학생할인"
+	},
+	{
+		"created_at": "Thu Sep 01 02:58:20 +0000 2022",
+		"id": 1565158070392541200,
+		"id_str": "1565172172271878146",
+		"full_text": "[스쿨 오브 락 &amp; 패밀리 오브 락 티켓 안내]\n\n가족, 친구들과 렛츠락을 즐길 수 있는 할인 찬스! 🔥\n어느 누구와 와도 즐거운 렛츠락 함께 해요! 🤘\n\n⚡ 할인 티켓 오픈 : 9/2(금) 오후 12시\n⚡ 예매처 : 네이버 / 티켓링크 (추후 프로필 링크 참고) https://t.co/y6gVXVJtC7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565157404076937200,
+					"id_str": "1565157404076937216",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiOXc-UEAAl4P-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiOXc-UEAAl4P-.jpg",
+					"url": "https://t.co/y6gVXVJtC7",
+					"display_url": "pic.twitter.com/y6gVXVJtC7",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1565158070392541184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565157404076937200,
+					"id_str": "1565157404076937216",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiOXc-UEAAl4P-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiOXc-UEAAl4P-.jpg",
+					"url": "https://t.co/y6gVXVJtC7",
+					"display_url": "pic.twitter.com/y6gVXVJtC7",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1565158070392541184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565157404106313700,
+					"id_str": "1565157404106313728",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiOXdFUUAAqsjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiOXdFUUAAqsjd.jpg",
+					"url": "https://t.co/y6gVXVJtC7",
+					"display_url": "pic.twitter.com/y6gVXVJtC7",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1565158070392541184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565157404118884400,
+					"id_str": "1565157404118884352",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiOXdIUIAABER9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiOXdIUIAABER9.jpg",
+					"url": "https://t.co/y6gVXVJtC7",
+					"display_url": "pic.twitter.com/y6gVXVJtC7",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1565158070392541184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매 및 이벤트 참여🔗\nhttps://t.co/11CqLzCPD7",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzCPD7",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3929,
+			"friends_count": 138,
+			"listed_count": 46,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스쿨 오브 락 &amp; 패밀리 오브 락 티켓 안내]\n\n가족, 친구들과 렛츠락을 즐길 수 있는 할인 찬스! 🔥\n어느 누구와 와도 즐거운 렛츠락 함께 해요! 🤘\n\n⚡ 할인 티켓 오픈 : 9/2(금) 오후 12시\n⚡ 예매처 : 네이버 / 티켓링크 (추후 프로필 링크 참고) https://t.co/y6gVXVJtC7"
+	},
+	{
+		"created_at": "Thu Sep 01 02:58:17 +0000 2022",
+		"id": 1565157495181557800,
+		"id_str": "1565172162817921025",
+		"full_text": "KCON 2022 LA SHOW RECAP 💙AUG 21💚\n\nKCON 2022 LA의 행복했던 순간을 담은 SHOW 하이라이트 영상을 지금 확인해보세요💕\n\n#KCON #KCONUSA #KCON2022LA https://t.co/BoNRDGlHSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BoNRDGlHSU",
+					"expanded_url": "https://twitter.com/kconusa/status/1565127297870356480",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 459863,
+			"friends_count": 76,
+			"listed_count": 1127,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1565127297870356500,
+		"quoted_status_id_str": "1565127297870356480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BoNRDGlHSU",
+			"expanded": "https://twitter.com/kconusa/status/1565127297870356480",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 01 00:00:01 +0000 2022",
+			"id": 1565127297870356500,
+			"id_str": "1565127297870356480",
+			"full_text": "KCON 2022 LA SHOW RECAP 💙AUG 21💚\n\nCheck out the SHOW highlights of the pleasing moments at KCON 2022 LA💕\n\n#KCON #KCONUSA #KCON2022LA https://t.co/uQzV7pmoyS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							106,
+							111
+						]
+					},
+					{
+						"text": "KCONUSA",
+						"indices": [
+							112,
+							120
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							121,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1565050008159658000,
+						"id_str": "1565050008159657985",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565050008159657985/img/KlKN0HQX_Z-c3F0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565050008159657985/img/KlKN0HQX_Z-c3F0H.jpg",
+						"url": "https://t.co/uQzV7pmoyS",
+						"display_url": "pic.twitter.com/uQzV7pmoyS",
+						"expanded_url": "https://twitter.com/kconusa/status/1565127297870356480/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1565050008159658000,
+						"id_str": "1565050008159657985",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565050008159657985/img/KlKN0HQX_Z-c3F0H.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565050008159657985/img/KlKN0HQX_Z-c3F0H.jpg",
+						"url": "https://t.co/uQzV7pmoyS",
+						"display_url": "pic.twitter.com/uQzV7pmoyS",
+						"expanded_url": "https://twitter.com/kconusa/status/1565127297870356480/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 199199,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1565050008159657985/vid/640x360/1IXujq-GY1g3qvVV.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1565050008159657985/vid/1280x720/umbtLm0GmoM1vzBl.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1565050008159657985/vid/480x270/WKelGBizggmt2qFY.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1565050008159657985/pl/yqYJnmXVeHDGM-fG.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 238671,
+				"friends_count": 7,
+				"listed_count": 490,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20830,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 407,
+			"favorite_count": 1232,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA SHOW RECAP 💙AUG 21💚\n\nKCON 2022 LA의 행복했던 순간을 담은 SHOW 하이라이트 영상을 지금 확인해보세요💕\n\n#KCON #KCONUSA #KCON2022LA https://t.co/BoNRDGlHSU"
+	},
+	{
 		"created_at": "Thu Sep 01 02:05:30 +0000 2022",
 		"id": 1565158876814590000,
 		"id_str": "1565158876814589952",
