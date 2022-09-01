@@ -1,6 +1,1053 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 03:58:19 +0000 2022",
+		"id": 1565175164727279600,
+		"id_str": "1565187268888989696",
+		"full_text": "【티켓 안내】\nKCON 2022 JAPAN 오피셜 1차 선행 접수 시작!\n\n🗓접수기간 : 9/1(목) ~ 9/6(화) 23:59까지 (JST)\n🔗https://t.co/cOMSNoRWlb\n\n#KCON #KCONJAPAN #KCON2022JAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOMSNoRWlb",
+					"expanded_url": "http://kconjapan.com/ticket/",
+					"display_url": "kconjapan.com/ticket/",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565175160407146500,
+		"in_reply_to_status_id_str": "1565175160407146496",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 459875,
+			"friends_count": 76,
+			"listed_count": 1127,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【티켓 안내】\nKCON 2022 JAPAN 오피셜 1차 선행 접수 시작!\n\n🗓접수기간 : 9/1(목) ~ 9/6(화) 23:59까지 (JST)\n🔗https://t.co/cOMSNoRWlb\n\n#KCON #KCONJAPAN #KCON2022JAPAN"
+	},
+	{
+		"created_at": "Thu Sep 01 03:58:15 +0000 2022",
+		"id": 1565175160407146500,
+		"id_str": "1565187251491016706",
+		"full_text": "【Ticket Info】\nKCON 2022 JAPAN 1st Offical Pre-sale START!\n\n🗓Application Period : 9/1(THU) ~ 9/6(TUE) until 23:59 (JST)\n🔗https://t.co/cOMSNoRWlb\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/xCThzvqEN4 https://t.co/Rz6UiwmChB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "KCONJAPAN",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "KCON2022JAPAN",
+					"indices": [
+						162,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOMSNoRWlb",
+					"expanded_url": "http://kconjapan.com/ticket/",
+					"display_url": "kconjapan.com/ticket/",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/xCThzvqEN4",
+					"expanded_url": "https://twitter.com/kconjapan/status/1565172596307640320",
+					"display_url": "twitter.com/kconjapan/stat…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565175027086942200,
+					"id_str": "1565175027086942208",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FbieZPzUYAAYL8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbieZPzUYAAYL8K.jpg",
+					"url": "https://t.co/Rz6UiwmChB",
+					"display_url": "pic.twitter.com/Rz6UiwmChB",
+					"expanded_url": "https://twitter.com/KCON_official/status/1565175160407146496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565175027086942200,
+					"id_str": "1565175027086942208",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FbieZPzUYAAYL8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbieZPzUYAAYL8K.jpg",
+					"url": "https://t.co/Rz6UiwmChB",
+					"display_url": "pic.twitter.com/Rz6UiwmChB",
+					"expanded_url": "https://twitter.com/KCON_official/status/1565175160407146496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 459875,
+			"friends_count": 76,
+			"listed_count": 1127,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1565172596307640300,
+		"quoted_status_id_str": "1565172596307640320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xCThzvqEN4",
+			"expanded": "https://twitter.com/kconjapan/status/1565172596307640320",
+			"display": "twitter.com/kconjapan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 01 03:00:01 +0000 2022",
+			"id": 1565172596307640300,
+			"id_str": "1565172596307640320",
+			"full_text": "【チケット案内】\nKCON 2022 JAPANのオフィシャル1次先行受付スタート！\n\n🗓受付期間 : 9/1(木) ~ 9/6(火) 23:59まで (JST)\n🔗https://t.co/ySpx5nskSr\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/OK8Jm3su6G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							108,
+							113
+						]
+					},
+					{
+						"text": "KCONJAPAN",
+						"indices": [
+							114,
+							124
+						]
+					},
+					{
+						"text": "KCON2022JAPAN",
+						"indices": [
+							125,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ySpx5nskSr",
+						"expanded_url": "http://kconjapan.com/ticket/",
+						"display_url": "kconjapan.com/ticket/",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1564989371303899100,
+						"id_str": "1564989371303899143",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Fbf1iqHUsAc3ru5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fbf1iqHUsAc3ru5.jpg",
+						"url": "https://t.co/OK8Jm3su6G",
+						"display_url": "pic.twitter.com/OK8Jm3su6G",
+						"expanded_url": "https://twitter.com/kconjapan/status/1565172596307640320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1564989371303899100,
+						"id_str": "1564989371303899143",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Fbf1iqHUsAc3ru5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fbf1iqHUsAc3ru5.jpg",
+						"url": "https://t.co/OK8Jm3su6G",
+						"display_url": "pic.twitter.com/OK8Jm3su6G",
+						"expanded_url": "https://twitter.com/kconjapan/status/1565172596307640320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3017029196,
+				"id_str": "3017029196",
+				"name": "KCON Japan",
+				"screen_name": "kconjapan",
+				"location": "",
+				"description": "世界最大級のK-Cultureフェスティバル\n『KCON JAPAN』の公式Twitterです！\n📍10/14（金） ~ 10/16(日）/ 東京・有明アリーナ",
+				"url": "https://t.co/sCRhaGCzOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCRhaGCzOM",
+								"expanded_url": "http://kconjapan.com",
+								"display_url": "kconjapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 238914,
+				"friends_count": 157,
+				"listed_count": 476,
+				"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6691,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554285876041367553/Z3_Jgigb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1661904701",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 850,
+			"favorite_count": 3440,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 47,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【Ticket Info】\nKCON 2022 JAPAN 1st Offical Pre-sale START!\n\n🗓Application Period : 9/1(THU) ~ 9/6(TUE) until 23:59 (JST)\n🔗https://t.co/cOMSNoRWlb\n\n#KCON #KCONJAPAN #KCON2022JAPAN https://t.co/xCThzvqEN4 https://t.co/Rz6UiwmChB"
+	},
+	{
+		"created_at": "Thu Sep 01 03:29:33 +0000 2022",
+		"id": 1565172629606387700,
+		"id_str": "1565180030367547392",
+		"full_text": "[김우주]\n어제 오후 아리랑 티비에서 진행된\n김우주의 [아리랑 티비 2022 LIVE.ON] 은\n라이브온 유튜브에서 재시청 가능합니다!\n\n✨ https://t.co/wnpnevK6vA\n(프로필 링크를 통해 쉽게 이동하실 수 있습니다)\n\n#김우주 #라이브 #아리랑티비라이브온 #라이브온 https://t.co/IvA5uDfiBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "아리랑티비라이브온",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "라이브온",
+					"indices": [
+						153,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wnpnevK6vA",
+					"expanded_url": "https://bit.ly/3D2XMu7",
+					"display_url": "bit.ly/3D2XMu7",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565172531681960000,
+					"id_str": "1565172531681959936",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FbicH_saIAABr7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbicH_saIAABr7o.jpg",
+					"url": "https://t.co/IvA5uDfiBN",
+					"display_url": "pic.twitter.com/IvA5uDfiBN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1565172629606387712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1279,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565172531681960000,
+					"id_str": "1565172531681959936",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FbicH_saIAABr7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbicH_saIAABr7o.jpg",
+					"url": "https://t.co/IvA5uDfiBN",
+					"display_url": "pic.twitter.com/IvA5uDfiBN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1565172629606387712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1279,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 942,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n어제 오후 아리랑 티비에서 진행된\n김우주의 [아리랑 티비 2022 LIVE.ON] 은\n라이브온 유튜브에서 재시청 가능합니다!\n\n✨ https://t.co/wnpnevK6vA\n(프로필 링크를 통해 쉽게 이동하실 수 있습니다)\n\n#김우주 #라이브 #아리랑티비라이브온 #라이브온 https://t.co/IvA5uDfiBN"
+	},
+	{
+		"created_at": "Thu Sep 01 03:29:27 +0000 2022",
+		"id": 1565172601454055400,
+		"id_str": "1565180004731871233",
+		"full_text": "[2022 Kakao Entertainment Friends Global Online Audition in CHINA]\n\n2022年 9月，Kakao Entertainment的中国地区选秀招募中…\n\n📣 报名对象：不限性别、年龄、国籍\n\n📆 报名时间：2022年 09月 01日~ 09月 30日\n\n在Kakao Entertainment选秀官方网站即可报名\n👉https://t.co/Up6OErughS\n\n#选秀 https://t.co/VVUJF3U722",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "选秀",
+					"indices": [
+						216,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Up6OErughS",
+					"expanded_url": "http://audition.kakaoent.com",
+					"display_url": "audition.kakaoent.com",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1564528696958292000,
+					"id_str": "1564528696958291968",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZSj4cakAAutY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZSj4cakAAutY-.jpg",
+					"url": "https://t.co/VVUJF3U722",
+					"display_url": "pic.twitter.com/VVUJF3U722",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1565172601454055425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564528696958292000,
+					"id_str": "1564528696958291968",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZSj4cakAAutY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZSj4cakAAutY-.jpg",
+					"url": "https://t.co/VVUJF3U722",
+					"display_url": "pic.twitter.com/VVUJF3U722",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1565172601454055425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1564528729728360400,
+					"id_str": "1564528729728360448",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZSlyhaIAAklzG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZSlyhaIAAklzG.jpg",
+					"url": "https://t.co/VVUJF3U722",
+					"display_url": "pic.twitter.com/VVUJF3U722",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1565172601454055425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1564528753409405000,
+					"id_str": "1564528753409404928",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZSnKvaMAAhFFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZSnKvaMAAhFFy.jpg",
+					"url": "https://t.co/VVUJF3U722",
+					"display_url": "pic.twitter.com/VVUJF3U722",
+					"expanded_url": "https://twitter.com/KakaoEntFriends/status/1565172601454055425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870208746210734100,
+			"id_str": "870208746210734080",
+			"name": "Kakao Entertainment Friends Audition",
+			"screen_name": "KakaoEntFriends",
+			"location": "",
+			"description": "🎈국내 최대 엔터테인먼트 그룹 #카카오엔터테인먼트 #오디션 페이지 🎈오디션 지원하기 👉https://t.co/aaHK1Enxhk",
+			"url": "https://t.co/aaHK1Enxhk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aaHK1Enxhk",
+							"expanded_url": "http://audition.kakaoent.com",
+							"display_url": "audition.kakaoent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aaHK1Enxhk",
+							"expanded_url": "http://audition.kakaoent.com",
+							"display_url": "audition.kakaoent.com",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3073,
+			"friends_count": 7,
+			"listed_count": 8,
+			"created_at": "Thu Jun 01 09:21:47 +0000 2017",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369119121284104199/UtSJe4HZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870208746210734080/1661585866",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "[2022 Kakao Entertainment Friends Global Online Audition in CHINA]\n\n2022年 9月，Kakao Entertainment的中国地区选秀招募中…\n\n📣 报名对象：不限性别、年龄、国籍\n\n📆 报名时间：2022年 09月 01日~ 09月 30日\n\n在Kakao Entertainment选秀官方网站即可报名\n👉https://t.co/Up6OErughS\n\n#选秀 https://t.co/VVUJF3U722"
+	},
+	{
 		"created_at": "Thu Sep 01 03:11:17 +0000 2022",
 		"id": 1565172594826850300,
 		"id_str": "1565175433460649985",
