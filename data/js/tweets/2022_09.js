@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 15:05:13 +0000 2022",
+		"id": 1565355100876333000,
+		"id_str": "1565355100876333056",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[Live Clip] 박재정 (Parc Jae Jung) - B에게 쓰는 편지 (무인 제주)\nhttps://t.co/Gam1Yh40Dl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gam1Yh40Dl",
+					"expanded_url": "https://youtu.be/-gcSxbWp5KM",
+					"display_url": "youtu.be/-gcSxbWp5KM",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 461,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[Live Clip] 박재정 (Parc Jae Jung) - B에게 쓰는 편지 (무인 제주)\nhttps://t.co/Gam1Yh40Dl"
+	},
+	{
+		"created_at": "Thu Sep 01 14:58:15 +0000 2022",
+		"id": 1565343794286907400,
+		"id_str": "1565353346868838400",
+		"full_text": "💗 2022 ZANDARI FESTA NOTICE💗\n\n하루 앞으로 다가온 2022 잔다리페스타 🤟\n\n예매티켓 교환 및 현장구매는\n9.2.(FRI) ~ 9.4.(SUN) 15:00 ~ 22:00\n'컨벤트' 에서 가능합니다!\n\nLISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS\n\n#잔다리페스타 #ZandariFesta\n22.9.2(Fri)-9.4(Sun) @Hongdae Area https://t.co/KCoJ71Pwng",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잔다리페스타",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "ZandariFesta",
+					"indices": [
+						174,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hongdae",
+					"name": "김현옥 봇",
+					"id": 1328262589,
+					"id_str": "1328262589",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565343741308571600,
+					"id_str": "1565343741308571648",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbk31tQUEAA86XC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbk31tQUEAA86XC.jpg",
+					"url": "https://t.co/KCoJ71Pwng",
+					"display_url": "pic.twitter.com/KCoJ71Pwng",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565343794286907392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565343741308571600,
+					"id_str": "1565343741308571648",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbk31tQUEAA86XC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbk31tQUEAA86XC.jpg",
+					"url": "https://t.co/KCoJ71Pwng",
+					"display_url": "pic.twitter.com/KCoJ71Pwng",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565343794286907392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565343741308575700,
+					"id_str": "1565343741308575746",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbk31tQUIAITuqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbk31tQUIAITuqa.jpg",
+					"url": "https://t.co/KCoJ71Pwng",
+					"display_url": "pic.twitter.com/KCoJ71Pwng",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565343794286907392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565343741304397800,
+					"id_str": "1565343741304397824",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbk31tPUYAACZSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbk31tPUYAACZSU.jpg",
+					"url": "https://t.co/KCoJ71Pwng",
+					"display_url": "pic.twitter.com/KCoJ71Pwng",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565343794286907392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565343741346361300,
+					"id_str": "1565343741346361348",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbk31tZUsAQK-HT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbk31tZUsAQK-HT.jpg",
+					"url": "https://t.co/KCoJ71Pwng",
+					"display_url": "pic.twitter.com/KCoJ71Pwng",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1565343794286907392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & Conferences 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta\nmore details 👉 https://t.co/3L3RWYTVUZ",
+			"url": "https://t.co/WpBoMBia2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WpBoMBia2Z",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3L3RWYTVUZ",
+							"expanded_url": "http://linktr.ee/zandarifesta",
+							"display_url": "linktr.ee/zandarifesta",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 1698,
+			"listed_count": 42,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554425678648713221/QK8amUL3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1659440141",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗 2022 ZANDARI FESTA NOTICE💗\n\n하루 앞으로 다가온 2022 잔다리페스타 🤟\n\n예매티켓 교환 및 현장구매는\n9.2.(FRI) ~ 9.4.(SUN) 15:00 ~ 22:00\n'컨벤트' 에서 가능합니다!\n\nLISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS\n\n#잔다리페스타 #ZandariFesta\n22.9.2(Fri)-9.4(Sun) @Hongdae Area https://t.co/KCoJ71Pwng"
+	},
+	{
+		"created_at": "Thu Sep 01 14:29:27 +0000 2022",
+		"id": 1565338552715489300,
+		"id_str": "1565346099950284803",
+		"full_text": "[#손태진] '노들 노을 페스타' 완료✔️\n\n가을의 초입, 날씨도 좋고\n손태진의 라이브도 좋았던 '노들 노을 페스타'😊\n오늘도 손나잇🌕\n\n#SONTAEJIN #TJSON #노들노을페스타 https://t.co/WwLvk3r482",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SONTAEJIN",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "TJSON",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "노들노을페스타",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565337464289386500,
+					"id_str": "1565337464289386496",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkyIViUYAAHuPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkyIViUYAAHuPk.jpg",
+					"url": "https://t.co/WwLvk3r482",
+					"display_url": "pic.twitter.com/WwLvk3r482",
+					"expanded_url": "https://twitter.com/themysticstory/status/1565338552715489288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565337464289386500,
+					"id_str": "1565337464289386496",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkyIViUYAAHuPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkyIViUYAAHuPk.jpg",
+					"url": "https://t.co/WwLvk3r482",
+					"display_url": "pic.twitter.com/WwLvk3r482",
+					"expanded_url": "https://twitter.com/themysticstory/status/1565338552715489288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/pgQyM4fB27",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pgQyM4fB27",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37303,
+			"friends_count": 14,
+			"listed_count": 304,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1661267008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] '노들 노을 페스타' 완료✔️\n\n가을의 초입, 날씨도 좋고\n손태진의 라이브도 좋았던 '노들 노을 페스타'😊\n오늘도 손나잇🌕\n\n#SONTAEJIN #TJSON #노들노을페스타 https://t.co/WwLvk3r482"
+	},
+	{
 		"created_at": "Thu Sep 01 13:58:15 +0000 2022",
 		"id": 1565330469410857000,
 		"id_str": "1565338248666263554",
