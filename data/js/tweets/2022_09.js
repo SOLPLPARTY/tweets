@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 07:11:17 +0000 2022",
+		"id": 1565229945982312400,
+		"id_str": "1565235829727019008",
+		"full_text": "✔추석 연휴 공간 별 운영시간 안내\n⠀\n9월 9일부터 12일까지, 공간 별 운영시간 공지!\n상상마당 방문 전에 꼭 확인해주세요!\n⠀\n이번 연휴도 상상마당과 함께-👀♥\n⠀ https://t.co/3DdAmLitZd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565226997231456300,
+					"id_str": "1565226997231456256",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbjNqTrVEAASVs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbjNqTrVEAASVs3.jpg",
+					"url": "https://t.co/3DdAmLitZd",
+					"display_url": "pic.twitter.com/3DdAmLitZd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1565229945982312448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565226997231456300,
+					"id_str": "1565226997231456256",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbjNqTrVEAASVs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbjNqTrVEAASVs3.jpg",
+					"url": "https://t.co/3DdAmLitZd",
+					"display_url": "pic.twitter.com/3DdAmLitZd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1565229945982312448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565226997327937500,
+					"id_str": "1565226997327937536",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbjNqUCVQAAGvpq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbjNqUCVQAAGvpq.jpg",
+					"url": "https://t.co/3DdAmLitZd",
+					"display_url": "pic.twitter.com/3DdAmLitZd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1565229945982312448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1844,
+							"h": 1843,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565226997390774300,
+					"id_str": "1565226997390774272",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbjNqURUEAAsmsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbjNqURUEAAsmsn.jpg",
+					"url": "https://t.co/3DdAmLitZd",
+					"display_url": "pic.twitter.com/3DdAmLitZd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1565229945982312448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1844,
+							"h": 1843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565226997478932500,
+					"id_str": "1565226997478932480",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbjNqUmVQAAiev6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbjNqUmVQAAiev6.jpg",
+					"url": "https://t.co/3DdAmLitZd",
+					"display_url": "pic.twitter.com/3DdAmLitZd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1565229945982312448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1843,
+							"h": 1843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/dQStXHIksz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQStXHIksz",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17479,
+			"friends_count": 1835,
+			"listed_count": 0,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565171981581893632/v5xwQVrn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1661994351",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔추석 연휴 공간 별 운영시간 안내\n⠀\n9월 9일부터 12일까지, 공간 별 운영시간 공지!\n상상마당 방문 전에 꼭 확인해주세요!\n⠀\n이번 연휴도 상상마당과 함께-👀♥\n⠀ https://t.co/3DdAmLitZd"
+	},
+	{
+		"created_at": "Thu Sep 01 06:29:29 +0000 2022",
+		"id": 1565214549342843000,
+		"id_str": "1565225310978822146",
+		"full_text": "Nerd Connection is joining the international music market ‘Reeperbahn Festival’. Meet us on September 22th at 「Korea Spotlight」 stage. Go check details at ‘Reeperbahn Festival’ website.\n\n▷Reeperbahn Festival\nhttps://t.co/32hwOGre5X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/32hwOGre5X",
+					"expanded_url": "https://www.reeperbahnfestival.com",
+					"display_url": "reeperbahnfestival.com",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1565214485690085400,
+		"in_reply_to_status_id_str": "1565214485690085377",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2283,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nerd Connection is joining the international music market ‘Reeperbahn Festival’. Meet us on September 22th at 「Korea Spotlight」 stage. Go check details at ‘Reeperbahn Festival’ website.\n\n▷Reeperbahn Festival\nhttps://t.co/32hwOGre5X"
+	},
+	{
 		"created_at": "Thu Sep 01 05:58:26 +0000 2022",
 		"id": 1565203620470988800,
 		"id_str": "1565217497753739264",
