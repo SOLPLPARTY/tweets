@@ -1,6 +1,831 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 02:58:28 +0000 2022",
+		"id": 1565519936646090800,
+		"id_str": "1565534595495370753",
+		"full_text": "[스쿨 오브 락 &amp; 패밀리 오브 락 티켓 오픈]\n\n❇ 스쿨 오브 락 &amp; 패밀리 오브 락 티켓 오픈 D-DAY ❇\n\n오늘 오후 12시 스쿨 오브 락 &amp; 패밀리 오브 락 티켓이 오픈됩니다!\n\n자세한 내용은 프로필 링크를 통해 확인 가능합니다!\n\n⚡️ 티켓 오픈 : 9/2(금) 오후 12시\n⚡️ 예매처 : 네이버 / 티켓링크 https://t.co/gevOS68vf1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565519052205723600,
+					"id_str": "1565519052205723649",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnXSJPUEAEQtS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnXSJPUEAEQtS7.jpg",
+					"url": "https://t.co/gevOS68vf1",
+					"display_url": "pic.twitter.com/gevOS68vf1",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1565519936646090752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565519052205723600,
+					"id_str": "1565519052205723649",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnXSJPUEAEQtS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnXSJPUEAEQtS7.jpg",
+					"url": "https://t.co/gevOS68vf1",
+					"display_url": "pic.twitter.com/gevOS68vf1",
+					"expanded_url": "https://twitter.com/letsrockfe/status/1565519936646090752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠락페스티벌",
+			"screen_name": "letsrockfe",
+			"location": "Seoul Korea",
+			"description": "2022.09.24(토) - 2022.09.25(일)\n난지한강공원 일대\n-\n👇🏻티켓 예매 및 이벤트 참여🔗\nhttps://t.co/11CqLzCPD7",
+			"url": "https://t.co/1V3BUiKqLS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1V3BUiKqLS",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/11CqLzCPD7",
+							"expanded_url": "http://linktr.ee/letsrockfe",
+							"display_url": "linktr.ee/letsrockfe",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3931,
+			"friends_count": 138,
+			"listed_count": 46,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551432329939529729/msipUz7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1658725267",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스쿨 오브 락 &amp; 패밀리 오브 락 티켓 오픈]\n\n❇ 스쿨 오브 락 &amp; 패밀리 오브 락 티켓 오픈 D-DAY ❇\n\n오늘 오후 12시 스쿨 오브 락 &amp; 패밀리 오브 락 티켓이 오픈됩니다!\n\n자세한 내용은 프로필 링크를 통해 확인 가능합니다!\n\n⚡️ 티켓 오픈 : 9/2(금) 오후 12시\n⚡️ 예매처 : 네이버 / 티켓링크 https://t.co/gevOS68vf1"
+	},
+	{
+		"created_at": "Fri Sep 02 02:58:25 +0000 2022",
+		"id": 1565519920749633500,
+		"id_str": "1565534582421733376",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\nKCONと言えば、Photoism📸\nKCON 2022 LAのアーティスト個人4コマ限定フレームとKCON 2022 LA専用6分割フレームがオープンされます🎉\n韓国241カ所のPhotoism Boxのお店で、もうすぐに会いましょう！\n\n🗓️Photoism販売日程 : 9/5(月)~10/2(日)\n\n#KCON #KCONUSA #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						196,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565519919264829400,
+		"in_reply_to_status_id_str": "1565519919264829440",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460004,
+			"friends_count": 76,
+			"listed_count": 1127,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "💙Photoism X KCON 2022 LA💚\n\nKCONと言えば、Photoism📸\nKCON 2022 LAのアーティスト個人4コマ限定フレームとKCON 2022 LA専用6分割フレームがオープンされます🎉\n韓国241カ所のPhotoism Boxのお店で、もうすぐに会いましょう！\n\n🗓️Photoism販売日程 : 9/5(月)~10/2(日)\n\n#KCON #KCONUSA #KCON2022LA"
+	},
+	{
+		"created_at": "Fri Sep 02 02:58:20 +0000 2022",
+		"id": 1565519919264829400,
+		"id_str": "1565534560925917188",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\nKCON with Photoism📸\nKCON 2022 LA artists' 4-cut limited frame and exclusive 6-cut frame of KCON 2022 LA are OPEN🎉\nCheck those out at 241 available Photoism box in Korea!\n\n🗓️Event Period : 9/5(MON)~10/2(SUN)\n\n#KCON #KCONUSA #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						241,
+						249
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						250,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565519917331333000,
+		"in_reply_to_status_id_str": "1565519917331333121",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460004,
+			"friends_count": 76,
+			"listed_count": 1127,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "💙Photoism X KCON 2022 LA💚\n\nKCON with Photoism📸\nKCON 2022 LA artists' 4-cut limited frame and exclusive 6-cut frame of KCON 2022 LA are OPEN🎉\nCheck those out at 241 available Photoism box in Korea!\n\n🗓️Event Period : 9/5(MON)~10/2(SUN)\n\n#KCON #KCONUSA #KCON2022LA"
+	},
+	{
+		"created_at": "Fri Sep 02 02:58:15 +0000 2022",
+		"id": 1565519917331333000,
+		"id_str": "1565534539455291392",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\nKCON 하면 포토이즘📸\nKCON 2022 LA 아티스트 개인4컷 리미티드 프레임과 KCON 2022 LA 전용 6분할 프레임 오픈 소식을 전합니다🎉\n전국 241개 포토이즘박스 매장에서 곧 만나요!\n\n🗓️포토이즘 판매 일정 : 9/5(월)~10/2(일)\n\n#KCON #KCONUSA #KCON2022LA https://t.co/LuBC95ORxL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						185,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565519912436568000,
+					"id_str": "1565519912436568065",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnYEN2VEAE4bff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnYEN2VEAE4bff.jpg",
+					"url": "https://t.co/LuBC95ORxL",
+					"display_url": "pic.twitter.com/LuBC95ORxL",
+					"expanded_url": "https://twitter.com/KCON_official/status/1565519917331333121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565519912436568000,
+					"id_str": "1565519912436568065",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnYEN2VEAE4bff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnYEN2VEAE4bff.jpg",
+					"url": "https://t.co/LuBC95ORxL",
+					"display_url": "pic.twitter.com/LuBC95ORxL",
+					"expanded_url": "https://twitter.com/KCON_official/status/1565519917331333121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565519912440774700,
+					"id_str": "1565519912440774656",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnYEN3VQAADVZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnYEN3VQAADVZa.jpg",
+					"url": "https://t.co/LuBC95ORxL",
+					"display_url": "pic.twitter.com/LuBC95ORxL",
+					"expanded_url": "https://twitter.com/KCON_official/status/1565519917331333121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460004,
+			"friends_count": 76,
+			"listed_count": 1127,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 664,
+		"favorite_count": 646,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙Photoism X KCON 2022 LA💚\n\nKCON 하면 포토이즘📸\nKCON 2022 LA 아티스트 개인4컷 리미티드 프레임과 KCON 2022 LA 전용 6분할 프레임 오픈 소식을 전합니다🎉\n전국 241개 포토이즘박스 매장에서 곧 만나요!\n\n🗓️포토이즘 판매 일정 : 9/5(월)~10/2(일)\n\n#KCON #KCONUSA #KCON2022LA https://t.co/LuBC95ORxL"
+	},
+	{
+		"created_at": "Fri Sep 02 02:29:27 +0000 2022",
+		"id": 1565519150281175000,
+		"id_str": "1565527294420164611",
+		"full_text": "[VIDEO] [#권혁수] #복학생_학점은A지만사랑은F입니다\n\n복학생: 학점은 A지만 사랑은 F입니다 2차 예고편ㅣ매주 토요일 저녁 8시 공개ㅣ쿠팡플레이 시리즈ㅣ쿠팡\n\n👉 https://t.co/uIBZQp9t8Y\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #복학생 #SNL코리아 #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						15,
+						33
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						141,
+						155
+					]
+				},
+				{
+					"text": "복학생",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						176,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uIBZQp9t8Y",
+					"expanded_url": "https://youtu.be/piyG3hV4BQ0",
+					"display_url": "youtu.be/piyG3hV4BQ0",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #복학생_학점은A지만사랑은F입니다\n\n복학생: 학점은 A지만 사랑은 F입니다 2차 예고편ㅣ매주 토요일 저녁 8시 공개ㅣ쿠팡플레이 시리즈ㅣ쿠팡\n\n👉 https://t.co/uIBZQp9t8Y\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #복학생 #SNL코리아 #쿠팡플레이 #CoupangPlay"
+	},
+	{
 		"created_at": "Fri Sep 02 01:29:25 +0000 2022",
 		"id": 1565506252972621800,
 		"id_str": "1565512184230285318",
