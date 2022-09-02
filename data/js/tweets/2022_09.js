@@ -1,6 +1,1123 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 09:11:17 +0000 2022",
+		"id": 1565615074445693000,
+		"id_str": "1565628416455581697",
+		"full_text": "[소스 리스트 : 고민형 시인 &lt;엄청난 속도로 사랑하는&gt; 편] 2022.09.22(목) PM 8:00 2022년 9월 소스 리스트는 고민형 시인과 함께 합니다. https://t.co/hY6SrKzyG5 #고민형 #소스리스트 #영감의원천 https://t.co/Ikt2Qq6vpE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고민형",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "소스리스트",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "영감의원천",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hY6SrKzyG5",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222847500801",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565615066820382700,
+					"id_str": "1565615066820382720",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fboum7jUEAASE9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fboum7jUEAASE9N.jpg",
+					"url": "https://t.co/Ikt2Qq6vpE",
+					"display_url": "pic.twitter.com/Ikt2Qq6vpE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1565615074445692928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565615066820382700,
+					"id_str": "1565615066820382720",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fboum7jUEAASE9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fboum7jUEAASE9N.jpg",
+					"url": "https://t.co/Ikt2Qq6vpE",
+					"display_url": "pic.twitter.com/Ikt2Qq6vpE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1565615074445692928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550330096203968500,
+		"in_reply_to_status_id_str": "1550330096203968512",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8336,
+			"friends_count": 548,
+			"listed_count": 76,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[소스 리스트 : 고민형 시인 &lt;엄청난 속도로 사랑하는&gt; 편] 2022.09.22(목) PM 8:00 2022년 9월 소스 리스트는 고민형 시인과 함께 합니다. https://t.co/hY6SrKzyG5 #고민형 #소스리스트 #영감의원천 https://t.co/Ikt2Qq6vpE"
+	},
+	{
+		"created_at": "Fri Sep 02 09:10:36 +0000 2022",
+		"id": 1565628248192561200,
+		"id_str": "1565628248192561152",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nHUS(허밍어반스테레오) - TERMINAL [Visualizer]\nhttps://t.co/eoY7ScaVg6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eoY7ScaVg6",
+					"expanded_url": "https://youtu.be/0c1MTnrWosY",
+					"display_url": "youtu.be/0c1MTnrWosY",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 461,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nHUS(허밍어반스테레오) - TERMINAL [Visualizer]\nhttps://t.co/eoY7ScaVg6"
+	},
+	{
+		"created_at": "Fri Sep 02 08:46:50 +0000 2022",
+		"id": 1565622266548797400,
+		"id_str": "1565622266548797441",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[MV] 조니 올랜도(Johnny Orlando), 베니(BENEE) - fun out of it  | 한글자막 뮤직비디오\nhttps://t.co/kcBu2LyATm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kcBu2LyATm",
+					"expanded_url": "https://youtu.be/dJIMovIftpo",
+					"display_url": "youtu.be/dJIMovIftpo",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 461,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n[MV] 조니 올랜도(Johnny Orlando), 베니(BENEE) - fun out of it  | 한글자막 뮤직비디오\nhttps://t.co/kcBu2LyATm"
+	},
+	{
+		"created_at": "Fri Sep 02 08:29:44 +0000 2022",
+		"id": 1565616667513786400,
+		"id_str": "1565617962215772161",
+		"full_text": "혁오의 임현제가 바밍타이거(@Balming Tiger)의 섹시느낌 (feat. RM of BTS)에 기타로 참여했습니다. https://t.co/LtHG16zrsB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Balming",
+					"name": "Charles",
+					"id": 26620144,
+					"id_str": "26620144",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LtHG16zrsB",
+					"expanded_url": "https://www.instagram.com/p/Ch_142kOAR7/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Ch_142kOAR7/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4029,
+			"friends_count": 11,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혁오의 임현제가 바밍타이거(@Balming Tiger)의 섹시느낌 (feat. RM of BTS)에 기타로 참여했습니다. https://t.co/LtHG16zrsB"
+	},
+	{
+		"created_at": "Fri Sep 02 08:29:38 +0000 2022",
+		"id": 1565610755524767700,
+		"id_str": "1565617936496300033",
+		"full_text": "✨Rock x K-Pop✨\n'#BIGONE (#빅원) - 비밀번호 486'이 #TIDAL 'Rock x K-Pop' 플레이리스트 커버를 장식하였습니다😎✨\nCheck out 'Password 486' on 'Rock x K-Pop' #playlist on @TIDAL✨\n\n🎶https://t.co/P1J6fjeUXU\n\n#warnerkpop #warnermusic #KPOP #비밀번호486 @BIGONE1STHENAME @uncutpoint https://t.co/i6ILrN1ZVs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIGONE",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "빅원",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						177,
+						188
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "비밀번호486",
+					"indices": [
+						208,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"screen_name": "BIGONE1STHENAME",
+					"name": "BIGONE 빅원",
+					"id": 143367853,
+					"id_str": "143367853",
+					"indices": [
+						217,
+						233
+					]
+				},
+				{
+					"screen_name": "uncutpoint",
+					"name": "UNCUTPOINT",
+					"id": 1357234988559732700,
+					"id_str": "1357234988559732737",
+					"indices": [
+						234,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P1J6fjeUXU",
+					"expanded_url": "https://tidal.com/browse/playlist/a18a7e55-cb84-475d-8b17-37767f127120",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565610088835928000,
+					"id_str": "1565610088835928064",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FboqFLHVUAAYnYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FboqFLHVUAAYnYI.jpg",
+					"url": "https://t.co/i6ILrN1ZVs",
+					"display_url": "pic.twitter.com/i6ILrN1ZVs",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1565610755524767744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565610088835928000,
+					"id_str": "1565610088835928064",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FboqFLHVUAAYnYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FboqFLHVUAAYnYI.jpg",
+					"url": "https://t.co/i6ILrN1ZVs",
+					"display_url": "pic.twitter.com/i6ILrN1ZVs",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1565610755524767744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89939,
+			"friends_count": 491,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨Rock x K-Pop✨\n'#BIGONE (#빅원) - 비밀번호 486'이 #TIDAL 'Rock x K-Pop' 플레이리스트 커버를 장식하였습니다😎✨\nCheck out 'Password 486' on 'Rock x K-Pop' #playlist on @TIDAL✨\n\n🎶https://t.co/P1J6fjeUXU\n\n#warnerkpop #warnermusic #KPOP #비밀번호486 @BIGONE1STHENAME @uncutpoint https://t.co/i6ILrN1ZVs"
+	},
+	{
+		"created_at": "Fri Sep 02 08:29:31 +0000 2022",
+		"id": 1565607359124164600,
+		"id_str": "1565617906624462849",
+		"full_text": "✨Electronic x K-Pop✨\n'#울랄라세션 - #오마주 (Hommage)'가 #TIDAL 'Electronic x K-Pop' 플레이리스트 커버를 장식하였습니다😎✨\nCheck out '#Hommage' on 'Electronic x K-Pop' #playlist on @TIDAL✨\n⠀\n🎶https://t.co/ZEhvS38UIM\n⠀\n#warnerkpop #warnermusic #KPOP @ULALA_SESSION https://t.co/5YotjigzLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "울랄라세션",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "오마주",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "Hommage",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						204,
+						216
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						217,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"screen_name": "ULALA_SESSION",
+					"name": "울랄라세션",
+					"id": 1510813041037766700,
+					"id_str": "1510813041037766656",
+					"indices": [
+						223,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZEhvS38UIM",
+					"expanded_url": "https://tidal.com/browse/playlist/266c61fe-61a0-4a92-9749-e1839a14ad2f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565607188910854100,
+					"id_str": "1565607188910854144",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FboncYDUUAA9wmJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FboncYDUUAA9wmJ.jpg",
+					"url": "https://t.co/5YotjigzLP",
+					"display_url": "pic.twitter.com/5YotjigzLP",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1565607359124164609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565607188910854100,
+					"id_str": "1565607188910854144",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FboncYDUUAA9wmJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FboncYDUUAA9wmJ.jpg",
+					"url": "https://t.co/5YotjigzLP",
+					"display_url": "pic.twitter.com/5YotjigzLP",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1565607359124164609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89939,
+			"friends_count": 491,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨Electronic x K-Pop✨\n'#울랄라세션 - #오마주 (Hommage)'가 #TIDAL 'Electronic x K-Pop' 플레이리스트 커버를 장식하였습니다😎✨\nCheck out '#Hommage' on 'Electronic x K-Pop' #playlist on @TIDAL✨\n⠀\n🎶https://t.co/ZEhvS38UIM\n⠀\n#warnerkpop #warnermusic #KPOP @ULALA_SESSION https://t.co/5YotjigzLP"
+	},
+	{
 		"created_at": "Fri Sep 02 08:11:17 +0000 2022",
 		"id": 1565603440713420800,
 		"id_str": "1565613317883846657",
