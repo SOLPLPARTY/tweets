@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 08:11:17 +0000 2022",
+		"id": 1565603440713420800,
+		"id_str": "1565613317883846657",
+		"full_text": "오늘(9/2금) 저녁 대관행사로 인해 카페 및 서점은 오후 7시 이후 쉬어갑니다🙏\n-\n-\n#공상온도 #공상온도일정 @공상온도 https://t.co/21uEtgJg5K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공상온도",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "공상온도일정",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21uEtgJg5K",
+					"expanded_url": "https://www.instagram.com/p/Ch_v30vur0z/?igshid=YTgzYjQ4ZTY=",
+					"display_url": "instagram.com/p/Ch_v30vur0z/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/GbMQgcSSJ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbMQgcSSJ2",
+							"expanded_url": "http://linktr.ee/gongsangondo",
+							"display_url": "linktr.ee/gongsangondo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 215,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘(9/2금) 저녁 대관행사로 인해 카페 및 서점은 오후 7시 이후 쉬어갑니다🙏\n-\n-\n#공상온도 #공상온도일정 @공상온도 https://t.co/21uEtgJg5K"
+	},
+	{
+		"created_at": "Fri Sep 02 07:29:54 +0000 2022",
+		"id": 1565601348044738600,
+		"id_str": "1565602902118469633",
+		"full_text": "✨K-Pop - TIDAL Masters✨\n‘#BLANK2Y - FUEGO(Burn it up)’가 #TIDAL 'K-Pop - TIDAL Masters' 플레이리스트 커버를 장식하였습니다😍✨\nCheck out ‘#FUEGO(Burn it up)’ on ‘K-Pop - TIDAL Masters’ playlist on @TIDAL✨\n\n🎶https://t.co/qlqmJaybyU\n\n#warnerkpop #warnermusic #KPOP @BLANK2Y_twt https://t.co/RzXEV6AqUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLANK2Y",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "TIDAL",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "FUEGO",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						213,
+						224
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						225,
+						237
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						238,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"screen_name": "BLANK2Y_twt",
+					"name": "BLANK2Y Official",
+					"id": 1481161239040753700,
+					"id_str": "1481161239040753666",
+					"indices": [
+						244,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qlqmJaybyU",
+					"expanded_url": "https://tidal.com/browse/playlist/58b26365-afc9-413c-9437-04b58ec9748f",
+					"display_url": "tidal.com/browse/playlis…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565600640906039300,
+					"id_str": "1565600640906039296",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FbohfO1UEAAoMOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbohfO1UEAAoMOP.jpg",
+					"url": "https://t.co/RzXEV6AqUa",
+					"display_url": "pic.twitter.com/RzXEV6AqUa",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1565601348044738560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1502,
+							"h": 1502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565600640906039300,
+					"id_str": "1565600640906039296",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FbohfO1UEAAoMOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbohfO1UEAAoMOP.jpg",
+					"url": "https://t.co/RzXEV6AqUa",
+					"display_url": "pic.twitter.com/RzXEV6AqUa",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1565601348044738560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1502,
+							"h": 1502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89935,
+			"friends_count": 491,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨K-Pop - TIDAL Masters✨\n‘#BLANK2Y - FUEGO(Burn it up)’가 #TIDAL 'K-Pop - TIDAL Masters' 플레이리스트 커버를 장식하였습니다😍✨\nCheck out ‘#FUEGO(Burn it up)’ on ‘K-Pop - TIDAL Masters’ playlist on @TIDAL✨\n\n🎶https://t.co/qlqmJaybyU\n\n#warnerkpop #warnermusic #KPOP @BLANK2Y_twt https://t.co/RzXEV6AqUa"
+	},
+	{
+		"created_at": "Fri Sep 02 07:29:44 +0000 2022",
+		"id": 1565595358637396000,
+		"id_str": "1565602863929344002",
+		"full_text": "[NEWS] #권혁수 ♥︎주현영, 첫 데이트 목격 (˙복학생˙)\n\n👉 https://t.co/eIhKKuI0B3 \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #복학생_학점은A지만사랑은F입니다 #복학생 #SNL코리아 #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						100,
+						118
+					]
+				},
+				{
+					"text": "복학생",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eIhKKuI0B3",
+					"expanded_url": "https://naver.me/F3oxd7hi",
+					"display_url": "naver.me/F3oxd7hi",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] #권혁수 ♥︎주현영, 첫 데이트 목격 (˙복학생˙)\n\n👉 https://t.co/eIhKKuI0B3 \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #복학생_학점은A지만사랑은F입니다 #복학생 #SNL코리아 #쿠팡플레이 #CoupangPlay"
+	},
+	{
+		"created_at": "Fri Sep 02 07:29:38 +0000 2022",
+		"id": 1565591398577242000,
+		"id_str": "1565602838276935685",
+		"full_text": "늘 사랑해 주시고 응원해 주시는 모든 분들께 감사드립니다!\n앞으로도 행복한 웃음을 드리기 위해 열심히 달리겠습니다💛\n\n@LeeMiJoo \n#YuJaeSeok #LeeMiJoo\n#2022올해의브랜드대상 #BRAND_OF_THE_YEAR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YuJaeSeok",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "LeeMiJoo",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "2022올해의브랜드대상",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "BRAND_OF_THE_YEAR",
+					"indices": [
+						112,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeMiJoo",
+					"name": "이미주 (LEE MI JOO)",
+					"id": 1529308801043599400,
+					"id_str": "1529308801043599361",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1565591392457740300,
+		"in_reply_to_status_id_str": "1565591392457740288",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "유희열(Toy), 유재석, 정재형, 루시드폴, 페퍼톤스(신재평&이장원), 박새별, 샘김, 이진아, 권진아, 정승환, 윤석철, 적재, 이미주, 서동환, 황현조 Official / 루시드폴 DS ‘목소리와 기타’ 2022. 05. 23. 6PM Release",
+			"url": "https://t.co/XSWWwEPbf8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEPbf8",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40440,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1653296979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "늘 사랑해 주시고 응원해 주시는 모든 분들께 감사드립니다!\n앞으로도 행복한 웃음을 드리기 위해 열심히 달리겠습니다💛\n\n@LeeMiJoo \n#YuJaeSeok #LeeMiJoo\n#2022올해의브랜드대상 #BRAND_OF_THE_YEAR"
+	},
+	{
 		"created_at": "Fri Sep 02 07:14:23 +0000 2022",
 		"id": 1565598998940962800,
 		"id_str": "1565598998940962816",
