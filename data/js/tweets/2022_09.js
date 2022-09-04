@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 15:29:25 +0000 2022",
+		"id": 1566440956420841500,
+		"id_str": "1566448352639782912",
+		"full_text": "KANGTA 강타 The 4th Album 〖Eyes On You〗  \n\n➫ 2022.09.07 6PM (KST)\n\n#KANGTA #강타 \n#EyesOnYou https://t.co/XA9eKIORHj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "EyesOnYou",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566438127454920700,
+					"id_str": "1566438127454920704",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb0bLXWUIAA6-Za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb0bLXWUIAA6-Za.jpg",
+					"url": "https://t.co/XA9eKIORHj",
+					"display_url": "pic.twitter.com/XA9eKIORHj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566440956420841472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566438127454920700,
+					"id_str": "1566438127454920704",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb0bLXWUIAA6-Za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb0bLXWUIAA6-Za.jpg",
+					"url": "https://t.co/XA9eKIORHj",
+					"display_url": "pic.twitter.com/XA9eKIORHj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566440956420841472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566438127459111000,
+					"id_str": "1566438127459110914",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb0bLXXUEAIRX23.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb0bLXXUEAIRX23.jpg",
+					"url": "https://t.co/XA9eKIORHj",
+					"display_url": "pic.twitter.com/XA9eKIORHj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566440956420841472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566438127463325700,
+					"id_str": "1566438127463325696",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb0bLXYUYAA3ZU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb0bLXYUYAA3ZU6.jpg",
+					"url": "https://t.co/XA9eKIORHj",
+					"display_url": "pic.twitter.com/XA9eKIORHj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566440956420841472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11140761,
+			"friends_count": 55,
+			"listed_count": 12575,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 1622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KANGTA 강타 The 4th Album 〖Eyes On You〗  \n\n➫ 2022.09.07 6PM (KST)\n\n#KANGTA #강타 \n#EyesOnYou https://t.co/XA9eKIORHj"
+	},
+	{
 		"created_at": "Sun Sep 04 13:29:25 +0000 2022",
 		"id": 1566403363981238300,
 		"id_str": "1566418154603020288",
