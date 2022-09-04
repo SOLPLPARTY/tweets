@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 03:29:24 +0000 2022",
+		"id": 1566263023442227200,
+		"id_str": "1566267158103035905",
+		"full_text": "너드커넥션의 새로운 싱글 앨범 공개일이 어느덧 이틀 앞으로 다가왔습니다. \n오늘 밤 9시에 ‘너드커넥션’ 유튜브 채널에서 라이브 방송을 진행합니다! 유튜브 라이브 방송에서 오랜만에 많은 이야기 나눠요. \n\n#너드커넥션 #유튜브라이브 https://t.co/YtrQmROfBZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566263017758933000,
+					"id_str": "1566263017758932992",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx76o5aQAAvKNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx76o5aQAAvKNu.jpg",
+					"url": "https://t.co/YtrQmROfBZ",
+					"display_url": "pic.twitter.com/YtrQmROfBZ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1566263023442227200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566263017758933000,
+					"id_str": "1566263017758932992",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx76o5aQAAvKNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx76o5aQAAvKNu.jpg",
+					"url": "https://t.co/YtrQmROfBZ",
+					"display_url": "pic.twitter.com/YtrQmROfBZ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1566263023442227200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너드커넥션의 새로운 싱글 앨범 공개일이 어느덧 이틀 앞으로 다가왔습니다. \n오늘 밤 9시에 ‘너드커넥션’ 유튜브 채널에서 라이브 방송을 진행합니다! 유튜브 라이브 방송에서 오랜만에 많은 이야기 나눠요. \n\n#너드커넥션 #유튜브라이브 https://t.co/YtrQmROfBZ"
+	},
+	{
 		"created_at": "Sun Sep 04 03:06:24 +0000 2022",
 		"id": 1566261367979446300,
 		"id_str": "1566261367979446272",
