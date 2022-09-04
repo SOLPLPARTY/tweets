@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 11:29:25 +0000 2022",
+		"id": 1566380554504720400,
+		"id_str": "1566387956096663554",
+		"full_text": "장기하 ‘단독 공연 [공중부양] 앵콜’ 공연이 마무리되었습니다. 70분 공연이 10분처럼 느껴질 만큼 즐거운 시간으로 기억되길 바라며 공연장에서 함께한 시간이 오래도록 남길 바랍니다. 공연을 찾아주신 모든 관객 여러분 감사합니다. https://t.co/WKVODQphbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566325441207488500,
+					"id_str": "1566325441207488517",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Fby0sKXUUAUcron.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fby0sKXUUAUcron.jpg",
+					"url": "https://t.co/WKVODQphbJ",
+					"display_url": "pic.twitter.com/WKVODQphbJ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1566380554504720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566325441207488500,
+					"id_str": "1566325441207488517",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Fby0sKXUUAUcron.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fby0sKXUUAUcron.jpg",
+					"url": "https://t.co/WKVODQphbJ",
+					"display_url": "pic.twitter.com/WKVODQphbJ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1566380554504720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566325451336740900,
+					"id_str": "1566325451336740864",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Fby0swGUcAAKrUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fby0swGUcAAKrUx.jpg",
+					"url": "https://t.co/WKVODQphbJ",
+					"display_url": "pic.twitter.com/WKVODQphbJ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1566380554504720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566325461713490000,
+					"id_str": "1566325461713489924",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Fby0tWwVEAQpe2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fby0tWwVEAQpe2l.jpg",
+					"url": "https://t.co/WKVODQphbJ",
+					"display_url": "pic.twitter.com/WKVODQphbJ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1566380554504720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566325471502950400,
+					"id_str": "1566325471502950400",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Fby0t7OUYAASfSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fby0t7OUYAASfSV.jpg",
+					"url": "https://t.co/WKVODQphbJ",
+					"display_url": "pic.twitter.com/WKVODQphbJ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1566380554504720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4035,
+			"friends_count": 11,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하 ‘단독 공연 [공중부양] 앵콜’ 공연이 마무리되었습니다. 70분 공연이 10분처럼 느껴질 만큼 즐거운 시간으로 기억되길 바라며 공연장에서 함께한 시간이 오래도록 남길 바랍니다. 공연을 찾아주신 모든 관객 여러분 감사합니다. https://t.co/WKVODQphbJ"
+	},
+	{
 		"created_at": "Sun Sep 04 10:29:25 +0000 2022",
 		"id": 1566371831619424300,
 		"id_str": "1566372855239135232",
