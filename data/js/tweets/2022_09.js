@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 10:29:25 +0000 2022",
+		"id": 1566371831619424300,
+		"id_str": "1566372855239135232",
+		"full_text": "💿NEW MUSIC TODAY💿\n\"마크툽 (MAKTUB) - 너를 부르는 바람 (A Pining Wind)\"을 지금 바로 음원 사이트에서 만나보세요!\n\n🎵https://t.co/juX24bRPJS\n▶https://t.co/edFVJ5NURX\n\n#warnerkpop #warnermusic #KPOP #마크툽 #MAKTUB #너를부르는바람 #A_Pining_Wind https://t.co/afKTDceSQ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "마크툽",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "MAKTUB",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "너를부르는바람",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "A_Pining_Wind",
+					"indices": [
+						189,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/juX24bRPJS",
+					"expanded_url": "http://WMK.lnk.to/cOf9ak",
+					"display_url": "WMK.lnk.to/cOf9ak",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/edFVJ5NURX",
+					"expanded_url": "http://youtu.be/Bna_lHy9CSw",
+					"display_url": "youtu.be/Bna_lHy9CSw",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566371799310680000,
+					"id_str": "1566371799310680064",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566371799310680064/pu/img/SxjSb5x_y-OG_TMe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566371799310680064/pu/img/SxjSb5x_y-OG_TMe.jpg",
+					"url": "https://t.co/afKTDceSQ9",
+					"display_url": "pic.twitter.com/afKTDceSQ9",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1566371831619424256/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566371799310680000,
+					"id_str": "1566371799310680064",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566371799310680064/pu/img/SxjSb5x_y-OG_TMe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566371799310680064/pu/img/SxjSb5x_y-OG_TMe.jpg",
+					"url": "https://t.co/afKTDceSQ9",
+					"display_url": "pic.twitter.com/afKTDceSQ9",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1566371831619424256/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 30530,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566371799310680064/pu/vid/320x400/EXcG8p1iPJtJplG5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1566371799310680064/pu/pl/8p7kkktYrUS_6s5l.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566371799310680064/pu/vid/480x600/jDuKgUjNg35uU24j.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566371799310680064/pu/vid/720x900/4wygkZN0YXf3_V08.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89980,
+			"friends_count": 491,
+			"listed_count": 218,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n\"마크툽 (MAKTUB) - 너를 부르는 바람 (A Pining Wind)\"을 지금 바로 음원 사이트에서 만나보세요!\n\n🎵https://t.co/juX24bRPJS\n▶https://t.co/edFVJ5NURX\n\n#warnerkpop #warnermusic #KPOP #마크툽 #MAKTUB #너를부르는바람 #A_Pining_Wind https://t.co/afKTDceSQ9"
+	},
+	{
 		"created_at": "Sun Sep 04 09:14:31 +0000 2022",
 		"id": 1566354006284284000,
 		"id_str": "1566354006284283905",
