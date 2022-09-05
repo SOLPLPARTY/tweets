@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 05:29:44 +0000 2022",
+		"id": 1566650862910378000,
+		"id_str": "1566659827316785153",
+		"full_text": "[VIDEO] [#권혁수] #해양안전실천캠페인\n\n[해양안전실천캠페인] 주문하신 또경영 나왔습니다. (feat. 메이킹 필름🎬)\n\n👉 https://t.co/D9z9KNjjJm\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #해양안전실천본부 #구명조끼해주세요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "해양안전실천캠페인",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"text": "해양안전실천본부",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "구명조끼해주세요",
+					"indices": [
+						144,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D9z9KNjjJm",
+					"expanded_url": "https://youtu.be/0dg6thfv1rU",
+					"display_url": "youtu.be/0dg6thfv1rU",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #해양안전실천캠페인\n\n[해양안전실천캠페인] 주문하신 또경영 나왔습니다. (feat. 메이킹 필름🎬)\n\n👉 https://t.co/D9z9KNjjJm\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #해양안전실천본부 #구명조끼해주세요"
+	},
+	{
+		"created_at": "Mon Sep 05 05:29:37 +0000 2022",
+		"id": 1566650762666463200,
+		"id_str": "1566659797449056257",
+		"full_text": "[VIDEO] [#권혁수] #복학생_학점은A지만사랑은F입니다\n\n복학생: 학점은 A지만 사랑은 F입니다 대본 리딩 메이킹 현장ㅣ매주 토요일 저녁 8시 공개ㅣ쿠팡플레이 시리즈ㅣ쿠팡\n\n👉 https://t.co/Q6CMMaRJUq\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #복학생 #SNL코리아 #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "복학생_학점은A지만사랑은F입니다",
+					"indices": [
+						15,
+						33
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"text": "복학생",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						182,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q6CMMaRJUq",
+					"expanded_url": "https://youtu.be/CyOxzTiTHwI",
+					"display_url": "youtu.be/CyOxzTiTHwI",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #복학생_학점은A지만사랑은F입니다\n\n복학생: 학점은 A지만 사랑은 F입니다 대본 리딩 메이킹 현장ㅣ매주 토요일 저녁 8시 공개ㅣ쿠팡플레이 시리즈ㅣ쿠팡\n\n👉 https://t.co/Q6CMMaRJUq\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #복학생 #SNL코리아 #쿠팡플레이 #CoupangPlay"
+	},
+	{
+		"created_at": "Mon Sep 05 05:29:34 +0000 2022",
+		"id": 1566649860249436200,
+		"id_str": "1566659784421539840",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n자민이라고 \"벤자민\" #벤자민권 #권혁수 #황세정 #shorts\n\n👉 https://t.co/dIzZJMCX2d\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의상상은현실이된다2",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "벤자민권",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "권혁수",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "황세정",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						116,
+						130
+					]
+				},
+				{
+					"text": "위대한쇼맨",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dIzZJMCX2d",
+					"expanded_url": "https://www.youtube.com/shorts/prX0NbWeNi0",
+					"display_url": "youtube.com/shorts/prX0NbW…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의상상은현실이된다2\n\n자민이라고 \"벤자민\" #벤자민권 #권혁수 #황세정 #shorts\n\n👉 https://t.co/dIzZJMCX2d\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #위대한쇼맨 #가치삽시다TV"
+	},
+	{
 		"created_at": "Mon Sep 05 05:11:17 +0000 2022",
 		"id": 1566650630122266600,
 		"id_str": "1566655182800359425",
