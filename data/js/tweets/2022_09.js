@@ -1,6 +1,1300 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 03:11:54 +0000 2022",
+		"id": 1566625141177471000,
+		"id_str": "1566625141177470977",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nLauRel, EUNSAN, Saula (사울라) - 향수 [Lyric Video]\nhttps://t.co/ngrnKbLvCV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ngrnKbLvCV",
+					"expanded_url": "https://youtu.be/NNvr4ZZxyZU",
+					"display_url": "youtu.be/NNvr4ZZxyZU",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 461,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nLauRel, EUNSAN, Saula (사울라) - 향수 [Lyric Video]\nhttps://t.co/ngrnKbLvCV"
+	},
+	{
+		"created_at": "Mon Sep 05 03:11:17 +0000 2022",
+		"id": 1566622148461858800,
+		"id_str": "1566624984788865024",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\nROLLING PROJECT : CMYK #2 [ Hwanho &amp; Creespy &amp; OFF.E ]\n· 일시 : 2022년 09월 30일 (금) 오후 8시\n· 장소 : 롤링홀\n· 출연 : 화노, 크리스피, 오프이\n· 오프라인 : https://t.co/7xgVMQzWgy\n· 온라인 : https://t.co/mOdZbTp8Lp https://t.co/SMfuJUAEyr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7xgVMQzWgy",
+					"expanded_url": "https://bit.ly/3B9SrzP",
+					"display_url": "bit.ly/3B9SrzP",
+					"indices": [
+						171,
+						194
+					]
+				},
+				{
+					"url": "https://t.co/mOdZbTp8Lp",
+					"expanded_url": "https://bit.ly/3KBPf32",
+					"display_url": "bit.ly/3KBPf32",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565575481407467500,
+					"id_str": "1565575481407467520",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1565575481407467520/pu/img/8ltaTJsaolXUF7MF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1565575481407467520/pu/img/8ltaTJsaolXUF7MF.jpg",
+					"url": "https://t.co/SMfuJUAEyr",
+					"display_url": "pic.twitter.com/SMfuJUAEyr",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1566622148461858816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565575481407467500,
+					"id_str": "1565575481407467520",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1565575481407467520/pu/img/8ltaTJsaolXUF7MF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1565575481407467520/pu/img/8ltaTJsaolXUF7MF.jpg",
+					"url": "https://t.co/SMfuJUAEyr",
+					"display_url": "pic.twitter.com/SMfuJUAEyr",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1566622148461858816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1565575481407467520/pu/pl/ViAoL0U11vNgbP9r.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565575481407467520/pu/vid/320x320/78nD72z9wLYYCA15.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565575481407467520/pu/vid/540x540/ymbJiZbDpspfeDEm.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565575481407467520/pu/vid/720x720/QOKyLOHjuYnJctS0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "📍𝙃𝙤𝙣𝙜𝙙𝙖𝙚’𝙨 𝙢𝙪𝙨𝙞𝙘 𝙢𝙚𝙘𝙘𝙖 𝙍𝙊𝙇𝙇𝙄𝙉𝙂𝙃𝘼𝙇𝙇 !🎈\n홍대/합정에 위치한 음악 공연장 롤링홀입니다.\n\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기👇🏻👇🏻\nhttps://t.co/K14VaQbWBy",
+			"url": "https://t.co/eXKuF483pn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eXKuF483pn",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaQbWBy",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 3,
+			"listed_count": 4,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\nROLLING PROJECT : CMYK #2 [ Hwanho &amp; Creespy &amp; OFF.E ]\n· 일시 : 2022년 09월 30일 (금) 오후 8시\n· 장소 : 롤링홀\n· 출연 : 화노, 크리스피, 오프이\n· 오프라인 : https://t.co/7xgVMQzWgy\n· 온라인 : https://t.co/mOdZbTp8Lp https://t.co/SMfuJUAEyr"
+	},
+	{
+		"created_at": "Mon Sep 05 02:58:42 +0000 2022",
+		"id": 1566609107582591000,
+		"id_str": "1566621819175665664",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\nお待たせしました😎\nKCON-ersが待ちわびていたアーティスト個人4コマ限定フレームとKCON 2022 LA専用6分割フレームがオープン！\n韓国Photoism Boxのお店で会いましょう！\n\n🗓️販売日程 : 9/5(月) ~ 10/2(日)\n\n#KCON #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566609106269802500,
+		"in_reply_to_status_id_str": "1566609106269802496",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460503,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "💙Photoism X KCON 2022 LA💚\n\nお待たせしました😎\nKCON-ersが待ちわびていたアーティスト個人4コマ限定フレームとKCON 2022 LA専用6分割フレームがオープン！\n韓国Photoism Boxのお店で会いましょう！\n\n🗓️販売日程 : 9/5(月) ~ 10/2(日)\n\n#KCON #KCON2022LA"
+	},
+	{
+		"created_at": "Mon Sep 05 02:58:36 +0000 2022",
+		"id": 1566609106269802500,
+		"id_str": "1566621793271664640",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\nThank you for waiting, KCON-ers😎\nKCON 2022 LA artists' 4-cut limited frame and exclusive 6-cut frame of KCON 2022 LA are OPEN!\nCheck out at available Photoism box in Korea!\n\n🗓️Event Period : 9/5(MON) ~ 10/2(SUN)\n\n#KCON #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						246,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566609102989820000,
+		"in_reply_to_status_id_str": "1566609102989819904",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460503,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "💙Photoism X KCON 2022 LA💚\n\nThank you for waiting, KCON-ers😎\nKCON 2022 LA artists' 4-cut limited frame and exclusive 6-cut frame of KCON 2022 LA are OPEN!\nCheck out at available Photoism box in Korea!\n\n🗓️Event Period : 9/5(MON) ~ 10/2(SUN)\n\n#KCON #KCON2022LA"
+	},
+	{
+		"created_at": "Mon Sep 05 02:58:31 +0000 2022",
+		"id": 1566609102989820000,
+		"id_str": "1566621771801006081",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\n오래 기다리셨습니다😎\nKCON-ers가 애타게 기다리던 KCON 2022 LA 아티스트 개인4컷 리미티드 프레임과 KCON 2022 LA 전용 6분할 프레임 오픈!\n전국 포토이즘 박스 매장에서 만나요!\n\n🗓️판매일정 : 9/5(월) ~ 10/2(일)\n\n#KCON #KCON2022LA @TO1_offcl https://t.co/EBlO2GyDe6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						186,
+						196
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566603754665046000,
+					"id_str": "1566603754665046017",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb2x0IyacAEu7bW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb2x0IyacAEu7bW.jpg",
+					"url": "https://t.co/EBlO2GyDe6",
+					"display_url": "pic.twitter.com/EBlO2GyDe6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1566609102989819904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566603754665046000,
+					"id_str": "1566603754665046017",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb2x0IyacAEu7bW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb2x0IyacAEu7bW.jpg",
+					"url": "https://t.co/EBlO2GyDe6",
+					"display_url": "pic.twitter.com/EBlO2GyDe6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1566609102989819904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566603754514022400,
+					"id_str": "1566603754514022400",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb2x0IOaAAAxq6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb2x0IOaAAAxq6T.jpg",
+					"url": "https://t.co/EBlO2GyDe6",
+					"display_url": "pic.twitter.com/EBlO2GyDe6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1566609102989819904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460503,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙Photoism X KCON 2022 LA💚\n\n오래 기다리셨습니다😎\nKCON-ers가 애타게 기다리던 KCON 2022 LA 아티스트 개인4컷 리미티드 프레임과 KCON 2022 LA 전용 6분할 프레임 오픈!\n전국 포토이즘 박스 매장에서 만나요!\n\n🗓️판매일정 : 9/5(월) ~ 10/2(일)\n\n#KCON #KCON2022LA @TO1_offcl https://t.co/EBlO2GyDe6"
+	},
+	{
+		"created_at": "Mon Sep 05 02:58:25 +0000 2022",
+		"id": 1566608833891680300,
+		"id_str": "1566621746178019334",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\nお待たせしました😎\nKCON-ersが待ちわびていたアーティスト個人4コマ限定フレームとKCON 2022 LA専用6分割フレームがオープン！\n韓国Photoism Boxのお店で会いましょう！\n\n🗓️販売日程 : 9/5(月) ~ 10/2(日)\n\n#KCON #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566608832188805000,
+		"in_reply_to_status_id_str": "1566608832188805121",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460503,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "💙Photoism X KCON 2022 LA💚\n\nお待たせしました😎\nKCON-ersが待ちわびていたアーティスト個人4コマ限定フレームとKCON 2022 LA専用6分割フレームがオープン！\n韓国Photoism Boxのお店で会いましょう！\n\n🗓️販売日程 : 9/5(月) ~ 10/2(日)\n\n#KCON #KCON2022LA"
+	},
+	{
+		"created_at": "Mon Sep 05 02:58:23 +0000 2022",
+		"id": 1566608832188805000,
+		"id_str": "1566621737269305345",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\nThank you for waiting, KCON-ers😎\nKCON 2022 LA artists' 4-cut limited frame and exclusive 6-cut frame of KCON 2022 LA are OPEN!\nCheck out at available Photoism box in Korea!\n\n🗓️Event Period : 9/5(MON) ~ 10/2(SUN)\n\n#KCON #KCON2022LA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						246,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566608828711706600,
+		"in_reply_to_status_id_str": "1566608828711706624",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460503,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "💙Photoism X KCON 2022 LA💚\n\nThank you for waiting, KCON-ers😎\nKCON 2022 LA artists' 4-cut limited frame and exclusive 6-cut frame of KCON 2022 LA are OPEN!\nCheck out at available Photoism box in Korea!\n\n🗓️Event Period : 9/5(MON) ~ 10/2(SUN)\n\n#KCON #KCON2022LA"
+	},
+	{
+		"created_at": "Mon Sep 05 02:58:15 +0000 2022",
+		"id": 1566608828711706600,
+		"id_str": "1566621703102398465",
+		"full_text": "💙Photoism X KCON 2022 LA💚\n\n오래 기다리셨습니다😎\nKCON-ers가 애타게 기다리던 KCON 2022 LA 아티스트 개인4컷 리미티드 프레임과 KCON 2022 LA 전용 6분할 프레임 오픈!\n전국 포토이즘 박스 매장에서 만나요!\n\n🗓️판매일정 : 9/5(월) ~ 10/2(일)\n\n#KCON #KCON2022LA @IST_THEBOYZ https://t.co/oDZFhn3Pnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IST_THEBOYZ",
+					"name": "더보이즈(THE BOYZ)",
+					"id": 841676129245225000,
+					"id_str": "841676129245224961",
+					"indices": [
+						186,
+						198
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566603557998329900,
+					"id_str": "1566603557998329856",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb2xosJagAAK82F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb2xosJagAAK82F.jpg",
+					"url": "https://t.co/oDZFhn3Pnl",
+					"display_url": "pic.twitter.com/oDZFhn3Pnl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1566608828711706624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566603557998329900,
+					"id_str": "1566603557998329856",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb2xosJagAAK82F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb2xosJagAAK82F.jpg",
+					"url": "https://t.co/oDZFhn3Pnl",
+					"display_url": "pic.twitter.com/oDZFhn3Pnl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1566608828711706624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566603557876699100,
+					"id_str": "1566603557876699137",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb2xorsakAEizWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb2xorsakAEizWz.jpg",
+					"url": "https://t.co/oDZFhn3Pnl",
+					"display_url": "pic.twitter.com/oDZFhn3Pnl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1566608828711706624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460503,
+			"friends_count": 76,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562616645817839617/lfE26AYF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1661845613",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 762,
+		"favorite_count": 753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙Photoism X KCON 2022 LA💚\n\n오래 기다리셨습니다😎\nKCON-ers가 애타게 기다리던 KCON 2022 LA 아티스트 개인4컷 리미티드 프레임과 KCON 2022 LA 전용 6분할 프레임 오픈!\n전국 포토이즘 박스 매장에서 만나요!\n\n🗓️판매일정 : 9/5(월) ~ 10/2(일)\n\n#KCON #KCON2022LA @IST_THEBOYZ https://t.co/oDZFhn3Pnl"
+	},
+	{
 		"created_at": "Mon Sep 05 01:58:15 +0000 2022",
 		"id": 1566593221987561500,
 		"id_str": "1566606604337807361",
