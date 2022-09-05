@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 05:11:17 +0000 2022",
+		"id": 1566650630122266600,
+		"id_str": "1566655182800359425",
+		"full_text": "[📣재미공작소 9월 팝업+]\n\n슬로우어스 Slowus \n&lt;Somewhere I was&gt;\n2022.9.23(금)~24(토) PM 1:00~7:00\n\n9월 팝업+ 주인공은 일러스트레이터 슬로우어스입니다! \n\n이번 팝업+에서는 슬로우어스의 원화 전시와 더불어 다양한 굿즈가 판매됩니다.\n\nhttps://t.co/kYyGSe4prI https://t.co/L8Dt7gMM2G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kYyGSe4prI",
+					"expanded_url": "https://blog.naver.com/studiozemi/222865115384",
+					"display_url": "blog.naver.com/studiozemi/222…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566650617610653700,
+					"id_str": "1566650617610653697",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3cb63UUAEJSi-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3cb63UUAEJSi-.jpg",
+					"url": "https://t.co/L8Dt7gMM2G",
+					"display_url": "pic.twitter.com/L8Dt7gMM2G",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1566650630122266624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1756,
+							"h": 1756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566650617610653700,
+					"id_str": "1566650617610653697",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3cb63UUAEJSi-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3cb63UUAEJSi-.jpg",
+					"url": "https://t.co/L8Dt7gMM2G",
+					"display_url": "pic.twitter.com/L8Dt7gMM2G",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1566650630122266624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1756,
+							"h": 1756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 문학 행사, 팝업숍, 전시, 창작 워크숍, 출판, 캘린더 갤러리 등 '재미있는 일'을 기획하고 진행합니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/aLQQKEqovK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aLQQKEqovK",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8339,
+			"friends_count": 548,
+			"listed_count": 76,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📣재미공작소 9월 팝업+]\n\n슬로우어스 Slowus \n&lt;Somewhere I was&gt;\n2022.9.23(금)~24(토) PM 1:00~7:00\n\n9월 팝업+ 주인공은 일러스트레이터 슬로우어스입니다! \n\n이번 팝업+에서는 슬로우어스의 원화 전시와 더불어 다양한 굿즈가 판매됩니다.\n\nhttps://t.co/kYyGSe4prI https://t.co/L8Dt7gMM2G"
+	},
+	{
+		"created_at": "Mon Sep 05 04:29:29 +0000 2022",
+		"id": 1566637603088388000,
+		"id_str": "1566644664735862784",
+		"full_text": "‘Once Upon a Small Town’ D-DAY! #PARKSOOYOONG turns into a lovely police officer in a rural town, ramping up the excitement for her transformation into a cheerful and confident character and showing off different sides of her acting spectrum!\n\n#박수영 \n#조이 #JOY \n#어쩌다전원일기 https://t.co/5DyKTQd9Is",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PARKSOOYOONG",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"text": "박수영",
+					"indices": [
+						244,
+						248
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						250,
+						253
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						254,
+						258
+					]
+				},
+				{
+					"text": "어쩌다전원일기",
+					"indices": [
+						260,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566637587124535300,
+					"id_str": "1566637587124535296",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566637587124535300,
+					"id_str": "1566637587124535296",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566637587132850200,
+					"id_str": "1566637587132850177",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlcjUIAEi9R9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlcjUIAEi9R9.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566637587124457500,
+					"id_str": "1566637587124457474",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlchUEAIaJeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlchUEAIaJeZ.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566637587145429000,
+					"id_str": "1566637587145428993",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlcmUEAEmwMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlcmUEAEmwMv.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 939,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11141710,
+			"friends_count": 55,
+			"listed_count": 12574,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1847,
+		"favorite_count": 5069,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Once Upon a Small Town’ D-DAY! #PARKSOOYOONG turns into a lovely police officer in a rural town, ramping up the excitement for her transformation into a cheerful and confident character and showing off different sides of her acting spectrum!\n\n#박수영 \n#조이 #JOY \n#어쩌다전원일기 https://t.co/5DyKTQd9Is"
+	},
+	{
 		"created_at": "Mon Sep 05 03:29:38 +0000 2022",
 		"id": 1566626170409734100,
 		"id_str": "1566629600670715907",
