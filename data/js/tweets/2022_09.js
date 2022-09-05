@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 12:29:25 +0000 2022",
+		"id": 1566761797709070300,
+		"id_str": "1566765442588344320",
+		"full_text": "제주 최대 규모 음악산업 교류의 장인 “2022 [JEJU MUSIC WEEKEND]”가 열립니다.\n\n세미나와 함깨, 2022 제주 음반제작 지원사업을 통해 선정된 #ELLY #이소 #전찬준 #홍조밴드 등 총 4팀의 제주 뮤지션 쇼케이스도 준비되어있습니다.\n\n신청링크 URL : https://t.co/fm7380OLyN\n\n- 문의 : 064-766-0708 https://t.co/BMPTB8AWO2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLY",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "이소",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "전찬준",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "홍조밴드",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fm7380OLyN",
+					"expanded_url": "https://forms.gle/mqFRvttVY4z6pHCW7",
+					"display_url": "forms.gle/mqFRvttVY4z6pH…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566761795171209200,
+					"id_str": "1566761795171209217",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5BjTjVUAEPdcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5BjTjVUAEPdcC.jpg",
+					"url": "https://t.co/BMPTB8AWO2",
+					"display_url": "pic.twitter.com/BMPTB8AWO2",
+					"expanded_url": "https://twitter.com/ruby_records/status/1566761797709070336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1446,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566761795171209200,
+					"id_str": "1566761795171209217",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5BjTjVUAEPdcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5BjTjVUAEPdcC.jpg",
+					"url": "https://t.co/BMPTB8AWO2",
+					"display_url": "pic.twitter.com/BMPTB8AWO2",
+					"expanded_url": "https://twitter.com/ruby_records/status/1566761797709070336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1446,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "💎 루비레코드 #루비튜브 Rubytube #인천여관X루비살롱 rubysalon #스마일러브위크엔드 #모트 Motte #레인보우노트 RBN #우예린 yerin",
+			"url": "https://t.co/vLFrhW6ba0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhW6ba0",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7546,
+			"friends_count": 8177,
+			"listed_count": 0,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제주 최대 규모 음악산업 교류의 장인 “2022 [JEJU MUSIC WEEKEND]”가 열립니다.\n\n세미나와 함깨, 2022 제주 음반제작 지원사업을 통해 선정된 #ELLY #이소 #전찬준 #홍조밴드 등 총 4팀의 제주 뮤지션 쇼케이스도 준비되어있습니다.\n\n신청링크 URL : https://t.co/fm7380OLyN\n\n- 문의 : 064-766-0708 https://t.co/BMPTB8AWO2"
+	},
+	{
 		"created_at": "Mon Sep 05 12:11:42 +0000 2022",
 		"id": 1566760424879816700,
 		"id_str": "1566760983644848129",
