@@ -1,6 +1,774 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 12:11:42 +0000 2022",
+		"id": 1566760424879816700,
+		"id_str": "1566760983644848129",
+		"full_text": "- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979\n \n👇예매 바로가기👇\nhttps://t.co/C0mFGEb1BR\n\n1. 예매 : 30,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n#프리즘홀 #prismhall #MADDYXP #KIRARA #SLEEQ #멜론티켓 #티켓오픈 #홍대공연 #공연추천",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "MADDYXP",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "KIRARA",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "SLEEQ",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C0mFGEb1BR",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=207256",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566760422736556000,
+		"in_reply_to_status_id_str": "1566760422736556032",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 장소 : 프리즘홀(양화로 12길 6)\n- 문의 : 070-8150-2979\n \n👇예매 바로가기👇\nhttps://t.co/C0mFGEb1BR\n\n1. 예매 : 30,000원\n2. 본공연은 스탠딩 공연으로 진행됩니다.\n\n#프리즘홀 #prismhall #MADDYXP #KIRARA #SLEEQ #멜론티켓 #티켓오픈 #홍대공연 #공연추천"
+	},
+	{
+		"created_at": "Mon Sep 05 12:11:37 +0000 2022",
+		"id": 1566760422736556000,
+		"id_str": "1566760962069336065",
+		"full_text": "📌 9월5일-18일까지 MADDYXP의 스토리 문답, DM, 게시글로 여러분의 소원을 모집합니다. 여러분의 소원은 풍선에 쓰여져 공연장에서 만나보실 수 있습니다!\n\n- 타이틀 : MADDYXP 앨범발매 단독콘서트 [BARIDEGI]\n- 일시 : 2022년 9월 23일 금요일 저녁 8시 (입장 : 7시30분) https://t.co/Wv5CpagwWO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566760418735198200,
+					"id_str": "1566760418735198209",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ATL7akAEuugR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ATL7akAEuugR.jpg",
+					"url": "https://t.co/Wv5CpagwWO",
+					"display_url": "pic.twitter.com/Wv5CpagwWO",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760422736556032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566760418735198200,
+					"id_str": "1566760418735198209",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ATL7akAEuugR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ATL7akAEuugR.jpg",
+					"url": "https://t.co/Wv5CpagwWO",
+					"display_url": "pic.twitter.com/Wv5CpagwWO",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760422736556032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566760415836913700,
+		"in_reply_to_status_id_str": "1566760415836913664",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌 9월5일-18일까지 MADDYXP의 스토리 문답, DM, 게시글로 여러분의 소원을 모집합니다. 여러분의 소원은 풍선에 쓰여져 공연장에서 만나보실 수 있습니다!\n\n- 타이틀 : MADDYXP 앨범발매 단독콘서트 [BARIDEGI]\n- 일시 : 2022년 9월 23일 금요일 저녁 8시 (입장 : 7시30분) https://t.co/Wv5CpagwWO"
+	},
+	{
+		"created_at": "Mon Sep 05 12:11:28 +0000 2022",
+		"id": 1566760415836913700,
+		"id_str": "1566760927483101184",
+		"full_text": "✨GET YOUR PRIDE UP\n다양한 플래그와 자신을 보여줄 수 있는 옷으로 여러분의 프라이드를 보여주세요.\n6번째 카드를 참조해주세요✨\n\n또한 무려 2개의 이벤트까지!\n📌 MADDYXP 또는 참여하는 개스트 분들을 위한 재밌는 슬로건을 만들어서 펼쳐주세요! MADDYXP의 정성가득 선물을 드립니다! https://t.co/KAE0HzpKtl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566760411198005200,
+					"id_str": "1566760411198005248",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ASv2aIAArSje.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ASv2aIAArSje.jpg",
+					"url": "https://t.co/KAE0HzpKtl",
+					"display_url": "pic.twitter.com/KAE0HzpKtl",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760415836913664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566760411198005200,
+					"id_str": "1566760411198005248",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ASv2aIAArSje.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ASv2aIAArSje.jpg",
+					"url": "https://t.co/KAE0HzpKtl",
+					"display_url": "pic.twitter.com/KAE0HzpKtl",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760415836913664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566760411227365400,
+					"id_str": "1566760411227365378",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ASv9aIAI3FoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ASv9aIAI3FoN.jpg",
+					"url": "https://t.co/KAE0HzpKtl",
+					"display_url": "pic.twitter.com/KAE0HzpKtl",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760415836913664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566760407544758300,
+		"in_reply_to_status_id_str": "1566760407544758272",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨GET YOUR PRIDE UP\n다양한 플래그와 자신을 보여줄 수 있는 옷으로 여러분의 프라이드를 보여주세요.\n6번째 카드를 참조해주세요✨\n\n또한 무려 2개의 이벤트까지!\n📌 MADDYXP 또는 참여하는 개스트 분들을 위한 재밌는 슬로건을 만들어서 펼쳐주세요! MADDYXP의 정성가득 선물을 드립니다! https://t.co/KAE0HzpKtl"
+	},
+	{
+		"created_at": "Mon Sep 05 12:11:25 +0000 2022",
+		"id": 1566760407544758300,
+		"id_str": "1566760914388410371",
+		"full_text": "🔥 공연 중에 일어나는 부당한 차별, 불편한 접촉 외 기타 불편 사항, 안전 관련 사항은 주변의 스태프를 찾아 꼭 도움을 받으세요.\n\n✅ 프리즘홀은 엘리베이터를 통한 휠체어의 입장이 가능합니다. 관련 문의와 사전 휠체어 도움 신청은 프리즘홀로 연락 부탁드립니다. 070-8150-2979 https://t.co/MJD71gRt2a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566760403266568200,
+					"id_str": "1566760403266568193",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ASSTaAAExBU5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ASSTaAAExBU5.jpg",
+					"url": "https://t.co/MJD71gRt2a",
+					"display_url": "pic.twitter.com/MJD71gRt2a",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760407544758272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566760403266568200,
+					"id_str": "1566760403266568193",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ASSTaAAExBU5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ASSTaAAExBU5.jpg",
+					"url": "https://t.co/MJD71gRt2a",
+					"display_url": "pic.twitter.com/MJD71gRt2a",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760407544758272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566760403258179600,
+					"id_str": "1566760403258179585",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5ASSRaAAE3p0i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5ASSRaAAE3p0i.jpg",
+					"url": "https://t.co/MJD71gRt2a",
+					"display_url": "pic.twitter.com/MJD71gRt2a",
+					"expanded_url": "https://twitter.com/prismhall/status/1566760407544758272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566760400007602200,
+		"in_reply_to_status_id_str": "1566760400007602177",
+		"in_reply_to_user_id": 491231175,
+		"in_reply_to_user_id_str": "491231175",
+		"in_reply_to_screen_name": "prismhall",
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1105,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥 공연 중에 일어나는 부당한 차별, 불편한 접촉 외 기타 불편 사항, 안전 관련 사항은 주변의 스태프를 찾아 꼭 도움을 받으세요.\n\n✅ 프리즘홀은 엘리베이터를 통한 휠체어의 입장이 가능합니다. 관련 문의와 사전 휠체어 도움 신청은 프리즘홀로 연락 부탁드립니다. 070-8150-2979 https://t.co/MJD71gRt2a"
+	},
+	{
 		"created_at": "Mon Sep 05 11:13:22 +0000 2022",
 		"id": 1566746305233203200,
 		"id_str": "1566746305233203201",
