@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 13:29:25 +0000 2022",
+		"id": 1566766236137971700,
+		"id_str": "1566780541629784067",
+		"full_text": "[Yumi Zouma Live in Seoul Opening Artist]\n\n편안하고 따뜻하면서도 세련된 개성으로 주목 받고 있는 3인조 밴드 Low Hanging Fruits가 유미 주마 내한공연의 오프닝을 장식합니다.\n\n일시 : 2022년 9월 28일 수요일 8PM\n장소 : 홍대 롤링홀\n\nhttps://t.co/XrMgH1aHkv https://t.co/Fk3NR9bNY3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XrMgH1aHkv",
+					"expanded_url": "http://highjinkx.com/yumi-zouma",
+					"display_url": "highjinkx.com/yumi-zouma",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566766231209726000,
+					"id_str": "1566766231209725953",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5FlhFVUAENH4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5FlhFVUAENH4c.jpg",
+					"url": "https://t.co/Fk3NR9bNY3",
+					"display_url": "pic.twitter.com/Fk3NR9bNY3",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1566766236137971717/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1684,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566766231209726000,
+					"id_str": "1566766231209725953",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5FlhFVUAENH4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5FlhFVUAENH4c.jpg",
+					"url": "https://t.co/Fk3NR9bNY3",
+					"display_url": "pic.twitter.com/Fk3NR9bNY3",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1566766236137971717/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1684,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX 하이징크스",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/UEZd1A0tMQ https://t.co/bYHM3gN9tB",
+			"url": "https://t.co/jgdOjxGxJL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgdOjxGxJL",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UEZd1A0tMQ",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/bYHM3gN9tB",
+							"expanded_url": "http://highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Yumi Zouma Live in Seoul Opening Artist]\n\n편안하고 따뜻하면서도 세련된 개성으로 주목 받고 있는 3인조 밴드 Low Hanging Fruits가 유미 주마 내한공연의 오프닝을 장식합니다.\n\n일시 : 2022년 9월 28일 수요일 8PM\n장소 : 홍대 롤링홀\n\nhttps://t.co/XrMgH1aHkv https://t.co/Fk3NR9bNY3"
+	},
+	{
 		"created_at": "Mon Sep 05 12:29:25 +0000 2022",
 		"id": 1566761797709070300,
 		"id_str": "1566765442588344320",
