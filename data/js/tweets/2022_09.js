@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 06:29:43 +0000 2022",
+		"id": 1566672470874423300,
+		"id_str": "1566674921920647169",
+		"full_text": "[release] 김목인 \"저장된 풍경\" Vinyl\n아래 링크에서 판매 중입니다. 일렉트릭 뮤즈 스마트스토어에서는 김목인 굿즈도 함께 판매하고 있습니다.\n\nhttps://t.co/WRkxEVppgp\nhttps://t.co/QTN0oambU4\nhttps://t.co/A7LOvjzHvP\nhttps://t.co/o4u7Adt6Ud https://t.co/Lk3pzbjEoD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WRkxEVppgp",
+					"expanded_url": "http://hyangmusic.com/View.php?cate_code=KINR&code=5323&album_mode=music",
+					"display_url": "hyangmusic.com/View.php?cate_…",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/QTN0oambU4",
+					"expanded_url": "https://smartstore.naver.com/hyangmusic/products/7050520927",
+					"display_url": "smartstore.naver.com/hyangmusic/pro…",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/A7LOvjzHvP",
+					"expanded_url": "http://www.gimbabrecords.com/product/detail.html?product_no=19827&cate_no=52&display_group=1",
+					"display_url": "gimbabrecords.com/product/detail…",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/o4u7Adt6Ud",
+					"expanded_url": "https://smartstore.naver.com/electricmuse",
+					"display_url": "smartstore.naver.com/electricmuse",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566672435495452700,
+					"id_str": "1566672435495452672",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3wR40aQAAO0Ro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3wR40aQAAO0Ro.jpg",
+					"url": "https://t.co/Lk3pzbjEoD",
+					"display_url": "pic.twitter.com/Lk3pzbjEoD",
+					"expanded_url": "https://twitter.com/electric_muse/status/1566672470874423297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566672435495452700,
+					"id_str": "1566672435495452672",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3wR40aQAAO0Ro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3wR40aQAAO0Ro.jpg",
+					"url": "https://t.co/Lk3pzbjEoD",
+					"display_url": "pic.twitter.com/Lk3pzbjEoD",
+					"expanded_url": "https://twitter.com/electric_muse/status/1566672470874423297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3303,
+			"friends_count": 1287,
+			"listed_count": 105,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[release] 김목인 \"저장된 풍경\" Vinyl\n아래 링크에서 판매 중입니다. 일렉트릭 뮤즈 스마트스토어에서는 김목인 굿즈도 함께 판매하고 있습니다.\n\nhttps://t.co/WRkxEVppgp\nhttps://t.co/QTN0oambU4\nhttps://t.co/A7LOvjzHvP\nhttps://t.co/o4u7Adt6Ud https://t.co/Lk3pzbjEoD"
+	},
+	{
+		"created_at": "Mon Sep 05 06:29:37 +0000 2022",
+		"id": 1566667715540304000,
+		"id_str": "1566674896285061126",
+		"full_text": "소리꾼 ‘이자람’이 JTBC &lt;차이나는 K-클라스&gt;에 출연합니다!\n\n이자람이 들려주는 ‘세상 어디에도 없는 종합예술 판소리’를 추석 연휴 일요일, 방송을 통해 만나실 수 있습니다!!\n\n📺 JTBC &lt;차이나는 K-클라스&gt;\n⏰ 9/11(일) 오전 10:30\n\n✔️ 차이나는 K-클라스 6회 예고편:\nhttps://t.co/PICEhVbOtP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PICEhVbOtP",
+					"expanded_url": "https://youtu.be/tNGdr9wnARo",
+					"display_url": "youtu.be/tNGdr9wnARo",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266,
+			"friends_count": 183,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소리꾼 ‘이자람’이 JTBC &lt;차이나는 K-클라스&gt;에 출연합니다!\n\n이자람이 들려주는 ‘세상 어디에도 없는 종합예술 판소리’를 추석 연휴 일요일, 방송을 통해 만나실 수 있습니다!!\n\n📺 JTBC &lt;차이나는 K-클라스&gt;\n⏰ 9/11(일) 오전 10:30\n\n✔️ 차이나는 K-클라스 6회 예고편:\nhttps://t.co/PICEhVbOtP"
+	},
+	{
+		"created_at": "Mon Sep 05 06:29:34 +0000 2022",
+		"id": 1566659938004664300,
+		"id_str": "1566674883203010561",
+		"full_text": "9/7 (수) @ 벅스\n[#랄라스윗] 벅스 라디오 &lt;랄라스윗의 이중생활&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566659875656310800,
+		"in_reply_to_status_id_str": "1566659875656310784",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 your summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 슬릭, 아마도이자람밴드, 우주왕복선싸이드미러, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2287,
+			"friends_count": 20,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509898501031079936/2_2E7tDV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "9/7 (수) @ 벅스\n[#랄라스윗] 벅스 라디오 &lt;랄라스윗의 이중생활&gt;"
+	},
+	{
 		"created_at": "Mon Sep 05 05:29:44 +0000 2022",
 		"id": 1566650862910378000,
 		"id_str": "1566659827316785153",
