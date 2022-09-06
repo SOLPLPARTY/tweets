@@ -1,6 +1,802 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 09:29:53 +0000 2022",
+		"id": 1567079249605181400,
+		"id_str": "1567082651806302209",
+		"full_text": "🎉#알렉벤자민 11월 25일 단독 내한🙌\n대극장에서 라이브 들을 생각하니 설렘 ˶ ̇ ̮ ̇˶\n\n▶공연일시 : 2022. 11. 25. (금) 오후 8시\n▶공연장소 : 세종문화회관 대극장\n▶예매처 :\n위메프 https://t.co/WynkBvRDMC\n인터파크 https://t.co/VEGvjIvqMG\n세종문화티켓 https://t.co/5Cnk70A2D8 https://t.co/mmzhar9Kro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알렉벤자민",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WynkBvRDMC",
+					"expanded_url": "https://lrl.kr/V6h",
+					"display_url": "lrl.kr/V6h",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/VEGvjIvqMG",
+					"expanded_url": "https://lrl.kr/V6g",
+					"display_url": "lrl.kr/V6g",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/5Cnk70A2D8",
+					"expanded_url": "http://sejongpac.or.kr",
+					"display_url": "sejongpac.or.kr",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567078835165999000,
+					"id_str": "1567078835165999104",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567078835165999104/pu/img/H6nYELtpNpF07Fxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567078835165999104/pu/img/H6nYELtpNpF07Fxv.jpg",
+					"url": "https://t.co/mmzhar9Kro",
+					"display_url": "pic.twitter.com/mmzhar9Kro",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567079249605181440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567078835165999000,
+					"id_str": "1567078835165999104",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567078835165999104/pu/img/H6nYELtpNpF07Fxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567078835165999104/pu/img/H6nYELtpNpF07Fxv.jpg",
+					"url": "https://t.co/mmzhar9Kro",
+					"display_url": "pic.twitter.com/mmzhar9Kro",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567079249605181440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 51134,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567078835165999104/pu/vid/480x852/87W2th1qwgJ9RYEr.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567078835165999104/pu/vid/320x568/3eMmzpQwTdiZBt6l.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567078835165999104/pu/pl/3NVU-upfwga1u7H3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567078835165999104/pu/vid/720x1280/8gWGSAOs17zlxah_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90029,
+			"friends_count": 492,
+			"listed_count": 217,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉#알렉벤자민 11월 25일 단독 내한🙌\n대극장에서 라이브 들을 생각하니 설렘 ˶ ̇ ̮ ̇˶\n\n▶공연일시 : 2022. 11. 25. (금) 오후 8시\n▶공연장소 : 세종문화회관 대극장\n▶예매처 :\n위메프 https://t.co/WynkBvRDMC\n인터파크 https://t.co/VEGvjIvqMG\n세종문화티켓 https://t.co/5Cnk70A2D8 https://t.co/mmzhar9Kro"
+	},
+	{
+		"created_at": "Tue Sep 06 09:29:44 +0000 2022",
+		"id": 1567078560623661000,
+		"id_str": "1567082613541584896",
+		"full_text": "💿NEW MUSIC TODAY💿\n\"YLN Foreign (이정운) - FAST CAR\"를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵https://t.co/wvvc0UmsS4\n\n#warnermusic #warnerkpop #KPOP #YLNForeign #이정운 #FASTCAR #UNCUTPOINT #언컷포인트 @yxnlove @uncutpoint https://t.co/7mh0bEYe3S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "YLNForeign",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "이정운",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "FASTCAR",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "UNCUTPOINT",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "언컷포인트",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yxnlove",
+					"name": "YLN Foreign",
+					"id": 1317476038083891200,
+					"id_str": "1317476038083891205",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"screen_name": "uncutpoint",
+					"name": "UNCUTPOINT",
+					"id": 1357234988559732700,
+					"id_str": "1357234988559732737",
+					"indices": [
+						184,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wvvc0UmsS4",
+					"expanded_url": "http://WMK.lnk.to/10g61U",
+					"display_url": "WMK.lnk.to/10g61U",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567078447905931300,
+					"id_str": "1567078447905931264",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567078447905931264/pu/img/6Wig4k6SJ9Bth7bd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567078447905931264/pu/img/6Wig4k6SJ9Bth7bd.jpg",
+					"url": "https://t.co/7mh0bEYe3S",
+					"display_url": "pic.twitter.com/7mh0bEYe3S",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567078560623661056/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567078447905931300,
+					"id_str": "1567078447905931264",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567078447905931264/pu/img/6Wig4k6SJ9Bth7bd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567078447905931264/pu/img/6Wig4k6SJ9Bth7bd.jpg",
+					"url": "https://t.co/7mh0bEYe3S",
+					"display_url": "pic.twitter.com/7mh0bEYe3S",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1567078560623661056/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 42575,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567078447905931264/pu/vid/720x900/SjqzliNBex2UhS8N.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567078447905931264/pu/pl/nNyg1nH6uscPE48B.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567078447905931264/pu/vid/320x400/7EzKuG0DyhRf-Gl2.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567078447905931264/pu/vid/480x600/s-TSjYO9hIvWXLtB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90029,
+			"friends_count": 492,
+			"listed_count": 217,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n\"YLN Foreign (이정운) - FAST CAR\"를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵https://t.co/wvvc0UmsS4\n\n#warnermusic #warnerkpop #KPOP #YLNForeign #이정운 #FASTCAR #UNCUTPOINT #언컷포인트 @yxnlove @uncutpoint https://t.co/7mh0bEYe3S"
+	},
+	{
+		"created_at": "Tue Sep 06 09:29:37 +0000 2022",
+		"id": 1567076174425395200,
+		"id_str": "1567082583682318337",
+		"full_text": "Enjoy Season 1 DJs’ show for 12 hours straight, with your family and friends!\n \n22°09’09’’12PM (KST)\nRunning Time:12 Hours\n \nSHOWME MUST GO ON!\n\n[SHOWME DAY Line-Up] \nJ.E.B \nMINIMONSTER\nIMLAY \nGINJO\nWill Not Fear \nAnton Borin \nDJ WOW \nDemicat\nDJ co. kr \nMar Vista \nDJ TEZZ \nBRLLNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567076167756435500,
+		"in_reply_to_status_id_str": "1567076167756435458",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11146136,
+			"friends_count": 55,
+			"listed_count": 12583,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Enjoy Season 1 DJs’ show for 12 hours straight, with your family and friends!\n \n22°09’09’’12PM (KST)\nRunning Time:12 Hours\n \nSHOWME MUST GO ON!\n\n[SHOWME DAY Line-Up] \nJ.E.B \nMINIMONSTER\nIMLAY \nGINJO\nWill Not Fear \nAnton Borin \nDJ WOW \nDemicat\nDJ co. kr \nMar Vista \nDJ TEZZ \nBRLLNT"
+	},
+	{
+		"created_at": "Tue Sep 06 09:29:28 +0000 2022",
+		"id": 1567076167756435500,
+		"id_str": "1567082545459650560",
+		"full_text": "ScreaM TOGETHER! \nWe’ve prepared ‘#SHOWMEDAY’ for Korean Thanksgiving holiday season on September 9th.\nFrom NCT’s hidden member J.E.B to iScreaM Vol.8 : Bambi Remix producer BRLLNT, you can meet 12 DJs again with an awesome performance by dance crew Auspicious.\n\n#쇼미데이 https://t.co/CnMocEMxyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWMEDAY",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "쇼미데이",
+					"indices": [
+						263,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567075158363619300,
+					"id_str": "1567075158363619334",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb9ejcaaQAYISKO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb9ejcaaQAYISKO.jpg",
+					"url": "https://t.co/CnMocEMxyy",
+					"display_url": "pic.twitter.com/CnMocEMxyy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567076167756435458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567075158363619300,
+					"id_str": "1567075158363619334",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb9ejcaaQAYISKO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb9ejcaaQAYISKO.jpg",
+					"url": "https://t.co/CnMocEMxyy",
+					"display_url": "pic.twitter.com/CnMocEMxyy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567076167756435458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11146136,
+			"friends_count": 55,
+			"listed_count": 12583,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 1311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ScreaM TOGETHER! \nWe’ve prepared ‘#SHOWMEDAY’ for Korean Thanksgiving holiday season on September 9th.\nFrom NCT’s hidden member J.E.B to iScreaM Vol.8 : Bambi Remix producer BRLLNT, you can meet 12 DJs again with an awesome performance by dance crew Auspicious.\n\n#쇼미데이 https://t.co/CnMocEMxyy"
+	},
+	{
 		"created_at": "Tue Sep 06 09:11:17 +0000 2022",
 		"id": 1567074811209461800,
 		"id_str": "1567077967993487360",
