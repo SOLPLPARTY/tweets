@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 06:58:20 +0000 2022",
+		"id": 1567036853710368800,
+		"id_str": "1567044510340845568",
+		"full_text": "2022 잔다리 라이브 투어 관련 공지입니다\n아래 링크에서 확인하세요!\n\nhttps://t.co/mWnKnhTAa3 https://t.co/avosIGtVIp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mWnKnhTAa3",
+					"expanded_url": "https://m.facebook.com/story.php?story_fbid=pfbid0s7REGjD1LjRtCJeTdpzU9AwaFtBJJsGhgYPs9BLqRhs2z8U3NA8cbokSTMxvVKBfl&id=1625089934231882",
+					"display_url": "m.facebook.com/story.php?stor…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567036845367914500,
+					"id_str": "1567036845367914497",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb87tVYacAEU8W6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb87tVYacAEU8W6.jpg",
+					"url": "https://t.co/avosIGtVIp",
+					"display_url": "pic.twitter.com/avosIGtVIp",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1567036853710368769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567036845367914500,
+					"id_str": "1567036845367914497",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb87tVYacAEU8W6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb87tVYacAEU8W6.jpg",
+					"url": "https://t.co/avosIGtVIp",
+					"display_url": "pic.twitter.com/avosIGtVIp",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1567036853710368769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/LohhUcBR1q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LohhUcBR1q",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 275,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566707746002845696/xssvkDhA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566707746002845696/xssvkDhA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1662367220",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 잔다리 라이브 투어 관련 공지입니다\n아래 링크에서 확인하세요!\n\nhttps://t.co/mWnKnhTAa3 https://t.co/avosIGtVIp"
+	},
+	{
 		"created_at": "Tue Sep 06 05:29:25 +0000 2022",
 		"id": 1567018505848950800,
 		"id_str": "1567022135050207234",
