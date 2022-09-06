@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 02:29:25 +0000 2022",
+		"id": 1566975570961105000,
+		"id_str": "1566976835535179776",
+		"full_text": "#강타, 정규 4집 타이틀 곡 ‘Eyes On You’ MV 티저 오늘 오후 6시 공개!\n성숙한 퍼포먼스 중심의 미니멀+감각적 미장센 선사 예고!\n\n#KANGTA’s 4th album title track ‘#EyesOnYou’ MV teaser with minimal + sensual mise-en-scène will be released today at 6PM (KST)!\n\nhttps://t.co/Fh7qzskXQ4 https://t.co/IO4ZHLNbbE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강타",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "EyesOnYou",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fh7qzskXQ4",
+					"expanded_url": "https://bit.ly/3eeOj8m",
+					"display_url": "bit.ly/3eeOj8m",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566975561142239200,
+					"id_str": "1566975561142239232",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8D-H2aAAAVpWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8D-H2aAAAVpWp.jpg",
+					"url": "https://t.co/IO4ZHLNbbE",
+					"display_url": "pic.twitter.com/IO4ZHLNbbE",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566975570961104897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566975561142239200,
+					"id_str": "1566975561142239232",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8D-H2aAAAVpWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8D-H2aAAAVpWp.jpg",
+					"url": "https://t.co/IO4ZHLNbbE",
+					"display_url": "pic.twitter.com/IO4ZHLNbbE",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566975570961104897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566975561154842600,
+					"id_str": "1566975561154842625",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8D-H5aUAENSU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8D-H5aUAENSU_.jpg",
+					"url": "https://t.co/IO4ZHLNbbE",
+					"display_url": "pic.twitter.com/IO4ZHLNbbE",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566975570961104897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11144983,
+			"friends_count": 55,
+			"listed_count": 12580,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 1066,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#강타, 정규 4집 타이틀 곡 ‘Eyes On You’ MV 티저 오늘 오후 6시 공개!\n성숙한 퍼포먼스 중심의 미니멀+감각적 미장센 선사 예고!\n\n#KANGTA’s 4th album title track ‘#EyesOnYou’ MV teaser with minimal + sensual mise-en-scène will be released today at 6PM (KST)!\n\nhttps://t.co/Fh7qzskXQ4 https://t.co/IO4ZHLNbbE"
+	},
+	{
 		"created_at": "Tue Sep 06 01:58:15 +0000 2022",
 		"id": 1566955178116644900,
 		"id_str": "1566968991679225856",
